@@ -1,5 +1,6 @@
 import { Navigate, Outlet, useLocation } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
+import SessionNotifications from "@/components/SessionNotifications";
 
 export default function RequireAuth() {
   const { user, loading } = useAuth();
@@ -20,5 +21,10 @@ export default function RequireAuth() {
     return <Navigate to="/login" replace state={{ from: location }} />;
   }
 
-  return <Outlet />;
+  return (
+    <>
+      <SessionNotifications />
+      <Outlet />
+    </>
+  );
 }
