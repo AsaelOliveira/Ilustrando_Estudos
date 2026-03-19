@@ -627,6 +627,7 @@ function LobbyView({
   const [onlinePlayers, setOnlinePlayers] = useState<OnlineDuelUser[]>([]);
   const [loadingList, setLoadingList] = useState(true);
   const [accepting, setAccepting] = useState<string | null>(null);
+  const [rejecting, setRejecting] = useState<string | null>(null);
 
   const load = useCallback(async () => {
     if (!user) return;
@@ -773,6 +774,65 @@ function LobbyView({
       return;
     }
     onBattle(duel.id, "challenged");
+  };
+
+  const reject = async (duel: Duel) => {
+    if (!user) return;
+    setRejecting(duel.id);
+
+    const { data: fresh } = await supabase.from("duels").select("status").eq("id", duel.id).single();
+    if (fresh?.status !== "aguardando") {
+      toast({ title: "Desafio indisponível", description: "Esse desafio já não está mais aberto.", variant: "destructive" });
+      setRejecting(null);
+      load();
+      return;
+    }
+
+    const { error: duelError } = await supabase
+      .from("duels")
+      .update({
+        status: "expirado",
+        challenged_finished_at: new Date().toISOString(),
+      })
+      .eq("id", duel.id)
+      .eq("status", "aguardando");
+
+    if (duelError) {
+      setRejecting(null);
+      toast({ title: "Erro", description: "Não foi possível recusar o desafio.", variant: "destructive" });
+      return;
+    }
+
+    const { data: existingScore } = await supabase
+      .from("student_scores")
+      .select("points, missions_completed, streak_days, turma_id, last_mission_date")
+      .eq("user_id", duel.challenger_id)
+      .maybeSingle();
+
+    if (existingScore) {
+      await supabase
+        .from("student_scores")
+        .update({
+          points: (existingScore.points ?? 0) + 1,
+        })
+        .eq("user_id", duel.challenger_id);
+    } else {
+      await supabase.from("student_scores").insert({
+        user_id: duel.challenger_id,
+        turma_id: duel.turma_id,
+        points: 1,
+        missions_completed: 0,
+        streak_days: 0,
+        last_mission_date: null,
+      });
+    }
+
+    setRejecting(null);
+    toast({
+      title: "Desafio recusado",
+      description: "O desafiante recebeu +1 ponto de iniciativa.",
+    });
+    load();
   };
 
   if (!user) {
@@ -957,15 +1017,20 @@ function LobbyView({
                 whileHover={{ scale: 1.01 }}
                 className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
-                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
+                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.mode === "anonimo" ? "bg-slate-900 text-white ring-2 ring-slate-700/40" : c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : "bg-primary/10"}`}>
                   {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🎭" : "⚔️"}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
-                    {c.challenger_display_name}
+                    {c.mode === "anonimo" ? "Desafiante anônimo" : c.challenger_display_name}
                   </p>
+                  {c.mode === "anonimo" ? (
+                    <p className="mt-1 text-[10px] font-heading font-semibold uppercase tracking-[0.22em] text-slate-500">
+                      Identidade oculta • Ninja
+                    </p>
+                  ) : null}
                   <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 font-body text-xs text-muted-foreground">
-                    {c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
+                    {c.mode !== "anonimo" && c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
                     <span>·</span>
                     <span>{c.num_questions} questões</span>
                     <span>·</span>
@@ -983,11 +1048,20 @@ function LobbyView({
                 </div>
                 <button
                   onClick={() => accept(c)}
-                  disabled={accepting === c.id}
+                  disabled={accepting === c.id || rejecting === c.id}
                   className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
                   {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ⚔️"}
                 </button>
+                {c.visibility === "privado" ? (
+                  <button
+                    onClick={() => reject(c)}
+                    disabled={accepting === c.id || rejecting === c.id}
+                    className="btn-tap flex-shrink-0 rounded-xl border border-destructive/25 bg-destructive/5 px-4 py-2.5 font-heading text-xs font-bold text-destructive transition-all hover:bg-destructive/10 disabled:opacity-60"
+                  >
+                    {rejecting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Recusar"}
+                  </button>
+                ) : null}
               </motion.div>
             ))}
           </div>
@@ -1015,6 +1089,10 @@ function LobbyView({
           <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
             <Shield className="mt-0.5 h-3.5 w-3.5 text-destructive flex-shrink-0" />
             <span>Anti-trapaça: sair da aba troca a pergunta por outra!</span>
+          </div>
+          <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
+            <Plus className="mt-0.5 h-3.5 w-3.5 text-primary flex-shrink-0" />
+            <span>Se um desafio privado for recusado, o desafiante recebe <strong className="text-primary">+1 pt</strong> de iniciativa.</span>
           </div>
         </div>
       </div>
