@@ -1,0 +1,407 @@
+[
+  {
+    "id": "mat6-multiplicacao-divisao",
+    "titulo": "Multiplicação e divisão com números naturais",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Operações fundamentais",
+    "resumo": [
+      "A multiplicação representa adições de parcelas iguais e também pode indicar organização em grupos.",
+      "A divisão é usada para repartir em partes iguais ou para descobrir quantas vezes uma quantidade cabe em outra.",
+      "Multiplicação e divisão são operações relacionadas entre si.",
+      "A tabuada e o cálculo mental ajudam na resolução mais rápida de problemas.",
+      "Interpretar corretamente o enunciado é essencial para escolher a operação adequada."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideia de multiplicação",
+        "texto": "Multiplicar significa repetir uma mesma quantidade várias vezes. Quando calculamos 4 x 6, podemos pensar em 4 grupos com 6 elementos cada um, ou em 6 + 6 + 6 + 6. A multiplicação facilita cálculos em situações de repetição.",
+        "dica": "Quando houver grupos com a mesma quantidade, pense primeiro em multiplicação."
+      },
+      {
+        "subtitulo": "Ideia de divisão",
+        "texto": "Dividir significa repartir igualmente ou medir quantas vezes uma quantidade cabe em outra. Em 24 ÷ 6, queremos descobrir quantos grupos de 6 cabem em 24, ou repartir 24 itens em 6 partes iguais. O resultado da divisão é chamado de quociente.",
+        "dica": "Se o problema fala em repartir igualmente, a divisão costuma ser a operação adequada."
+      },
+      {
+        "subtitulo": "Relação entre as operações",
+        "texto": "A multiplicação e a divisão são operações inversas. Se 7 x 8 = 56, então 56 ÷ 8 = 7 e 56 ÷ 7 = 8. Conhecer essa relação ajuda a conferir respostas e a resolver problemas com mais segurança.",
+        "dica": "Sempre que possível, use a operação inversa para verificar um resultado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva 6 x 24.",
+        "passos": [
+          "Podemos pensar em 24 somado 6 vezes.",
+          "Também podemos decompor 24 em 20 + 4.",
+          "Então 6 x 24 = 6 x 20 + 6 x 4 = 120 + 24."
+        ],
+        "resposta": "6 x 24 = 144."
+      },
+      {
+        "enunciado": "Resolva 84 ÷ 7.",
+        "passos": [
+          "Queremos descobrir quantos grupos de 7 cabem em 84.",
+          "Sabemos que 7 x 12 = 84.",
+          "Logo, o quociente é 12."
+        ],
+        "resposta": "84 ÷ 7 = 12."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-multiplicacao-divisao-ex-01",
+        "enunciado": "Qual é o resultado de 7 x 8?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ],
+        "respostaCorreta": "56",
+        "explicacao": "Sete vezes oito é igual a 56.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-02",
+        "enunciado": "Qual é o resultado de 72 ÷ 9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respostaCorreta": "8",
+        "explicacao": "Como 9 x 8 = 72, então 72 ÷ 9 = 8.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-03",
+        "enunciado": "Uma caixa tem 12 fileiras com 5 lápis em cada uma. Quantos lápis há na caixa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "50",
+          "55",
+          "60",
+          "65"
+        ],
+        "respostaCorreta": "60",
+        "explicacao": "São 12 grupos com 5 lápis cada um, então fazemos 12 x 5 = 60.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-04",
+        "enunciado": "Uma professora quer repartir 48 livros igualmente entre 6 grupos. Quantos livros cada grupo receberá?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respostaCorreta": "8",
+        "explicacao": "Como 48 ÷ 6 = 8, cada grupo receberá 8 livros.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-05",
+        "enunciado": "Qual operação resolve melhor a situação: 'Há 9 caixas com 14 bombons em cada uma'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adição",
+          "subtração",
+          "multiplicação",
+          "divisão"
+        ],
+        "respostaCorreta": "multiplicação",
+        "explicacao": "Como há grupos iguais, a operação mais adequada é a multiplicação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-06",
+        "enunciado": "Qual é o resultado de 13 x 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "42",
+          "48",
+          "52",
+          "56"
+        ],
+        "respostaCorreta": "52",
+        "explicacao": "Treze vezes quatro é igual a 52.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-07",
+        "enunciado": "Qual é o quociente de 96 ÷ 12?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respostaCorreta": "8",
+        "explicacao": "Como 12 x 8 = 96, o quociente é 8.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-08",
+        "enunciado": "Uma escola vai organizar 84 alunos em 7 filas iguais. Quantos alunos ficarão em cada fila?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Dividindo 84 por 7, obtemos 12 alunos por fila.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-09",
+        "enunciado": "Qual alternativa apresenta o resultado de 25 x 6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "120",
+          "130",
+          "140",
+          "150"
+        ],
+        "respostaCorreta": "150",
+        "explicacao": "Vinte e cinco vezes seis é igual a 150.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-10",
+        "enunciado": "Qual divisão está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "63 ÷ 7 = 8",
+          "63 ÷ 9 = 8",
+          "63 ÷ 7 = 9",
+          "63 ÷ 6 = 9"
+        ],
+        "respostaCorreta": "63 ÷ 7 = 9",
+        "explicacao": "Como 7 x 9 = 63, então 63 ÷ 7 = 9.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-11",
+        "enunciado": "Qual é o resultado de 18 x 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ],
+        "respostaCorreta": "54",
+        "explicacao": "Dezoito vezes três resulta em 54.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-12",
+        "enunciado": "Se 56 balas forem divididas igualmente entre 8 crianças, quantas balas cada criança receberá?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respostaCorreta": "7",
+        "explicacao": "Como 56 ÷ 8 = 7, cada criança receberá 7 balas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-13",
+        "enunciado": "Qual multiplicação corresponde à adição 9 + 9 + 9 + 9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9 x 3",
+          "9 x 4",
+          "4 x 5",
+          "4 x 9 + 1"
+        ],
+        "respostaCorreta": "9 x 4",
+        "explicacao": "A adição repete o número 9 quatro vezes, portanto corresponde a 9 x 4.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-14",
+        "enunciado": "Qual alternativa completa corretamente a igualdade 7 x ___ = 63?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "respostaCorreta": "9",
+        "explicacao": "Como 7 x 9 = 63, o fator que falta é 9.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-15",
+        "enunciado": "Qual alternativa mostra a relação correta entre multiplicação e divisão?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Se 8 x 6 = 48, então 48 ÷ 8 = 7.",
+          "Se 8 x 6 = 48, então 48 ÷ 6 = 8.",
+          "Se 8 x 6 = 48, então 48 ÷ 4 = 8.",
+          "Se 8 x 6 = 48, então 48 ÷ 8 = 5."
+        ],
+        "respostaCorreta": "Se 8 x 6 = 48, então 48 ÷ 6 = 8.",
+        "explicacao": "Multiplicação e divisão são operações inversas, por isso 48 ÷ 6 = 8.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-16",
+        "enunciado": "Uma fábrica embala 24 garrafas em cada caixa. Quantas garrafas há em 5 caixas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "100",
+          "110",
+          "120",
+          "130"
+        ],
+        "respostaCorreta": "120",
+        "explicacao": "São 5 caixas com 24 garrafas em cada uma, então 24 x 5 = 120.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-17",
+        "enunciado": "Qual alternativa apresenta o resultado de 144 ÷ 12?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Como 12 x 12 = 144, o quociente é 12.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-18",
+        "enunciado": "Qual alternativa apresenta um problema de divisão?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Há 6 pacotes com 8 biscoitos em cada um.",
+          "Uma turma será dividida igualmente em 4 grupos.",
+          "Carlos juntou 15 figurinhas com mais 12.",
+          "Restaram 30 reais depois de uma compra."
+        ],
+        "respostaCorreta": "Uma turma será dividida igualmente em 4 grupos.",
+        "explicacao": "A ideia de repartir igualmente indica uma situação de divisão.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-19",
+        "enunciado": "Um aluno afirmou que 84 ÷ 6 = 16. Qual alternativa avalia corretamente essa afirmação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Está correta, porque 6 x 16 = 84.",
+          "Está incorreta, porque 6 x 14 = 84.",
+          "Está correta, porque 84 é maior que 16.",
+          "Está incorreta, porque toda divisão por 6 tem resultado par."
+        ],
+        "respostaCorreta": "Está incorreta, porque 6 x 14 = 84.",
+        "explicacao": "A operação inversa mostra que o quociente correto é 14.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-ex-20",
+        "enunciado": "Qual alternativa apresenta um resultado maior que 210?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "18 x 9",
+          "24 x 8",
+          "36 x 6",
+          "17 x 12"
+        ],
+        "respostaCorreta": "36 x 6",
+        "explicacao": "Calculando, temos 18 x 9 = 162, 24 x 8 = 192, 36 x 6 = 216 e 17 x 12 = 204. Apenas 36 x 6 é maior que 210.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-multiplicacao-divisao-sim-01",
+        "enunciado": "Uma escola comprou 8 caixas com 36 lápis em cada uma. Quantos lápis foram comprados ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "248",
+          "268",
+          "288",
+          "308"
+        ],
+        "respostaCorreta": "288",
+        "explicacao": "Multiplicamos 8 por 36 e obtemos 288.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-sim-02",
+        "enunciado": "Em uma excursão, 132 alunos foram acomodados igualmente em 11 ônibus. Quantos alunos ficaram em cada ônibus?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Como 132 ÷ 11 = 12, cada ônibus levou 12 alunos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-sim-03",
+        "enunciado": "Qual alternativa apresenta corretamente a operação inversa de 15 x 7 = 105?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "105 ÷ 15 = 6",
+          "105 ÷ 7 = 15",
+          "105 ÷ 5 = 21",
+          "105 ÷ 3 = 35"
+        ],
+        "respostaCorreta": "105 ÷ 7 = 15",
+        "explicacao": "Se 15 x 7 = 105, então 105 ÷ 7 = 15 e 105 ÷ 15 = 7.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-sim-04",
+        "enunciado": "Uma gráfica imprimiu 27 blocos com 14 folhas em cada um. Quantas folhas foram impressas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "358",
+          "368",
+          "378",
+          "388"
+        ],
+        "respostaCorreta": "378",
+        "explicacao": "Multiplicando 27 por 14, encontramos 378 folhas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplicacao-divisao-sim-05",
+        "enunciado": "Se 96 ÷ 8 = 12, qual alternativa também é verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12 ÷ 8 = 96",
+          "8 x 12 = 96",
+          "96 x 8 = 12",
+          "12 x 96 = 8"
+        ],
+        "respostaCorreta": "8 x 12 = 96",
+        "explicacao": "A multiplicação correspondente confirma a divisão realizada.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

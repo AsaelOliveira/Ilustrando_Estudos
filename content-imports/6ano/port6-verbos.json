@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-verbos",
+    "titulo": "Verbos",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Verbo é a palavra que indica ação, estado, mudança de estado, fenômeno da natureza ou acontecimento.",
+      "Os verbos variam de acordo com a pessoa, o número, o tempo e o modo.",
+      "Na frase, o verbo costuma ser a palavra que mostra o que acontece ou a situação em que alguém se encontra.",
+      "Os tempos verbais ajudam a localizar a ação no presente, no passado ou no futuro.",
+      "Reconhecer o verbo é fundamental para compreender a estrutura e o sentido das frases."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é verbo",
+        "texto": "Verbo é a palavra que expressa ação, estado, mudança de estado, fenômeno da natureza ou acontecimento. Em Ana estuda todos os dias, a palavra estuda indica a ação realizada por Ana. Em Pedro estava cansado, o verbo estava indica um estado. Em Choveu à tarde, o verbo choveu indica um fenômeno da natureza.",
+        "dica": "Procure a palavra que mostra o que alguém faz, sente, é ou o que acontece na frase."
+      },
+      {
+        "subtitulo": "Tempos verbais",
+        "texto": "Os verbos podem indicar ações em tempos diferentes. No presente, a ação ocorre agora ou costuma ocorrer: eu estudo. No passado, a ação já aconteceu: eu estudei. No futuro, a ação ainda vai acontecer: eu estudarei. Essa variação ajuda a localizar os fatos no tempo.",
+        "dica": "Observe se a frase fala de algo que acontece agora, que já aconteceu ou que ainda vai acontecer."
+      },
+      {
+        "subtitulo": "Verbo e sentido da frase",
+        "texto": "O verbo é uma palavra central na frase, porque organiza a informação principal do que está sendo dito. Sem ele, muitas frases ficam incompletas ou perdem clareza. Por isso, identificar o verbo ajuda muito na leitura, na interpretação e na escrita.",
+        "dica": "Ao ler uma frase, tente encontrar primeiro o verbo. Isso ajuda a compreender o restante da informação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"Os alunos estudam pela manhã\".",
+        "passos": [
+          "A frase fala sobre o que os alunos fazem.",
+          "A palavra estudam indica a ação realizada pelos alunos.",
+          "Por isso, estudam é o verbo da frase."
+        ],
+        "resposta": "Na frase, a palavra \"estudam\" é o verbo."
+      },
+      {
+        "enunciado": "Observe a frase \"Ontem choveu muito\".",
+        "passos": [
+          "A palavra choveu indica um fenômeno da natureza.",
+          "Além disso, a presença de ontem mostra que a ação aconteceu no passado.",
+          "Assim, choveu é um verbo no passado."
+        ],
+        "resposta": "Na frase, \"choveu\" é verbo e indica uma ação ocorrida no passado."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-verbos-ex-01",
+        "enunciado": "Qual alternativa apresenta um verbo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escola",
+          "feliz",
+          "correr",
+          "amarelo"
+        ],
+        "respostaCorreta": "correr",
+        "explicacao": "Correr é verbo porque indica uma ação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-verbos-ex-02",
+        "enunciado": "Na frase \"A turma estudou para a prova\", qual palavra é verbo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "turma",
+          "prova",
+          "estudou",
+          "para"
+        ],
+        "respostaCorreta": "estudou",
+        "explicacao": "Estudou é o verbo porque indica a ação realizada pela turma.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-verbos-ex-03",
+        "enunciado": "Qual alternativa apresenta um verbo no presente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cantou",
+          "canta",
+          "cantará",
+          "cantaria"
+        ],
+        "respostaCorreta": "canta",
+        "explicacao": "Canta indica uma ação no presente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-verbos-ex-04",
+        "enunciado": "Assinale a alternativa que apresenta um verbo no passado.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "brinca",
+          "brincou",
+          "brincará",
+          "brincando"
+        ],
+        "respostaCorreta": "brincou",
+        "explicacao": "Brincou indica uma ação que já aconteceu, por isso está no passado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-verbos-ex-05",
+        "enunciado": "Qual alternativa apresenta um verbo no futuro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "chega",
+          "chegou",
+          "chegará",
+          "chegava"
+        ],
+        "respostaCorreta": "chegará",
+        "explicacao": "Chegará indica uma ação que ainda vai acontecer, por isso está no futuro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-verbos-ex-06",
+        "enunciado": "Na frase \"O menino está cansado\", o verbo indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma cor",
+          "um estado",
+          "um lugar",
+          "uma quantidade"
+        ],
+        "respostaCorreta": "um estado",
+        "explicacao": "O verbo está indica o estado em que o menino se encontra.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-07",
+        "enunciado": "Qual frase apresenta um verbo que indica fenômeno da natureza?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos chegaram cedo.",
+          "A professora explicou a atividade.",
+          "Ventou durante a noite.",
+          "A turma copiou o texto."
+        ],
+        "respostaCorreta": "Ventou durante a noite.",
+        "explicacao": "Ventou é verbo que indica fenômeno da natureza.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-08",
+        "enunciado": "Qual alternativa apresenta apenas verbos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correr, cantar, brincar",
+          "caderno, estudar, feliz",
+          "bonito, correr, escola",
+          "livro, mesa, cadeira"
+        ],
+        "respostaCorreta": "correr, cantar, brincar",
+        "explicacao": "As três palavras da alternativa correta são verbos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-09",
+        "enunciado": "Na frase \"Nós leremos o texto amanhã\", o verbo está no:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "presente",
+          "passado",
+          "futuro",
+          "plural do passado"
+        ],
+        "respostaCorreta": "futuro",
+        "explicacao": "Leremos indica uma ação que ocorrerá depois, portanto está no futuro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-10",
+        "enunciado": "Qual alternativa completa corretamente a frase \"Ontem eu ___ a lição\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "faço",
+          "fiz",
+          "farei",
+          "faça"
+        ],
+        "respostaCorreta": "fiz",
+        "explicacao": "A palavra ontem indica passado, por isso a forma verbal adequada é fiz.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-11",
+        "enunciado": "Em qual alternativa o verbo indica ação habitual no presente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela estudou ontem.",
+          "Ela estuda todos os dias.",
+          "Ela estudará amanhã.",
+          "Ela estudaria mais."
+        ],
+        "respostaCorreta": "Ela estuda todos os dias.",
+        "explicacao": "O verbo estuda indica uma ação habitual no presente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre os verbos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os verbos servem apenas para nomear pessoas.",
+          "Os verbos indicam ação, estado ou acontecimento.",
+          "Os verbos nunca variam de tempo.",
+          "Os verbos substituem os substantivos."
+        ],
+        "respostaCorreta": "Os verbos indicam ação, estado ou acontecimento.",
+        "explicacao": "Essa alternativa apresenta corretamente a função dos verbos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-13",
+        "enunciado": "Qual alternativa mostra corretamente um verbo no passado, um no presente e um no futuro, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "falou, fala, falará",
+          "fala, falou, falará",
+          "falará, fala, falou",
+          "fala, falará, falou"
+        ],
+        "respostaCorreta": "falou, fala, falará",
+        "explicacao": "Falou está no passado, fala no presente e falará no futuro.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-verbos-ex-14",
+        "enunciado": "Na frase \"As crianças dormiram cedo\", o verbo concorda com:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cedo",
+          "crianças",
+          "as",
+          "frase"
+        ],
+        "respostaCorreta": "crianças",
+        "explicacao": "O verbo dormiram concorda com o sujeito crianças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-ex-15",
+        "enunciado": "Qual alternativa apresenta uma frase com verbo empregado corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos estuda para a prova.",
+          "A turma fizeram a atividade.",
+          "A professora explicou o conteúdo.",
+          "Nós copia o exercício."
+        ],
+        "respostaCorreta": "A professora explicou o conteúdo.",
+        "explicacao": "Nessa frase, o verbo explicou está empregado corretamente.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-verbos-sim-01",
+        "enunciado": "Leia a frase: \"Amanhã os estudantes participarão da feira.\" Em que tempo está o verbo destacado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "presente",
+          "passado",
+          "futuro",
+          "pretérito imperfeito"
+        ],
+        "respostaCorreta": "futuro",
+        "explicacao": "Participarão indica uma ação que ainda vai acontecer, por isso está no futuro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-sim-02",
+        "enunciado": "Em qual alternativa o verbo expressa estado, e não ação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O aluno correu para a sala.",
+          "A menina estava contente.",
+          "A turma escreveu o texto.",
+          "Os atletas saltaram longe."
+        ],
+        "respostaCorreta": "A menina estava contente.",
+        "explicacao": "O verbo estava indica o estado da menina, e não uma ação.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-verbos-sim-03",
+        "enunciado": "Qual alternativa apresenta somente formas verbais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estudo, leio, escrevo",
+          "escola, leio, rápido",
+          "bonito, livro, estudo",
+          "caderno, escola, mesa"
+        ],
+        "respostaCorreta": "estudo, leio, escrevo",
+        "explicacao": "As três palavras da alternativa correta são formas verbais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-verbos-sim-04",
+        "enunciado": "Assinale a alternativa correta sobre a importância do verbo na frase.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O verbo é dispensável em qualquer frase.",
+          "O verbo ajuda a organizar a informação principal do enunciado.",
+          "O verbo só aparece em frases no passado.",
+          "O verbo nunca concorda com o sujeito."
+        ],
+        "respostaCorreta": "O verbo ajuda a organizar a informação principal do enunciado.",
+        "explicacao": "O verbo é uma palavra central na frase, pois ajuda a indicar o que acontece ou qual é o estado expresso.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-verbos-sim-05",
+        "enunciado": "Na frase \"Ontem choveu e hoje faz sol\", quantos verbos aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um",
+          "dois",
+          "três",
+          "quatro"
+        ],
+        "respostaCorreta": "dois",
+        "explicacao": "Na frase aparecem os verbos choveu e faz.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

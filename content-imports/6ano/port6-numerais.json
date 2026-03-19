@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-numerais",
+    "titulo": "Numerais",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Numeral é a palavra que indica quantidade, ordem, multiplicação ou fração.",
+      "Os numerais podem ser cardinais, ordinais, multiplicativos ou fracionários.",
+      "Palavras como um, dois e cem são numerais cardinais.",
+      "Palavras como primeiro, segundo e terceiro são numerais ordinais.",
+      "Reconhecer os numerais ajuda a interpretar com precisão informações presentes em frases e textos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são numerais",
+        "texto": "Numerais são palavras que indicam quantidade, posição em uma sequência, multiplicação ou divisão em partes. Em frases como três alunos chegaram cedo e ela ficou em segundo lugar, as palavras três e segundo são numerais. Esses termos ajudam a tornar a informação mais precisa.",
+        "dica": "Observe se a palavra está indicando número, ordem, multiplicação ou fração."
+      },
+      {
+        "subtitulo": "Principais tipos de numerais",
+        "texto": "Os numerais cardinais indicam quantidade exata, como um, dois e dez. Os ordinais indicam posição ou ordem, como primeiro, segundo e décimo. Os multiplicativos mostram multiplicação, como dobro e triplo. Já os fracionários indicam partes de um todo, como meio e um terço.",
+        "dica": "Pergunte se a palavra mostra quantidade, posição, multiplicação ou divisão em partes."
+      },
+      {
+        "subtitulo": "Numerais no cotidiano",
+        "texto": "Os numerais aparecem em datas, endereços, rankings, listas, capítulos, receitas e problemas matemáticos. Por isso, eles são muito usados em diferentes textos. Entender os numerais ajuda o aluno a ler e a produzir informações com maior precisão.",
+        "dica": "Ao encontrar um numeral, tente identificar a informação exata que ele acrescenta ao texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"Dois alunos apresentaram o trabalho\".",
+        "passos": [
+          "A palavra dois indica quantidade.",
+          "Ela informa exatamente quantos alunos apresentaram o trabalho.",
+          "Por isso, dois é um numeral cardinal."
+        ],
+        "resposta": "Na frase, a palavra \"dois\" é um numeral cardinal."
+      },
+      {
+        "enunciado": "Observe a frase \"Marina chegou em primeiro lugar\".",
+        "passos": [
+          "A palavra primeiro indica posição em uma sequência.",
+          "Ela mostra a colocação de Marina.",
+          "Por isso, primeiro é um numeral ordinal."
+        ],
+        "resposta": "Na frase, a palavra \"primeiro\" é um numeral ordinal."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-numerais-ex-01",
+        "enunciado": "Qual alternativa apresenta um numeral?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "três",
+          "caderno",
+          "alegre",
+          "rapidamente"
+        ],
+        "respostaCorreta": "três",
+        "explicacao": "Três é numeral porque indica quantidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-02",
+        "enunciado": "Na frase \"O aluno ficou em segundo lugar\", a palavra \"segundo\" é um numeral:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cardinal",
+          "ordinal",
+          "multiplicativo",
+          "fracionário"
+        ],
+        "respostaCorreta": "ordinal",
+        "explicacao": "Segundo indica posição em uma sequência, por isso é numeral ordinal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-03",
+        "enunciado": "Qual alternativa apresenta um numeral cardinal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dobro",
+          "segundo",
+          "quatro",
+          "meio"
+        ],
+        "respostaCorreta": "quatro",
+        "explicacao": "Quatro indica quantidade exata, por isso é numeral cardinal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-04",
+        "enunciado": "Qual alternativa apresenta um numeral fracionário?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "primeiro",
+          "triplo",
+          "meio",
+          "sete"
+        ],
+        "respostaCorreta": "meio",
+        "explicacao": "Meio indica parte de um todo, por isso é numeral fracionário.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-05",
+        "enunciado": "Assinale a alternativa que apresenta um numeral multiplicativo.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dobro",
+          "terceiro",
+          "oito",
+          "metade"
+        ],
+        "respostaCorreta": "dobro",
+        "explicacao": "Dobro indica multiplicação por dois, por isso é numeral multiplicativo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-06",
+        "enunciado": "Na frase \"Chegaram cinco estudantes\", o numeral indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "posição",
+          "quantidade",
+          "divisão",
+          "multiplicação"
+        ],
+        "respostaCorreta": "quantidade",
+        "explicacao": "Cinco informa quantos estudantes chegaram.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-07",
+        "enunciado": "Qual alternativa apresenta um numeral ordinal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "primeiro",
+          "duas",
+          "metade",
+          "triplo"
+        ],
+        "respostaCorreta": "primeiro",
+        "explicacao": "Primeiro indica ordem ou posição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-numerais-ex-08",
+        "enunciado": "Na expressão \"um terço\", o numeral indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ordem",
+          "parte de um todo",
+          "adição",
+          "negação"
+        ],
+        "respostaCorreta": "parte de um todo",
+        "explicacao": "Um terço é numeral fracionário e indica divisão do todo em partes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-09",
+        "enunciado": "Qual alternativa apresenta somente numerais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dois, terceiro, dobro",
+          "dois, escola, dobro",
+          "terceiro, bonito, meio",
+          "livro, metade, sete"
+        ],
+        "respostaCorreta": "dois, terceiro, dobro",
+        "explicacao": "As três palavras da alternativa correta são numerais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-10",
+        "enunciado": "Na frase \"A equipe conquistou o primeiro lugar\", o numeral ajuda a indicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quantidade",
+          "posição",
+          "negação",
+          "modo"
+        ],
+        "respostaCorreta": "posição",
+        "explicacao": "Primeiro indica a colocação da equipe, portanto expressa posição.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-11",
+        "enunciado": "Qual alternativa apresenta a classificação correta da palavra \"triplo\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "numeral cardinal",
+          "numeral ordinal",
+          "numeral multiplicativo",
+          "numeral fracionário"
+        ],
+        "respostaCorreta": "numeral multiplicativo",
+        "explicacao": "Triplo indica multiplicação por três.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre os numerais.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os numerais indicam apenas sentimentos.",
+          "Os numerais podem indicar quantidade, ordem, multiplicação ou fração.",
+          "Os numerais substituem sempre os verbos.",
+          "Os numerais não aparecem em textos do cotidiano."
+        ],
+        "respostaCorreta": "Os numerais podem indicar quantidade, ordem, multiplicação ou fração.",
+        "explicacao": "Essa alternativa apresenta corretamente os principais usos dos numerais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-13",
+        "enunciado": "Qual alternativa apresenta uma frase sem numeral?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Chegaram três colegas.",
+          "Ela leu o segundo capítulo.",
+          "A turma estudou bastante.",
+          "Ele comeu metade do bolo."
+        ],
+        "respostaCorreta": "A turma estudou bastante.",
+        "explicacao": "Nessa frase não aparece nenhuma palavra com valor numeral.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-numerais-ex-14",
+        "enunciado": "Qual alternativa apresenta um uso correto de numeral ordinal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela terminou em terceiro lugar.",
+          "Ela terminou em três lugar.",
+          "Ela terminou em dobro lugar.",
+          "Ela terminou em metade lugar."
+        ],
+        "respostaCorreta": "Ela terminou em terceiro lugar.",
+        "explicacao": "Terceiro é numeral ordinal e indica posição.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre os numerais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles ajudam a tornar as informações mais exatas.",
+          "Eles servem apenas para decorar textos.",
+          "Eles são usados somente em livros de matemática.",
+          "Eles não têm relação com a leitura."
+        ],
+        "respostaCorreta": "Eles ajudam a tornar as informações mais exatas.",
+        "explicacao": "Os numerais dão precisão a informações de quantidade, ordem, multiplicação e fração.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-numerais-sim-01",
+        "enunciado": "Na frase \"Os dois primeiros colocados receberão medalhas\", quais tipos de numeral aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cardinal e ordinal",
+          "ordinal e fracionário",
+          "multiplicativo e cardinal",
+          "fracionário e multiplicativo"
+        ],
+        "respostaCorreta": "cardinal e ordinal",
+        "explicacao": "Dois é numeral cardinal, e primeiros é numeral ordinal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-sim-02",
+        "enunciado": "Qual alternativa apresenta corretamente um numeral fracionário?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quarto, em \"quarto lugar\"",
+          "quarto, em \"um quarto do bolo\"",
+          "quatro, em \"quatro colegas\"",
+          "dobro, em \"o dobro da nota\""
+        ],
+        "respostaCorreta": "quarto, em \"um quarto do bolo\"",
+        "explicacao": "Nesse contexto, quarto indica fração de um todo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-numerais-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre o uso dos numerais.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles servem apenas para indicar quantidade.",
+          "Eles podem aparecer em listas, datas, receitas e rankings.",
+          "Eles não aparecem em textos do cotidiano.",
+          "Eles substituem a função dos artigos."
+        ],
+        "respostaCorreta": "Eles podem aparecer em listas, datas, receitas e rankings.",
+        "explicacao": "Os numerais são muito usados em diferentes situações do dia a dia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-sim-04",
+        "enunciado": "Em qual alternativa o numeral foi corretamente classificado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "meio - numeral fracionário",
+          "segundo - numeral cardinal",
+          "dobro - numeral ordinal",
+          "três - numeral multiplicativo"
+        ],
+        "respostaCorreta": "meio - numeral fracionário",
+        "explicacao": "Meio indica uma parte de um todo, por isso é numeral fracionário.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-numerais-sim-05",
+        "enunciado": "Qual alternativa apresenta uma frase construída com uso adequado de numeral?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele ficou em dois lugar.",
+          "A turma leu o terceiro capítulo.",
+          "Ela bebeu triplo de água metade.",
+          "Os alunos chegaram em primeiros lugares."
+        ],
+        "respostaCorreta": "A turma leu o terceiro capítulo.",
+        "explicacao": "A frase usa corretamente o numeral ordinal terceiro para indicar ordem.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

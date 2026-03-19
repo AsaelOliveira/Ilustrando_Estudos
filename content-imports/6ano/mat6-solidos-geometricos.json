@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-solidos-geometricos",
+    "titulo": "Sólidos geométricos",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Sólidos geométricos são figuras espaciais, isto é, possuem três dimensões.",
+      "Cubo, paralelepípedo, cilindro, cone e esfera são exemplos de sólidos geométricos.",
+      "Alguns sólidos possuem faces planas, arestas e vértices.",
+      "Outros sólidos, como cilindro, cone e esfera, apresentam superfícies curvas.",
+      "Os sólidos geométricos aparecem em muitos objetos do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Figuras espaciais",
+        "texto": "Diferentemente das figuras planas, os sólidos geométricos ocupam espaço e possuem comprimento, largura e altura. Eles estão presentes em caixas, latas, bolas, dados e outros objetos do cotidiano.",
+        "dica": "Pense em objetos que podem ser segurados ou empilhados para lembrar dos sólidos geométricos."
+      },
+      {
+        "subtitulo": "Elementos dos sólidos",
+        "texto": "Em muitos sólidos, como cubos e prismas, encontramos faces, arestas e vértices. As faces são as superfícies planas, as arestas são os encontros entre duas faces, e os vértices são os pontos em que as arestas se encontram.",
+        "dica": "Observe um dado para identificar faces, arestas e vértices com facilidade."
+      },
+      {
+        "subtitulo": "Superfícies curvas",
+        "texto": "Alguns sólidos têm superfícies curvas, como o cilindro, o cone e a esfera. Neles, nem sempre encontraremos faces planas e vértices da mesma forma que em cubos e prismas.",
+        "dica": "Latas e bolas ajudam a visualizar bem as superfícies curvas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Identifique o sólido de uma caixa de sapato.",
+        "passos": [
+          "A caixa tem formato de bloco retangular.",
+          "Ela possui faces planas retangulares.",
+          "Esse sólido é chamado de paralelepípedo."
+        ],
+        "resposta": "Uma caixa de sapato tem forma aproximada de paralelepípedo."
+      },
+      {
+        "enunciado": "Identifique o sólido de uma bola.",
+        "passos": [
+          "A bola possui superfície totalmente curva.",
+          "Ela não tem arestas nem vértices.",
+          "Esse sólido é a esfera."
+        ],
+        "resposta": "Uma bola tem forma de esfera."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-solidos-geometricos-ex-01",
+        "enunciado": "Qual sólido se parece com um dado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cilindro",
+          "cone",
+          "cubo",
+          "esfera"
+        ],
+        "respostaCorreta": "cubo",
+        "explicacao": "O dado possui seis faces quadradas, como o cubo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-02",
+        "enunciado": "Qual sólido se parece com uma lata de refrigerante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "esfera",
+          "cilindro",
+          "cone",
+          "cubo"
+        ],
+        "respostaCorreta": "cilindro",
+        "explicacao": "A lata tem duas bases circulares e uma superfície lateral curva, como o cilindro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-03",
+        "enunciado": "Qual sólido se parece com uma bola?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cubo",
+          "cone",
+          "esfera",
+          "prisma"
+        ],
+        "respostaCorreta": "esfera",
+        "explicacao": "A esfera possui superfície curva em toda a sua extensão, como uma bola.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-04",
+        "enunciado": "Qual elemento corresponde ao encontro de duas faces?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vértice",
+          "aresta",
+          "base",
+          "superfície curva"
+        ],
+        "respostaCorreta": "aresta",
+        "explicacao": "A aresta é a linha de encontro entre duas faces planas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-05",
+        "enunciado": "Qual elemento corresponde ao encontro de arestas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vértice",
+          "face",
+          "altura",
+          "curva"
+        ],
+        "respostaCorreta": "vértice",
+        "explicacao": "O vértice é o ponto de encontro entre arestas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-06",
+        "enunciado": "Qual sólido possui faces planas e formato semelhante ao de uma caixa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "paralelepípedo",
+          "esfera",
+          "cone",
+          "cilindro"
+        ],
+        "respostaCorreta": "paralelepípedo",
+        "explicacao": "Caixas costumam ter forma de paralelepípedo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-07",
+        "enunciado": "Qual sólido possui uma base circular e um vértice?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cilindro",
+          "cone",
+          "esfera",
+          "cubo"
+        ],
+        "respostaCorreta": "cone",
+        "explicacao": "O cone possui uma base circular e um vértice na ponta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-08",
+        "enunciado": "Qual sólido não possui arestas nem vértices?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cubo",
+          "cilindro",
+          "esfera",
+          "paralelepípedo"
+        ],
+        "respostaCorreta": "esfera",
+        "explicacao": "A esfera é totalmente curva, sem arestas e sem vértices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas sólidos com superfícies planas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cubo e paralelepípedo",
+          "cilindro e cone",
+          "esfera e cubo",
+          "cone e esfera"
+        ],
+        "respostaCorreta": "cubo e paralelepípedo",
+        "explicacao": "Esses dois sólidos são formados por faces planas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-10",
+        "enunciado": "Qual alternativa apresenta um objeto que lembra uma esfera?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma caixa de leite",
+          "uma bola de futebol",
+          "uma lata",
+          "um dado"
+        ],
+        "respostaCorreta": "uma bola de futebol",
+        "explicacao": "A bola de futebol tem forma semelhante à esfera.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-11",
+        "enunciado": "Qual alternativa está correta sobre o cilindro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Possui somente faces quadradas.",
+          "Possui duas bases circulares e superfície lateral curva.",
+          "Não possui superfície curva.",
+          "Tem formato de bola."
+        ],
+        "respostaCorreta": "Possui duas bases circulares e superfície lateral curva.",
+        "explicacao": "Essa é a descrição correta do cilindro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-12",
+        "enunciado": "Um aluno disse que a esfera tem vértices. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque a esfera não tem vértices",
+          "correta, porque toda figura espacial tem vértices",
+          "incorreta, porque a esfera é plana"
+        ],
+        "respostaCorreta": "incorreta, porque a esfera não tem vértices",
+        "explicacao": "A esfera possui apenas superfície curva.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-13",
+        "enunciado": "Qual alternativa apresenta um sólido com superfície curva e sem vértice?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cone",
+          "cilindro",
+          "cubo",
+          "paralelepípedo"
+        ],
+        "respostaCorreta": "cilindro",
+        "explicacao": "O cilindro tem superfície curva e não possui vértice.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-14",
+        "enunciado": "Qual alternativa diferencia corretamente figuras planas e sólidos geométricos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Figuras planas ocupam espaço; sólidos não.",
+          "Sólidos geométricos possuem três dimensões; figuras planas possuem duas.",
+          "Figuras planas têm volume; sólidos não.",
+          "Não há diferença entre elas."
+        ],
+        "respostaCorreta": "Sólidos geométricos possuem três dimensões; figuras planas possuem duas.",
+        "explicacao": "Essa é a diferença principal entre figuras planas e sólidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-ex-15",
+        "enunciado": "Qual alternativa apresenta um objeto com forma aproximada de cone?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "casquinha de sorvete",
+          "dado",
+          "caixa de sapato",
+          "bola"
+        ],
+        "respostaCorreta": "casquinha de sorvete",
+        "explicacao": "A casquinha de sorvete tem forma aproximada de cone.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-solidos-geometricos-sim-01",
+        "enunciado": "Qual alternativa apresenta apenas sólidos com superfícies curvas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cilindro e esfera",
+          "cubo e cone",
+          "paralelepípedo e cubo",
+          "prisma e cilindro"
+        ],
+        "respostaCorreta": "cilindro e esfera",
+        "explicacao": "Os dois apresentam superfícies curvas; o cilindro também possui bases planas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Todo sólido geométrico tem vértices'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque há sólidos sem vértices, como a esfera e o cilindro.",
+          "A frase é verdadeira apenas para cubos.",
+          "A frase é falsa, porque sólidos não têm faces."
+        ],
+        "respostaCorreta": "A frase é falsa, porque há sólidos sem vértices, como a esfera e o cilindro.",
+        "explicacao": "Nem todo sólido possui vértices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-sim-03",
+        "enunciado": "Uma caixa de presente em forma de dado tem o formato de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "esfera",
+          "cone",
+          "cubo",
+          "cilindro"
+        ],
+        "respostaCorreta": "cubo",
+        "explicacao": "O dado é um exemplo clássico de cubo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-sim-04",
+        "enunciado": "Qual alternativa apresenta um sólido que possui uma base circular e um vértice?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cilindro",
+          "cone",
+          "esfera",
+          "prisma"
+        ],
+        "respostaCorreta": "cone",
+        "explicacao": "O cone possui uma base circular e uma ponta, que é o vértice.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-solidos-geometricos-sim-05",
+        "enunciado": "Qual alternativa associa corretamente objeto e sólido geométrico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bola - paralelepípedo",
+          "lata - cilindro",
+          "dado - esfera",
+          "casquinha - cubo"
+        ],
+        "respostaCorreta": "lata - cilindro",
+        "explicacao": "Uma lata possui forma aproximada de cilindro.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

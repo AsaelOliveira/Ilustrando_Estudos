@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-porcentagem-introdutoria",
+    "titulo": "Porcentagem introdutória",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números racionais",
+    "resumo": [
+      "Porcentagem significa 'por cento', isto é, uma quantidade em relação a 100.",
+      "A porcentagem aparece em descontos, pesquisas, resultados e comparações.",
+      "Metade corresponde a 50%, um quarto corresponde a 25% e o inteiro corresponde a 100%.",
+      "É possível relacionar porcentagem com frações e números decimais.",
+      "Situações simples de porcentagem ajudam a interpretar dados do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é porcentagem",
+        "texto": "Porcentagem é uma forma de expressar uma parte de um todo que foi dividido em 100 partes iguais. Quando dizemos 30%, queremos dizer 30 partes de um total de 100.",
+        "dica": "Sempre associe a porcentagem à ideia de 'a cada 100'."
+      },
+      {
+        "subtitulo": "Porcentagens conhecidas",
+        "texto": "Algumas porcentagens aparecem com frequência. A metade de um valor corresponde a 50%, um quarto corresponde a 25% e três quartos correspondem a 75%. Conhecer essas relações facilita muitos cálculos simples.",
+        "dica": "Memorizar porcentagens mais comuns ajuda bastante na interpretação de problemas."
+      },
+      {
+        "subtitulo": "Porcentagem no cotidiano",
+        "texto": "Promoções, pesquisas de opinião, gráficos e resultados escolares usam porcentagens com frequência. Quando uma loja anuncia 10% de desconto, ela está dizendo que o desconto corresponde a 10 partes de cada 100 partes do valor original.",
+        "dica": "Em problemas simples, tente primeiro identificar qual é o total de referência."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Interprete 25%.",
+        "passos": [
+          "A expressão 25% significa 25 por 100.",
+          "Isso corresponde a 25 de cada 100 partes.",
+          "Também podemos relacionar 25% à fração 25/100, que equivale a 1/4."
+        ],
+        "resposta": "A porcentagem 25% representa vinte e cinco partes de um total de cem."
+      },
+      {
+        "enunciado": "Descubra 50% de 20.",
+        "passos": [
+          "Sabemos que 50% representa a metade.",
+          "A metade de 20 é 10.",
+          "Portanto, 50% de 20 corresponde a 10."
+        ],
+        "resposta": "50% de 20 é igual a 10."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-01",
+        "enunciado": "A expressão 40% significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "40 por 10",
+          "40 por 100",
+          "4 por 1.000",
+          "400 por 10"
+        ],
+        "respostaCorreta": "40 por 100",
+        "explicacao": "O símbolo % significa 'por cento', isto é, por 100.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-02",
+        "enunciado": "Qual porcentagem corresponde à metade de um inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "respostaCorreta": "50%",
+        "explicacao": "Metade de um inteiro corresponde a cinquenta por cento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-03",
+        "enunciado": "Qual porcentagem corresponde ao inteiro completo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "respostaCorreta": "100%",
+        "explicacao": "O todo completo corresponde a 100%.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-04",
+        "enunciado": "Qual porcentagem corresponde a um quarto do inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "20%",
+          "25%",
+          "40%",
+          "60%"
+        ],
+        "respostaCorreta": "25%",
+        "explicacao": "Um quarto corresponde a 25 de cada 100 partes, ou seja, 25%.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-05",
+        "enunciado": "Em uma turma de 100 alunos, 30 gostam de xadrez. Que porcentagem da turma gosta de xadrez?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3%",
+          "30%",
+          "60%",
+          "70%"
+        ],
+        "respostaCorreta": "30%",
+        "explicacao": "Se 30 de 100 alunos gostam de xadrez, isso corresponde a 30%.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-06",
+        "enunciado": "Qual é 50% de 18?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "8",
+          "9",
+          "12"
+        ],
+        "respostaCorreta": "9",
+        "explicacao": "Cinquenta por cento representa a metade. A metade de 18 é 9.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-07",
+        "enunciado": "Qual é 25% de 20?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "5",
+          "10",
+          "15"
+        ],
+        "respostaCorreta": "5",
+        "explicacao": "Vinte e cinco por cento corresponde a um quarto. Um quarto de 20 é 5.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-08",
+        "enunciado": "Qual é 100% de 37?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "0",
+          "18,5",
+          "37",
+          "74"
+        ],
+        "respostaCorreta": "37",
+        "explicacao": "Cem por cento de um valor é o próprio valor inteiro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-09",
+        "enunciado": "Em uma pesquisa com 100 pessoas, 75 responderam 'sim'. Qual foi a porcentagem de respostas 'sim'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "respostaCorreta": "75%",
+        "explicacao": "Setenta e cinco de cada 100 pessoas correspondem a 75%.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-10",
+        "enunciado": "Qual alternativa relaciona corretamente porcentagem e fração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "50% = 1/4",
+          "25% = 1/2",
+          "50% = 1/2",
+          "100% = 1/2"
+        ],
+        "respostaCorreta": "50% = 1/2",
+        "explicacao": "Cinquenta por cento corresponde à metade de um inteiro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-11",
+        "enunciado": "Se um produto teve desconto de 10%, isso significa que o desconto corresponde a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10 de cada 100 partes do valor",
+          "1 de cada 2 partes do valor",
+          "50 de cada 100 partes do valor",
+          "100 de cada 10 partes do valor"
+        ],
+        "respostaCorreta": "10 de cada 100 partes do valor",
+        "explicacao": "Dez por cento significa dez partes de cada cem partes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-12",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25% é maior que 50%.",
+          "100% representa metade de um valor.",
+          "75% é maior que 25%.",
+          "10% significa dez por mil."
+        ],
+        "respostaCorreta": "75% é maior que 25%.",
+        "explicacao": "Setenta e cinco por cento corresponde a uma parte maior do todo do que vinte e cinco por cento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-13",
+        "enunciado": "Um aluno disse que 25% e 1/4 não têm relação entre si. Essa fala está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque 25% corresponde a 1/4",
+          "correta, porque 25% corresponde a 1/2",
+          "incorreta, porque 25% corresponde a 3/4"
+        ],
+        "respostaCorreta": "incorreta, porque 25% corresponde a 1/4",
+        "explicacao": "Vinte e cinco por cento equivale a vinte e cinco centésimos, que correspondem a um quarto.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-14",
+        "enunciado": "Qual é 50% de 40?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "20",
+          "30",
+          "40"
+        ],
+        "respostaCorreta": "20",
+        "explicacao": "Metade de 40 é 20.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-ex-15",
+        "enunciado": "Em uma sala com 100 lugares, 85 estavam ocupados. Qual porcentagem dos lugares estava ocupada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "15%",
+          "50%",
+          "85%",
+          "100%"
+        ],
+        "respostaCorreta": "85%",
+        "explicacao": "Oitenta e cinco de cada cem lugares ocupados correspondem a 85%.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-porcentagem-introdutoria-sim-01",
+        "enunciado": "Qual porcentagem corresponde a três quartos do inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25%",
+          "50%",
+          "75%",
+          "90%"
+        ],
+        "respostaCorreta": "75%",
+        "explicacao": "Três quartos correspondem a setenta e cinco por cento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-sim-02",
+        "enunciado": "Em um gráfico, 25 de 100 alunos preferem vôlei. Qual alternativa interpreta corretamente esse dado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25%",
+          "50%",
+          "75%",
+          "250%"
+        ],
+        "respostaCorreta": "25%",
+        "explicacao": "Vinte e cinco de cada cem correspondem a 25%.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-sim-03",
+        "enunciado": "Se 50% de uma turma de 20 alunos participou de uma atividade, quantos alunos participaram?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "10",
+          "15",
+          "20"
+        ],
+        "respostaCorreta": "10",
+        "explicacao": "Cinquenta por cento corresponde à metade. A metade de 20 é 10.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-sim-04",
+        "enunciado": "Qual alternativa avalia corretamente a frase: '100% de um valor é a metade dele'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa.",
+          "A frase só vale para números pares.",
+          "A frase só vale para valores maiores que 100."
+        ],
+        "respostaCorreta": "A frase é falsa.",
+        "explicacao": "Cem por cento representa o valor inteiro, não a metade.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-porcentagem-introdutoria-sim-05",
+        "enunciado": "Qual alternativa apresenta uma relação correta entre fração e porcentagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/2 = 25%",
+          "1/4 = 50%",
+          "3/4 = 75%",
+          "1 inteiro = 10%"
+        ],
+        "respostaCorreta": "3/4 = 75%",
+        "explicacao": "Três quartos correspondem a setenta e cinco por cento.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

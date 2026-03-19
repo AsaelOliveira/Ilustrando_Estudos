@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-decimais",
+    "titulo": "Números decimais",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números racionais",
+    "resumo": [
+      "Os números decimais representam partes da unidade usando vírgula.",
+      "À direita da vírgula aparecem as ordens decimais, como décimos e centésimos.",
+      "Os números decimais podem ser lidos, escritos, comparados e usados em medidas e valores monetários.",
+      "O valor posicional também é importante nos números decimais.",
+      "No cotidiano, os decimais aparecem em preços, medidas, massas e comprimentos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Parte inteira e parte decimal",
+        "texto": "Em um número decimal, a parte inteira fica à esquerda da vírgula e a parte decimal fica à direita. No número 3,25, o 3 representa três unidades inteiras, o 2 representa dois décimos e o 5 representa cinco centésimos.",
+        "dica": "Leia primeiro a parte inteira e depois observe quantas casas aparecem após a vírgula."
+      },
+      {
+        "subtitulo": "Decimais no dia a dia",
+        "texto": "Usamos números decimais para registrar dinheiro, medidas de comprimento, massa e capacidade. Quando um produto custa 12,50 reais, por exemplo, o número decimal ajuda a representar valores menores que uma unidade inteira de real.",
+        "dica": "Ao pensar em dinheiro, lembre-se de que os centavos ajudam a entender os centésimos."
+      },
+      {
+        "subtitulo": "Comparação de números decimais",
+        "texto": "Para comparar números decimais, observamos primeiro a parte inteira. Se ela for igual, comparamos a parte decimal casa por casa. Assim, 4,7 é maior que 4,52, porque 4,70 é maior que 4,52.",
+        "dica": "Se necessário, complete com zeros à direita para facilitar a comparação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia o número 2,48.",
+        "passos": [
+          "A parte inteira é 2.",
+          "Depois da vírgula, há 4 décimos e 8 centésimos.",
+          "O número pode ser lido como dois inteiros e quarenta e oito centésimos."
+        ],
+        "resposta": "O número 2,48 representa 2 unidades inteiras e 48 centésimos."
+      },
+      {
+        "enunciado": "Compare os números 5,3 e 5,27.",
+        "passos": [
+          "As partes inteiras são iguais: ambas são 5.",
+          "Escrevendo 5,3 como 5,30, fica mais fácil comparar.",
+          "Como 30 centésimos é maior que 27 centésimos, 5,3 é maior."
+        ],
+        "resposta": "O número 5,3 é maior que 5,27."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-decimais-ex-01",
+        "enunciado": "Qual número representa três inteiros e cinco décimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3,05",
+          "3,5",
+          "35,0",
+          "0,35"
+        ],
+        "respostaCorreta": "3,5",
+        "explicacao": "Três inteiros e cinco décimos correspondem a 3,5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-02",
+        "enunciado": "No número 4,28, o algarismo 2 representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2 unidades",
+          "2 décimos",
+          "2 centésimos",
+          "20 unidades"
+        ],
+        "respostaCorreta": "2 décimos",
+        "explicacao": "O algarismo 2 está na primeira casa após a vírgula, que corresponde aos décimos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-03",
+        "enunciado": "Qual alternativa apresenta o maior número decimal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2,15",
+          "2,5",
+          "2,08",
+          "2,49"
+        ],
+        "respostaCorreta": "2,5",
+        "explicacao": "Escrevendo 2,5 como 2,50, vemos que ele é maior que os demais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-04",
+        "enunciado": "Qual número pode ser lido como sete inteiros e vinte e três centésimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7,23",
+          "7,203",
+          "7,32",
+          "0,723"
+        ],
+        "respostaCorreta": "7,23",
+        "explicacao": "Vinte e três centésimos correspondem a duas casas após a vírgula: 7,23.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-05",
+        "enunciado": "Qual alternativa mostra um preço de doze reais e cinquenta centavos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12,05",
+          "12,15",
+          "12,50",
+          "12,55"
+        ],
+        "respostaCorreta": "12,50",
+        "explicacao": "Em valores monetários, usamos duas casas decimais para representar os centavos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-06",
+        "enunciado": "Qual alternativa representa quatro décimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "0,04",
+          "0,4",
+          "4,0",
+          "0,14"
+        ],
+        "respostaCorreta": "0,4",
+        "explicacao": "Quatro décimos correspondem a 0,4, ou seja, quatro partes de dez.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-07",
+        "enunciado": "No número 6,37, o algarismo 7 representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7 décimos",
+          "7 centésimos",
+          "7 unidades",
+          "70 centésimos"
+        ],
+        "respostaCorreta": "7 centésimos",
+        "explicacao": "A segunda casa após a vírgula corresponde aos centésimos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-08",
+        "enunciado": "Qual alternativa está em ordem crescente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1,25; 1,3; 1,32; 1,4",
+          "1,3; 1,25; 1,4; 1,32",
+          "1,4; 1,32; 1,3; 1,25",
+          "1,32; 1,25; 1,3; 1,4"
+        ],
+        "respostaCorreta": "1,25; 1,3; 1,32; 1,4",
+        "explicacao": "Comparando as casas decimais, essa é a sequência correta do menor para o maior.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-09",
+        "enunciado": "Qual número é equivalente a 5,20?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5,02",
+          "5,2",
+          "52,0",
+          "0,520"
+        ],
+        "respostaCorreta": "5,2",
+        "explicacao": "Zeros à direita na parte decimal não alteram o valor do número.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-10",
+        "enunciado": "Qual alternativa apresenta a escrita decimal de vinte e cinco centésimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "0,25",
+          "2,5",
+          "25,0",
+          "0,025"
+        ],
+        "respostaCorreta": "0,25",
+        "explicacao": "Vinte e cinco centésimos correspondem a 0,25.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-11",
+        "enunciado": "Em qual alternativa o número decimal é maior que 8,4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "8,39",
+          "8,04",
+          "8,41",
+          "8,4"
+        ],
+        "respostaCorreta": "8,41",
+        "explicacao": "Escrevendo 8,4 como 8,40, vemos que 8,41 é maior.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-12",
+        "enunciado": "Qual alternativa representa corretamente a medida de dois metros e sete centímetros, em metros?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2,07",
+          "2,7",
+          "2,007",
+          "20,7"
+        ],
+        "respostaCorreta": "2,07",
+        "explicacao": "Sete centímetros correspondem a sete centésimos de metro, então a medida é 2,07 m.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-decimais-ex-13",
+        "enunciado": "Qual alternativa representa um número com 9 unidades, 4 décimos e 2 centésimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9,24",
+          "9,42",
+          "9,402",
+          "94,2"
+        ],
+        "respostaCorreta": "9,42",
+        "explicacao": "Quatro décimos e dois centésimos formam a parte decimal 42 centésimos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-ex-14",
+        "enunciado": "Qual alternativa está correta sobre o número 0,8?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele representa oito centésimos.",
+          "Ele representa oito décimos.",
+          "Ele é menor que 0,08.",
+          "Ele não tem parte decimal."
+        ],
+        "respostaCorreta": "Ele representa oito décimos.",
+        "explicacao": "A primeira casa após a vírgula corresponde aos décimos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-decimais-ex-15",
+        "enunciado": "Uma régua marcou 3,6 cm e outra marcou 3,58 cm. Qual medida é maior?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3,58 cm",
+          "3,6 cm",
+          "As duas são iguais.",
+          "Não é possível comparar."
+        ],
+        "respostaCorreta": "3,6 cm",
+        "explicacao": "Escrevendo 3,6 como 3,60, percebemos que 3,60 é maior que 3,58.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-decimais-sim-01",
+        "enunciado": "Qual alternativa apresenta corretamente a leitura de 4,08?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quatro inteiros e oito décimos",
+          "quatro inteiros e oito centésimos",
+          "quatro inteiros e oitenta centésimos",
+          "quarenta e oito centésimos"
+        ],
+        "respostaCorreta": "quatro inteiros e oito centésimos",
+        "explicacao": "O número 4,08 tem 4 inteiros e 8 centésimos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-sim-02",
+        "enunciado": "Qual alternativa apresenta o menor número decimal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6,07",
+          "6,7",
+          "6,17",
+          "6,70"
+        ],
+        "respostaCorreta": "6,07",
+        "explicacao": "Comparando as casas decimais, 6,07 é menor que 6,17, 6,7 e 6,70.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-sim-03",
+        "enunciado": "Uma garrafa contém 1,25 litro de suco. Qual alternativa descreve corretamente essa quantidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1 litro e 25 centésimos de litro",
+          "1 litro e 25 décimos de litro",
+          "12 litros e 5 centésimos de litro",
+          "125 litros"
+        ],
+        "respostaCorreta": "1 litro e 25 centésimos de litro",
+        "explicacao": "O número 1,25 representa 1 inteiro e 25 centésimos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-sim-04",
+        "enunciado": "Qual alternativa representa corretamente noventa e nove centésimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "0,99",
+          "9,9",
+          "0,909",
+          "99,0"
+        ],
+        "respostaCorreta": "0,99",
+        "explicacao": "Noventa e nove centésimos correspondem a 0,99.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-decimais-sim-05",
+        "enunciado": "Qual alternativa está correta sobre os números 2,50 e 2,5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2,50 é maior que 2,5.",
+          "2,50 é menor que 2,5.",
+          "Os dois números têm o mesmo valor.",
+          "Os dois números não podem ser comparados."
+        ],
+        "respostaCorreta": "Os dois números têm o mesmo valor.",
+        "explicacao": "O zero à direita na parte decimal não altera o valor do número.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

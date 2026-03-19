@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-sujeito-predicado",
+    "titulo": "Sujeito e predicado",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Estrutura da frase",
+    "resumo": [
+      "O sujeito é o termo da oração sobre o qual se declara algo.",
+      "O predicado é a parte da oração que apresenta a informação sobre o sujeito.",
+      "Em muitas frases, o verbo ajuda a identificar o predicado.",
+      "Reconhecer sujeito e predicado facilita a compreensão da estrutura da frase.",
+      "A análise desses elementos ajuda o aluno a ler e escrever com mais clareza."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é sujeito",
+        "texto": "O sujeito é o termo da oração sobre o qual se faz uma declaração. Em A turma venceu o campeonato, a expressão A turma é o sujeito, porque é dela que a frase fala. O sujeito pode ser formado por uma palavra ou por mais de uma.",
+        "dica": "Pergunte de quem ou de que a frase está falando."
+      },
+      {
+        "subtitulo": "O que é predicado",
+        "texto": "O predicado é tudo aquilo que se declara sobre o sujeito. Na frase A turma venceu o campeonato, venceu o campeonato é o predicado. Em geral, o predicado contém o verbo e a informação principal sobre o sujeito.",
+        "dica": "Depois de encontrar o sujeito, veja o que está sendo dito sobre ele."
+      },
+      {
+        "subtitulo": "Como identificar os dois elementos",
+        "texto": "Para identificar sujeito e predicado, o aluno pode localizar o verbo, perguntar quem realiza a ação ou sobre quem se fala e, em seguida, separar o restante da informação. Esse procedimento ajuda a compreender melhor a organização das orações.",
+        "dica": "Localize primeiro o verbo e use essa pista para organizar a análise."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"Os alunos fizeram a atividade\".",
+        "passos": [
+          "A frase fala sobre os alunos.",
+          "A expressão Os alunos é o sujeito.",
+          "A parte fizeram a atividade é o predicado."
+        ],
+        "resposta": "Na frase, o sujeito é \"Os alunos\" e o predicado é \"fizeram a atividade\"."
+      },
+      {
+        "enunciado": "Observe a frase \"A biblioteca abriu cedo\".",
+        "passos": [
+          "A frase fala sobre a biblioteca.",
+          "A biblioteca é o sujeito.",
+          "Abriu cedo é o predicado."
+        ],
+        "resposta": "Na frase, o sujeito é \"A biblioteca\" e o predicado é \"abriu cedo\"."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-sujeito-predicado-ex-01",
+        "enunciado": "Na frase \"A professora explicou o conteúdo\", qual é o sujeito?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "explicou",
+          "o conteúdo",
+          "A professora",
+          "conteúdo"
+        ],
+        "respostaCorreta": "A professora",
+        "explicacao": "A professora é o termo sobre o qual se faz a declaração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-02",
+        "enunciado": "Na frase \"Os alunos chegaram cedo\", qual é o predicado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos",
+          "chegaram cedo",
+          "cedo",
+          "alunos chegaram"
+        ],
+        "respostaCorreta": "chegaram cedo",
+        "explicacao": "Chegaram cedo é a informação declarada sobre o sujeito Os alunos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-03",
+        "enunciado": "Qual alternativa apresenta corretamente o sujeito da frase \"O ônibus parou na esquina\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "parou",
+          "na esquina",
+          "O ônibus",
+          "esquina"
+        ],
+        "respostaCorreta": "O ônibus",
+        "explicacao": "A frase fala sobre o ônibus, que é o sujeito.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-04",
+        "enunciado": "Qual alternativa apresenta o predicado da frase \"Maria leu o livro\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Maria",
+          "leu o livro",
+          "o livro",
+          "livro"
+        ],
+        "respostaCorreta": "leu o livro",
+        "explicacao": "Leu o livro é o que se declara sobre Maria.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-05",
+        "enunciado": "Em qual alternativa a identificação de sujeito e predicado está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma estudou bastante. Sujeito: estudou bastante.",
+          "A turma estudou bastante. Sujeito: A turma.",
+          "A turma estudou bastante. Predicado: A turma.",
+          "A turma estudou bastante. Predicado: turma."
+        ],
+        "respostaCorreta": "A turma estudou bastante. Sujeito: A turma.",
+        "explicacao": "A turma é o sujeito da oração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-06",
+        "enunciado": "Na frase \"Os livros estavam sobre a mesa\", o predicado é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os livros",
+          "estavam sobre a mesa",
+          "sobre a mesa",
+          "livros estavam"
+        ],
+        "respostaCorreta": "estavam sobre a mesa",
+        "explicacao": "Essa é a informação dada sobre o sujeito Os livros.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-07",
+        "enunciado": "Qual alternativa mostra uma frase em que o sujeito está corretamente identificado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A escola abriu cedo. Sujeito: abriu cedo.",
+          "A escola abriu cedo. Sujeito: A escola.",
+          "A escola abriu cedo. Sujeito: cedo.",
+          "A escola abriu cedo. Sujeito: abriu."
+        ],
+        "respostaCorreta": "A escola abriu cedo. Sujeito: A escola.",
+        "explicacao": "A escola é o termo sobre o qual a frase faz uma declaração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-08",
+        "enunciado": "Na frase \"O menino correu para casa\", a parte \"correu para casa\" corresponde ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sujeito",
+          "predicado",
+          "artigo",
+          "pronome"
+        ],
+        "respostaCorreta": "predicado",
+        "explicacao": "Correu para casa apresenta a informação sobre o sujeito O menino.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-09",
+        "enunciado": "Assinale a alternativa correta sobre sujeito e predicado.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O sujeito é sempre um verbo.",
+          "O predicado é sempre a primeira palavra da frase.",
+          "O sujeito é o termo de que se fala, e o predicado é o que se declara sobre ele.",
+          "Sujeito e predicado significam a mesma coisa."
+        ],
+        "respostaCorreta": "O sujeito é o termo de que se fala, e o predicado é o que se declara sobre ele.",
+        "explicacao": "Essa alternativa define corretamente os dois elementos da oração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-10",
+        "enunciado": "Na frase \"As crianças brincaram no pátio\", o sujeito é formado por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma ação",
+          "um verbo",
+          "duas palavras",
+          "uma vírgula"
+        ],
+        "respostaCorreta": "duas palavras",
+        "explicacao": "O sujeito As crianças é formado por duas palavras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-11",
+        "enunciado": "Qual alternativa apresenta uma frase com sujeito e predicado corretamente separados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O aluno / chegou cedo.",
+          "O / aluno chegou cedo.",
+          "O aluno chegou / cedo.",
+          "O aluno chegou cedo /."
+        ],
+        "respostaCorreta": "O aluno / chegou cedo.",
+        "explicacao": "O aluno é o sujeito, e chegou cedo é o predicado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-12",
+        "enunciado": "Em qual alternativa o predicado está corretamente identificado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os atletas venceram a prova. Predicado: Os atletas.",
+          "Os atletas venceram a prova. Predicado: venceram a prova.",
+          "Os atletas venceram a prova. Predicado: atletas.",
+          "Os atletas venceram a prova. Predicado: a prova."
+        ],
+        "respostaCorreta": "Os atletas venceram a prova. Predicado: venceram a prova.",
+        "explicacao": "Venceram a prova é a informação sobre o sujeito Os atletas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-13",
+        "enunciado": "Qual alternativa apresenta uma frase em que o sujeito é \"A biblioteca\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Abriu cedo a biblioteca.",
+          "A biblioteca recebeu novos livros.",
+          "Recebeu novos livros.",
+          "Novos livros chegaram."
+        ],
+        "respostaCorreta": "A biblioteca recebeu novos livros.",
+        "explicacao": "Nessa frase, A biblioteca é explicitamente o sujeito.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-14",
+        "enunciado": "Por que identificar sujeito e predicado é importante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque isso ajuda a compreender a organização da frase.",
+          "Porque isso elimina a necessidade de ler o texto.",
+          "Porque isso serve apenas para decorar regras.",
+          "Porque isso só importa em poemas."
+        ],
+        "respostaCorreta": "Porque isso ajuda a compreender a organização da frase.",
+        "explicacao": "A análise de sujeito e predicado ajuda a entender como a oração foi construída.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre sujeito e predicado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles ajudam a entender quem participa da ação e o que se diz sobre ele.",
+          "Eles substituem os sinais de pontuação.",
+          "Eles só aparecem em frases longas.",
+          "Eles não influenciam a leitura."
+        ],
+        "respostaCorreta": "Eles ajudam a entender quem participa da ação e o que se diz sobre ele.",
+        "explicacao": "Sujeito e predicado organizam a informação principal da oração.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-sujeito-predicado-sim-01",
+        "enunciado": "Na frase \"A professora corrigiu os cadernos com atenção\", qual alternativa identifica corretamente o sujeito e o predicado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sujeito: corrigiu os cadernos / Predicado: A professora",
+          "Sujeito: A professora / Predicado: corrigiu os cadernos com atenção",
+          "Sujeito: os cadernos / Predicado: A professora corrigiu",
+          "Sujeito: com atenção / Predicado: A professora"
+        ],
+        "respostaCorreta": "Sujeito: A professora / Predicado: corrigiu os cadernos com atenção",
+        "explicacao": "A professora é o termo de que se fala, e o restante constitui o predicado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-sim-02",
+        "enunciado": "Qual alternativa apresenta uma explicação correta sobre o predicado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É a palavra que sempre aparece sozinha.",
+          "É a parte da oração que traz a informação sobre o sujeito.",
+          "É sempre a última palavra da frase.",
+          "É a mesma coisa que artigo."
+        ],
+        "respostaCorreta": "É a parte da oração que traz a informação sobre o sujeito.",
+        "explicacao": "O predicado apresenta o que se declara sobre o sujeito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-sim-03",
+        "enunciado": "Em qual alternativa a separação entre sujeito e predicado está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos atentos / ouviram a explicação.",
+          "Os / alunos atentos ouviram a explicação.",
+          "Os alunos atentos ouviram / a explicação.",
+          "Os alunos / atentos ouviram / a explicação."
+        ],
+        "respostaCorreta": "Os alunos atentos / ouviram a explicação.",
+        "explicacao": "Os alunos atentos formam o sujeito, e ouviram a explicação formam o predicado.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-sujeito-predicado-sim-04",
+        "enunciado": "Assinale a alternativa correta sobre o sujeito.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O sujeito é sempre uma ação.",
+          "O sujeito é o termo sobre o qual se declara algo.",
+          "O sujeito substitui o verbo da oração.",
+          "O sujeito só existe em frases interrogativas."
+        ],
+        "respostaCorreta": "O sujeito é o termo sobre o qual se declara algo.",
+        "explicacao": "Essa é a definição correta de sujeito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sujeito-predicado-sim-05",
+        "enunciado": "Na frase \"O time venceu a partida no final\", qual é o núcleo do sujeito?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "venceu",
+          "partida",
+          "time",
+          "final"
+        ],
+        "respostaCorreta": "time",
+        "explicacao": "O núcleo do sujeito O time é a palavra time.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

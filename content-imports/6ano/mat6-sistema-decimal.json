@@ -1,0 +1,421 @@
+[
+  {
+    "id": "mat6-sistema-decimal",
+    "titulo": "Sistema de numeração decimal",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números naturais",
+    "resumo": [
+      "O sistema de numeração decimal é organizado em base dez.",
+      "Cada algarismo assume um valor diferente de acordo com a posição que ocupa no número.",
+      "As ordens mais comuns são unidade, dezena, centena e unidade de milhar.",
+      "A decomposição ajuda a compreender quanto vale cada parte de um número.",
+      "Entender o valor posicional facilita a leitura, a escrita e a comparação de números."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Base dez e ordens numéricas",
+        "texto": "No sistema de numeração decimal, usamos dez algarismos: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. Com esses algarismos, formamos todos os números. Cada grupo de dez unidades forma uma dezena, cada grupo de dez dezenas forma uma centena e assim por diante.",
+        "dica": "Sempre observe que a ordem à esquerda vale dez vezes mais do que a ordem anterior."
+      },
+      {
+        "subtitulo": "Valor posicional",
+        "texto": "O valor de um algarismo depende da posição em que ele aparece. No número 4.582, por exemplo, o algarismo 4 vale 4.000, o 5 vale 500, o 8 vale 80 e o 2 vale 2. Por isso, o mesmo algarismo pode representar valores diferentes em números diferentes.",
+        "dica": "Pergunte a si mesmo: este algarismo está nas unidades, dezenas, centenas ou milhares?"
+      },
+      {
+        "subtitulo": "Leitura e decomposição",
+        "texto": "Decompor um número significa separá-lo de acordo com o valor de cada ordem. O número 3.407 pode ser decomposto em 3.000 + 400 + 7. Essa estratégia torna mais fácil compreender o número e realizar cálculos.",
+        "dica": "Quando houver zero em uma ordem, essa parte não aparece na decomposição."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Decomponha o número 6.241.",
+        "passos": [
+          "O 6 está na ordem de milhar e vale 6.000.",
+          "O 2 está na ordem das centenas e vale 200.",
+          "O 4 está na ordem das dezenas e vale 40, e o 1 vale 1 unidade."
+        ],
+        "resposta": "O número 6.241 pode ser decomposto em 6.000 + 200 + 40 + 1."
+      },
+      {
+        "enunciado": "Compare o valor do algarismo 8 nos números 8.154 e 2.386.",
+        "passos": [
+          "No número 8.154, o 8 está na ordem de milhar.",
+          "No número 2.386, o 8 está na ordem das dezenas.",
+          "Assim, no primeiro número ele vale 8.000, e no segundo vale 80."
+        ],
+        "resposta": "O mesmo algarismo pode ter valores diferentes, porque o valor depende da posição."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-sistema-decimal-ex-01",
+        "enunciado": "No número 3.452, o algarismo 4 representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "40",
+          "400",
+          "4.000"
+        ],
+        "respostaCorreta": "400",
+        "explicacao": "No número 3.452, o algarismo 4 está na ordem das centenas, por isso vale 400.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-02",
+        "enunciado": "Qual é a decomposição correta do número 2.381?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2.000 + 300 + 80 + 1",
+          "2.000 + 30 + 8 + 1",
+          "200 + 30 + 8 + 1",
+          "2.000 + 300 + 8 + 1"
+        ],
+        "respostaCorreta": "2.000 + 300 + 80 + 1",
+        "explicacao": "Cada algarismo foi separado de acordo com sua ordem: milhares, centenas, dezenas e unidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-03",
+        "enunciado": "No número 5.607, o algarismo 6 ocupa a ordem da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "unidade",
+          "dezena",
+          "centena",
+          "unidade de milhar"
+        ],
+        "respostaCorreta": "centena",
+        "explicacao": "Em 5.607, o 6 aparece na ordem das centenas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-04",
+        "enunciado": "Em qual número o algarismo 8 ocupa a ordem das dezenas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "8.305",
+          "2.184",
+          "1.428",
+          "4.802"
+        ],
+        "respostaCorreta": "2.184",
+        "explicacao": "No número 2.184, o algarismo 8 está na ordem das dezenas e vale 80.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-05",
+        "enunciado": "No número 9.041, o algarismo 0 indica que não há:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "unidades",
+          "dezenas",
+          "centenas",
+          "milhares"
+        ],
+        "respostaCorreta": "centenas",
+        "explicacao": "O zero aparece na ordem das centenas, indicando ausência dessa quantidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-06",
+        "enunciado": "Qual alternativa apresenta a leitura correta do número 6.205?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "seiscentos e vinte e cinco",
+          "seis mil duzentos e cinco",
+          "seis mil e vinte e cinco",
+          "sessenta e dois mil e cinco"
+        ],
+        "respostaCorreta": "seis mil duzentos e cinco",
+        "explicacao": "O número 6.205 possui 6 milhares, 2 centenas, 0 dezenas e 5 unidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-07",
+        "enunciado": "Qual é o valor do algarismo 7 no número 7.154?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7",
+          "70",
+          "700",
+          "7.000"
+        ],
+        "respostaCorreta": "7.000",
+        "explicacao": "O 7 está na ordem de milhar, por isso vale 7.000.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-08",
+        "enunciado": "Qual alternativa apresenta um número formado por 4 unidades de milhar, 3 centenas, 2 dezenas e 1 unidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4.321",
+          "4.231",
+          "4.312",
+          "4.123"
+        ],
+        "respostaCorreta": "4.321",
+        "explicacao": "O número 4.321 corresponde exatamente às ordens indicadas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-09",
+        "enunciado": "A ordem imediatamente à esquerda da centena é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dezena",
+          "unidade",
+          "unidade de milhar",
+          "dezena de milhar"
+        ],
+        "respostaCorreta": "unidade de milhar",
+        "explicacao": "Na sequência das ordens, depois da centena vem a unidade de milhar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-10",
+        "enunciado": "Qual alternativa está correta sobre o sistema decimal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cada ordem vale cinco vezes a anterior.",
+          "Cada ordem vale dez vezes a anterior.",
+          "Os algarismos não mudam de valor com a posição.",
+          "A decomposição não ajuda a entender o número."
+        ],
+        "respostaCorreta": "Cada ordem vale dez vezes a anterior.",
+        "explicacao": "Essa é uma característica fundamental do sistema de numeração decimal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-11",
+        "enunciado": "Qual alternativa apresenta o maior número?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3.999",
+          "4.003",
+          "3.490",
+          "3.940"
+        ],
+        "respostaCorreta": "4.003",
+        "explicacao": "O número 4.003 é maior porque possui 4 na ordem de milhar, enquanto os outros possuem 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-12",
+        "enunciado": "No número 8.246, qual é o valor do algarismo 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "40",
+          "400",
+          "4.000"
+        ],
+        "respostaCorreta": "40",
+        "explicacao": "O algarismo 4 está na ordem das dezenas, por isso vale 40.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-13",
+        "enunciado": "Qual alternativa mostra corretamente o número decomposto em 5.030?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5.000 + 30",
+          "500 + 30",
+          "5.000 + 300",
+          "5.000 + 3"
+        ],
+        "respostaCorreta": "5.000 + 30",
+        "explicacao": "O número 5.030 tem 5 milhares, 0 centenas, 3 dezenas e 0 unidades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-14",
+        "enunciado": "Em qual número o algarismo 9 ocupa a ordem das centenas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9.145",
+          "4.912",
+          "2.349",
+          "1.290"
+        ],
+        "respostaCorreta": "4.912",
+        "explicacao": "No número 4.912, o 9 aparece na ordem das centenas e vale 900.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-15",
+        "enunciado": "O número formado por 7 milhares, 5 centenas, 0 dezenas e 8 unidades é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7.508",
+          "7.580",
+          "7.058",
+          "7.805"
+        ],
+        "respostaCorreta": "7.508",
+        "explicacao": "A ordem das dezenas é zero, por isso o número correto é 7.508.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-16",
+        "enunciado": "Qual alternativa apresenta a escrita por extenso de 3.040?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "três mil e quarenta",
+          "trezentos e quarenta",
+          "três mil e quatro",
+          "trinta mil e quarenta"
+        ],
+        "respostaCorreta": "três mil e quarenta",
+        "explicacao": "O número possui 3 milhares, 0 centenas, 4 dezenas e 0 unidades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-17",
+        "enunciado": "Em qual alternativa o algarismo 6 vale 600?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6.210",
+          "2.631",
+          "4.126",
+          "1.062"
+        ],
+        "respostaCorreta": "2.631",
+        "explicacao": "No número 2.631, o algarismo 6 está na ordem das centenas e vale 600.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-18",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "No número 2.104, o algarismo 1 vale 1.",
+          "No número 6.730, o algarismo 3 vale 3.",
+          "No número 8.509, o algarismo 5 vale 500.",
+          "No número 1.642, o algarismo 4 vale 400."
+        ],
+        "respostaCorreta": "No número 8.509, o algarismo 5 vale 500.",
+        "explicacao": "Em 8.509, o 5 está na ordem das centenas, por isso vale 500.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-19",
+        "enunciado": "Qual alternativa apresenta os números em ordem crescente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4.120, 4.201, 4.210, 4.300",
+          "4.201, 4.120, 4.300, 4.210",
+          "4.300, 4.210, 4.201, 4.120",
+          "4.210, 4.300, 4.120, 4.201"
+        ],
+        "respostaCorreta": "4.120, 4.201, 4.210, 4.300",
+        "explicacao": "Ao comparar os números, observamos primeiro os milhares, depois as centenas, as dezenas e as unidades.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-sistema-decimal-ex-20",
+        "enunciado": "Qual alternativa apresenta corretamente a quantidade de centenas em 4.863?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4 centenas",
+          "8 centenas",
+          "6 centenas",
+          "3 centenas"
+        ],
+        "respostaCorreta": "8 centenas",
+        "explicacao": "No número 4.863, o algarismo 8 está na ordem das centenas.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-sistema-decimal-sim-01",
+        "enunciado": "Qual alternativa mostra corretamente a decomposição do número 9.308?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9.000 + 300 + 8",
+          "9.000 + 30 + 8",
+          "900 + 300 + 8",
+          "9.000 + 300 + 80"
+        ],
+        "respostaCorreta": "9.000 + 300 + 8",
+        "explicacao": "O número 9.308 tem 9 milhares, 3 centenas, 0 dezenas e 8 unidades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-sim-02",
+        "enunciado": "Em qual alternativa o algarismo 5 vale 500?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5.216",
+          "2.531",
+          "1.250",
+          "3.105"
+        ],
+        "respostaCorreta": "2.531",
+        "explicacao": "No número 2.531, o algarismo 5 aparece na ordem das centenas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-sim-03",
+        "enunciado": "Qual alternativa apresenta a leitura correta do número 4.019?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quatro mil e dezenove",
+          "quatrocentos e dezenove",
+          "quarenta mil e dezenove",
+          "quatro mil cento e nove"
+        ],
+        "respostaCorreta": "quatro mil e dezenove",
+        "explicacao": "O número 4.019 tem 4 milhares, 1 dezena e 9 unidades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-sim-04",
+        "enunciado": "Qual alternativa apresenta um número com 6 unidades de milhar, 0 centenas, 4 dezenas e 7 unidades?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6.047",
+          "6.407",
+          "6.470",
+          "6.074"
+        ],
+        "respostaCorreta": "6.047",
+        "explicacao": "O número 6.047 possui 6 milhares, 0 centenas, 4 dezenas e 7 unidades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-sistema-decimal-sim-05",
+        "enunciado": "Qual alternativa explica corretamente a importância do valor posicional?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele mostra que o valor do algarismo depende da posição ocupada.",
+          "Ele indica que todos os algarismos têm sempre o mesmo valor.",
+          "Ele elimina a necessidade de decompor números.",
+          "Ele serve apenas para números pequenos."
+        ],
+        "respostaCorreta": "Ele mostra que o valor do algarismo depende da posição ocupada.",
+        "explicacao": "No sistema decimal, a posição é fundamental para determinar o valor de cada algarismo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-sistema-decimal-sim-06",
+        "enunciado": "Observe os números 5.432, 5.423, 5.342 e 5.324. Qual é o maior deles?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5.324",
+          "5.342",
+          "5.423",
+          "5.432"
+        ],
+        "respostaCorreta": "5.432",
+        "explicacao": "Depois dos milhares, comparamos as centenas, as dezenas e as unidades. O número 5.432 é o maior.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

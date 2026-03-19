@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-preposicoes",
+    "titulo": "Preposições",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Preposição é a palavra que liga termos da frase, estabelecendo relações de sentido entre eles.",
+      "Palavras como de, em, com, por e para são exemplos comuns de preposições.",
+      "As preposições podem indicar lugar, tempo, modo, causa, posse, companhia e outras relações.",
+      "Elas ajudam a organizar as informações e a dar mais precisão ao enunciado.",
+      "Reconhecer as preposições facilita a compreensão da frase e das relações entre as palavras."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são preposições",
+        "texto": "Preposições são palavras que ligam termos de uma frase e mostram a relação entre eles. Em frases como livro de matemática, fui para a escola e saí com meus colegas, as palavras de, para e com estabelecem vínculos de sentido entre os termos. Sem elas, a frase pode perder clareza ou ficar incompleta.",
+        "dica": "Observe as palavras pequenas que unem ideias e mostram relação entre os termos da frase."
+      },
+      {
+        "subtitulo": "Relações de sentido",
+        "texto": "As preposições podem indicar diferentes sentidos. Em em casa, a preposição em indica lugar. Em com atenção, a preposição com indica modo. Em depois da aula, a palavra de participa de uma relação de tempo junto com outras palavras do enunciado. O sentido depende sempre do contexto em que a preposição aparece.",
+        "dica": "Pergunte que relação a palavra está criando: lugar, tempo, companhia, causa, modo ou outra ideia."
+      },
+      {
+        "subtitulo": "Preposição na construção da frase",
+        "texto": "As preposições ajudam a organizar a frase e a ligar palavras de maneira adequada. Elas aparecem com frequência em textos, instruções, descrições e narrativas. Por isso, identificar preposições contribui para a leitura atenta e para a escrita mais clara e correta.",
+        "dica": "Quando uma frase ligar duas informações, verifique se existe uma preposição conectando essas partes."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe a expressão \"caderno de anotações\".",
+        "passos": [
+          "A palavra caderno está ligada a anotações.",
+          "A palavra de une esses dois termos.",
+          "Por isso, de funciona como preposição."
+        ],
+        "resposta": "Na expressão \"caderno de anotações\", a palavra \"de\" é uma preposição."
+      },
+      {
+        "enunciado": "Analise a frase \"Os alunos foram para a biblioteca\".",
+        "passos": [
+          "A frase mostra um deslocamento dos alunos.",
+          "A palavra para estabelece a relação de destino.",
+          "Assim, para é uma preposição."
+        ],
+        "resposta": "Na frase, a palavra \"para\" é uma preposição que indica destino."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-preposicoes-ex-01",
+        "enunciado": "Qual alternativa apresenta uma preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "com",
+          "caderno",
+          "bonito",
+          "estudar"
+        ],
+        "respostaCorreta": "com",
+        "explicacao": "Com é uma preposição, pois liga termos e estabelece relação entre eles.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-preposicoes-ex-02",
+        "enunciado": "Na expressão \"livro de histórias\", qual palavra é preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "livro",
+          "de",
+          "histórias",
+          "qual"
+        ],
+        "respostaCorreta": "de",
+        "explicacao": "De liga os termos livro e histórias, funcionando como preposição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-preposicoes-ex-03",
+        "enunciado": "Qual alternativa apresenta uma frase com preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma estudou bastante.",
+          "Fui com meus colegas ao pátio.",
+          "O caderno está novo.",
+          "A professora sorriu."
+        ],
+        "respostaCorreta": "Fui com meus colegas ao pátio.",
+        "explicacao": "Na frase aparecem preposições, como com, que ligam os termos do enunciado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-preposicoes-ex-04",
+        "enunciado": "Na frase \"Estudei para a prova\", a preposição indica principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "companhia",
+          "destino ou finalidade",
+          "negação",
+          "surpresa"
+        ],
+        "respostaCorreta": "destino ou finalidade",
+        "explicacao": "A preposição para indica a finalidade do estudo na frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-05",
+        "enunciado": "Qual alternativa apresenta corretamente uma relação de lugar por meio de preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "em casa",
+          "muito feliz",
+          "grande livro",
+          "ontem cedo"
+        ],
+        "respostaCorreta": "em casa",
+        "explicacao": "A preposição em ajuda a indicar lugar na expressão em casa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-preposicoes-ex-06",
+        "enunciado": "Assinale a alternativa em que a preposição indica companhia.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "com os amigos",
+          "de manhã",
+          "para a escola",
+          "em silêncio"
+        ],
+        "respostaCorreta": "com os amigos",
+        "explicacao": "A preposição com indica companhia nessa expressão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-07",
+        "enunciado": "Qual alternativa apresenta somente preposições?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de, em, com",
+          "de, livro, com",
+          "para, bonito, em",
+          "casa, escola, de"
+        ],
+        "respostaCorreta": "de, em, com",
+        "explicacao": "As três palavras da alternativa correta são preposições.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-08",
+        "enunciado": "Na frase \"Cheguei depois da aula\", a expressão indica principalmente uma relação de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tempo",
+          "lugar",
+          "companhia",
+          "ordem"
+        ],
+        "respostaCorreta": "tempo",
+        "explicacao": "A expressão depois da aula indica uma relação temporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-09",
+        "enunciado": "Qual alternativa mostra o uso adequado de uma preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fui para a escola.",
+          "Fui escola para.",
+          "Fui a para escola.",
+          "Fui escola a."
+        ],
+        "respostaCorreta": "Fui para a escola.",
+        "explicacao": "A frase correta utiliza a preposição para para ligar adequadamente os termos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-10",
+        "enunciado": "Assinale a alternativa correta sobre as preposições.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As preposições servem apenas para enfeitar a frase.",
+          "As preposições ligam termos e estabelecem relações de sentido.",
+          "As preposições substituem os verbos.",
+          "As preposições só aparecem em poemas."
+        ],
+        "respostaCorreta": "As preposições ligam termos e estabelecem relações de sentido.",
+        "explicacao": "Essa é a função principal das preposições nas frases.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-11",
+        "enunciado": "Em qual alternativa a preposição indica modo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "em casa",
+          "com atenção",
+          "para o pátio",
+          "de João"
+        ],
+        "respostaCorreta": "com atenção",
+        "explicacao": "A expressão com atenção indica modo, isto é, como a ação foi realizada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-12",
+        "enunciado": "Na expressão \"casa de João\", a preposição estabelece principalmente uma ideia de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "posse ou relação",
+          "negação",
+          "emoção",
+          "tempo"
+        ],
+        "respostaCorreta": "posse ou relação",
+        "explicacao": "A preposição de estabelece relação entre casa e João, indicando posse ou pertencimento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-ex-13",
+        "enunciado": "Qual alternativa apresenta uma frase sem preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O aluno estudou muito.",
+          "Saí com meus colegas.",
+          "Fui para casa.",
+          "Cheguei depois da aula."
+        ],
+        "respostaCorreta": "O aluno estudou muito.",
+        "explicacao": "Nessa frase não há preposição ligando termos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-preposicoes-ex-14",
+        "enunciado": "Qual alternativa apresenta uma preposição indicando destino?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "para a biblioteca",
+          "com a turma",
+          "de manhã",
+          "em silêncio"
+        ],
+        "respostaCorreta": "para a biblioteca",
+        "explicacao": "A preposição para indica destino nessa expressão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-preposicoes-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre o uso das preposições?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas não influenciam o sentido da frase.",
+          "Elas ajudam a ligar ideias e a organizar o enunciado.",
+          "Elas são usadas apenas em perguntas.",
+          "Elas substituem qualquer substantivo."
+        ],
+        "respostaCorreta": "Elas ajudam a ligar ideias e a organizar o enunciado.",
+        "explicacao": "As preposições conectam termos e ajudam a construir relações de sentido na frase.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-preposicoes-sim-01",
+        "enunciado": "Na frase \"Os estudantes caminharam até a praça com os professores\", quais preposições aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "até e com",
+          "estudantes e praça",
+          "caminharam e professores",
+          "os e a"
+        ],
+        "respostaCorreta": "até e com",
+        "explicacao": "As palavras até e com são preposições presentes na frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-sim-02",
+        "enunciado": "Em qual alternativa a preposição indica corretamente uma ideia de companhia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "com meus irmãos",
+          "para a sala",
+          "de manhã",
+          "em casa"
+        ],
+        "respostaCorreta": "com meus irmãos",
+        "explicacao": "A preposição com indica companhia nessa expressão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-sim-03",
+        "enunciado": "Qual alternativa apresenta uma explicação correta sobre as preposições?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ligam termos e criam relações de sentido.",
+          "Elas servem para marcar apenas o plural.",
+          "Elas substituem sempre o verbo da frase.",
+          "Elas aparecem apenas no início dos textos."
+        ],
+        "respostaCorreta": "Elas ligam termos e criam relações de sentido.",
+        "explicacao": "Essa alternativa descreve corretamente a função das preposições.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-preposicoes-sim-04",
+        "enunciado": "Na expressão \"estudar para a prova\", a preposição para indica principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "finalidade",
+          "negação",
+          "emoção",
+          "origem"
+        ],
+        "respostaCorreta": "finalidade",
+        "explicacao": "Nesse contexto, para indica a finalidade da ação de estudar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-preposicoes-sim-05",
+        "enunciado": "Assinale a alternativa em que a frase foi construída com uso adequado de preposição.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cheguei em casa depois da aula.",
+          "Cheguei casa depois aula.",
+          "Cheguei da casa depois em aula.",
+          "Cheguei aula depois casa."
+        ],
+        "respostaCorreta": "Cheguei em casa depois da aula.",
+        "explicacao": "A frase correta usa preposições adequadas para ligar e organizar os termos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

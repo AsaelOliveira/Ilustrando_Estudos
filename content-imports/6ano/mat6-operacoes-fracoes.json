@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-operacoes-fracoes",
+    "titulo": "Operações simples com frações",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números racionais",
+    "resumo": [
+      "Frações com denominadores iguais podem ser adicionadas e subtraídas com mais facilidade.",
+      "Nas operações com denominadores iguais, mantemos o denominador e operamos os numeradores.",
+      "Resultados podem ser escritos como fração própria, imprópria ou número misto, dependendo do caso.",
+      "A interpretação do problema ajuda a escolher entre adição e subtração.",
+      "Representações visuais facilitam a compreensão das operações com frações."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Adição de frações com mesmo denominador",
+        "texto": "Quando as frações têm o mesmo denominador, somamos apenas os numeradores e mantemos o denominador. Em 2/7 + 3/7, por exemplo, o resultado é 5/7.",
+        "dica": "O denominador mostra o total de partes iguais em que o inteiro foi dividido, por isso ele permanece o mesmo."
+      },
+      {
+        "subtitulo": "Subtração de frações com mesmo denominador",
+        "texto": "Na subtração, também mantemos o denominador e subtraímos os numeradores. Em 6/9 - 2/9, obtemos 4/9. Essa regra vale quando as frações têm o mesmo denominador.",
+        "dica": "Antes de operar, verifique se os denominadores são iguais."
+      },
+      {
+        "subtitulo": "Interpretação em situações-problema",
+        "texto": "As operações com frações aparecem em situações como partes de uma pizza, trechos de um percurso ou porções de um recipiente. Ler com atenção ajuda a decidir se é necessário juntar partes ou retirar partes.",
+        "dica": "Se a situação fala em juntar, pense em adição; se fala em retirar ou restar, pense em subtração."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva 2/5 + 1/5.",
+        "passos": [
+          "Os denominadores são iguais.",
+          "Some os numeradores: 2 + 1 = 3.",
+          "Mantenha o denominador 5."
+        ],
+        "resposta": "2/5 + 1/5 = 3/5."
+      },
+      {
+        "enunciado": "Resolva 7/8 - 3/8.",
+        "passos": [
+          "Os denominadores são iguais.",
+          "Subtraia os numeradores: 7 - 3 = 4.",
+          "Mantenha o denominador 8."
+        ],
+        "resposta": "7/8 - 3/8 = 4/8."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-operacoes-fracoes-ex-01",
+        "enunciado": "Qual é o resultado de 2/7 + 3/7?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5/7",
+          "5/14",
+          "6/7",
+          "1/7"
+        ],
+        "respostaCorreta": "5/7",
+        "explicacao": "Somamos os numeradores e mantemos o denominador: 2 + 3 = 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-02",
+        "enunciado": "Qual é o resultado de 6/9 - 2/9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4/9",
+          "4/18",
+          "8/9",
+          "2/9"
+        ],
+        "respostaCorreta": "4/9",
+        "explicacao": "Subtraímos os numeradores e mantemos o denominador.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-03",
+        "enunciado": "Em uma pizza dividida em 8 partes iguais, foram comidas 3 partes no almoço e 2 no jantar. Que fração representa o total comido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5/8",
+          "1/8",
+          "6/8",
+          "5/16"
+        ],
+        "respostaCorreta": "5/8",
+        "explicacao": "Somamos 3/8 + 2/8 e obtemos 5/8.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-04",
+        "enunciado": "De um tanque cheio, foram usados 4/10 pela manhã e 3/10 à tarde. Que fração do tanque foi usada ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7/10",
+          "1/10",
+          "7/20",
+          "12/10"
+        ],
+        "respostaCorreta": "7/10",
+        "explicacao": "Somamos as partes usadas: 4/10 + 3/10 = 7/10.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-05",
+        "enunciado": "Qual é o resultado de 5/6 - 1/6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4/6",
+          "4/12",
+          "6/6",
+          "5/5"
+        ],
+        "respostaCorreta": "4/6",
+        "explicacao": "Os denominadores são iguais, então subtraímos 5 - 1 e mantemos o 6.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-06",
+        "enunciado": "Qual alternativa apresenta corretamente 1/4 + 2/4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/4",
+          "3/8",
+          "2/8",
+          "1/2"
+        ],
+        "respostaCorreta": "3/4",
+        "explicacao": "Somamos os numeradores: 1 + 2 = 3, mantendo o denominador 4.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-07",
+        "enunciado": "Qual é o resultado de 3/11 + 4/11?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7/11",
+          "7/22",
+          "1/11",
+          "12/11"
+        ],
+        "respostaCorreta": "7/11",
+        "explicacao": "Os denominadores são iguais, então somamos apenas os numeradores.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-08",
+        "enunciado": "Qual é o resultado de 8/9 - 5/9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/9",
+          "13/9",
+          "3/18",
+          "2/9"
+        ],
+        "respostaCorreta": "3/9",
+        "explicacao": "Subtraindo os numeradores, obtemos 3/9.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-09",
+        "enunciado": "Qual alternativa está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Em 2/5 + 1/5, o resultado é 3/10.",
+          "Em 2/5 + 1/5, o resultado é 3/5.",
+          "Em 2/5 + 1/5, o resultado é 2/10.",
+          "Em 2/5 + 1/5, o denominador deve ser somado."
+        ],
+        "respostaCorreta": "Em 2/5 + 1/5, o resultado é 3/5.",
+        "explicacao": "Em frações com denominadores iguais, somamos os numeradores e mantemos o denominador.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-10",
+        "enunciado": "Em uma trilha, Lucas percorreu 2/6 de manhã e 1/6 à tarde. Que fração do percurso total ele percorreu?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/6",
+          "2/6",
+          "1/6",
+          "3/12"
+        ],
+        "respostaCorreta": "3/6",
+        "explicacao": "Somamos as partes percorridas: 2/6 + 1/6 = 3/6.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-11",
+        "enunciado": "Se um recipiente estava cheio e foram retirados 4/7 de seu conteúdo, que fração permaneceu?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/7",
+          "4/7",
+          "5/7",
+          "1/7"
+        ],
+        "respostaCorreta": "3/7",
+        "explicacao": "De um inteiro, se retiramos 4/7, permanecem 3/7.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-12",
+        "enunciado": "Qual alternativa apresenta o resultado de 4/10 + 3/10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7/10",
+          "7/20",
+          "1/10",
+          "3/10"
+        ],
+        "respostaCorreta": "7/10",
+        "explicacao": "Somamos 4 + 3 e mantemos o denominador 10.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-13",
+        "enunciado": "Um aluno afirmou que 5/8 - 2/8 = 3/16. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque o resultado correto é 3/8",
+          "correta, porque subtraiu numerador e denominador",
+          "incorreta, porque o resultado correto é 7/8"
+        ],
+        "respostaCorreta": "incorreta, porque o resultado correto é 3/8",
+        "explicacao": "Na subtração com denominadores iguais, mantemos o denominador.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-14",
+        "enunciado": "Qual alternativa apresenta uma soma maior que 1 inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2/5 + 1/5",
+          "3/4 + 2/4",
+          "1/8 + 2/8",
+          "4/9 + 3/9"
+        ],
+        "respostaCorreta": "3/4 + 2/4",
+        "explicacao": "A soma é 5/4, que é maior que 1 inteiro.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-ex-15",
+        "enunciado": "Qual situação pede subtração de frações?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Juntar 2/8 com 3/8",
+          "Acrescentar 1/5 a 2/5",
+          "Retirar 2/6 de 5/6",
+          "Somar 4/10 e 1/10"
+        ],
+        "respostaCorreta": "Retirar 2/6 de 5/6",
+        "explicacao": "Quando a situação fala em retirar uma parte de outra, usamos subtração.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-operacoes-fracoes-sim-01",
+        "enunciado": "Qual é o resultado de 7/10 - 4/10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/10",
+          "3/20",
+          "11/10",
+          "4/10"
+        ],
+        "respostaCorreta": "3/10",
+        "explicacao": "Subtraímos os numeradores e mantemos o denominador.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-sim-02",
+        "enunciado": "Em uma torta dividida em 12 partes iguais, foram servidas 5 partes no almoço e 4 no jantar. Que fração da torta foi servida ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9/12",
+          "1/12",
+          "20/12",
+          "9/24"
+        ],
+        "respostaCorreta": "9/12",
+        "explicacao": "Somamos 5/12 + 4/12 e obtemos 9/12.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-sim-03",
+        "enunciado": "De um percurso, Sofia já fez 6/8. Se 2/8 ainda faltam, qual alternativa descreve corretamente a situação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A parte já feita e a parte que falta somam 8/8.",
+          "A parte já feita é menor que a parte que falta.",
+          "A parte que falta é 6/8.",
+          "A soma das partes é 6/16."
+        ],
+        "respostaCorreta": "A parte já feita e a parte que falta somam 8/8.",
+        "explicacao": "As duas frações completam o inteiro: 6/8 + 2/8 = 8/8.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-sim-04",
+        "enunciado": "Qual alternativa apresenta corretamente 4/9 + 3/9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7/9",
+          "7/18",
+          "1/9",
+          "12/9"
+        ],
+        "respostaCorreta": "7/9",
+        "explicacao": "Somando os numeradores, obtemos 7/9.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-operacoes-fracoes-sim-05",
+        "enunciado": "Um aluno calculou 3/5 + 4/5 e respondeu 7/10. Qual alternativa avalia corretamente essa resposta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Está correta, porque 3 + 4 = 7 e 5 + 5 = 10.",
+          "Está incorreta, porque o resultado correto é 7/5.",
+          "Está correta, porque toda soma de frações gera um denominador maior.",
+          "Está incorreta, porque o resultado correto é 1/5."
+        ],
+        "respostaCorreta": "Está incorreta, porque o resultado correto é 7/5.",
+        "explicacao": "Em frações com mesmo denominador, somamos apenas os numeradores e mantemos o denominador.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

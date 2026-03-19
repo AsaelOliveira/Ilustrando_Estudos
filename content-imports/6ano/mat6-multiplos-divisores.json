@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-multiplos-divisores",
+    "titulo": "Múltiplos e divisores",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números naturais",
+    "resumo": [
+      "Os múltiplos de um número são os resultados de sua multiplicação por números naturais.",
+      "Os divisores de um número são os números que o dividem exatamente, sem deixar resto.",
+      "Todo número natural possui infinitos múltiplos.",
+      "Todo número natural possui uma quantidade finita de divisores.",
+      "O estudo de múltiplos e divisores ajuda na resolução de problemas de organização e contagem."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são múltiplos",
+        "texto": "Os múltiplos de um número aparecem quando o multiplicamos por 0, 1, 2, 3 e outros números naturais. Os múltiplos de 4, por exemplo, são 0, 4, 8, 12, 16 e assim por diante. Isso significa que o conjunto de múltiplos nunca termina.",
+        "dica": "Para encontrar múltiplos, basta montar a tabuada do número."
+      },
+      {
+        "subtitulo": "O que são divisores",
+        "texto": "Um divisor de um número é um valor que consegue dividi-lo exatamente, isto é, sem resto. O número 12, por exemplo, tem como divisores 1, 2, 3, 4, 6 e 12. Nem todos os números são divisores de um mesmo valor.",
+        "dica": "Se a divisão deixar resto, o número testado não é divisor."
+      },
+      {
+        "subtitulo": "Aplicações no cotidiano",
+        "texto": "Múltiplos e divisores aparecem em situações de organização, como formar grupos iguais, distribuir objetos sem sobras e prever coincidências em ciclos. Eles também são importantes para estudar critérios de divisibilidade.",
+        "dica": "Quando um problema fala em divisão exata ou em repetição regular, pense em múltiplos e divisores."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Liste os quatro primeiros múltiplos positivos de 6.",
+        "passos": [
+          "Multiplique 6 por 1, 2, 3 e 4.",
+          "Os resultados serão 6, 12, 18 e 24.",
+          "Esses números formam a sequência pedida."
+        ],
+        "resposta": "Os quatro primeiros múltiplos positivos de 6 são 6, 12, 18 e 24."
+      },
+      {
+        "enunciado": "Verifique se 5 é divisor de 35.",
+        "passos": [
+          "Faça a divisão 35 ÷ 5.",
+          "O resultado é 7 e não há resto.",
+          "Isso mostra que a divisão é exata."
+        ],
+        "resposta": "Sim, 5 é divisor de 35."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-multiplos-divisores-ex-01",
+        "enunciado": "Qual é um múltiplo de 7?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "13",
+          "21",
+          "25",
+          "31"
+        ],
+        "respostaCorreta": "21",
+        "explicacao": "O número 21 é múltiplo de 7, pois 7 x 3 = 21.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-02",
+        "enunciado": "Qual número é divisor de 24?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "7",
+          "8",
+          "10"
+        ],
+        "respostaCorreta": "8",
+        "explicacao": "O número 8 é divisor de 24, porque 24 ÷ 8 = 3, sem resto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-03",
+        "enunciado": "Qual alternativa apresenta apenas múltiplos de 5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5, 10 e 15",
+          "5, 12 e 20",
+          "10, 18 e 25",
+          "15, 21 e 30"
+        ],
+        "respostaCorreta": "5, 10 e 15",
+        "explicacao": "Todos esses números pertencem à tabuada do 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-04",
+        "enunciado": "Qual alternativa apresenta apenas divisores de 18?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1, 2 e 3",
+          "2, 6 e 9",
+          "3, 4 e 6",
+          "1, 5 e 18"
+        ],
+        "respostaCorreta": "2, 6 e 9",
+        "explicacao": "Os números 2, 6 e 9 dividem 18 exatamente, sem deixar resto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-05",
+        "enunciado": "Qual número não é múltiplo de 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12",
+          "16",
+          "18",
+          "24"
+        ],
+        "respostaCorreta": "18",
+        "explicacao": "O número 18 não aparece na tabuada do 4.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-06",
+        "enunciado": "Se um número é divisor de 30, qual divisão precisa ser exata?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "30 dividido por esse número",
+          "esse número dividido por 30",
+          "30 somado a esse número",
+          "30 multiplicado por esse número"
+        ],
+        "respostaCorreta": "30 dividido por esse número",
+        "explicacao": "Ser divisor significa dividir o número exatamente, sem resto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-07",
+        "enunciado": "Qual alternativa apresenta um múltiplo comum de 2 e 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respostaCorreta": "6",
+        "explicacao": "O número 6 pertence tanto à tabuada do 2 quanto à tabuada do 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-08",
+        "enunciado": "Qual é o menor múltiplo positivo de 9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "0",
+          "1",
+          "9",
+          "18"
+        ],
+        "respostaCorreta": "9",
+        "explicacao": "O menor múltiplo positivo de 9 é o próprio 9.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-09",
+        "enunciado": "Qual alternativa apresenta todos os divisores de 10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1, 2, 5 e 10",
+          "1, 2, 4 e 10",
+          "2, 3, 5 e 10",
+          "1, 5, 10 e 20"
+        ],
+        "respostaCorreta": "1, 2, 5 e 10",
+        "explicacao": "Esses são todos os números que dividem 10 exatamente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-10",
+        "enunciado": "Qual número é ao mesmo tempo múltiplo de 3 e de 5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "12",
+          "15",
+          "18"
+        ],
+        "respostaCorreta": "15",
+        "explicacao": "O número 15 aparece tanto na tabuada do 3 quanto na do 5.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-11",
+        "enunciado": "Qual alternativa está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todo número tem apenas dois múltiplos.",
+          "Todo número tem infinitos múltiplos.",
+          "Todo número tem infinitos divisores.",
+          "Todo múltiplo é menor que o número original."
+        ],
+        "respostaCorreta": "Todo número tem infinitos múltiplos.",
+        "explicacao": "Basta continuar multiplicando o número por naturais cada vez maiores para obter novos múltiplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-12",
+        "enunciado": "Qual alternativa apresenta um número que não é divisor de 36?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3",
+          "4",
+          "6",
+          "7"
+        ],
+        "respostaCorreta": "7",
+        "explicacao": "A divisão 36 ÷ 7 não é exata, portanto 7 não é divisor de 36.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-13",
+        "enunciado": "Se um número termina em 0, ele certamente é múltiplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2 e 5",
+          "3 e 7",
+          "4 e 9",
+          "6 e 8"
+        ],
+        "respostaCorreta": "2 e 5",
+        "explicacao": "Todo número terminado em 0 é divisível por 2 e por 5.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-14",
+        "enunciado": "Uma professora quer formar grupos iguais com 24 alunos, sem sobrar ninguém. Qual quantidade de grupos é possível?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5 grupos",
+          "7 grupos",
+          "8 grupos",
+          "10 grupos"
+        ],
+        "respostaCorreta": "8 grupos",
+        "explicacao": "Como 24 ÷ 8 = 3, é possível formar 8 grupos iguais sem sobras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-ex-15",
+        "enunciado": "Qual alternativa avalia corretamente a afirmação: 'Todo divisor de um número também é menor ou igual a esse número'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A afirmação é verdadeira.",
+          "A afirmação é falsa, porque existem divisores maiores.",
+          "A afirmação é falsa, porque divisor sempre é zero.",
+          "A afirmação só vale para números pares."
+        ],
+        "respostaCorreta": "A afirmação é verdadeira.",
+        "explicacao": "Um divisor positivo de um número natural não pode ser maior que esse número.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-multiplos-divisores-sim-01",
+        "enunciado": "Qual alternativa apresenta o primeiro múltiplo comum positivo de 4 e 6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "O número 12 é o menor múltiplo comum positivo entre 4 e 6.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-sim-02",
+        "enunciado": "Qual alternativa apresenta apenas divisores de 20?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1, 2, 4, 5, 10 e 20",
+          "1, 2, 3, 4, 5 e 20",
+          "2, 4, 6, 10 e 20",
+          "1, 5, 7, 10 e 20"
+        ],
+        "respostaCorreta": "1, 2, 4, 5, 10 e 20",
+        "explicacao": "Esses são exatamente os divisores positivos de 20.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-multiplos-divisores-sim-03",
+        "enunciado": "Uma sirene toca de 6 em 6 minutos e outra toca de 8 em 8 minutos. Se elas tocaram juntas agora, em qual tempo voltarão a tocar juntas pela primeira vez?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12 minutos",
+          "18 minutos",
+          "24 minutos",
+          "48 minutos"
+        ],
+        "respostaCorreta": "24 minutos",
+        "explicacao": "O primeiro múltiplo comum de 6 e 8, além do zero, é 24.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-sim-04",
+        "enunciado": "Qual alternativa mostra corretamente um número que é divisor de 45 e múltiplo de 3 ao mesmo tempo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "9",
+          "12",
+          "18"
+        ],
+        "respostaCorreta": "9",
+        "explicacao": "O número 9 divide 45 exatamente e também é múltiplo de 3.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-multiplos-divisores-sim-05",
+        "enunciado": "Qual alternativa está correta sobre o número 1?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É múltiplo de todos os números.",
+          "É divisor de todos os números naturais.",
+          "Não é divisor de nenhum número.",
+          "Só é divisor de números ímpares."
+        ],
+        "respostaCorreta": "É divisor de todos os números naturais.",
+        "explicacao": "Todo número natural dividido por 1 permanece o mesmo, sem deixar resto.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

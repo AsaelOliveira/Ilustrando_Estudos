@@ -1,0 +1,421 @@
+[
+  {
+    "id": "port6-substantivos",
+    "titulo": "Substantivos",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Substantivo é a palavra que nomeia seres, lugares, objetos, sentimentos, ideias e fenômenos da natureza.",
+      "Os substantivos podem ser classificados como comuns ou próprios, de acordo com o tipo de nomeação que fazem.",
+      "Também podem ser classificados como concretos ou abstratos, simples ou compostos.",
+      "Os substantivos variam em gênero e número, como em menino/menina e livro/livros.",
+      "Reconhecer os substantivos em frases e textos ajuda na leitura, na interpretação e na produção escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é substantivo",
+        "texto": "Substantivo é a classe de palavras usada para dar nome aos seres, aos lugares, aos objetos, aos sentimentos, às ideias e a vários elementos do nosso cotidiano. Palavras como escola, professora, Recife, alegria e chuva são exemplos de substantivos. Sempre que uma palavra estiver nomeando alguma coisa, há grande chance de ela ser um substantivo.",
+        "dica": "Pergunte a si mesmo: esta palavra está dando nome a algo? Se estiver, provavelmente é um substantivo."
+      },
+      {
+        "subtitulo": "Classificações mais frequentes",
+        "texto": "Os substantivos podem ser comuns, quando nomeiam os seres de forma geral, como cidade, aluno e cachorro, ou próprios, quando nomeiam um ser específico, como Salvador, Lucas e Brasil. Eles também podem ser concretos, quando nomeiam algo percebido como ser, objeto ou elemento independente, como cadeira, vento e fada, ou abstratos, quando nomeiam sentimentos, qualidades, estados e ações, como tristeza, coragem e amizade.",
+        "dica": "Nomes de pessoas, países, estados, cidades e rios costumam ser substantivos próprios e começam com letra maiúscula."
+      },
+      {
+        "subtitulo": "Formação e flexão dos substantivos",
+        "texto": "Os substantivos simples são formados por uma só palavra, como flor e pedra. Os compostos são formados por mais de uma palavra ou radical, como guarda-chuva e passatempo. Além disso, os substantivos variam em gênero e número. Assim, aluno pode se relacionar com aluna, e caderno pode passar para cadernos. Observar essas variações ajuda o aluno a escrever com mais precisão.",
+        "dica": "Ao analisar um substantivo, observe três pontos: que nome ele dá, como ele se classifica e se está no singular ou no plural."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Classifique a palavra \"Brasil\" quanto ao tipo de substantivo.",
+        "passos": [
+          "A palavra Brasil nomeia um país específico.",
+          "Quando um substantivo nomeia um ser específico, ele é classificado como próprio.",
+          "Por isso, a palavra Brasil deve ser escrita com letra inicial maiúscula."
+        ],
+        "resposta": "Brasil é um substantivo próprio."
+      },
+      {
+        "enunciado": "Analise a palavra \"amizade\".",
+        "passos": [
+          "A palavra amizade nomeia um sentimento ou uma relação afetiva.",
+          "Sentimentos e qualidades são classificados como substantivos abstratos.",
+          "Por isso, amizade não é substantivo concreto."
+        ],
+        "resposta": "Amizade é um substantivo abstrato."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-substantivos-ex-01",
+        "enunciado": "Qual alternativa apresenta um substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correr",
+          "feliz",
+          "escola",
+          "rapidamente"
+        ],
+        "respostaCorreta": "escola",
+        "explicacao": "Escola é substantivo porque nomeia um lugar. As outras palavras pertencem a outras classes gramaticais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-02",
+        "enunciado": "Assinale a alternativa que apresenta um substantivo próprio.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cidade",
+          "Pedro",
+          "menino",
+          "caderno"
+        ],
+        "respostaCorreta": "Pedro",
+        "explicacao": "Pedro nomeia uma pessoa de forma específica, por isso é um substantivo próprio.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-03",
+        "enunciado": "A palavra \"tristeza\" é classificada como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substantivo abstrato",
+          "substantivo próprio",
+          "substantivo composto",
+          "substantivo comum"
+        ],
+        "respostaCorreta": "substantivo abstrato",
+        "explicacao": "Tristeza nomeia um sentimento, e sentimentos são classificados como substantivos abstratos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-04",
+        "enunciado": "Qual alternativa apresenta um substantivo concreto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "saudade",
+          "alegria",
+          "mesa",
+          "bondade"
+        ],
+        "respostaCorreta": "mesa",
+        "explicacao": "Mesa nomeia um objeto percebido concretamente, por isso é um substantivo concreto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-05",
+        "enunciado": "Na expressão \"guarda-roupa\", o substantivo é classificado como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "abstrato",
+          "composto",
+          "próprio",
+          "coletivo"
+        ],
+        "respostaCorreta": "composto",
+        "explicacao": "Guarda-roupa é formado por mais de um elemento, por isso é um substantivo composto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-06",
+        "enunciado": "Qual palavra está no plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "flor",
+          "janela",
+          "alunos",
+          "cidade"
+        ],
+        "respostaCorreta": "alunos",
+        "explicacao": "Alunos está no plural porque indica mais de um aluno.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-07",
+        "enunciado": "Assinale a alternativa em que a palavra destacada está no feminino.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menina",
+          "caderno",
+          "garoto",
+          "livro"
+        ],
+        "respostaCorreta": "menina",
+        "explicacao": "Menina é um substantivo feminino. As demais palavras estão no masculino.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-08",
+        "enunciado": "Na frase \"A professora organizou os livros\", qual palavra é substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizou",
+          "os",
+          "professora",
+          "a"
+        ],
+        "respostaCorreta": "professora",
+        "explicacao": "Professora é substantivo porque nomeia uma pessoa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-09",
+        "enunciado": "Qual alternativa apresenta um substantivo comum?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Recife",
+          "Brasil",
+          "Ana",
+          "praia"
+        ],
+        "respostaCorreta": "praia",
+        "explicacao": "Praia nomeia um lugar de forma geral, por isso é um substantivo comum.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-10",
+        "enunciado": "Qual palavra nomeia um sentimento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "coragem",
+          "caderno",
+          "janela",
+          "parque"
+        ],
+        "respostaCorreta": "coragem",
+        "explicacao": "Coragem nomeia uma qualidade ou disposição interior, por isso é um substantivo abstrato.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-substantivos-ex-11",
+        "enunciado": "Em qual alternativa todas as palavras são substantivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "caderno, escola, amizade",
+          "bonito, escola, correr",
+          "andar, janela, rápido",
+          "feliz, menina, estudar"
+        ],
+        "respostaCorreta": "caderno, escola, amizade",
+        "explicacao": "As três palavras nomeiam seres, lugares ou ideias. As demais alternativas misturam substantivos com palavras de outras classes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-12",
+        "enunciado": "Qual alternativa apresenta um substantivo simples?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "guarda-chuva",
+          "passatempo",
+          "flor",
+          "beija-flor"
+        ],
+        "respostaCorreta": "flor",
+        "explicacao": "Flor é formada por uma só palavra, por isso é um substantivo simples.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-13",
+        "enunciado": "Leia a frase: \"Manaus recebeu muitos visitantes.\" A palavra \"Manaus\" é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substantivo comum",
+          "substantivo próprio",
+          "substantivo abstrato",
+          "substantivo coletivo"
+        ],
+        "respostaCorreta": "substantivo próprio",
+        "explicacao": "Manaus nomeia uma cidade específica, por isso é um substantivo próprio.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-14",
+        "enunciado": "Qual alternativa mostra corretamente a passagem do singular para o plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "papel - papeis",
+          "livro - livros",
+          "flor - floro",
+          "cidade - cidados"
+        ],
+        "respostaCorreta": "livro - livros",
+        "explicacao": "Livro passa para livros no plural. As outras formas estão incorretas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-15",
+        "enunciado": "A palavra \"chuva\" é melhor classificada como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substantivo concreto",
+          "substantivo abstrato",
+          "substantivo próprio",
+          "substantivo feminino plural"
+        ],
+        "respostaCorreta": "substantivo concreto",
+        "explicacao": "Chuva nomeia um fenômeno da natureza, por isso é classificada como substantivo concreto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-16",
+        "enunciado": "Em qual alternativa há um substantivo próprio e um substantivo comum, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cidade e Recife",
+          "Maria e escola",
+          "livro e Pedro",
+          "amizade e Ana"
+        ],
+        "respostaCorreta": "Maria e escola",
+        "explicacao": "Maria é substantivo próprio e escola é substantivo comum.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-17",
+        "enunciado": "Na frase \"A amizade fortalece a turma\", qual palavra é um substantivo abstrato?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "turma",
+          "fortalece",
+          "amizade",
+          "a"
+        ],
+        "respostaCorreta": "amizade",
+        "explicacao": "Amizade nomeia um sentimento ou vínculo afetivo, por isso é um substantivo abstrato.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-18",
+        "enunciado": "Qual alternativa apresenta somente substantivos concretos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mesa, cadeira, cachorro",
+          "alegria, coragem, amizade",
+          "tristeza, escola, beleza",
+          "esperança, livro, bondade"
+        ],
+        "respostaCorreta": "mesa, cadeira, cachorro",
+        "explicacao": "Mesa, cadeira e cachorro nomeiam seres ou objetos percebidos de forma concreta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-ex-19",
+        "enunciado": "Assinale a afirmativa correta sobre os substantivos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todo substantivo abstrato é nome de cidade.",
+          "Substantivos próprios nomeiam seres de forma específica.",
+          "Substantivos comuns sempre começam com letra maiúscula.",
+          "Substantivos compostos são formados por uma única palavra simples."
+        ],
+        "respostaCorreta": "Substantivos próprios nomeiam seres de forma específica.",
+        "explicacao": "Essa afirmativa está correta. As demais apresentam definições incorretas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-substantivos-ex-20",
+        "enunciado": "Leia o trecho: \"O menino levou o caderno para a escola.\" Quantos substantivos aparecem nele?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um",
+          "dois",
+          "três",
+          "quatro"
+        ],
+        "respostaCorreta": "três",
+        "explicacao": "Os substantivos do trecho são menino, caderno e escola.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-substantivos-sim-01",
+        "enunciado": "Qual alternativa apresenta a classificação correta da palavra \"esperança\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substantivo abstrato",
+          "substantivo próprio",
+          "substantivo composto",
+          "substantivo coletivo"
+        ],
+        "respostaCorreta": "substantivo abstrato",
+        "explicacao": "Esperança nomeia um sentimento, por isso é classificada como substantivo abstrato.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-sim-02",
+        "enunciado": "Em qual alternativa a palavra destacada foi classificada corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Recife - substantivo comum",
+          "janela - substantivo próprio",
+          "beleza - substantivo abstrato",
+          "passatempo - substantivo simples"
+        ],
+        "respostaCorreta": "beleza - substantivo abstrato",
+        "explicacao": "Beleza nomeia uma qualidade, por isso é substantivo abstrato. As demais classificações estão incorretas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-sim-03",
+        "enunciado": "Leia a frase: \"Lucas e Marina visitaram o museu da cidade.\" Qual alternativa apresenta apenas os substantivos próprios do trecho?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lucas e Marina",
+          "museu e cidade",
+          "visitaram e museu",
+          "Marina e cidade"
+        ],
+        "respostaCorreta": "Lucas e Marina",
+        "explicacao": "Lucas e Marina nomeiam pessoas específicas, por isso são substantivos próprios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-sim-04",
+        "enunciado": "Qual alternativa apresenta um substantivo composto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "janela",
+          "livro",
+          "guarda-chuva",
+          "cidade"
+        ],
+        "respostaCorreta": "guarda-chuva",
+        "explicacao": "Guarda-chuva é formado por mais de um elemento, o que caracteriza um substantivo composto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-substantivos-sim-05",
+        "enunciado": "Na frase \"As crianças sentiram alegria com a notícia\", quais palavras são substantivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crianças, alegria e notícia",
+          "sentiram, alegria e com",
+          "as, crianças e com",
+          "alegria, com e notícia"
+        ],
+        "respostaCorreta": "crianças, alegria e notícia",
+        "explicacao": "Crianças, alegria e notícia nomeiam seres ou ideias e, por isso, são substantivos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-substantivos-sim-06",
+        "enunciado": "Assinale a alternativa correta sobre o uso dos substantivos em textos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os substantivos servem apenas para indicar ações.",
+          "Os substantivos ajudam a nomear elementos importantes de uma frase ou de um texto.",
+          "Os substantivos não variam em número.",
+          "Os substantivos próprios são sempre abstratos."
+        ],
+        "respostaCorreta": "Os substantivos ajudam a nomear elementos importantes de uma frase ou de um texto.",
+        "explicacao": "Os substantivos têm a função de nomear seres, objetos, lugares, sentimentos e outros elementos do texto.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

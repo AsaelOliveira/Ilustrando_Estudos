@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-tabelas-graficos",
+    "titulo": "Tabelas e gráficos",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Tratamento da informação",
+    "resumo": [
+      "Tabelas e gráficos organizam dados de forma clara e visual.",
+      "Eles ajudam a comparar quantidades e interpretar informações.",
+      "Gráficos de colunas e tabelas simples são comuns no cotidiano escolar.",
+      "É importante observar títulos, categorias e valores antes de responder.",
+      "Ler dados com atenção evita conclusões erradas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Leitura de tabelas",
+        "texto": "As tabelas organizam dados em linhas e colunas. Para interpretá-las corretamente, é preciso observar o título, os nomes das categorias e os valores apresentados em cada linha ou coluna.",
+        "dica": "Antes de responder, descubra o que cada coluna representa."
+      },
+      {
+        "subtitulo": "Leitura de gráficos",
+        "texto": "Os gráficos transformam números em representações visuais. Em gráficos de colunas, a altura das colunas ajuda a comparar valores. Quanto maior a coluna, maior a quantidade representada.",
+        "dica": "Compare sempre as alturas ou os comprimentos das partes do gráfico."
+      },
+      {
+        "subtitulo": "Interpretação de informações",
+        "texto": "Ler gráficos e tabelas vai além de identificar números. Muitas vezes é necessário comparar dados, descobrir o maior e o menor valor ou calcular diferenças entre quantidades.",
+        "dica": "Leia a pergunta com atenção para saber se o exercício pede identificação, comparação ou cálculo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Em uma tabela, a turma A tem 28 alunos e a turma B tem 31. Compare as turmas.",
+        "passos": [
+          "Observe os valores informados na tabela.",
+          "Compare 28 e 31.",
+          "O maior valor indica a turma com maior quantidade de alunos."
+        ],
+        "resposta": "A turma B tem mais alunos que a turma A."
+      },
+      {
+        "enunciado": "Em um gráfico, a coluna de maçã está em 12 e a de banana está em 9.",
+        "passos": [
+          "Observe os valores representados por cada coluna.",
+          "Compare 12 e 9.",
+          "A diferença entre eles é 3."
+        ],
+        "resposta": "Maçã aparece 3 unidades a mais que banana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-tabelas-graficos-ex-01",
+        "enunciado": "Qual é a principal função de uma tabela?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenhar figuras geométricas",
+          "organizar dados",
+          "medir comprimentos",
+          "resolver multiplicações"
+        ],
+        "respostaCorreta": "organizar dados",
+        "explicacao": "As tabelas servem para organizar informações de forma clara.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-02",
+        "enunciado": "Em um gráfico de colunas, o que indica uma coluna mais alta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um valor menor",
+          "um valor maior",
+          "um erro no gráfico",
+          "a ausência de dados"
+        ],
+        "respostaCorreta": "um valor maior",
+        "explicacao": "Nos gráficos de colunas, a altura representa a quantidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-03",
+        "enunciado": "Ao ler uma tabela, o que deve ser observado primeiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas a última linha",
+          "o título e as categorias",
+          "somente os maiores números",
+          "a cor da tabela"
+        ],
+        "respostaCorreta": "o título e as categorias",
+        "explicacao": "O título e as categorias ajudam a entender o que está sendo apresentado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-04",
+        "enunciado": "Se um gráfico mostra 12 livros de aventura e 8 de mistério, qual gênero tem maior quantidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mistério",
+          "aventura",
+          "os dois têm a mesma quantidade",
+          "não é possível saber"
+        ],
+        "respostaCorreta": "aventura",
+        "explicacao": "O valor 12 é maior que 8.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-05",
+        "enunciado": "Se uma tabela mostra 20 meninos e 18 meninas, quantos alunos há ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "18",
+          "20",
+          "38"
+        ],
+        "respostaCorreta": "38",
+        "explicacao": "Somamos 20 e 18 para obter o total de 38 alunos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-06",
+        "enunciado": "Qual alternativa descreve corretamente um gráfico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É usado para esconder informações.",
+          "É uma forma visual de apresentar dados.",
+          "Serve apenas para números muito grandes.",
+          "Não permite comparação de valores."
+        ],
+        "respostaCorreta": "É uma forma visual de apresentar dados.",
+        "explicacao": "Gráficos ajudam a visualizar e comparar informações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-07",
+        "enunciado": "Em um gráfico, a coluna de azul marca 14 e a de verde marca 9. Qual é a diferença entre as quantidades?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respostaCorreta": "5",
+        "explicacao": "A diferença entre 14 e 9 é 5.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-08",
+        "enunciado": "Qual alternativa apresenta uma pergunta que pode ser respondida por uma tabela?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Qual é a cor mais bonita do mundo?",
+          "Quantos alunos escolheram cada esporte?",
+          "Qual figura geométrica é mais elegante?",
+          "Como desenhar um cubo?"
+        ],
+        "respostaCorreta": "Quantos alunos escolheram cada esporte?",
+        "explicacao": "Tabelas organizam quantidades e categorias, como a escolha de esportes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-09",
+        "enunciado": "O que uma legenda pode fazer em um gráfico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indicar o significado das cores ou símbolos",
+          "substituir os valores do gráfico",
+          "apagar as categorias",
+          "mudar a altura das colunas"
+        ],
+        "respostaCorreta": "indicar o significado das cores ou símbolos",
+        "explicacao": "A legenda ajuda o leitor a entender melhor a representação visual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-10",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gráficos não permitem comparação.",
+          "Tabelas e gráficos ajudam na organização e leitura de dados.",
+          "Gráficos só servem para Matemática financeira.",
+          "Tabelas são inúteis para pesquisas."
+        ],
+        "respostaCorreta": "Tabelas e gráficos ajudam na organização e leitura de dados.",
+        "explicacao": "Essa é uma função essencial dessas formas de representação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-11",
+        "enunciado": "Um aluno olhou apenas para a cor das colunas e respondeu sem verificar os valores. O problema dessa atitude é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nenhum, porque a cor já mostra tudo",
+          "que a interpretação correta depende também dos valores e da legenda",
+          "que gráficos não usam cores",
+          "que os valores não importam"
+        ],
+        "respostaCorreta": "que a interpretação correta depende também dos valores e da legenda",
+        "explicacao": "As cores sozinhas não bastam; é preciso entender o que elas representam.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-12",
+        "enunciado": "Se uma tabela mostra 12 votos para a opção A, 15 para a opção B e 9 para a opção C, qual teve mais votos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "opção A",
+          "opção B",
+          "opção C",
+          "todas tiveram a mesma quantidade"
+        ],
+        "respostaCorreta": "opção B",
+        "explicacao": "O maior valor da tabela é 15, correspondente à opção B.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-13",
+        "enunciado": "Se um gráfico mostra 10 alunos no grupo 1 e 13 no grupo 2, quantos alunos os dois grupos têm juntos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3",
+          "13",
+          "20",
+          "23"
+        ],
+        "respostaCorreta": "23",
+        "explicacao": "Somamos 10 e 13 para obter 23 alunos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-14",
+        "enunciado": "Qual alternativa representa melhor o uso de um gráfico de colunas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comparar quantidades entre categorias",
+          "escrever uma redação",
+          "resolver frações automaticamente",
+          "substituir todos os cálculos"
+        ],
+        "respostaCorreta": "comparar quantidades entre categorias",
+        "explicacao": "Gráficos de colunas são muito úteis para esse tipo de comparação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-ex-15",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tabelas organizam dados.",
+          "Gráficos ajudam na comparação visual.",
+          "Não é necessário ler o título para interpretar um gráfico.",
+          "Categorias e valores são importantes para a leitura."
+        ],
+        "respostaCorreta": "Não é necessário ler o título para interpretar um gráfico.",
+        "explicacao": "O título ajuda a entender o assunto do gráfico e é muito importante.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-tabelas-graficos-sim-01",
+        "enunciado": "Uma tabela mostra as vendas de cadernos em três dias: 12, 15 e 9. Qual foi o dia com maior venda?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o dia com 9 vendas",
+          "o dia com 12 vendas",
+          "o dia com 15 vendas",
+          "todos foram iguais"
+        ],
+        "respostaCorreta": "o dia com 15 vendas",
+        "explicacao": "Entre os valores 12, 15 e 9, o maior é 15.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-sim-02",
+        "enunciado": "Qual alternativa mostra o total de alunos, se um gráfico indica 14 no grupo A e 16 no grupo B?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "20",
+          "28",
+          "30",
+          "32"
+        ],
+        "respostaCorreta": "30",
+        "explicacao": "Somamos 14 e 16 para encontrar o total de 30 alunos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Gráficos servem apenas para enfeitar informações'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque gráficos ajudam a visualizar e comparar dados.",
+          "A frase é verdadeira apenas em livros.",
+          "A frase é falsa, porque gráficos substituem totalmente as tabelas."
+        ],
+        "respostaCorreta": "A frase é falsa, porque gráficos ajudam a visualizar e comparar dados.",
+        "explicacao": "Os gráficos têm função informativa e facilitam a leitura de dados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-sim-04",
+        "enunciado": "Em um gráfico de colunas, a barra de junho vale 18 e a de julho vale 11. Qual é a diferença entre esses valores?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respostaCorreta": "7",
+        "explicacao": "A diferença entre 18 e 11 é 7.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-tabelas-graficos-sim-05",
+        "enunciado": "Qual alternativa apresenta um cuidado importante na leitura de gráficos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar a legenda",
+          "observar título, categorias e valores",
+          "olhar apenas a cor das colunas",
+          "ler apenas o maior número"
+        ],
+        "respostaCorreta": "observar título, categorias e valores",
+        "explicacao": "Esses elementos são fundamentais para interpretar corretamente os dados.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

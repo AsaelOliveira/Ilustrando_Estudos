@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 140 30% 98%;
+    --background-soft: 140 20% 96%;
+    --foreground: 150 30% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 150 30% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 30% 12%;
+
+    --primary: 152 80% 32%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 152 75% 42%;
+
+    --secondary: 140 20% 94%;
+    --secondary-foreground: 150 30% 12%;
+
+    --muted: 140 15% 93%;
+    --muted-foreground: 150 10% 48%;
+
+    --accent: 30 100% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --success: 152 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 140 15% 90%;
+    --input: 140 15% 90%;
+    --ring: 152 80% 32%;
+
+    --radius: 1rem;
+
+    --sidebar-background: 140 20% 97%;
+    --sidebar-foreground: 150 30% 12%;
+    --sidebar-primary: 152 80% 32%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 140 20% 94%;
+    --sidebar-accent-foreground: 150 30% 12%;
+    --sidebar-border: 140 15% 90%;
+    --sidebar-ring: 152 80% 32%;
+
+    --font-heading: 'Outfit', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    --shadow-soft: 0 4px 24px -4px hsl(152 80% 32% / 0.08);
+    --shadow-card: 0 2px 20px -4px hsl(150 30% 12% / 0.06);
+    --shadow-glow: 0 0 40px -8px hsl(152 80% 32% / 0.2);
+    --shadow-accent: 0 0 40px -8px hsl(30 100% 50% / 0.2);
+  }
+
+  .dark {
+    --background: 150 25% 6%;
+    --background-soft: 150 22% 9%;
+    --foreground: 140 15% 92%;
+
+    --card: 150 22% 11%;
+    --card-foreground: 140 15% 92%;
+
+    --popover: 150 22% 11%;
+    --popover-foreground: 140 15% 92%;
+
+    --primary: 152 75% 42%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 150 18% 16%;
+    --secondary-foreground: 140 15% 92%;
+
+    --muted: 150 18% 16%;
+    --muted-foreground: 150 10% 58%;
+
+    --accent: 30 100% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --success: 152 65% 50%;
+    --success-foreground: 0 0% 100%;
+
+    --destructive: 0 62% 35%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 150 18% 20%;
+    --input: 150 18% 20%;
+    --ring: 152 75% 42%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+  }
+}
+
+@layer components {
+  .card-glow {
+    @apply transition-all duration-300;
+  }
+  .card-glow:hover {
+    box-shadow: var(--shadow-glow);
+    transform: translateY(-4px);
+  }
+
+  .btn-tap {
+    @apply transition-all duration-150 active:scale-[0.96];
+  }
+
+  .tab-indicator {
+    @apply relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:scale-x-0 after:bg-primary after:transition-transform after:duration-300;
+  }
+  .tab-indicator[data-state="active"]::after,
+  .tab-indicator:hover::after {
+    transform: scaleX(1);
+  }
+
+  .blob {
+    @apply absolute rounded-full opacity-30 blur-[150px] pointer-events-none;
+  }
+
+  .gradient-border {
+    position: relative;
+  }
+  .gradient-border::before {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    background: linear-gradient(135deg, hsl(var(--primary) / 0.3), hsl(var(--accent) / 0.3));
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .gradient-border:hover::before {
+    opacity: 1;
+  }
+
+  @keyframes subtle-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 hsl(var(--primary) / 0.15); }
+    50% { box-shadow: 0 0 0 10px hsl(var(--primary) / 0); }
+  }
+  .interactive-pulse:hover {
+    animation: subtle-pulse 2s ease-in-out infinite;
+  }
+
+  .text-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .glass-card {
+    background: hsl(var(--card) / 0.7);
+    backdrop-filter: blur(20px);
+    border: 1px solid hsl(var(--border) / 0.5);
+  }
+
+  .medal-gold { color: hsl(45, 100%, 50%); }
+  .medal-silver { color: hsl(0, 0%, 72%); }
+  .medal-bronze { color: hsl(30, 60%, 50%); }
+}

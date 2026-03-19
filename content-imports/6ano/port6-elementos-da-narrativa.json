@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-elementos-da-narrativa",
+    "titulo": "Elementos da narrativa",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "Os textos narrativos costumam apresentar personagens, narrador, tempo, espaço e enredo.",
+      "Os personagens são os seres que participam da história.",
+      "O narrador é quem conta os acontecimentos.",
+      "O tempo indica quando os fatos ocorrem, e o espaço indica onde eles acontecem.",
+      "O enredo corresponde à sequência de acontecimentos da narrativa."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é narrativa",
+        "texto": "Narrativa é um texto que conta acontecimentos reais ou imaginários. Em uma narrativa, existe uma sequência de fatos vividos por personagens em determinado tempo e espaço. Contos, fábulas, crônicas narrativas e histórias em geral apresentam esses elementos.",
+        "dica": "Ao ler uma história, tente identificar quem participa, onde tudo acontece e o que está acontecendo."
+      },
+      {
+        "subtitulo": "Personagens, tempo e espaço",
+        "texto": "Os personagens são os seres que participam da história. O tempo indica quando os fatos acontecem, como ontem, em uma noite de inverno ou há muitos anos. O espaço mostra o lugar em que a narrativa se passa, como uma escola, uma floresta ou uma cidade.",
+        "dica": "Procure no texto palavras ou expressões que indiquem lugar e tempo."
+      },
+      {
+        "subtitulo": "Narrador e enredo",
+        "texto": "O narrador é a voz que conta a história. Já o enredo corresponde ao conjunto de acontecimentos da narrativa, isto é, aquilo que acontece do começo ao fim. Reconhecer esses elementos ajuda o leitor a compreender melhor a organização e o sentido da história.",
+        "dica": "Pergunte quem conta a história e quais são os fatos principais que ela apresenta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia a frase: \"Numa tarde chuvosa, Ana encontrou um gato perdido perto da escola.\"",
+        "passos": [
+          "Ana é a personagem da situação.",
+          "Numa tarde chuvosa indica o tempo.",
+          "Perto da escola indica o espaço."
+        ],
+        "resposta": "Na frase, é possível identificar personagem, tempo e espaço."
+      },
+      {
+        "enunciado": "Observe um pequeno conto em que uma menina procura um objeto, enfrenta dificuldades e o encontra no final.",
+        "passos": [
+          "Há uma sequência de acontecimentos ligados entre si.",
+          "Essa sequência forma o enredo da narrativa.",
+          "Os fatos se organizam do início ao desfecho."
+        ],
+        "resposta": "O enredo corresponde ao conjunto de acontecimentos da história."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-elementos-da-narrativa-ex-01",
+        "enunciado": "Em um texto narrativo, os personagens são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as regras da história",
+          "os seres que participam dos acontecimentos",
+          "os sinais de pontuação",
+          "as perguntas do texto"
+        ],
+        "respostaCorreta": "os seres que participam dos acontecimentos",
+        "explicacao": "Os personagens são os seres que participam da narrativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-02",
+        "enunciado": "O elemento da narrativa que indica onde os fatos acontecem é o:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tempo",
+          "espaço",
+          "narrador",
+          "desfecho"
+        ],
+        "respostaCorreta": "espaço",
+        "explicacao": "O espaço corresponde ao lugar onde a narrativa acontece.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-03",
+        "enunciado": "O elemento da narrativa que indica quando os fatos ocorrem é o:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "personagem",
+          "enredo",
+          "tempo",
+          "conflito"
+        ],
+        "respostaCorreta": "tempo",
+        "explicacao": "O tempo mostra quando os acontecimentos da narrativa ocorrem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-04",
+        "enunciado": "Quem conta os fatos em uma narrativa é chamado de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "personagem principal",
+          "narrador",
+          "leitor",
+          "autor da capa"
+        ],
+        "respostaCorreta": "narrador",
+        "explicacao": "Narrador é a voz que conta a história.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-05",
+        "enunciado": "O enredo de uma narrativa corresponde:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ao conjunto de acontecimentos da história",
+          "somente ao título do texto",
+          "apenas ao nome dos personagens",
+          "à lista de adjetivos da narrativa"
+        ],
+        "respostaCorreta": "ao conjunto de acontecimentos da história",
+        "explicacao": "O enredo é a sequência de fatos narrados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-06",
+        "enunciado": "Na frase \"Naquela manhã, João saiu cedo de casa\", a expressão \"Naquela manhã\" indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "personagem",
+          "espaço",
+          "tempo",
+          "narrador"
+        ],
+        "respostaCorreta": "tempo",
+        "explicacao": "Naquela manhã mostra quando o fato aconteceu.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-07",
+        "enunciado": "Na frase \"Pedro caminhava pela floresta escura\", a expressão \"pela floresta escura\" indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tempo",
+          "espaço",
+          "desfecho",
+          "narrador"
+        ],
+        "respostaCorreta": "espaço",
+        "explicacao": "A expressão indica o lugar em que a ação acontece.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-08",
+        "enunciado": "Qual alternativa apresenta corretamente dois elementos da narrativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "personagens e sinais gráficos",
+          "tempo e espaço",
+          "título e caderno",
+          "verbo e artigo"
+        ],
+        "respostaCorreta": "tempo e espaço",
+        "explicacao": "Tempo e espaço são elementos fundamentais da narrativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-09",
+        "enunciado": "Assinale a alternativa correta sobre os textos narrativos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles não apresentam personagens.",
+          "Eles costumam contar acontecimentos organizados em sequência.",
+          "Eles servem apenas para receitas.",
+          "Eles não têm tempo nem espaço."
+        ],
+        "respostaCorreta": "Eles costumam contar acontecimentos organizados em sequência.",
+        "explicacao": "A narrativa se organiza em torno de acontecimentos ligados entre si.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-10",
+        "enunciado": "Em qual alternativa aparece um possível espaço narrativo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "à tarde",
+          "com alegria",
+          "na biblioteca",
+          "de repente"
+        ],
+        "respostaCorreta": "na biblioteca",
+        "explicacao": "Na biblioteca indica lugar, funcionando como espaço narrativo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-11",
+        "enunciado": "Em qual alternativa aparece um possível marcador de tempo narrativo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ontem à noite",
+          "na escola",
+          "com cuidado",
+          "o personagem"
+        ],
+        "respostaCorreta": "ontem à noite",
+        "explicacao": "Ontem à noite localiza os acontecimentos no tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-12",
+        "enunciado": "Qual alternativa apresenta a melhor definição de narrador?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É o lugar onde a história acontece.",
+          "É quem conta os fatos da história.",
+          "É o problema vivido pelo personagem.",
+          "É a lista de personagens."
+        ],
+        "respostaCorreta": "É quem conta os fatos da história.",
+        "explicacao": "O narrador é a voz responsável por contar os acontecimentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-13",
+        "enunciado": "Qual alternativa mostra a melhor conclusão sobre o enredo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É apenas o nome da história.",
+          "É a sequência dos acontecimentos narrados.",
+          "É o conjunto de pontuações do texto.",
+          "É somente a descrição dos personagens."
+        ],
+        "respostaCorreta": "É a sequência dos acontecimentos narrados.",
+        "explicacao": "O enredo organiza os fatos da narrativa em uma sequência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-14",
+        "enunciado": "Por que é importante reconhecer os elementos da narrativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque isso ajuda a compreender melhor a organização e o sentido da história.",
+          "Porque isso substitui a leitura do texto.",
+          "Porque isso serve apenas para decorar nomes.",
+          "Porque isso não interfere na interpretação."
+        ],
+        "respostaCorreta": "Porque isso ajuda a compreender melhor a organização e o sentido da história.",
+        "explicacao": "Conhecer os elementos narrativos melhora a leitura e a interpretação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-ex-15",
+        "enunciado": "Qual alternativa apresenta corretamente personagem, tempo e espaço, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ana / ontem / na praça",
+          "ontem / Ana / na praça",
+          "na praça / Ana / ontem",
+          "Ana / na praça / ontem"
+        ],
+        "respostaCorreta": "Ana / ontem / na praça",
+        "explicacao": "Ana é personagem, ontem indica tempo e na praça indica espaço.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-elementos-da-narrativa-sim-01",
+        "enunciado": "Na frase \"Naquela noite, Lucas encontrou um velho mapa no sótão\", qual alternativa identifica corretamente tempo, personagem e espaço, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Naquela noite / Lucas / no sótão",
+          "Lucas / naquela noite / no sótão",
+          "no sótão / Lucas / naquela noite",
+          "Lucas / no sótão / naquela noite"
+        ],
+        "respostaCorreta": "Naquela noite / Lucas / no sótão",
+        "explicacao": "Naquela noite indica tempo, Lucas é a personagem e no sótão indica espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-sim-02",
+        "enunciado": "Qual alternativa apresenta uma explicação correta sobre o enredo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É a voz que conta a história.",
+          "É o lugar onde a narrativa se passa.",
+          "É a sequência de fatos da narrativa.",
+          "É a lista de objetos da história."
+        ],
+        "respostaCorreta": "É a sequência de fatos da narrativa.",
+        "explicacao": "O enredo corresponde ao conjunto de acontecimentos organizados ao longo da narrativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre os elementos da narrativa.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, narrador, tempo, espaço e enredo ajudam a organizar a história.",
+          "Narrativas não precisam de personagens.",
+          "O espaço sempre corresponde ao título do texto.",
+          "O tempo aparece apenas em poemas."
+        ],
+        "respostaCorreta": "Personagens, narrador, tempo, espaço e enredo ajudam a organizar a história.",
+        "explicacao": "Esses elementos contribuem para a construção e a compreensão da narrativa.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-sim-04",
+        "enunciado": "Em qual alternativa o espaço narrativo foi corretamente identificado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de manhã",
+          "na floresta",
+          "o menino",
+          "de repente"
+        ],
+        "respostaCorreta": "na floresta",
+        "explicacao": "Na floresta indica o lugar onde os fatos acontecem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-elementos-da-narrativa-sim-05",
+        "enunciado": "Qual alternativa mostra a importância de reconhecer os elementos da narrativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Isso ajuda o leitor a entender melhor a história.",
+          "Isso elimina a necessidade de leitura.",
+          "Isso serve apenas para decorar nomes difíceis.",
+          "Isso só importa em textos muito antigos."
+        ],
+        "respostaCorreta": "Isso ajuda o leitor a entender melhor a história.",
+        "explicacao": "Reconhecer os elementos narrativos facilita a interpretação e a organização das informações.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-tipos-de-frase",
+    "titulo": "Tipos de frase",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e gramática",
+    "resumo": [
+      "As frases podem ser classificadas de acordo com a intenção de quem fala ou escreve.",
+      "As frases declarativas apresentam informações ou opiniões.",
+      "As frases interrogativas expressam perguntas.",
+      "As frases exclamativas indicam emoção, surpresa, admiração ou entusiasmo.",
+      "As frases imperativas expressam ordem, pedido, conselho ou orientação."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são tipos de frase",
+        "texto": "Os tipos de frase mostram a intenção comunicativa do falante ou do autor. A mesma língua pode ser usada para informar, perguntar, exclamar, pedir ou dar ordens. Por isso, reconhecer o tipo de frase ajuda a compreender melhor o sentido do enunciado.",
+        "dica": "Observe não só as palavras, mas também a pontuação e a intenção da frase."
+      },
+      {
+        "subtitulo": "Frases declarativas, interrogativas e exclamativas",
+        "texto": "A frase declarativa é usada para informar algo, como em A aula começou cedo. A frase interrogativa faz uma pergunta, como em Você terminou a atividade? A frase exclamativa expressa emoção ou surpresa, como em Que notícia incrível! Cada uma delas tem um efeito diferente na comunicação.",
+        "dica": "O ponto final, o ponto de interrogação e o ponto de exclamação ajudam a identificar esses tipos de frase."
+      },
+      {
+        "subtitulo": "Frases imperativas",
+        "texto": "As frases imperativas são usadas para dar ordens, fazer pedidos, conselhos ou orientações. Exemplos: Feche a porta. ou Estude com atenção. Esse tipo de frase aparece com frequência em instruções, regras, avisos e combinados.",
+        "dica": "Se a frase parece orientar ou pedir alguma ação, ela pode ser imperativa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"A turma visitou o museu ontem.\"",
+        "passos": [
+          "A frase apresenta uma informação sobre a turma.",
+          "Não há pergunta, ordem nem exclamação.",
+          "Por isso, trata-se de uma frase declarativa."
+        ],
+        "resposta": "A frase é declarativa, pois informa um fato."
+      },
+      {
+        "enunciado": "Observe a frase \"Tragam os cadernos agora.\"",
+        "passos": [
+          "A frase orienta uma ação que deve ser realizada.",
+          "Ela não apresenta uma pergunta nem apenas uma informação.",
+          "Por isso, é uma frase imperativa."
+        ],
+        "resposta": "A frase é imperativa, pois expressa uma ordem ou orientação."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-tipos-de-frase-ex-01",
+        "enunciado": "Qual alternativa apresenta uma frase declarativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Você terminou a tarefa?",
+          "A biblioteca abriu cedo.",
+          "Que dia bonito!",
+          "Fechem a janela."
+        ],
+        "respostaCorreta": "A biblioteca abriu cedo.",
+        "explicacao": "Essa frase informa um fato, por isso é declarativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-02",
+        "enunciado": "Qual alternativa apresenta uma frase interrogativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Façam silêncio.",
+          "O aluno chegou cedo.",
+          "Você viu o cartaz?",
+          "Que surpresa!"
+        ],
+        "respostaCorreta": "Você viu o cartaz?",
+        "explicacao": "A frase faz uma pergunta, por isso é interrogativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-03",
+        "enunciado": "Assinale a alternativa em que a frase é exclamativa.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos estudaram bastante.",
+          "Você trouxe o material?",
+          "Como esse lugar é bonito!",
+          "Leiam o texto com atenção."
+        ],
+        "respostaCorreta": "Como esse lugar é bonito!",
+        "explicacao": "A frase expressa admiração, por isso é exclamativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-04",
+        "enunciado": "Qual alternativa apresenta uma frase imperativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A professora explicou o conteúdo.",
+          "Você entendeu a atividade?",
+          "Organizem o material da mesa.",
+          "Que bela apresentação!"
+        ],
+        "respostaCorreta": "Organizem o material da mesa.",
+        "explicacao": "A frase expressa uma ordem ou orientação, por isso é imperativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-05",
+        "enunciado": "Na frase \"Que susto!\", a intenção principal é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "informar",
+          "perguntar",
+          "expressar emoção",
+          "dar uma ordem"
+        ],
+        "respostaCorreta": "expressar emoção",
+        "explicacao": "A frase exclamativa é usada para expressar emoção ou surpresa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-06",
+        "enunciado": "Qual alternativa apresenta uma pergunta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A aula começou cedo.",
+          "Como você chegou aqui?",
+          "Levem os cadernos.",
+          "Que bela paisagem!"
+        ],
+        "respostaCorreta": "Como você chegou aqui?",
+        "explicacao": "Essa frase é interrogativa porque faz uma pergunta direta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-07",
+        "enunciado": "Assinale a alternativa correta sobre a frase \"Abram o livro na página dez.\"",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É declarativa, pois informa um fato.",
+          "É interrogativa, pois faz uma pergunta.",
+          "É imperativa, pois expressa uma orientação.",
+          "É exclamativa, pois expressa emoção."
+        ],
+        "respostaCorreta": "É imperativa, pois expressa uma orientação.",
+        "explicacao": "A frase orienta uma ação a ser realizada, por isso é imperativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-08",
+        "enunciado": "Qual alternativa apresenta corretamente uma frase declarativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que livro interessante!",
+          "O ônibus chegou atrasado.",
+          "Vocês já terminaram?",
+          "Fiquem em silêncio."
+        ],
+        "respostaCorreta": "O ônibus chegou atrasado.",
+        "explicacao": "A frase apenas informa um acontecimento, por isso é declarativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-09",
+        "enunciado": "Na frase \"Que notícia maravilhosa!\", o ponto de exclamação ajuda a indicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma ordem",
+          "uma pergunta",
+          "uma emoção",
+          "uma enumeração"
+        ],
+        "respostaCorreta": "uma emoção",
+        "explicacao": "O ponto de exclamação ajuda a expressar entusiasmo, admiração ou surpresa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-10",
+        "enunciado": "Qual alternativa mostra a melhor definição de frase interrogativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É a frase que apresenta informação.",
+          "É a frase que faz uma pergunta.",
+          "É a frase que expressa ordem.",
+          "É a frase que expressa espanto."
+        ],
+        "respostaCorreta": "É a frase que faz uma pergunta.",
+        "explicacao": "A frase interrogativa é usada para perguntar algo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-11",
+        "enunciado": "Em qual alternativa aparece uma frase exclamativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que dia maravilhoso!",
+          "Você gosta de ler?",
+          "Fechem a porta.",
+          "A turma saiu cedo."
+        ],
+        "respostaCorreta": "Que dia maravilhoso!",
+        "explicacao": "Essa frase expressa emoção e usa ponto de exclamação, por isso é exclamativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre os tipos de frase.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Toda frase é interrogativa.",
+          "Os tipos de frase ajudam a identificar a intenção comunicativa.",
+          "As frases declarativas sempre terminam com ponto de exclamação.",
+          "As frases imperativas nunca aparecem em orientações."
+        ],
+        "respostaCorreta": "Os tipos de frase ajudam a identificar a intenção comunicativa.",
+        "explicacao": "A classificação da frase mostra a intenção de quem fala ou escreve.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-13",
+        "enunciado": "Qual alternativa apresenta uma frase imperativa de conselho ou orientação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Você terminou a atividade?",
+          "Estude com calma para a prova.",
+          "Que bom que você voltou!",
+          "A prova será amanhã."
+        ],
+        "respostaCorreta": "Estude com calma para a prova.",
+        "explicacao": "A frase orienta uma ação, funcionando como imperativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-14",
+        "enunciado": "Na frase \"A turma venceu o jogo.\", a intenção principal é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "informar um fato",
+          "fazer uma pergunta",
+          "dar uma ordem",
+          "expressar espanto"
+        ],
+        "respostaCorreta": "informar um fato",
+        "explicacao": "A frase declarativa informa algo que aconteceu.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-ex-15",
+        "enunciado": "Qual alternativa apresenta a sequência correta: declarativa, interrogativa, exclamativa e imperativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A aula começou. / Você veio? / Que surpresa! / Abram o caderno.",
+          "Você veio? / Que surpresa! / Abram o caderno. / A aula começou.",
+          "Que surpresa! / Abram o caderno. / A aula começou. / Você veio?",
+          "Abram o caderno. / A aula começou. / Você veio? / Que surpresa!"
+        ],
+        "respostaCorreta": "A aula começou. / Você veio? / Que surpresa! / Abram o caderno.",
+        "explicacao": "A sequência correta respeita os quatro tipos de frase indicados no enunciado.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-tipos-de-frase-sim-01",
+        "enunciado": "Leia a frase \"Não se esqueçam do trabalho para amanhã.\" Como ela pode ser classificada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "declarativa",
+          "interrogativa",
+          "imperativa",
+          "exclamativa"
+        ],
+        "respostaCorreta": "imperativa",
+        "explicacao": "A frase orienta os alunos, por isso é imperativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-sim-02",
+        "enunciado": "Em qual alternativa a pontuação combina corretamente com o tipo de frase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que belo trabalho? - exclamativa",
+          "Você estudou para a prova? - interrogativa",
+          "Fechem a porta. - interrogativa",
+          "A turma saiu cedo! - imperativa"
+        ],
+        "respostaCorreta": "Você estudou para a prova? - interrogativa",
+        "explicacao": "A pergunta está corretamente marcada com ponto de interrogação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre os tipos de frase.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase exclamativa sempre apresenta uma ordem.",
+          "A frase declarativa faz uma pergunta direta.",
+          "A frase interrogativa é usada para perguntar.",
+          "A frase imperativa serve apenas para informar."
+        ],
+        "respostaCorreta": "A frase interrogativa é usada para perguntar.",
+        "explicacao": "Essa é a definição correta de frase interrogativa.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-tipos-de-frase-sim-04",
+        "enunciado": "Na frase \"Como a apresentação ficou linda!\", a intenção comunicativa principal é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fazer uma pergunta",
+          "dar uma instrução",
+          "expressar admiração",
+          "apresentar uma regra"
+        ],
+        "respostaCorreta": "expressar admiração",
+        "explicacao": "A frase exclamativa expressa admiração e entusiasmo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-tipos-de-frase-sim-05",
+        "enunciado": "Qual alternativa mostra corretamente a importância de reconhecer o tipo de frase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Isso ajuda a entender a intenção do enunciado.",
+          "Isso serve apenas para enfeitar o texto.",
+          "Isso elimina a necessidade de leitura atenta.",
+          "Isso só importa em poemas."
+        ],
+        "respostaCorreta": "Isso ajuda a entender a intenção do enunciado.",
+        "explicacao": "Identificar o tipo de frase ajuda o leitor a compreender melhor o sentido e a intenção da mensagem.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-primos-compostos",
+    "titulo": "Números primos e compostos",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números naturais",
+    "resumo": [
+      "Um número primo possui exatamente dois divisores positivos: 1 e ele mesmo.",
+      "Um número composto possui mais de dois divisores positivos.",
+      "O número 1 não é considerado primo nem composto.",
+      "Identificar divisores ajuda a classificar um número como primo ou composto.",
+      "Os números primos são importantes em vários estudos da Matemática."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é número primo",
+        "texto": "Um número primo é aquele que só pode ser dividido exatamente por 1 e por ele mesmo. O número 7, por exemplo, é primo porque seus únicos divisores são 1 e 7.",
+        "dica": "Se aparecer algum outro divisor além de 1 e do próprio número, ele deixa de ser primo."
+      },
+      {
+        "subtitulo": "O que é número composto",
+        "texto": "Um número composto possui mais de dois divisores. O número 12, por exemplo, pode ser dividido por 1, 2, 3, 4, 6 e 12, então é composto.",
+        "dica": "Números que formam vários agrupamentos exatos costumam ser compostos."
+      },
+      {
+        "subtitulo": "O caso do número 1",
+        "texto": "O número 1 não é primo nem composto, porque possui apenas um divisor positivo: ele mesmo. Para ser primo, seria necessário ter exatamente dois divisores.",
+        "dica": "Sempre trate o número 1 como um caso especial."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Classifique o número 11.",
+        "passos": [
+          "Verifique os divisores positivos de 11.",
+          "Ele só pode ser dividido exatamente por 1 e por 11.",
+          "Como possui exatamente dois divisores, é primo."
+        ],
+        "resposta": "O número 11 é primo."
+      },
+      {
+        "enunciado": "Classifique o número 15.",
+        "passos": [
+          "Verifique os divisores positivos de 15.",
+          "Além de 1 e 15, ele também é divisível por 3 e por 5.",
+          "Como possui mais de dois divisores, é composto."
+        ],
+        "resposta": "O número 15 é composto."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-primos-compostos-ex-01",
+        "enunciado": "Qual número é primo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9",
+          "11",
+          "15",
+          "21"
+        ],
+        "respostaCorreta": "11",
+        "explicacao": "O número 11 possui apenas dois divisores: 1 e 11.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-02",
+        "enunciado": "Qual número é composto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "3",
+          "5",
+          "12"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "O número 12 possui vários divisores, por isso é composto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-03",
+        "enunciado": "O número 1 é classificado como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "primo",
+          "composto",
+          "primo e composto ao mesmo tempo",
+          "nem primo nem composto"
+        ],
+        "respostaCorreta": "nem primo nem composto",
+        "explicacao": "O número 1 possui apenas um divisor positivo, por isso não se encaixa em nenhuma das duas classificações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-04",
+        "enunciado": "Qual alternativa apresenta apenas números primos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2, 3 e 5",
+          "2, 4 e 7",
+          "3, 6 e 11",
+          "5, 9 e 13"
+        ],
+        "respostaCorreta": "2, 3 e 5",
+        "explicacao": "Todos esses números têm exatamente dois divisores positivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-05",
+        "enunciado": "Qual alternativa apresenta apenas números compostos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4, 6 e 8",
+          "2, 6 e 9",
+          "3, 5 e 7",
+          "1, 4 e 10"
+        ],
+        "respostaCorreta": "4, 6 e 8",
+        "explicacao": "Esses três números possuem mais de dois divisores positivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-06",
+        "enunciado": "Por que o número 13 é primo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque é ímpar.",
+          "Porque só é divisível por 1 e por 13.",
+          "Porque termina em 3.",
+          "Porque é maior que 10."
+        ],
+        "respostaCorreta": "Porque só é divisível por 1 e por 13.",
+        "explicacao": "Essa é a definição de número primo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-07",
+        "enunciado": "Qual número não é primo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "17",
+          "19",
+          "23",
+          "25"
+        ],
+        "respostaCorreta": "25",
+        "explicacao": "O número 25 é divisível por 1, 5 e 25, então é composto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-08",
+        "enunciado": "Qual número possui exatamente dois divisores positivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "14",
+          "29",
+          "33"
+        ],
+        "respostaCorreta": "29",
+        "explicacao": "O número 29 é divisível apenas por 1 e por 29.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-09",
+        "enunciado": "Qual alternativa está correta sobre o número 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É composto.",
+          "É primo.",
+          "Não é natural.",
+          "Não tem divisores."
+        ],
+        "respostaCorreta": "É primo.",
+        "explicacao": "O número 2 possui exatamente dois divisores: 1 e 2.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-10",
+        "enunciado": "Qual alternativa explica por que 21 é composto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque é ímpar.",
+          "Porque é divisível apenas por 1 e 21.",
+          "Porque também é divisível por 3 e por 7.",
+          "Porque termina em 1."
+        ],
+        "respostaCorreta": "Porque também é divisível por 3 e por 7.",
+        "explicacao": "Como possui mais de dois divisores, 21 é composto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-11",
+        "enunciado": "Qual é o menor número primo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "respostaCorreta": "2",
+        "explicacao": "O número 2 é o menor número primo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-12",
+        "enunciado": "Qual alternativa apresenta um número composto par?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "7",
+          "11",
+          "18"
+        ],
+        "respostaCorreta": "18",
+        "explicacao": "O número 18 é par e possui vários divisores, então é composto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-13",
+        "enunciado": "Um aluno disse que todo número ímpar é primo. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque existem ímpares compostos, como 9",
+          "correta, porque 2 é o único par",
+          "incorreta, porque números ímpares não têm divisores"
+        ],
+        "respostaCorreta": "incorreta, porque existem ímpares compostos, como 9",
+        "explicacao": "Nem todo número ímpar é primo; 9, 15 e 21 são exemplos de ímpares compostos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-14",
+        "enunciado": "Qual alternativa apresenta dois números primos consecutivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2 e 3",
+          "3 e 4",
+          "5 e 6",
+          "11 e 12"
+        ],
+        "respostaCorreta": "2 e 3",
+        "explicacao": "Os números 2 e 3 são primos e aparecem em sequência.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-primos-compostos-ex-15",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Todo número primo maior que 2 é ímpar'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa.",
+          "A frase só vale até o número 10.",
+          "A frase é verdadeira apenas para números compostos."
+        ],
+        "respostaCorreta": "A frase é verdadeira.",
+        "explicacao": "Se um número maior que 2 fosse par, seria divisível por 2 e não poderia ser primo.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-primos-compostos-sim-01",
+        "enunciado": "Qual alternativa apresenta um número primo entre 20 e 30?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "21",
+          "23",
+          "25",
+          "27"
+        ],
+        "respostaCorreta": "23",
+        "explicacao": "O número 23 possui exatamente dois divisores: 1 e 23.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-sim-02",
+        "enunciado": "Qual alternativa apresenta um número composto ímpar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "13",
+          "17",
+          "21",
+          "29"
+        ],
+        "respostaCorreta": "21",
+        "explicacao": "O número 21 é ímpar e é divisível por 3 e por 7, então é composto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-sim-03",
+        "enunciado": "Qual alternativa mostra uma afirmação incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O número 2 é primo.",
+          "O número 1 é composto.",
+          "Números primos têm exatamente dois divisores positivos.",
+          "O número 15 é composto."
+        ],
+        "respostaCorreta": "O número 1 é composto.",
+        "explicacao": "O número 1 não é primo nem composto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-primos-compostos-sim-04",
+        "enunciado": "Se um número é divisível por 1, por ele mesmo e também por 5, o que podemos concluir?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele é primo.",
+          "Ele é composto, exceto se for 5.",
+          "Ele não é natural.",
+          "Ele sempre é par."
+        ],
+        "respostaCorreta": "Ele é composto, exceto se for 5.",
+        "explicacao": "Se houver divisor além de 1 e do próprio número, ele é composto. A exceção ocorre quando o número é 5, cujo outro divisor coincide com ele mesmo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-primos-compostos-sim-05",
+        "enunciado": "Qual alternativa apresenta somente números compostos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4, 9 e 15",
+          "2, 3 e 5",
+          "7, 11 e 13",
+          "1, 4 e 7"
+        ],
+        "respostaCorreta": "4, 9 e 15",
+        "explicacao": "Esses três números têm mais de dois divisores positivos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

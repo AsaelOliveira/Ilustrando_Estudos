@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-figuras-planas",
+    "titulo": "Figuras planas e seus elementos",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Figuras planas são formas geométricas que possuem duas dimensões: comprimento e largura.",
+      "Polígonos são figuras planas fechadas formadas por segmentos de reta.",
+      "Triângulos, quadriláteros, pentágonos e hexágonos são exemplos de polígonos.",
+      "Lados, vértices e ângulos são elementos importantes das figuras planas.",
+      "Circunferência e círculo não são polígonos, pois não são formados por segmentos de reta."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são figuras planas",
+        "texto": "As figuras planas são representações geométricas que ocupam apenas duas dimensões. Elas podem aparecer em objetos do cotidiano, como janelas retangulares, placas triangulares e moedas circulares. Estudar essas formas ajuda a desenvolver a percepção espacial e a organização visual.",
+        "dica": "Observe objetos à sua volta e tente identificar a forma plana que mais se aproxima deles."
+      },
+      {
+        "subtitulo": "Polígonos e não polígonos",
+        "texto": "Um polígono é uma figura fechada formada somente por segmentos de reta. Por isso, triângulos, quadrados e pentágonos são polígonos. Já o círculo não é um polígono, porque sua linha é curva.",
+        "dica": "Se a borda da figura tiver curva, ela não será um polígono."
+      },
+      {
+        "subtitulo": "Elementos das figuras",
+        "texto": "Os lados são os segmentos que formam a figura. Os vértices são os pontos de encontro entre dois lados. Os ângulos aparecem justamente nesses encontros. Ao identificar esses elementos, fica mais fácil reconhecer e comparar as figuras geométricas.",
+        "dica": "Conte os lados e os vértices para identificar o nome de muitos polígonos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Identifique os elementos de um triângulo.",
+        "passos": [
+          "Um triângulo é um polígono com três lados.",
+          "Cada encontro entre dois lados forma um vértice.",
+          "Assim, o triângulo possui três lados, três vértices e três ângulos."
+        ],
+        "resposta": "O triângulo tem 3 lados, 3 vértices e 3 ângulos."
+      },
+      {
+        "enunciado": "Compare um quadrado e um círculo.",
+        "passos": [
+          "O quadrado é formado por segmentos de reta e é um polígono.",
+          "O círculo possui contorno curvo e não é polígono.",
+          "Além disso, o quadrado tem lados e vértices, enquanto o círculo não."
+        ],
+        "resposta": "O quadrado é um polígono; o círculo não é."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-figuras-planas-ex-01",
+        "enunciado": "Qual figura é um polígono?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "círculo",
+          "triângulo",
+          "oval",
+          "circunferência"
+        ],
+        "respostaCorreta": "triângulo",
+        "explicacao": "O triângulo é formado por segmentos de reta e é uma figura fechada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-02",
+        "enunciado": "Quantos lados tem um quadrado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respostaCorreta": "4",
+        "explicacao": "O quadrado é um quadrilátero, portanto possui 4 lados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-03",
+        "enunciado": "Qual figura possui exatamente três vértices?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo",
+          "quadrado",
+          "pentágono",
+          "hexágono"
+        ],
+        "respostaCorreta": "triângulo",
+        "explicacao": "O triângulo possui 3 lados e, consequentemente, 3 vértices.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-04",
+        "enunciado": "Qual alternativa apresenta uma figura que não é polígono?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "retângulo",
+          "pentágono",
+          "círculo",
+          "trapézio"
+        ],
+        "respostaCorreta": "círculo",
+        "explicacao": "O círculo não é formado por segmentos de reta, por isso não é polígono.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-05",
+        "enunciado": "Um pentágono possui quantos lados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "respostaCorreta": "5",
+        "explicacao": "O nome pentágono indica uma figura com 5 lados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-06",
+        "enunciado": "Qual figura plana tem quatro lados e quatro vértices?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo",
+          "quadrilátero",
+          "pentágono",
+          "hexágono"
+        ],
+        "respostaCorreta": "quadrilátero",
+        "explicacao": "Todo quadrilátero possui 4 lados e 4 vértices.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-07",
+        "enunciado": "Qual alternativa apresenta corretamente um vértice?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a região interna da figura",
+          "o encontro entre dois lados",
+          "o comprimento de um lado",
+          "a linha curva de uma circunferência"
+        ],
+        "respostaCorreta": "o encontro entre dois lados",
+        "explicacao": "Vértice é o ponto de encontro entre dois lados da figura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-08",
+        "enunciado": "Quantos lados tem um hexágono?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respostaCorreta": "6",
+        "explicacao": "O prefixo hexa indica seis, portanto o hexágono possui 6 lados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas polígonos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo, quadrado e círculo",
+          "retângulo, pentágono e hexágono",
+          "círculo, oval e trapézio",
+          "circunferência, quadrado e losango"
+        ],
+        "respostaCorreta": "retângulo, pentágono e hexágono",
+        "explicacao": "Essas três figuras são fechadas e formadas por segmentos de reta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-10",
+        "enunciado": "Qual figura costuma servir de modelo para uma placa de trânsito triangular?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo",
+          "quadrado",
+          "círculo",
+          "retângulo"
+        ],
+        "respostaCorreta": "triângulo",
+        "explicacao": "A palavra triangular indica uma forma semelhante a um triângulo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-11",
+        "enunciado": "Qual alternativa está correta sobre o quadrado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tem 3 lados e 3 vértices.",
+          "Tem 4 lados e 4 vértices.",
+          "Não é um polígono.",
+          "Tem contorno curvo."
+        ],
+        "respostaCorreta": "Tem 4 lados e 4 vértices.",
+        "explicacao": "O quadrado é um polígono com 4 lados e 4 vértices.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-12",
+        "enunciado": "Qual alternativa descreve corretamente o círculo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É um polígono com muitos lados.",
+          "É uma figura plana com contorno curvo.",
+          "Tem cinco vértices.",
+          "É formado por quatro segmentos de reta."
+        ],
+        "respostaCorreta": "É uma figura plana com contorno curvo.",
+        "explicacao": "O círculo não é polígono porque não é formado por segmentos de reta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-13",
+        "enunciado": "Se uma figura tem 5 lados, 5 vértices e 5 ângulos, ela é um:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo",
+          "quadrilátero",
+          "pentágono",
+          "hexágono"
+        ],
+        "respostaCorreta": "pentágono",
+        "explicacao": "Uma figura com 5 lados recebe o nome de pentágono.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-14",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todo círculo é um polígono.",
+          "Todo polígono possui lados curvos.",
+          "Todo triângulo possui 3 vértices.",
+          "Todo quadrado possui 5 lados."
+        ],
+        "respostaCorreta": "Todo triângulo possui 3 vértices.",
+        "explicacao": "O triângulo tem 3 lados e, por isso, 3 vértices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-ex-15",
+        "enunciado": "Qual alternativa apresenta um objeto com formato aproximado de retângulo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma moeda",
+          "uma porta",
+          "um relógio redondo",
+          "uma bola"
+        ],
+        "respostaCorreta": "uma porta",
+        "explicacao": "Uma porta costuma ter formato semelhante ao de um retângulo.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-figuras-planas-sim-01",
+        "enunciado": "Qual alternativa apresenta uma figura com 6 lados e 6 vértices?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pentágono",
+          "hexágono",
+          "heptágono",
+          "triângulo"
+        ],
+        "respostaCorreta": "hexágono",
+        "explicacao": "O hexágono é o polígono que possui 6 lados e 6 vértices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-sim-02",
+        "enunciado": "Qual alternativa diferencia corretamente um polígono de uma figura não poligonal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O polígono é sempre maior.",
+          "O polígono é formado por segmentos de reta.",
+          "A figura não poligonal não ocupa espaço.",
+          "O polígono não possui lados."
+        ],
+        "respostaCorreta": "O polígono é formado por segmentos de reta.",
+        "explicacao": "Essa é a característica principal dos polígonos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-sim-03",
+        "enunciado": "Um aluno disse que a circunferência é um polígono porque é fechada. Qual alternativa avalia corretamente essa afirmação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Está correta, porque toda figura fechada é polígono.",
+          "Está incorreta, porque falta a condição de ser formada por segmentos de reta.",
+          "Está correta, porque a circunferência tem muitos lados.",
+          "Está incorreta, porque a circunferência não é uma figura plana."
+        ],
+        "respostaCorreta": "Está incorreta, porque falta a condição de ser formada por segmentos de reta.",
+        "explicacao": "Para ser polígono, a figura precisa ser fechada e formada apenas por segmentos de reta.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-figuras-planas-sim-04",
+        "enunciado": "Qual alternativa apresenta apenas elementos de um polígono?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lados, vértices e ângulos",
+          "curvas, centros e raios",
+          "sombras, faces e arestas",
+          "diâmetros, arcos e contornos"
+        ],
+        "respostaCorreta": "lados, vértices e ângulos",
+        "explicacao": "Esses são elementos fundamentais dos polígonos planos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-figuras-planas-sim-05",
+        "enunciado": "Qual alternativa descreve corretamente um quadrilátero?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É uma figura com quatro lados.",
+          "É uma figura com três lados.",
+          "É uma figura com cinco lados.",
+          "É uma figura sempre circular."
+        ],
+        "respostaCorreta": "É uma figura com quatro lados.",
+        "explicacao": "Quadrilátero é o nome dado à figura plana com quatro lados.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-pontuacao",
+    "titulo": "Pontuação",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e escrita",
+    "resumo": [
+      "Os sinais de pontuação organizam o texto e ajudam o leitor a compreender melhor as ideias.",
+      "O ponto final indica o encerramento de uma frase declarativa.",
+      "A vírgula pode separar elementos, marcar pausas e organizar informações dentro da frase.",
+      "O ponto de interrogação e o ponto de exclamação indicam sentidos diferentes, como pergunta e surpresa.",
+      "Usar corretamente a pontuação melhora a clareza e a expressividade da escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Para que serve a pontuação",
+        "texto": "A pontuação organiza o texto, marca pausas, separa ideias e ajuda a construir o sentido das frases. Sem pontuação adequada, a leitura pode ficar confusa e difícil de entender. Por isso, aprender o uso dos sinais de pontuação é essencial para escrever com clareza.",
+        "dica": "Ao ler uma frase, observe como os sinais de pontuação ajudam a indicar pausa, continuidade ou encerramento."
+      },
+      {
+        "subtitulo": "Sinais mais comuns",
+        "texto": "O ponto final indica o término de uma frase. A vírgula separa palavras, expressões ou partes da frase. O ponto de interrogação aparece em perguntas. O ponto de exclamação expressa surpresa, alegria, ordem ou admiração. Cada sinal tem uma função específica dentro do texto.",
+        "dica": "Pense no efeito de sentido que você quer produzir: informar, perguntar, admirar ou organizar melhor a frase."
+      },
+      {
+        "subtitulo": "Pontuação e sentido",
+        "texto": "A mudança da pontuação pode alterar o sentido de uma frase. Compare: Você terminou. e Você terminou? Na primeira, a frase informa; na segunda, faz uma pergunta. Esse cuidado é importante para que a mensagem escrita seja compreendida corretamente pelo leitor.",
+        "dica": "Nunca escolha um sinal de pontuação apenas pelo costume. Pense no sentido que a frase precisa transmitir."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe a frase \"A turma fez a atividade.\"",
+        "passos": [
+          "A frase apresenta uma informação completa.",
+          "Ao final dela, aparece um ponto final.",
+          "Esse sinal indica que a frase foi encerrada."
+        ],
+        "resposta": "O ponto final indica o término de uma frase declarativa."
+      },
+      {
+        "enunciado": "Compare as frases \"Você veio.\" e \"Você veio?\"",
+        "passos": [
+          "Na primeira frase, o ponto final indica uma afirmação.",
+          "Na segunda frase, o ponto de interrogação transforma a frase em pergunta.",
+          "Assim, a pontuação altera o sentido do enunciado."
+        ],
+        "resposta": "A pontuação influencia diretamente o sentido da frase."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-pontuacao-ex-01",
+        "enunciado": "Qual sinal de pontuação indica o final de uma frase declarativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vírgula",
+          "ponto final",
+          "ponto de interrogação",
+          "ponto de exclamação"
+        ],
+        "respostaCorreta": "ponto final",
+        "explicacao": "O ponto final é usado para encerrar frases declarativas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-02",
+        "enunciado": "Qual sinal de pontuação é usado ao final de uma pergunta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ponto de exclamação",
+          "vírgula",
+          "ponto de interrogação",
+          "ponto final"
+        ],
+        "respostaCorreta": "ponto de interrogação",
+        "explicacao": "O ponto de interrogação aparece no final de frases interrogativas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-03",
+        "enunciado": "Em qual alternativa o ponto de exclamação foi usado adequadamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que alegria!",
+          "Onde você mora!",
+          "A turma estudou!",
+          "Nós chegamos cedo!"
+        ],
+        "respostaCorreta": "Que alegria!",
+        "explicacao": "O ponto de exclamação está adequado porque a frase expressa emoção ou entusiasmo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-04",
+        "enunciado": "Qual sinal de pontuação ajuda a separar elementos em uma enumeração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vírgula",
+          "ponto final",
+          "ponto de interrogação",
+          "travessão"
+        ],
+        "respostaCorreta": "vírgula",
+        "explicacao": "A vírgula é usada, entre outras funções, para separar elementos em uma sequência.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-05",
+        "enunciado": "Na frase \"Comprei lápis, borracha e caderno\", a vírgula foi usada para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encerrar a frase",
+          "indicar uma pergunta",
+          "separar elementos de uma enumeração",
+          "marcar uma exclamação"
+        ],
+        "respostaCorreta": "separar elementos de uma enumeração",
+        "explicacao": "A vírgula separa os itens apresentados na enumeração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-06",
+        "enunciado": "Qual alternativa apresenta pontuação correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Você terminou.",
+          "Você terminou,",
+          "Você terminou?",
+          "Você terminou!"
+        ],
+        "respostaCorreta": "Você terminou.",
+        "explicacao": "Como a frase apresenta uma informação, o ponto final é o sinal mais adequado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-ex-07",
+        "enunciado": "Assinale a alternativa que apresenta uma pergunta corretamente pontuada.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Onde você mora.",
+          "Onde você mora?",
+          "Onde você mora!",
+          "Onde, você mora."
+        ],
+        "respostaCorreta": "Onde você mora?",
+        "explicacao": "A frase é uma pergunta, por isso termina com ponto de interrogação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-08",
+        "enunciado": "Em qual alternativa a pontuação expressa surpresa ou admiração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que susto!",
+          "Que susto.",
+          "Que susto?",
+          "Que, susto."
+        ],
+        "respostaCorreta": "Que susto!",
+        "explicacao": "O ponto de exclamação marca emoção, surpresa ou admiração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-09",
+        "enunciado": "Qual frase está corretamente pontuada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A professora explicou a tarefa,",
+          "A professora explicou a tarefa.",
+          "A professora explicou a tarefa?",
+          "A professora, explicou a tarefa."
+        ],
+        "respostaCorreta": "A professora explicou a tarefa.",
+        "explicacao": "A frase apresenta uma declaração completa e termina corretamente com ponto final.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-ex-10",
+        "enunciado": "Na frase \"Pedro, Ana e Lucas chegaram cedo\", a vírgula separa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "verbos",
+          "sinais de pergunta",
+          "nomes em uma enumeração",
+          "frases completas"
+        ],
+        "respostaCorreta": "nomes em uma enumeração",
+        "explicacao": "A vírgula separa os nomes apresentados em sequência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-ex-11",
+        "enunciado": "Qual alternativa mostra corretamente a diferença de sentido entre as duas frases?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Você veio. e Você veio? têm o mesmo sentido.",
+          "A primeira frase informa; a segunda pergunta.",
+          "A primeira pergunta; a segunda afirma.",
+          "As duas frases expressam surpresa."
+        ],
+        "respostaCorreta": "A primeira frase informa; a segunda pergunta.",
+        "explicacao": "O ponto final indica afirmação, enquanto o ponto de interrogação indica pergunta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre a função da pontuação.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A pontuação serve apenas para decorar o texto.",
+          "A pontuação organiza as ideias e ajuda a construir o sentido.",
+          "A pontuação não interfere na leitura.",
+          "A pontuação só é importante em textos longos."
+        ],
+        "respostaCorreta": "A pontuação organiza as ideias e ajuda a construir o sentido.",
+        "explicacao": "Os sinais de pontuação organizam o texto e orientam a leitura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-ex-13",
+        "enunciado": "Em qual alternativa a vírgula foi empregada corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ontem, fomos ao museu.",
+          "Ontem fomos, ao museu.",
+          "Ontem fomos ao, museu.",
+          "Ontem fomos ao museu,"
+        ],
+        "respostaCorreta": "Ontem, fomos ao museu.",
+        "explicacao": "A vírgula foi usada adequadamente para marcar uma pausa após a expressão inicial.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-pontuacao-ex-14",
+        "enunciado": "Qual alternativa traz uma frase corretamente finalizada com ponto de exclamação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que dia bonito!",
+          "Que dia bonito?",
+          "Que dia bonito.",
+          "Que dia, bonito!"
+        ],
+        "respostaCorreta": "Que dia bonito!",
+        "explicacao": "A frase expressa admiração, por isso o ponto de exclamação é adequado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pontuacao-ex-15",
+        "enunciado": "Na frase \"Você estudou para a prova?\", o ponto final foi substituído por ponto de interrogação porque a frase:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta uma ordem",
+          "expressa uma pergunta",
+          "mostra surpresa",
+          "separa palavras"
+        ],
+        "respostaCorreta": "expressa uma pergunta",
+        "explicacao": "O ponto de interrogação é usado em frases interrogativas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-pontuacao-sim-01",
+        "enunciado": "Qual alternativa apresenta uma frase corretamente pontuada com vírgula e ponto final?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Na mochila, havia lápis, caneta e borracha.",
+          "Na mochila havia, lápis caneta e borracha.",
+          "Na mochila, havia lápis caneta e borracha?",
+          "Na mochila havia lápis, caneta e borracha,"
+        ],
+        "respostaCorreta": "Na mochila, havia lápis, caneta e borracha.",
+        "explicacao": "A frase está corretamente pontuada com vírgula após a expressão inicial e entre os elementos da enumeração, além de terminar com ponto final.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-pontuacao-sim-02",
+        "enunciado": "Em qual alternativa a pontuação foi usada para indicar uma pergunta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Que lindo dia!",
+          "Você terminou a leitura?",
+          "A leitura terminou.",
+          "Ontem, li um capítulo."
+        ],
+        "respostaCorreta": "Você terminou a leitura?",
+        "explicacao": "O ponto de interrogação indica que a frase é uma pergunta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre o uso da pontuação.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A pontuação não altera o sentido das frases.",
+          "O ponto de exclamação é usado apenas em perguntas.",
+          "A pontuação ajuda a organizar o texto e orientar a leitura.",
+          "A vírgula sempre substitui o ponto final."
+        ],
+        "respostaCorreta": "A pontuação ajuda a organizar o texto e orientar a leitura.",
+        "explicacao": "Os sinais de pontuação organizam as ideias e ajudam o leitor a compreender o texto.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-pontuacao-sim-04",
+        "enunciado": "Qual alternativa apresenta a pontuação mais adequada para expressar surpresa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eu consegui.",
+          "Eu consegui?",
+          "Eu consegui!",
+          "Eu, consegui."
+        ],
+        "respostaCorreta": "Eu consegui!",
+        "explicacao": "O ponto de exclamação expressa emoção, como surpresa ou entusiasmo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pontuacao-sim-05",
+        "enunciado": "Na frase \"Maria, João e Pedro participaram da apresentação\", qual é a função da vírgula?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encerrar a frase",
+          "separar nomes em uma enumeração",
+          "indicar pergunta",
+          "marcar exclamação"
+        ],
+        "respostaCorreta": "separar nomes em uma enumeração",
+        "explicacao": "A vírgula separa os nomes apresentados em sequência na frase.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

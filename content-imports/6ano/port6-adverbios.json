@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-adverbios",
+    "titulo": "Advérbios",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Advérbio é a palavra que modifica o sentido de um verbo, de um adjetivo ou de outro advérbio.",
+      "Os advérbios podem indicar tempo, lugar, modo, intensidade, negação, afirmação e dúvida.",
+      "Palavras como ontem, aqui, bem, muito, não e talvez são exemplos de advérbios.",
+      "Os advérbios ajudam a tornar a frase mais precisa e detalhada.",
+      "Reconhecer o advérbio ajuda a compreender melhor como a informação é apresentada na frase."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é advérbio",
+        "texto": "Advérbio é a palavra que modifica o sentido de um verbo, de um adjetivo ou de outro advérbio. Em frases como A turma chegou cedo, a palavra cedo acrescenta uma informação sobre o verbo chegou. Em muito bonito, a palavra muito intensifica o adjetivo bonito. Assim, o advérbio ajuda a detalhar a informação.",
+        "dica": "Observe se a palavra está acrescentando uma ideia de tempo, lugar, modo ou intensidade à frase."
+      },
+      {
+        "subtitulo": "Sentidos mais comuns dos advérbios",
+        "texto": "Os advérbios podem indicar diferentes sentidos. Advérbios de tempo mostram quando algo acontece, como ontem e hoje. Advérbios de lugar indicam onde, como aqui e ali. Advérbios de modo mostram como algo acontece, como bem e calmamente. Há ainda advérbios de intensidade, negação, afirmação e dúvida.",
+        "dica": "Pergunte que informação extra a palavra traz para a frase: quando, onde, como, quanto, sim, não ou talvez."
+      },
+      {
+        "subtitulo": "Advérbio na construção do sentido",
+        "texto": "Ao usar advérbios, o autor torna a frase mais precisa. Compare: O aluno respondeu. e O aluno respondeu rapidamente. Na segunda frase, há uma informação extra sobre a maneira como a ação aconteceu. Por isso, os advérbios são importantes na leitura e na escrita.",
+        "dica": "Quando encontrar um advérbio, tente descobrir qual detalhe ele acrescenta ao enunciado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"Os alunos chegaram cedo\".",
+        "passos": [
+          "A palavra chegaram é o verbo da frase.",
+          "A palavra cedo informa quando a ação aconteceu.",
+          "Por isso, cedo é um advérbio de tempo."
+        ],
+        "resposta": "Na frase, a palavra \"cedo\" é um advérbio de tempo."
+      },
+      {
+        "enunciado": "Observe a expressão \"muito bonito\".",
+        "passos": [
+          "A palavra bonito é um adjetivo.",
+          "A palavra muito intensifica o sentido desse adjetivo.",
+          "Assim, muito é um advérbio de intensidade."
+        ],
+        "resposta": "Na expressão, a palavra \"muito\" é um advérbio de intensidade."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-adverbios-ex-01",
+        "enunciado": "Qual alternativa apresenta um advérbio?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ontem",
+          "livro",
+          "bonito",
+          "escola"
+        ],
+        "respostaCorreta": "ontem",
+        "explicacao": "Ontem é advérbio porque indica tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-02",
+        "enunciado": "Na frase \"A turma estudou muito\", a palavra \"muito\" indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tempo",
+          "lugar",
+          "intensidade",
+          "negação"
+        ],
+        "respostaCorreta": "intensidade",
+        "explicacao": "Muito intensifica o verbo estudou, por isso é advérbio de intensidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-03",
+        "enunciado": "Qual alternativa apresenta um advérbio de lugar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aqui",
+          "amanhã",
+          "não",
+          "bem"
+        ],
+        "respostaCorreta": "aqui",
+        "explicacao": "Aqui indica lugar, por isso é advérbio de lugar.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-04",
+        "enunciado": "Assinale a alternativa em que o advérbio indica tempo.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "longe",
+          "ontem",
+          "bem",
+          "talvez"
+        ],
+        "respostaCorreta": "ontem",
+        "explicacao": "Ontem indica quando a ação aconteceu, por isso é advérbio de tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-05",
+        "enunciado": "Na frase \"Ela respondeu calmamente\", a palavra destacada indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "modo",
+          "tempo",
+          "lugar",
+          "afirmação"
+        ],
+        "respostaCorreta": "modo",
+        "explicacao": "Calmamente mostra como a resposta foi dada, indicando modo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-06",
+        "enunciado": "Qual alternativa apresenta um advérbio de negação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sim",
+          "não",
+          "muito",
+          "agora"
+        ],
+        "respostaCorreta": "não",
+        "explicacao": "Não é advérbio de negação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-07",
+        "enunciado": "Qual alternativa apresenta um advérbio de afirmação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talvez",
+          "sim",
+          "nunca",
+          "longe"
+        ],
+        "respostaCorreta": "sim",
+        "explicacao": "Sim é advérbio de afirmação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adverbios-ex-08",
+        "enunciado": "Em qual alternativa o advérbio indica dúvida?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "certamente",
+          "talvez",
+          "não",
+          "bem"
+        ],
+        "respostaCorreta": "talvez",
+        "explicacao": "Talvez expressa dúvida.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-ex-09",
+        "enunciado": "Na frase \"O menino correu rapidamente\", o advérbio modifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o substantivo menino",
+          "o verbo correu",
+          "o artigo o",
+          "a pontuação"
+        ],
+        "respostaCorreta": "o verbo correu",
+        "explicacao": "Rapidamente modifica o verbo correu, acrescentando a ideia de modo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-ex-10",
+        "enunciado": "Qual alternativa apresenta somente advérbios?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ontem, aqui, bem",
+          "livro, aqui, bem",
+          "ontem, escola, bem",
+          "aqui, bonito, ontem"
+        ],
+        "respostaCorreta": "ontem, aqui, bem",
+        "explicacao": "As três palavras da alternativa correta são advérbios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-ex-11",
+        "enunciado": "Em qual alternativa o advérbio intensifica um adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "chegou cedo",
+          "muito bonito",
+          "estuda aqui",
+          "não veio"
+        ],
+        "respostaCorreta": "muito bonito",
+        "explicacao": "Muito intensifica o adjetivo bonito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre os advérbios.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os advérbios sempre substituem os substantivos.",
+          "Os advérbios modificam verbos, adjetivos ou outros advérbios.",
+          "Os advérbios indicam apenas lugar.",
+          "Os advérbios nunca aparecem em frases curtas."
+        ],
+        "respostaCorreta": "Os advérbios modificam verbos, adjetivos ou outros advérbios.",
+        "explicacao": "Essa é a definição correta da função dos advérbios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-ex-13",
+        "enunciado": "Qual alternativa apresenta uma frase sem advérbio?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A aula começou cedo.",
+          "Os alunos chegaram aqui.",
+          "A professora explicou a lição.",
+          "Ela talvez volte amanhã."
+        ],
+        "respostaCorreta": "A professora explicou a lição.",
+        "explicacao": "Nessa frase não aparece uma palavra com função de advérbio.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adverbios-ex-14",
+        "enunciado": "Na frase \"Eles quase terminaram a atividade\", a palavra \"quase\" indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lugar",
+          "intensidade ou aproximação",
+          "tempo exato",
+          "negação total"
+        ],
+        "respostaCorreta": "intensidade ou aproximação",
+        "explicacao": "Quase indica uma ideia de aproximação em relação à ação de terminar.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adverbios-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre os advérbios?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles ajudam a tornar a frase mais precisa.",
+          "Eles substituem qualquer verbo.",
+          "Eles servem apenas para perguntas.",
+          "Eles não alteram o sentido do enunciado."
+        ],
+        "respostaCorreta": "Eles ajudam a tornar a frase mais precisa.",
+        "explicacao": "Os advérbios acrescentam detalhes importantes ao enunciado.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-adverbios-sim-01",
+        "enunciado": "Na frase \"Os alunos responderam muito bem\", quais sentidos os advérbios acrescentam?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tempo e lugar",
+          "intensidade e modo",
+          "negação e dúvida",
+          "lugar e afirmação"
+        ],
+        "respostaCorreta": "intensidade e modo",
+        "explicacao": "Muito intensifica, e bem indica modo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-sim-02",
+        "enunciado": "Em qual alternativa o advérbio foi corretamente classificado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aqui - advérbio de lugar",
+          "ontem - advérbio de negação",
+          "não - advérbio de tempo",
+          "talvez - advérbio de afirmação"
+        ],
+        "respostaCorreta": "aqui - advérbio de lugar",
+        "explicacao": "Aqui indica lugar, por isso essa classificação está correta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adverbios-sim-03",
+        "enunciado": "Qual alternativa apresenta uma frase em que o advérbio modifica um adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma chegou cedo.",
+          "O livro está muito interessante.",
+          "Ela não saiu hoje.",
+          "Os alunos estudam aqui."
+        ],
+        "respostaCorreta": "O livro está muito interessante.",
+        "explicacao": "Muito intensifica o adjetivo interessante.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adverbios-sim-04",
+        "enunciado": "Assinale a alternativa correta sobre a importância dos advérbios.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles não influenciam o sentido da frase.",
+          "Eles acrescentam detalhes e tornam a informação mais precisa.",
+          "Eles servem apenas para substituir substantivos.",
+          "Eles aparecem apenas em textos narrativos."
+        ],
+        "respostaCorreta": "Eles acrescentam detalhes e tornam a informação mais precisa.",
+        "explicacao": "Os advérbios enriquecem o enunciado ao indicar tempo, lugar, modo, intensidade e outros sentidos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adverbios-sim-05",
+        "enunciado": "Na frase \"Talvez a equipe chegue amanhã\", quais advérbios aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talvez e amanhã",
+          "equipe e chegue",
+          "a e equipe",
+          "chegue e amanhã"
+        ],
+        "respostaCorreta": "talvez e amanhã",
+        "explicacao": "Talvez é advérbio de dúvida, e amanhã é advérbio de tempo.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

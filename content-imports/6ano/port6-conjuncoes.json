@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-conjuncoes",
+    "titulo": "Conjunções",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Conjunção é a palavra que liga termos ou orações, estabelecendo relações de sentido entre eles.",
+      "Palavras como e, mas, porque, ou e embora são exemplos de conjunções.",
+      "As conjunções podem indicar soma, oposição, explicação, escolha, causa e outras relações.",
+      "Elas ajudam a organizar melhor as ideias em frases e textos.",
+      "Reconhecer as conjunções facilita a compreensão da ligação entre as partes do enunciado."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são conjunções",
+        "texto": "Conjunções são palavras usadas para ligar palavras, expressões ou orações. Em frases como João estudou e Pedro revisou, a palavra e conecta duas informações. Em Estudou bastante, mas ficou nervoso, a palavra mas estabelece uma oposição entre as ideias.",
+        "dica": "Procure a palavra que faz a ligação entre duas partes da frase."
+      },
+      {
+        "subtitulo": "Relações de sentido",
+        "texto": "As conjunções podem indicar diferentes relações. A conjunção e costuma indicar adição. A conjunção mas marca oposição. A palavra ou pode indicar escolha. Já porque pode introduzir explicação ou causa, dependendo do contexto. Essas relações ajudam a construir o sentido do texto.",
+        "dica": "Pergunte o que a conjunção está fazendo: somando, contrapondo, explicando ou apresentando escolha."
+      },
+      {
+        "subtitulo": "Conjunções e organização do texto",
+        "texto": "Ao usar conjunções, o autor conecta melhor as ideias e torna o texto mais coeso. Elas são importantes em narrativas, explicações, argumentos e instruções. Quando o leitor identifica a conjunção, entende melhor como as partes do texto se relacionam.",
+        "dica": "Leia as duas partes ligadas pela conjunção e observe como o sentido muda ou se completa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"A turma leu o texto e respondeu às questões\".",
+        "passos": [
+          "A frase apresenta duas ações da turma.",
+          "A palavra e liga essas duas ações.",
+          "Nesse caso, e funciona como conjunção de adição."
+        ],
+        "resposta": "Na frase, a palavra \"e\" é uma conjunção que indica soma de ações."
+      },
+      {
+        "enunciado": "Observe a frase \"Ele estudou, mas ficou inseguro\".",
+        "passos": [
+          "A primeira parte mostra que ele estudou.",
+          "A segunda parte traz uma ideia que contrasta com a primeira.",
+          "Por isso, mas é uma conjunção que indica oposição."
+        ],
+        "resposta": "Na frase, a palavra \"mas\" é uma conjunção que indica oposição."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-conjuncoes-ex-01",
+        "enunciado": "Qual alternativa apresenta uma conjunção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "e",
+          "escola",
+          "bonito",
+          "ontem"
+        ],
+        "respostaCorreta": "e",
+        "explicacao": "E é conjunção porque liga termos ou orações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-02",
+        "enunciado": "Na frase \"Pedro chegou, mas Ana saiu\", qual palavra é conjunção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pedro",
+          "chegou",
+          "mas",
+          "Ana"
+        ],
+        "respostaCorreta": "mas",
+        "explicacao": "Mas liga duas partes da frase e indica oposição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-03",
+        "enunciado": "Qual conjunção costuma indicar adição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mas",
+          "ou",
+          "e",
+          "porque"
+        ],
+        "respostaCorreta": "e",
+        "explicacao": "A conjunção e costuma indicar soma ou adição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-04",
+        "enunciado": "Qual alternativa apresenta uma conjunção que indica oposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "e",
+          "mas",
+          "ou",
+          "porque"
+        ],
+        "respostaCorreta": "mas",
+        "explicacao": "Mas indica contraste ou oposição entre as ideias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-05",
+        "enunciado": "Na frase \"Você prefere suco ou água?\", a conjunção indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adição",
+          "explicação",
+          "escolha",
+          "negação"
+        ],
+        "respostaCorreta": "escolha",
+        "explicacao": "A conjunção ou apresenta opções, indicando escolha.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-06",
+        "enunciado": "Em qual alternativa a conjunção indica explicação ou causa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele saiu cedo porque estava cansado.",
+          "A turma cantou e dançou.",
+          "Você vem ou fica?",
+          "Ela tentou, mas não conseguiu."
+        ],
+        "respostaCorreta": "Ele saiu cedo porque estava cansado.",
+        "explicacao": "A conjunção porque introduz uma explicação ou causa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-07",
+        "enunciado": "Assinale a alternativa que apresenta apenas conjunções.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "e, mas, ou",
+          "e, livro, ou",
+          "mas, bonito, porque",
+          "escola, ou, ontem"
+        ],
+        "respostaCorreta": "e, mas, ou",
+        "explicacao": "As três palavras da alternativa correta são conjunções.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-08",
+        "enunciado": "Na frase \"A aluna estudou e fez a tarefa\", a conjunção liga:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "duas ações",
+          "duas perguntas",
+          "dois adjetivos",
+          "duas negações"
+        ],
+        "respostaCorreta": "duas ações",
+        "explicacao": "A conjunção e liga as ações estudou e fez.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-09",
+        "enunciado": "Qual alternativa apresenta uma frase sem conjunção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pedro estudou e descansou.",
+          "Ela tentou, mas errou.",
+          "O aluno chegou cedo.",
+          "Você quer chá ou café?"
+        ],
+        "respostaCorreta": "O aluno chegou cedo.",
+        "explicacao": "Nessa frase não há palavra com função de conjunção.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-10",
+        "enunciado": "Assinale a alternativa correta sobre as conjunções.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As conjunções ligam partes do enunciado e ajudam a construir relações de sentido.",
+          "As conjunções servem apenas para indicar plural.",
+          "As conjunções substituem os substantivos.",
+          "As conjunções não têm importância no texto."
+        ],
+        "respostaCorreta": "As conjunções ligam partes do enunciado e ajudam a construir relações de sentido.",
+        "explicacao": "Essa alternativa apresenta corretamente a função das conjunções.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-11",
+        "enunciado": "Na frase \"Ele correu, mas não venceu\", a conjunção ajuda a mostrar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adição",
+          "tempo",
+          "oposição",
+          "lugar"
+        ],
+        "respostaCorreta": "oposição",
+        "explicacao": "Mas contrapõe as duas ideias apresentadas na frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-12",
+        "enunciado": "Em qual alternativa a conjunção foi usada corretamente para indicar escolha?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estude ou copie com atenção.",
+          "Você quer maçã ou banana?",
+          "A turma leu ou respondeu o exercício ao mesmo tempo.",
+          "Ela saiu ou porque chovia."
+        ],
+        "respostaCorreta": "Você quer maçã ou banana?",
+        "explicacao": "A conjunção ou foi usada corretamente para apresentar duas opções.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-ex-13",
+        "enunciado": "Qual alternativa apresenta uma conjunção explicativa ou causal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porque",
+          "mas",
+          "e",
+          "ou"
+        ],
+        "respostaCorreta": "porque",
+        "explicacao": "Porque pode introduzir explicação ou causa, conforme o contexto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-14",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre o papel das conjunções no texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ajudam a ligar ideias e deixam o texto mais organizado.",
+          "Elas não alteram o sentido do texto.",
+          "Elas servem apenas para enfeitar frases.",
+          "Elas só aparecem em perguntas."
+        ],
+        "respostaCorreta": "Elas ajudam a ligar ideias e deixam o texto mais organizado.",
+        "explicacao": "As conjunções contribuem para a coesão e para a organização das ideias.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-conjuncoes-ex-15",
+        "enunciado": "Qual alternativa traz uma frase com conjunção aditiva e outra com conjunção adversativa, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma leu e escreveu. / Ela estudou, mas errou.",
+          "Ela estudou, mas errou. / A turma leu e escreveu.",
+          "Você quer chá ou café? / Ele saiu porque chovia.",
+          "Ele saiu porque chovia. / Você quer chá ou café?"
+        ],
+        "respostaCorreta": "A turma leu e escreveu. / Ela estudou, mas errou.",
+        "explicacao": "Na primeira frase, e indica adição; na segunda, mas indica oposição.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-conjuncoes-sim-01",
+        "enunciado": "Na frase \"O aluno revisou o conteúdo, mas ainda ficou inseguro\", qual é a função da conjunção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indicar soma",
+          "indicar oposição",
+          "indicar escolha",
+          "indicar lugar"
+        ],
+        "respostaCorreta": "indicar oposição",
+        "explicacao": "A conjunção mas contrapõe a segunda ideia à primeira.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-sim-02",
+        "enunciado": "Em qual alternativa a conjunção foi corretamente identificada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porque - conjunção de explicação ou causa",
+          "e - advérbio de tempo",
+          "mas - preposição de lugar",
+          "ou - pronome demonstrativo"
+        ],
+        "respostaCorreta": "porque - conjunção de explicação ou causa",
+        "explicacao": "Porque pode funcionar como conjunção explicativa ou causal, conforme o contexto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-sim-03",
+        "enunciado": "Qual alternativa mostra a importância das conjunções na escrita?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas conectam ideias e ajudam na organização do texto.",
+          "Elas substituem os sinais de pontuação.",
+          "Elas servem apenas para decorar frases.",
+          "Elas eliminam a necessidade de verbos."
+        ],
+        "respostaCorreta": "Elas conectam ideias e ajudam na organização do texto.",
+        "explicacao": "As conjunções tornam o texto mais coeso ao ligar adequadamente as ideias.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-conjuncoes-sim-04",
+        "enunciado": "Na frase \"Você pode estudar agora ou deixar para mais tarde\", que ideia a conjunção destaca?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oposição",
+          "escolha",
+          "explicação",
+          "afirmação"
+        ],
+        "respostaCorreta": "escolha",
+        "explicacao": "A conjunção ou apresenta duas possibilidades de ação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-conjuncoes-sim-05",
+        "enunciado": "Assinale a alternativa em que a frase foi construída com uso adequado de conjunção.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma leu porque respondeu e mas depois.",
+          "João estudou e Pedro revisou o resumo.",
+          "O aluno mas fez a tarefa cedo.",
+          "Ela ou chegou cedo para aula."
+        ],
+        "respostaCorreta": "João estudou e Pedro revisou o resumo.",
+        "explicacao": "A conjunção e foi usada corretamente para ligar duas ações e organizar a frase.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

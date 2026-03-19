@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-acentuacao-ortografia",
+    "titulo": "Acentuação e ortografia",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Escrita e convenções da língua",
+    "resumo": [
+      "Ortografia é o conjunto de regras que orienta a escrita correta das palavras.",
+      "A acentuação gráfica ajuda a marcar a pronúncia e a diferenciar palavras na escrita.",
+      "Escrever com atenção evita trocas de letras, omissão de acentos e erros de grafia.",
+      "A leitura frequente e a revisão do texto ajudam a melhorar a ortografia.",
+      "Conhecer as formas corretas das palavras é essencial para escrever com clareza e segurança."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é ortografia",
+        "texto": "Ortografia é a parte da língua que trata da escrita correta das palavras. Quando escrevemos escola, caderno e criança da forma adequada, estamos respeitando as regras ortográficas do português. A ortografia é importante porque garante clareza e facilita a comunicação escrita.",
+        "dica": "Se tiver dúvida sobre a escrita de uma palavra, releia com calma e compare com formas conhecidas do vocabulário escolar."
+      },
+      {
+        "subtitulo": "Para que serve a acentuação",
+        "texto": "Os acentos gráficos ajudam a indicar a tonicidade das palavras e, em alguns casos, evitam ambiguidades. Palavras como árvore, lápis e ônibus recebem acento porque seguem regras da língua portuguesa. Escrever sem acento quando ele é necessário prejudica a forma correta da palavra.",
+        "dica": "Ao escrever, observe se a palavra costuma aparecer com acento em livros, cartazes, cadernos e textos que você lê."
+      },
+      {
+        "subtitulo": "Revisão e atenção na escrita",
+        "texto": "Muitos erros de ortografia acontecem por distração, como troca de letras, falta de acento ou escrita incompleta da palavra. Por isso, revisar o texto antes de entregá-lo é uma prática importante. A revisão ajuda o aluno a perceber erros e a fortalecer o aprendizado da forma correta das palavras.",
+        "dica": "Depois de escrever, releia palavra por palavra e observe principalmente as que costumam gerar dúvida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare as formas \"arvore\" e \"árvore\".",
+        "passos": [
+          "A palavra árvore é escrita com acento agudo na primeira sílaba tônica.",
+          "A forma sem acento não corresponde à grafia correta da palavra.",
+          "Por isso, a escrita adequada é árvore."
+        ],
+        "resposta": "A forma correta é \"árvore\"."
+      },
+      {
+        "enunciado": "Observe as palavras \"caza\" e \"casa\".",
+        "passos": [
+          "As duas palavras têm som parecido em alguns contextos da fala.",
+          "Na escrita correta da língua portuguesa, a forma adequada é casa.",
+          "Isso mostra que a ortografia nem sempre depende apenas do som."
+        ],
+        "resposta": "A forma correta é \"casa\"."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-acentuacao-ortografia-ex-01",
+        "enunciado": "Qual alternativa apresenta a grafia correta da palavra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lapis",
+          "lápis",
+          "lápiz",
+          "lapíz"
+        ],
+        "respostaCorreta": "lápis",
+        "explicacao": "Lápis é a forma correta da palavra, com acento agudo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-02",
+        "enunciado": "Qual alternativa apresenta a escrita correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ônibus",
+          "oníbus",
+          "onibus",
+          "ônibos"
+        ],
+        "respostaCorreta": "ônibus",
+        "explicacao": "Ônibus é a grafia correta da palavra.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-03",
+        "enunciado": "Assinale a alternativa em que a palavra está escrita corretamente.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crianca",
+          "criança",
+          "criansa",
+          "criançã"
+        ],
+        "respostaCorreta": "criança",
+        "explicacao": "Criança é a forma correta, com cedilha e sem acento indevido no final.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-04",
+        "enunciado": "Qual palavra está escrita de forma incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "caderno",
+          "escola",
+          "profesora",
+          "biblioteca"
+        ],
+        "respostaCorreta": "profesora",
+        "explicacao": "A forma correta é professora, com duas letras s.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-05",
+        "enunciado": "Qual alternativa apresenta a forma correta da palavra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "arvore",
+          "árvore",
+          "árvoree",
+          "arvóre"
+        ],
+        "respostaCorreta": "árvore",
+        "explicacao": "Árvore é a grafia correta, com acento agudo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-06",
+        "enunciado": "Qual alternativa mostra corretamente a escrita da palavra usada para indicar um lugar onde há livros para leitura e empréstimo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bibliotéca",
+          "biblioteca",
+          "bibilioteca",
+          "bibliotecaa"
+        ],
+        "respostaCorreta": "biblioteca",
+        "explicacao": "Biblioteca é a forma correta da palavra.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-07",
+        "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ônibus, lápis, árvore",
+          "onibus, lápis, arvore",
+          "ônibos, lapis, árvore",
+          "ônibus, lapíz, arvoré"
+        ],
+        "respostaCorreta": "ônibus, lápis, árvore",
+        "explicacao": "As três palavras da alternativa correta estão escritas conforme a ortografia padrão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-08",
+        "enunciado": "Qual alternativa apresenta a grafia correta de uma palavra com acento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mesa",
+          "café",
+          "janela",
+          "quadro"
+        ],
+        "respostaCorreta": "café",
+        "explicacao": "Café é a palavra corretamente escrita com acento agudo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-09",
+        "enunciado": "Na frase \"O aluno levou o ___ para a aula\", qual palavra completa corretamente a lacuna?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lapis",
+          "lápis",
+          "lapiz",
+          "lápiz"
+        ],
+        "respostaCorreta": "lápis",
+        "explicacao": "Lápis é a forma correta da palavra nesse contexto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-10",
+        "enunciado": "Qual alternativa apresenta uma palavra escrita corretamente, sem necessidade de acento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facíl",
+          "mesa",
+          "cadeíra",
+          "cópo"
+        ],
+        "respostaCorreta": "mesa",
+        "explicacao": "Mesa está corretamente escrita e não leva acento gráfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-11",
+        "enunciado": "Qual alternativa mostra a melhor atitude para evitar erros ortográficos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever rápido e não revisar",
+          "reler o texto e conferir as palavras",
+          "ignorar palavras que geram dúvida",
+          "trocar letras até a palavra parecer certa"
+        ],
+        "respostaCorreta": "reler o texto e conferir as palavras",
+        "explicacao": "A revisão ajuda a identificar e corrigir erros de escrita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre ortografia.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A ortografia trata apenas da pronúncia das palavras.",
+          "A ortografia orienta a escrita correta das palavras.",
+          "A ortografia não é importante para a leitura.",
+          "A ortografia só vale para palavras com acento."
+        ],
+        "respostaCorreta": "A ortografia orienta a escrita correta das palavras.",
+        "explicacao": "A ortografia reúne as regras de escrita correta da língua.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-13",
+        "enunciado": "Qual alternativa apresenta a palavra correta para completar a frase \"O ___ chegou cedo ao ponto\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "onibus",
+          "ônibus",
+          "oníbus",
+          "ônibos"
+        ],
+        "respostaCorreta": "ônibus",
+        "explicacao": "Ônibus é a forma correta da palavra.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-14",
+        "enunciado": "Em qual alternativa a palavra está escrita incorretamente por falta de acento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "árvore",
+          "lapis",
+          "ônibus",
+          "café"
+        ],
+        "respostaCorreta": "lapis",
+        "explicacao": "A forma correta é lápis, com acento agudo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-ex-15",
+        "enunciado": "Qual alternativa apresenta uma afirmação correta sobre acentuação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nenhuma palavra da língua portuguesa leva acento.",
+          "O acento gráfico pode fazer parte da escrita correta de uma palavra.",
+          "Toda palavra deve receber acento.",
+          "A acentuação não interfere na escrita."
+        ],
+        "respostaCorreta": "O acento gráfico pode fazer parte da escrita correta de uma palavra.",
+        "explicacao": "Muitas palavras precisam de acento para serem escritas corretamente.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-acentuacao-ortografia-sim-01",
+        "enunciado": "Qual alternativa apresenta apenas palavras escritas corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lápis, árvore, ônibus",
+          "lapis, árvore, ônibus",
+          "lápis, arvore, onibus",
+          "lapíz, árvore, ônibus"
+        ],
+        "respostaCorreta": "lápis, árvore, ônibus",
+        "explicacao": "Nessa alternativa, as três palavras seguem corretamente a ortografia padrão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-sim-02",
+        "enunciado": "Em qual alternativa a palavra foi escrita com acento de forma correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bibliotéca",
+          "lápis",
+          "janéla",
+          "cadérno"
+        ],
+        "respostaCorreta": "lápis",
+        "explicacao": "Lápis é a única palavra da lista corretamente acentuada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre o papel da revisão na escrita.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A revisão atrapalha a escrita e não ajuda a corrigir erros.",
+          "A revisão permite identificar problemas de ortografia e de acentuação.",
+          "A revisão só deve ser feita em textos muito longos.",
+          "A revisão substitui a leitura."
+        ],
+        "respostaCorreta": "A revisão permite identificar problemas de ortografia e de acentuação.",
+        "explicacao": "Reler o texto é uma estratégia importante para corrigir erros e melhorar a escrita.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-sim-04",
+        "enunciado": "Qual alternativa completa corretamente a frase \"Na mochila havia um ___, um caderno e uma régua\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lapis",
+          "lápis",
+          "lapíz",
+          "lápiz"
+        ],
+        "respostaCorreta": "lápis",
+        "explicacao": "Lápis é a forma correta da palavra nesse contexto escolar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-acentuacao-ortografia-sim-05",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre ortografia e acentuação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas são detalhes sem importância na comunicação escrita.",
+          "Elas ajudam a garantir a escrita correta e a clareza do texto.",
+          "Elas servem apenas para enfeitar as palavras.",
+          "Elas só importam em textos literários."
+        ],
+        "respostaCorreta": "Elas ajudam a garantir a escrita correta e a clareza do texto.",
+        "explicacao": "Ortografia e acentuação são fundamentais para escrever de forma correta, clara e compreensível.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

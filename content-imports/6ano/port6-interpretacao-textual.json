@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-interpretacao-textual",
+    "titulo": "Interpretação textual",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e compreensão",
+    "resumo": [
+      "Interpretar um texto é compreender as informações apresentadas e construir sentidos a partir da leitura.",
+      "A leitura atenta ajuda a identificar assunto, ideia principal, personagens, tempo, lugar e intenção do texto.",
+      "O leitor precisa observar tanto o que está explícito quanto aquilo que pode ser inferido com base nas pistas do texto.",
+      "Responder a questões de interpretação exige atenção às palavras, às frases e à organização das ideias.",
+      "A prática de leitura frequente contribui para melhorar a compreensão textual."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é interpretar um texto",
+        "texto": "Interpretar um texto é compreender o que ele diz, como ele organiza as informações e quais sentidos ele produz. Isso envolve reconhecer informações claras e também perceber pistas que ajudam a chegar a conclusões. Quando o leitor interpreta bem, ele consegue explicar o assunto do texto e entender sua mensagem principal.",
+        "dica": "Leia o texto com calma e pergunte: sobre o que ele fala e o que quer comunicar?"
+      },
+      {
+        "subtitulo": "Informação explícita e inferência",
+        "texto": "Uma informação explícita é aquela que aparece claramente no texto. Já a inferência acontece quando o leitor conclui algo a partir das pistas dadas pelo autor. Por exemplo, se o texto diz que o céu escureceu e o vento aumentou, o leitor pode inferir que uma chuva se aproxima, mesmo que isso não esteja escrito de forma direta.",
+        "dica": "Primeiro localize o que o texto afirma diretamente; depois pense no que pode ser concluído a partir dessas informações."
+      },
+      {
+        "subtitulo": "Estratégias de leitura",
+        "texto": "Para interpretar melhor, o aluno pode observar o título, identificar palavras importantes, destacar a ideia principal de cada parte e reler trechos quando tiver dúvida. Essas estratégias ajudam a organizar a compreensão e evitam respostas precipitadas baseadas apenas em impressões.",
+        "dica": "Se uma questão parecer difícil, volte ao texto e procure a parte que ajuda a responder."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia a frase: \"Pedro correu para dentro de casa quando começaram os trovões.\"",
+        "passos": [
+          "A frase informa diretamente que Pedro correu para dentro de casa.",
+          "Os trovões indicam uma situação de tempo instável.",
+          "Podemos inferir que Pedro entrou em casa para se proteger da chuva ou de uma tempestade."
+        ],
+        "resposta": "A frase permite inferir que Pedro buscou proteção por causa do mau tempo."
+      },
+      {
+        "enunciado": "Leia a frase: \"A biblioteca estava cheia, pois era o primeiro dia da feira de livros.\"",
+        "passos": [
+          "A informação explícita é que a biblioteca estava cheia.",
+          "Também aparece a causa dessa situação: o primeiro dia da feira de livros.",
+          "Assim, a ideia principal é que o evento atraiu muitas pessoas."
+        ],
+        "resposta": "A frase mostra que a feira de livros levou muitas pessoas à biblioteca."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-interpretacao-textual-ex-01",
+        "enunciado": "Interpretar um texto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "copiar todas as palavras do texto",
+          "compreender as informações e os sentidos do texto",
+          "decorar o texto sem entendê-lo",
+          "identificar apenas os verbos"
+        ],
+        "respostaCorreta": "compreender as informações e os sentidos do texto",
+        "explicacao": "Interpretar um texto é compreender o que ele diz e os sentidos que ele constrói.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-02",
+        "enunciado": "Quando uma informação aparece claramente no texto, ela é chamada de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "inferida",
+          "explícita",
+          "oculta",
+          "imaginada"
+        ],
+        "respostaCorreta": "explícita",
+        "explicacao": "Informação explícita é aquela que está claramente escrita no texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-03",
+        "enunciado": "Inferir uma informação em um texto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "copiar uma frase inteira",
+          "tirar uma conclusão com base nas pistas do texto",
+          "apagar uma informação",
+          "transformar o texto em poema"
+        ],
+        "respostaCorreta": "tirar uma conclusão com base nas pistas do texto",
+        "explicacao": "Inferir é concluir algo a partir do que o texto sugere ou indica por meio de pistas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-04",
+        "enunciado": "Qual atitude ajuda mais na interpretação de um texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler rapidamente sem voltar ao texto",
+          "observar o título e reler trechos importantes",
+          "ignorar palavras desconhecidas",
+          "responder sem ler até o final"
+        ],
+        "respostaCorreta": "observar o título e reler trechos importantes",
+        "explicacao": "Essas estratégias ajudam o leitor a compreender melhor as informações e a mensagem do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-05",
+        "enunciado": "Na frase \"O céu escureceu e as folhas começaram a se mover com força\", o leitor pode inferir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma tempestade pode estar se aproximando",
+          "o dia ficou mais claro",
+          "o vento parou completamente",
+          "as folhas desapareceram"
+        ],
+        "respostaCorreta": "uma tempestade pode estar se aproximando",
+        "explicacao": "As pistas do trecho permitem inferir a aproximação de chuva ou tempestade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-06",
+        "enunciado": "Em uma questão de interpretação, voltar ao texto é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a confirmar a resposta com base nas informações do texto",
+          "faz o leitor esquecer o assunto",
+          "substitui a necessidade de pensar",
+          "serve apenas para textos muito curtos"
+        ],
+        "respostaCorreta": "ajuda a confirmar a resposta com base nas informações do texto",
+        "explicacao": "Retornar ao texto ajuda o leitor a responder com mais segurança e precisão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-07",
+        "enunciado": "Qual alternativa apresenta uma informação inferida, e não explícita?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A personagem saiu de casa às sete horas.",
+          "O texto afirma que a rua estava vazia.",
+          "Podemos concluir que o personagem estava com medo.",
+          "O texto diz que a mochila era azul."
+        ],
+        "respostaCorreta": "Podemos concluir que o personagem estava com medo.",
+        "explicacao": "Essa alternativa apresenta uma conclusão do leitor, e não uma informação necessariamente escrita de forma direta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-08",
+        "enunciado": "Qual alternativa melhor define a ideia principal de um texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o assunto central desenvolvido no texto",
+          "a palavra mais longa do texto",
+          "a última frase escrita",
+          "qualquer detalhe isolado"
+        ],
+        "respostaCorreta": "o assunto central desenvolvido no texto",
+        "explicacao": "A ideia principal corresponde ao núcleo de sentido do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-09",
+        "enunciado": "Se o título de um texto é \"A visita ao museu\", é provável que o texto trate principalmente de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma viagem de avião",
+          "uma ida a um museu",
+          "uma aula de matemática",
+          "um jogo esportivo"
+        ],
+        "respostaCorreta": "uma ida a um museu",
+        "explicacao": "O título costuma antecipar o assunto principal do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-10",
+        "enunciado": "Qual alternativa mostra uma estratégia adequada de leitura?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar o título",
+          "ler sem prestar atenção aos detalhes",
+          "destacar palavras importantes e reler trechos difíceis",
+          "responder primeiro e ler depois"
+        ],
+        "respostaCorreta": "destacar palavras importantes e reler trechos difíceis",
+        "explicacao": "Essas ações ajudam na compreensão do texto e na resolução das questões.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-11",
+        "enunciado": "Na frase \"Quando chegou à escola, Lara percebeu que havia esquecido o caderno\", qual informação é explícita?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lara ficou feliz",
+          "Lara esqueceu o caderno",
+          "Lara voltou para casa",
+          "Lara perdeu o ônibus"
+        ],
+        "respostaCorreta": "Lara esqueceu o caderno",
+        "explicacao": "Essa informação aparece diretamente na frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-12",
+        "enunciado": "Na mesma frase, o leitor pode inferir que Lara:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talvez tenha ficado preocupada",
+          "estava de férias",
+          "não gosta da escola",
+          "perdeu a mochila"
+        ],
+        "respostaCorreta": "talvez tenha ficado preocupada",
+        "explicacao": "Esquecer o caderno ao chegar à escola pode levar o leitor a inferir preocupação, embora isso não esteja dito explicitamente.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-13",
+        "enunciado": "Assinale a alternativa correta sobre interpretação textual.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Interpretar um texto é apenas copiar frases dele.",
+          "Interpretar exige atenção às informações e aos sentidos do texto.",
+          "Interpretar é o mesmo que decorar o texto inteiro.",
+          "Interpretar só é importante em provas."
+        ],
+        "respostaCorreta": "Interpretar exige atenção às informações e aos sentidos do texto.",
+        "explicacao": "A interpretação textual envolve compreensão, análise e construção de sentidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-14",
+        "enunciado": "Qual alternativa apresenta uma conclusão baseada em pistas do texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O texto afirma que a porta estava aberta.",
+          "Podemos concluir que o personagem estava com pressa.",
+          "O texto informa o nome da escola.",
+          "O texto diz que o ônibus chegou às oito horas."
+        ],
+        "respostaCorreta": "Podemos concluir que o personagem estava com pressa.",
+        "explicacao": "Essa alternativa apresenta uma inferência, isto é, uma conclusão construída a partir de pistas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-interpretacao-textual-ex-15",
+        "enunciado": "Por que a interpretação textual é importante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque ajuda a compreender melhor os textos e a responder com mais precisão.",
+          "Porque elimina a necessidade de leitura.",
+          "Porque serve apenas para decorar palavras difíceis.",
+          "Porque substitui o estudo de gramática."
+        ],
+        "respostaCorreta": "Porque ajuda a compreender melhor os textos e a responder com mais precisão.",
+        "explicacao": "A interpretação textual é importante para a leitura, para o estudo e para a produção de respostas bem fundamentadas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-interpretacao-textual-sim-01",
+        "enunciado": "Leia: \"O menino fechou a janela quando o vento começou a aumentar.\" O que se pode inferir dessa situação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O menino queria brincar no quintal.",
+          "O menino quis se proteger do vento ou da chuva.",
+          "O menino abriu a porta da casa.",
+          "O menino saiu para passear."
+        ],
+        "respostaCorreta": "O menino quis se proteger do vento ou da chuva.",
+        "explicacao": "O aumento do vento funciona como pista para inferir que ele buscou proteção.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-sim-02",
+        "enunciado": "Qual alternativa apresenta uma informação explícita?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Podemos concluir que a personagem estava nervosa.",
+          "O leitor imagina que o dia foi cansativo.",
+          "O texto afirma que a personagem chegou atrasada.",
+          "Talvez o personagem estivesse triste."
+        ],
+        "respostaCorreta": "O texto afirma que a personagem chegou atrasada.",
+        "explicacao": "Informação explícita é aquela que aparece diretamente no texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-sim-03",
+        "enunciado": "Em questões de interpretação, por que o título é importante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque sempre revela o final da história.",
+          "Porque pode indicar o assunto principal do texto.",
+          "Porque substitui a leitura do texto inteiro.",
+          "Porque mostra apenas o nome do autor."
+        ],
+        "respostaCorreta": "Porque pode indicar o assunto principal do texto.",
+        "explicacao": "O título costuma orientar o leitor sobre o tema desenvolvido no texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-interpretacao-textual-sim-04",
+        "enunciado": "Assinale a alternativa correta sobre leitura e interpretação.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O leitor não precisa observar as pistas do texto.",
+          "Interpretar é compreender o que está escrito e o que pode ser concluído a partir do texto.",
+          "Interpretar é o mesmo que copiar frases sem pensar.",
+          "A interpretação só depende da opinião do leitor, e não do texto."
+        ],
+        "respostaCorreta": "Interpretar é compreender o que está escrito e o que pode ser concluído a partir do texto.",
+        "explicacao": "A interpretação textual envolve a leitura do que está explícito e também das inferências possíveis.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-interpretacao-textual-sim-05",
+        "enunciado": "Na frase \"A biblioteca ficou lotada no primeiro dia da feira\", qual é a ideia principal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A feira atraiu muitas pessoas à biblioteca.",
+          "A biblioteca fechou mais cedo.",
+          "Os livros desapareceram da biblioteca.",
+          "Ninguém gostou da feira."
+        ],
+        "respostaCorreta": "A feira atraiu muitas pessoas à biblioteca.",
+        "explicacao": "A frase mostra que a feira levou muitas pessoas à biblioteca, deixando o local lotado.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-sinonimos-antonimos",
+    "titulo": "Sinônimos e antônimos",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Vocabulário e sentido",
+    "resumo": [
+      "Sinônimos são palavras que apresentam sentido semelhante em determinado contexto.",
+      "Antônimos são palavras que apresentam sentidos opostos.",
+      "O contexto da frase é importante para compreender o significado das palavras.",
+      "Conhecer sinônimos e antônimos ajuda a ampliar o vocabulário e a melhorar a escrita.",
+      "A escolha de palavras com sentido próximo ou contrário pode alterar a interpretação de um texto."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são sinônimos",
+        "texto": "Sinônimos são palavras que possuem sentido semelhante. Por exemplo, bonito e belo podem ser usados com sentido próximo em muitas frases. No entanto, o sentido das palavras depende do contexto, e por isso nem sempre dois sinônimos podem ser trocados em qualquer situação sem mudar um pouco o efeito da frase.",
+        "dica": "Ao procurar um sinônimo, observe se a troca mantém o sentido principal da frase."
+      },
+      {
+        "subtitulo": "O que são antônimos",
+        "texto": "Antônimos são palavras com sentidos opostos. Claro e escuro, alegre e triste, alto e baixo são exemplos bastante comuns. Os antônimos ajudam o leitor a perceber contrastes e diferenças de sentido dentro do texto.",
+        "dica": "Quando quiser encontrar um antônimo, pense em uma palavra com sentido contrário ao da palavra original."
+      },
+      {
+        "subtitulo": "Vocabulário e compreensão",
+        "texto": "Estudar sinônimos e antônimos amplia o vocabulário e ajuda na interpretação de textos. Quando o aluno conhece diferentes palavras com sentidos próximos ou opostos, ele consegue compreender melhor as informações e se expressar com mais precisão na escrita.",
+        "dica": "Sempre que aprender uma palavra nova, tente descobrir pelo menos um sinônimo e um antônimo, quando isso for possível."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise as palavras \"feliz\" e \"contente\".",
+        "passos": [
+          "As duas palavras expressam uma ideia de alegria ou satisfação.",
+          "Em muitos contextos, uma pode substituir a outra sem alterar o sentido principal da frase.",
+          "Por isso, feliz e contente são consideradas sinônimos em muitos usos."
+        ],
+        "resposta": "Feliz e contente são sinônimos em vários contextos."
+      },
+      {
+        "enunciado": "Observe as palavras \"entrar\" e \"sair\".",
+        "passos": [
+          "Entrar indica movimento para dentro de um lugar.",
+          "Sair indica movimento para fora de um lugar.",
+          "Como os sentidos são opostos, essas palavras são antônimas."
+        ],
+        "resposta": "Entrar e sair são antônimos."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-sinonimos-antonimos-ex-01",
+        "enunciado": "Qual alternativa apresenta um sinônimo de \"alegre\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triste",
+          "contente",
+          "baixo",
+          "escuro"
+        ],
+        "respostaCorreta": "contente",
+        "explicacao": "Contente é sinônimo de alegre, pois apresenta sentido semelhante.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-02",
+        "enunciado": "Qual alternativa apresenta um antônimo de \"alto\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "largo",
+          "grande",
+          "baixo",
+          "forte"
+        ],
+        "respostaCorreta": "baixo",
+        "explicacao": "Baixo apresenta sentido oposto ao de alto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-03",
+        "enunciado": "Assinale a alternativa em que as palavras são sinônimas.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "claro e escuro",
+          "bonito e belo",
+          "entrar e sair",
+          "quente e frio"
+        ],
+        "respostaCorreta": "bonito e belo",
+        "explicacao": "Bonito e belo têm sentidos semelhantes em muitos contextos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-04",
+        "enunciado": "Em qual alternativa as palavras são antônimas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "feliz e contente",
+          "rápido e veloz",
+          "começar e terminar",
+          "bonito e belo"
+        ],
+        "respostaCorreta": "começar e terminar",
+        "explicacao": "Começar e terminar apresentam sentidos opostos, por isso são antônimos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-05",
+        "enunciado": "Qual alternativa apresenta um sinônimo de \"rápido\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lento",
+          "veloz",
+          "fraco",
+          "parado"
+        ],
+        "respostaCorreta": "veloz",
+        "explicacao": "Veloz e rápido têm sentidos semelhantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-06",
+        "enunciado": "Qual alternativa apresenta um antônimo de \"claro\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escuro",
+          "limpo",
+          "vazio",
+          "bonito"
+        ],
+        "respostaCorreta": "escuro",
+        "explicacao": "Escuro é antônimo de claro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-07",
+        "enunciado": "Na frase \"O atleta era veloz\", qual palavra pode substituir \"veloz\" sem mudar o sentido principal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rápido",
+          "lento",
+          "fraco",
+          "alto"
+        ],
+        "respostaCorreta": "rápido",
+        "explicacao": "Rápido é sinônimo de veloz nesse contexto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-08",
+        "enunciado": "Na frase \"A rua estava vazia\", qual palavra tem sentido contrário a \"vazia\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "silenciosa",
+          "cheia",
+          "larga",
+          "limpa"
+        ],
+        "respostaCorreta": "cheia",
+        "explicacao": "Cheia é antônimo de vazia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-09",
+        "enunciado": "Assinale a alternativa correta sobre sinônimos e antônimos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sinônimos têm sentidos opostos.",
+          "Antônimos têm sentidos semelhantes.",
+          "Sinônimos têm sentidos semelhantes, e antônimos têm sentidos opostos.",
+          "Sinônimos e antônimos não ajudam na interpretação."
+        ],
+        "respostaCorreta": "Sinônimos têm sentidos semelhantes, e antônimos têm sentidos opostos.",
+        "explicacao": "Essa alternativa apresenta corretamente a diferença entre sinônimos e antônimos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-10",
+        "enunciado": "Qual alternativa apresenta somente sinônimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "feliz, contente e alegre",
+          "alto, baixo e grande",
+          "bonito, feio e belo",
+          "claro, escuro e limpo"
+        ],
+        "respostaCorreta": "feliz, contente e alegre",
+        "explicacao": "As três palavras da alternativa correta apresentam sentidos próximos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-11",
+        "enunciado": "Qual alternativa apresenta somente antônimos entre si?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "entrar e sair",
+          "feliz e contente",
+          "rápido e veloz",
+          "bonito e belo"
+        ],
+        "respostaCorreta": "entrar e sair",
+        "explicacao": "Entrar e sair apresentam sentidos opostos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-12",
+        "enunciado": "Na frase \"O aluno ficou calmo\", qual é um antônimo de \"calmo\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sereno",
+          "tranquilo",
+          "agitado",
+          "silencioso"
+        ],
+        "respostaCorreta": "agitado",
+        "explicacao": "Agitado apresenta sentido oposto ao de calmo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-13",
+        "enunciado": "Por que é importante conhecer sinônimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque eles substituem sinais de pontuação.",
+          "Porque ajudam a ampliar o vocabulário e a evitar repetições.",
+          "Porque eliminam a necessidade de verbos.",
+          "Porque servem apenas para decorar textos."
+        ],
+        "respostaCorreta": "Porque ajudam a ampliar o vocabulário e a evitar repetições.",
+        "explicacao": "Conhecer sinônimos enriquece a escrita e ajuda a construir textos mais variados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-14",
+        "enunciado": "Em qual alternativa o contexto foi respeitado na troca por um sinônimo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O menino estava feliz. O menino estava contente.",
+          "O menino estava feliz. O menino estava escuro.",
+          "O menino estava feliz. O menino estava baixo.",
+          "O menino estava feliz. O menino estava vazio."
+        ],
+        "respostaCorreta": "O menino estava feliz. O menino estava contente.",
+        "explicacao": "Contente mantém o sentido principal da frase, funcionando como sinônimo de feliz nesse contexto.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-ex-15",
+        "enunciado": "Qual alternativa apresenta uma dupla de palavras com sentidos opostos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triste e alegre",
+          "belo e bonito",
+          "rápido e veloz",
+          "feliz e contente"
+        ],
+        "respostaCorreta": "triste e alegre",
+        "explicacao": "Triste e alegre têm sentidos opostos, portanto formam um par de antônimos.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-sinonimos-antonimos-sim-01",
+        "enunciado": "Leia a frase: \"A sala ficou silenciosa.\" Qual palavra pode substituir \"silenciosa\" sem alterar o sentido principal da frase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "barulhenta",
+          "calada",
+          "cheia",
+          "escura"
+        ],
+        "respostaCorreta": "calada",
+        "explicacao": "Calada mantém um sentido semelhante ao de silenciosa nesse contexto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-sim-02",
+        "enunciado": "Em qual alternativa a palavra destacada foi corretamente classificada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "claro e escuro - sinônimos",
+          "rápido e veloz - antônimos",
+          "feliz e contente - sinônimos",
+          "entrar e chegar - antônimos"
+        ],
+        "respostaCorreta": "feliz e contente - sinônimos",
+        "explicacao": "Feliz e contente têm sentidos semelhantes, por isso formam um par de sinônimos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-sim-03",
+        "enunciado": "Qual alternativa mostra corretamente a importância do contexto no estudo de sinônimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Toda palavra pode ser trocada por qualquer sinônimo em qualquer situação.",
+          "O contexto ajuda a decidir se a troca por outra palavra mantém o sentido adequado.",
+          "Sinônimos nunca podem ser usados na mesma frase.",
+          "O contexto só importa para os antônimos."
+        ],
+        "respostaCorreta": "O contexto ajuda a decidir se a troca por outra palavra mantém o sentido adequado.",
+        "explicacao": "O contexto é importante porque nem toda troca preserva exatamente o mesmo sentido.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-sim-04",
+        "enunciado": "Na frase \"O corredor era veloz, mas seu irmão era lento\", quais palavras formam um par de antônimos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "corredor e irmão",
+          "era e era",
+          "veloz e lento",
+          "seu e irmão"
+        ],
+        "respostaCorreta": "veloz e lento",
+        "explicacao": "Veloz e lento apresentam sentidos opostos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-sinonimos-antonimos-sim-05",
+        "enunciado": "Assinale a alternativa correta sobre sinônimos e antônimos no estudo da língua.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles não contribuem para a interpretação textual.",
+          "Eles ajudam a ampliar o vocabulário e a compreender melhor os sentidos.",
+          "Eles servem apenas para enfeitar os textos.",
+          "Eles não podem aparecer no mesmo texto."
+        ],
+        "respostaCorreta": "Eles ajudam a ampliar o vocabulário e a compreender melhor os sentidos.",
+        "explicacao": "O estudo de sinônimos e antônimos fortalece a leitura, a interpretação e a produção de textos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

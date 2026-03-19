@@ -1,0 +1,336 @@
+[
+  {
+    "id": "mat6-perimetro-area",
+    "titulo": "Perímetro e área",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Perímetro é a medida do contorno de uma figura plana.",
+      "Área é a medida da superfície ocupada pela figura.",
+      "Para calcular o perímetro, somamos as medidas dos lados.",
+      "A área pode ser entendida como a quantidade de espaço interno da figura.",
+      "Perímetro e área são medidas diferentes, mesmo quando se referem à mesma figura."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é perímetro",
+        "texto": "Perímetro é a soma das medidas de todos os lados de uma figura. Se um retângulo tem lados de 4 cm e 6 cm, seu perímetro é 4 + 6 + 4 + 6.",
+        "dica": "Pense no perímetro como a volta completa ao redor da figura."
+      },
+      {
+        "subtitulo": "O que é área",
+        "texto": "Área é a medida da região interna de uma figura. Em figuras simples, como retângulos desenhados em malhas quadriculadas, a área pode ser entendida pela contagem dos quadradinhos que a figura ocupa.",
+        "dica": "Pense na área como o espaço coberto pela figura."
+      },
+      {
+        "subtitulo": "Não confundir perímetro com área",
+        "texto": "Embora ambos estejam ligados a figuras planas, o perímetro mede o contorno, enquanto a área mede a parte interna. Uma mesma figura pode ter grande perímetro e pequena área, ou o contrário.",
+        "dica": "Se o problema fala em cerca, moldura ou volta, provavelmente trata de perímetro."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Calcule o perímetro de um quadrado de lado 5 cm.",
+        "passos": [
+          "Um quadrado possui 4 lados iguais.",
+          "Somamos 5 + 5 + 5 + 5."
+        ],
+        "resposta": "O perímetro do quadrado é 20 cm."
+      },
+      {
+        "enunciado": "Descubra a área de um retângulo formado por 3 fileiras de 4 quadradinhos.",
+        "passos": [
+          "A figura ocupa 3 fileiras.",
+          "Cada fileira tem 4 quadradinhos.",
+          "Multiplicamos 3 por 4."
+        ],
+        "resposta": "A área é de 12 unidades de área."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-perimetro-area-ex-01",
+        "enunciado": "O perímetro de um quadrado de lado 4 cm é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "8 cm",
+          "12 cm",
+          "16 cm",
+          "20 cm"
+        ],
+        "respostaCorreta": "16 cm",
+        "explicacao": "Somamos os quatro lados: 4 + 4 + 4 + 4 = 16 cm.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-02",
+        "enunciado": "Qual alternativa descreve corretamente a área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A medida do contorno",
+          "A medida do espaço interno",
+          "A soma dos vértices",
+          "A quantidade de lados"
+        ],
+        "respostaCorreta": "A medida do espaço interno",
+        "explicacao": "Área mede a superfície ocupada pela figura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-03",
+        "enunciado": "Um retângulo tem lados de 3 cm e 7 cm. Qual é o seu perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10 cm",
+          "14 cm",
+          "20 cm",
+          "21 cm"
+        ],
+        "respostaCorreta": "20 cm",
+        "explicacao": "O perímetro é 3 + 7 + 3 + 7 = 20 cm.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-04",
+        "enunciado": "Uma figura ocupa 8 quadradinhos em uma malha. Qual é sua área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4 unidades de área",
+          "8 unidades de área",
+          "16 unidades de área",
+          "8 cm"
+        ],
+        "respostaCorreta": "8 unidades de área",
+        "explicacao": "A área corresponde à quantidade de quadradinhos ocupados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-05",
+        "enunciado": "Qual alternativa está relacionada ao perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pintar o chão de uma sala",
+          "Colocar uma cerca ao redor de um terreno",
+          "Cobrir uma parede com azulejos",
+          "Contar os quadradinhos internos"
+        ],
+        "respostaCorreta": "Colocar uma cerca ao redor de um terreno",
+        "explicacao": "A cerca acompanha o contorno do terreno, ou seja, o perímetro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-06",
+        "enunciado": "Qual alternativa está relacionada à área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Medir a borda de uma mesa",
+          "Calcular o espaço de um piso a ser revestido",
+          "Somar as medidas dos lados de um cercado",
+          "Medir o contorno de uma quadra"
+        ],
+        "respostaCorreta": "Calcular o espaço de um piso a ser revestido",
+        "explicacao": "Revestir um piso depende da medida da superfície interna, isto é, da área.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-07",
+        "enunciado": "O perímetro de um triângulo com lados 3 cm, 4 cm e 5 cm é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9 cm",
+          "10 cm",
+          "11 cm",
+          "12 cm"
+        ],
+        "respostaCorreta": "12 cm",
+        "explicacao": "Somamos as medidas dos três lados: 3 + 4 + 5 = 12 cm.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-08",
+        "enunciado": "Uma figura retangular ocupa 2 fileiras de 6 quadradinhos. Qual é sua área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "8 unidades de área",
+          "10 unidades de área",
+          "12 unidades de área",
+          "14 unidades de área"
+        ],
+        "respostaCorreta": "12 unidades de área",
+        "explicacao": "Multiplicamos 2 por 6 e obtemos 12 unidades de área.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-09",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perímetro e área significam a mesma coisa.",
+          "Perímetro mede o contorno da figura.",
+          "Área mede apenas os lados da figura.",
+          "Área é a soma dos vértices."
+        ],
+        "respostaCorreta": "Perímetro mede o contorno da figura.",
+        "explicacao": "Perímetro corresponde à volta completa ao redor da figura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-10",
+        "enunciado": "Um quadrado tem lado 6 cm. Qual é o seu perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12 cm",
+          "18 cm",
+          "24 cm",
+          "36 cm"
+        ],
+        "respostaCorreta": "24 cm",
+        "explicacao": "Somamos os quatro lados do quadrado: 6 + 6 + 6 + 6 = 24 cm.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-11",
+        "enunciado": "Uma sala tem formato retangular e ocupa 20 quadradinhos em uma malha. O que esse valor representa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o perímetro",
+          "a área",
+          "o número de lados",
+          "a quantidade de vértices"
+        ],
+        "respostaCorreta": "a área",
+        "explicacao": "A quantidade de quadradinhos ocupados corresponde à área.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-12",
+        "enunciado": "Um aluno disse que o perímetro de um retângulo de lados 5 cm e 3 cm é 8 cm. O erro foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "somar apenas dois lados",
+          "contar os vértices em vez dos lados",
+          "calcular a área",
+          "dividir os lados por 2"
+        ],
+        "respostaCorreta": "somar apenas dois lados",
+        "explicacao": "Para calcular o perímetro, é preciso somar todos os lados: 5 + 3 + 5 + 3 = 16 cm.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-13",
+        "enunciado": "Qual alternativa representa uma medida de área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "15 cm",
+          "20 m",
+          "12 unidades de área",
+          "8 lados"
+        ],
+        "respostaCorreta": "12 unidades de área",
+        "explicacao": "A área é expressa em unidades de superfície, como unidades de área.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-14",
+        "enunciado": "Qual é o perímetro de um retângulo com lados 8 cm e 2 cm?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10 cm",
+          "16 cm",
+          "20 cm",
+          "24 cm"
+        ],
+        "respostaCorreta": "20 cm",
+        "explicacao": "O perímetro é 8 + 2 + 8 + 2 = 20 cm.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-perimetro-area-ex-15",
+        "enunciado": "Qual alternativa diferencia corretamente área e perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área mede o contorno, e perímetro mede o interior.",
+          "Área mede o espaço interno, e perímetro mede o contorno.",
+          "Área e perímetro sempre têm o mesmo valor.",
+          "Área serve apenas para triângulos."
+        ],
+        "respostaCorreta": "Área mede o espaço interno, e perímetro mede o contorno.",
+        "explicacao": "Essa é a distinção correta entre os dois conceitos.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-perimetro-area-sim-01",
+        "enunciado": "Uma horta retangular mede 9 m de comprimento e 4 m de largura. Qual é seu perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "13 m",
+          "18 m",
+          "26 m",
+          "36 m"
+        ],
+        "respostaCorreta": "26 m",
+        "explicacao": "Somamos 9 + 4 + 9 + 4 e obtemos 26 m.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-sim-02",
+        "enunciado": "Uma figura ocupa 18 quadradinhos em uma malha. Qual informação esse número fornece?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o perímetro",
+          "a área",
+          "o número de lados",
+          "a quantidade de ângulos"
+        ],
+        "respostaCorreta": "a área",
+        "explicacao": "A contagem de quadradinhos indica a superfície ocupada, ou seja, a área.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Para cercar um terreno, precisamos conhecer a área'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque para cercar um terreno precisamos do perímetro.",
+          "A frase é verdadeira apenas em terrenos quadrados.",
+          "A frase é falsa, porque precisamos do número de vértices."
+        ],
+        "respostaCorreta": "A frase é falsa, porque para cercar um terreno precisamos do perímetro.",
+        "explicacao": "Cercar um terreno depende da medida do contorno, isto é, do perímetro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-sim-04",
+        "enunciado": "Um quadrado tem lado 7 cm. Qual é seu perímetro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "14 cm",
+          "21 cm",
+          "28 cm",
+          "49 cm"
+        ],
+        "respostaCorreta": "28 cm",
+        "explicacao": "O quadrado tem quatro lados iguais, então 7 + 7 + 7 + 7 = 28 cm.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-perimetro-area-sim-05",
+        "enunciado": "Qual alternativa apresenta uma situação ligada à área?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Medir o comprimento da cerca de um quintal",
+          "Calcular quantos azulejos cobrem um piso",
+          "Somar as medidas dos lados de um triângulo",
+          "Medir a borda de uma mesa"
+        ],
+        "respostaCorreta": "Calcular quantos azulejos cobrem um piso",
+        "explicacao": "Cobrir um piso envolve a medida da superfície interna, isto é, da área.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

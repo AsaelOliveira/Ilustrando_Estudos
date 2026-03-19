@@ -1,0 +1,379 @@
+[
+  {
+    "id": "port6-artigos",
+    "titulo": "Artigos",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Artigo é a palavra que acompanha o substantivo para determiná-lo ou indeterminá-lo.",
+      "Os artigos podem ser definidos, como o, a, os e as, ou indefinidos, como um, uma, uns e umas.",
+      "O artigo concorda com o substantivo em gênero e número.",
+      "O uso do artigo ajuda a construir sentido, pois pode indicar algo conhecido ou algo apresentado de maneira geral.",
+      "Reconhecer os artigos em frases facilita a leitura, a escrita e a análise das palavras."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são artigos",
+        "texto": "Artigos são palavras que aparecem antes dos substantivos para indicar se eles estão sendo apresentados de forma definida ou indefinida. Quando dizemos o livro, a palavra livro aparece como algo já conhecido ou específico. Quando dizemos um livro, a ideia é mais geral, sem indicar exatamente qual livro é.",
+        "dica": "Observe a palavra que vem antes do substantivo. Se ela indicar definição ou indefinição, provavelmente é um artigo."
+      },
+      {
+        "subtitulo": "Artigos definidos e indefinidos",
+        "texto": "Os artigos definidos são o, a, os e as. Eles apontam para seres ou objetos já conhecidos ou identificados no contexto. Os artigos indefinidos são um, uma, uns e umas. Eles introduzem algo de maneira mais geral, sem indicar exatamente qual elemento está sendo mencionado.",
+        "dica": "Compare: o caderno indica um caderno específico; um caderno pode ser qualquer caderno."
+      },
+      {
+        "subtitulo": "Concordância com o substantivo",
+        "texto": "O artigo precisa concordar com o substantivo em gênero e número. Por isso dizemos a menina, o menino, as casas e os alunos. Essa concordância é importante para a organização correta da frase e para a clareza do texto.",
+        "dica": "Verifique sempre se o artigo combina com o substantivo que ele acompanha."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a expressão \"a escola\".",
+        "passos": [
+          "A palavra escola é um substantivo.",
+          "A palavra a aparece antes de escola e a determina.",
+          "Como a indica algo definido, ela é um artigo definido."
+        ],
+        "resposta": "Na expressão \"a escola\", a palavra \"a\" é um artigo definido."
+      },
+      {
+        "enunciado": "Compare as expressões \"o aluno\" e \"um aluno\".",
+        "passos": [
+          "Em o aluno, o artigo o indica um aluno específico.",
+          "Em um aluno, o artigo um apresenta o substantivo de forma geral.",
+          "A mudança do artigo altera o sentido da expressão."
+        ],
+        "resposta": "O artigo definido indica algo específico, enquanto o indefinido apresenta algo de modo geral."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-artigos-ex-01",
+        "enunciado": "Qual palavra é um artigo na expressão \"o caderno\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o",
+          "caderno",
+          "expressão",
+          "qual"
+        ],
+        "respostaCorreta": "o",
+        "explicacao": "A palavra o acompanha o substantivo caderno e funciona como artigo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-02",
+        "enunciado": "Assinale a alternativa que apresenta um artigo definido.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma",
+          "uns",
+          "a",
+          "umas"
+        ],
+        "respostaCorreta": "a",
+        "explicacao": "A é um artigo definido. Os demais são artigos indefinidos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-03",
+        "enunciado": "Qual alternativa apresenta um artigo indefinido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os",
+          "as",
+          "um",
+          "o"
+        ],
+        "respostaCorreta": "um",
+        "explicacao": "Um é artigo indefinido, usado para apresentar o substantivo de maneira geral.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-04",
+        "enunciado": "Na expressão \"as flores\", o artigo é classificado como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indefinido singular",
+          "definido plural",
+          "indefinido plural",
+          "definido masculino"
+        ],
+        "respostaCorreta": "definido plural",
+        "explicacao": "As é artigo definido e está no plural, concordando com flores.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-05",
+        "enunciado": "Qual alternativa mostra um artigo concordando corretamente com o substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o menina",
+          "a menino",
+          "as casas",
+          "os escola"
+        ],
+        "respostaCorreta": "as casas",
+        "explicacao": "As casas apresenta concordância correta de gênero e número entre artigo e substantivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-06",
+        "enunciado": "Na frase \"Uma aluna chegou cedo\", qual é o artigo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aluna",
+          "chegou",
+          "uma",
+          "cedo"
+        ],
+        "respostaCorreta": "uma",
+        "explicacao": "Uma acompanha o substantivo aluna e funciona como artigo indefinido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-07",
+        "enunciado": "Assinale a alternativa em que o artigo indica algo já conhecido ou específico.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um cachorro",
+          "uma caneta",
+          "o professor",
+          "umas revistas"
+        ],
+        "respostaCorreta": "o professor",
+        "explicacao": "O artigo o é definido e indica um ser específico no contexto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-08",
+        "enunciado": "Qual alternativa apresenta apenas artigos definidos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o, a, os, as",
+          "um, uma, uns, umas",
+          "o, um, as, umas",
+          "a, uma, os, uns"
+        ],
+        "respostaCorreta": "o, a, os, as",
+        "explicacao": "Os artigos definidos da língua portuguesa são o, a, os e as.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas artigos indefinidos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o, a, os, as",
+          "um, uma, uns, umas",
+          "o, um, os, uns",
+          "a, uma, as, umas"
+        ],
+        "respostaCorreta": "um, uma, uns, umas",
+        "explicacao": "Um, uma, uns e umas formam o grupo dos artigos indefinidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-10",
+        "enunciado": "Na frase \"Os alunos organizaram a sala\", quantos artigos aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um",
+          "dois",
+          "três",
+          "quatro"
+        ],
+        "respostaCorreta": "dois",
+        "explicacao": "Os e a são artigos que acompanham os substantivos alunos e sala.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-11",
+        "enunciado": "Qual alternativa completa corretamente a expressão: \"___ menina\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o",
+          "os",
+          "a",
+          "um"
+        ],
+        "respostaCorreta": "a",
+        "explicacao": "A menina apresenta concordância correta entre o artigo feminino singular e o substantivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-12",
+        "enunciado": "Em qual alternativa o artigo está no masculino plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a",
+          "as",
+          "o",
+          "os"
+        ],
+        "respostaCorreta": "os",
+        "explicacao": "Os é artigo masculino plural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-artigos-ex-13",
+        "enunciado": "Leia a frase: \"Um livro foi encontrado na biblioteca.\" O artigo presente nela é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "definido masculino singular",
+          "indefinido masculino singular",
+          "definido feminino singular",
+          "indefinido feminino singular"
+        ],
+        "respostaCorreta": "indefinido masculino singular",
+        "explicacao": "Um é artigo indefinido, masculino e singular, concordando com livro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-14",
+        "enunciado": "Assinale a frase em que o artigo foi usado de forma adequada.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O menina brincava no pátio.",
+          "As aluno estudou bastante.",
+          "Uma professora explicou o conteúdo.",
+          "Uns escola abriu cedo."
+        ],
+        "respostaCorreta": "Uma professora explicou o conteúdo.",
+        "explicacao": "Na frase correta, os artigos concordam com os substantivos professora e conteúdo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-15",
+        "enunciado": "Qual alternativa mostra a diferença correta entre artigo definido e artigo indefinido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O definido indica algo específico; o indefinido apresenta algo de modo geral.",
+          "O definido aparece apenas no plural; o indefinido aparece apenas no singular.",
+          "O definido nunca acompanha substantivos; o indefinido acompanha sempre.",
+          "O definido é usado apenas com nomes próprios; o indefinido, com verbos."
+        ],
+        "respostaCorreta": "O definido indica algo específico; o indefinido apresenta algo de modo geral.",
+        "explicacao": "Essa é a diferença principal entre os dois tipos de artigo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-artigos-ex-16",
+        "enunciado": "Na expressão \"umas revistas\", o artigo indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um elemento específico no singular",
+          "um elemento geral no plural",
+          "um nome próprio feminino",
+          "um substantivo masculino"
+        ],
+        "respostaCorreta": "um elemento geral no plural",
+        "explicacao": "Umas é artigo indefinido plural e apresenta o substantivo de forma geral.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-17",
+        "enunciado": "Qual alternativa apresenta dois artigos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menina alegre",
+          "o menino e a menina",
+          "estudar bastante",
+          "livros novos"
+        ],
+        "respostaCorreta": "o menino e a menina",
+        "explicacao": "Nessa alternativa aparecem os artigos o e a.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-ex-18",
+        "enunciado": "Em qual alternativa o artigo acompanha corretamente um substantivo feminino plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os mesas",
+          "as cadeiras",
+          "o casas",
+          "um meninas"
+        ],
+        "respostaCorreta": "as cadeiras",
+        "explicacao": "As cadeiras apresenta concordância correta com substantivo feminino plural.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-artigos-sim-01",
+        "enunciado": "Qual alternativa apresenta uma frase com artigo definido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um aluno fez a atividade.",
+          "A diretora recebeu os responsáveis.",
+          "Uma turma chegou cedo.",
+          "Umas crianças brincavam no pátio."
+        ],
+        "respostaCorreta": "A diretora recebeu os responsáveis.",
+        "explicacao": "Na frase correta aparecem os artigos definidos a e os.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-sim-02",
+        "enunciado": "Leia a frase: \"Os livros novos chegaram hoje.\" Qual alternativa classifica corretamente o artigo presente no início da frase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "artigo indefinido masculino plural",
+          "artigo definido masculino plural",
+          "artigo definido feminino plural",
+          "artigo indefinido feminino plural"
+        ],
+        "respostaCorreta": "artigo definido masculino plural",
+        "explicacao": "Os é artigo definido, masculino e plural, concordando com livros.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-artigos-sim-03",
+        "enunciado": "Em qual alternativa o artigo contribui para indicar um substantivo ainda não identificado de forma específica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o caderno",
+          "as crianças",
+          "um visitante",
+          "os alunos"
+        ],
+        "respostaCorreta": "um visitante",
+        "explicacao": "Um visitante apresenta o substantivo de forma indefinida, sem indicar exatamente qual visitante é.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-artigos-sim-04",
+        "enunciado": "Qual alternativa traz apenas expressões com concordância correta entre artigo e substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o menina e as caderno",
+          "a escola e os alunos",
+          "um casa e uma livro",
+          "as professor e o turmas"
+        ],
+        "respostaCorreta": "a escola e os alunos",
+        "explicacao": "Nas duas expressões, o artigo concorda corretamente com o substantivo em gênero e número.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-artigos-sim-05",
+        "enunciado": "Assinale a alternativa correta sobre os artigos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Artigos são palavras que substituem verbos.",
+          "Artigos acompanham substantivos e ajudam a determiná-los.",
+          "Artigos aparecem apenas em frases no plural.",
+          "Artigos indefinidos indicam sempre algo específico."
+        ],
+        "respostaCorreta": "Artigos acompanham substantivos e ajudam a determiná-los.",
+        "explicacao": "Os artigos acompanham os substantivos e contribuem para a construção do sentido na frase.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

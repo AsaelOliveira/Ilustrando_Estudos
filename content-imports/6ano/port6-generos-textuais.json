@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-generos-textuais",
+    "titulo": "Gêneros textuais",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "Os gêneros textuais são formas de texto usadas em diferentes situações do dia a dia.",
+      "Bilhete, notícia, conto, convite, receita e anúncio são exemplos de gêneros textuais.",
+      "Cada gênero tem finalidade, linguagem e organização próprias.",
+      "Reconhecer o gênero ajuda o leitor a compreender melhor o texto.",
+      "Conhecer diferentes gêneros também ajuda na produção escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são gêneros textuais",
+        "texto": "Gêneros textuais são formas de texto criadas para atender a diferentes necessidades de comunicação. Um bilhete serve para transmitir um recado breve. Uma notícia informa fatos. Uma receita ensina o preparo de um alimento. Cada gênero tem características próprias de linguagem, estrutura e finalidade.",
+        "dica": "Antes de ler um texto, observe para que ele parece ter sido escrito."
+      },
+      {
+        "subtitulo": "Finalidade e organização",
+        "texto": "Cada gênero textual apresenta um objetivo específico. Um convite chama alguém para um evento. Um anúncio divulga um produto ou uma ideia. Um conto narra uma história. Além da finalidade, cada gênero costuma seguir uma organização própria, o que ajuda o leitor a reconhecê-lo.",
+        "dica": "Pergunte qual é a intenção do texto: informar, contar, convidar, ensinar, anunciar ou registrar um recado."
+      },
+      {
+        "subtitulo": "Leitura e produção de gêneros",
+        "texto": "Quando o aluno reconhece o gênero textual, compreende melhor o tom, a linguagem e a organização do texto. Isso também contribui para a escrita, pois cada situação de comunicação pede um tipo de texto mais adequado.",
+        "dica": "Ao produzir um texto, pense em quem vai ler e qual é o objetivo da mensagem."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um texto curto com data, saudação e despedida, escrito para avisar um colega sobre uma tarefa.",
+        "passos": [
+          "O texto transmite um recado breve.",
+          "Ele foi escrito para uma pessoa específica.",
+          "Essas características são próprias de um bilhete."
+        ],
+        "resposta": "Esse texto pertence ao gênero bilhete."
+      },
+      {
+        "enunciado": "Analise um texto que apresenta ingredientes e modo de preparo.",
+        "passos": [
+          "O texto ensina como preparar algo.",
+          "Ele organiza as informações em partes claras, como ingredientes e etapas.",
+          "Essas características são próprias de uma receita."
+        ],
+        "resposta": "Esse texto pertence ao gênero receita."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-generos-textuais-ex-01",
+        "enunciado": "Qual alternativa apresenta um gênero textual usado para transmitir um recado breve?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bilhete",
+          "conto",
+          "poema épico",
+          "relatório científico"
+        ],
+        "respostaCorreta": "bilhete",
+        "explicacao": "O bilhete é um gênero usado para recados curtos e objetivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-generos-textuais-ex-02",
+        "enunciado": "Qual gênero textual tem como finalidade informar fatos ao leitor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "notícia",
+          "convite",
+          "receita",
+          "bilhete"
+        ],
+        "respostaCorreta": "notícia",
+        "explicacao": "A notícia tem a função principal de informar fatos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-generos-textuais-ex-03",
+        "enunciado": "Qual alternativa apresenta um gênero textual voltado para convidar alguém para um evento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "convite",
+          "conto",
+          "anúncio de venda",
+          "resumo"
+        ],
+        "respostaCorreta": "convite",
+        "explicacao": "O convite é usado para chamar alguém para participar de um evento ou atividade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-generos-textuais-ex-04",
+        "enunciado": "Em qual gênero textual costumam aparecer ingredientes e modo de preparo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "notícia",
+          "receita",
+          "bilhete",
+          "convite"
+        ],
+        "respostaCorreta": "receita",
+        "explicacao": "Esses elementos são característicos do gênero receita.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-generos-textuais-ex-05",
+        "enunciado": "Qual alternativa apresenta um gênero textual voltado para contar uma história?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conto",
+          "receita",
+          "anúncio",
+          "aviso"
+        ],
+        "respostaCorreta": "conto",
+        "explicacao": "O conto é um gênero narrativo, usado para contar histórias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-generos-textuais-ex-06",
+        "enunciado": "Assinale a alternativa correta sobre os gêneros textuais.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todos os gêneros têm a mesma finalidade.",
+          "Os gêneros variam de acordo com a situação de comunicação.",
+          "Os gêneros servem apenas para provas escolares.",
+          "Os gêneros não têm relação com o cotidiano."
+        ],
+        "respostaCorreta": "Os gêneros variam de acordo com a situação de comunicação.",
+        "explicacao": "Cada gênero textual atende a uma necessidade comunicativa diferente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-07",
+        "enunciado": "Qual alternativa apresenta um gênero textual usado para divulgar um produto, um serviço ou uma ideia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "anúncio",
+          "receita",
+          "conto",
+          "resenha"
+        ],
+        "respostaCorreta": "anúncio",
+        "explicacao": "O anúncio é usado para divulgar produtos, serviços ou campanhas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-08",
+        "enunciado": "Na leitura de um texto, reconhecer o gênero ajuda o leitor a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adivinhar o final sem ler",
+          "entender melhor a finalidade e a organização do texto",
+          "ignorar o conteúdo",
+          "decorar todas as palavras"
+        ],
+        "respostaCorreta": "entender melhor a finalidade e a organização do texto",
+        "explicacao": "O reconhecimento do gênero ajuda a compreender como o texto foi construído e para que serve.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-09",
+        "enunciado": "Qual alternativa combina corretamente o gênero textual e sua finalidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "receita - narrar aventuras",
+          "convite - chamar para um evento",
+          "notícia - ensinar uma brincadeira",
+          "bilhete - divulgar um produto"
+        ],
+        "respostaCorreta": "convite - chamar para um evento",
+        "explicacao": "Essa relação está correta: o convite serve para chamar alguém para um evento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-10",
+        "enunciado": "Qual alternativa apresenta um texto que provavelmente pertence ao gênero bilhete?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Venha para a festa no sábado, às 18h. Esperamos você!",
+          "Mãe, fui para a escola e volto às 12h. O almoço está na geladeira.",
+          "Ingredientes: farinha, ovos e leite.",
+          "Ontem ocorreu uma feira cultural na escola."
+        ],
+        "respostaCorreta": "Mãe, fui para a escola e volto às 12h. O almoço está na geladeira.",
+        "explicacao": "Esse texto apresenta um recado breve e direto, típico de um bilhete.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-11",
+        "enunciado": "Qual alternativa apresenta uma característica do gênero notícia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta fatos para informar o leitor",
+          "sempre ensina uma receita",
+          "é usado apenas para bilhetes pessoais",
+          "serve para convidar convidados"
+        ],
+        "respostaCorreta": "apresenta fatos para informar o leitor",
+        "explicacao": "A notícia tem como objetivo principal informar fatos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-12",
+        "enunciado": "Em qual alternativa o gênero textual foi identificado corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "texto com ingredientes e preparo - receita",
+          "texto com manchete e informação factual - convite",
+          "texto curto com recado pessoal - notícia",
+          "texto que narra personagens e conflitos - anúncio"
+        ],
+        "respostaCorreta": "texto com ingredientes e preparo - receita",
+        "explicacao": "Ingredientes e modo de preparo são características da receita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-13",
+        "enunciado": "Por que é importante conhecer os gêneros textuais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque isso ajuda na leitura e na produção de textos adequados a cada situação.",
+          "Porque isso elimina a necessidade de interpretação.",
+          "Porque todos os textos são iguais.",
+          "Porque os gêneros servem apenas para decorar nomes."
+        ],
+        "respostaCorreta": "Porque isso ajuda na leitura e na produção de textos adequados a cada situação.",
+        "explicacao": "Conhecer os gêneros textuais ajuda a compreender melhor o texto e a escrever de forma apropriada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-14",
+        "enunciado": "Qual alternativa apresenta uma finalidade compatível com o gênero anúncio?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "divulgar algo para o público",
+          "contar uma história ficcional curta",
+          "registrar um recado pessoal íntimo",
+          "ensinar o preparo de um prato"
+        ],
+        "respostaCorreta": "divulgar algo para o público",
+        "explicacao": "O anúncio é produzido para divulgar um produto, serviço ou ideia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre os gêneros textuais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles mostram que cada situação de comunicação pode exigir um tipo de texto diferente.",
+          "Eles servem apenas para provas de Português.",
+          "Eles não têm função prática no cotidiano.",
+          "Eles substituem o estudo da leitura."
+        ],
+        "respostaCorreta": "Eles mostram que cada situação de comunicação pode exigir um tipo de texto diferente.",
+        "explicacao": "Os gêneros textuais se relacionam com objetivos e contextos diversos de comunicação.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-generos-textuais-sim-01",
+        "enunciado": "Um texto com manchete, subtítulo e informações sobre um acontecimento recente pertence, em geral, a qual gênero?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "notícia",
+          "receita",
+          "convite",
+          "bilhete"
+        ],
+        "respostaCorreta": "notícia",
+        "explicacao": "Essas são características típicas do gênero notícia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-sim-02",
+        "enunciado": "Em qual alternativa o gênero textual e sua finalidade estão corretamente associados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conto - informar um fato jornalístico",
+          "receita - ensinar o preparo de algo",
+          "bilhete - divulgar uma promoção",
+          "anúncio - contar uma narrativa longa"
+        ],
+        "respostaCorreta": "receita - ensinar o preparo de algo",
+        "explicacao": "A receita tem a finalidade de orientar o preparo de alimentos ou outras produções.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre a importância de reconhecer o gênero textual.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Isso ajuda a compreender a finalidade e a organização do texto.",
+          "Isso elimina a necessidade de ler o texto inteiro.",
+          "Isso serve apenas para enfeitar a leitura.",
+          "Isso não interfere na compreensão."
+        ],
+        "respostaCorreta": "Isso ajuda a compreender a finalidade e a organização do texto.",
+        "explicacao": "O reconhecimento do gênero orienta a leitura e ajuda a interpretar melhor o texto.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-generos-textuais-sim-04",
+        "enunciado": "Qual alternativa apresenta um exemplo mais provável de convite?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Participe da nossa festa junina no sábado, às 18h.",
+          "Misture a farinha com os ovos e o leite.",
+          "A escola realizou ontem uma feira de ciências.",
+          "Mãe, estou na casa da Ana e volto mais tarde."
+        ],
+        "respostaCorreta": "Participe da nossa festa junina no sábado, às 18h.",
+        "explicacao": "O texto chama o leitor para um evento, característica do convite.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-generos-textuais-sim-05",
+        "enunciado": "Qual alternativa apresenta um texto mais compatível com o gênero conto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Era uma vez um menino que encontrou um mapa misterioso.",
+          "Ingredientes: açúcar, leite e chocolate.",
+          "Promoção válida até domingo.",
+          "Compareça à reunião de pais."
+        ],
+        "respostaCorreta": "Era uma vez um menino que encontrou um mapa misterioso.",
+        "explicacao": "Esse início apresenta características de um texto narrativo, compatível com o gênero conto.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "id": "mat6-adicao-subtracao",
+    "titulo": "Adição e subtração com números naturais",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Operações fundamentais",
+    "resumo": [
+      "A adição é usada para juntar, acrescentar ou reunir quantidades.",
+      "A subtração é usada para retirar, comparar ou descobrir a diferença entre quantidades.",
+      "O alinhamento correto dos algarismos ajuda a evitar erros de cálculo.",
+      "A estimativa permite verificar se o resultado encontrado faz sentido.",
+      "Problemas do cotidiano podem ser resolvidos por meio de adição e subtração."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Quando usar a adição",
+        "texto": "Usamos a adição quando queremos juntar quantidades ou descobrir um total. Em 235 + 124, somamos unidades com unidades, dezenas com dezenas e centenas com centenas. Quando a soma em uma ordem chega a dez ou mais, ocorre o reagrupamento.",
+        "dica": "Organize os números em coluna para visualizar melhor cada ordem."
+      },
+      {
+        "subtitulo": "Quando usar a subtração",
+        "texto": "Usamos a subtração quando queremos tirar uma quantidade, comparar duas quantidades ou descobrir o que falta. Em 642 - 278, subtraímos unidade por unidade, dezena por dezena e centena por centena. Quando uma ordem não tem valor suficiente, fazemos o reagrupamento.",
+        "dica": "Antes de começar, identifique se o problema pede total, diferença ou quantidade que falta."
+      },
+      {
+        "subtitulo": "Conferência do resultado",
+        "texto": "Depois de calcular, é importante verificar se o resultado é coerente. Uma estimativa aproximada ajuda nessa conferência. Se 398 + 205 é próximo de 400 + 200, o resultado deve ficar perto de 600.",
+        "dica": "Arredonde os números mentalmente para fazer uma verificação rápida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva a adição 368 + 257.",
+        "passos": [
+          "Some as unidades: 8 + 7 = 15. Escreva 5 e reagruppe 1 dezena.",
+          "Some as dezenas: 6 + 5 + 1 = 12. Escreva 2 e reagruppe 1 centena.",
+          "Some as centenas: 3 + 2 + 1 = 6."
+        ],
+        "resposta": "368 + 257 = 625."
+      },
+      {
+        "enunciado": "Resolva a subtração 703 - 286.",
+        "passos": [
+          "Nas unidades, 3 não pode tirar 6. É preciso reagrupamento.",
+          "Como há 0 dezenas, transformamos 7 centenas em 6 centenas e 10 dezenas.",
+          "Depois do reagrupamento, concluímos a subtração normalmente."
+        ],
+        "resposta": "703 - 286 = 417."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-adicao-subtracao-ex-01",
+        "enunciado": "Qual é o resultado de 245 + 132?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "367",
+          "377",
+          "387",
+          "357"
+        ],
+        "respostaCorreta": "377",
+        "explicacao": "Somando 245 e 132, obtemos 377.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-02",
+        "enunciado": "Qual é o resultado de 906 - 284?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "612",
+          "622",
+          "632",
+          "642"
+        ],
+        "respostaCorreta": "622",
+        "explicacao": "Ao efetuar a subtração corretamente, o resultado é 622.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-03",
+        "enunciado": "Uma biblioteca tinha 438 livros e recebeu mais 127. Quantos livros ela passou a ter?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "545",
+          "555",
+          "565",
+          "575"
+        ],
+        "respostaCorreta": "565",
+        "explicacao": "Para descobrir o novo total, somamos 438 + 127 = 565.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-04",
+        "enunciado": "Em uma escola, 720 alunos estavam matriculados. Se 58 foram transferidos, quantos alunos permaneceram?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "652",
+          "662",
+          "672",
+          "678"
+        ],
+        "respostaCorreta": "662",
+        "explicacao": "Como houve saída de alunos, usamos a subtração: 720 - 58 = 662.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-05",
+        "enunciado": "Qual conta apresenta corretamente uma situação de comparação entre 950 e 615?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "950 + 615",
+          "950 - 615",
+          "615 - 950",
+          "950 x 615"
+        ],
+        "respostaCorreta": "950 - 615",
+        "explicacao": "Para comparar quantidades e descobrir a diferença, usamos a subtração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-06",
+        "enunciado": "Qual é o resultado de 389 + 246?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "625",
+          "635",
+          "645",
+          "655"
+        ],
+        "respostaCorreta": "635",
+        "explicacao": "Somando corretamente 389 e 246, obtemos 635.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-07",
+        "enunciado": "Qual é o resultado de 1.000 - 458?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "532",
+          "542",
+          "552",
+          "562"
+        ],
+        "respostaCorreta": "542",
+        "explicacao": "Ao subtrair 458 de 1.000, o resultado é 542.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-08",
+        "enunciado": "Uma papelaria vendeu 186 cadernos em um dia e 214 no dia seguinte. Quantos cadernos vendeu nos dois dias?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "390",
+          "400",
+          "410",
+          "420"
+        ],
+        "respostaCorreta": "400",
+        "explicacao": "Somando as vendas dos dois dias, temos 186 + 214 = 400.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-09",
+        "enunciado": "Qual alternativa mostra uma estimativa razoável para 398 + 205?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cerca de 200",
+          "cerca de 400",
+          "cerca de 600",
+          "cerca de 900"
+        ],
+        "respostaCorreta": "cerca de 600",
+        "explicacao": "Arredondando 398 para 400 e 205 para 200, a soma estimada é cerca de 600.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-10",
+        "enunciado": "Qual é o resultado de 674 - 329?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "335",
+          "345",
+          "355",
+          "365"
+        ],
+        "respostaCorreta": "345",
+        "explicacao": "Subtraindo corretamente 329 de 674, obtemos 345.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-11",
+        "enunciado": "Se Ana tinha 540 figurinhas e ganhou mais 89, com quantas figurinhas ficou?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "619",
+          "629",
+          "639",
+          "649"
+        ],
+        "respostaCorreta": "629",
+        "explicacao": "Como Ana ganhou figurinhas, somamos 540 + 89 = 629.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-12",
+        "enunciado": "Uma sala tinha 36 cadeiras. Depois de uma reforma, passou a ter 52. Quantas cadeiras foram acrescentadas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "respostaCorreta": "16",
+        "explicacao": "Para descobrir o acréscimo, calculamos a diferença: 52 - 36 = 16.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-13",
+        "enunciado": "Qual alternativa apresenta corretamente o resultado de 487 + 395?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "872",
+          "882",
+          "892",
+          "902"
+        ],
+        "respostaCorreta": "882",
+        "explicacao": "A soma correta de 487 e 395 é 882.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-14",
+        "enunciado": "Qual é a diferença entre 903 e 478?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "415",
+          "425",
+          "435",
+          "445"
+        ],
+        "respostaCorreta": "425",
+        "explicacao": "A diferença é encontrada por 903 - 478 = 425.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-15",
+        "enunciado": "Em uma competição, uma equipe fez 245 pontos na primeira fase e 318 na segunda. Quantos pontos fez ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "553",
+          "563",
+          "573",
+          "583"
+        ],
+        "respostaCorreta": "563",
+        "explicacao": "A pontuação total é a soma das duas fases: 245 + 318 = 563.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-16",
+        "enunciado": "Qual alternativa apresenta o resultado correto de 800 - 367?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "423",
+          "433",
+          "443",
+          "453"
+        ],
+        "respostaCorreta": "433",
+        "explicacao": "Subtraindo corretamente 367 de 800, obtemos 433.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-17",
+        "enunciado": "Qual operação resolve melhor a situação: 'Pedro tinha 275 reais e gastou 89 reais'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adição",
+          "subtração",
+          "multiplicação",
+          "divisão"
+        ],
+        "respostaCorreta": "subtração",
+        "explicacao": "Quando há gasto ou retirada, usamos a subtração para descobrir quanto restou.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-18",
+        "enunciado": "Qual alternativa apresenta um resultado maior que 700?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "328 + 241",
+          "412 + 205",
+          "389 + 327",
+          "154 + 402"
+        ],
+        "respostaCorreta": "389 + 327",
+        "explicacao": "Somando 389 e 327, obtemos 716, que é maior que 700.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-19",
+        "enunciado": "Ao resolver 645 - 278, um aluno encontrou 477. Qual alternativa explica o erro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele deveria ter usado multiplicação.",
+          "Ele somou os números em vez de subtrair.",
+          "Ele provavelmente não fez o reagrupamento corretamente.",
+          "O resultado 477 está correto."
+        ],
+        "respostaCorreta": "Ele provavelmente não fez o reagrupamento corretamente.",
+        "explicacao": "Em subtrações como essa, o reagrupamento é necessário. O resultado correto é 367.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-ex-20",
+        "enunciado": "Qual alternativa completa corretamente a igualdade 428 + ___ = 700?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "262",
+          "272",
+          "282",
+          "292"
+        ],
+        "respostaCorreta": "272",
+        "explicacao": "Para descobrir a parcela que falta, calculamos 700 - 428 = 272.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-adicao-subtracao-sim-01",
+        "enunciado": "Uma escola arrecadou 375 livros em uma campanha e depois recebeu mais 248. Quantos livros foram arrecadados ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "613",
+          "623",
+          "633",
+          "643"
+        ],
+        "respostaCorreta": "623",
+        "explicacao": "Somando 375 e 248, obtemos 623 livros.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-sim-02",
+        "enunciado": "Uma caixa continha 950 lápis. Se 386 foram distribuídos, quantos lápis restaram?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "554",
+          "564",
+          "574",
+          "584"
+        ],
+        "respostaCorreta": "564",
+        "explicacao": "Para saber o restante, fazemos 950 - 386 = 564.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-sim-03",
+        "enunciado": "Qual alternativa apresenta o resultado correto de 497 + 286?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "773",
+          "783",
+          "793",
+          "803"
+        ],
+        "respostaCorreta": "783",
+        "explicacao": "Somando corretamente, encontramos 783.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-sim-04",
+        "enunciado": "Qual alternativa representa a diferença entre 1.000 e 475?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "505",
+          "515",
+          "525",
+          "535"
+        ],
+        "respostaCorreta": "525",
+        "explicacao": "A diferença entre 1.000 e 475 é 525.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-adicao-subtracao-sim-05",
+        "enunciado": "Uma equipe marcou 185 pontos no primeiro jogo, 209 no segundo e 198 no terceiro. Quantos pontos marcou ao todo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "582",
+          "592",
+          "602",
+          "612"
+        ],
+        "respostaCorreta": "592",
+        "explicacao": "Somando 185 + 209 + 198, obtemos 592 pontos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-adicao-subtracao-sim-06",
+        "enunciado": "Para completar 850 reais e comprar uma bicicleta, Júlia já juntou 486 reais. Quanto ainda falta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "354",
+          "364",
+          "374",
+          "384"
+        ],
+        "respostaCorreta": "364",
+        "explicacao": "Para descobrir o valor que falta, fazemos 850 - 486 = 364.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

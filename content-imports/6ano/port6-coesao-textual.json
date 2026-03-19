@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-coesao-textual",
+    "titulo": "Coesão textual",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "Coesão textual é a ligação entre palavras, frases e partes do texto.",
+      "Ela ajuda o texto a ficar organizado e mais fácil de compreender.",
+      "Pronomes, conjunções e repetições planejadas podem contribuir para a coesão.",
+      "Um texto coeso apresenta relação clara entre as ideias.",
+      "A coesão é importante tanto para a leitura quanto para a escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é coesão textual",
+        "texto": "Coesão textual é a ligação entre as partes do texto. Quando uma frase se conecta bem com a outra, o leitor entende melhor a sequência das ideias. Sem coesão, o texto pode ficar confuso, com informações soltas e pouco articuladas.",
+        "dica": "Ao ler um texto, observe se as ideias se conectam de forma natural."
+      },
+      {
+        "subtitulo": "Recursos de coesão",
+        "texto": "Pronomes, conjunções, repetições planejadas e expressões que retomam ideias anteriores ajudam a construir a coesão. Em Ana perdeu o caderno, mas ela o encontrou depois, as palavras ela e o retomam elementos já citados, conectando as informações.",
+        "dica": "Procure palavras que retomam algo já mencionado ou que ligam as frases."
+      },
+      {
+        "subtitulo": "Coesão e clareza",
+        "texto": "Um texto coeso é mais claro, porque as ideias aparecem ligadas de maneira organizada. Isso ajuda o leitor a acompanhar o raciocínio do autor. Na produção textual, trabalhar a coesão significa evitar frases soltas e construir uma sequência lógica de informações.",
+        "dica": "Depois de escrever, releia o texto e veja se uma frase conversa com a outra."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise o trecho \"João esqueceu o caderno, mas ele voltou para buscá-lo\".",
+        "passos": [
+          "A palavra mas liga duas partes do enunciado.",
+          "A palavra ele retoma o nome João.",
+          "Esses elementos ajudam a conectar as ideias."
+        ],
+        "resposta": "O trecho apresenta coesão por meio de conjunção e de retomada por pronome."
+      },
+      {
+        "enunciado": "Observe duas frases: \"A aula começou. A professora explicou o conteúdo.\"",
+        "passos": [
+          "As duas frases falam de momentos relacionados da mesma situação.",
+          "Mesmo curtas, elas mantêm continuidade de sentido.",
+          "Se fossem melhor conectadas, o texto ficaria ainda mais coeso."
+        ],
+        "resposta": "A coesão ajuda a organizar e aproximar melhor as ideias do texto."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-coesao-textual-ex-01",
+        "enunciado": "Coesão textual é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a falta de ligação entre frases",
+          "a ligação entre partes do texto",
+          "o nome dado apenas ao título",
+          "um tipo de pontuação"
+        ],
+        "respostaCorreta": "a ligação entre partes do texto",
+        "explicacao": "Coesão textual corresponde à conexão entre palavras, frases e ideias do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-02",
+        "enunciado": "Qual recurso pode ajudar na coesão de um texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pronomes",
+          "apenas desenhos",
+          "somente letras maiúsculas",
+          "apagamento de informações"
+        ],
+        "respostaCorreta": "pronomes",
+        "explicacao": "Pronomes ajudam a retomar informações e a conectar as partes do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-03",
+        "enunciado": "Na frase \"Maria estudou, e depois ela descansou\", a palavra \"ela\" ajuda na coesão porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substitui o verbo",
+          "retoma o nome Maria",
+          "indica pontuação",
+          "elimina o sujeito"
+        ],
+        "respostaCorreta": "retoma o nome Maria",
+        "explicacao": "Ela retoma Maria e evita repetição desnecessária do nome.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-04",
+        "enunciado": "Qual palavra liga duas ideias na frase \"A turma estudou, mas ficou insegura\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "turma",
+          "estudou",
+          "mas",
+          "insegura"
+        ],
+        "respostaCorreta": "mas",
+        "explicacao": "Mas é a palavra que liga as duas ideias, marcando oposição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-05",
+        "enunciado": "Um texto coeso é um texto em que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as ideias aparecem desconectadas",
+          "as frases não têm relação entre si",
+          "as partes se ligam com clareza",
+          "não existe ordem de informações"
+        ],
+        "respostaCorreta": "as partes se ligam com clareza",
+        "explicacao": "A coesão faz com que as ideias se conectem de forma compreensível.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-06",
+        "enunciado": "Qual alternativa apresenta uma retomada adequada por pronome?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ana chegou. Ela sentou-se.",
+          "Ana chegou. Mesa sentou-se.",
+          "Ana chegou. Rápido sentou-se.",
+          "Ana chegou. Ontem sentou-se."
+        ],
+        "respostaCorreta": "Ana chegou. Ela sentou-se.",
+        "explicacao": "Ela retoma corretamente o nome Ana e contribui para a coesão do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-07",
+        "enunciado": "Qual alternativa apresenta uma frase com melhor ligação entre as ideias?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "João estudou. João fez a prova. João descansou.",
+          "João estudou, fez a prova e depois descansou.",
+          "João. Estudou. Prova. Descansou.",
+          "João estudou porque e descansou mas prova."
+        ],
+        "respostaCorreta": "João estudou, fez a prova e depois descansou.",
+        "explicacao": "A alternativa organiza melhor a sequência das ações e usa conectivos de forma adequada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-08",
+        "enunciado": "Assinale a alternativa correta sobre a função das conjunções na coesão textual.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ajudam a ligar frases e ideias.",
+          "Elas servem apenas para decorar o texto.",
+          "Elas substituem sempre o sujeito.",
+          "Elas não influenciam o sentido do texto."
+        ],
+        "respostaCorreta": "Elas ajudam a ligar frases e ideias.",
+        "explicacao": "As conjunções conectam partes do texto e fortalecem a coesão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-09",
+        "enunciado": "Por que a coesão textual é importante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque torna o texto mais claro e organizado.",
+          "Porque elimina a necessidade de leitura.",
+          "Porque serve apenas para títulos.",
+          "Porque substitui a ortografia."
+        ],
+        "respostaCorreta": "Porque torna o texto mais claro e organizado.",
+        "explicacao": "A coesão facilita a compreensão e a organização das ideias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-10",
+        "enunciado": "Qual alternativa apresenta um texto menos coeso?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma chegou cedo e organizou o material.",
+          "Pedro esqueceu o caderno, mas voltou para buscá-lo.",
+          "A aula começou. Janela. Livro. Ontem.",
+          "Ana leu o texto e depois respondeu às questões."
+        ],
+        "respostaCorreta": "A aula começou. Janela. Livro. Ontem.",
+        "explicacao": "As palavras aparecem soltas, sem ligação clara entre as ideias.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-11",
+        "enunciado": "Na frase \"O time venceu, por isso comemorou muito\", a expressão \"por isso\" ajuda a indicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligação entre as ideias",
+          "separação sem sentido",
+          "ausência de relação",
+          "erro de ortografia"
+        ],
+        "respostaCorreta": "ligação entre as ideias",
+        "explicacao": "A expressão conecta as duas partes do enunciado e mostra uma relação de consequência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-12",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre coesão textual?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela ajuda o texto a ter continuidade e sentido.",
+          "Ela serve apenas para enfeitar as frases.",
+          "Ela não interfere na interpretação.",
+          "Ela só aparece em poemas."
+        ],
+        "respostaCorreta": "Ela ajuda o texto a ter continuidade e sentido.",
+        "explicacao": "A coesão permite que o texto seja compreendido como um conjunto organizado de ideias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-13",
+        "enunciado": "Qual alternativa apresenta um texto com melhor coesão?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A menina correu. Ela chegou cedo à escola.",
+          "A menina correu. Caderno. Escola. Ontem.",
+          "A menina correu porque mas livro.",
+          "A menina. Correu. Janela."
+        ],
+        "respostaCorreta": "A menina correu. Ela chegou cedo à escola.",
+        "explicacao": "O pronome ela retoma a menina e ajuda a manter a ligação entre as frases.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-coesao-textual-ex-14",
+        "enunciado": "Qual alternativa mostra um recurso de coesão por retomada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Maria chegou. Ela sorriu.",
+          "Maria chegou. Livro sorriu.",
+          "Maria chegou. Ontem sorriu.",
+          "Maria chegou. Azul sorriu."
+        ],
+        "respostaCorreta": "Maria chegou. Ela sorriu.",
+        "explicacao": "Ela retoma Maria e garante a continuidade do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-ex-15",
+        "enunciado": "Assinale a alternativa correta sobre a leitura de um texto coeso.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O leitor entende melhor as relações entre as ideias.",
+          "O leitor se confunde mais facilmente.",
+          "O texto perde sentido.",
+          "As frases deixam de ter relação."
+        ],
+        "respostaCorreta": "O leitor entende melhor as relações entre as ideias.",
+        "explicacao": "A coesão favorece a compreensão das conexões do texto.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-coesao-textual-sim-01",
+        "enunciado": "Qual alternativa apresenta um uso adequado de pronome para retomar uma informação anterior?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A professora chegou. Ela iniciou a aula.",
+          "A professora chegou. Caderno iniciou a aula.",
+          "A professora chegou. Azul iniciou a aula.",
+          "A professora chegou. Ontem iniciou a aula."
+        ],
+        "respostaCorreta": "A professora chegou. Ela iniciou a aula.",
+        "explicacao": "Ela retoma corretamente a professora, garantindo coesão textual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-sim-02",
+        "enunciado": "Em qual alternativa a conjunção contribui para a ligação entre as ideias?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pedro estudou, mas ficou nervoso.",
+          "Pedro estudou. Livro nervoso.",
+          "Pedro estudou. Azul janela.",
+          "Pedro estudou ontem caderno mesa."
+        ],
+        "respostaCorreta": "Pedro estudou, mas ficou nervoso.",
+        "explicacao": "Mas liga as duas ideias e estabelece oposição entre elas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre a coesão textual.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela ajuda a organizar as partes do texto e a ligar as ideias.",
+          "Ela substitui a necessidade de interpretar o texto.",
+          "Ela aparece apenas em textos longos.",
+          "Ela não depende de nenhuma relação entre frases."
+        ],
+        "respostaCorreta": "Ela ajuda a organizar as partes do texto e a ligar as ideias.",
+        "explicacao": "A coesão textual é um elemento importante para a clareza e para a continuidade do texto.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-coesao-textual-sim-04",
+        "enunciado": "Qual alternativa mostra um texto menos coeso?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A aluna estudou e depois resolveu os exercícios.",
+          "João perdeu o livro, mas o encontrou depois.",
+          "A escola abriu cedo. Janela. Livro. Azul.",
+          "A turma chegou e organizou o material."
+        ],
+        "respostaCorreta": "A escola abriu cedo. Janela. Livro. Azul.",
+        "explicacao": "As ideias aparecem desconectadas, prejudicando a coesão do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-coesao-textual-sim-05",
+        "enunciado": "Qual alternativa apresenta a melhor explicação para a importância da coesão?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela torna o texto mais claro, organizado e compreensível.",
+          "Ela impede o uso de pronomes.",
+          "Ela substitui o estudo da leitura.",
+          "Ela elimina a necessidade de revisar o texto."
+        ],
+        "respostaCorreta": "Ela torna o texto mais claro, organizado e compreensível.",
+        "explicacao": "A coesão é essencial para a leitura e para a produção de textos bem articulados.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

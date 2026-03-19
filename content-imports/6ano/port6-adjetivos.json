@@ -1,0 +1,379 @@
+[
+  {
+    "id": "port6-adjetivos",
+    "titulo": "Adjetivos",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Adjetivo é a palavra que caracteriza ou atribui qualidade ao substantivo.",
+      "Os adjetivos podem indicar estado, modo de ser, aparência, origem e outras características.",
+      "Em geral, o adjetivo concorda com o substantivo em gênero e número.",
+      "Os adjetivos enriquecem as frases e tornam os textos mais detalhados e expressivos.",
+      "Reconhecer o adjetivo ajuda a compreender melhor as informações de uma frase."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é adjetivo",
+        "texto": "Adjetivo é a palavra que acompanha o substantivo para indicar uma característica, uma qualidade, um estado ou um aspecto. Em casa ampla, por exemplo, a palavra ampla informa uma característica da casa. O adjetivo ajuda a descrever melhor aquilo de que se está falando.",
+        "dica": "Pergunte: esta palavra está dizendo como é o substantivo? Se estiver, ela pode ser um adjetivo."
+      },
+      {
+        "subtitulo": "A relação entre substantivo e adjetivo",
+        "texto": "O adjetivo normalmente aparece ligado a um substantivo, porque sua função é qualificá-lo. Em menino estudioso, o adjetivo estudioso caracteriza o substantivo menino. Em flores bonitas, o adjetivo bonitas descreve flores. Sem o substantivo, o adjetivo perde parte de sua função na frase.",
+        "dica": "Procure primeiro o substantivo e depois observe qual palavra está atribuindo uma característica a ele."
+      },
+      {
+        "subtitulo": "Concordância do adjetivo",
+        "texto": "Em muitos casos, o adjetivo concorda com o substantivo em gênero e número. Dizemos aluno dedicado, aluna dedicada, alunos dedicados e alunas dedicadas. Essa concordância é importante para manter a correção da frase e para organizar melhor as ideias no texto.",
+        "dica": "Depois de identificar o adjetivo, veja se ele combina com o substantivo em masculino, feminino, singular ou plural."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a expressão \"livro interessante\".",
+        "passos": [
+          "A palavra livro é um substantivo.",
+          "A palavra interessante caracteriza o substantivo livro.",
+          "Por isso, interessante funciona como adjetivo."
+        ],
+        "resposta": "Na expressão \"livro interessante\", a palavra \"interessante\" é um adjetivo."
+      },
+      {
+        "enunciado": "Observe a expressão \"meninas estudiosas\".",
+        "passos": [
+          "Meninas é um substantivo feminino plural.",
+          "Estudiosas caracteriza o substantivo meninas.",
+          "Além disso, o adjetivo está no feminino plural para concordar com o substantivo."
+        ],
+        "resposta": "Na expressão \"meninas estudiosas\", o adjetivo concorda com o substantivo em gênero e número."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-adjetivos-ex-01",
+        "enunciado": "Qual alternativa apresenta um adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bonito",
+          "escola",
+          "correr",
+          "amanhã"
+        ],
+        "respostaCorreta": "bonito",
+        "explicacao": "Bonito é adjetivo porque indica uma característica.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-02",
+        "enunciado": "Na expressão \"casa antiga\", qual palavra é o adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "casa",
+          "antiga",
+          "expressão",
+          "qual"
+        ],
+        "respostaCorreta": "antiga",
+        "explicacao": "Antiga caracteriza o substantivo casa, por isso é um adjetivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-03",
+        "enunciado": "Assinale a alternativa em que a palavra destacada caracteriza um substantivo.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menino alegre",
+          "menino corre",
+          "menino ontem",
+          "menino muito"
+        ],
+        "respostaCorreta": "menino alegre",
+        "explicacao": "Na expressão menino alegre, a palavra alegre caracteriza o substantivo menino.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-04",
+        "enunciado": "Qual alternativa apresenta um adjetivo no feminino singular?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bonito",
+          "bonitas",
+          "bonita",
+          "bonitos"
+        ],
+        "respostaCorreta": "bonita",
+        "explicacao": "Bonita está no feminino singular.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-05",
+        "enunciado": "Em qual alternativa o adjetivo está no plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "feliz",
+          "felizes",
+          "alegre",
+          "calmo"
+        ],
+        "respostaCorreta": "felizes",
+        "explicacao": "Felizes é forma plural do adjetivo feliz.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-06",
+        "enunciado": "Na frase \"Os alunos atentos ouviram a explicação\", qual palavra é adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alunos",
+          "atentos",
+          "ouviram",
+          "explicação"
+        ],
+        "respostaCorreta": "atentos",
+        "explicacao": "Atentos caracteriza o substantivo alunos, por isso é adjetivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-07",
+        "enunciado": "Qual alternativa mostra concordância correta entre substantivo e adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menina estudioso",
+          "alunas dedicada",
+          "livros novos",
+          "casa bonito"
+        ],
+        "respostaCorreta": "livros novos",
+        "explicacao": "Livros novos apresenta concordância correta entre substantivo e adjetivo, ambos no masculino plural.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-08",
+        "enunciado": "Assinale a alternativa em que o adjetivo indica uma qualidade positiva.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triste",
+          "gentil",
+          "escuro",
+          "velho"
+        ],
+        "respostaCorreta": "gentil",
+        "explicacao": "Gentil indica uma qualidade positiva atribuída a alguém.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-09",
+        "enunciado": "Na expressão \"céu azul\", o adjetivo é usado para indicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma ação",
+          "uma característica",
+          "um lugar",
+          "uma quantidade"
+        ],
+        "respostaCorreta": "uma característica",
+        "explicacao": "Azul indica uma característica do substantivo céu.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-10",
+        "enunciado": "Qual alternativa apresenta apenas adjetivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alto, bonito, feliz",
+          "escola, alto, correr",
+          "menino, bonito, cedo",
+          "feliz, amanhã, casa"
+        ],
+        "respostaCorreta": "alto, bonito, feliz",
+        "explicacao": "As três palavras da alternativa correta são adjetivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-11",
+        "enunciado": "Em qual alternativa o adjetivo está no feminino plural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bonita",
+          "bonitas",
+          "bonito",
+          "bonitos"
+        ],
+        "respostaCorreta": "bonitas",
+        "explicacao": "Bonitas está no feminino plural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-adjetivos-ex-12",
+        "enunciado": "Leia a frase: \"A rua estreita ficou silenciosa.\" Qual palavra é adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rua",
+          "estreita",
+          "ficou",
+          "a"
+        ],
+        "respostaCorreta": "estreita",
+        "explicacao": "Estreita caracteriza a rua, por isso é adjetivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-13",
+        "enunciado": "Qual alternativa apresenta um adjetivo que expressa estado ou condição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cansado",
+          "mesa",
+          "andar",
+          "amanhã"
+        ],
+        "respostaCorreta": "cansado",
+        "explicacao": "Cansado pode indicar um estado atribuído a alguém ou a algum ser.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-14",
+        "enunciado": "Assinale a alternativa correta sobre os adjetivos.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Adjetivos substituem os verbos em uma frase.",
+          "Adjetivos caracterizam ou qualificam os substantivos.",
+          "Adjetivos indicam sempre uma ação.",
+          "Adjetivos nunca variam em número."
+        ],
+        "respostaCorreta": "Adjetivos caracterizam ou qualificam os substantivos.",
+        "explicacao": "Essa alternativa apresenta corretamente a função do adjetivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-15",
+        "enunciado": "Na frase \"As meninas dedicadas concluíram a atividade\", qual substantivo é caracterizado pelo adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atividade",
+          "meninas",
+          "concluíram",
+          "as"
+        ],
+        "respostaCorreta": "meninas",
+        "explicacao": "O adjetivo dedicadas caracteriza o substantivo meninas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-16",
+        "enunciado": "Qual alternativa apresenta uma frase com uso adequado de adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A menina estudioso chegou cedo.",
+          "Os livros interessante estavam na mesa.",
+          "A turma organizada iniciou a tarefa.",
+          "As aluno atentos ouviram o aviso."
+        ],
+        "respostaCorreta": "A turma organizada iniciou a tarefa.",
+        "explicacao": "Na frase correta, o adjetivo organizada concorda com o substantivo turma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-17",
+        "enunciado": "Qual alternativa traz dois adjetivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menino e caderno",
+          "alto e inteligente",
+          "correr e estudar",
+          "ontem e hoje"
+        ],
+        "respostaCorreta": "alto e inteligente",
+        "explicacao": "Alto e inteligente são palavras que indicam características, portanto são adjetivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-ex-18",
+        "enunciado": "Em qual alternativa o adjetivo não concorda corretamente com o substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aluna dedicada",
+          "meninos curiosos",
+          "flores perfumadas",
+          "casa bonito"
+        ],
+        "respostaCorreta": "casa bonito",
+        "explicacao": "O correto seria casa bonita, para haver concordância entre substantivo e adjetivo.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-adjetivos-sim-01",
+        "enunciado": "Qual alternativa apresenta uma frase em que o adjetivo caracteriza corretamente o substantivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O menino alegre sorriu para todos.",
+          "A menina estudioso chegou cedo.",
+          "As casas bonito ficaram vazias.",
+          "Os livro novos estavam fechados."
+        ],
+        "respostaCorreta": "O menino alegre sorriu para todos.",
+        "explicacao": "Na alternativa correta, alegre caracteriza menino de forma adequada e sem erro de concordância.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-sim-02",
+        "enunciado": "Leia a frase: \"As árvores altas balançavam com o vento.\" Qual palavra exerce a função de adjetivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "árvores",
+          "altas",
+          "balançavam",
+          "vento"
+        ],
+        "respostaCorreta": "altas",
+        "explicacao": "Altas caracteriza o substantivo árvores, portanto é adjetivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-adjetivos-sim-03",
+        "enunciado": "Em qual alternativa todos os adjetivos estão corretamente flexionados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aluna atento e menina estudioso",
+          "casas amplas e ruas silenciosas",
+          "livro novas e caderno limpa",
+          "meninos curiosa e turma organizado"
+        ],
+        "respostaCorreta": "casas amplas e ruas silenciosas",
+        "explicacao": "Nas duas expressões, os adjetivos concordam corretamente com os substantivos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adjetivos-sim-04",
+        "enunciado": "Qual alternativa explica corretamente a função do adjetivo em uma frase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O adjetivo indica uma ação praticada pelo sujeito.",
+          "O adjetivo liga duas frases sem alterar o sentido.",
+          "O adjetivo caracteriza ou qualifica o substantivo.",
+          "O adjetivo substitui qualquer substantivo."
+        ],
+        "respostaCorreta": "O adjetivo caracteriza ou qualifica o substantivo.",
+        "explicacao": "Essa é a função principal do adjetivo em uma frase.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-adjetivos-sim-05",
+        "enunciado": "Na frase \"Os alunos responsáveis entregaram o trabalho completo\", quantos adjetivos aparecem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um",
+          "dois",
+          "três",
+          "quatro"
+        ],
+        "respostaCorreta": "dois",
+        "explicacao": "Responsáveis caracteriza alunos, e completo caracteriza trabalho. Por isso a frase apresenta dois adjetivos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

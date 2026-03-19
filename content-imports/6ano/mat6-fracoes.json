@@ -1,0 +1,407 @@
+[
+  {
+    "id": "mat6-fracoes",
+    "titulo": "Frações e seus significados",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números racionais",
+    "resumo": [
+      "A fração representa uma ou mais partes de um todo dividido em partes iguais.",
+      "O numerador indica quantas partes foram consideradas.",
+      "O denominador indica em quantas partes iguais o todo foi dividido.",
+      "Frações podem representar medida, divisão, razão e parte de um conjunto.",
+      "Comparar frações exige atenção ao tamanho das partes e à quantidade considerada."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Leitura de uma fração",
+        "texto": "Uma fração é formada por numerador e denominador. Em 3/5, o número 3 é o numerador e indica quantas partes foram escolhidas. O número 5 é o denominador e mostra em quantas partes iguais o inteiro foi dividido.",
+        "dica": "Leia a fração pensando sempre em duas perguntas: quantas partes foram tomadas e em quantas partes o todo foi dividido?"
+      },
+      {
+        "subtitulo": "Frações no cotidiano",
+        "texto": "Usamos frações em várias situações, como ao dividir uma pizza, medir ingredientes ou indicar parte de um grupo. Quando dizemos que uma pessoa comeu 2/8 de uma pizza, queremos dizer que ela comeu duas das oito partes iguais.",
+        "dica": "Frações só fazem sentido quando o todo é dividido em partes iguais."
+      },
+      {
+        "subtitulo": "Comparação e equivalência",
+        "texto": "Duas frações podem representar a mesma quantidade, mesmo com números diferentes, como 1/2 e 2/4. Para comparar frações, observamos se elas têm o mesmo denominador, o mesmo numerador ou se podemos usar desenhos e equivalências para entender melhor.",
+        "dica": "Desenhos simples ajudam bastante quando você precisa comparar frações."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Interprete a fração 3/8.",
+        "passos": [
+          "O denominador 8 mostra que o inteiro foi dividido em 8 partes iguais.",
+          "O numerador 3 mostra que 3 dessas partes foram consideradas.",
+          "Portanto, a fração representa três oitavos do todo."
+        ],
+        "resposta": "A fração 3/8 representa três partes entre oito partes iguais."
+      },
+      {
+        "enunciado": "Compare as frações 1/2 e 2/4.",
+        "passos": [
+          "Metade de um inteiro pode ser representada por 1/2.",
+          "Se o mesmo inteiro for dividido em 4 partes, metade dele corresponde a 2 partes.",
+          "Assim, 1/2 e 2/4 representam a mesma quantidade."
+        ],
+        "resposta": "As frações 1/2 e 2/4 são equivalentes."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-fracoes-ex-01",
+        "enunciado": "Na fração 4/7, o numerador é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "7",
+          "11",
+          "3"
+        ],
+        "respostaCorreta": "4",
+        "explicacao": "O numerador é o número que fica acima do traço da fração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-02",
+        "enunciado": "Na fração 4/7, o denominador indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quantas partes foram tomadas",
+          "quantas partes iguais formam o todo",
+          "o dobro do numerador",
+          "a soma dos termos da fração"
+        ],
+        "respostaCorreta": "quantas partes iguais formam o todo",
+        "explicacao": "O denominador mostra em quantas partes iguais o inteiro foi dividido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-03",
+        "enunciado": "Qual fração representa três partes de um inteiro dividido em cinco partes iguais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5/3",
+          "3/5",
+          "3/8",
+          "2/5"
+        ],
+        "respostaCorreta": "3/5",
+        "explicacao": "O numerador é 3 e o denominador é 5, portanto a fração é 3/5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-04",
+        "enunciado": "Qual alternativa representa a metade de um inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/2",
+          "1/3",
+          "2/3",
+          "3/4"
+        ],
+        "respostaCorreta": "1/2",
+        "explicacao": "A metade corresponde a uma entre duas partes iguais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-05",
+        "enunciado": "Qual fração é equivalente a 1/2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2/3",
+          "2/4",
+          "3/4",
+          "1/4"
+        ],
+        "respostaCorreta": "2/4",
+        "explicacao": "As frações 1/2 e 2/4 representam a mesma quantidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-06",
+        "enunciado": "Se uma pizza foi dividida em 8 partes iguais e Maria comeu 3 partes, qual fração da pizza ela comeu?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/8",
+          "8/3",
+          "3/5",
+          "5/8"
+        ],
+        "respostaCorreta": "3/8",
+        "explicacao": "Foram comidas 3 de 8 partes iguais, portanto a fração é 3/8.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-07",
+        "enunciado": "Qual alternativa apresenta a maior fração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/4",
+          "1/3",
+          "1/2",
+          "1/5"
+        ],
+        "respostaCorreta": "1/2",
+        "explicacao": "Quando o numerador é o mesmo, a maior fração é a que possui menor denominador.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-08",
+        "enunciado": "Qual fração representa duas partes de um inteiro dividido em seis partes iguais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2/6",
+          "6/2",
+          "2/3",
+          "3/6"
+        ],
+        "respostaCorreta": "2/6",
+        "explicacao": "O numerador indica as partes tomadas e o denominador indica o total de partes iguais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-09",
+        "enunciado": "Qual alternativa mostra corretamente a leitura da fração 5/9?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cinco nonos",
+          "nove quintos",
+          "cinco nonas",
+          "cinco sobre nove partes diferentes"
+        ],
+        "respostaCorreta": "cinco nonos",
+        "explicacao": "A fração 5/9 é lida como cinco nonos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-10",
+        "enunciado": "Se 4 de 10 bolas são azuis, que fração do total representa as bolas azuis?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10/4",
+          "4/10",
+          "4/6",
+          "6/10"
+        ],
+        "respostaCorreta": "4/10",
+        "explicacao": "A fração é formada por 4 partes consideradas entre 10 no total.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-11",
+        "enunciado": "Qual alternativa representa a mesma quantidade que 3/6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/2",
+          "1/3",
+          "2/5",
+          "3/5"
+        ],
+        "respostaCorreta": "1/2",
+        "explicacao": "A fração 3/6 pode ser simplificada e equivale a 1/2.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-12",
+        "enunciado": "Em qual alternativa a fração representa um inteiro dividido em partes desiguais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma pizza cortada em 8 fatias do mesmo tamanho",
+          "Um chocolate dividido em 4 pedaços iguais",
+          "Um bolo cortado em pedaços de tamanhos diferentes",
+          "Uma barra dividida em 6 partes iguais"
+        ],
+        "respostaCorreta": "Um bolo cortado em pedaços de tamanhos diferentes",
+        "explicacao": "Frações representam partes de um todo apenas quando as partes são iguais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-fracoes-ex-13",
+        "enunciado": "Qual alternativa apresenta uma fração menor que 1/2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/4",
+          "2/3",
+          "1/3",
+          "4/5"
+        ],
+        "respostaCorreta": "1/3",
+        "explicacao": "Um terço é menor que a metade do inteiro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-14",
+        "enunciado": "Se um inteiro foi dividido em 12 partes iguais e 9 foram pintadas, qual fração representa a parte pintada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9/12",
+          "12/9",
+          "3/12",
+          "9/3"
+        ],
+        "respostaCorreta": "9/12",
+        "explicacao": "A fração que representa 9 partes de um total de 12 é 9/12.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-15",
+        "enunciado": "Qual fração é maior?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2/8",
+          "3/8",
+          "1/8",
+          "2/10"
+        ],
+        "respostaCorreta": "3/8",
+        "explicacao": "Entre frações com o mesmo denominador, a maior é a que tem maior numerador.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-16",
+        "enunciado": "Qual alternativa descreve corretamente a fração 7/7?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "menos que um inteiro",
+          "mais que dois inteiros",
+          "igual a um inteiro",
+          "igual à metade"
+        ],
+        "respostaCorreta": "igual a um inteiro",
+        "explicacao": "Quando numerador e denominador são iguais, a fração representa um inteiro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-17",
+        "enunciado": "Qual situação representa melhor a fração 2/5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comer 2 pedaços de uma pizza dividida em 5 partes iguais",
+          "Comer 5 pedaços de uma pizza dividida em 2 partes iguais",
+          "Separar 2 objetos de um grupo com 4 objetos",
+          "Dividir um bolo em 2 partes iguais e comer 5"
+        ],
+        "respostaCorreta": "Comer 2 pedaços de uma pizza dividida em 5 partes iguais",
+        "explicacao": "A fração 2/5 indica 2 partes consideradas de um todo dividido em 5 partes iguais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-fracoes-ex-18",
+        "enunciado": "Qual alternativa apresenta uma fração equivalente a 3/4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6/8",
+          "4/8",
+          "3/8",
+          "2/4"
+        ],
+        "respostaCorreta": "6/8",
+        "explicacao": "Multiplicando numerador e denominador de 3/4 por 2, obtemos 6/8.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-ex-19",
+        "enunciado": "Um aluno afirmou que 2/6 é maior que 1/2. Qual alternativa avalia corretamente essa afirmação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Está correta, porque 2 é maior que 1.",
+          "Está correta, porque 6 é maior que 2.",
+          "Está incorreta, porque 2/6 equivale a 1/3, que é menor que 1/2.",
+          "Está incorreta, porque toda fração com denominador 6 é maior."
+        ],
+        "respostaCorreta": "Está incorreta, porque 2/6 equivale a 1/3, que é menor que 1/2.",
+        "explicacao": "Ao simplificar 2/6, percebemos que ela representa 1/3, que é menor que 1/2.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-fracoes-ex-20",
+        "enunciado": "Qual alternativa apresenta uma fração maior que 1 inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/5",
+          "4/4",
+          "7/6",
+          "2/3"
+        ],
+        "respostaCorreta": "7/6",
+        "explicacao": "Quando o numerador é maior que o denominador, a fração é maior que 1.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-fracoes-sim-01",
+        "enunciado": "Uma barra de chocolate foi dividida em 10 partes iguais. João comeu 4 partes e Maria comeu 3. Que fração representa a parte comida pelos dois juntos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4/10",
+          "7/10",
+          "3/10",
+          "10/7"
+        ],
+        "respostaCorreta": "7/10",
+        "explicacao": "Somando as partes comidas, temos 4 + 3 = 7 partes de um total de 10.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-sim-02",
+        "enunciado": "Qual alternativa apresenta uma fração equivalente a 2/3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3/5",
+          "4/6",
+          "2/6",
+          "5/6"
+        ],
+        "respostaCorreta": "4/6",
+        "explicacao": "Multiplicando numerador e denominador de 2/3 por 2, obtemos 4/6.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-sim-03",
+        "enunciado": "Qual alternativa representa a maior fração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5/8",
+          "3/8",
+          "1/8",
+          "4/8"
+        ],
+        "respostaCorreta": "5/8",
+        "explicacao": "Como todas têm o mesmo denominador, basta comparar os numeradores.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-sim-04",
+        "enunciado": "Uma garrafa foi preenchida até 3/4 de sua capacidade. Qual alternativa descreve corretamente essa situação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A garrafa está completamente cheia.",
+          "A garrafa está com menos da metade.",
+          "A garrafa está com três de quatro partes iguais preenchidas.",
+          "A garrafa está com três partes de um total desconhecido."
+        ],
+        "respostaCorreta": "A garrafa está com três de quatro partes iguais preenchidas.",
+        "explicacao": "A fração 3/4 representa três partes consideradas de um total de quatro partes iguais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-fracoes-sim-05",
+        "enunciado": "Qual alternativa está correta sobre a fração 6/6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela é menor que 1.",
+          "Ela representa metade do inteiro.",
+          "Ela representa exatamente 1 inteiro.",
+          "Ela não pode ser comparada com outras frações."
+        ],
+        "respostaCorreta": "Ela representa exatamente 1 inteiro.",
+        "explicacao": "Quando o numerador é igual ao denominador, a fração representa um inteiro completo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

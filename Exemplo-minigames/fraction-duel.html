@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0"/>
+<title>Duelo de Frações</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.60.0/phaser.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:#1a0a2e;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  min-height:100vh;overflow:hidden;font-family:'Nunito',sans-serif;
+  background-image:radial-gradient(ellipse at 20% 50%,#2d0a5e44 0%,transparent 60%),
+                   radial-gradient(ellipse at 80% 20%,#0a2d5e44 0%,transparent 60%);
+}
+
+/* ══ HALFTONE BG OVERLAY ═══════════════════════════════════════════════════ */
+body::before{
+  content:'';position:fixed;inset:0;pointer-events:none;z-index:0;
+  background-image:radial-gradient(circle,rgba(255,255,255,.03) 1px,transparent 1px);
+  background-size:20px 20px;
+}
+
+#wrap{position:relative;z-index:1}
+canvas{display:block;border-radius:12px;
+  box-shadow:0 0 0 4px #f5e642,0 0 0 7px #1a0a2e,0 0 60px rgba(245,230,66,.3);
+}
+
+/* ══ QUESTION PANEL ════════════════════════════════════════════════════════ */
+#q-panel{
+  position:absolute;bottom:0;left:0;right:0;
+  background:linear-gradient(180deg,rgba(10,5,30,0) 0%,rgba(10,5,30,.97) 12%,#0a051e 100%);
+  border-radius:0 0 12px 12px;
+  padding:10px 16px 14px;
+  display:none;flex-direction:column;gap:10px;
+  border-top:3px solid #f5e642;
+  z-index:50;
+}
+#q-panel.active{display:flex}
+
+.q-label{
+  font-family:'Bangers',cursive;font-size:clamp(11px,2vw,14px);
+  color:#f5e642;letter-spacing:3px;text-align:center;
+}
+.q-text{
+  font-size:clamp(15px,3vw,21px);font-weight:900;color:#fff;
+  text-align:center;line-height:1.3;
+  text-shadow:2px 2px 0 #000;
+}
+.q-opts{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.q-btn{
+  font-family:'Bangers',cursive;font-size:clamp(16px,3vw,22px);
+  letter-spacing:1px;color:#1a0a2e;
+  background:linear-gradient(145deg,#f5e642,#e8c800);
+  border:3px solid #1a0a2e;border-radius:10px;
+  padding:clamp(8px,1.5vw,12px) 8px;cursor:pointer;
+  transition:all .12s;position:relative;
+  box-shadow:3px 3px 0 #1a0a2e;
+  text-shadow:none;
+}
+.q-btn:hover:not(:disabled){transform:translate(-2px,-2px);box-shadow:5px 5px 0 #1a0a2e}
+.q-btn:active:not(:disabled){transform:translate(2px,2px);box-shadow:1px 1px 0 #1a0a2e}
+.q-btn.correct{background:linear-gradient(145deg,#4ecca3,#2db888)!important;animation:popBtn .35s ease}
+.q-btn.wrong{background:linear-gradient(145deg,#e94560,#b42040)!important;color:#fff!important;animation:shakeBtn .35s ease}
+.q-btn.reveal{background:linear-gradient(145deg,#4ecca3,#2db888)!important;opacity:.7}
+.q-btn:disabled{cursor:default}
+
+/* timer bar */
+.timer-wrap{width:100%;height:8px;background:rgba(255,255,255,.1);border-radius:6px;overflow:hidden;border:1.5px solid rgba(255,255,255,.15)}
+.timer-fill{height:100%;border-radius:6px;transition:width .08s linear,background .3s}
+
+/* ══ SCREENS ════════════════════════════════════════════════════════════════ */
+.screen{
+  position:fixed;inset:0;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  background:#1a0a2e;z-index:200;gap:14px;padding:24px;text-align:center;
+  background-image:
+    radial-gradient(ellipse at 30% 40%,#2d0a5e55,transparent 55%),
+    radial-gradient(ellipse at 70% 60%,#0a2d5e55,transparent 55%);
+}
+.screen{display:none}
+#screen-intro{display:flex}
+
+.halftone-dots{
+  position:absolute;inset:0;pointer-events:none;
+  background-image:radial-gradient(circle,rgba(255,255,255,.05) 1px,transparent 1px);
+  background-size:18px 18px;
+}
+
+.screen-badge{
+  font-family:'Bangers',cursive;font-size:clamp(11px,2.5vw,14px);
+  letter-spacing:4px;color:#f5e642;
+  background:rgba(245,230,66,.1);border:2px solid #f5e642;
+  border-radius:30px;padding:4px 18px;
+}
+.screen-icon{font-size:clamp(64px,16vw,110px);line-height:1;
+  filter:drop-shadow(0 0 20px rgba(245,230,66,.5));
+  animation:heroFloat 3s ease-in-out infinite;
+}
+.screen-title{
+  font-family:'Bangers',cursive;font-size:clamp(36px,10vw,72px);
+  line-height:1;letter-spacing:3px;
+  background:linear-gradient(135deg,#f5e642 0%,#ff6b35 50%,#e94560 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  filter:drop-shadow(3px 3px 0 rgba(0,0,0,.5));
+}
+.screen-sub{
+  color:#aaa;font-size:clamp(13px,2.5vw,16px);max-width:460px;line-height:1.6;
+  font-weight:700;
+}
+
+/* comic-style info cards */
+.comic-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+  gap:10px;max-width:520px;width:100%;margin:4px 0;
+}
+.comic-card{
+  background:#fff;border:3px solid #1a0a2e;border-radius:12px;
+  padding:12px 14px;text-align:left;
+  box-shadow:4px 4px 0 #1a0a2e;
+  position:relative;overflow:hidden;
+}
+.comic-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:4px;
+  background:linear-gradient(90deg,#f5e642,#ff6b35);
+}
+.comic-card-icon{font-size:22px;margin-bottom:4px}
+.comic-card strong{display:block;font-size:13px;color:#1a0a2e;margin-bottom:2px;font-family:'Bangers',cursive;letter-spacing:1px;font-size:15px}
+.comic-card span{font-size:12px;color:#555;font-weight:700}
+
+.stat-row{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+.stat-box{
+  background:#fff;border:3px solid #1a0a2e;border-radius:12px;
+  padding:12px 20px;min-width:100px;
+  box-shadow:4px 4px 0 #1a0a2e;
+}
+.stat-val{font-family:'Bangers',cursive;font-size:32px;color:#e94560;letter-spacing:1px}
+.stat-lbl{font-size:12px;color:#555;font-weight:800;text-transform:uppercase;letter-spacing:1px}
+
+.big-btn{
+  font-family:'Bangers',cursive;font-size:clamp(20px,4vw,28px);letter-spacing:2px;
+  background:linear-gradient(145deg,#f5e642,#e8c800);
+  border:4px solid #1a0a2e;border-radius:14px;
+  padding:clamp(12px,2vw,16px) clamp(32px,6vw,56px);
+  color:#1a0a2e;cursor:pointer;
+  box-shadow:5px 5px 0 #1a0a2e;
+  transition:all .15s;
+}
+.big-btn:hover{transform:translate(-3px,-3px);box-shadow:8px 8px 0 #1a0a2e}
+.big-btn:active{transform:translate(2px,2px);box-shadow:2px 2px 0 #1a0a2e}
+.big-btn.secondary{background:#fff;font-size:clamp(15px,3vw,20px)}
+
+/* ══ ANIMATIONS ═══════════════════════════════════════════════════════════ */
+@keyframes heroFloat{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-14px) rotate(2deg)}}
+@keyframes popBtn{0%{transform:scale(.85) translate(2px,2px)}60%{transform:scale(1.1) translate(-2px,-2px)}100%{transform:scale(1) translate(0,0)}}
+@keyframes shakeBtn{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+@keyframes slideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pow{0%{transform:scale(0) rotate(-15deg)}60%{transform:scale(1.3) rotate(5deg)}100%{transform:scale(1) rotate(0deg);opacity:0}}
+
+/* ══ ONOMATOPEIA POPUP ════════════════════════════════════════════════════ */
+.onomat{
+  position:absolute;font-family:'Bangers',cursive;font-size:clamp(28px,7vw,52px);
+  letter-spacing:2px;pointer-events:none;z-index:100;
+  text-shadow:3px 3px 0 #000,-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000;
+  animation:pow .9s ease forwards;
+  transform-origin:center;
+}
+</style>
+</head>
+<body>
+
+<!-- ══ INTRO ══════════════════════════════════════════════════════════════ -->
+<div class="screen" id="screen-intro">
+  <div class="halftone-dots"></div>
+  <div class="screen-badge">MATEMÁTICA · 6º ANO</div>
+  <div class="screen-icon">🦸</div>
+  <h1 class="screen-title">DUELO DE<br>FRAÇÕES</h1>
+  <p class="screen-sub">Responda rápido! O vilão ataca enquanto você pensa. Acerte a fração e dê um golpe devastador!</p>
+  <div class="comic-grid">
+    <div class="comic-card">
+      <div class="comic-card-icon">⚡</div>
+      <strong>Tempo Real</strong>
+      <span>O vilão carrega o ataque enquanto você lê a pergunta</span>
+    </div>
+    <div class="comic-card">
+      <div class="comic-card-icon">🎯</div>
+      <strong>Acertou = Golpe</strong>
+      <span>Cada resposta certa causa dano no HP do vilão</span>
+    </div>
+    <div class="comic-card">
+      <div class="comic-card-icon">🛡️</div>
+      <strong>Errou = Dano</strong>
+      <span>Resposta errada ou tempo esgotado → vilão te acerta</span>
+    </div>
+    <div class="comic-card">
+      <div class="comic-card-icon">🔥</div>
+      <strong>Combo!</strong>
+      <span>Acertos seguidos aumentam o dano do seu golpe</span>
+    </div>
+  </div>
+  <button class="big-btn" onclick="startGame()">⚔️ LUTAR!</button>
+</div>
+
+<!-- ══ WIN ════════════════════════════════════════════════════════════════ -->
+<div class="screen" id="screen-win">
+  <div class="halftone-dots"></div>
+  <div class="screen-badge">VITÓRIA!</div>
+  <div class="screen-icon">🏆</div>
+  <h1 class="screen-title">VILÃO<br>DERROTADO!</h1>
+  <p class="screen-sub">Suas frações foram poderosas demais!</p>
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val" id="win-score">0</div><div class="stat-lbl">Pontos</div></div>
+    <div class="stat-box"><div class="stat-val" id="win-correct">0</div><div class="stat-lbl">Acertos</div></div>
+    <div class="stat-box"><div class="stat-val" id="win-combo">0</div><div class="stat-lbl">Maior Combo</div></div>
+  </div>
+  <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
+    <button class="big-btn" onclick="restartGame()">🔄 REVANCHE!</button>
+  </div>
+</div>
+
+<!-- ══ GAMEOVER ═══════════════════════════════════════════════════════════ -->
+<div class="screen" id="screen-over">
+  <div class="halftone-dots"></div>
+  <div class="screen-badge">DERROTA</div>
+  <div class="screen-icon">💀</div>
+  <h1 class="screen-title">NOCAUTEADO!</h1>
+  <p class="screen-sub">O vilão foi mais rápido. Treine suas frações e tente de novo!</p>
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val" id="over-score">0</div><div class="stat-lbl">Pontos</div></div>
+    <div class="stat-box"><div class="stat-val" id="over-correct">0</div><div class="stat-lbl">Acertos</div></div>
+    <div class="stat-box"><div class="stat-val" id="over-wrong">0</div><div class="stat-lbl">Erros</div></div>
+  </div>
+  <button class="big-btn" onclick="restartGame()">💪 TENTAR NOVAMENTE</button>
+</div>
+
+<!-- ══ GAME ═══════════════════════════════════════════════════════════════ -->
+<div id="wrap">
+  <div id="q-panel">
+    <div style="display:flex;align-items:center;gap:10px">
+      <div class="timer-wrap" style="flex:1"><div class="timer-fill" id="timer-fill"></div></div>
+      <div class="q-label" id="q-label">RESPONDA!</div>
+    </div>
+    <div class="q-text" id="q-text"></div>
+    <div class="q-opts" id="q-opts"></div>
+  </div>
+</div>
+
+<script>
+'use strict';
+// ════════════════════════════════════════════════════════════════════════════
+// DATA
+// ════════════════════════════════════════════════════════════════════════════
+const Qs=[
+  {q:"Qual fração representa metade?",o:["1/3","1/4","1/2","2/3"],c:2,h:"Dividir em 2 partes iguais"},
+  {q:"2/4 simplificada é?",o:["1/4","2/4","1/2","1/3"],c:2,h:"Divida por 2: 2÷2=1, 4÷2=2"},
+  {q:"Qual é a maior fração?",o:["1/5","1/3","1/4","1/2"],c:3,h:"Mesmo numerador → menor denominador = maior"},
+  {q:"1/4 + 2/4 = ?",o:["3/8","1/4","3/4","2/4"],c:2,h:"Mesmo denominador: some os numeradores"},
+  {q:"5/8 − 2/8 = ?",o:["3/0","7/8","3/16","3/8"],c:3,h:"5−2=3, denominador continua 8"},
+  {q:"1/4 de 20 = ?",o:["4","8","5","10"],c:2,h:"20÷4=5"},
+  {q:"Qual fração equivale a 1/2?",o:["2/6","3/4","3/6","1/4"],c:2,h:"1×3=3 e 2×3=6"},
+  {q:"A fração 7/3 é:",o:["Própria","Unitária","Imprópria","Mista"],c:2,h:"Numerador > denominador = imprópria"},
+  {q:"2 e 1/2 como fração imprópria?",o:["3/2","4/2","5/2","6/2"],c:2,h:"2×2+1=5 → 5/2"},
+  {q:"3/4 de 16 = ?",o:["4","8","12","6"],c:2,h:"16÷4=4, depois ×3=12"},
+  {q:"Qual é a menor fração?",o:["2/3","2/4","2/5","2/6"],c:3,h:"Mesmo numerador → maior denominador = menor"},
+  {q:"4/6 simplificada?",o:["1/2","2/3","3/4","1/3"],c:1,h:"Divida por 2: 4÷2=2, 6÷2=3"},
+  {q:"1/3 de 9 = ?",o:["4","2","3","6"],c:2,h:"9÷3=3"},
+  {q:"2/5 + 2/5 = ?",o:["4/10","4/5","2/5","1/5"],c:1,h:"2+2=4, denominador continua 5"},
+  {q:"Qual fração = 1 inteiro?",o:["3/4","5/6","4/4","2/3"],c:2,h:"Numerador = denominador = 1 inteiro"},
+  {q:"3/8 + 4/8 = ?",o:["7/16","7/8","1/8","6/8"],c:1,h:"3+4=7, denominador continua 8"},
+  {q:"0,5 como fração é?",o:["5/10","1/4","1/2","5/100"],c:2,h:"0,5 = cinco décimos = 1/2"},
+  {q:"Qual é equivalente a 2/3?",o:["4/9","4/6","3/6","6/9"],c:1,h:"2×2=4 e 3×2=6"},
+  {q:"7/10 − 3/10 = ?",o:["4/20","10/10","4/10","4/0"],c:2,h:"7−3=4, denominador continua 10"},
+  {q:"1/2 de 14 = ?",o:["4","6","7","8"],c:2,h:"14÷2=7"},
+];
+
+// ════════════════════════════════════════════════════════════════════════════
+// PHASER SCENE
+// ════════════════════════════════════════════════════════════════════════════
+const CW=720, CH=400;
+
+// ── Safe Phaser 3 Graphics helpers (only valid API calls) ─────────────────
+
+// Draw a filled oval using a scaled circle path
+function fillOval(g,x,y,w,h){
+  g.save();
+  // Phaser Graphics has no fillEllipse, so we use fillPoints with a polygon
+  const pts=[];
+  const steps=24;
+  for(let i=0;i<steps;i++){
+    const a=(i/steps)*Math.PI*2;
+    pts.push({x:x+Math.cos(a)*(w/2), y:y+Math.sin(a)*(h/2)});
+  }
+  g.fillPoints(pts,true);
+}
+
+// Draw a filled 5-point star
+function fillStar5(g,cx,cy,outerR,innerR){
+  const pts=[];
+  for(let i=0;i<10;i++){
+    const angle=(i*Math.PI/5)-Math.PI/2;
+    const r = i%2===0 ? outerR : innerR;
+    pts.push({x:cx+Math.cos(angle)*r, y:cy+Math.sin(angle)*r});
+  }
+  g.fillPoints(pts,true);
+}
+
+// Draw a stroke circle using strokePoints
+function strokeCircleG(g,x,y,r){
+  const pts=[];
+  const steps=36;
+  for(let i=0;i<=steps;i++){
+    const a=(i/steps)*Math.PI*2;
+    pts.push({x:x+Math.cos(a)*r, y:y+Math.sin(a)*r});
+  }
+  g.strokePoints(pts,true);
+}
+
+// ── Sprite drawing functions ──────────────────────────────────────────────
+
+function drawHero(g,x,y,state,frame){
+  const bobY = state==='idle' ? Math.sin(frame*0.08)*3 : 0;
+  const yy=y+bobY;
+
+  // shadow
+  g.fillStyle(0x000000,0.18);
+  fillOval(g,x,y+62,54,12);
+
+  // cape
+  g.fillStyle(0xe94560);
+  const capeFlap = Math.sin(frame*0.12)*6;
+  g.fillTriangle(x-14,yy-28, x-8,yy+20, x-34+capeFlap,yy+28);
+
+  // legs
+  g.fillStyle(0x1a3a7a);
+  g.fillRoundedRect(x-14,yy+24,12,28,4);
+  g.fillRoundedRect(x+2,yy+24,12,28,4);
+  // boots
+  g.fillStyle(0x0a1a3a);
+  g.fillRoundedRect(x-16,yy+44,14,12,3);
+  g.fillRoundedRect(x+2,yy+44,14,12,3);
+
+  // body
+  g.fillStyle(0x1e5fd4);
+  g.fillRoundedRect(x-18,yy-10,36,36,8);
+  // chest symbol — star
+  g.fillStyle(0xf5e642);
+  fillStar5(g,x,yy+8,10,5);
+
+  // belt
+  g.fillStyle(0xf5e642);
+  g.fillRect(x-18,yy+20,36,6);
+  g.fillStyle(0xe8c800);
+  g.fillRect(x-4,yy+20,8,6);
+
+  // arms
+  const armAngleL = state==='attack' ? -0.8+Math.sin(frame*0.4)*0.3 : Math.sin(frame*0.15+1)*0.3;
+  g.fillStyle(0x1e5fd4);
+  g.fillRoundedRect(x-28+Math.sin(armAngleL)*6,yy-5,12,24,5);
+  const rxOff = state==='attack' ? 18+Math.cos(frame*0.4)*10 : 16;
+  const ryOff = state==='attack' ? -20-Math.sin(frame*0.4)*8 : 0;
+  g.fillRoundedRect(x+rxOff,yy-5+ryOff,12,24,5);
+  // gloves
+  g.fillStyle(0xff6b35);
+  g.fillCircle(x-22+Math.sin(armAngleL)*6,yy+20,8);
+  g.fillCircle(x+rxOff+6,yy+20+ryOff,8);
+
+  // head
+  g.fillStyle(0xffd8a8);
+  g.fillCircle(x,yy-28,18);
+  // mask
+  g.fillStyle(0x1a3a7a);
+  g.fillRoundedRect(x-14,yy-38,28,14,4);
+  // eyes — use small rects instead of ellipse
+  g.fillStyle(0xffffff);
+  g.fillRoundedRect(x-10,yy-35,8,5,2);
+  g.fillRoundedRect(x+2,yy-35,8,5,2);
+  g.fillStyle(0x1a0a2e);
+  g.fillCircle(x-6,yy-33,2);
+  g.fillCircle(x+6,yy-33,2);
+  // jaw open on attack
+  if(state==='attack'){
+    g.fillStyle(0xffb870);
+    g.fillRoundedRect(x-6,yy-22,12,7,3);
+  }
+  // hurt flash
+  if(state==='hurt'){
+    g.fillStyle(0xff0000,0.35);
+    g.fillRoundedRect(x-22,yy-50,44,80,10);
+  }
+}
+
+function drawVillain(g,x,y,state,frame,chargeRatio){
+  const bobY = state==='idle' ? Math.sin(frame*0.07+1)*4 : 0;
+  const yy=y+bobY;
+
+  // shadow
+  g.fillStyle(0x000000,0.18);
+  fillOval(g,x,y+62,60,14);
+
+  // cloak wings
+  g.fillStyle(0x2d0a5e);
+  g.fillTriangle(x+18,yy-30, x+16,yy+30, x+50+Math.sin(frame*0.1)*8,yy+20);
+  g.fillTriangle(x-18,yy-30, x-16,yy+30, x-50-Math.sin(frame*0.1)*8,yy+20);
+
+  // legs
+  g.fillStyle(0x1a0838);
+  g.fillRoundedRect(x-14,yy+24,13,28,4);
+  g.fillRoundedRect(x+2,yy+24,13,28,4);
+  g.fillStyle(0x3d0a7a);
+  g.fillRoundedRect(x-16,yy+46,15,12,3);
+  g.fillRoundedRect(x+1,yy+46,15,12,3);
+  // claw feet
+  g.fillStyle(0x5a0a9e);
+  for(let i=-1;i<=1;i++){
+    g.fillTriangle(x-8+i*4,yy+58, x-10+i*4,yy+65, x-4+i*4,yy+58);
+    g.fillTriangle(x+8+i*4,yy+58, x+6+i*4,yy+65, x+12+i*4,yy+58);
+  }
+
+  // body armor
+  g.fillStyle(0x2d0a5e);
+  g.fillRoundedRect(x-20,yy-12,40,38,8);
+  g.fillStyle(0x5a0a9e);
+  g.fillRoundedRect(x-16,yy-10,15,18,4);
+  g.fillRoundedRect(x+1,yy-10,15,18,4);
+
+  // energy core
+  const coreColor = chargeRatio>0.7 ? 0xff2244 : chargeRatio>0.4 ? 0xff8c00 : 0x8800ff;
+  g.fillStyle(coreColor,0.9);
+  g.fillCircle(x,yy+8,8+chargeRatio*6);
+  g.fillStyle(0xffffff,0.5);
+  g.fillCircle(x,yy+8,4+chargeRatio*3);
+
+  // arms
+  const attackSwing = state==='attack' ? Math.sin(frame*0.5)*20 : 0;
+  g.fillStyle(0x3d0a7a);
+  g.fillRoundedRect(x-30,yy-8,13,26,5);
+  g.fillRoundedRect(x+17,yy-8-attackSwing,13,26,5);
+  // claws
+  g.fillStyle(0x00ff88);
+  for(let i=0;i<3;i++){
+    g.fillTriangle(x-24+i*4,yy+18, x-26+i*4,yy+26, x-20+i*4,yy+18);
+    g.fillTriangle(x+20+i*4,yy+18-attackSwing, x+18+i*4,yy+26-attackSwing, x+24+i*4,yy+18-attackSwing);
+  }
+
+  // head helmet
+  g.fillStyle(0x1a0838);
+  g.fillCircle(x,yy-30,20);
+  g.fillStyle(0x3d0a7a);
+  g.fillRoundedRect(x-14,yy-46,28,20,5);
+  // horns
+  g.fillStyle(0x5a0a9e);
+  g.fillTriangle(x-16,yy-44, x-20,yy-64, x-10,yy-44);
+  g.fillTriangle(x+16,yy-44, x+20,yy-64, x+10,yy-44);
+  // visor eyes — rects instead of ellipse
+  g.fillStyle(coreColor);
+  g.fillRoundedRect(x-12,yy-36,10,6,2);
+  g.fillRoundedRect(x+2,yy-36,10,6,2);
+  g.fillStyle(0xffffff,0.7);
+  g.fillCircle(x-7,yy-33,2);
+  g.fillCircle(x+7,yy-33,2);
+
+  // charge aura rings
+  if(chargeRatio>0){
+    g.lineStyle(2+chargeRatio*3, coreColor, chargeRatio*0.7);
+    strokeCircleG(g,x,yy,35+chargeRatio*20);
+    g.lineStyle(1, coreColor, chargeRatio*0.35);
+    strokeCircleG(g,x,yy,52+chargeRatio*30);
+  }
+  if(state==='hurt'){
+    g.fillStyle(0xffffff,0.35);
+    g.fillRoundedRect(x-24,yy-52,48,88,10);
+  }
+}
+
+function drawBG(g,frame){
+  // solid sky fill (fillGradientStyle is unreliable with alpha, use fillRect)
+  g.fillStyle(0x1a0a2e,1);
+  g.fillRect(0,0,CW,CH);
+  // subtle top tint
+  g.fillStyle(0x2d0a5e,0.45);
+  g.fillRect(0,0,CW,CH*0.5);
+
+  // halftone dots
+  g.fillStyle(0xffffff,0.025);
+  for(let rx=0;rx<CW;rx+=18)
+    for(let ry=0;ry<CH*0.65;ry+=18)
+      g.fillCircle(rx,ry,2);
+
+  // buildings silhouette
+  const buildings=[
+    {x:0,w:80,h:180},{x:90,w:60,h:220},{x:160,w:90,h:150},
+    {x:440,w:90,h:160},{x:540,w:70,h:200},{x:620,w:100,h:170},{x:680,w:80,h:230}
+  ];
+  buildings.forEach(b=>{
+    g.fillStyle(0x0d0620,0.9);
+    g.fillRect(b.x,CH*0.72-b.h,b.w,b.h);
+    g.fillStyle(0xf5e642,0.25);
+    for(let wy=CH*0.72-b.h+10;wy<CH*0.72-10;wy+=20)
+      for(let wx=b.x+8;wx<b.x+b.w-8;wx+=16)
+        if(((wx*7+wy*3)%5)>1) g.fillRect(wx,wy,8,10); // deterministic, no random
+  });
+
+  // ground
+  g.fillStyle(0x0a051e,1);
+  g.fillRect(0,CH*0.72,CW,CH*0.28);
+  // ground line
+  g.fillStyle(0xf5e642,1);
+  g.fillRect(0,CH*0.72,CW,3);
+
+  // ground diag lines
+  g.lineStyle(1,0xf5e642,0.1);
+  for(let gx=0;gx<CW;gx+=40){
+    g.beginPath();
+    g.moveTo(gx, CH*0.72);
+    g.lineTo(gx+20, CH);
+    g.strokePath();
+  }
+
+  // action lines from center
+  g.lineStyle(1,0xf5e642,0.05);
+  const cx=CW/2, cy=CH*0.45;
+  for(let a=0;a<360;a+=10){
+    const rad=a*Math.PI/180;
+    g.beginPath();
+    g.moveTo(cx+Math.cos(rad)*70, cy+Math.sin(rad)*50);
+    g.lineTo(cx+Math.cos(rad)*520, cy+Math.sin(rad)*380);
+    g.strokePath();
+  }
+}
+
+// ════════════════════════════════════════════════════════════════════════════
+// SCENE
+// ════════════════════════════════════════════════════════════════════════════
+class DuelScene extends Phaser.Scene {
+  constructor(){ super({key:'DuelScene'}) }
+
+  // ── state ────────────────────────────────────────────────────────────────
+  init(){
+    this.heroHP   = 100; this.heroMaxHP   = 100;
+    this.villainHP= 100; this.villainMaxHP= 100;
+    this.score=0; this.combo=0; this.maxCombo=0;
+    this.correctCount=0; this.wrongCount=0;
+    this.frame=0;
+    this.heroState='idle';    // idle|attack|hurt
+    this.villainState='idle'; // idle|attack|hurt|dead
+    this.chargeRatio=0;       // 0→1 villain charging
+    this.chargeTime=6000;     // ms per charge cycle (gets faster)
+    this.chargeStart=0;
+    this.questionActive=false;
+    this.usedQs=new Set();
+    this.roundNum=0;
+    this.qTimer=null;
+    this.qDuration=14000;
+    this.timerStart=0;
+    this.pendingAnswer=false;
+    this.onomats=[];
+    this.shakeHero=0; this.shakeVillain=0;
+    this.gameOver=false;
+    this.difficulty=1; // increases over rounds
+  }
+
+  preload(){
+    // generate a simple spark texture
+    const g = this.make.graphics({add:false});
+    g.fillStyle(0xffffff,1);
+    g.fillCircle(6,6,6);
+    g.generateTexture('spark_tex',12,12);
+    g.destroy();
+  }
+
+  create(){
+    // background graphics object (redrawn each frame for animations)
+    this.bgGfx = this.add.graphics().setDepth(0);
+    this.midGfx = this.add.graphics().setDepth(5);
+    this.heroGfx = this.add.graphics().setDepth(10);
+    this.villainGfx = this.add.graphics().setDepth(10);
+    this.fxGfx = this.add.graphics().setDepth(20);
+
+    // VS label
+    this.vsText = this.add.text(CW/2, CH*0.42,'VS',{
+      fontFamily:'Bangers',fontSize:'48px',color:'#f5e642',
+      stroke:'#1a0a2e',strokeThickness:6,alpha:0.18
+    }).setOrigin(0.5).setDepth(6);
+
+    // HP bars (using graphics, redrawn each frame)
+    this.hpGfx = this.add.graphics().setDepth(15);
+
+    // name labels
+    this.add.text(80, 18,'HERÓI',{fontFamily:'Bangers',fontSize:'18px',color:'#f5e642',stroke:'#000',strokeThickness:3}).setDepth(16);
+    this.add.text(CW-80,18,'VILÃO',{fontFamily:'Bangers',fontSize:'18px',color:'#f5e642',stroke:'#000',strokeThickness:3}).setOrigin(1,0).setDepth(16);
+
+    // score / combo
+    this.scoreTxt = this.add.text(CW/2,14,'',{fontFamily:'Bangers',fontSize:'20px',color:'#fff',stroke:'#000',strokeThickness:3}).setOrigin(0.5,0).setDepth(16);
+
+    // particles emitter
+    this.sparks = this.add.particles(0,0,'spark_tex',{
+      speed:{min:80,max:200}, lifespan:{min:250,max:500},
+      scale:{start:0.8,end:0}, quantity:0, emitting:false,
+      tint:[0xf5e642,0xff6b35,0x4ecca3,0xe94560,0xffffff]
+    }).setDepth(25);
+
+    // start first round
+    this.time.delayedCall(800,()=>this.startRound());
+  }
+
+  // ── ROUND ────────────────────────────────────────────────────────────────
+  startRound(){
+    if(this.gameOver) return;
+    this.roundNum++;
+    // difficulty ramps up
+    this.difficulty = 1 + (this.roundNum-1)*0.15;
+    this.chargeTime = Math.max(3500, 6000 - (this.roundNum-1)*400);
+    this.qDuration  = Math.max(8000, 14000 - (this.roundNum-1)*500);
+
+    this.chargeRatio=0;
+    this.chargeStart=this.time.now;
+    this.showQuestion();
+  }
+
+  // ── QUESTION ─────────────────────────────────────────────────────────────
+  showQuestion(){
+    this.questionActive=true;
+    this.pendingAnswer=false;
+
+    // pick question
+    const avail = Qs.map((_,i)=>i).filter(i=>!this.usedQs.has(i));
+    const pool = avail.length>0 ? avail : Qs.map((_,i)=>i);
+    const idx = pool[Math.floor(Math.random()*pool.length)];
+    this.usedQs.add(idx);
+    if(this.usedQs.size>=Qs.length) this.usedQs.clear();
+    this.currentQ = Qs[idx];
+
+    // populate HTML panel
+    const q = this.currentQ;
+    document.getElementById('q-text').textContent = q.q;
+
+    const opts = document.getElementById('q-opts');
+    opts.innerHTML='';
+    q.o.forEach((opt,i)=>{
+      const btn=document.createElement('button');
+      btn.className='q-btn'; btn.textContent=opt;
+      btn.onclick=()=>{ if(!this.pendingAnswer) this.answer(i===q.c,btn,i,q.c); };
+      opts.appendChild(btn);
+    });
+
+    // timer bar
+    this.timerStart=Date.now();
+    clearInterval(this.qTimer);
+    this.qTimer=setInterval(()=>{
+      const pct=Math.max(0,1-(Date.now()-this.timerStart)/this.qDuration);
+      const fill=document.getElementById('timer-fill');
+      fill.style.width=(pct*100)+'%';
+      fill.style.background=pct>0.5?'linear-gradient(90deg,#4ecca3,#f5e642)':
+                            pct>0.25?'linear-gradient(90deg,#ff8c00,#f5e642)':
+                            'linear-gradient(90deg,#e94560,#ff4400)';
+      document.getElementById('q-label').textContent=pct>0?`${Math.ceil(pct*this.qDuration/1000)}s`:'TEMPO!';
+      if(pct<=0){ clearInterval(this.qTimer); this.answer(false,null,-1,q.c); }
+    },80);
+
+    document.getElementById('q-panel').classList.add('active');
+    this.villainState='idle'; // villain is charging, not attacking yet
+  }
+
+  answer(correct, btn, chosenIdx, correctIdx){
+    if(this.pendingAnswer || this.gameOver) return;
+    this.pendingAnswer=true;
+    clearInterval(this.qTimer);
+
+    // mark buttons
+    document.querySelectorAll('.q-btn').forEach((b,i)=>{
+      b.disabled=true;
+      if(i===correctIdx) b.classList.add('correct');
+    });
+    if(btn && !correct) btn.classList.add('wrong');
+
+    if(correct){
+      this.correctCount++;
+      this.combo++;
+      if(this.combo>this.maxCombo) this.maxCombo=this.combo;
+      const dmg = Math.floor((15+this.combo*5)*this.difficulty);
+      this.score += 100 + (this.combo-1)*50;
+
+      // hero attacks!
+      this.heroState='attack';
+      this.time.delayedCall(180,()=>{
+        this.villainHP=Math.max(0,this.villainHP-dmg);
+        this.shakeVillain=18;
+        this.villainState='hurt';
+        this.spawnOnomat(CW*0.72,CH*0.35,['POW!','BAM!','CRACK!','ZAP!'][Math.floor(Math.random()*4)],0xf5e642);
+        this.spawnSparks(CW*0.72,CH*0.5,0xf5e642,20);
+        this.time.delayedCall(400,()=>{ this.villainState=this.villainHP<=0?'dead':'idle'; });
+        if(this.villainHP<=0) this.time.delayedCall(800,()=>this.endGame(true));
+      });
+      this.time.delayedCall(350,()=>{ this.heroState='idle'; });
+
+    } else {
+      this.wrongCount++;
+      this.combo=0;
+      // villain attacks immediately!
+      const dmg=Math.floor(20*this.difficulty);
+      this.villainState='attack';
+      this.heroHP=Math.max(0,this.heroHP-dmg);
+      this.shakeHero=18;
+      this.heroState='hurt';
+      this.spawnOnomat(CW*0.28,CH*0.35,['OUCH!','ARGH!','UGH!','NOO!'][Math.floor(Math.random()*4)],0xe94560);
+      this.spawnSparks(CW*0.28,CH*0.5,0xe94560,16);
+      this.time.delayedCall(400,()=>{
+        this.villainState='idle';
+        if(this.heroHP>0) this.heroState='idle';
+      });
+      if(this.heroHP<=0) this.time.delayedCall(800,()=>this.endGame(false));
+    }
+
+    this.scoreTxt.setText(`⭐ ${this.score}  ${this.combo>=2?'🔥×'+this.combo:''}`);
+
+    // next round after delay
+    if(!this.gameOver){
+      this.time.delayedCall(correct?1000:1400,()=>{
+        document.getElementById('q-panel').classList.remove('active');
+        this.questionActive=false;
+        this.chargeRatio=0;
+        this.time.delayedCall(600,()=>{ if(!this.gameOver) this.startRound(); });
+      });
+    }
+  }
+
+  // ── SPAWN ONOMATOPEIA ────────────────────────────────────────────────────
+  spawnOnomat(x,y,text,color){
+    const hex='#'+color.toString(16).padStart(6,'0');
+    const div=document.createElement('div');
+    div.className='onomat';
+    div.style.color=hex;
+    div.style.left=x+'px'; div.style.top=y+'px';
+    div.style.transform='translate(-50%,-50%)';
+    div.textContent=text;
+    document.getElementById('wrap').appendChild(div);
+    setTimeout(()=>div.remove(),1000);
+  }
+
+  spawnSparks(x,y,color,n){
+    this.sparks.setPosition(x,y);
+    this.sparks.setParticleTint(color);
+    this.sparks.explode(n);
+  }
+
+  // ── UPDATE ───────────────────────────────────────────────────────────────
+  update(time){
+    if(this.gameOver) return;
+    this.frame++;
+
+    // charge villain
+    if(this.questionActive){
+      const elapsed=time-this.chargeStart;
+      this.chargeRatio=Math.min(1,elapsed/this.chargeTime);
+    } else {
+      this.chargeRatio=Math.max(0,this.chargeRatio-0.04);
+    }
+
+    // shake offsets
+    const hsx=this.shakeHero>0?(Math.random()-0.5)*10:0;
+    const vsx=this.shakeVillain>0?(Math.random()-0.5)*10:0;
+    if(this.shakeHero>0)    this.shakeHero--;
+    if(this.shakeVillain>0) this.shakeVillain--;
+
+    // ── DRAW ────────────────────────────────────────────────────────────
+    this.bgGfx.clear();
+    drawBG(this.bgGfx,this.frame);
+
+    this.heroGfx.clear();
+    drawHero(this.heroGfx, CW*0.22+hsx, CH*0.58, this.heroState, this.frame);
+
+    this.villainGfx.clear();
+    drawVillain(this.villainGfx, CW*0.72+vsx, CH*0.58, this.villainState, this.frame, this.chargeRatio);
+
+    // HP bars
+    this.hpGfx.clear();
+    this.drawHPBars();
+
+    // charge warning pulse on border
+    if(this.chargeRatio>0.8){
+      const alpha=(Math.sin(this.frame*0.4)+1)*0.5*0.3*this.chargeRatio;
+      this.fxGfx.clear();
+      this.fxGfx.lineStyle(8,0xe94560,alpha);
+      this.fxGfx.beginPath();
+      this.fxGfx.moveTo(0,0);this.fxGfx.lineTo(CW,0);
+      this.fxGfx.lineTo(CW,CH);this.fxGfx.lineTo(0,CH);this.fxGfx.lineTo(0,0);
+      this.fxGfx.strokePath();
+    } else {
+      this.fxGfx.clear();
+    }
+  }
+
+  drawHPBars(){
+    const g=this.hpGfx;
+    const barW=220,barH=14,barY=22;
+    // hero bar (left)
+    const heroX=14;
+    g.fillStyle(0x000000,0.5); g.fillRoundedRect(heroX,barY,barW,barH,7);
+    const heroPct=this.heroHP/this.heroMaxHP;
+    const heroCol=heroPct>0.5?0x4ecca3:heroPct>0.25?0xffe66d:0xe94560;
+    g.fillStyle(heroCol); g.fillRoundedRect(heroX,barY,Math.max(7,barW*heroPct),barH,7);
+    // border via thin bright rect overlay
+    g.lineStyle(2,0xf5e642,0.8);
+    g.beginPath();
+    g.moveTo(heroX+7,barY); g.lineTo(heroX+barW-7,barY);
+    g.arc(heroX+barW-7,barY+7,7,-Math.PI/2,Math.PI/2);
+    g.lineTo(heroX+7,barY+barH);
+    g.arc(heroX+7,barY+7,7,Math.PI/2,Math.PI*1.5);
+    g.strokePath();
+
+    // villain bar (right, fills from right to left)
+    const vilX=CW-14-barW;
+    g.fillStyle(0x000000,0.5); g.fillRoundedRect(vilX,barY,barW,barH,7);
+    const vilPct=this.villainHP/this.villainMaxHP;
+    const vilCol=vilPct>0.5?0xe94560:vilPct>0.25?0xffe66d:0x4ecca3;
+    const fillW=Math.max(7,barW*vilPct);
+    g.fillStyle(vilCol); g.fillRoundedRect(vilX+barW-fillW,barY,fillW,barH,7);
+    g.lineStyle(2,0xf5e642,0.8);
+    g.beginPath();
+    g.moveTo(vilX+7,barY); g.lineTo(vilX+barW-7,barY);
+    g.arc(vilX+barW-7,barY+7,7,-Math.PI/2,Math.PI/2);
+    g.lineTo(vilX+7,barY+barH);
+    g.arc(vilX+7,barY+7,7,Math.PI/2,Math.PI*1.5);
+    g.strokePath();
+  }
+
+  // ── END GAME ─────────────────────────────────────────────────────────────
+  endGame(win){
+    if(this.gameOver) return;
+    this.gameOver=true;
+    clearInterval(this.qTimer);
+    document.getElementById('q-panel').classList.remove('active');
+    this.time.delayedCall(1200,()=>{
+      if(win){
+        document.getElementById('win-score').textContent=this.score;
+        document.getElementById('win-correct').textContent=this.correctCount;
+        document.getElementById('win-combo').textContent=this.maxCombo;
+        document.getElementById('screen-win').style.display='flex';
+      } else {
+        document.getElementById('over-score').textContent=this.score;
+        document.getElementById('over-correct').textContent=this.correctCount;
+        document.getElementById('over-wrong').textContent=this.wrongCount;
+        document.getElementById('screen-over').style.display='flex';
+      }
+    });
+  }
+}
+
+// ════════════════════════════════════════════════════════════════════════════
+// BOOT
+// ════════════════════════════════════════════════════════════════════════════
+let phaserGame=null;
+
+function startGame(){
+  document.getElementById('screen-intro').style.display='none';
+  document.getElementById('screen-win').style.display='none';
+  document.getElementById('screen-over').style.display='none';
+
+  if(phaserGame){ phaserGame.destroy(true); phaserGame=null; }
+
+  const maxW=Math.min(window.innerWidth-8, 720);
+
+  phaserGame=new Phaser.Game({
+    type:Phaser.AUTO,
+    width:CW, height:CH,
+    backgroundColor:'#1a0a2e',
+    parent:'wrap',
+    scene:DuelScene,
+    scale:{
+      mode:Phaser.Scale.FIT,
+      autoCenter:Phaser.Scale.CENTER_BOTH,
+      width:CW, height:CH,
+    },
+    render:{antialias:true,powerPreference:'high-performance'},
+  });
+}
+
+function restartGame(){
+  document.getElementById('screen-win').style.display='none';
+  document.getElementById('screen-over').style.display='none';
+  startGame();
+}
+</script>
+</body>
+</html>

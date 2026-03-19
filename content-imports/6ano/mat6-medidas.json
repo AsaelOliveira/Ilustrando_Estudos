@@ -1,0 +1,335 @@
+[
+  {
+    "id": "mat6-medidas",
+    "titulo": "Medidas de comprimento, massa, capacidade e tempo",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Grandezas e medidas",
+    "resumo": [
+      "As grandezas medem diferentes aspectos, como comprimento, massa, capacidade e tempo.",
+      "Cada tipo de medida possui unidades próprias, como metro, quilograma, litro e hora.",
+      "É importante escolher a unidade adequada para cada situação.",
+      "Algumas medidas podem ser convertidas entre unidades maiores e menores.",
+      "A leitura correta de problemas depende da compreensão das unidades usadas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Comprimento, massa e capacidade",
+        "texto": "Comprimento mede distâncias e tamanhos. Massa mede a quantidade de matéria de um corpo. Capacidade mede o quanto cabe em um recipiente. Em cada caso, usamos unidades adequadas, como metro, quilograma e litro.",
+        "dica": "Pense no que está sendo medido antes de escolher a unidade."
+      },
+      {
+        "subtitulo": "Tempo",
+        "texto": "O tempo organiza durações e momentos. Minutos, horas, dias, semanas e meses são exemplos de unidades de tempo. Elas aparecem em horários, calendários e duração de atividades.",
+        "dica": "Lembre-se de que 1 hora tem 60 minutos."
+      },
+      {
+        "subtitulo": "Conversões simples",
+        "texto": "Em muitos problemas, é preciso converter medidas. Sabemos, por exemplo, que 1 metro corresponde a 100 centímetros e 1 quilograma corresponde a 1.000 gramas. Essas relações ajudam na comparação e na resolução de cálculos.",
+        "dica": "Anote as equivalências mais usadas para facilitar as conversões."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Converta 2 metros em centímetros.",
+        "passos": [
+          "Sabemos que 1 metro corresponde a 100 centímetros.",
+          "Então 2 metros correspondem a 2 x 100 centímetros."
+        ],
+        "resposta": "2 metros correspondem a 200 centímetros."
+      },
+      {
+        "enunciado": "Converta 3 quilogramas em gramas.",
+        "passos": [
+          "Sabemos que 1 quilograma corresponde a 1.000 gramas.",
+          "Então 3 quilogramas correspondem a 3 x 1.000 gramas."
+        ],
+        "resposta": "3 quilogramas correspondem a 3.000 gramas."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-medidas-ex-01",
+        "enunciado": "Qual unidade é mais adequada para medir a altura de uma porta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "metro",
+          "litro",
+          "quilograma",
+          "hora"
+        ],
+        "respostaCorreta": "metro",
+        "explicacao": "A altura é uma medida de comprimento, por isso usamos metro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-02",
+        "enunciado": "Qual unidade é mais adequada para medir a massa de um pacote de arroz?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "litro",
+          "quilograma",
+          "metro",
+          "minuto"
+        ],
+        "respostaCorreta": "quilograma",
+        "explicacao": "A massa é medida em quilograma ou grama.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-03",
+        "enunciado": "Qual unidade é mais adequada para medir a capacidade de uma garrafa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "litro",
+          "metro",
+          "quilograma",
+          "dia"
+        ],
+        "respostaCorreta": "litro",
+        "explicacao": "Capacidade é medida em litro ou mililitro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-04",
+        "enunciado": "Quantos centímetros há em 1 metro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "100",
+          "1.000",
+          "60"
+        ],
+        "respostaCorreta": "100",
+        "explicacao": "Um metro equivale a cem centímetros.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-05",
+        "enunciado": "Quantos gramas há em 2 quilogramas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "200",
+          "2.000",
+          "20.000",
+          "120"
+        ],
+        "respostaCorreta": "2.000",
+        "explicacao": "Cada quilograma tem 1.000 gramas. Então 2 quilogramas têm 2.000 gramas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-06",
+        "enunciado": "Quantos minutos há em 1 hora?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "24",
+          "60",
+          "100"
+        ],
+        "respostaCorreta": "60",
+        "explicacao": "Uma hora corresponde a sessenta minutos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-07",
+        "enunciado": "Quantos centímetros há em 3 metros?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "30",
+          "300",
+          "3.000",
+          "130"
+        ],
+        "respostaCorreta": "300",
+        "explicacao": "Se 1 metro tem 100 centímetros, então 3 metros têm 300 centímetros.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-08",
+        "enunciado": "Qual alternativa apresenta uma medida de tempo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "litro",
+          "quilograma",
+          "hora",
+          "metro"
+        ],
+        "respostaCorreta": "hora",
+        "explicacao": "Hora é uma unidade usada para medir tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-09",
+        "enunciado": "Uma garrafa comporta 2 litros de água. Qual grandeza está sendo medida?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "massa",
+          "comprimento",
+          "capacidade",
+          "tempo"
+        ],
+        "respostaCorreta": "capacidade",
+        "explicacao": "O litro é uma unidade de capacidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-medidas-ex-10",
+        "enunciado": "Qual alternativa representa 4 quilogramas em gramas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "400 g",
+          "4.000 g",
+          "40.000 g",
+          "40 g"
+        ],
+        "respostaCorreta": "4.000 g",
+        "explicacao": "Cada quilograma vale 1.000 gramas. Então 4 quilogramas valem 4.000 gramas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-ex-11",
+        "enunciado": "Qual unidade é mais adequada para medir o comprimento de uma estrada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quilômetro",
+          "grama",
+          "litro",
+          "minuto"
+        ],
+        "respostaCorreta": "quilômetro",
+        "explicacao": "Estradas costumam ter grandes extensões, por isso usamos quilômetro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-ex-12",
+        "enunciado": "Qual alternativa está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1 hora = 100 minutos",
+          "1 metro = 10 centímetros",
+          "1 quilograma = 1.000 gramas",
+          "1 litro = 100 metros"
+        ],
+        "respostaCorreta": "1 quilograma = 1.000 gramas",
+        "explicacao": "Essa equivalência está correta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-ex-13",
+        "enunciado": "Um aluno afirmou que o litro mede massa. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque litro mede capacidade",
+          "correta, porque litro mede tempo",
+          "incorreta, porque litro mede comprimento"
+        ],
+        "respostaCorreta": "incorreta, porque litro mede capacidade",
+        "explicacao": "Litro é unidade de capacidade, não de massa.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-medidas-ex-14",
+        "enunciado": "Uma aula começou às 8h e terminou às 9h30. Quanto tempo durou?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "30 minutos",
+          "1 hora",
+          "1 hora e 30 minutos",
+          "2 horas"
+        ],
+        "respostaCorreta": "1 hora e 30 minutos",
+        "explicacao": "Das 8h às 9h30 passam-se uma hora e trinta minutos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-ex-15",
+        "enunciado": "Qual alternativa apresenta uma situação de comprimento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A massa de uma mala",
+          "A capacidade de um balde",
+          "A distância entre duas cidades",
+          "A duração de um filme"
+        ],
+        "respostaCorreta": "A distância entre duas cidades",
+        "explicacao": "Distância é uma grandeza de comprimento.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-medidas-sim-01",
+        "enunciado": "Qual alternativa apresenta a conversão correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2 m = 20 cm",
+          "5 kg = 500 g",
+          "3 h = 180 min",
+          "1 L = 10 m"
+        ],
+        "respostaCorreta": "3 h = 180 min",
+        "explicacao": "Cada hora tem 60 minutos, então 3 horas correspondem a 180 minutos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-sim-02",
+        "enunciado": "Qual unidade é mais adequada para medir a quantidade de suco em uma jarra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quilograma",
+          "litro",
+          "metro",
+          "hora"
+        ],
+        "respostaCorreta": "litro",
+        "explicacao": "A quantidade que cabe em uma jarra é uma medida de capacidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-sim-03",
+        "enunciado": "Uma fita mede 250 centímetros. Qual alternativa apresenta essa medida em metros e centímetros?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2 metros e 5 centímetros",
+          "2 metros e 50 centímetros",
+          "25 metros",
+          "250 metros"
+        ],
+        "respostaCorreta": "2 metros e 50 centímetros",
+        "explicacao": "Duzentos e cinquenta centímetros correspondem a 2 metros e 50 centímetros.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-medidas-sim-04",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Quilograma é uma unidade de capacidade'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque quilograma mede massa.",
+          "A frase é verdadeira apenas em alimentos.",
+          "A frase é falsa, porque quilograma mede tempo."
+        ],
+        "respostaCorreta": "A frase é falsa, porque quilograma mede massa.",
+        "explicacao": "Quilograma é unidade de massa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-medidas-sim-05",
+        "enunciado": "Uma atividade durou 2 horas e 15 minutos. Quantos minutos isso representa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "115",
+          "125",
+          "135",
+          "145"
+        ],
+        "respostaCorreta": "135",
+        "explicacao": "Duas horas correspondem a 120 minutos. Somando mais 15 minutos, obtemos 135.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

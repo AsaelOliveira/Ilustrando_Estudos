@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fraction Duel</title>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Lilita+One&family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#0a0e27;
+  --bg2:#111640;
+  --hero:#00d4ff;
+  --hero-glow:#00d4ff55;
+  --villain:#ff3366;
+  --villain-glow:#ff336655;
+  --gold:#ffd700;
+  --green:#00ff88;
+  --purple:#a855f7;
+  --card-bg:rgba(255,255,255,0.06);
+  --card-border:rgba(255,255,255,0.1);
+}
+html,body{height:100%;overflow:hidden}
+body{
+  background:var(--bg);
+  font-family:'Nunito',sans-serif;
+  color:#fff;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+/* ── STARFIELD ── */
+.stars{position:fixed;inset:0;z-index:0;overflow:hidden}
+.star{
+  position:absolute;
+  width:2px;height:2px;
+  background:#fff;
+  border-radius:50%;
+  animation:twinkle var(--d) ease-in-out infinite alternate;
+}
+@keyframes twinkle{0%{opacity:.15;transform:scale(1)}100%{opacity:.9;transform:scale(1.4)}}
+
+/* ── MAIN CONTAINER ── */
+.game{
+  position:relative;z-index:1;
+  width:min(96vw,520px);
+  height:min(96vh,780px);
+  display:flex;flex-direction:column;
+  gap:0;
+}
+
+/* ── HEADER / HP BARS ── */
+.header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 6px 8px;
+  gap:8px;
+}
+.hp-section{flex:1;display:flex;flex-direction:column;gap:3px}
+.hp-section.villain{align-items:flex-end}
+.hp-label{
+  font-family:'Lilita One',cursive;
+  font-size:13px;letter-spacing:1px;
+  text-transform:uppercase;
+}
+.hp-label.hero-label{color:var(--hero)}
+.hp-label.villain-label{color:var(--villain)}
+.hp-bar-track{
+  width:100%;height:14px;
+  background:rgba(255,255,255,0.08);
+  border-radius:10px;
+  overflow:hidden;
+  position:relative;
+  box-shadow:inset 0 2px 4px rgba(0,0,0,.4);
+}
+.hp-bar-fill{
+  height:100%;
+  border-radius:10px;
+  transition:width .6s cubic-bezier(.22,1,.36,1);
+  position:relative;
+}
+.hp-bar-fill::after{
+  content:'';position:absolute;inset:0;
+  border-radius:10px;
+  background:linear-gradient(180deg,rgba(255,255,255,.35) 0%,transparent 50%);
+}
+.hp-bar-fill.hero-fill{
+  background:linear-gradient(90deg,#00b4d8,#00d4ff,#48e8ff);
+  box-shadow:0 0 12px var(--hero-glow);
+}
+.hp-bar-fill.villain-fill{
+  background:linear-gradient(90deg,#ff6b6b,#ff3366,#ff1493);
+  box-shadow:0 0 12px var(--villain-glow);
+  float:right;
+}
+.hp-text{font-size:11px;font-weight:800;opacity:.7}
+.score-badge{
+  background:linear-gradient(135deg,#1a1f4e,#252b6e);
+  border:2px solid rgba(255,215,0,.3);
+  border-radius:16px;
+  padding:4px 14px;
+  display:flex;align-items:center;gap:5px;
+  font-family:'Fredoka',sans-serif;
+  font-weight:700;font-size:18px;
+  color:var(--gold);
+  box-shadow:0 0 20px rgba(255,215,0,.1);
+  min-width:58px;justify-content:center;
+}
+.score-badge .star-icon{font-size:16px}
+
+/* ── ARENA ── */
+.arena{
+  flex:1;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  position:relative;
+  min-height:0;
+}
+
+/* ── CHARACTERS ── */
+.fighters{
+  width:100%;
+  display:flex;justify-content:space-between;align-items:flex-end;
+  padding:0 16px;
+  position:relative;
+  height:120px;
+}
+.character{
+  display:flex;flex-direction:column;align-items:center;
+  gap:4px;
+  transition:transform .3s ease;
+}
+.character.shake{animation:shake .4s ease}
+@keyframes shake{
+  0%,100%{transform:translateX(0)}
+  20%{transform:translateX(-12px)}
+  40%{transform:translateX(10px)}
+  60%{transform:translateX(-8px)}
+  80%{transform:translateX(6px)}
+}
+.character.attack-right{animation:attackRight .5s ease}
+@keyframes attackRight{
+  0%,100%{transform:translateX(0)}
+  50%{transform:translateX(60px) scale(1.1)}
+}
+.character.attack-left{animation:attackLeft .5s ease}
+@keyframes attackLeft{
+  0%,100%{transform:translateX(0)}
+  50%{transform:translateX(-60px) scale(1.1)}
+}
+.char-sprite{
+  width:80px;height:80px;
+  border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  font-size:42px;
+  position:relative;
+}
+.char-sprite.hero-sprite{
+  background:radial-gradient(circle at 40% 35%,#1a8cff,#0052cc);
+  box-shadow:0 0 30px var(--hero-glow),0 8px 25px rgba(0,0,0,.4);
+  border:3px solid rgba(0,212,255,.4);
+}
+.char-sprite.villain-sprite{
+  background:radial-gradient(circle at 60% 35%,#cc0044,#880033);
+  box-shadow:0 0 30px var(--villain-glow),0 8px 25px rgba(0,0,0,.4);
+  border:3px solid rgba(255,51,102,.4);
+}
+.char-name{
+  font-family:'Lilita One',cursive;
+  font-size:11px;letter-spacing:2px;
+  padding:2px 10px;
+  border-radius:6px;
+  text-transform:uppercase;
+}
+.char-name.hero-name{background:rgba(0,212,255,.2);color:var(--hero)}
+.char-name.villain-name{background:rgba(255,51,102,.2);color:var(--villain)}
+
+/* ── GROUND LINE ── */
+.ground{
+  width:100%;height:4px;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,.08) 20%,rgba(255,255,255,.08) 80%,transparent);
+  margin-top:-2px;
+}
+
+/* ── QUESTION AREA ── */
+.question-area{
+  padding:16px 12px;
+  display:flex;flex-direction:column;
+  align-items:center;gap:14px;
+}
+.question-card{
+  background:linear-gradient(135deg,rgba(255,255,255,.07),rgba(255,255,255,.02));
+  border:1px solid var(--card-border);
+  border-radius:20px;
+  padding:20px 24px;
+  text-align:center;
+  width:100%;
+  backdrop-filter:blur(8px);
+  box-shadow:0 8px 32px rgba(0,0,0,.3);
+}
+.question-label{
+  font-size:11px;font-weight:800;
+  text-transform:uppercase;letter-spacing:3px;
+  color:rgba(255,255,255,.4);
+  margin-bottom:8px;
+}
+.question-text{
+  font-family:'Fredoka',sans-serif;
+  font-size:22px;font-weight:600;
+  line-height:1.4;
+  color:#fff;
+}
+.fraction{display:inline-flex;flex-direction:column;align-items:center;margin:0 6px;vertical-align:middle}
+.fraction .num,.fraction .den{font-size:22px;line-height:1.1}
+.fraction .frac-line{width:100%;height:2px;background:#fff;margin:2px 0;border-radius:2px;min-width:20px}
+
+/* ── OPTIONS ── */
+.options{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:10px;
+  width:100%;
+}
+.option-btn{
+  background:linear-gradient(135deg,rgba(255,255,255,.08),rgba(255,255,255,.03));
+  border:2px solid rgba(255,255,255,.12);
+  border-radius:16px;
+  padding:14px 8px;
+  color:#fff;
+  font-family:'Fredoka',sans-serif;
+  font-size:20px;font-weight:600;
+  cursor:pointer;
+  transition:all .2s ease;
+  position:relative;
+  overflow:hidden;
+}
+.option-btn::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(circle at center,rgba(255,255,255,.06),transparent 70%);
+  opacity:0;transition:opacity .2s;
+}
+.option-btn:hover{
+  border-color:rgba(255,255,255,.3);
+  transform:translateY(-2px);
+  box-shadow:0 6px 20px rgba(0,0,0,.3);
+}
+.option-btn:hover::before{opacity:1}
+.option-btn:active{transform:translateY(0);transition:transform .05s}
+.option-btn.correct{
+  border-color:var(--green);
+  background:rgba(0,255,136,.15);
+  box-shadow:0 0 25px rgba(0,255,136,.2);
+  animation:popCorrect .4s ease;
+}
+@keyframes popCorrect{0%{transform:scale(1)}50%{transform:scale(1.06)}100%{transform:scale(1)}}
+.option-btn.wrong{
+  border-color:var(--villain);
+  background:rgba(255,51,102,.15);
+  box-shadow:0 0 25px rgba(255,51,102,.2);
+  animation:shakeBtn .35s ease;
+}
+@keyframes shakeBtn{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+.option-btn:disabled{cursor:default;opacity:.5}
+.option-btn:disabled:hover{transform:none;box-shadow:none;border-color:rgba(255,255,255,.12)}
+.option-btn.correct:disabled,.option-btn.wrong:disabled{opacity:1}
+
+/* ── FEEDBACK ── */
+.feedback{
+  font-family:'Lilita One',cursive;
+  font-size:18px;
+  letter-spacing:1px;
+  min-height:28px;
+  display:flex;align-items:center;gap:6px;
+  transition:all .3s ease;
+}
+.feedback.correct-fb{color:var(--green)}
+.feedback.wrong-fb{color:var(--villain)}
+
+/* ── PROGRESS ── */
+.progress-section{
+  padding:8px 16px 14px;
+  display:flex;flex-direction:column;align-items:center;gap:6px;
+}
+.progress-dots{display:flex;gap:6px}
+.dot{
+  width:10px;height:10px;
+  border-radius:50%;
+  background:rgba(255,255,255,.12);
+  border:1.5px solid rgba(255,255,255,.15);
+  transition:all .3s ease;
+}
+.dot.correct-dot{background:var(--green);border-color:var(--green);box-shadow:0 0 8px rgba(0,255,136,.4)}
+.dot.wrong-dot{background:var(--villain);border-color:var(--villain);box-shadow:0 0 8px rgba(255,51,102,.4)}
+.dot.current-dot{border-color:var(--gold);box-shadow:0 0 8px rgba(255,215,0,.4)}
+.progress-text{
+  font-size:12px;font-weight:700;
+  color:rgba(255,255,255,.4);
+}
+
+/* ── SCREENS ── */
+.screen{
+  position:absolute;inset:0;z-index:100;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  gap:20px;
+  background:radial-gradient(ellipse at center,rgba(10,14,39,.95),var(--bg));
+  backdrop-filter:blur(6px);
+  opacity:0;pointer-events:none;
+  transition:opacity .4s ease;
+}
+.screen.active{opacity:1;pointer-events:all}
+.screen-title{
+  font-family:'Lilita One',cursive;
+  font-size:clamp(36px,8vw,52px);
+  text-transform:uppercase;
+  letter-spacing:3px;
+  text-align:center;
+}
+.screen-title.hero-win{
+  background:linear-gradient(135deg,var(--hero),var(--green));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+.screen-title.villain-win{
+  background:linear-gradient(135deg,var(--villain),#ff8800);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+.screen-subtitle{
+  font-family:'Fredoka',sans-serif;
+  font-size:16px;color:rgba(255,255,255,.6);
+  text-align:center;
+}
+.start-btn,.restart-btn{
+  font-family:'Lilita One',cursive;
+  font-size:20px;letter-spacing:2px;
+  text-transform:uppercase;
+  padding:14px 40px;
+  border:none;border-radius:16px;
+  cursor:pointer;
+  color:#fff;
+  position:relative;
+  transition:transform .2s,box-shadow .2s;
+}
+.start-btn{
+  background:linear-gradient(135deg,#00b4d8,#0077b6);
+  box-shadow:0 6px 24px rgba(0,180,216,.35);
+}
+.restart-btn{
+  background:linear-gradient(135deg,var(--purple),#7c3aed);
+  box-shadow:0 6px 24px rgba(168,85,247,.35);
+}
+.start-btn:hover,.restart-btn:hover{transform:translateY(-2px);box-shadow:0 8px 30px rgba(0,180,216,.45)}
+.start-btn:active,.restart-btn:active{transform:translateY(0)}
+
+.game-logo{
+  font-family:'Lilita One',cursive;
+  font-size:clamp(28px,7vw,42px);
+  text-align:center;
+  line-height:1.2;
+}
+.game-logo .line1{
+  display:block;
+  background:linear-gradient(135deg,var(--hero),#48e8ff);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+.game-logo .line2{
+  display:block;
+  background:linear-gradient(135deg,var(--villain),#ff6b9d);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+
+.emoji-big{font-size:64px;margin-bottom:-8px}
+
+.difficulty-select{display:flex;gap:10px;margin-top:4px}
+.diff-btn{
+  font-family:'Fredoka',sans-serif;
+  font-size:14px;font-weight:600;
+  padding:8px 18px;
+  border-radius:12px;
+  border:2px solid rgba(255,255,255,.15);
+  background:rgba(255,255,255,.06);
+  color:#fff;cursor:pointer;
+  transition:all .2s;
+}
+.diff-btn:hover,.diff-btn.selected{
+  border-color:var(--gold);
+  background:rgba(255,215,0,.12);
+  color:var(--gold);
+}
+
+/* ── DAMAGE POPUP ── */
+.damage-popup{
+  position:absolute;
+  font-family:'Lilita One',cursive;
+  font-size:28px;
+  pointer-events:none;
+  animation:damageFloat 1s ease-out forwards;
+  z-index:50;
+  text-shadow:0 2px 8px rgba(0,0,0,.6);
+}
+@keyframes damageFloat{
+  0%{opacity:1;transform:translateY(0) scale(1)}
+  60%{opacity:1;transform:translateY(-40px) scale(1.2)}
+  100%{opacity:0;transform:translateY(-60px) scale(.8)}
+}
+
+/* ── PARTICLES ── */
+.particle{
+  position:absolute;
+  width:6px;height:6px;
+  border-radius:50%;
+  pointer-events:none;
+  z-index:50;
+}
+</style>
+</head>
+<body>
+
+<div class="stars" id="stars"></div>
+
+<div class="game" id="game">
+  <!-- HEADER -->
+  <div class="header">
+    <div class="hp-section hero">
+      <span class="hp-label hero-label">⚔ HERÓI</span>
+      <div class="hp-bar-track"><div class="hp-bar-fill hero-fill" id="heroBar" style="width:100%"></div></div>
+      <span class="hp-text" id="heroHpText">100 HP</span>
+    </div>
+    <div class="score-badge"><span class="star-icon">⭐</span><span id="score">0</span></div>
+    <div class="hp-section villain">
+      <span class="hp-label villain-label">VILÃO 💀</span>
+      <div class="hp-bar-track"><div class="hp-bar-fill villain-fill" id="villainBar" style="width:100%"></div></div>
+      <span class="hp-text" id="villainHpText">100 HP</span>
+    </div>
+  </div>
+
+  <!-- ARENA -->
+  <div class="arena" id="arena">
+    <div class="fighters">
+      <div class="character" id="heroChar">
+        <div class="char-sprite hero-sprite">🤖</div>
+        <span class="char-name hero-name">HERÓI</span>
+      </div>
+      <div class="character" id="villainChar">
+        <div class="char-sprite villain-sprite">👾</div>
+        <span class="char-name villain-name">VILÃO</span>
+      </div>
+    </div>
+    <div class="ground"></div>
+  </div>
+
+  <!-- QUESTION -->
+  <div class="question-area">
+    <div class="question-card">
+      <div class="question-label">Responda</div>
+      <div class="question-text" id="questionText">—</div>
+    </div>
+    <div class="options" id="options"></div>
+    <div class="feedback" id="feedback">&nbsp;</div>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="progress-section">
+    <div class="progress-dots" id="dots"></div>
+    <div class="progress-text" id="progressText">Rodada 1 / 10</div>
+  </div>
+
+  <!-- START SCREEN -->
+  <div class="screen active" id="startScreen">
+    <div class="emoji-big">⚔️</div>
+    <div class="game-logo">
+      <span class="line1">FRACTION</span>
+      <span class="line2">DUEL</span>
+    </div>
+    <div class="screen-subtitle">Domine as frações e derrote o Vilão!</div>
+    <div class="difficulty-select">
+      <button class="diff-btn selected" data-diff="easy">Fácil</button>
+      <button class="diff-btn" data-diff="medium">Médio</button>
+      <button class="diff-btn" data-diff="hard">Difícil</button>
+    </div>
+    <button class="start-btn" id="startBtn">JOGAR</button>
+  </div>
+
+  <!-- END SCREEN -->
+  <div class="screen" id="endScreen">
+    <div class="emoji-big" id="endEmoji">🏆</div>
+    <div class="screen-title" id="endTitle">—</div>
+    <div class="screen-subtitle" id="endSubtitle">—</div>
+    <button class="restart-btn" id="restartBtn">JOGAR DE NOVO</button>
+  </div>
+</div>
+
+<script>
+// ── STARS ──
+(function(){
+  const c=document.getElementById('stars');
+  for(let i=0;i<80;i++){
+    const s=document.createElement('div');
+    s.className='star';
+    s.style.left=Math.random()*100+'%';
+    s.style.top=Math.random()*100+'%';
+    s.style.setProperty('--d',(1.5+Math.random()*3)+'s');
+    s.style.animationDelay=(-Math.random()*3)+'s';
+    if(Math.random()>.7){s.style.width='3px';s.style.height='3px'}
+    c.appendChild(s);
+  }
+})();
+
+// ── GAME STATE ──
+const TOTAL=10;
+let difficulty='easy';
+let heroHp,villainHp,currentQ,score,round,answers,questions;
+
+// ── ELEMENTS ──
+const $=id=>document.getElementById(id);
+const heroBar=$('heroBar'),villainBar=$('villainBar');
+const heroHpText=$('heroHpText'),villainHpText=$('villainHpText');
+const scoreTxt=$('score'),questionText=$('questionText');
+const optionsDiv=$('options'),feedbackDiv=$('feedback');
+const dots=$('dots'),progressText=$('progressText');
+const heroChar=$('heroChar'),villainChar=$('villainChar');
+const arena=$('arena');
+
+// ── DIFFICULTY BUTTONS ──
+document.querySelectorAll('.diff-btn').forEach(b=>{
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.diff-btn').forEach(x=>x.classList.remove('selected'));
+    b.classList.add('selected');
+    difficulty=b.dataset.diff;
+  });
+});
+
+// ── QUESTION GENERATOR ──
+function gcd(a,b){return b?gcd(b,a%b):a}
+function simplify(n,d){const g=gcd(Math.abs(n),Math.abs(d));return[n/g,d/g]}
+function randInt(min,max){return Math.floor(Math.random()*(max-min+1))+min}
+
+function generateQuestion(){
+  const types=difficulty==='easy'?['compare','identify']:
+               difficulty==='medium'?['compare','identify','add','equivalent']:
+               ['compare','add','subtract','multiply','equivalent'];
+  const type=types[randInt(0,types.length-1)];
+  
+  switch(type){
+    case 'compare': return genCompare();
+    case 'identify': return genIdentify();
+    case 'add': return genAdd();
+    case 'subtract': return genSubtract();
+    case 'multiply': return genMultiply();
+    case 'equivalent': return genEquivalent();
+    default: return genCompare();
+  }
+}
+
+function fracHtml(n,d){
+  return `<span class="fraction"><span class="num">${n}</span><span class="frac-line"></span><span class="den">${d}</span></span>`;
+}
+
+function genCompare(){
+  const d1=randInt(2,8),d2=randInt(2,8);
+  const n1=randInt(1,d1-1),n2=randInt(1,d2-1);
+  const v1=n1/d1,v2=n2/d2;
+  if(Math.abs(v1-v2)<0.01) return genCompare();
+  const ans=v1>v2?`${n1}/${d1}`:`${n2}/${d2}`;
+  return{
+    text:`Qual é maior? ${fracHtml(n1,d1)} ou ${fracHtml(n2,d2)}`,
+    options:[`${n1}/${d1}`,`${n2}/${d2}`,`São iguais`],
+    answer:ans,
+    optDisplay:[fracHtml(n1,d1),fracHtml(n2,d2),'São iguais']
+  };
+}
+
+function genIdentify(){
+  const d=randInt(2,10);
+  const n=randInt(1,d-1);
+  const total=randInt(5,12);
+  const colored=Math.round(total*n/d)||1;
+  const squares=Array(total).fill('⬜').fill('🟦',0,colored);
+  const ans=`${n}/${d}`;
+  const [sn,sd]=simplify(n,d);
+  // Generate wrong options
+  const wrongs=new Set();
+  while(wrongs.size<2){
+    const wn=randInt(1,d);
+    const wd=randInt(2,10);
+    const w=`${wn}/${wd}`;
+    if(w!==ans && wn/wd!==n/d) wrongs.add(w);
+  }
+  const opts=[ans,...wrongs];
+  // shuffle
+  for(let i=opts.length-1;i>0;i--){const j=randInt(0,i);[opts[i],opts[j]]=[opts[j],opts[i]]}
+  return{
+    text:`${squares.join('')}<br>Qual fração representa a parte azul?`,
+    options:opts,
+    answer:ans,
+    optDisplay:opts.map(o=>{const[a,b]=o.split('/');return fracHtml(a,b)})
+  };
+}
+
+function genAdd(){
+  const d=randInt(2,8);
+  const n1=randInt(1,d-1),n2=randInt(1,d-1);
+  const rn=n1+n2;
+  const[sn,sd]=simplify(rn,d);
+  const ans=`${sn}/${sd}`;
+  const wrongs=new Set();
+  while(wrongs.size<2){
+    const wn=randInt(1,12);
+    const wd=randInt(2,10);
+    const w=`${wn}/${wd}`;
+    if(wn/wd!==sn/sd) wrongs.add(w);
+  }
+  const opts=[ans,...wrongs];
+  for(let i=opts.length-1;i>0;i--){const j=randInt(0,i);[opts[i],opts[j]]=[opts[j],opts[i]]}
+  return{
+    text:`${fracHtml(n1,d)} + ${fracHtml(n2,d)} = ?`,
+    options:opts,
+    answer:ans,
+    optDisplay:opts.map(o=>{const[a,b]=o.split('/');return fracHtml(a,b)})
+  };
+}
+
+function genSubtract(){
+  const d=randInt(2,8);
+  let n1=randInt(2,d),n2=randInt(1,d-1);
+  if(n1<n2)[n1,n2]=[n2,n1];
+  if(n1===n2)n1=Math.min(n1+1,d);
+  const rn=n1-n2;
+  const[sn,sd]=simplify(rn,d);
+  const ans=`${sn}/${sd}`;
+  const wrongs=new Set();
+  while(wrongs.size<2){
+    const wn=randInt(1,8);
+    const wd=randInt(2,10);
+    const w=`${wn}/${wd}`;
+    if(wn/wd!==sn/sd) wrongs.add(w);
+  }
+  const opts=[ans,...wrongs];
+  for(let i=opts.length-1;i>0;i--){const j=randInt(0,i);[opts[i],opts[j]]=[opts[j],opts[i]]}
+  return{
+    text:`${fracHtml(n1,d)} − ${fracHtml(n2,d)} = ?`,
+    options:opts,
+    answer:ans,
+    optDisplay:opts.map(o=>{const[a,b]=o.split('/');return fracHtml(a,b)})
+  };
+}
+
+function genMultiply(){
+  const d1=randInt(2,6),d2=randInt(2,6);
+  const n1=randInt(1,d1),n2=randInt(1,d2);
+  const rn=n1*n2,rd=d1*d2;
+  const[sn,sd]=simplify(rn,rd);
+  const ans=`${sn}/${sd}`;
+  const wrongs=new Set();
+  while(wrongs.size<2){
+    const wn=randInt(1,10);
+    const wd=randInt(2,12);
+    const w=`${wn}/${wd}`;
+    if(wn/wd!==sn/sd) wrongs.add(w);
+  }
+  const opts=[ans,...wrongs];
+  for(let i=opts.length-1;i>0;i--){const j=randInt(0,i);[opts[i],opts[j]]=[opts[j],opts[i]]}
+  return{
+    text:`${fracHtml(n1,d1)} × ${fracHtml(n2,d2)} = ?`,
+    options:opts,
+    answer:ans,
+    optDisplay:opts.map(o=>{const[a,b]=o.split('/');return fracHtml(a,b)})
+  };
+}
+
+function genEquivalent(){
+  const d=randInt(2,6),n=randInt(1,d-1);
+  const mult=randInt(2,4);
+  const eqN=n*mult,eqD=d*mult;
+  const ans=`${eqN}/${eqD}`;
+  const wrongs=new Set();
+  while(wrongs.size<2){
+    const wn=randInt(1,12);
+    const wd=randInt(2,12);
+    const w=`${wn}/${wd}`;
+    if(wn/wd!==n/d) wrongs.add(w);
+  }
+  const opts=[ans,...wrongs];
+  for(let i=opts.length-1;i>0;i--){const j=randInt(0,i);[opts[i],opts[j]]=[opts[j],opts[i]]}
+  return{
+    text:`Qual é equivalente a ${fracHtml(n,d)}?`,
+    options:opts,
+    answer:ans,
+    optDisplay:opts.map(o=>{const[a,b]=o.split('/');return fracHtml(a,b)})
+  };
+}
+
+// ── PARTICLES ──
+function spawnParticles(x,y,color,count=8){
+  for(let i=0;i<count;i++){
+    const p=document.createElement('div');
+    p.className='particle';
+    p.style.background=color;
+    p.style.left=x+'px';p.style.top=y+'px';
+    const angle=Math.random()*Math.PI*2;
+    const dist=40+Math.random()*60;
+    const dx=Math.cos(angle)*dist;
+    const dy=Math.sin(angle)*dist;
+    p.style.transition='all .6s cubic-bezier(.22,1,.36,1)';
+    arena.appendChild(p);
+    requestAnimationFrame(()=>{
+      p.style.transform=`translate(${dx}px,${dy}px)`;
+      p.style.opacity='0';
+    });
+    setTimeout(()=>p.remove(),700);
+  }
+}
+
+// ── DAMAGE POPUP ──
+function showDamage(target,amount,color){
+  const el=document.createElement('div');
+  el.className='damage-popup';
+  el.textContent=`-${amount}`;
+  el.style.color=color;
+  const rect=target.getBoundingClientRect();
+  const gameRect=document.getElementById('game').getBoundingClientRect();
+  el.style.left=(rect.left-gameRect.left+rect.width/2-20)+'px';
+  el.style.top=(rect.top-gameRect.top-10)+'px';
+  document.getElementById('game').appendChild(el);
+  setTimeout(()=>el.remove(),1100);
+}
+
+// ── UPDATE UI ──
+function updateHp(){
+  heroBar.style.width=Math.max(0,heroHp)+'%';
+  villainBar.style.width=Math.max(0,villainHp)+'%';
+  heroHpText.textContent=Math.max(0,heroHp)+' HP';
+  villainHpText.textContent=Math.max(0,villainHp)+' HP';
+}
+function updateScore(){scoreTxt.textContent=score}
+function updateDots(){
+  dots.innerHTML='';
+  for(let i=0;i<TOTAL;i++){
+    const d=document.createElement('div');
+    d.className='dot';
+    if(i<answers.length) d.classList.add(answers[i]?'correct-dot':'wrong-dot');
+    if(i===round) d.classList.add('current-dot');
+    dots.appendChild(d);
+  }
+  progressText.textContent=`Rodada ${Math.min(round+1,TOTAL)} / ${TOTAL}`;
+}
+
+// ── SHOW QUESTION ──
+function showQuestion(){
+  if(round>=TOTAL || heroHp<=0 || villainHp<=0){endGame();return}
+  const q=generateQuestion();
+  currentQ=q;
+  questionText.innerHTML=q.text;
+  optionsDiv.innerHTML='';
+  feedbackDiv.innerHTML='&nbsp;';
+  feedbackDiv.className='feedback';
+  
+  q.options.forEach((opt,i)=>{
+    const btn=document.createElement('button');
+    btn.className='option-btn';
+    btn.innerHTML=q.optDisplay?q.optDisplay[i]:opt;
+    btn.addEventListener('click',()=>handleAnswer(opt,btn));
+    optionsDiv.appendChild(btn);
+  });
+  updateDots();
+}
+
+// ── HANDLE ANSWER ──
+function handleAnswer(chosen,btn){
+  const btns=optionsDiv.querySelectorAll('.option-btn');
+  btns.forEach(b=>b.disabled=true);
+  
+  const isCorrect=chosen===currentQ.answer;
+  
+  if(isCorrect){
+    btn.classList.add('correct');
+    feedbackDiv.textContent='✓ ACERTOU!';
+    feedbackDiv.className='feedback correct-fb';
+    score++;
+    updateScore();
+    answers.push(true);
+    
+    // Hero attacks villain
+    const dmg=difficulty==='easy'?15:difficulty==='medium'?20:25;
+    heroChar.classList.add('attack-right');
+    setTimeout(()=>{
+      heroChar.classList.remove('attack-right');
+      villainChar.classList.add('shake');
+      villainHp=Math.max(0,villainHp-dmg);
+      updateHp();
+      const rect=villainChar.getBoundingClientRect();
+      const gameRect=document.getElementById('game').getBoundingClientRect();
+      spawnParticles(rect.left-gameRect.left+40,rect.top-gameRect.top+30,'#ff3366');
+      showDamage(villainChar,dmg,'#ff3366');
+      setTimeout(()=>villainChar.classList.remove('shake'),500);
+    },250);
+  } else {
+    btn.classList.add('wrong');
+    feedbackDiv.textContent='✗ ERROU!';
+    feedbackDiv.className='feedback wrong-fb';
+    answers.push(false);
+    
+    // Show correct
+    btns.forEach(b=>{
+      const val=b.textContent||'';
+      // Check by matching option text
+    });
+    
+    // Villain attacks hero
+    const dmg=difficulty==='easy'?12:difficulty==='medium'?18:25;
+    villainChar.classList.add('attack-left');
+    setTimeout(()=>{
+      villainChar.classList.remove('attack-left');
+      heroChar.classList.add('shake');
+      heroHp=Math.max(0,heroHp-dmg);
+      updateHp();
+      const rect=heroChar.getBoundingClientRect();
+      const gameRect=document.getElementById('game').getBoundingClientRect();
+      spawnParticles(rect.left-gameRect.left+40,rect.top-gameRect.top+30,'#00d4ff');
+      showDamage(heroChar,dmg,'#00d4ff');
+      setTimeout(()=>heroChar.classList.remove('shake'),500);
+    },250);
+  }
+  
+  round++;
+  setTimeout(showQuestion,1400);
+}
+
+// ── END GAME ──
+function endGame(){
+  const heroWon=villainHp<=0||(heroHp>0&&score>=Math.ceil(TOTAL/2));
+  $('endEmoji').textContent=heroWon?'🏆':'💀';
+  $('endTitle').textContent=heroWon?'VITÓRIA!':'DERROTA!';
+  $('endTitle').className='screen-title '+(heroWon?'hero-win':'villain-win');
+  $('endSubtitle').textContent=`Você acertou ${score} de ${TOTAL} perguntas!`;
+  $('endScreen').classList.add('active');
+}
+
+// ── START / RESTART ──
+function startGame(){
+  heroHp=100;villainHp=100;score=0;round=0;answers=[];
+  updateHp();updateScore();updateDots();
+  $('startScreen').classList.remove('active');
+  $('endScreen').classList.remove('active');
+  showQuestion();
+}
+
+$('startBtn').addEventListener('click',startGame);
+$('restartBtn').addEventListener('click',startGame);
+</script>
+</body>
+</html>

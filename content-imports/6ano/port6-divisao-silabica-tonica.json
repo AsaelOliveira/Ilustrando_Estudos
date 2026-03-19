@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-divisao-silabica-tonica",
+    "titulo": "Divisão silábica e sílaba tônica",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Estrutura das palavras",
+    "resumo": [
+      "As palavras podem ser divididas em sílabas, que são grupos de sons pronunciados de uma vez.",
+      "Toda palavra apresenta uma sílaba pronunciada com mais força, chamada sílaba tônica.",
+      "Algumas palavras têm uma sílaba, outras têm duas, três ou mais sílabas.",
+      "Reconhecer a sílaba tônica ajuda na leitura, na pronúncia e na acentuação.",
+      "A divisão silábica exige atenção à organização dos sons dentro da palavra."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é divisão silábica",
+        "texto": "Divisão silábica é a separação das palavras em sílabas. Em escola, por exemplo, podemos separar a palavra em es-co-la. Essa divisão ajuda a perceber como a palavra é organizada e contribui para a leitura correta.",
+        "dica": "Pronuncie a palavra lentamente e observe em quantas partes sonoras ela pode ser dividida."
+      },
+      {
+        "subtitulo": "O que é sílaba tônica",
+        "texto": "A sílaba tônica é a sílaba pronunciada com mais força em uma palavra. Em caderno, a sílaba tônica é der. Em árvore, a sílaba mais forte é ár. Identificar essa sílaba ajuda o aluno a pronunciar melhor as palavras e a compreender aspectos da acentuação.",
+        "dica": "Ao falar a palavra em voz alta, tente perceber qual sílaba recebe mais destaque."
+      },
+      {
+        "subtitulo": "Quantidade de sílabas",
+        "texto": "As palavras podem ser classificadas quanto ao número de sílabas. Palavras com uma sílaba são monossílabas, como sol. Com duas sílabas, dissílabas, como casa. Com três sílabas, trissílabas, como caderno. Com quatro ou mais sílabas, polissílabas, como biblioteca.",
+        "dica": "Conte as sílabas da palavra antes de classificá-la."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a palavra \"janela\".",
+        "passos": [
+          "A palavra pode ser dividida em ja-ne-la.",
+          "Ela apresenta três sílabas.",
+          "A sílaba pronunciada com mais força é ne."
+        ],
+        "resposta": "Janela é uma palavra trissílaba, e sua sílaba tônica é ne."
+      },
+      {
+        "enunciado": "Observe a palavra \"sol\".",
+        "passos": [
+          "A palavra tem apenas uma sílaba.",
+          "Quando a palavra tem uma única sílaba, essa sílaba é a tônica.",
+          "Por isso, sol é uma palavra monossílaba."
+        ],
+        "resposta": "Sol é uma palavra monossílaba."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-divisao-silabica-tonica-ex-01",
+        "enunciado": "Qual alternativa apresenta a divisão silábica correta da palavra \"caderno\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ca-de-r-no",
+          "ca-der-no",
+          "cad-er-no",
+          "c-ad-er-no"
+        ],
+        "respostaCorreta": "ca-der-no",
+        "explicacao": "A palavra caderno é corretamente dividida em ca-der-no.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-02",
+        "enunciado": "Na palavra \"janela\", a sílaba tônica é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ja",
+          "ne",
+          "la",
+          "jan"
+        ],
+        "respostaCorreta": "ne",
+        "explicacao": "Ao pronunciar janela, a sílaba ne recebe maior intensidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-03",
+        "enunciado": "Qual palavra é monossílaba?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "casa",
+          "escola",
+          "sol",
+          "janela"
+        ],
+        "respostaCorreta": "sol",
+        "explicacao": "Sol tem apenas uma sílaba, por isso é monossílaba.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-04",
+        "enunciado": "Qual alternativa apresenta uma palavra dissílaba?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "livro",
+          "biblioteca",
+          "caderno",
+          "professora"
+        ],
+        "respostaCorreta": "livro",
+        "explicacao": "Livro tem duas sílabas: li-vro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-05",
+        "enunciado": "A palavra \"menino\" é classificada quanto ao número de sílabas como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "monossílaba",
+          "dissílaba",
+          "trissílaba",
+          "polissílaba"
+        ],
+        "respostaCorreta": "trissílaba",
+        "explicacao": "Menino é dividida em me-ni-no, por isso tem três sílabas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-06",
+        "enunciado": "Na palavra \"biblioteca\", a sílaba tônica é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bi",
+          "bli",
+          "o",
+          "te"
+        ],
+        "respostaCorreta": "te",
+        "explicacao": "Ao pronunciar biblioteca, a sílaba te recebe maior intensidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-07",
+        "enunciado": "Qual alternativa apresenta corretamente uma palavra polissílaba?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sol",
+          "casa",
+          "caderno",
+          "professora"
+        ],
+        "respostaCorreta": "professora",
+        "explicacao": "Professora tem mais de três sílabas, por isso é polissílaba.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-08",
+        "enunciado": "Qual alternativa mostra corretamente a divisão silábica da palavra \"professora\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pro-fes-so-ra",
+          "pro-fe-ss-or-a",
+          "pr-of-es-so-ra",
+          "prof-es-sora"
+        ],
+        "respostaCorreta": "pro-fes-so-ra",
+        "explicacao": "A divisão silábica correta da palavra é pro-fes-so-ra.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-09",
+        "enunciado": "Na palavra \"café\", a sílaba tônica é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ca",
+          "fé",
+          "caf",
+          "é"
+        ],
+        "respostaCorreta": "fé",
+        "explicacao": "Na palavra café, a sílaba tônica é fé.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-10",
+        "enunciado": "Qual alternativa apresenta corretamente a classificação da palavra \"escola\"?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "monossílaba",
+          "dissílaba",
+          "trissílaba",
+          "polissílaba"
+        ],
+        "respostaCorreta": "trissílaba",
+        "explicacao": "Escola é dividida em es-co-la, portanto tem três sílabas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-11",
+        "enunciado": "Qual alternativa apresenta a melhor definição de sílaba tônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É a última letra da palavra.",
+          "É a sílaba pronunciada com mais força.",
+          "É a sílaba que sempre recebe acento gráfico.",
+          "É a sílaba escrita com letra maiúscula."
+        ],
+        "respostaCorreta": "É a sílaba pronunciada com mais força.",
+        "explicacao": "A sílaba tônica é aquela que recebe maior intensidade na pronúncia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-12",
+        "enunciado": "Assinale a alternativa correta sobre a divisão silábica.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Toda palavra tem exatamente duas sílabas.",
+          "A divisão silábica separa a palavra em partes sonoras.",
+          "A divisão silábica serve apenas para palavras com acento.",
+          "A divisão silábica não ajuda na leitura."
+        ],
+        "respostaCorreta": "A divisão silábica separa a palavra em partes sonoras.",
+        "explicacao": "Essa alternativa apresenta corretamente a função da divisão silábica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-13",
+        "enunciado": "Qual alternativa apresenta uma palavra em que a sílaba tônica está na última sílaba?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "janela",
+          "caderno",
+          "café",
+          "árvore"
+        ],
+        "respostaCorreta": "café",
+        "explicacao": "Na palavra café, a sílaba tônica é a última: fé.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-14",
+        "enunciado": "Qual alternativa apresenta uma frase sem erro em relação à classificação silábica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sol é uma palavra dissílaba.",
+          "Escola é uma palavra trissílaba.",
+          "Livro é uma palavra polissílaba.",
+          "Caderno é uma palavra monossílaba."
+        ],
+        "respostaCorreta": "Escola é uma palavra trissílaba.",
+        "explicacao": "Escola tem três sílabas, por isso é trissílaba.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-ex-15",
+        "enunciado": "Qual alternativa apresenta a melhor conclusão sobre divisão silábica e sílaba tônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ajudam na leitura, na pronúncia e na escrita correta das palavras.",
+          "Elas servem apenas para decorar palavras.",
+          "Elas não têm relação com a leitura.",
+          "Elas são usadas somente em poemas."
+        ],
+        "respostaCorreta": "Elas ajudam na leitura, na pronúncia e na escrita correta das palavras.",
+        "explicacao": "Divisão silábica e sílaba tônica contribuem para a leitura e para o domínio da língua escrita.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-divisao-silabica-tonica-sim-01",
+        "enunciado": "Na palavra \"janela\", qual alternativa apresenta corretamente a divisão silábica e a sílaba tônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ja-ne-la; tônica: ne",
+          "jan-e-la; tônica: ja",
+          "ja-ne-la; tônica: la",
+          "ja-nel-a; tônica: ne"
+        ],
+        "respostaCorreta": "ja-ne-la; tônica: ne",
+        "explicacao": "A divisão correta é ja-ne-la, e a sílaba tônica é ne.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-sim-02",
+        "enunciado": "Qual alternativa apresenta uma palavra polissílaba com a sílaba tônica corretamente identificada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "biblioteca; tônica: te",
+          "caderno; tônica: ca",
+          "livro; tônica: ro",
+          "sol; tônica: so"
+        ],
+        "respostaCorreta": "biblioteca; tônica: te",
+        "explicacao": "Biblioteca é polissílaba, e sua sílaba tônica é te.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-sim-03",
+        "enunciado": "Assinale a alternativa correta sobre a importância da sílaba tônica.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela ajuda na pronúncia correta das palavras.",
+          "Ela serve apenas para separar letras.",
+          "Ela substitui a acentuação gráfica.",
+          "Ela aparece somente em palavras longas."
+        ],
+        "respostaCorreta": "Ela ajuda na pronúncia correta das palavras.",
+        "explicacao": "Identificar a sílaba tônica contribui para a leitura e para a pronúncia adequada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-sim-04",
+        "enunciado": "Na palavra \"menino\", quantas sílabas existem e qual delas é tônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "duas sílabas; ni",
+          "três sílabas; ni",
+          "três sílabas; me",
+          "quatro sílabas; no"
+        ],
+        "respostaCorreta": "três sílabas; ni",
+        "explicacao": "Menino é dividido em me-ni-no, e a sílaba tônica é ni.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-divisao-silabica-tonica-sim-05",
+        "enunciado": "Qual alternativa apresenta uma frase construída com informação correta sobre a palavra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A palavra sol é trissílaba.",
+          "A palavra livro é dissílaba.",
+          "A palavra escola é monossílaba.",
+          "A palavra professora é dissílaba."
+        ],
+        "respostaCorreta": "A palavra livro é dissílaba.",
+        "explicacao": "Livro tem duas sílabas e, portanto, é dissílaba.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

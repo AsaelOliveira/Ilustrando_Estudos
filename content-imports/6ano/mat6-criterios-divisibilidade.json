@@ -1,0 +1,337 @@
+[
+  {
+    "id": "mat6-criterios-divisibilidade",
+    "titulo": "Critérios de divisibilidade",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Números naturais",
+    "resumo": [
+      "Os critérios de divisibilidade ajudam a descobrir se uma divisão é exata sem precisar efetuá-la por completo.",
+      "Todo número par é divisível por 2.",
+      "Um número é divisível por 3 quando a soma de seus algarismos é múltipla de 3.",
+      "Um número é divisível por 5 quando termina em 0 ou 5.",
+      "Um número é divisível por 10 quando termina em 0."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Para que servem os critérios",
+        "texto": "Os critérios de divisibilidade tornam mais rápida a análise de números. Em vez de fazer a conta completa, podemos observar certas características do número e concluir se ele é divisível por outro.",
+        "dica": "Antes de dividir, verifique se o número atende ao critério correspondente."
+      },
+      {
+        "subtitulo": "Critérios mais usados",
+        "texto": "Um número é divisível por 2 quando termina em 0, 2, 4, 6 ou 8. É divisível por 3 quando a soma dos seus algarismos é múltipla de 3. É divisível por 5 quando termina em 0 ou 5, e por 10 quando termina em 0.",
+        "dica": "Observe o último algarismo para os critérios de 2, 5 e 10."
+      },
+      {
+        "subtitulo": "Aplicação em problemas",
+        "texto": "Esses critérios ajudam na identificação de múltiplos, divisores e agrupamentos exatos. Eles também são importantes para reconhecer padrões numéricos e resolver exercícios com mais agilidade.",
+        "dica": "No caso da divisibilidade por 3, some os algarismos com calma antes de responder."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Verifique se 246 é divisível por 3.",
+        "passos": [
+          "Some os algarismos: 2 + 4 + 6 = 12.",
+          "O número 12 é divisível por 3.",
+          "Logo, 246 também é divisível por 3."
+        ],
+        "resposta": "Sim, 246 é divisível por 3."
+      },
+      {
+        "enunciado": "Verifique se 1.350 é divisível por 10.",
+        "passos": [
+          "Observe o último algarismo do número.",
+          "O número 1.350 termina em 0.",
+          "Todo número terminado em 0 é divisível por 10."
+        ],
+        "resposta": "Sim, 1.350 é divisível por 10."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-criterios-divisibilidade-ex-01",
+        "enunciado": "Qual número é divisível por 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "135",
+          "247",
+          "368",
+          "511"
+        ],
+        "respostaCorreta": "368",
+        "explicacao": "O número 368 termina em 8, por isso é divisível por 2.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-02",
+        "enunciado": "Qual número é divisível por 5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "243",
+          "317",
+          "420",
+          "684"
+        ],
+        "respostaCorreta": "420",
+        "explicacao": "Todo número terminado em 0 ou 5 é divisível por 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-03",
+        "enunciado": "Qual número é divisível por 10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "450",
+          "455",
+          "452",
+          "454"
+        ],
+        "respostaCorreta": "450",
+        "explicacao": "Para ser divisível por 10, o número precisa terminar em 0.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-04",
+        "enunciado": "Qual número é divisível por 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "124",
+          "231",
+          "425",
+          "517"
+        ],
+        "respostaCorreta": "231",
+        "explicacao": "A soma dos algarismos de 231 é 2 + 3 + 1 = 6, que é divisível por 3.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-05",
+        "enunciado": "Se um número termina em 6, ele certamente é divisível por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "3",
+          "5",
+          "10"
+        ],
+        "respostaCorreta": "2",
+        "explicacao": "Todo número terminado em 0, 2, 4, 6 ou 8 é divisível por 2.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-06",
+        "enunciado": "Qual número não é divisível por 5?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "115",
+          "230",
+          "442",
+          "605"
+        ],
+        "respostaCorreta": "442",
+        "explicacao": "O número 442 não termina em 0 nem em 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-07",
+        "enunciado": "Qual alternativa apresenta um número divisível por 2 e por 5 ao mesmo tempo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "145",
+          "230",
+          "372",
+          "515"
+        ],
+        "respostaCorreta": "230",
+        "explicacao": "Um número divisível por 2 e por 5 ao mesmo tempo termina em 0.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-08",
+        "enunciado": "Qual número tem soma dos algarismos igual a 9 e, por isso, é divisível por 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "214",
+          "333",
+          "425",
+          "512"
+        ],
+        "respostaCorreta": "333",
+        "explicacao": "A soma 3 + 3 + 3 é 9, que é divisível por 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-09",
+        "enunciado": "Qual alternativa está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todo número terminado em 5 é divisível por 10.",
+          "Todo número terminado em 0 é divisível por 5 e por 10.",
+          "Todo número par é divisível por 3.",
+          "Todo número divisível por 3 termina em 3."
+        ],
+        "respostaCorreta": "Todo número terminado em 0 é divisível por 5 e por 10.",
+        "explicacao": "Se o número termina em 0, ele atende aos critérios de divisibilidade por 5 e por 10.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-10",
+        "enunciado": "Qual número é divisível por 3 e por 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "124",
+          "216",
+          "335",
+          "451"
+        ],
+        "respostaCorreta": "216",
+        "explicacao": "O número 216 é par e a soma de seus algarismos é 9, que é divisível por 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-11",
+        "enunciado": "Se a soma dos algarismos de um número é 18, o que podemos afirmar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele é divisível por 3.",
+          "Ele é sempre divisível por 10.",
+          "Ele é sempre divisível por 5.",
+          "Ele é sempre ímpar."
+        ],
+        "respostaCorreta": "Ele é divisível por 3.",
+        "explicacao": "Como 18 é divisível por 3, o número também será divisível por 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-12",
+        "enunciado": "Qual alternativa apresenta um número que não é divisível por 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "114",
+          "207",
+          "318",
+          "421"
+        ],
+        "respostaCorreta": "421",
+        "explicacao": "A soma dos algarismos de 421 é 7, que não é divisível por 3.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-13",
+        "enunciado": "Um aluno afirmou que 645 é divisível por 10 porque termina em 5. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta, porque termina em 5",
+          "incorreta, porque para ser divisível por 10 precisa terminar em 0",
+          "correta, porque é divisível por 5",
+          "incorreta, porque números terminados em 5 são ímpares"
+        ],
+        "respostaCorreta": "incorreta, porque para ser divisível por 10 precisa terminar em 0",
+        "explicacao": "O critério de divisibilidade por 10 exige que o número termine em 0.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-14",
+        "enunciado": "Qual alternativa mostra corretamente um número divisível por 2, por 5 e por 10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "250",
+          "255",
+          "252",
+          "245"
+        ],
+        "respostaCorreta": "250",
+        "explicacao": "Todo número terminado em 0 é divisível por 2, por 5 e por 10.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-ex-15",
+        "enunciado": "Qual alternativa apresenta uma afirmação incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Números terminados em 0 são divisíveis por 10.",
+          "Números pares são divisíveis por 2.",
+          "Todo número divisível por 5 termina em 0.",
+          "A soma dos algarismos ajuda a verificar a divisibilidade por 3."
+        ],
+        "respostaCorreta": "Todo número divisível por 5 termina em 0.",
+        "explicacao": "Números divisíveis por 5 podem terminar em 0 ou em 5.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-criterios-divisibilidade-sim-01",
+        "enunciado": "Qual alternativa apresenta um número divisível por 3, mas não divisível por 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "126",
+          "153",
+          "240",
+          "318"
+        ],
+        "respostaCorreta": "153",
+        "explicacao": "A soma dos algarismos de 153 é 9, então ele é divisível por 3. Como termina em 3, não é divisível por 2.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-sim-02",
+        "enunciado": "Qual alternativa apresenta um número divisível por 2, por 3 e por 5 ao mesmo tempo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "120",
+          "125",
+          "132",
+          "145"
+        ],
+        "respostaCorreta": "120",
+        "explicacao": "O número 120 termina em 0 e a soma dos algarismos é 3, portanto atende aos três critérios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Se um número é divisível por 10, então ele também é divisível por 5'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é falsa.",
+          "A frase é verdadeira.",
+          "A frase só vale para números pares.",
+          "A frase só vale para números menores que 100."
+        ],
+        "respostaCorreta": "A frase é verdadeira.",
+        "explicacao": "Todo número divisível por 10 termina em 0, e números terminados em 0 também são divisíveis por 5.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-sim-04",
+        "enunciado": "Se a soma dos algarismos de um número é 21, qual conclusão é correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O número certamente é divisível por 3.",
+          "O número certamente é divisível por 10.",
+          "O número certamente termina em 5.",
+          "O número certamente é par."
+        ],
+        "respostaCorreta": "O número certamente é divisível por 3.",
+        "explicacao": "Como 21 é divisível por 3, o número também será divisível por 3.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-criterios-divisibilidade-sim-05",
+        "enunciado": "Qual alternativa apresenta corretamente um número divisível por 5, mas não por 10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "120",
+          "250",
+          "375",
+          "640"
+        ],
+        "respostaCorreta": "375",
+        "explicacao": "O número 375 termina em 5, então é divisível por 5, mas não termina em 0 e por isso não é divisível por 10.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

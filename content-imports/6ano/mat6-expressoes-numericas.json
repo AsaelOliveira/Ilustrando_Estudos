@@ -1,0 +1,335 @@
+[
+  {
+    "id": "mat6-expressoes-numericas",
+    "titulo": "Expressões numéricas",
+    "disciplinaId": "mat6",
+    "turmaId": "6ano",
+    "unidade": "Operações fundamentais",
+    "resumo": [
+      "Expressões numéricas reúnem números e operações em uma mesma escrita.",
+      "A ordem das operações deve ser respeitada para encontrar o resultado correto.",
+      "Parênteses, colchetes e chaves indicam prioridades de cálculo.",
+      "Multiplicações e divisões são resolvidas antes de adições e subtrações, quando não há sinais de associação.",
+      "Resolver uma expressão com atenção evita erros de interpretação."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ordem das operações",
+        "texto": "Em uma expressão numérica, primeiro resolvemos o que está dentro dos sinais de associação, começando pelos parênteses, depois colchetes e, em seguida, chaves. Depois resolvemos multiplicações e divisões, e por fim adições e subtrações.",
+        "dica": "Faça a resolução em etapas para não se perder."
+      },
+      {
+        "subtitulo": "Sinais de associação",
+        "texto": "Parênteses, colchetes e chaves servem para organizar a expressão e mostrar o que precisa ser resolvido antes. Eles ajudam a deixar claro o caminho do cálculo.",
+        "dica": "Sempre comece pelo sinal mais interno."
+      },
+      {
+        "subtitulo": "Atenção aos detalhes",
+        "texto": "Uma pequena troca na ordem das contas pode mudar completamente o resultado. Por isso, é importante copiar a expressão corretamente e acompanhar cada etapa com cuidado.",
+        "dica": "Reescreva a expressão a cada passo para visualizar o que ainda falta resolver."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva 8 + 3 x 2.",
+        "passos": [
+          "Primeiro resolvemos a multiplicação: 3 x 2 = 6.",
+          "Depois fazemos a adição: 8 + 6 = 14."
+        ],
+        "resposta": "O valor da expressão é 14."
+      },
+      {
+        "enunciado": "Resolva (12 - 4) x 3.",
+        "passos": [
+          "Primeiro resolvemos o que está entre parênteses: 12 - 4 = 8.",
+          "Depois multiplicamos 8 por 3."
+        ],
+        "resposta": "O valor da expressão é 24."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat6-expressoes-numericas-ex-01",
+        "enunciado": "Qual é o valor de 6 + 2 x 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "14",
+          "24",
+          "32",
+          "16"
+        ],
+        "respostaCorreta": "14",
+        "explicacao": "Primeiro resolvemos a multiplicação: 2 x 4 = 8. Depois somamos 6 + 8 = 14.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-02",
+        "enunciado": "Qual é o valor de (9 + 3) x 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "15",
+          "18",
+          "24",
+          "30"
+        ],
+        "respostaCorreta": "24",
+        "explicacao": "Primeiro resolvemos o parêntese: 9 + 3 = 12. Depois multiplicamos por 2.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-03",
+        "enunciado": "Qual é o valor de 20 - 8 ÷ 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "12",
+          "16",
+          "24"
+        ],
+        "respostaCorreta": "16",
+        "explicacao": "Primeiro resolvemos a divisão: 8 ÷ 2 = 4. Depois fazemos 20 - 4 = 16.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-04",
+        "enunciado": "Qual é o valor de (18 ÷ 3) + 7?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "respostaCorreta": "13",
+        "explicacao": "Primeiro resolvemos o parêntese: 18 ÷ 3 = 6. Depois somamos 6 + 7 = 13.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-05",
+        "enunciado": "Qual operação deve ser resolvida primeiro em 5 + 4 x 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5 + 4",
+          "4 x 3",
+          "5 + 3",
+          "nenhuma, tudo ao mesmo tempo"
+        ],
+        "respostaCorreta": "4 x 3",
+        "explicacao": "Multiplicações vêm antes de adições quando não há sinais de associação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-06",
+        "enunciado": "Qual é o valor de 7 x (6 - 2)?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "14",
+          "21",
+          "28",
+          "42"
+        ],
+        "respostaCorreta": "28",
+        "explicacao": "Primeiro resolvemos o parêntese: 6 - 2 = 4. Depois multiplicamos 7 x 4 = 28.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-07",
+        "enunciado": "Qual é o valor de 30 ÷ 5 + 6?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "10",
+          "12",
+          "36"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Primeiro fazemos 30 ÷ 5 = 6. Depois somamos 6 + 6 = 12.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-08",
+        "enunciado": "Qual é o valor de (15 - 5) ÷ 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "3",
+          "4",
+          "5",
+          "10"
+        ],
+        "respostaCorreta": "5",
+        "explicacao": "Primeiro 15 - 5 = 10. Depois 10 ÷ 2 = 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-09",
+        "enunciado": "Qual alternativa apresenta o valor de 4 + 18 ÷ 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "8",
+          "10",
+          "12",
+          "22"
+        ],
+        "respostaCorreta": "10",
+        "explicacao": "Primeiro 18 ÷ 3 = 6. Depois 4 + 6 = 10.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-10",
+        "enunciado": "Qual é o valor de [12 - (4 + 2)] x 3?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12",
+          "18",
+          "24",
+          "30"
+        ],
+        "respostaCorreta": "18",
+        "explicacao": "Primeiro 4 + 2 = 6. Depois 12 - 6 = 6. Por fim, 6 x 3 = 18.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-11",
+        "enunciado": "Qual alternativa está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Em 2 + 3 x 4, faz-se primeiro 2 + 3.",
+          "Em 2 + 3 x 4, faz-se primeiro 3 x 4.",
+          "Em 2 + 3 x 4, a ordem não altera o resultado.",
+          "Em 2 + 3 x 4, faz-se primeiro 2 x 4."
+        ],
+        "respostaCorreta": "Em 2 + 3 x 4, faz-se primeiro 3 x 4.",
+        "explicacao": "Multiplicações devem ser resolvidas antes das adições quando não há sinais de associação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-12",
+        "enunciado": "Um aluno calculou 8 + 2 x 5 como 50. Qual foi o erro mais provável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele somou 8 + 2 e depois multiplicou por 5.",
+          "Ele dividiu antes de somar.",
+          "Ele resolveu corretamente.",
+          "Ele ignorou a multiplicação."
+        ],
+        "respostaCorreta": "Ele somou 8 + 2 e depois multiplicou por 5.",
+        "explicacao": "O aluno não respeitou a ordem correta das operações.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-13",
+        "enunciado": "Qual é o valor de {20 - [6 + (4 ÷ 2)]}?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Primeiro 4 ÷ 2 = 2. Depois 6 + 2 = 8. Por fim, 20 - 8 = 12.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-14",
+        "enunciado": "Qual é o valor de 9 + 9 ÷ 3 x 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "12",
+          "15",
+          "18",
+          "24"
+        ],
+        "respostaCorreta": "15",
+        "explicacao": "Primeiro 9 ÷ 3 = 3. Depois 3 x 2 = 6. Por fim, 9 + 6 = 15.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-ex-15",
+        "enunciado": "Qual alternativa apresenta uma sequência correta de resolução?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "primeiro adição, depois multiplicação, depois parênteses",
+          "primeiro o que está entre sinais de associação, depois multiplicações e divisões, depois adições e subtrações",
+          "primeiro multiplicação, depois parênteses, depois adição",
+          "primeiro divisão, depois colchetes, depois chaves"
+        ],
+        "respostaCorreta": "primeiro o que está entre sinais de associação, depois multiplicações e divisões, depois adições e subtrações",
+        "explicacao": "Essa é a ordem correta de resolução das expressões numéricas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat6-expressoes-numericas-sim-01",
+        "enunciado": "Qual é o valor de 5 x (8 - 3) + 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "25",
+          "27",
+          "30",
+          "37"
+        ],
+        "respostaCorreta": "27",
+        "explicacao": "Primeiro 8 - 3 = 5. Depois 5 x 5 = 25. Por fim, 25 + 2 = 27.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-expressoes-numericas-sim-02",
+        "enunciado": "Qual é o valor de [24 ÷ (3 + 1)] x 2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "10",
+          "12",
+          "16"
+        ],
+        "respostaCorreta": "12",
+        "explicacao": "Primeiro 3 + 1 = 4. Depois 24 ÷ 4 = 6. Por fim, 6 x 2 = 12.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-expressoes-numericas-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Em 10 - 2 x 3, devemos subtrair primeiro'?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque a multiplicação vem antes.",
+          "A frase é verdadeira apenas se houver colchetes.",
+          "A frase é falsa, porque a divisão vem antes."
+        ],
+        "respostaCorreta": "A frase é falsa, porque a multiplicação vem antes.",
+        "explicacao": "Sem sinais de associação, multiplicação é resolvida antes de subtração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat6-expressoes-numericas-sim-04",
+        "enunciado": "Qual é o valor de {(14 - 6) x 2} ÷ 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "respostaCorreta": "4",
+        "explicacao": "Primeiro 14 - 6 = 8. Depois 8 x 2 = 16. Por fim, 16 ÷ 4 = 4.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat6-expressoes-numericas-sim-05",
+        "enunciado": "Qual alternativa apresenta o resultado correto de 18 - 3 x (2 + 1)?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9",
+          "12",
+          "15",
+          "45"
+        ],
+        "respostaCorreta": "9",
+        "explicacao": "Primeiro 2 + 1 = 3. Depois 3 x 3 = 9. Por fim, 18 - 9 = 9.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

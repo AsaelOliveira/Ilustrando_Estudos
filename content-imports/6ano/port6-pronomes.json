@@ -1,0 +1,337 @@
+[
+  {
+    "id": "port6-pronomes",
+    "titulo": "Pronomes",
+    "disciplinaId": "port6",
+    "turmaId": "6ano",
+    "unidade": "Classes de palavras",
+    "resumo": [
+      "Pronome é a palavra que acompanha ou substitui o substantivo, evitando repetições e organizando melhor o texto.",
+      "Os pronomes podem indicar pessoa do discurso, posse, demonstração, quantidade indefinida e outros sentidos.",
+      "Os pronomes pessoais ajudam a identificar quem fala, com quem se fala e de quem se fala.",
+      "Os pronomes possessivos indicam ideia de posse, como meu, sua e nossos.",
+      "Os pronomes demonstrativos ajudam a localizar seres ou objetos em relação às pessoas do discurso, como este, esse e aquele."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são pronomes",
+        "texto": "Pronomes são palavras usadas para acompanhar ou substituir os substantivos. Em vez de repetir o nome de uma pessoa, de um objeto ou de um lugar várias vezes, o texto pode usar pronomes para ficar mais claro e mais fluido. Na frase Ana chegou cedo. Ela trouxe os livros, a palavra ela substitui o nome Ana.",
+        "dica": "Observe se a palavra está retomando um nome já citado ou acompanhando esse nome. Se isso acontecer, ela pode ser um pronome."
+      },
+      {
+        "subtitulo": "Pronomes pessoais, possessivos e demonstrativos",
+        "texto": "Os pronomes pessoais indicam as pessoas do discurso, como eu, tu, ele, ela, nós e eles. Os pronomes possessivos mostram ideia de posse, como meu caderno, sua mochila e nossa escola. Já os pronomes demonstrativos localizam ou destacam algo, como este livro, essa cadeira e aquele prédio.",
+        "dica": "Pergunte qual é a função da palavra na frase: indicar pessoa, posse ou posição em relação a quem fala."
+      },
+      {
+        "subtitulo": "O papel dos pronomes no texto",
+        "texto": "Os pronomes tornam a escrita menos repetitiva e ajudam a conectar as informações ao longo do texto. Quando bem usados, eles permitem que o leitor compreenda a quem ou a que elemento o autor está se referindo. Por isso, aprender pronomes é importante tanto para a leitura quanto para a produção de textos.",
+        "dica": "Quando encontrar um pronome, tente descobrir a que palavra ele se refere dentro da frase ou do texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase \"Pedro chegou cedo. Ele entrou na sala.\"",
+        "passos": [
+          "Na primeira frase, Pedro é o nome da pessoa mencionada.",
+          "Na segunda frase, a palavra ele retoma Pedro.",
+          "Assim, ele funciona como pronome e evita a repetição do nome."
+        ],
+        "resposta": "Na frase, a palavra \"ele\" é um pronome que substitui o nome Pedro."
+      },
+      {
+        "enunciado": "Observe a expressão \"nossa turma\".",
+        "passos": [
+          "A palavra turma é um substantivo.",
+          "A palavra nossa acompanha o substantivo e indica posse.",
+          "Por isso, nossa é um pronome possessivo."
+        ],
+        "resposta": "Na expressão \"nossa turma\", a palavra \"nossa\" é um pronome possessivo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port6-pronomes-ex-01",
+        "enunciado": "Qual alternativa apresenta um pronome?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bonito",
+          "livro",
+          "ela",
+          "rapidamente"
+        ],
+        "respostaCorreta": "ela",
+        "explicacao": "Ela é pronome porque pode substituir um substantivo e indicar a pessoa de quem se fala.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-02",
+        "enunciado": "Na frase \"Marina trouxe a mochila dela\", qual palavra é pronome?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Marina",
+          "mochila",
+          "dela",
+          "trouxe"
+        ],
+        "respostaCorreta": "dela",
+        "explicacao": "Dela é pronome porque indica posse em relação à mochila.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-03",
+        "enunciado": "Assinale a alternativa que apresenta um pronome pessoal.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "meu",
+          "esse",
+          "nós",
+          "algum"
+        ],
+        "respostaCorreta": "nós",
+        "explicacao": "Nós é pronome pessoal, pois indica uma das pessoas do discurso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-04",
+        "enunciado": "Qual alternativa apresenta um pronome possessivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aquilo",
+          "eu",
+          "seu",
+          "ninguém"
+        ],
+        "respostaCorreta": "seu",
+        "explicacao": "Seu é pronome possessivo porque indica posse.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-05",
+        "enunciado": "Na expressão \"este caderno\", a palavra \"este\" é classificada como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pronome pessoal",
+          "pronome demonstrativo",
+          "pronome possessivo",
+          "pronome indefinido"
+        ],
+        "respostaCorreta": "pronome demonstrativo",
+        "explicacao": "Este é pronome demonstrativo porque localiza ou destaca o substantivo caderno.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-06",
+        "enunciado": "Em qual alternativa o pronome substitui um nome já mencionado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "João estudou. Ele fez a tarefa.",
+          "A escola abriu cedo.",
+          "A turma copiou a lição.",
+          "O caderno caiu no chão."
+        ],
+        "respostaCorreta": "João estudou. Ele fez a tarefa.",
+        "explicacao": "Nessa alternativa, ele substitui o nome João e evita sua repetição.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-07",
+        "enunciado": "Qual alternativa apresenta um pronome demonstrativo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "meu",
+          "essa",
+          "eu",
+          "nosso"
+        ],
+        "respostaCorreta": "essa",
+        "explicacao": "Essa é pronome demonstrativo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-08",
+        "enunciado": "Na frase \"Nossa professora explicou o conteúdo\", qual palavra é pronome?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "professora",
+          "nossa",
+          "explicou",
+          "conteúdo"
+        ],
+        "respostaCorreta": "nossa",
+        "explicacao": "Nossa é pronome possessivo porque indica posse em relação à professora.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas pronomes?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eu, meu, aquele",
+          "caderno, meu, escola",
+          "bonito, ela, rápido",
+          "nós, livro, esse"
+        ],
+        "respostaCorreta": "eu, meu, aquele",
+        "explicacao": "As três palavras da alternativa correta são pronomes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-10",
+        "enunciado": "Leia a frase: \"Ana e Beatriz chegaram. Elas sentaram juntas.\" O pronome \"elas\" retoma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "somente Ana",
+          "somente Beatriz",
+          "Ana e Beatriz",
+          "juntas"
+        ],
+        "respostaCorreta": "Ana e Beatriz",
+        "explicacao": "Elas retoma as duas pessoas mencionadas anteriormente: Ana e Beatriz.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-11",
+        "enunciado": "Em qual alternativa o pronome indica posse?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eles chegaram cedo",
+          "aquele prédio é alto",
+          "meu livro está na mochila",
+          "ela saiu da sala"
+        ],
+        "respostaCorreta": "meu livro está na mochila",
+        "explicacao": "Meu é pronome possessivo porque indica posse do livro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-12",
+        "enunciado": "Qual alternativa completa corretamente a frase \"___ turma venceu a gincana\" com um pronome possessivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nossa",
+          "ela",
+          "aquele",
+          "ninguém"
+        ],
+        "respostaCorreta": "nossa",
+        "explicacao": "Nossa é pronome possessivo e combina corretamente com o substantivo turma.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port6-pronomes-ex-13",
+        "enunciado": "Assinale a alternativa correta sobre os pronomes.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pronomes servem apenas para indicar ações.",
+          "Pronomes podem substituir ou acompanhar substantivos.",
+          "Pronomes são usados somente no plural.",
+          "Pronomes nunca aparecem em textos narrativos."
+        ],
+        "respostaCorreta": "Pronomes podem substituir ou acompanhar substantivos.",
+        "explicacao": "Essa alternativa apresenta corretamente a função dos pronomes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-14",
+        "enunciado": "Na frase \"Aquele menino correu muito\", o pronome \"aquele\" ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indicar uma ação",
+          "localizar ou destacar o substantivo",
+          "substituir um verbo",
+          "marcar o tempo da frase"
+        ],
+        "respostaCorreta": "localizar ou destacar o substantivo",
+        "explicacao": "Aquele é pronome demonstrativo e ajuda a destacar ou localizar o substantivo menino.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-ex-15",
+        "enunciado": "Qual alternativa apresenta um pronome e um substantivo, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escola nossa",
+          "meu caderno",
+          "feliz menino",
+          "correr ela"
+        ],
+        "respostaCorreta": "meu caderno",
+        "explicacao": "Meu é pronome e caderno é substantivo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port6-pronomes-sim-01",
+        "enunciado": "Leia a frase: \"Carlos perdeu o livro, mas ele o encontrou depois.\" A palavra \"ele\" se refere a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "livro",
+          "Carlos",
+          "depois",
+          "perdeu"
+        ],
+        "respostaCorreta": "Carlos",
+        "explicacao": "O pronome ele retoma o nome Carlos na frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-sim-02",
+        "enunciado": "Qual alternativa apresenta somente pronomes possessivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "meu, sua, nosso",
+          "eu, tu, ele",
+          "este, esse, aquele",
+          "algum, nenhum, muito"
+        ],
+        "respostaCorreta": "meu, sua, nosso",
+        "explicacao": "Meu, sua e nosso indicam posse, por isso são pronomes possessivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port6-pronomes-sim-03",
+        "enunciado": "Em qual alternativa o pronome demonstrativo está empregado corretamente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eu trouxe esse caderno para você olhar.",
+          "Meu chegou cedo à escola.",
+          "Ela mochila está nova.",
+          "Nós livro ficou na sala."
+        ],
+        "respostaCorreta": "Eu trouxe esse caderno para você olhar.",
+        "explicacao": "Nessa frase, esse acompanha corretamente o substantivo caderno como pronome demonstrativo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-pronomes-sim-04",
+        "enunciado": "Assinale a alternativa correta sobre os pronomes no texto.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles só podem aparecer no início das frases.",
+          "Eles ajudam a evitar repetições e a ligar as informações.",
+          "Eles nunca acompanham substantivos.",
+          "Eles substituem apenas verbos."
+        ],
+        "respostaCorreta": "Eles ajudam a evitar repetições e a ligar as informações.",
+        "explicacao": "Os pronomes contribuem para a coesão do texto, evitando repetições desnecessárias.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port6-pronomes-sim-05",
+        "enunciado": "Na frase \"Nossa escola recebeu novos livros, e eles já estão na biblioteca\", a palavra \"eles\" retoma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escola",
+          "biblioteca",
+          "livros",
+          "nossa"
+        ],
+        "respostaCorreta": "livros",
+        "explicacao": "O pronome eles retoma a palavra livros, evitando sua repetição na frase.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]
