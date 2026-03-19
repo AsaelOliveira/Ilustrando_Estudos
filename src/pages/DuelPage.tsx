@@ -60,6 +60,7 @@ type Duel = {
   status: DuelStatus;
   challenger_display_name: string;
   challenger_display_turma: string | null;
+  challenger_avatar_url?: string | null;
   question_ids: string[];
   turma_id: string;
   discipline_id: string | null;
@@ -659,7 +660,22 @@ function LobbyView({
       .order("created_at", { ascending: false })
       .limit(10);
     const all = [...(privateDuels as Duel[] || []), ...(publicDuels as Duel[] || [])];
-    setChallenges(all);
+    const challengerIds = Array.from(new Set(all.map((duel) => duel.challenger_id).filter(Boolean)));
+    let avatarMap = new Map<string, string | null>();
+    if (challengerIds.length > 0) {
+      const { data: challengerProfiles } = await supabase
+        .from("profiles")
+        .select("user_id, avatar_url")
+        .in("user_id", challengerIds);
+      avatarMap = new Map((challengerProfiles || []).map((profile) => [profile.user_id, profile.avatar_url ?? null]));
+    }
+
+    setChallenges(
+      all.map((duel) => ({
+        ...duel,
+        challenger_avatar_url: avatarMap.get(duel.challenger_id) ?? null,
+      })),
+    );
     setMyPendingChallenges((myWaitingDuels as Duel[] || []));
     setLoadingList(false);
   }, [user]);
@@ -1017,8 +1033,19 @@ function LobbyView({
                 whileHover={{ scale: 1.01 }}
                 className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
-                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.mode === "anonimo" ? "bg-slate-900 text-white ring-2 ring-slate-700/40" : c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : "bg-primary/10"}`}>
-                  {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🎭" : "⚔️"}
+                <div className="flex-shrink-0">
+                  {c.mode === "anonimo" ? (
+                    <div className="flex h-12 w-12 items-center justify-center rounded-full bg-slate-950 text-white ring-2 ring-slate-700/40 shadow-lg shadow-slate-900/20">
+                      <Shield className="h-5 w-5" />
+                    </div>
+                  ) : (
+                    <SimpleProfileAvatar
+                      size="md"
+                      src={c.challenger_avatar_url ?? null}
+                      name={c.challenger_display_name}
+                      showBadge={false}
+                    />
+                  )}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
@@ -1026,18 +1053,18 @@ function LobbyView({
                   </p>
                   {c.mode === "anonimo" ? (
                     <p className="mt-1 text-[10px] font-heading font-semibold uppercase tracking-[0.22em] text-slate-500">
-                      Identidade oculta • Ninja
+                      Identidade oculta • Cavaleiro negro
                     </p>
                   ) : null}
                   <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 font-body text-xs text-muted-foreground">
                     {c.mode !== "anonimo" && c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
-                    <span>·</span>
+                    {c.mode !== "anonimo" && c.challenger_display_turma ? <span>•</span> : null}
                     <span>{c.num_questions} questões</span>
-                    <span>·</span>
+                    <span>•</span>
                     <span>{Math.floor(c.time_limit / 60)} min</span>
                     {c.discipline_id && (
                       <>
-                        <span>·</span>
+                        <span>•</span>
                         <span className="text-primary">{disciplineLabel(c.discipline_id)}</span>
                       </>
                     )}
