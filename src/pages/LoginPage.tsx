@@ -30,7 +30,7 @@ export default function LoginPage() {
     setLoading(false);
 
     if (error) {
-      setError("Email ou senha incorretos.");
+      setError("Acesso ou senha incorretos.");
       return;
     }
 
@@ -57,18 +57,18 @@ export default function LoginPage() {
                 <BrandMark sizeClassName="h-16 w-16" imageClassName="h-10 w-10" className="shadow-glow" />
               </motion.div>
               <h1 className="font-heading text-2xl font-extrabold text-foreground">Entrar na Arena</h1>
-              <p className="mt-1 font-body text-sm text-muted-foreground">Use seu email e senha para entrar.</p>
+              <p className="mt-1 font-body text-sm text-muted-foreground">Use seu email ou codigo de acesso para entrar.</p>
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
-                <label className="mb-1.5 block font-body text-sm font-medium text-foreground">Email</label>
+                <label className="mb-1.5 block font-body text-sm font-medium text-foreground">Email ou codigo de acesso</label>
                 <input
-                  type="email"
+                  type="text"
                   value={identifier}
                   onChange={(e) => setIdentifier(e.target.value)}
                   required
-                  placeholder="joao@escola.com"
+                  placeholder="joao@escola.com ou aluno_4821ab"
                   className="w-full rounded-2xl border-2 border-border bg-background px-4 py-3.5 font-body text-sm transition-all focus:border-primary focus:outline-none"
                 />
               </div>

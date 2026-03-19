@@ -2,7 +2,7 @@ import { Navigate, Outlet } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
 
 type RequireRoleProps = {
-  allowedRoles: Array<"admin" | "professor" | "aluno">;
+  allowedRoles: Array<"admin" | "professor" | "coordenadora" | "aluno">;
   redirectTo?: string;
 };
 

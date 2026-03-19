@@ -482,7 +482,7 @@ export default function DuelPage() {
           </div>
         </motion.div>
 
-        <div className={`flex gap-6 ${showSidebar ? "" : ""}`}>
+        <div className={`flex flex-col gap-6 lg:flex-row ${showSidebar ? "" : ""}`}>
           {/* Conteúdo principal */}
           <div className="min-w-0 flex-1">
             <AnimatePresence mode="wait">
@@ -828,7 +828,7 @@ function LobbyView({
               </p>
             </div>
           ) : onlinePlayers.length > 0 ? (
-          <div className="flex flex-wrap gap-4">
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:flex lg:flex-wrap lg:gap-4">
             {onlinePlayers.map((player, index) => (
               (() => {
                 const statusMeta = getDuelStatusMeta(player.duelStatus);
@@ -845,7 +845,7 @@ function LobbyView({
                 onClick={() => {
                   if (player.duelStatus === "accepting") onChallengeTarget(player);
                 }}
-                className={`group w-[132px] rounded-[28px] border border-border bg-card/90 p-3 text-center transition-all hover:-translate-y-1 hover:shadow-lg ${
+                className={`group w-full rounded-[28px] border border-border bg-card/90 p-3 text-center transition-all hover:-translate-y-1 hover:shadow-lg sm:w-[132px] lg:w-[132px] ${
                   player.duelStatus === "accepting"
                     ? "hover:border-primary/30"
                     : "opacity-90 hover:border-amber-200"
@@ -902,7 +902,7 @@ function LobbyView({
             {myPendingChallenges.map((duel) => (
               <div
                 key={duel.id}
-                className="flex items-center justify-between gap-4 rounded-2xl border border-border bg-card/80 px-4 py-4"
+                className="flex flex-col gap-4 rounded-2xl border border-border bg-card/80 px-4 py-4 sm:flex-row sm:items-center sm:justify-between"
               >
                 <div className="min-w-0 flex-1">
                   <p className="font-heading text-sm font-bold text-foreground">

@@ -5,6 +5,7 @@ import {
   BadgeCheck,
   Brain,
   BookOpen,
+  Lock,
   Mail,
   Upload,
   X,
@@ -36,6 +37,7 @@ import {
 } from "@/lib/avatar-custom-catalog";
 import {
   buildDiceBearAvatarUrl,
+  avatarEffectItems,
   getAvatarChoiceUnlockId,
   getAvatarSeedBase,
   getAvatarShopItemsBySlot,
@@ -47,6 +49,7 @@ import {
   normalizeStoredAvatarState,
   profileAvatarStyles,
   type AvatarShopItem,
+  type AvatarEffect,
   type AvataaarsConfig,
   type ProfileAvatarStyle,
 } from "@/lib/profile-avatar-options";
@@ -64,6 +67,8 @@ const avatarShopSlots = [
   { key: "top", label: "Cabelo e topo" },
   { key: "clothing", label: "Roupa" },
 ] as const;
+
+type ShopTabKey = "avatars" | "effects" | "accessories" | "top" | "clothing" | "catalogs";
 
 export default function PerfilPage() {
   const { user, profile, role, refreshProfile } = useAuth();
@@ -84,6 +89,10 @@ export default function PerfilPage() {
   const [savingCustomCatalog, setSavingCustomCatalog] = useState(false);
   const [uploadingCatalog, setUploadingCatalog] = useState(false);  const [selectedCustomCollectionId, setSelectedCustomCollectionId] = useState<string | null>(null);
   const [selectedCustomItemId, setSelectedCustomItemId] = useState<string | null>(null);
+  const [selectedShopTab, setSelectedShopTab] = useState<ShopTabKey>("avatars");
+  const [selectedEffect, setSelectedEffect] = useState<AvatarEffect>("none");
+  const [previewedEffect, setPreviewedEffect] = useState<AvatarEffect>("none");
+  const [previewAvatarUrl, setPreviewAvatarUrl] = useState<string | null>(null);
   const uploadCatalogInputRef = useRef<HTMLInputElement | null>(null);
   const [scoreData, setScoreData] = useState<ScoreSnapshot>({
     points: 0,
@@ -96,7 +105,14 @@ export default function PerfilPage() {
     setDuelStatus(getStoredDuelStatus());
   }, []);
 
-  const turmaNome = turmas.find((turma) => turma.id === (profile?.turma_id ?? scoreData.turma_id ?? null))?.nome ?? "Sem turma";
+  const turmaNome =
+    role === "admin"
+      ? "Todas as turmas"
+      : role === "coordenadora"
+        ? "Todas as turmas"
+      : role === "professor"
+        ? turmas.find((turma) => turma.id === (profile?.turma_id ?? scoreData.turma_id ?? null))?.nome ?? "Turmas vinculadas"
+        : turmas.find((turma) => turma.id === (profile?.turma_id ?? scoreData.turma_id ?? null))?.nome ?? "Sem turma";
   const roleLabel = getRoleLabel(role);
   const displayName = getDisplayName(profile?.nome ?? "", user?.email, roleLabel);
   const emailLabel = getEmailLabel(profile?.nome ?? "", user?.email);
@@ -107,7 +123,9 @@ export default function PerfilPage() {
   );
   const unlockedItems = normalizeAvatarUnlocks(profile?.avatar_unlocks);
   const spentCoins = profile?.avatar_shop_spent ?? 0;
-  const totalCoins = getAvatarCoins(scoreData.points, scoreData.missions_completed, scoreData.streak_days);
+  const totalCoins = role === "admin"
+    ? 999999
+    : getAvatarCoins(scoreData.points, scoreData.missions_completed, scoreData.streak_days);
   const availableCoins = Math.max(totalCoins - spentCoins, 0);
   const allCustomCollections = useMemo(
     () => [...customCatalog.collections].sort((a, b) => a.order - b.order),
@@ -165,6 +183,24 @@ export default function PerfilPage() {
     [allAvatarChoices, catalogVisibility.hiddenChoices, role, selectedStyle],
   );
   const selectedStyleMeta = profileAvatarStyles.find((style) => style.id === selectedStyle);
+  const shopTabs = useMemo(
+    () => [
+      { key: "avatars" as const, label: "Avatares", locked: false },
+      { key: "effects" as const, label: "Efeitos", locked: true },
+      { key: "accessories" as const, label: "Óculos", locked: true },
+      { key: "top" as const, label: "Cabelo", locked: true },
+      { key: "clothing" as const, label: "Roupa", locked: true },
+      ...(role === "admin" ? [{ key: "catalogs" as const, label: "Catálogos", locked: true }] : []),
+    ],
+    [role],
+  );
+  const visibleShopTabs = useMemo(
+    () =>
+      role === "admin"
+        ? shopTabs
+        : shopTabs.filter((tab) => !catalogVisibility.hiddenTabs.includes(tab.key)),
+    [catalogVisibility.hiddenTabs, role, shopTabs],
+  );
   const selectedCustomCollection = useMemo(
     () => visibleCustomCollections.find((collection) => collection.id === selectedCustomCollectionId) ?? null,
     [selectedCustomCollectionId, visibleCustomCollections],
@@ -174,6 +210,19 @@ export default function PerfilPage() {
     return selectedCustomCollection.items.find((item) => item.id === selectedCustomItemId) ?? selectedCustomCollection.items[0] ?? null;
   }, [selectedCustomCollection, selectedCustomItemId]);
   const selectedCatalogLabel = selectedCustomCollection?.name ?? selectedStyleMeta?.label ?? "Avatar";
+  const persistedStyleMeta = profileAvatarStyles.find((style) => style.id === storedAvatar.style);
+  const persistedCatalogLabel = storedCustomItem?.collection.name ?? persistedStyleMeta?.label ?? "Avatar";
+  const persistedOptionLabel = storedCustomItem?.item.name ?? storedAvatar.seed.split("-").pop() ?? "sol";
+  const persistedEffect: AvatarEffect =
+    storedAvatar.effect === "none" || unlockedItems.includes(`effect:${storedAvatar.effect}`)
+      ? storedAvatar.effect
+      : "none";
+  const previewEffect = previewedEffect;
+  const previewingDifferentEffect = previewEffect !== persistedEffect;
+  const effectiveSelectedEffect: AvatarEffect =
+    selectedEffect === "none" || unlockedItems.includes(`effect:${selectedEffect}`)
+      ? selectedEffect
+      : "none";
   const selectedAvatarUrl = useMemo(
     () =>
       selectedCustomPreviewItem?.imageUrl ??
@@ -181,18 +230,36 @@ export default function PerfilPage() {
       buildDiceBearAvatarUrl(selectedStyle, selectedSeed, selectedStyle === "avataaars" ? selectedConfig : null),
     [profile.avatar_url, selectedConfig, selectedCustomPreviewItem?.imageUrl, selectedSeed, selectedStyle, storedCustomCatalogItemId],
   );
+  const activePreviewAvatarUrl = selectedShopTab === "effects"
+    ? previewAvatarUrl ?? selectedAvatarUrl
+    : selectedAvatarUrl;
 
   useEffect(() => {
     setSelectedStyle(storedAvatar.style);
     setSelectedSeed(storedAvatar.seed);
     setSelectedConfig(storedAvatar.config);
+    setSelectedEffect(storedAvatar.effect);
+    setPreviewedEffect(storedAvatar.effect);
   }, [
     storedAvatar.config.accessories,
     storedAvatar.config.clothing,
+    storedAvatar.effect,
     storedAvatar.config.top,
     storedAvatar.seed,
     storedAvatar.style,
   ]);
+
+  useEffect(() => {
+    if (selectedShopTab !== "effects") {
+      setPreviewAvatarUrl(selectedAvatarUrl);
+    }
+  }, [selectedAvatarUrl, selectedShopTab]);
+
+  useEffect(() => {
+    if (!visibleShopTabs.some((tab) => tab.key === selectedShopTab)) {
+      setSelectedShopTab("avatars");
+    }
+  }, [selectedShopTab, visibleShopTabs]);
 
   useEffect(() => {
     if (storedCustomItem) {
@@ -281,6 +348,7 @@ export default function PerfilPage() {
     nextStyle: ProfileAvatarStyle,
     nextSeed: string,
     nextConfig: AvataaarsConfig | null,
+    nextEffect: AvatarEffect,
     successDescription: string,
   ) => {
     setSavingAvatar(true);
@@ -292,6 +360,10 @@ export default function PerfilPage() {
           style: nextStyle,
           seed: nextSeed,
           config: nextStyle === "avataaars" ? nextConfig : null,
+          effect:
+            nextEffect === "none" || unlockedItems.includes(`effect:${nextEffect}`)
+              ? nextEffect
+              : "none",
         },
       })
       .eq("user_id", user.id);
@@ -328,6 +400,7 @@ export default function PerfilPage() {
       "avataaars",
       selectedSeed,
       nextConfig,
+      effectiveSelectedEffect,
       `${item.label} foi aplicado ao Avatar Clássico.`,
     );
   };
@@ -342,6 +415,7 @@ export default function PerfilPage() {
       selectedStyle,
       choiceSeed,
       selectedStyle === "avataaars" ? selectedConfig : null,
+      effectiveSelectedEffect,
       "O novo avatar já está valendo no perfil.",
     );
   };
@@ -382,6 +456,7 @@ export default function PerfilPage() {
           style: "avataaars",
           seed: selectedSeed,
           config: nextConfig,
+          effect: effectiveSelectedEffect,
         },
         avatar_url: buildDiceBearAvatarUrl("avataaars", selectedSeed, nextConfig),
       })
@@ -511,7 +586,7 @@ export default function PerfilPage() {
       ...previewShopConfig(item),
     });
 
-  const toggleCatalogVisibility = async (type: "hiddenStyles" | "hiddenChoices" | "hiddenItems", id: string) => {
+  const toggleCatalogVisibility = async (type: "hiddenTabs" | "hiddenStyles" | "hiddenChoices" | "hiddenItems", id: string) => {
     if (!isAdmin) return;
 
     setUpdatingCatalogId(id);
@@ -676,6 +751,78 @@ export default function PerfilPage() {
   const getCustomCatalogUnlockId = (itemId: string) => `custom-choice:${itemId}`;
   const isCustomCatalogItemUnlocked = (itemId: string, price: number) =>
     price === 0 || unlockedItems.includes(getCustomCatalogUnlockId(itemId));
+  const isAvatarEffectUnlocked = (effectId: string, price: number) =>
+    price === 0 || unlockedItems.includes(effectId);
+
+  const equipAvatarEffect = async (effect: AvatarEffect) => {
+    if (avatarLocked) return;
+
+    setSelectedEffect(effect);
+    setPreviewedEffect(effect);
+    await saveAvatarSelection(
+      selectedStyle,
+      selectedSeed,
+      selectedStyle === "avataaars" ? selectedConfig : null,
+      effect,
+      "O efeito já está ativo no seu perfil.",
+    );
+  };
+
+  const handleUnlockAvatarEffect = async (effectId: string, effect: AvatarEffect, cost: number, label: string) => {
+    if (avatarLocked || !profile) return;
+
+    if (isAvatarEffectUnlocked(effectId, cost)) {
+      await equipAvatarEffect(effect);
+      return;
+    }
+
+    if (availableCoins < cost) {
+      toast({
+        title: "Sinapses insuficientes",
+        description: `Você precisa de mais ${cost - availableCoins} Sinapses para liberar ${label}.`,
+        variant: "destructive",
+      });
+      return;
+    }
+
+    setBuyingItemId(effectId);
+    const nextUnlocks = Array.from(new Set([...unlockedItems, effectId]));
+    const nextSpent = spentCoins + cost;
+
+    const { error } = await supabase
+      .from("profiles")
+      .update({
+        avatar_unlocks: nextUnlocks,
+        avatar_shop_spent: nextSpent,
+        avatar_style: {
+          style: selectedStyle,
+          seed: selectedSeed,
+          config: selectedStyle === "avataaars" ? selectedConfig : null,
+          effect,
+          customCatalogItemId: storedCustomCatalogItemId,
+        },
+      })
+      .eq("user_id", user.id);
+
+    if (error) {
+      setBuyingItemId(null);
+      toast({
+        title: "Não foi possível liberar",
+        description: "O efeito não foi adicionado ao seu perfil.",
+        variant: "destructive",
+      });
+      return;
+    }
+
+    await refreshProfile();
+    setBuyingItemId(null);
+    setSelectedEffect(effect);
+    setPreviewedEffect(effect);
+    toast({
+      title: "Efeito liberado",
+      description: `${label} agora faz parte da sua coleção.`,
+    });
+  };
 
   const selectCustomCatalogItem = async (collection: CustomCatalogCollection, item: CustomCatalogItem) => {
     if (avatarLocked) return;
@@ -692,6 +839,7 @@ export default function PerfilPage() {
           style: selectedStyle,
           seed: selectedSeed,
           config: selectedStyle === "avataaars" ? selectedConfig : null,
+          effect: effectiveSelectedEffect,
           customCatalogItemId: item.id,
         },
       })
@@ -780,9 +928,87 @@ export default function PerfilPage() {
               transition={{ delay: 0.05 }}
               className="rounded-[28px] border border-emerald-100 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.10),_transparent_55%),linear-gradient(180deg,#ffffff_0%,#f5fbf7_100%)] p-6 lg:sticky lg:top-24"
             >
-              <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Preview</p>
+              <div className="flex items-center justify-between gap-3">
+                <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Preview</p>
+                {previewingDifferentEffect ? (
+                  <span className="rounded-full bg-primary/10 px-3 py-1 text-[11px] font-semibold text-primary">
+                    Prévia do efeito
+                  </span>
+                ) : (
+                  <span className="rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-700">
+                    Efeito em uso
+                  </span>
+                )}
+              </div>
               <div className="mt-6 flex justify-center">
-                <SimpleProfileAvatar size="xl" src={selectedAvatarUrl} />
+                <div className="relative flex h-44 w-44 items-center justify-center">
+                  {previewEffect !== "none" ? (
+                    <>
+                      <motion.div
+                        className="absolute inset-4 rounded-full bg-[radial-gradient(circle,rgba(16,185,129,0.18)_0%,rgba(16,185,129,0.02)_62%,transparent_78%)] blur-xl"
+                        animate={{ scale: [0.96, 1.06, 0.96], opacity: [0.55, 0.9, 0.55] }}
+                        transition={{ duration: 3.6, repeat: Infinity, ease: "easeInOut" }}
+                      />
+                      {previewEffect === "orbit" ? (
+                        <>
+                          <motion.div
+                            className="absolute inset-2 rounded-full border border-emerald-300/50"
+                            animate={{ rotate: 360 }}
+                            transition={{ duration: 18, repeat: Infinity, ease: "linear" }}
+                          />
+                          <motion.div
+                            className="absolute inset-0 rounded-full border border-dashed border-sky-200/70"
+                            animate={{ rotate: -360, scale: [0.98, 1, 0.98] }}
+                            transition={{ rotate: { duration: 24, repeat: Infinity, ease: "linear" }, scale: { duration: 4.2, repeat: Infinity, ease: "easeInOut" } }}
+                          />
+                        </>
+                      ) : null}
+                      {previewEffect === "sparkles" ? [
+                        { className: "left-3 top-8 bg-amber-300", delay: 0 },
+                        { className: "right-6 top-5 bg-sky-300", delay: 0.8 },
+                        { className: "right-3 bottom-9 bg-emerald-300", delay: 1.4 },
+                        { className: "left-7 bottom-6 bg-fuchsia-300", delay: 1.9 },
+                      ].map((particle) => (
+                        <motion.span
+                          key={particle.className}
+                          className={`absolute h-3 w-3 rounded-full shadow-sm ${particle.className}`}
+                          animate={{ y: [0, -10, 0], x: [0, 3, 0], opacity: [0.45, 1, 0.45] }}
+                          transition={{ duration: 3.2, repeat: Infinity, ease: "easeInOut", delay: particle.delay }}
+                        />
+                      )) : null}
+                      {previewEffect === "mirror" ? (
+                        <motion.div
+                          className="absolute inset-y-5 left-0 w-[22%] rounded-full bg-[linear-gradient(90deg,transparent_0%,rgba(255,255,255,0.88)_50%,transparent_100%)] blur-[1px]"
+                          animate={{ x: ["-170%", "210%"] }}
+                          transition={{ duration: 2.6, repeat: Infinity, ease: "easeInOut" }}
+                        />
+                      ) : null}
+                    </>
+                  ) : null}
+                  <motion.div
+                    animate={
+                      previewEffect === "spin"
+                        ? { rotate: [0, 10, -10, 0], scale: [1, 1.03, 1] }
+                        : previewEffect === "mirror"
+                          ? { x: [0, 4, -4, 0] }
+                          : previewEffect === "none"
+                            ? undefined
+                            : { y: [0, -4, 0], scale: [1, 1.02, 1] }
+                    }
+                    transition={
+                      previewEffect === "spin"
+                        ? { duration: 3.8, repeat: Infinity, ease: "easeInOut" }
+                        : previewEffect === "mirror"
+                          ? { duration: 2.8, repeat: Infinity, ease: "easeInOut" }
+                          : previewEffect === "none"
+                            ? undefined
+                            : { duration: 3.1, repeat: Infinity, ease: "easeInOut" }
+                    }
+                    className="relative z-10"
+                  >
+                    <SimpleProfileAvatar size="xl" src={activePreviewAvatarUrl} effect={previewEffect} showBadge={false} />
+                  </motion.div>
+                </div>
               </div>
               <div className="mt-6 min-w-0 text-center">
                 <h2 className="break-words font-heading text-[clamp(1.6rem,2.4vw,2.1rem)] font-black leading-tight text-foreground">
@@ -846,14 +1072,61 @@ export default function PerfilPage() {
                   </div>
                 </div>
                 <div className="rounded-[22px] border border-white/80 bg-background/80 px-4 py-4 text-sm leading-6 text-muted-foreground">
-                  Estilo atual: <span className="font-semibold text-foreground">{selectedCatalogLabel}</span>
+                  Estilo atual: <span className="font-semibold text-foreground">{persistedCatalogLabel}</span>
                   <br />
-                  Opção: <span className="font-medium text-foreground/80">{selectedCustomPreviewItem?.name ?? selectedSeed.split("-").pop()}</span>
+                  Opção: <span className="font-medium text-foreground/80">{persistedOptionLabel}</span>
                 </div>
               </div>
             </motion.div>
 
             <div className="space-y-5">
+              <div className="rounded-[24px] border border-emerald-100 bg-white/85 p-3 shadow-[0_10px_24px_rgba(16,24,40,0.05)]">
+                <div className="flex flex-wrap gap-2">
+                  {visibleShopTabs.map((tab) => (
+                    <button
+                      key={tab.key}
+                      type="button"
+                      onClick={() => setSelectedShopTab(tab.key)}
+                      className={`rounded-full px-4 py-2 text-sm font-semibold transition-all ${
+                        selectedShopTab === tab.key
+                          ? "bg-primary text-primary-foreground shadow-sm"
+                          : "border border-border bg-background text-muted-foreground hover:border-primary/20 hover:text-foreground"
+                      }`}
+                    >
+                      <span className="inline-flex items-center gap-2">
+                        {tab.label}
+                        {tab.locked ? <Lock className="h-3.5 w-3.5 opacity-70" /> : null}
+                      </span>
+                      {isAdmin && tab.key !== "avatars" ? (
+                        <span
+                          role="button"
+                          tabIndex={0}
+                          onClick={(event) => {
+                            event.preventDefault();
+                            event.stopPropagation();
+                            void toggleCatalogVisibility("hiddenTabs", tab.key);
+                          }}
+                          onKeyDown={(event) => {
+                            if (event.key === "Enter" || event.key === " ") {
+                              event.preventDefault();
+                              event.stopPropagation();
+                              void toggleCatalogVisibility("hiddenTabs", tab.key);
+                            }
+                          }}
+                          className={`ml-2 inline-flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
+                            catalogVisibility.hiddenTabs.includes(tab.key) ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                          }`}
+                          title={catalogVisibility.hiddenTabs.includes(tab.key) ? "Mostrar para alunos" : "Ocultar dos alunos"}
+                        >
+                          {updatingCatalogId === tab.key ? "..." : <X className="h-3 w-3" />}
+                        </span>
+                      ) : null}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {selectedShopTab === "avatars" && (
               <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
                 <div className="flex flex-col gap-3">
                   <div>
@@ -1174,7 +1447,91 @@ export default function PerfilPage() {
                   </div>
                 </div>
               </div>
+              )}
 
+              {selectedShopTab === "effects" && (
+              <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
+                <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+                  <div>
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Efeitos</p>
+                    <h3 className="mt-2 font-heading text-2xl font-black text-foreground">Animações do perfil</h3>
+                    <p className="mt-2 text-sm leading-7 text-muted-foreground">
+                      Libere efeitos leves para deixar seu avatar mais raro, brilhante e com cara de jogo.
+                    </p>
+                  </div>
+
+                  <div className="rounded-[20px] border border-emerald-200 bg-emerald-50 px-4 py-3 text-sm text-foreground">
+                    <p className="inline-flex items-center gap-2 font-heading text-sm font-semibold">
+                      <Brain className="h-4 w-4 text-emerald-600" />
+                      Sinapses disponíveis
+                    </p>
+                    <p className="mt-1 text-2xl font-black text-primary">{availableCoins}</p>
+                  </div>
+                </div>
+
+                <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+                  {avatarEffectItems.map((item) => {
+                    const unlocked = isAvatarEffectUnlocked(item.id, item.cost);
+                    const active = persistedEffect === item.value;
+                    const previewing = previewEffect === item.value && !active;
+                    const isBuying = buyingItemId === item.id;
+
+                    return (
+                      <div
+                        key={item.id}
+                        onClick={() => setPreviewedEffect(item.value)}
+                        className={[
+                          "cursor-pointer rounded-[22px] border p-4 text-center transition-all",
+                          active
+                            ? "border-primary bg-primary/10 shadow-[0_0_0_3px_rgba(16,185,129,0.18)]"
+                            : previewing
+                              ? "border-primary/40 bg-primary/5 shadow-sm"
+                              : "border-border bg-card hover:border-primary/20 hover:bg-secondary/20",
+                        ].join(" ")}
+                      >
+                        <div className="flex justify-end">
+                          {unlocked ? (
+                            <span className="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-800">
+                              <Brain className="h-3.5 w-3.5" />
+                              {active ? "Seu efeito" : previewing ? "Prévia" : item.cost === 0 ? "Grátis" : "Liberado"}
+                            </span>
+                          ) : (
+                            <span className="inline-flex items-center gap-1 rounded-full bg-slate-900 px-3 py-1 text-[11px] font-semibold text-white shadow-sm">
+                              <Brain className="h-3.5 w-3.5" />
+                              {item.cost} Sinapses
+                            </span>
+                          )}
+                        </div>
+                        <div className="mt-3 flex min-h-[110px] items-center justify-center rounded-[18px] bg-secondary/25 p-4">
+                          <SimpleProfileAvatar size="lg" src={activePreviewAvatarUrl} effect="none" showBadge={false} />
+                        </div>
+                        <p className="mt-3 font-heading text-sm font-semibold text-foreground">{item.label}</p>
+                        <p className="mt-1 text-xs text-muted-foreground">{item.description}</p>
+                        <div className="mt-4">
+                          <button
+                            type="button"
+                            onClick={(event) => {
+                              event.stopPropagation();
+                              void handleUnlockAvatarEffect(item.id, item.value, item.cost, item.label);
+                            }}
+                            disabled={savingAvatar || isBuying || active}
+                            className={`block w-full rounded-xl px-3 py-2.5 text-center text-xs font-semibold transition-all disabled:opacity-60 ${
+                              unlocked
+                                ? "border border-emerald-200 bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
+                                : "bg-primary text-primary-foreground hover:bg-primary/90"
+                            }`}
+                          >
+                            {unlocked ? (active ? "Usando" : (savingAvatar ? "Aplicando..." : previewing ? "Usar este" : "Usar")) : (isBuying ? "Comprando..." : "Comprar")}
+                          </button>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+              )}
+
+              {(selectedShopTab === "accessories" || selectedShopTab === "top" || selectedShopTab === "clothing") && (
               <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
                 <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                   <div>
@@ -1200,7 +1557,9 @@ export default function PerfilPage() {
                   </div>
                 ) : (
                   <div className="mt-6 space-y-5">
-                    {avatarShopSlots.map((slotGroup) => (
+                    {avatarShopSlots
+                      .filter((slotGroup) => slotGroup.key === selectedShopTab)
+                      .map((slotGroup) => (
                       <div key={slotGroup.key} className="rounded-[22px] border border-border bg-card/60 p-4">
                         <div className="mb-4 flex items-center justify-between gap-3">
                           <div>
@@ -1245,8 +1604,9 @@ export default function PerfilPage() {
                   </div>
                 )}
               </div>
+              )}
 
-              {isAdmin ? (
+              {isAdmin && selectedShopTab === "catalogs" ? (
                 <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
                   <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
                     <div>
@@ -1544,14 +1904,16 @@ function StatusChip({
   );
 }
 
-function getRoleLabel(role: "admin" | "professor" | "aluno" | null) {
+function getRoleLabel(role: "admin" | "professor" | "coordenadora" | "aluno" | null) {
   if (role === "admin") return "Administrador";
+  if (role === "coordenadora") return "Coordenadora";
   if (role === "professor") return "Professor";
   return "Aluno";
 }
 
-function getRoleDescription(role: "admin" | "professor" | "aluno" | null) {
+function getRoleDescription(role: "admin" | "professor" | "coordenadora" | "aluno" | null) {
   if (role === "admin") return "Acesso completo ao painel, usuários e ajustes internos.";
+  if (role === "coordenadora") return "Visão geral pedagógica, sem acesso às áreas administrativas.";
   if (role === "professor") return "Permissões voltadas ao acompanhamento pedagógico.";
   return "Perfil voltado para estudo, progresso e atividades do aluno.";
 }

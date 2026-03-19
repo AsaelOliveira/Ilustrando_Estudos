@@ -16,6 +16,7 @@ import {
   Shield,
   Sword,
   Trophy,
+  Users,
   X,
 } from "lucide-react";
 import BackgroundBlobs from "./BackgroundBlobs";
@@ -50,7 +51,14 @@ export default function Layout({ children }: { children: ReactNode }) {
   const [points, setPoints] = useState(0);
   const { user, profile, role, signOut } = useAuth();
   const isAppRoute = location.pathname.startsWith("/app");
-  const navItems = isAppRoute ? privateNavItems : publicNavItems;
+  const navItems = isAppRoute
+    ? [
+        ...privateNavItems,
+        ...(role === "admin" || role === "professor" || role === "coordenadora"
+          ? [{ to: "/app/acompanhamento", label: "Acompanhamento", icon: Users }]
+          : []),
+      ]
+    : publicNavItems;
   const homeTarget = isAppRoute && user ? "/app" : "/";
 
   useEffect(() => {
@@ -68,7 +76,9 @@ export default function Layout({ children }: { children: ReactNode }) {
       .maybeSingle()
       .then(({ data }) => {
         if (!active) return;
-        const totalPoints = getAvatarCoins(data?.points ?? 0, data?.missions_completed ?? 0, data?.streak_days ?? 0);
+        const totalPoints = role === "admin"
+          ? 999999
+          : getAvatarCoins(data?.points ?? 0, data?.missions_completed ?? 0, data?.streak_days ?? 0);
         const spentPoints = profile?.avatar_shop_spent ?? 0;
         setPoints(Math.max(totalPoints - spentPoints, 0));
       });
@@ -76,7 +86,7 @@ export default function Layout({ children }: { children: ReactNode }) {
     return () => {
       active = false;
     };
-  }, [isAppRoute, profile?.avatar_shop_spent, user]);
+  }, [isAppRoute, profile?.avatar_shop_spent, role, user]);
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -95,7 +105,7 @@ export default function Layout({ children }: { children: ReactNode }) {
             </div>
           </Link>
 
-          <nav className="hidden items-center gap-1 text-sm font-body sm:flex">
+          <nav className="hidden items-center gap-1 text-sm font-body lg:flex">
             {navItems.map((item) => {
               const isActive = item.to === "/app" ? location.pathname === "/app" : location.pathname.startsWith(item.to);
               const Icon = item.icon;
@@ -144,7 +154,7 @@ export default function Layout({ children }: { children: ReactNode }) {
                   to="/app/configuracoes"
                   className="flex items-center gap-2 rounded-xl border border-border px-3 py-2 text-xs font-medium transition-all hover:bg-secondary"
                 >
-                  <SimpleProfileAvatar size="sm" showBadge={false} className="ring-2 ring-primary/15" />
+                  <SimpleProfileAvatar size="sm" showBadge={false} />
                   <span className="text-foreground">{profile?.nome?.split(" ")[0] || "Perfil"}</span>
                 </Link>
                 <button
@@ -168,7 +178,7 @@ export default function Layout({ children }: { children: ReactNode }) {
 
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
-            className="btn-tap rounded-xl p-2.5 text-muted-foreground hover:bg-secondary hover:text-foreground sm:hidden"
+            className="btn-tap rounded-xl p-2.5 text-muted-foreground hover:bg-secondary hover:text-foreground lg:hidden"
           >
             {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
           </button>

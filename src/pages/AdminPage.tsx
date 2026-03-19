@@ -57,6 +57,8 @@ type PhotoRequestWithProfile = Database["public"]["Tables"]["photo_change_reques
 };
 type AdminListedUser = ManagedUser & {
   points: number;
+  linkedTurmas?: string[];
+  assignments?: Array<{ turma_id: string; disciplina_id: string }>;
 };
 
 const ADMIN_TAB_STYLES: Record<
@@ -532,7 +534,7 @@ export default function AdminPage() {
                 <button
                   key={t.key}
                   onClick={() => setTab(t.key)}
-                  className={`btn-tap relative min-w-[160px] flex-1 rounded-2xl border px-4 py-3 text-left transition-all ${
+                  className={`btn-tap relative min-w-0 basis-full rounded-2xl border px-4 py-3 text-left transition-all sm:min-w-[160px] sm:flex-1 sm:basis-auto ${
                     tab === t.key
                       ? `${tabStyle.border} bg-white shadow-sm`
                       : "border-transparent bg-transparent hover:border-border hover:bg-background/80"
@@ -1549,6 +1551,11 @@ function CredentialDeliveryCard({
             <p className="mt-1 font-body text-xs text-muted-foreground">
               {credential.email} . {credential.turma_id || "Sem turma"}
             </p>
+            {credential.login_identifier ? (
+              <code className="mt-2 inline-block rounded-md border border-border bg-card px-2 py-1 font-mono text-xs text-foreground">
+                Acesso: {credential.login_identifier}
+              </code>
+            ) : null}
             <code className="mt-2 inline-block rounded-md border border-border bg-card px-2 py-1 font-mono text-xs text-foreground">
               Senha: {credential.password}
             </code>
@@ -1591,27 +1598,55 @@ function AlunosTab() {
   const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
   const [turmaId, setTurmaId] = useState("6ano");
+  const [selectedRole, setSelectedRole] = useState<"aluno" | "professor" | "coordenadora">("aluno");
+  const [professorTurmas, setProfessorTurmas] = useState<string[]>(["6ano"]);
+  const [professorAssignments, setProfessorAssignments] = useState<string[]>([]);
   const [senha, setSenha] = useState("");
   const getTurmaLabel = (turmaValue: string | null) =>
     turmas.find((turma) => turma.id === turmaValue)?.nome || turmaValue || "Sem turma";
 
-  const createStudent = async ({
+  useEffect(() => {
+    if (selectedRole !== "professor") return;
+
+    const derivedTurmas = Array.from(
+      new Set(
+        professorAssignments
+          .map((disciplinaId) => disciplinas.find((disciplina) => disciplina.id === disciplinaId)?.turmaId)
+          .filter((turmaId): turmaId is string => Boolean(turmaId)),
+      ),
+    );
+
+    if (derivedTurmas.length > 0) {
+      setProfessorTurmas(derivedTurmas);
+      setTurmaId((current) => (derivedTurmas.includes(current) ? current : derivedTurmas[0]));
+    }
+  }, [professorAssignments, selectedRole]);
+
+  const createManagedAccount = async ({
     nome,
     email,
     password,
     turmaId,
+    role,
+    turmaIds,
+    assignments,
   }: {
     nome: string;
     email: string;
     password: string;
     turmaId: string;
+    role: "aluno" | "professor" | "coordenadora";
+    turmaIds?: string[];
+    assignments?: Array<{ turma_id: string; disciplina_id: string }>;
   }) => {
     return createManagedUser({
       nome,
       email: email.trim().toLowerCase(),
       password,
       turma_id: turmaId,
-      role: "aluno",
+      role,
+      turma_ids: turmaIds,
+      assignments,
     });
   };
 
@@ -1663,12 +1698,32 @@ function AlunosTab() {
     setAdminError("");
     setLatestCredentials([]);
     try {
-      const createdUser = await createStudent({ nome, email, password: senha, turmaId });
+      const createdUser = await createManagedAccount({
+        nome,
+        email,
+        password: senha,
+        turmaId,
+        role: selectedRole,
+        turmaIds: selectedRole === "professor" ? Array.from(new Set(professorAssignments.map((disciplinaId) => disciplinas.find((item) => item.id === disciplinaId)?.turmaId).filter((value): value is string => Boolean(value)))) : undefined,
+        assignments:
+          selectedRole === "professor"
+            ? professorAssignments.map((disciplinaId) => {
+                const disciplina = disciplinas.find((item) => item.id === disciplinaId);
+                return {
+                  disciplina_id: disciplinaId,
+                  turma_id: disciplina?.turmaId ?? turmaId,
+                };
+              })
+            : undefined,
+      });
       setResult({ success: 1, errors: [] });
       setLatestCredentials([createdUser.credential]);
       setNome("");
       setEmail("");
       setSenha("");
+      setSelectedRole("aluno");
+      setProfessorTurmas(["6ano"]);
+      setProfessorAssignments([]);
     } catch (error) {
       setResult({ success: 0, errors: [error instanceof Error ? error.message : "Erro ao criar aluno."] });
     }
@@ -1711,6 +1766,8 @@ function AlunosTab() {
         { data: profilesData, error: profilesError },
         { data: rolesData, error: rolesError },
         { data: scoreData, error: scoreError },
+        { data: linkedTurmasData },
+        { data: assignmentsData },
       ] = await Promise.all([
       supabase
         .from("profiles")
@@ -1718,6 +1775,8 @@ function AlunosTab() {
         .order("created_at", { ascending: false }),
       supabase.from("user_roles").select("user_id, role"),
       supabase.from("student_scores").select("user_id, points, turma_id"),
+      supabase.from("professor_turmas").select("user_id, turma_id"),
+      supabase.from("professor_assignments").select("user_id, turma_id, disciplina_id"),
     ]);
 
       if (profilesError) throw profilesError;
@@ -1725,7 +1784,7 @@ function AlunosTab() {
       if (scoreError) throw scoreError;
 
       const roleMap = new Map(
-        ((rolesData as Array<{ user_id: string; role: "admin" | "professor" | "aluno" }> | null) ?? []).map((entry) => [
+        ((rolesData as Array<{ user_id: string; role: "admin" | "professor" | "coordenadora" | "aluno" }> | null) ?? []).map((entry) => [
           entry.user_id,
           entry.role,
         ]),
@@ -1742,6 +1801,18 @@ function AlunosTab() {
           entry.turma_id,
         ]),
       );
+      const linkedTurmaMap = new Map<string, string[]>();
+      ((linkedTurmasData as Array<{ user_id: string; turma_id: string }> | null) ?? []).forEach((entry) => {
+        const current = linkedTurmaMap.get(entry.user_id) ?? [];
+        current.push(entry.turma_id);
+        linkedTurmaMap.set(entry.user_id, current);
+      });
+      const assignmentsMap = new Map<string, Array<{ turma_id: string; disciplina_id: string }>>();
+      ((assignmentsData as Array<{ user_id: string; turma_id: string; disciplina_id: string }> | null) ?? []).forEach((entry) => {
+        const current = assignmentsMap.get(entry.user_id) ?? [];
+        current.push({ turma_id: entry.turma_id, disciplina_id: entry.disciplina_id });
+        assignmentsMap.set(entry.user_id, current);
+      });
 
       const users: AdminListedUser[] = (
         (profilesData as Array<{
@@ -1760,6 +1831,8 @@ function AlunosTab() {
         created_at: profileItem.created_at,
         role: roleMap.get(profileItem.user_id) ?? "aluno",
         points: scoreMap.get(profileItem.user_id) ?? 0,
+        linkedTurmas: linkedTurmaMap.get(profileItem.user_id) ?? [],
+        assignments: assignmentsMap.get(profileItem.user_id) ?? [],
       }));
 
       setUsersList(users);
@@ -2060,12 +2133,27 @@ function AlunosTab() {
                         <div className="flex items-center gap-2">
                           <p className="font-heading font-semibold text-foreground text-sm truncate">{u.nome}</p>
                           {u.role === "admin" && <span className="text-[10px] bg-primary/10 text-primary px-1.5 py-0.5 rounded-full font-body">Admin</span>}
+                          {u.role === "professor" && <span className="text-[10px] bg-sky-100 text-sky-700 px-1.5 py-0.5 rounded-full font-body">Professor</span>}
+                          {u.role === "coordenadora" && <span className="text-[10px] bg-violet-100 text-violet-700 px-1.5 py-0.5 rounded-full font-body">Coordenadora</span>}
                         </div>
                         <p className="font-body text-xs text-muted-foreground truncate">
                           {u.email ? `${u.email} . ` : ""}
                           {getTurmaLabel(u.turma_id)}
                           {` . ${u.points} pts`}
                         </p>
+                        {u.role === "professor" && u.linkedTurmas && u.linkedTurmas.length > 0 ? (
+                          <p className="mt-1 font-body text-xs text-muted-foreground">
+                            Turmas vinculadas: {u.linkedTurmas.map((linkedTurmaId) => getTurmaLabel(linkedTurmaId)).join(", ")}
+                          </p>
+                        ) : null}
+                        {u.role === "professor" && u.assignments && u.assignments.length > 0 ? (
+                          <p className="mt-1 font-body text-xs text-muted-foreground">
+                            Atribuicoes: {u.assignments.map((assignment) => {
+                              const disciplina = disciplinas.find((item) => item.id === assignment.disciplina_id);
+                              return `${disciplina?.nome ?? assignment.disciplina_id} - ${getTurmaLabel(assignment.turma_id)}`;
+                            }).join(", ")}
+                          </p>
+                        ) : null}
                         <p className="mt-1 font-body text-xs text-muted-foreground">
                           Por seguranca, o painel nao armazena a senha atual. Se precisar, gere uma nova senha e entregue ao aluno.
                         </p>
@@ -2134,7 +2222,7 @@ function AlunosTab() {
           <motion.div key="single" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}>
             <div className="bg-card border border-border rounded-xl p-6 space-y-4">
               <h3 className="font-heading font-semibold text-foreground flex items-center gap-2">
-                Cadastrar aluno
+                Cadastrar conta
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
@@ -2157,17 +2245,82 @@ function AlunosTab() {
                   />
                 </div>
                 <div>
-                  <label className="font-body text-sm text-muted-foreground mb-1 block">Turma</label>
+                  <label className="font-body text-sm text-muted-foreground mb-1 block">Perfil</label>
                   <select
-                    value={turmaId}
-                    onChange={(e) => setTurmaId(e.target.value)}
+                    value={selectedRole}
+                    onChange={(e) => setSelectedRole(e.target.value as "aluno" | "professor" | "coordenadora")}
                     className="w-full px-4 py-3 rounded-xl border border-border bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30"
                   >
-                    {turmas.map((t) => (
-                      <option key={t.id} value={t.id}>{t.nome}</option>
-                    ))}
+                    <option value="aluno">Aluno</option>
+                    <option value="professor">Professor</option>
+                    <option value="coordenadora">Coordenadora</option>
                   </select>
                 </div>
+                {selectedRole !== "professor" ? (
+                  <div>
+                    <label className="font-body text-sm text-muted-foreground mb-1 block">Turma</label>
+                    <select
+                      value={turmaId}
+                      onChange={(e) => setTurmaId(e.target.value)}
+                      className="w-full px-4 py-3 rounded-xl border border-border bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30"
+                    >
+                      {turmas.map((t) => (
+                        <option key={t.id} value={t.id}>{t.nome}</option>
+                      ))}
+                    </select>
+                  </div>
+                ) : (
+                  <div>
+                    <label className="font-body text-sm text-muted-foreground mb-1 block">Turmas atendidas</label>
+                    <div className="min-h-[52px] rounded-xl border border-border bg-background px-4 py-3 text-sm text-muted-foreground">
+                      {professorTurmas.length > 0
+                        ? professorTurmas.map((value) => getTurmaLabel(value)).join(", ")
+                        : "Selecione as atribuicoes abaixo"}
+                    </div>
+                  </div>
+                )}
+                {selectedRole === "professor" ? (
+                  <div className="sm:col-span-2">
+                    <label className="font-body text-sm text-muted-foreground mb-2 block">Atribuicoes por disciplina</label>
+                    <div className="space-y-3 rounded-xl border border-border bg-background p-4">
+                      {turmas.map((turma) => {
+                        const turmaDisciplinas = disciplinas.filter((disciplina) => disciplina.turmaId === turma.id);
+                        return (
+                          <div key={turma.id} className="space-y-2">
+                            <p className="text-xs font-semibold uppercase tracking-[0.16em] text-muted-foreground">
+                              {turma.nome}
+                            </p>
+                            <div className="flex flex-wrap gap-2">
+                              {turmaDisciplinas.map((disciplina) => {
+                                const active = professorAssignments.includes(disciplina.id);
+                                return (
+                                  <button
+                                    key={disciplina.id}
+                                    type="button"
+                                    onClick={() =>
+                                      setProfessorAssignments((current) =>
+                                        current.includes(disciplina.id)
+                                          ? current.filter((item) => item !== disciplina.id)
+                                          : [...current, disciplina.id],
+                                      )
+                                    }
+                                    className={`rounded-full border px-3 py-2 text-xs transition-all ${
+                                      active
+                                        ? "border-sky-300 bg-sky-50 text-sky-700"
+                                        : "border-border bg-card text-muted-foreground"
+                                    }`}
+                                  >
+                                    {disciplina.nome}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                ) : null}
                 <div>
                   <label className="font-body text-sm text-muted-foreground mb-1 block">Senha</label>
                   <div className="flex gap-2">
@@ -2191,10 +2344,16 @@ function AlunosTab() {
               </div>
               <button
                 onClick={handleCreateSingle}
-                disabled={creating || !nome || !email || !senha}
+                disabled={
+                  creating ||
+                  !nome ||
+                  !email ||
+                  !senha ||
+                  (selectedRole === "professor" && (professorTurmas.length === 0 || professorAssignments.length === 0))
+                }
                 className="btn-tap bg-primary text-primary-foreground font-heading font-semibold px-6 py-3 rounded-xl hover:bg-primary/90 transition-all text-sm disabled:opacity-50 flex items-center gap-2"
               >
-                {creating ? "Criando..." : "Criar aluno"}
+                {creating ? "Criando..." : "Criar conta"}
               </button>
             </div>
           </motion.div>

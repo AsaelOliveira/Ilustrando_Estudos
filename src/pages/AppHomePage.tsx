@@ -44,7 +44,10 @@ export default function AppHomePage() {
   const { config: contentDisplayConfig, loading: contentDisplayLoading } = useContentDisplayConfig();
   const recentStudy = getRecentStudy();
   const firstName = getDashboardName(profile?.nome, user?.email, role);
-  const activeTurma = getTurma(profile?.turma_id || recentStudy?.turmaId || "6ano") || turmas[0];
+  const activeTurma =
+    role === "admin"
+      ? turmas[0]
+      : getTurma(profile?.turma_id || recentStudy?.turmaId || "6ano") || turmas[0];
   const activeDisciplinas = getDisciplinasByTurma(activeTurma.id);
   const fallbackDisciplina = activeDisciplinas[0] || null;
   const fallbackTema = fallbackDisciplina ? getTemasByDisciplinaFromList(temas, fallbackDisciplina.id)[0] || null : null;
@@ -381,9 +384,13 @@ function getDashboardName(
   return formatted;
 }
 
-function getRoleHeadline(role: "admin" | "professor" | "aluno" | null) {
+function getRoleHeadline(role: "admin" | "professor" | "coordenadora" | "aluno" | null) {
   if (role === "admin") {
     return "Administrador";
+  }
+
+  if (role === "coordenadora") {
+    return "Coordenadora";
   }
 
   if (role === "professor") {

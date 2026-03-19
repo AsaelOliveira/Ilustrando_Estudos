@@ -59,6 +59,20 @@ export function getTurma(id: string): Turma | undefined {
   return turmas.find((turma) => turma.id === id);
 }
 
+export function getAccessibleTurmas(userTurmaId: string | null | undefined): Turma[] {
+  if (!userTurmaId) return turmas;
+
+  const currentTurma = getTurma(userTurmaId);
+  if (!currentTurma) return turmas;
+
+  return turmas.filter((turma) => turma.ano <= currentTurma.ano);
+}
+
+export function canAccessTurma(userTurmaId: string | null | undefined, targetTurmaId: string | null | undefined) {
+  if (!targetTurmaId) return false;
+  return getAccessibleTurmas(userTurmaId).some((turma) => turma.id === targetTurmaId);
+}
+
 export function getDisciplinasByTurma(turmaId: string): Disciplina[] {
   return disciplinas.filter((disciplina) => disciplina.turmaId === turmaId);
 }

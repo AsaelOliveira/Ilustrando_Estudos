@@ -8,10 +8,19 @@ import MathBlock, { FractionDisplay } from "@/components/MathBlock";
 import { useContentDisplayConfig } from "@/hooks/useContentDisplayConfig";
 import { getTemaByIdFromList, useStudyContent } from "@/hooks/useStudyContent";
 import { useAuth } from "@/hooks/useAuth";
-import { getTurma, getDisciplina } from "@/data/catalog";
+import { canAccessTurma, getTurma, getDisciplina } from "@/data/catalog";
 import type { BlocoExplicacao, Questao } from "@/data/content-types";
 import { setRecentStudy } from "@/lib/recent-study";
 import { Check, X, RotateCcw, Clock, Lightbulb, ChevronDown, BookOpen, FileText, Beaker, PenTool, GraduationCap, Zap, Star, Target } from "lucide-react";
+import { recordActivityResult, type ActivityResultType } from "@/lib/activity-results";
+
+type ActivityContext = {
+  userId: string;
+  turmaId: string;
+  disciplinaId: string;
+  temaId: string;
+  countsForPoints: boolean;
+};
 
 const TABS = ["Resumo", "Explicação", "Exemplos", "Exercícios", "Simulado"] as const;
 type Tab = (typeof TABS)[number];
@@ -36,9 +45,19 @@ export default function AulaPage() {
   const visibleExercicios = tema?.exercicios.slice(0, contentDisplayConfig.maxExercisesPerTema) || [];
   const userTurma = profile?.turma_id;
   const isAdmin = role === "admin";
+  const countsForPoints = Boolean(isAdmin || !userTurma || userTurma === tema?.turmaId);
+  const activityContext: ActivityContext | null = user && tema
+    ? {
+        userId: user.id,
+        turmaId: tema.turmaId,
+        disciplinaId: tema.disciplinaId,
+        temaId: tema.id,
+        countsForPoints,
+      }
+    : null;
 
-  if (user && !isAdmin && userTurma && turmaId && turmaId !== userTurma) {
-    return <Navigate to={`/app/turmas/${userTurma}`} replace />;
+  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
+    return <Navigate to="/app/turmas" replace />;
   }
 
   useEffect(() => {
@@ -92,6 +111,12 @@ export default function AulaPage() {
           <p className="font-body text-sm text-muted-foreground mt-2">
             {visibleExercicios.length} exercícios • {tema.simulado.length} questões no simulado • {tema.explicacao.length} seções
           </p>
+          {!countsForPoints && (
+            <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-200 bg-amber-50 px-4 py-2 text-xs font-medium text-amber-800">
+              <span>🔒</span>
+              <span>Modo estudo: esta turma libera aprendizado, mas só sua turma conta pontos e Sinapses.</span>
+            </div>
+          )}
         </motion.div>
 
         {/* Tabs */}
@@ -133,13 +158,31 @@ export default function AulaPage() {
             {tab === "Resumo" && <ResumoTab resumo={tema.resumo} />}
             {tab === "Explicação" && <ExplicacaoTab explicacao={tema.explicacao} />}
             {tab === "Exemplos" && <ExemplosTab exemplos={tema.exemplos} isMath={tema.disciplinaId.startsWith("mat")} />}
-            {tab === "Exercícios" && <ExerciciosTab exercicios={visibleExercicios} />}
-            {tab === "Simulado" && <SimuladoTab questoes={tema.simulado} />}
+            {tab === "Exercícios" && <ExerciciosTab exercicios={visibleExercicios} activityContext={activityContext} />}
+            {tab === "Simulado" && <SimuladoTab questoes={tema.simulado} activityContext={activityContext} />}
           </motion.div>
         </AnimatePresence>
       </section>
     </Layout>
   );
+}
+
+async function saveActivityResult(
+  activityContext: ActivityContext,
+  tipo: ActivityResultType,
+  acertos: number,
+  total: number,
+) {
+  await recordActivityResult({
+    userId: activityContext.userId,
+    turmaId: activityContext.turmaId,
+    disciplinaId: activityContext.disciplinaId,
+    temaId: activityContext.temaId,
+    tipo,
+    acertos,
+    total,
+    countsForPoints: activityContext.countsForPoints,
+  });
 }
 
 function ResumoTab({ resumo }: { resumo: string[] }) {
@@ -327,9 +370,16 @@ function extractMathLines(step: string): string[] {
   return [step];
 }
 
-function ExerciciosTab({ exercicios }: { exercicios: Questao[] }) {
+function ExerciciosTab({
+  exercicios,
+  activityContext,
+}: {
+  exercicios: Questao[];
+  activityContext: ActivityContext | null;
+}) {
   const [respostas, setRespostas] = useState<Record<string, string>>({});
   const [showGabarito, setShowGabarito] = useState(false);
+  const [savedResult, setSavedResult] = useState(false);
 
   const totalRespondidas = Object.keys(respostas).length;
   const totalAcertos = exercicios.filter((q) => respostas[q.id] === q.respostaCorreta).length;
@@ -337,6 +387,16 @@ function ExerciciosTab({ exercicios }: { exercicios: Questao[] }) {
   const handleReset = () => {
     setRespostas({});
     setShowGabarito(false);
+    setSavedResult(false);
+  };
+
+  const handleShowGabarito = async () => {
+    setShowGabarito(true);
+
+    if (!activityContext || savedResult || totalRespondidas !== exercicios.length) return;
+
+    await saveActivityResult(activityContext, "exercicio", totalAcertos, exercicios.length);
+    setSavedResult(true);
   };
 
   return (
@@ -392,7 +452,7 @@ function ExerciciosTab({ exercicios }: { exercicios: Questao[] }) {
       </div>
       <div className="flex gap-3 mt-8">
         <button
-          onClick={() => setShowGabarito(true)}
+          onClick={() => void handleShowGabarito()}
           disabled={totalRespondidas === 0}
           className="btn-tap bg-primary text-primary-foreground font-heading font-semibold px-6 py-3.5 rounded-xl hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20 text-sm disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
         >
@@ -537,23 +597,35 @@ function QuestaoCard({
   );
 }
 
-function SimuladoTab({ questoes }: { questoes: Questao[] }) {
+function SimuladoTab({
+  questoes,
+  activityContext,
+}: {
+  questoes: Questao[];
+  activityContext: ActivityContext | null;
+}) {
   const [respostas, setRespostas] = useState<Record<string, string>>({});
   const [finalizado, setFinalizado] = useState(false);
   const [showConfetti, setShowConfetti] = useState(false);
   const [timerEnabled, setTimerEnabled] = useState(false);
   const [timeLeft, setTimeLeft] = useState(questoes.length * 60);
   const [started, setStarted] = useState(false);
+  const [savedResult, setSavedResult] = useState(false);
 
   const acertos = questoes.filter((q) => respostas[q.id] === q.respostaCorreta).length;
 
-  const handleFinalizar = useCallback(() => {
+  const handleFinalizar = useCallback(async () => {
     setFinalizado(true);
     if (acertos >= questoes.length * 0.6) {
       setShowConfetti(true);
       setTimeout(() => setShowConfetti(false), 4000);
     }
-  }, [acertos, questoes.length]);
+
+    if (!activityContext || savedResult) return;
+
+    await saveActivityResult(activityContext, "simulado", acertos, questoes.length);
+    setSavedResult(true);
+  }, [acertos, activityContext, questoes.length, savedResult]);
 
   useEffect(() => {
     if (!timerEnabled || !started || finalizado) return;
@@ -561,7 +633,7 @@ function SimuladoTab({ questoes }: { questoes: Questao[] }) {
       setTimeLeft((prev) => {
         if (prev <= 1) {
           clearInterval(interval);
-          handleFinalizar();
+          void handleFinalizar();
           return 0;
         }
         return prev - 1;
@@ -671,6 +743,7 @@ function SimuladoTab({ questoes }: { questoes: Questao[] }) {
             setFinalizado(false);
             setStarted(false);
             setTimeLeft(questoes.length * 60);
+            setSavedResult(false);
           }}
           className="btn-tap mt-8 border border-border text-foreground font-heading font-semibold px-6 py-3 rounded-xl hover:bg-secondary transition-colors text-sm flex items-center gap-2"
         >
@@ -714,7 +787,7 @@ function SimuladoTab({ questoes }: { questoes: Questao[] }) {
       <motion.button
         whileHover={{ scale: 1.02 }}
         whileTap={{ scale: 0.98 }}
-        onClick={handleFinalizar}
+        onClick={() => void handleFinalizar()}
         className="btn-tap mt-8 bg-primary text-primary-foreground font-heading font-semibold px-8 py-4 rounded-xl hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20 text-base"
       >
         🏁 Finalizar Simulado

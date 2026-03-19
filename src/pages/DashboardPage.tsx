@@ -11,6 +11,7 @@ import { TrendingUp, TrendingDown, Target, BookOpen, Flame, Trophy, Lightbulb, B
 import { Link, useLocation } from "react-router-dom";
 import { getStreakBonus } from "@/lib/mission-scoring";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
+import { formatAppDate } from "@/lib/date-utils";
 
 interface AttemptData {
   mission_date: string;
@@ -88,7 +89,7 @@ export default function DashboardPage() {
   const evolution = useMemo(() => {
     const last7 = attempts.slice(-7);
     return last7.map(a => ({
-      date: new Date(a.mission_date).toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit" }),
+      date: formatAppDate(a.mission_date, { day: "2-digit", month: "2-digit" }, "--/--"),
       score: a.score,
       pct: Math.round((a.correct_answers / a.total_questions) * 100),
     }));

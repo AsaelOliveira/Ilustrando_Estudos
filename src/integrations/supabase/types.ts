@@ -128,6 +128,45 @@ export type Database = {
         }
         Relationships: []
       }
+        activity_results: {
+          Row: {
+            acertos: number
+            counts_for_points: boolean
+            created_at: string
+            disciplina_id: string
+            id: string
+            tema_id: string
+          tipo: string
+          total: number
+          turma_id: string
+          user_id: string
+        }
+          Insert: {
+            acertos: number
+            counts_for_points?: boolean
+            created_at?: string
+            disciplina_id: string
+            id?: string
+            tema_id: string
+          tipo: string
+          total: number
+          turma_id: string
+          user_id: string
+        }
+          Update: {
+            acertos?: number
+            counts_for_points?: boolean
+            created_at?: string
+            disciplina_id?: string
+            id?: string
+            tema_id?: string
+          tipo?: string
+          total?: number
+          turma_id?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
       mission_attempts: {
         Row: {
           anti_cheat_flags: Json | null
@@ -206,6 +245,7 @@ export type Database = {
           avatar_url: string | null
           created_at: string
           id: string
+          login_identifier: string | null
           nome: string
           turma_id: string | null
           updated_at: string
@@ -219,6 +259,7 @@ export type Database = {
           avatar_url?: string | null
           created_at?: string
           id?: string
+          login_identifier?: string | null
           nome: string
           turma_id?: string | null
           updated_at?: string
@@ -232,6 +273,7 @@ export type Database = {
           avatar_url?: string | null
           created_at?: string
           id?: string
+          login_identifier?: string | null
           nome?: string
           turma_id?: string | null
           updated_at?: string
@@ -271,6 +313,51 @@ export type Database = {
           streak_days?: number
           turma_id?: string
           updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      professor_turmas: {
+        Row: {
+          created_at: string
+          id: string
+          turma_id: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          turma_id: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          turma_id?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      professor_assignments: {
+        Row: {
+          created_at: string
+          disciplina_id: string
+          id: string
+          turma_id: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          disciplina_id: string
+          id?: string
+          turma_id: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          disciplina_id?: string
+          id?: string
+          turma_id?: string
           user_id?: string
         }
         Relationships: []
@@ -317,9 +404,15 @@ export type Database = {
         }
         Returns: undefined
       }
+      resolve_login_email: {
+        Args: {
+          p_identifier: string
+        }
+        Returns: string | null
+      }
     }
     Enums: {
-      app_role: "admin" | "professor" | "aluno"
+      app_role: "admin" | "professor" | "coordenadora" | "aluno"
     }
     CompositeTypes: {
       [_ in never]: never
@@ -447,7 +540,7 @@ export type CompositeTypes<
 export const Constants = {
   public: {
     Enums: {
-      app_role: ["admin", "professor", "aluno"],
+      app_role: ["admin", "professor", "coordenadora", "aluno"],
     },
   },
 } as const

@@ -6,10 +6,19 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
 };
 
-type UserRole = "admin" | "professor" | "aluno";
+type UserRole = "admin" | "professor" | "coordenadora" | "aluno";
 
 type ManageUsersPayload =
-  | { action: "create_user"; email: string; password: string; nome: string; turma_id: string; role?: UserRole }
+  | {
+      action: "create_user";
+      email: string;
+      password: string;
+      nome: string;
+      turma_id: string;
+      role?: UserRole;
+      turma_ids?: string[];
+      assignments?: Array<{ turma_id: string; disciplina_id: string }>;
+    }
   | { action: "batch_create"; users: Array<{ email: string; password?: string; nome: string; turma_id: string }> }
   | { action: "list_users" }
   | { action: "reset_password"; user_id: string; new_password?: string }
@@ -19,6 +28,7 @@ type ManageUsersPayload =
 type ListedProfile = {
   user_id: string;
   nome: string;
+  login_identifier?: string | null;
   turma_id: string | null;
   avatar_url: string | null;
   created_at: string;
@@ -50,6 +60,25 @@ function generatePassword() {
   const bytes = crypto.getRandomValues(new Uint8Array(10));
 
   return Array.from(bytes, (byte) => alphabet[byte % alphabet.length]).join("");
+}
+
+async function generateUniqueLoginIdentifier(supabase: ReturnType<typeof createClient>) {
+  const bytes = crypto.getRandomValues(new Uint8Array(4));
+  const base = `aluno_${Array.from(bytes, (byte) => byte.toString(16).padStart(2, "0")).join("").slice(0, 6)}`;
+  let candidate = base;
+  let counter = 2;
+
+  while (true) {
+    const { data } = await supabase
+      .from("profiles")
+      .select("user_id")
+      .eq("login_identifier", candidate)
+      .maybeSingle();
+
+    if (!data) return candidate;
+    candidate = `${base}_${counter}`;
+    counter += 1;
+  }
 }
 
 function getRequiredEnv(name: string) {
@@ -103,7 +132,8 @@ serve(async (req) => {
     const payload = (await req.json()) as ManageUsersPayload;
 
     if (payload.action === "create_user") {
-      const { email, password, nome, turma_id, role } = payload;
+      const { email, password, nome, turma_id, role, turma_ids, assignments } = payload;
+      const loginIdentifier = await generateUniqueLoginIdentifier(supabase);
       const { data, error } = await supabase.auth.admin.createUser({
         email,
         password,
@@ -112,8 +142,22 @@ serve(async (req) => {
       });
       if (error) throw error;
 
-      await supabase.from("profiles").update({ turma_id }).eq("user_id", data.user.id);
+      await supabase.from("profiles").update({ turma_id, login_identifier: loginIdentifier }).eq("user_id", data.user.id);
       await supabase.from("user_roles").insert({ user_id: data.user.id, role: role || "aluno" });
+      if (role === "professor" && turma_ids?.length) {
+        await supabase.from("professor_turmas").insert(
+          turma_ids.map((linkedTurmaId) => ({ user_id: data.user.id, turma_id: linkedTurmaId })),
+        );
+      }
+      if (role === "professor" && assignments?.length) {
+        await supabase.from("professor_assignments").insert(
+          assignments.map((assignment) => ({
+            user_id: data.user.id,
+            disciplina_id: assignment.disciplina_id,
+            turma_id: assignment.turma_id,
+          })),
+        );
+      }
 
       return jsonResponse({
         success: true,
@@ -123,6 +167,7 @@ serve(async (req) => {
           nome,
           email,
           turma_id,
+          login_identifier: loginIdentifier,
           password,
         },
       });
@@ -143,6 +188,7 @@ serve(async (req) => {
 
       for (const userToCreate of payload.users) {
         const password = userToCreate.password || generatePassword();
+        const loginIdentifier = await generateUniqueLoginIdentifier(supabase);
         const { data, error } = await supabase.auth.admin.createUser({
           email: userToCreate.email,
           password,
@@ -155,7 +201,7 @@ serve(async (req) => {
           continue;
         }
 
-        await supabase.from("profiles").update({ turma_id: userToCreate.turma_id }).eq("user_id", data.user.id);
+        await supabase.from("profiles").update({ turma_id: userToCreate.turma_id, login_identifier: loginIdentifier }).eq("user_id", data.user.id);
         await supabase.from("user_roles").insert({ user_id: data.user.id, role: "aluno" });
 
         results.credentials.push({
@@ -163,6 +209,7 @@ serve(async (req) => {
           nome: userToCreate.nome,
           email: userToCreate.email,
           turma_id: userToCreate.turma_id,
+          login_identifier: loginIdentifier,
           password,
         });
         results.success++;
@@ -174,7 +221,7 @@ serve(async (req) => {
     if (payload.action === "list_users") {
       const { data: profileRows } = await supabase
         .from("profiles")
-        .select("user_id, nome, turma_id, avatar_url, created_at")
+        .select("user_id, nome, login_identifier, turma_id, avatar_url, created_at")
         .order("created_at", { ascending: false });
 
       const { data: roleRows } = await supabase.from("user_roles").select("user_id, role");

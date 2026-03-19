@@ -1,17 +1,27 @@
 import { supabase } from "@/integrations/supabase/client";
 
-type UserRole = "admin" | "professor" | "aluno";
+type UserRole = "admin" | "professor" | "coordenadora" | "aluno";
 
 export type ManagedCredential = {
   user_id: string;
   nome: string;
   email: string;
   turma_id: string | null;
+  login_identifier?: string;
   password: string;
 };
 
 type ManageUsersAction =
-  | { action: "create_user"; email: string; password: string; nome: string; turma_id: string; role?: UserRole }
+  | {
+      action: "create_user";
+      email: string;
+      password: string;
+      nome: string;
+      turma_id: string;
+      role?: UserRole;
+      turma_ids?: string[];
+      assignments?: Array<{ turma_id: string; disciplina_id: string }>;
+    }
   | { action: "batch_create"; users: Array<{ email: string; password?: string; nome: string; turma_id: string }> }
   | { action: "list_users" }
   | { action: "reset_password"; user_id: string; new_password?: string }
@@ -50,6 +60,8 @@ export function createManagedUser(input: {
   password: string;
   turma_id: string;
   role?: UserRole;
+  turma_ids?: string[];
+  assignments?: Array<{ turma_id: string; disciplina_id: string }>;
 }) {
   return invokeManageUsers<{
     success: true;

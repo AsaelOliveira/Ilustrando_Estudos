@@ -17,7 +17,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import { useContentDisplayConfig } from "@/hooks/useContentDisplayConfig";
 import { getTemasByDisciplinaFromList, useStudyContent } from "@/hooks/useStudyContent";
 import { useAuth } from "@/hooks/useAuth";
-import { getDisciplina, getTurma } from "@/data/catalog";
+import { canAccessTurma, getDisciplina, getTurma } from "@/data/catalog";
 import { getDisciplineVisual } from "@/lib/discipline-visuals";
 
 function formatCount(value: number, singular: string, plural: string) {
@@ -66,8 +66,8 @@ export default function TemasPage() {
   const userTurma = profile?.turma_id;
   const isAdmin = role === "admin";
 
-  if (user && !isAdmin && userTurma && turmaId && turmaId !== userTurma) {
-    return <Navigate to={`/app/turmas/${userTurma}`} replace />;
+  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
+    return <Navigate to="/app/turmas" replace />;
   }
 
   const filtered = useMemo(() => {

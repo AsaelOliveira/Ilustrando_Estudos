@@ -20,6 +20,7 @@ const LoginPage = lazy(() => import("./pages/LoginPage"));
 const PerfilPage = lazy(() => import("./pages/PerfilPage"));
 const AppHomePage = lazy(() => import("./pages/AppHomePage"));
 const DashboardPage = lazy(() => import("./pages/DashboardPage"));
+const AcompanhamentoPage = lazy(() => import("./pages/AcompanhamentoPage"));
 const FavoritosPage = lazy(() => import("./pages/FavoritosPage"));
 const ModoProvaPage = lazy(() => import("./pages/ModoProvaPage"));
 const DuelPage = lazy(() => import("./pages/DuelPage"));
@@ -94,6 +95,9 @@ const App = () => (
                   <Route path="/app/turmas/:turmaId/:disciplinaId" element={<TemasPage />} />
                   <Route path="/app/turmas/:turmaId/:disciplinaId/:temaId" element={<AulaPage />} />
                   <Route path="/app/progresso" element={<DashboardPage />} />
+                  <Route element={<RequireRole allowedRoles={["admin", "professor", "coordenadora"]} />}>
+                    <Route path="/app/acompanhamento" element={<AcompanhamentoPage />} />
+                  </Route>
                   <Route path="/app/favoritos" element={<FavoritosPage />} />
                   <Route path="/app/modo-prova" element={<ModoProvaPage />} />
                   <Route path="/app/configuracoes" element={<PerfilPage />} />

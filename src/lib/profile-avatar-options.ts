@@ -48,16 +48,27 @@ export type AvataaarsConfig = {
   clothing: string;
 };
 
+export type AvatarEffect = "none" | "glow" | "orbit" | "sparkles" | "spin" | "mirror";
+
 export type StoredProfileAvatar = {
   style: ProfileAvatarStyle;
   seed: string;
   config: AvataaarsConfig;
+  effect: AvatarEffect;
 };
 
 export type AvatarShopItem = {
   id: string;
   slot: AvatarShopSlot;
   value: string | null;
+  label: string;
+  description: string;
+  cost: number;
+};
+
+export type AvatarEffectItem = {
+  id: string;
+  value: AvatarEffect;
   label: string;
   description: string;
   cost: number;
@@ -177,6 +188,15 @@ export const defaultAvataaarsConfig: AvataaarsConfig = {
   clothing: "hoodie",
 };
 
+export const avatarEffectItems: AvatarEffectItem[] = [
+  { id: "effect:none", value: "none", label: "Sem efeito", description: "Visual limpo e direto.", cost: 0 },
+  { id: "effect:glow", value: "glow", label: "Aura", description: "Brilho suave em volta do avatar.", cost: 140 },
+  { id: "effect:orbit", value: "orbit", label: "Órbita", description: "Anel animado com cara de item raro.", cost: 190 },
+  { id: "effect:sparkles", value: "sparkles", label: "Faíscas", description: "Partículas leves ao redor do perfil.", cost: 230 },
+  { id: "effect:spin", value: "spin", label: "Giro", description: "O avatar balança e gira com mais presença.", cost: 260 },
+  { id: "effect:mirror", value: "mirror", label: "Espelho", description: "Brilho deslizante com reflexo lateral.", cost: 290 },
+];
+
 const validAvataaarsAccessories = new Set([
   "round",
   "prescription01",
@@ -204,6 +224,7 @@ const starterUnlocks = [
   "accessories:none",
   "top:shortFlat",
   "clothing:hoodie",
+  "effect:none",
   "style:thumbs",
   "choice:thumbs:sol",
   "choice:thumbs:trilha",
@@ -401,6 +422,7 @@ export function normalizeStoredAvatarState(
     style: parsedUrl?.style ?? "thumbs",
     seed: `${fallbackSeed}-${parsedSeedSuffix}`,
     config: parsedUrl?.config ?? defaultAvataaarsConfig,
+    effect: "none",
   };
 
   if (!value || typeof value !== "object" || Array.isArray(value)) {
@@ -422,6 +444,14 @@ export function normalizeStoredAvatarState(
     config: style === "avataaars"
       ? normalizeAvataaarsConfig(source.config)
       : defaultAvataaarsConfig,
+    effect:
+      source.effect === "glow" ||
+      source.effect === "orbit" ||
+      source.effect === "sparkles" ||
+      source.effect === "spin" ||
+      source.effect === "mirror"
+        ? source.effect
+        : "none",
   };
 }
 

@@ -1,12 +1,14 @@
 import { supabase } from "@/integrations/supabase/client";
 
 export interface AvatarCatalogVisibilityConfig {
+  hiddenTabs: string[];
   hiddenStyles: string[];
   hiddenChoices: string[];
   hiddenItems: string[];
 }
 
 export const DEFAULT_AVATAR_CATALOG_VISIBILITY: AvatarCatalogVisibilityConfig = {
+  hiddenTabs: [],
   hiddenStyles: [],
   hiddenChoices: [],
   hiddenItems: [],
@@ -21,6 +23,7 @@ export function normalizeAvatarCatalogVisibilityConfig(value: unknown): AvatarCa
       : [];
 
   return {
+    hiddenTabs: normalizeList(source.hiddenTabs),
     hiddenStyles: normalizeList(source.hiddenStyles),
     hiddenChoices: normalizeList(source.hiddenChoices),
     hiddenItems: normalizeList(source.hiddenItems),

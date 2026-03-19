@@ -4,6 +4,7 @@ import { supabase } from "@/integrations/supabase/client";
 
 export type AuthProfile = {
   nome: string;
+  login_identifier?: string | null;
   avatar_url: string | null;
   turma_id: string | null;
   avatar_locked: boolean;
@@ -12,7 +13,7 @@ export type AuthProfile = {
   avatar_shop_spent: number;
 };
 
-export type AuthRole = "admin" | "professor" | "aluno";
+export type AuthRole = "admin" | "professor" | "coordenadora" | "aluno";
 
 interface AuthContext {
   user: User | null;
@@ -53,10 +54,22 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const fetchSupabaseProfile = async (userId: string) => {
     const { data: profileData } = await supabase
       .from("profiles")
-      .select("nome, avatar_url, turma_id, avatar_locked, avatar_style, avatar_unlocks, avatar_shop_spent")
+      .select("nome, login_identifier, avatar_url, turma_id, avatar_locked, avatar_style, avatar_unlocks, avatar_shop_spent")
       .eq("user_id", userId)
       .single();
-    if (profileData) setProfile(profileData);
+
+    const { data: scoreData } = await supabase
+      .from("student_scores")
+      .select("turma_id")
+      .eq("user_id", userId)
+      .maybeSingle();
+
+    if (profileData) {
+      setProfile({
+        ...profileData,
+        turma_id: profileData.turma_id ?? scoreData?.turma_id ?? null,
+      });
+    }
 
     const { data: roleData } = await supabase
       .from("user_roles")
@@ -113,7 +126,25 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const signIn = async (identifier: string, password: string) => {
     const normalizedIdentifier = identifier.trim().toLowerCase();
-    const { error } = await supabase.auth.signInWithPassword({ email: normalizedIdentifier, password });
+    let emailToUse = normalizedIdentifier;
+
+    if (!normalizedIdentifier.includes("@")) {
+      const { data, error: resolveError } = await supabase.rpc("resolve_login_email", {
+        p_identifier: normalizedIdentifier,
+      });
+
+      if (resolveError) {
+        return { error: resolveError.message ?? "Nao foi possivel localizar esse acesso." };
+      }
+
+      if (!data) {
+        return { error: "Nao foi possivel localizar esse acesso." };
+      }
+
+      emailToUse = data;
+    }
+
+    const { error } = await supabase.auth.signInWithPassword({ email: emailToUse, password });
 
     return { error: error?.message ?? null };
   };
