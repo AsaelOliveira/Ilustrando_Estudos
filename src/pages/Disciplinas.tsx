@@ -1,15 +1,23 @@
-import { Link, useParams } from "react-router-dom";
+import { Link, Navigate, useParams } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { getDisciplinasByTurma, getTurma } from "@/data/catalog";
 import { getDisciplineVisual } from "@/lib/discipline-visuals";
+import { useAuth } from "@/hooks/useAuth";
 
 export default function Disciplinas() {
   const { turmaId } = useParams<{ turmaId: string }>();
+  const { user, profile, role } = useAuth();
   const turmaData = getTurma(turmaId || "");
   const discs = getDisciplinasByTurma(turmaId || "");
+  const userTurma = profile?.turma_id;
+  const isAdmin = role === "admin";
+
+  if (user && !isAdmin && userTurma && turmaId && turmaId !== userTurma) {
+    return <Navigate to={`/app/turmas/${userTurma}`} replace />;
+  }
 
   if (!turmaData) {
     return (

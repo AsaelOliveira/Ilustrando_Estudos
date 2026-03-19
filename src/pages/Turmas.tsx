@@ -27,6 +27,9 @@ export default function Turmas() {
   const { user, profile, role } = useAuth();
   const userTurma = profile?.turma_id;
   const isAdmin = role === "admin";
+  const visibleTurmas = user && !isAdmin && userTurma
+    ? turmas.filter((turma) => turma.id === userTurma)
+    : turmas;
 
   return (
     <Layout>
@@ -49,7 +52,7 @@ export default function Turmas() {
           animate="show"
           className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4"
         >
-          {turmas.map((turma) => {
+          {visibleTurmas.map((turma) => {
             const isLocked = user && !isAdmin && userTurma && turma.id !== userTurma;
             const gradient = turmaColors[turma.id] || "from-primary/20 to-primary/5";
 

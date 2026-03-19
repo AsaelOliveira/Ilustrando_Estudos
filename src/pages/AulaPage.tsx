@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Navigate, useParams } from "react-router-dom";
 import { useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Layout from "@/components/Layout";
@@ -7,6 +7,7 @@ import Confetti from "@/components/Confetti";
 import MathBlock, { FractionDisplay } from "@/components/MathBlock";
 import { useContentDisplayConfig } from "@/hooks/useContentDisplayConfig";
 import { getTemaByIdFromList, useStudyContent } from "@/hooks/useStudyContent";
+import { useAuth } from "@/hooks/useAuth";
 import { getTurma, getDisciplina } from "@/data/catalog";
 import type { BlocoExplicacao, Questao } from "@/data/content-types";
 import { setRecentStudy } from "@/lib/recent-study";
@@ -25,6 +26,7 @@ const tabConfig: Record<Tab, { icon: typeof BookOpen; emoji: string }> = {
 
 export default function AulaPage() {
   const { turmaId, disciplinaId, temaId } = useParams();
+  const { user, profile, role } = useAuth();
   const { temas, loading } = useStudyContent();
   const { config: contentDisplayConfig, loading: contentDisplayLoading } = useContentDisplayConfig();
   const turmaData = getTurma(turmaId || "");
@@ -32,6 +34,12 @@ export default function AulaPage() {
   const tema = getTemaByIdFromList(temas, temaId || "");
   const [tab, setTab] = useState<Tab>("Resumo");
   const visibleExercicios = tema?.exercicios.slice(0, contentDisplayConfig.maxExercisesPerTema) || [];
+  const userTurma = profile?.turma_id;
+  const isAdmin = role === "admin";
+
+  if (user && !isAdmin && userTurma && turmaId && turmaId !== userTurma) {
+    return <Navigate to={`/app/turmas/${userTurma}`} replace />;
+  }
 
   useEffect(() => {
     if (!turmaData || !discData || !tema || !turmaId || !disciplinaId || !temaId) return;

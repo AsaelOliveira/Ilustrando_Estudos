@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom";
+import { Link, Navigate, useParams } from "react-router-dom";
 import { useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
@@ -16,6 +16,7 @@ import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { useContentDisplayConfig } from "@/hooks/useContentDisplayConfig";
 import { getTemasByDisciplinaFromList, useStudyContent } from "@/hooks/useStudyContent";
+import { useAuth } from "@/hooks/useAuth";
 import { getDisciplina, getTurma } from "@/data/catalog";
 import { getDisciplineVisual } from "@/lib/discipline-visuals";
 
@@ -53,6 +54,7 @@ const temaVariants: TemaVariant[] = [
 
 export default function TemasPage() {
   const { turmaId, disciplinaId } = useParams<{ turmaId: string; disciplinaId: string }>();
+  const { user, profile, role } = useAuth();
   const { temas, loading } = useStudyContent();
   const { config: contentDisplayConfig, loading: contentDisplayLoading } = useContentDisplayConfig();
   const turmaData = getTurma(turmaId || "");
@@ -61,6 +63,12 @@ export default function TemasPage() {
   const [search, setSearch] = useState("");
   const disciplineVisual = getDisciplineVisual(disciplinaId || "");
   const DisciplineIcon = disciplineVisual.icon;
+  const userTurma = profile?.turma_id;
+  const isAdmin = role === "admin";
+
+  if (user && !isAdmin && userTurma && turmaId && turmaId !== userTurma) {
+    return <Navigate to={`/app/turmas/${userTurma}`} replace />;
+  }
 
   const filtered = useMemo(() => {
     if (!search.trim()) return allTemas;
