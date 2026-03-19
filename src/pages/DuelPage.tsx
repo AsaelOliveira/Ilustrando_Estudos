@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSearchParams } from "react-router-dom";
 import {
-  Sword,
+  PencilLine,
   Clock,
   Trophy,
   Plus,
@@ -99,6 +99,7 @@ type DuelConfig = {
   targetType: "publico" | "privado";
   targetUserId: string | null;
   targetUserName: string | null;
+  targetUserAvatar: string | null;
 };
 
 type RankingEntry = {
@@ -466,11 +467,11 @@ export default function DuelPage() {
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-8">
           <div className="flex items-center gap-3">
             <motion.div
-              animate={{ rotate: [0, -12, 12, 0] }}
+              animate={{ rotate: [0, -10, 10, 0] }}
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
               className="text-4xl"
             >
-              ⚔️
+              ✏️
             </motion.div>
             <div>
               <h1 className="font-heading text-3xl font-extrabold text-foreground md:text-4xl">
@@ -854,7 +855,7 @@ function LobbyView({
   if (!user) {
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
-        <Sword className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
+        <PencilLine className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
         <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para duelar!</h2>
       </div>
     );
@@ -1018,7 +1019,7 @@ function LobbyView({
           </div>
         ) : challenges.length === 0 ? (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
-            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 text-5xl">⚔️</motion.div>
+            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 text-5xl">✏️</motion.div>
             <h3 className="mb-1 font-heading text-lg font-bold text-foreground">Nenhum desafio por enquanto</h3>
             <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversário.</p>
           </motion.div>
@@ -1078,7 +1079,7 @@ function LobbyView({
                   disabled={accepting === c.id || rejecting === c.id}
                   className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
-                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ⚔️"}
+                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️"}
                 </button>
                 {c.visibility === "privado" ? (
                   <button
@@ -1151,6 +1152,7 @@ function ConfigView({
     targetType: "publico",
     targetUserId: null,
     targetUserName: null,
+    targetUserAvatar: null,
   });
   const [creating, setCreating] = useState(false);
 
@@ -1170,6 +1172,7 @@ function ConfigView({
       targetType: "privado",
       targetUserId: initialTarget.user_id,
       targetUserName: initialTarget.nome,
+      targetUserAvatar: initialTarget.avatar_url ?? null,
     }));
   }, [initialTarget]);
 
@@ -1377,7 +1380,7 @@ function ConfigView({
             ]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
-                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null }))}
+                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null, targetUserAvatar: null }))}
                 className={`btn-tap rounded-xl border-2 p-4 text-left transition-all ${cfg.targetType === val ? "border-accent bg-accent/5" : "border-border hover:border-accent/20"}`}
               >
                 <Icon className={`mb-1 h-5 w-5 ${cfg.targetType === val ? "text-accent" : "text-muted-foreground"}`} />
@@ -1395,7 +1398,7 @@ function ConfigView({
               <div className="flex items-center gap-3 rounded-2xl border-2 border-accent/30 bg-accent/5 px-4 py-3">
                 <SimpleProfileAvatar
                   size="md"
-                  src={initialTarget?.user_id === cfg.targetUserId ? initialTarget.avatar_url ?? null : null}
+                  src={cfg.targetUserAvatar}
                   showBadge={false}
                 />
                 <div className="flex-1">
@@ -1403,7 +1406,7 @@ function ConfigView({
                   <p className="font-body text-[10px] text-muted-foreground">Adversário selecionado</p>
                 </div>
                 <button
-                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null })); setSearchQuery(""); }}
+                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null, targetUserAvatar: null })); setSearchQuery(""); }}
                   className="rounded-lg p-1 text-muted-foreground hover:bg-secondary hover:text-foreground"
                 >
                   <X className="h-4 w-4" />
@@ -1428,7 +1431,7 @@ function ConfigView({
                       <button
                         key={r.user_id}
                         onClick={() => {
-                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome }));
+                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome, targetUserAvatar: r.avatar_url ?? null }));
                           setSearchQuery("");
                           setSearchResults([]);
                         }}
@@ -1553,9 +1556,9 @@ function ConfigView({
           {creating ? (
             <span className="flex items-center justify-center gap-2"><Loader2 className="h-4 w-4 animate-spin" /> Criando...</span>
           ) : cfg.targetType === "privado" ? (
-            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ⚔️`
+            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ✏️`
           ) : (
-            "Criar Desafio Público ⚔️"
+            "Criar Desafio Público ✏️"
           )}
         </button>
       </div>
@@ -1741,7 +1744,7 @@ function BattleArena({
           transition={{ duration: 0.8, ease: "backOut" }}
           className="mb-6 text-8xl"
         >
-          ⚔️
+          ✏️
         </motion.div>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
