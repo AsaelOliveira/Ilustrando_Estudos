@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
-import { supabase } from "@/integrations/supabase/client";
+import { useAppAlerts } from "@/hooks/useAppAlerts";
 import { toast } from "@/hooks/use-toast";
 
 function getTodayKey() {
@@ -15,6 +15,7 @@ function getTodayKey() {
 
 export default function SessionNotifications() {
   const { user, role, loading } = useAuth();
+  const { missionAvailable, openDuelCount } = useAppAlerts();
   const location = useLocation();
 
   useEffect(() => {
@@ -25,19 +26,12 @@ export default function SessionNotifications() {
     const run = async () => {
       const today = getTodayKey();
       const missionToastKey = `mission-toast:${user.id}:${today}`;
+      const duelToastKey = `duel-toast:${user.id}:${openDuelCount}`;
       const duelToastPrefix = `duel-toast:${user.id}:`;
-
       const notifications: Array<{ title: string; description: string }> = [];
 
       if (role === "aluno") {
-        const { data: missionToday } = await supabase
-          .from("mission_attempts")
-          .select("id")
-          .eq("user_id", user.id)
-          .eq("mission_date", today)
-          .maybeSingle();
-
-        if (!missionToday && !sessionStorage.getItem(missionToastKey)) {
+        if (missionAvailable && !sessionStorage.getItem(missionToastKey)) {
           notifications.push({
             title: "Missão diária disponível",
             description: "Sua missão de hoje já está liberada. Entre em Competição para ganhar pontos e Sinapses.",
@@ -45,24 +39,18 @@ export default function SessionNotifications() {
           sessionStorage.setItem(missionToastKey, "shown");
         }
 
-        const { data: incomingDuels } = await supabase
-          .from("duels")
-          .select("id")
-          .eq("challenged_id", user.id)
-          .eq("status", "aberto");
-
-        const duelIds = (incomingDuels ?? []).map((duel) => duel.id).sort();
-        if (duelIds.length > 0) {
-          const duelToastKey = `${duelToastPrefix}${duelIds.join(",")}`;
-          const alreadyShown = Object.keys(sessionStorage).some((key) => key.startsWith(duelToastPrefix) && key === duelToastKey);
+        if (openDuelCount > 0) {
+          const alreadyShown = Object.keys(sessionStorage).some(
+            (key) => key.startsWith(duelToastPrefix) && key === duelToastKey,
+          );
 
           if (!alreadyShown) {
             notifications.push({
-              title: duelIds.length === 1 ? "Novo desafio esperando você" : "Desafios esperando você",
+              title: openDuelCount === 1 ? "Novo desafio esperando você" : "Desafios esperando você",
               description:
-                duelIds.length === 1
+                openDuelCount === 1
                   ? "Há um duelo aberto para você responder. Abra a Arena de Duelos para aceitar."
-                  : `Você tem ${duelIds.length} desafios abertos esperando resposta na Arena de Duelos.`,
+                  : `Você tem ${openDuelCount} desafios abertos esperando resposta na Arena de Duelos.`,
             });
             sessionStorage.setItem(duelToastKey, "shown");
           }
@@ -87,7 +75,7 @@ export default function SessionNotifications() {
     return () => {
       active = false;
     };
-  }, [loading, location.pathname, role, user]);
+  }, [loading, location.pathname, missionAvailable, openDuelCount, role, user]);
 
   return null;
 }

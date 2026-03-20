@@ -1,6 +1,7 @@
 import { Navigate, Outlet, useLocation } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
 import SessionNotifications from "@/components/SessionNotifications";
+import { AppAlertsProvider } from "@/hooks/useAppAlerts";
 
 export default function RequireAuth() {
   const { user, loading } = useAuth();
@@ -22,9 +23,9 @@ export default function RequireAuth() {
   }
 
   return (
-    <>
+    <AppAlertsProvider>
       <SessionNotifications />
       <Outlet />
-    </>
+    </AppAlertsProvider>
   );
 }

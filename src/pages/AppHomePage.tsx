@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import { useAppAlerts } from "@/hooks/useAppAlerts";
 import { useContentDisplayConfig } from "@/hooks/useContentDisplayConfig";
 import { useAuth } from "@/hooks/useAuth";
 import {
@@ -40,6 +41,7 @@ function formatVisitedAt(visitedAt: string) {
 
 export default function AppHomePage() {
   const { user, profile, role } = useAuth();
+  const { missionAvailable, openDuelCount } = useAppAlerts();
   const { temas, loading } = useStudyContent();
   const { config: contentDisplayConfig, loading: contentDisplayLoading } = useContentDisplayConfig();
   const recentStudy = getRecentStudy();
@@ -114,6 +116,36 @@ export default function AppHomePage() {
     icon: typeof BookOpen;
     tone: string;
   }[];
+
+  const spotlightCards = [
+    {
+      title: "Missão diária",
+      description: missionAvailable
+        ? "Sua missão já está liberada e pronta para render pontos e Sinapses."
+        : "A missão de hoje já foi concluída. Volte amanhã para manter o ritmo.",
+      to: "/app/competicao",
+      icon: Trophy,
+      badge: missionAvailable ? "Disponível agora" : "Concluída hoje",
+      tone: missionAvailable
+        ? "from-emerald-500/18 via-primary/10 to-background border-primary/20"
+        : "from-slate-200/45 via-background to-background border-border/60",
+      cta: missionAvailable ? "Abrir missão" : "Ver competição",
+    },
+    {
+      title: "Arena de duelos",
+      description:
+        openDuelCount > 0
+          ? `Você tem ${openDuelCount} desafio${openDuelCount > 1 ? "s" : ""} esperando resposta agora.`
+          : "Entre na arena, veja quem está online e responda no seu tempo.",
+      to: "/app/duelo",
+      icon: Zap,
+      badge: openDuelCount > 0 ? `${openDuelCount} pendente${openDuelCount > 1 ? "s" : ""}` : "Sem fila agora",
+      tone: openDuelCount > 0
+        ? "from-amber-500/18 via-orange-400/10 to-background border-amber-300/30"
+        : "from-sky-500/15 via-cyan-400/10 to-background border-sky-200/30",
+      cta: openDuelCount > 0 ? "Responder agora" : "Entrar na arena",
+    },
+  ];
 
   const trailOfTheDay = continueTema
     ? [
@@ -271,7 +303,48 @@ export default function AppHomePage() {
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.08 }}
-          className="mt-8 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]"
+          className="mt-8 grid gap-4 md:grid-cols-2"
+        >
+          {spotlightCards.map((card, index) => {
+            const Icon = card.icon;
+
+            return (
+              <Link
+                key={card.title}
+                to={card.to}
+                className={`group rounded-[1.75rem] border bg-gradient-to-br p-5 shadow-card transition-all hover:-translate-y-1 hover:shadow-xl ${card.tone}`}
+              >
+                <motion.div
+                  initial={{ opacity: 0, y: 16 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.12 + index * 0.05 }}
+                  className="flex items-start gap-4"
+                >
+                  <div className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-2xl bg-background/90 text-primary shadow-sm">
+                    <Icon className="h-6 w-6" />
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <span className="rounded-full bg-background/90 px-3 py-1 text-[11px] font-heading font-semibold uppercase tracking-[0.18em] text-primary">
+                      {card.badge}
+                    </span>
+                    <p className="mt-3 font-heading text-2xl font-bold text-foreground">{card.title}</p>
+                    <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">{card.description}</p>
+                    <div className="mt-4 inline-flex items-center gap-2 text-sm font-heading font-bold text-primary">
+                      {card.cta}
+                      <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                    </div>
+                  </div>
+                </motion.div>
+              </Link>
+            );
+          })}
+        </motion.div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 18 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.14 }}
+          className="mt-6 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]"
         >
           <div className="rounded-[1.75rem] border border-border bg-card p-6 shadow-card">
             <div className="flex items-center justify-between gap-4">
