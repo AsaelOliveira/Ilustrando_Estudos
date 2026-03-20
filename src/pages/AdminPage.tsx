@@ -1694,6 +1694,65 @@ function AlunosTab() {
     setAdminSecretInput("");
   };
 
+  const syncUserTurmaLocally = async ({
+    userId,
+    turmaId,
+    nome,
+    points = 0,
+  }: {
+    userId: string;
+    turmaId: string;
+    nome: string;
+    points?: number;
+  }) => {
+    const { error: profileError } = await supabase
+      .from("profiles")
+      .upsert({
+        user_id: userId,
+        nome,
+        turma_id: turmaId,
+      }, { onConflict: "user_id" });
+
+    if (profileError) throw profileError;
+
+    const { data: existingScore, error: existingScoreLookupError } = await supabase
+      .from("student_scores")
+      .select("user_id, missions_completed, streak_days, last_mission_date, points")
+      .eq("user_id", userId)
+      .maybeSingle();
+
+    if (existingScoreLookupError) throw existingScoreLookupError;
+
+    if (existingScore) {
+      const { error: scoreUpdateError } = await supabase
+        .from("student_scores")
+        .update({
+          turma_id: turmaId,
+          points: existingScore.points ?? points,
+          missions_completed: existingScore.missions_completed ?? 0,
+          streak_days: existingScore.streak_days ?? 0,
+          last_mission_date: existingScore.last_mission_date ?? null,
+        })
+        .eq("user_id", userId);
+
+      if (scoreUpdateError) throw scoreUpdateError;
+      return;
+    }
+
+    const { error: scoreInsertError } = await supabase
+      .from("student_scores")
+      .insert({
+        user_id: userId,
+        turma_id: turmaId,
+        points,
+        missions_completed: 0,
+        streak_days: 0,
+        last_mission_date: null,
+      });
+
+    if (scoreInsertError) throw scoreInsertError;
+  };
+
   const handleAssignTurma = async (userId: string) => {
     const nextTurmaId = turmaDrafts[userId];
     if (!nextTurmaId) return;
@@ -1706,31 +1765,12 @@ function AlunosTab() {
         await assignManagedUserTurma(userId, nextTurmaId);
       } catch {
         const existingUser = usersList.find((userItem) => userItem.user_id === userId);
-
-        const { error: profileError } = await supabase
-          .from("profiles")
-          .upsert({
-            user_id: userId,
-            nome: existingUser?.nome ?? existingUser?.email ?? "Aluno",
-            turma_id: nextTurmaId,
-          }, { onConflict: "user_id" });
-
-        if (profileError) throw profileError;
-
-        const { data: existingScore } = await supabase
-          .from("student_scores")
-          .select("user_id")
-          .eq("user_id", userId)
-          .maybeSingle();
-
-        if (existingScore) {
-          const { error: scoreUpdateError } = await supabase
-            .from("student_scores")
-            .update({ turma_id: nextTurmaId })
-            .eq("user_id", userId);
-
-          if (scoreUpdateError) throw scoreUpdateError;
-        }
+        await syncUserTurmaLocally({
+          userId,
+          turmaId: nextTurmaId,
+          nome: existingUser?.nome ?? existingUser?.email ?? "Aluno",
+          points: existingUser?.points ?? 0,
+        });
       }
 
       setUsersList((prev) =>
@@ -1771,6 +1811,13 @@ function AlunosTab() {
               })
             : undefined,
       });
+
+      await syncUserTurmaLocally({
+        userId: createdUser.user_id,
+        turmaId,
+        nome,
+      });
+
       setResult({ success: 1, errors: [] });
       setLatestCredentials([createdUser.credential]);
       setNome("");
@@ -1805,6 +1852,17 @@ function AlunosTab() {
           password: user.password || undefined,
         }))
       );
+
+      await Promise.all(
+        resultData.credentials.map((credential) =>
+          syncUserTurmaLocally({
+            userId: credential.user_id,
+            turmaId: credential.turma_id,
+            nome: credential.nome,
+          }),
+        ),
+      );
+
       setResult(resultData);
       setLatestCredentials(resultData.credentials);
     } catch (error) {
