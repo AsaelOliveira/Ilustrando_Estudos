@@ -1702,7 +1702,36 @@ function AlunosTab() {
     setAdminError("");
 
     try {
-      await assignManagedUserTurma(userId, nextTurmaId);
+      try {
+        await assignManagedUserTurma(userId, nextTurmaId);
+      } catch {
+        const existingUser = usersList.find((userItem) => userItem.user_id === userId);
+
+        const { error: profileError } = await supabase
+          .from("profiles")
+          .upsert({
+            user_id: userId,
+            nome: existingUser?.nome ?? existingUser?.email ?? "Aluno",
+            turma_id: nextTurmaId,
+          }, { onConflict: "user_id" });
+
+        if (profileError) throw profileError;
+
+        const { data: existingScore } = await supabase
+          .from("student_scores")
+          .select("user_id")
+          .eq("user_id", userId)
+          .maybeSingle();
+
+        if (existingScore) {
+          const { error: scoreUpdateError } = await supabase
+            .from("student_scores")
+            .update({ turma_id: nextTurmaId })
+            .eq("user_id", userId);
+
+          if (scoreUpdateError) throw scoreUpdateError;
+        }
+      }
 
       setUsersList((prev) =>
         prev.map((userItem) =>
