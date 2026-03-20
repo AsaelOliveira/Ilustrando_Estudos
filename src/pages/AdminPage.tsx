@@ -24,6 +24,7 @@ import {
   type MissionScoringConfig,
 } from "@/lib/mission-scoring";
 import {
+  assignManagedUserTurma,
   batchCreateManagedUsers,
   createManagedUser,
   deleteManagedUser,
@@ -1701,32 +1702,14 @@ function AlunosTab() {
     setAdminError("");
 
     try {
-      const { error: profileError } = await supabase
-        .from("profiles")
-        .update({ turma_id: nextTurmaId })
-        .eq("user_id", userId);
-
-      if (profileError) throw profileError;
-
-      const existingUser = usersList.find((userItem) => userItem.user_id === userId);
-
-      const { error: scoreError } = await supabase
-        .from("student_scores")
-        .upsert({
-          user_id: userId,
-          turma_id: nextTurmaId,
-          points: existingUser?.points ?? 0,
-          missions_completed: 0,
-          streak_days: 0,
-        }, { onConflict: "user_id" });
-
-      if (scoreError) throw scoreError;
+      await assignManagedUserTurma(userId, nextTurmaId);
 
       setUsersList((prev) =>
         prev.map((userItem) =>
           userItem.user_id === userId ? { ...userItem, turma_id: nextTurmaId } : userItem,
         ),
       );
+      await loadUsers();
     } catch (error) {
       setAdminError(error instanceof Error ? error.message : "Erro ao salvar turma.");
     } finally {

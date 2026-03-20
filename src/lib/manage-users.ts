@@ -24,6 +24,7 @@ type ManageUsersAction =
     }
   | { action: "batch_create"; users: Array<{ email: string; password?: string; nome: string; turma_id: string }> }
   | { action: "list_users" }
+  | { action: "assign_turma"; user_id: string; turma_id: string }
   | { action: "reset_password"; user_id: string; new_password?: string }
   | { action: "reset_progress"; user_id: string; admin_secret: string }
   | { action: "delete_user"; user_id: string; admin_secret: string };
@@ -88,6 +89,14 @@ export function batchCreateManagedUsers(users: Array<{ nome: string; email: stri
 export function listManagedUsers() {
   return invokeManageUsers<ManagedUser[]>({
     action: "list_users",
+  });
+}
+
+export function assignManagedUserTurma(userId: string, turmaId: string) {
+  return invokeManageUsers<{ success: true; turma_id: string }>({
+    action: "assign_turma",
+    user_id: userId,
+    turma_id: turmaId,
   });
 }
 

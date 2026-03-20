@@ -21,6 +21,7 @@ type ManageUsersPayload =
     }
   | { action: "batch_create"; users: Array<{ email: string; password?: string; nome: string; turma_id: string }> }
   | { action: "list_users" }
+  | { action: "assign_turma"; user_id: string; turma_id: string }
   | { action: "reset_password"; user_id: string; new_password?: string }
   | { action: "reset_progress"; user_id: string; admin_secret: string }
   | { action: "delete_user"; user_id: string; admin_secret: string };
@@ -45,6 +46,7 @@ type AuthListUser = {
   created_at?: string;
   user_metadata?: {
     nome?: string;
+    turma_id?: string;
   } | null;
 };
 
@@ -274,7 +276,7 @@ serve(async (req) => {
           user_id: authUser.id,
           nome: profileRow?.nome || authUser.user_metadata?.nome || authUser.email || "Aluno",
           email: authUser.email ?? "",
-          turma_id: profileRow?.turma_id ?? null,
+          turma_id: profileRow?.turma_id ?? authUser.user_metadata?.turma_id ?? null,
           login_identifier: profileRow?.login_identifier ?? null,
           avatar_url: profileRow?.avatar_url ?? null,
           role: normalizedRoleMap.get(authUser.id) ?? "aluno",
@@ -285,6 +287,52 @@ serve(async (req) => {
       enriched.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime());
 
       return jsonResponse(enriched);
+    }
+
+    if (payload.action === "assign_turma") {
+      const { user_id, turma_id } = payload;
+
+      const { data: authUserData, error: authUserError } = await supabase.auth.admin.getUserById(user_id);
+      if (authUserError) throw authUserError;
+
+      const existingMetadata = authUserData.user.user_metadata ?? {};
+      const { error: authUpdateError } = await supabase.auth.admin.updateUserById(user_id, {
+        user_metadata: {
+          ...existingMetadata,
+          turma_id,
+        },
+      });
+      if (authUpdateError) throw authUpdateError;
+
+      const { data: existingScore, error: existingScoreError } = await supabase
+        .from("student_scores")
+        .select("points, missions_completed, streak_days, last_mission_date")
+        .eq("user_id", user_id)
+        .maybeSingle();
+      if (existingScoreError) throw existingScoreError;
+
+      const { error: profileError } = await supabase
+        .from("profiles")
+        .upsert({
+          user_id,
+          nome: authUserData.user.user_metadata?.nome ?? authUserData.user.email ?? "Aluno",
+          turma_id,
+        }, { onConflict: "user_id" });
+      if (profileError) throw profileError;
+
+      const { error: scoreError } = await supabase
+        .from("student_scores")
+        .upsert({
+          user_id,
+          turma_id,
+          points: existingScore?.points ?? 0,
+          missions_completed: existingScore?.missions_completed ?? 0,
+          streak_days: existingScore?.streak_days ?? 0,
+          last_mission_date: existingScore?.last_mission_date ?? null,
+        }, { onConflict: "user_id" });
+      if (scoreError) throw scoreError;
+
+      return jsonResponse({ success: true, turma_id });
     }
 
     if (payload.action === "reset_password") {
