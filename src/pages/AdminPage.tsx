@@ -1594,6 +1594,8 @@ function AlunosTab() {
   const [grantUserId, setGrantUserId] = useState("");
   const [grantAmount, setGrantAmount] = useState("30");
   const [grantingPoints, setGrantingPoints] = useState(false);
+  const [turmaDrafts, setTurmaDrafts] = useState<Record<string, string>>({});
+  const [savingTurmaUserId, setSavingTurmaUserId] = useState<string | null>(null);
 
   const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
@@ -1689,6 +1691,47 @@ function AlunosTab() {
   const openSensitiveActionDialog = (type: AdminSensitiveAction, userId: string) => {
     setPendingSensitiveAction({ type, userId });
     setAdminSecretInput("");
+  };
+
+  const handleAssignTurma = async (userId: string) => {
+    const nextTurmaId = turmaDrafts[userId];
+    if (!nextTurmaId) return;
+
+    setSavingTurmaUserId(userId);
+    setAdminError("");
+
+    try {
+      const { error: profileError } = await supabase
+        .from("profiles")
+        .update({ turma_id: nextTurmaId })
+        .eq("user_id", userId);
+
+      if (profileError) throw profileError;
+
+      const existingUser = usersList.find((userItem) => userItem.user_id === userId);
+
+      const { error: scoreError } = await supabase
+        .from("student_scores")
+        .upsert({
+          user_id: userId,
+          turma_id: nextTurmaId,
+          points: existingUser?.points ?? 0,
+          missions_completed: 0,
+          streak_days: 0,
+        }, { onConflict: "user_id" });
+
+      if (scoreError) throw scoreError;
+
+      setUsersList((prev) =>
+        prev.map((userItem) =>
+          userItem.user_id === userId ? { ...userItem, turma_id: nextTurmaId } : userItem,
+        ),
+      );
+    } catch (error) {
+      setAdminError(error instanceof Error ? error.message : "Erro ao salvar turma.");
+    } finally {
+      setSavingTurmaUserId(null);
+    }
   };
 
   const handleCreateSingle = async () => {
@@ -2165,6 +2208,33 @@ function AlunosTab() {
                           {getTurmaLabel(u.turma_id)}
                           {` . ${u.points} pts`}
                         </p>
+                        {!u.turma_id ? (
+                          <div className="mt-2 flex flex-wrap items-center gap-2">
+                            <select
+                              value={turmaDrafts[u.user_id] ?? "7ano"}
+                              onChange={(event) =>
+                                setTurmaDrafts((prev) => ({
+                                  ...prev,
+                                  [u.user_id]: event.target.value,
+                                }))
+                              }
+                              className="rounded-lg border border-amber-200 bg-amber-50 px-2.5 py-1.5 text-xs font-medium text-amber-900"
+                            >
+                              {turmas.map((turma) => (
+                                <option key={turma.id} value={turma.id}>
+                                  {turma.nome}
+                                </option>
+                              ))}
+                            </select>
+                            <button
+                              onClick={() => void handleAssignTurma(u.user_id)}
+                              disabled={savingTurmaUserId === u.user_id}
+                              className="btn-tap rounded-lg border border-amber-300 bg-amber-100 px-3 py-1.5 text-xs font-semibold text-amber-900 transition-all hover:bg-amber-200 disabled:opacity-60"
+                            >
+                              {savingTurmaUserId === u.user_id ? "Salvando..." : "Salvar turma"}
+                            </button>
+                          </div>
+                        ) : null}
                         {u.role === "professor" && u.linkedTurmas && u.linkedTurmas.length > 0 ? (
                           <p className="mt-1 font-body text-xs text-muted-foreground">
                             Turmas vinculadas: {u.linkedTurmas.map((linkedTurmaId) => getTurmaLabel(linkedTurmaId)).join(", ")}
