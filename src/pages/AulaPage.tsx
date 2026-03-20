@@ -43,7 +43,11 @@ export default function AulaPage() {
   const tema = getTemaByIdFromList(temas, temaId || "");
   const [tab, setTab] = useState<Tab>("Resumo");
   const visibleExercicios = tema?.exercicios.slice(0, contentDisplayConfig.maxExercisesPerTema) || [];
-  const userTurma = profile?.turma_id;
+  const metadataTurma =
+    user?.user_metadata && typeof user.user_metadata.turma_id === "string"
+      ? user.user_metadata.turma_id
+      : null;
+  const userTurma = profile?.turma_id ?? metadataTurma;
   const isAdmin = role === "admin";
   const countsForPoints = Boolean(isAdmin || !userTurma || userTurma === tema?.turmaId);
   const activityContext: ActivityContext | null = user && tema

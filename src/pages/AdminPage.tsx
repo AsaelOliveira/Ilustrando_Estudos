@@ -28,6 +28,7 @@ import {
   batchCreateManagedUsers,
   createManagedUser,
   deleteManagedUser,
+  listManagedUsers,
   resetManagedUserPassword,
   resetManagedUserProgress,
   type ManagedCredential,
@@ -1876,6 +1877,7 @@ function AlunosTab() {
     setAdminError("");
     try {
       const [
+        listedUsers,
         { data: profilesData, error: profilesError },
         { data: rolesData, error: rolesError },
         { data: scoreData, error: scoreError },
@@ -1884,6 +1886,7 @@ function AlunosTab() {
         { data: activityResultsData },
         { data: attemptData },
       ] = await Promise.all([
+      listManagedUsers(),
       supabase
         .from("profiles")
         .select("user_id, nome, login_identifier, turma_id, avatar_url, created_at")
@@ -1943,33 +1946,50 @@ function AlunosTab() {
         assignmentsMap.set(entry.user_id, current);
       });
 
-      const users: AdminListedUser[] = (
-        (profilesData as Array<{
+      const listedUserMap = new Map(listedUsers.map((userItem) => [userItem.user_id, userItem]));
+
+      const profileMap = new Map(
+        (((profilesData as Array<{
           user_id: string;
           nome: string;
           login_identifier?: string | null;
           turma_id: string | null;
           avatar_url: string | null;
           created_at: string;
-        }> | null) ?? []
-      ).map((profileItem) => ({
-        user_id: profileItem.user_id,
-        nome: profileItem.nome,
-        email: "",
-        turma_id:
-          profileItem.turma_id ??
-          scoreTurmaMap.get(profileItem.user_id) ??
-          activityTurmaMap.get(profileItem.user_id) ??
-          attemptTurmaMap.get(profileItem.user_id) ??
-          null,
-        login_identifier: profileItem.login_identifier ?? null,
-        avatar_url: profileItem.avatar_url,
-        created_at: profileItem.created_at,
-        role: roleMap.get(profileItem.user_id) ?? "aluno",
-        points: scoreMap.get(profileItem.user_id) ?? 0,
-        linkedTurmas: linkedTurmaMap.get(profileItem.user_id) ?? [],
-        assignments: assignmentsMap.get(profileItem.user_id) ?? [],
-      }));
+        }> | null) ?? [])).map((profileItem) => [profileItem.user_id, profileItem]),
+      );
+
+      const allUserIds = Array.from(
+        new Set([
+          ...Array.from(profileMap.keys()),
+          ...Array.from(listedUserMap.keys()),
+        ]),
+      );
+
+      const users: AdminListedUser[] = allUserIds.map((userId) => {
+        const profileItem = profileMap.get(userId);
+        const listedUser = listedUserMap.get(userId);
+
+        return {
+          user_id: userId,
+          nome: listedUser?.nome ?? profileItem?.nome ?? "Aluno",
+          email: listedUser?.email ?? "",
+          turma_id:
+            profileItem?.turma_id ??
+            scoreTurmaMap.get(userId) ??
+            activityTurmaMap.get(userId) ??
+            attemptTurmaMap.get(userId) ??
+            listedUser?.turma_id ??
+            null,
+          login_identifier: profileItem?.login_identifier ?? listedUser?.login_identifier ?? null,
+          avatar_url: profileItem?.avatar_url ?? listedUser?.avatar_url ?? null,
+          created_at: profileItem?.created_at ?? listedUser?.created_at ?? new Date(0).toISOString(),
+          role: listedUser?.role ?? roleMap.get(userId) ?? "aluno",
+          points: scoreMap.get(userId) ?? 0,
+          linkedTurmas: linkedTurmaMap.get(userId) ?? [],
+          assignments: assignmentsMap.get(userId) ?? [],
+        };
+      });
 
       setUsersList(users);
     } catch (error) {

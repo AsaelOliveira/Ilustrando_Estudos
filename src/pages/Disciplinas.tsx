@@ -12,7 +12,11 @@ export default function Disciplinas() {
   const { user, profile, role } = useAuth();
   const turmaData = getTurma(turmaId || "");
   const discs = getDisciplinasByTurma(turmaId || "");
-  const userTurma = profile?.turma_id;
+  const metadataTurma =
+    user?.user_metadata && typeof user.user_metadata.turma_id === "string"
+      ? user.user_metadata.turma_id
+      : null;
+  const userTurma = profile?.turma_id ?? metadataTurma;
   const isAdmin = role === "admin";
 
   if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
