@@ -1032,9 +1032,9 @@ function LobbyView({
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: i * 0.06 }}
                 whileHover={{ scale: 1.01 }}
-                className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
+                className="group flex flex-col gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md md:flex-row md:items-center"
               >
-                <div className="flex-shrink-0">
+                <div className="flex shrink-0 items-center gap-4">
                   {c.mode === "anonimo" ? (
                     <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-full bg-slate-950 ring-2 ring-slate-700/40 shadow-lg shadow-slate-900/20">
                       <img
@@ -1044,12 +1044,13 @@ function LobbyView({
                       />
                     </div>
                   ) : (
-                    <SimpleProfileAvatar
-                      size="md"
-                      src={c.challenger_avatar_url ?? null}
-                      name={c.challenger_display_name}
-                      showBadge={false}
-                    />
+                    <div className="rounded-full ring-2 ring-primary/10 shadow-sm">
+                      <SimpleProfileAvatar
+                        size="md"
+                        src={c.challenger_avatar_url ?? null}
+                        showBadge={false}
+                      />
+                    </div>
                   )}
                 </div>
                 <div className="min-w-0 flex-1">
@@ -1078,10 +1079,11 @@ function LobbyView({
                   </div>
                   <p className="mt-0.5 font-body text-[10px] text-muted-foreground/60">{timeAgo(c.created_at)}</p>
                 </div>
+                <div className="flex w-full shrink-0 flex-col gap-2 md:w-auto md:min-w-[156px]">
                 <button
                   onClick={() => accept(c)}
                   disabled={accepting === c.id || rejecting === c.id}
-                  className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
+                  className="btn-tap rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
                   {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️"}
                 </button>
@@ -1089,11 +1091,12 @@ function LobbyView({
                   <button
                     onClick={() => reject(c)}
                     disabled={accepting === c.id || rejecting === c.id}
-                    className="btn-tap flex-shrink-0 rounded-xl border border-destructive/25 bg-destructive/5 px-4 py-2.5 font-heading text-xs font-bold text-destructive transition-all hover:bg-destructive/10 disabled:opacity-60"
+                    className="btn-tap rounded-xl border border-destructive/25 bg-destructive/5 px-4 py-2.5 font-heading text-xs font-bold text-destructive transition-all hover:bg-destructive/10 disabled:opacity-60"
                   >
                     {rejecting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Recusar"}
                   </button>
                 ) : null}
+                </div>
               </motion.div>
             ))}
           </div>

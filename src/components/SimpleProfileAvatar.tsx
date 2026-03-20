@@ -44,7 +44,7 @@ export default function SimpleProfileAvatar({
 }: SimpleProfileAvatarProps) {
   const classes = avatarSizes[size];
   const { profile } = useAuth();
-  const avatarSrc = src ?? profile?.avatar_url;
+  const avatarSrc = src === undefined ? profile?.avatar_url : src;
   const isDiceBearAvatar = avatarSrc?.includes("dicebear.com");
   const unlockedItems = normalizeAvatarUnlocks(profile?.avatar_unlocks);
   const profileEffect =
