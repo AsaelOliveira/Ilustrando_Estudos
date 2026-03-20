@@ -1036,8 +1036,12 @@ function LobbyView({
               >
                 <div className="flex-shrink-0">
                   {c.mode === "anonimo" ? (
-                    <div className="flex h-12 w-12 items-center justify-center rounded-full bg-slate-950 text-white ring-2 ring-slate-700/40 shadow-lg shadow-slate-900/20">
-                      <Shield className="h-5 w-5" />
+                    <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-full bg-slate-950 ring-2 ring-slate-700/40 shadow-lg shadow-slate-900/20">
+                      <img
+                        src="/Knigth.svg"
+                        alt="Cavaleiro negro"
+                        className="h-full w-full object-cover"
+                      />
                     </div>
                   ) : (
                     <SimpleProfileAvatar

@@ -142,7 +142,15 @@ export default function Layout({ children }: { children: ReactNode }) {
                   }`}
                 >
                   <Icon className="h-4 w-4" />
-                  {item.label}
+                  <span className="flex items-center gap-2">
+                    {item.label}
+                    {alertCount > 0 ? (
+                      <span className="relative inline-flex h-2.5 w-2.5">
+                        <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-rose-400 opacity-75" />
+                        <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-rose-500" />
+                      </span>
+                    ) : null}
+                  </span>
                   {alertCount > 0 ? (
                     <span className="absolute -right-1 -top-1 inline-flex min-h-5 min-w-5 items-center justify-center rounded-full bg-rose-500 px-1.5 text-[10px] font-bold text-white shadow-lg shadow-rose-500/25">
                       {alertCount > 9 ? "9+" : alertCount}
@@ -207,9 +215,15 @@ export default function Layout({ children }: { children: ReactNode }) {
             className="btn-tap relative rounded-xl p-2.5 text-muted-foreground hover:bg-secondary hover:text-foreground xl:hidden"
           >
             {mobileAlertCount > 0 ? (
-              <span className="absolute -right-1 -top-1 inline-flex min-h-5 min-w-5 items-center justify-center rounded-full bg-rose-500 px-1.5 text-[10px] font-bold text-white shadow-lg shadow-rose-500/25">
-                {mobileAlertCount > 9 ? "9+" : mobileAlertCount}
-              </span>
+              <>
+                <span className="absolute -right-1 -top-1 inline-flex min-h-5 min-w-5 items-center justify-center rounded-full bg-rose-500 px-1.5 text-[10px] font-bold text-white shadow-lg shadow-rose-500/25">
+                  {mobileAlertCount > 9 ? "9+" : mobileAlertCount}
+                </span>
+                <span className="absolute right-2 top-2 inline-flex h-2.5 w-2.5">
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-rose-400 opacity-75" />
+                  <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-rose-500" />
+                </span>
+              </>
             ) : null}
             {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
           </button>
@@ -298,7 +312,15 @@ function MobileNav({
               }`}
             >
               <Icon className="h-4 w-4" />
-              {item.label}
+              <span className="flex items-center gap-2">
+                {item.label}
+                {alertCount > 0 ? (
+                  <span className="relative inline-flex h-2.5 w-2.5">
+                    <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-rose-400 opacity-75" />
+                    <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-rose-500" />
+                  </span>
+                ) : null}
+              </span>
               {alertCount > 0 ? (
                 <span className="ml-auto inline-flex min-h-5 min-w-5 items-center justify-center rounded-full bg-rose-500 px-1.5 text-[10px] font-bold text-white">
                   {alertCount > 9 ? "9+" : alertCount}
