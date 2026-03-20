@@ -64,10 +64,35 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       .eq("user_id", userId)
       .maybeSingle();
 
+    const { data: activityResultData } = await supabase
+      .from("activity_results")
+      .select("turma_id, created_at")
+      .eq("user_id", userId)
+      .not("turma_id", "is", null)
+      .order("created_at", { ascending: false })
+      .limit(1)
+      .maybeSingle();
+
+    const { data: missionAttemptData } = await supabase
+      .from("mission_attempts")
+      .select("turma_id, created_at")
+      .eq("user_id", userId)
+      .not("turma_id", "is", null)
+      .order("created_at", { ascending: false })
+      .limit(1)
+      .maybeSingle();
+
+    const resolvedTurmaId =
+      profileData?.turma_id ??
+      scoreData?.turma_id ??
+      activityResultData?.turma_id ??
+      missionAttemptData?.turma_id ??
+      null;
+
     if (profileData) {
       setProfile({
         ...profileData,
-        turma_id: profileData.turma_id ?? scoreData?.turma_id ?? null,
+        turma_id: resolvedTurmaId,
       });
     }
 

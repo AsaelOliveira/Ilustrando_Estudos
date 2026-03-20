@@ -49,6 +49,7 @@ export type ManagedUser = {
   nome: string;
   email: string;
   turma_id: string | null;
+  login_identifier?: string | null;
   avatar_url: string | null;
   role: UserRole;
   created_at: string;

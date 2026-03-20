@@ -1768,15 +1768,19 @@ function AlunosTab() {
         { data: scoreData, error: scoreError },
         { data: linkedTurmasData },
         { data: assignmentsData },
+        { data: activityResultsData },
+        { data: attemptData },
       ] = await Promise.all([
       supabase
         .from("profiles")
-        .select("user_id, nome, turma_id, avatar_url, created_at")
+        .select("user_id, nome, login_identifier, turma_id, avatar_url, created_at")
         .order("created_at", { ascending: false }),
       supabase.from("user_roles").select("user_id, role"),
       supabase.from("student_scores").select("user_id, points, turma_id"),
       supabase.from("professor_turmas").select("user_id, turma_id"),
       supabase.from("professor_assignments").select("user_id, turma_id, disciplina_id"),
+      supabase.from("activity_results").select("user_id, turma_id, created_at").order("created_at", { ascending: false }),
+      supabase.from("mission_attempts").select("user_id, turma_id, created_at").order("created_at", { ascending: false }),
     ]);
 
       if (profilesError) throw profilesError;
@@ -1801,6 +1805,18 @@ function AlunosTab() {
           entry.turma_id,
         ]),
       );
+      const activityTurmaMap = new Map<string, string | null>();
+      ((activityResultsData as Array<{ user_id: string; turma_id: string | null }> | null) ?? []).forEach((entry) => {
+        if (!activityTurmaMap.has(entry.user_id) && entry.turma_id) {
+          activityTurmaMap.set(entry.user_id, entry.turma_id);
+        }
+      });
+      const attemptTurmaMap = new Map<string, string | null>();
+      ((attemptData as Array<{ user_id: string; turma_id: string | null }> | null) ?? []).forEach((entry) => {
+        if (!attemptTurmaMap.has(entry.user_id) && entry.turma_id) {
+          attemptTurmaMap.set(entry.user_id, entry.turma_id);
+        }
+      });
       const linkedTurmaMap = new Map<string, string[]>();
       ((linkedTurmasData as Array<{ user_id: string; turma_id: string }> | null) ?? []).forEach((entry) => {
         const current = linkedTurmaMap.get(entry.user_id) ?? [];
@@ -1818,6 +1834,7 @@ function AlunosTab() {
         (profilesData as Array<{
           user_id: string;
           nome: string;
+          login_identifier?: string | null;
           turma_id: string | null;
           avatar_url: string | null;
           created_at: string;
@@ -1826,7 +1843,13 @@ function AlunosTab() {
         user_id: profileItem.user_id,
         nome: profileItem.nome,
         email: "",
-        turma_id: profileItem.turma_id ?? scoreTurmaMap.get(profileItem.user_id) ?? null,
+        turma_id:
+          profileItem.turma_id ??
+          scoreTurmaMap.get(profileItem.user_id) ??
+          activityTurmaMap.get(profileItem.user_id) ??
+          attemptTurmaMap.get(profileItem.user_id) ??
+          null,
+        login_identifier: profileItem.login_identifier ?? null,
         avatar_url: profileItem.avatar_url,
         created_at: profileItem.created_at,
         role: roleMap.get(profileItem.user_id) ?? "aluno",
@@ -1857,6 +1880,7 @@ function AlunosTab() {
             nome: currentUser.nome,
             email: currentUser.email,
             turma_id: currentUser.turma_id,
+            login_identifier: currentUser.login_identifier ?? undefined,
             password: resetResult.password,
           },
         ]);

@@ -251,6 +251,7 @@ serve(async (req) => {
           nome: profileRow?.nome || authUser.user_metadata?.nome || authUser.email || "Aluno",
           email: authUser.email ?? "",
           turma_id: profileRow?.turma_id ?? null,
+          login_identifier: profileRow?.login_identifier ?? null,
           avatar_url: profileRow?.avatar_url ?? null,
           role: normalizedRoleMap.get(authUser.id) ?? "aluno",
           created_at: profileRow?.created_at || authUser.created_at || new Date(0).toISOString(),
