@@ -138,11 +138,23 @@ serve(async (req) => {
         email,
         password,
         email_confirm: true,
-        user_metadata: { nome },
+        user_metadata: { nome, turma_id },
       });
       if (error) throw error;
 
-      await supabase.from("profiles").update({ turma_id, login_identifier: loginIdentifier }).eq("user_id", data.user.id);
+      await supabase.from("profiles").upsert({
+        user_id: data.user.id,
+        nome,
+        turma_id,
+        login_identifier: loginIdentifier,
+      }, { onConflict: "user_id" });
+      await supabase.from("student_scores").upsert({
+        user_id: data.user.id,
+        turma_id,
+        points: 0,
+        missions_completed: 0,
+        streak_days: 0,
+      }, { onConflict: "user_id" });
       await supabase.from("user_roles").insert({ user_id: data.user.id, role: role || "aluno" });
       if (role === "professor" && turma_ids?.length) {
         await supabase.from("professor_turmas").insert(
@@ -193,7 +205,7 @@ serve(async (req) => {
           email: userToCreate.email,
           password,
           email_confirm: true,
-          user_metadata: { nome: userToCreate.nome },
+          user_metadata: { nome: userToCreate.nome, turma_id: userToCreate.turma_id },
         });
 
         if (error) {
@@ -201,7 +213,19 @@ serve(async (req) => {
           continue;
         }
 
-        await supabase.from("profiles").update({ turma_id: userToCreate.turma_id, login_identifier: loginIdentifier }).eq("user_id", data.user.id);
+        await supabase.from("profiles").upsert({
+          user_id: data.user.id,
+          nome: userToCreate.nome,
+          turma_id: userToCreate.turma_id,
+          login_identifier: loginIdentifier,
+        }, { onConflict: "user_id" });
+        await supabase.from("student_scores").upsert({
+          user_id: data.user.id,
+          turma_id: userToCreate.turma_id,
+          points: 0,
+          missions_completed: 0,
+          streak_days: 0,
+        }, { onConflict: "user_id" });
         await supabase.from("user_roles").insert({ user_id: data.user.id, role: "aluno" });
 
         results.credentials.push({

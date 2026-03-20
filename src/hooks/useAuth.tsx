@@ -51,7 +51,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     setRole(null);
   };
 
-  const fetchSupabaseProfile = async (userId: string) => {
+  const fetchSupabaseProfile = async (nextUser: User) => {
+    const userId = nextUser.id;
     const { data: profileData } = await supabase
       .from("profiles")
       .select("nome, login_identifier, avatar_url, turma_id, avatar_locked, avatar_style, avatar_unlocks, avatar_shop_spent")
@@ -87,12 +88,24 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       scoreData?.turma_id ??
       activityResultData?.turma_id ??
       missionAttemptData?.turma_id ??
+      (typeof nextUser.user_metadata?.turma_id === "string" ? nextUser.user_metadata.turma_id : null) ??
       null;
 
     if (profileData) {
       setProfile({
         ...profileData,
         turma_id: resolvedTurmaId,
+      });
+    } else {
+      setProfile({
+        nome: typeof nextUser.user_metadata?.nome === "string" ? nextUser.user_metadata.nome : nextUser.email ?? "Aluno",
+        login_identifier: null,
+        avatar_url: null,
+        turma_id: resolvedTurmaId,
+        avatar_locked: false,
+        avatar_style: null,
+        avatar_unlocks: null,
+        avatar_shop_spent: 0,
       });
     }
 
@@ -116,7 +129,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         setUser(nextSession.user);
         setTimeout(async () => {
           try {
-            await fetchSupabaseProfile(nextSession.user.id);
+            await fetchSupabaseProfile(nextSession.user);
           } finally {
             setLoading(false);
           }
@@ -135,7 +148,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         setSession(initialSession);
         setUser(initialSession.user);
         try {
-          await fetchSupabaseProfile(initialSession.user.id);
+          await fetchSupabaseProfile(initialSession.user);
         } finally {
           setLoading(false);
         }
@@ -181,7 +194,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const refreshProfile = async () => {
     if (!user) return;
-    await fetchSupabaseProfile(user.id);
+    await fetchSupabaseProfile(user);
   };
 
   return (
