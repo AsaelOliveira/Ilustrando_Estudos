@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-digestorio",
+    "titulo": "Sistema digestório",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema digestório participa da digestão dos alimentos.",
+      "A digestão transforma os alimentos em substâncias que podem ser aproveitadas pelo organismo.",
+      "Boca, esôfago, estômago e intestinos são partes importantes desse sistema.",
+      "A alimentação equilibrada contribui para o bom funcionamento do corpo.",
+      "Conhecer o sistema digestório ajuda a compreender a relação entre alimentação e saúde."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema digestório",
+        "texto": "O sistema digestório tem a função de receber os alimentos e participar de sua transformação em substâncias menores, que podem ser absorvidas e utilizadas pelo organismo. Esse processo é fundamental para a obtenção de energia e nutrientes.",
+        "dica": "A digestão ajuda o corpo a aproveitar melhor o que comemos."
+      },
+      {
+        "subtitulo": "Principais órgãos",
+        "texto": "A boca inicia a digestão com a mastigação. Depois, o alimento passa pelo esôfago, chega ao estômago e segue para os intestinos, onde partes importantes da digestão e da absorção acontecem. Cada órgão contribui de forma específica para o processo.",
+        "dica": "Observar a sequência dos órgãos facilita a compreensão do percurso do alimento."
+      },
+      {
+        "subtitulo": "Digestão e saúde",
+        "texto": "Uma alimentação equilibrada e bons hábitos de higiene ajudam o sistema digestório a funcionar adequadamente. Comer bem e cuidar da saúde são atitudes importantes para o bem-estar do organismo.",
+        "dica": "Alimentação e saúde caminham juntas no estudo do sistema digestório."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a mastigação é importante.",
+        "passos": [
+          "A mastigação acontece na boca.",
+          "Ela ajuda a fragmentar os alimentos.",
+          "Isso facilita a continuação do processo digestivo."
+        ],
+        "resposta": "A mastigação é importante porque inicia a digestão mecânica dos alimentos."
+      },
+      {
+        "enunciado": "Descreva o percurso do alimento após a boca.",
+        "passos": [
+          "Depois da boca, o alimento passa pelo esôfago.",
+          "Em seguida, chega ao estômago.",
+          "Depois, continua para os intestinos."
+        ],
+        "resposta": "O alimento percorre diferentes órgãos do sistema digestório até ser melhor aproveitado pelo corpo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-digestorio-ex-01",
+        "enunciado": "A principal função do sistema digestório é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participar da digestão dos alimentos",
+          "produzir luz para o corpo",
+          "bombear sangue",
+          "controlar os movimentos do cérebro"
+        ],
+        "respostaCorreta": "participar da digestão dos alimentos",
+        "explicacao": "O sistema digestório atua na transformação dos alimentos para aproveitamento pelo organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-02",
+        "enunciado": "Em qual órgão a digestão começa com a mastigação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "boca",
+          "intestino",
+          "rim",
+          "pulmão"
+        ],
+        "respostaCorreta": "boca",
+        "explicacao": "A boca inicia a digestão por meio da mastigação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-03",
+        "enunciado": "Depois da boca, o alimento passa pelo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "esôfago",
+          "coração",
+          "nariz",
+          "fêmur"
+        ],
+        "respostaCorreta": "esôfago",
+        "explicacao": "O esôfago conduz o alimento da boca até o estômago.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-04",
+        "enunciado": "Qual órgão recebe o alimento após o esôfago?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estômago",
+          "olho",
+          "pele",
+          "coluna"
+        ],
+        "respostaCorreta": "estômago",
+        "explicacao": "Após passar pelo esôfago, o alimento chega ao estômago.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-05",
+        "enunciado": "A digestão é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transforma alimentos em substâncias aproveitáveis pelo corpo",
+          "substitui completamente a respiração",
+          "impede o crescimento do organismo",
+          "elimina a necessidade de nutrientes"
+        ],
+        "respostaCorreta": "transforma alimentos em substâncias aproveitáveis pelo corpo",
+        "explicacao": "A digestão ajuda o organismo a obter nutrientes e energia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-06",
+        "enunciado": "Qual grupo reúne apenas órgãos do sistema digestório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "boca, esôfago, estômago e intestinos",
+          "pulmão, coração, rim e fígado",
+          "olho, ouvido, nariz e pele",
+          "cérebro, nervo, osso e músculo"
+        ],
+        "respostaCorreta": "boca, esôfago, estômago e intestinos",
+        "explicacao": "Esses órgãos participam do processo digestivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-07",
+        "enunciado": "Uma alimentação equilibrada ajuda o sistema digestório porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "favorece o bom funcionamento do organismo",
+          "elimina totalmente a digestão",
+          "dispensa hábitos de higiene",
+          "impede a absorção de nutrientes"
+        ],
+        "respostaCorreta": "favorece o bom funcionamento do organismo",
+        "explicacao": "Boa alimentação contribui para a saúde e para o funcionamento adequado do sistema digestório.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-digestorio-ex-08",
+        "enunciado": "Ao estudar o sistema digestório, o aluno aprende a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação e saúde",
+          "somente clima e relevo",
+          "luz e sombra",
+          "rochas e vulcões"
+        ],
+        "respostaCorreta": "alimentação e saúde",
+        "explicacao": "O sistema digestório ajuda a compreender como a alimentação interfere no bem-estar do corpo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-digestorio-sim-01",
+        "enunciado": "A mastigação é importante no processo digestivo porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "inicia a fragmentação dos alimentos",
+          "substitui a ação do estômago",
+          "elimina a necessidade do intestino",
+          "faz o sangue circular mais rápido"
+        ],
+        "respostaCorreta": "inicia a fragmentação dos alimentos",
+        "explicacao": "Ao mastigar, o alimento é quebrado em partes menores, facilitando a digestão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-digestorio-sim-02",
+        "enunciado": "Ao acompanhar o percurso do alimento, o aluno compreende que o sistema digestório:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atua em etapas que ajudam o corpo a aproveitar melhor os nutrientes",
+          "funciona apenas na boca",
+          "não participa da saúde do organismo",
+          "é formado somente pelo estômago"
+        ],
+        "respostaCorreta": "atua em etapas que ajudam o corpo a aproveitar melhor os nutrientes",
+        "explicacao": "O alimento percorre diferentes órgãos, e cada etapa contribui para sua digestão e aproveitamento.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "hist6-pre-historia",
+    "titulo": "Pré-História",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Origens das sociedades humanas",
+    "resumo": [
+      "A Pré-História corresponde ao longo período anterior ao surgimento da escrita.",
+      "Os seres humanos desenvolveram formas de sobrevivência ligadas à caça, à coleta, à pesca e, mais tarde, à agricultura.",
+      "Ferramentas de pedra, fogo, pinturas rupestres e sepultamentos ajudam a conhecer esse período.",
+      "A sedentarização transformou a vida humana e favoreceu o surgimento de comunidades mais estáveis.",
+      "O estudo da Pré-História depende de vestígios materiais encontrados por pesquisadores."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é Pré-História",
+        "texto": "Chamamos de Pré-História o período da experiência humana anterior ao aparecimento da escrita. Como não existem registros escritos desse tempo, os historiadores e arqueólogos dependem principalmente de objetos, ossos, pinturas, ferramentas e outros vestígios materiais para compreendê-lo.",
+        "dica": "Sem escrita, os vestígios materiais ganham grande importância para o estudo histórico."
+      },
+      {
+        "subtitulo": "Modo de vida dos primeiros grupos humanos",
+        "texto": "Durante grande parte da Pré-História, os grupos humanos praticavam a caça, a pesca e a coleta de alimentos. Eles se deslocavam com frequência em busca de água, abrigo e recursos naturais. Com o tempo, aprenderam a dominar o fogo e desenvolveram instrumentos mais eficientes para a sobrevivência.",
+        "dica": "A vida nômade está ligada ao deslocamento constante em busca de recursos."
+      },
+      {
+        "subtitulo": "Sedentarização e mudanças",
+        "texto": "A prática da agricultura e da criação de animais favoreceu a permanência dos grupos humanos em determinados lugares. Esse processo, chamado sedentarização, permitiu o crescimento das aldeias, a divisão de tarefas e novas formas de organização social.",
+        "dica": "Sedentarização significa passar a viver de maneira mais fixa em um lugar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que as pinturas rupestres são importantes para o estudo da Pré-História.",
+        "passos": [
+          "Elas são vestígios produzidos por grupos humanos antigos.",
+          "Podem mostrar cenas do cotidiano, animais e práticas de sobrevivência.",
+          "Assim, ajudam os pesquisadores a compreender melhor esse período."
+        ],
+        "resposta": "As pinturas rupestres são fontes importantes para conhecer modos de vida da Pré-História."
+      },
+      {
+        "enunciado": "Compare a vida nômade com a vida sedentária.",
+        "passos": [
+          "Na vida nômade, os grupos se deslocavam com frequência.",
+          "Na vida sedentária, passaram a permanecer por mais tempo em um lugar.",
+          "Essa mudança ocorreu com o avanço da agricultura e da criação de animais."
+        ],
+        "resposta": "A sedentarização transformou profundamente a organização da vida humana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-pre-historia-ex-01",
+        "enunciado": "A Pré-História é o período anterior:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ao surgimento da escrita",
+          "à invenção da roda",
+          "à formação dos oceanos",
+          "ao nascimento das cidades modernas"
+        ],
+        "respostaCorreta": "ao surgimento da escrita",
+        "explicacao": "A escrita é um marco importante para diferenciar a Pré-História dos períodos históricos seguintes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-pre-historia-ex-02",
+        "enunciado": "Qual atividade fazia parte do modo de vida de muitos grupos humanos pré-históricos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "caça e coleta",
+          "uso de internet",
+          "produção industrial",
+          "navegação por satélite"
+        ],
+        "respostaCorreta": "caça e coleta",
+        "explicacao": "A caça e a coleta foram práticas importantes na sobrevivência dos primeiros grupos humanos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-pre-historia-ex-03",
+        "enunciado": "As pinturas rupestres ajudam os pesquisadores porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "são vestígios do passado humano",
+          "foram escritas por romanos",
+          "substituem totalmente a arqueologia",
+          "explicam o clima atual"
+        ],
+        "respostaCorreta": "são vestígios do passado humano",
+        "explicacao": "As pinturas rupestres são fontes históricas importantes para o estudo da Pré-História.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-pre-historia-ex-04",
+        "enunciado": "O domínio do fogo foi importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajudou na proteção, no aquecimento e no preparo de alimentos",
+          "eliminou a necessidade de procurar abrigo",
+          "permitiu o uso de automóveis",
+          "substituiu a agricultura"
+        ],
+        "respostaCorreta": "ajudou na proteção, no aquecimento e no preparo de alimentos",
+        "explicacao": "O fogo trouxe avanços importantes para a vida dos grupos humanos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-pre-historia-ex-05",
+        "enunciado": "Na vida nômade, os grupos humanos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudavam de lugar com frequência",
+          "viviam sempre na mesma aldeia",
+          "dependiam apenas do comércio",
+          "praticavam somente escrita e leitura"
+        ],
+        "respostaCorreta": "mudavam de lugar com frequência",
+        "explicacao": "O nomadismo está ligado ao deslocamento constante em busca de recursos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-pre-historia-ex-06",
+        "enunciado": "A sedentarização foi favorecida principalmente pelo desenvolvimento:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "da agricultura e da criação de animais",
+          "da imprensa",
+          "do motor a vapor",
+          "do sistema bancário"
+        ],
+        "respostaCorreta": "da agricultura e da criação de animais",
+        "explicacao": "Essas práticas permitiram maior permanência em um mesmo lugar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-ex-07",
+        "enunciado": "Qual alternativa apresenta uma característica da vida sedentária?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fixação por mais tempo em um lugar",
+          "deslocamento contínuo sem permanência",
+          "ausência de agricultura",
+          "impossibilidade de construir moradias"
+        ],
+        "respostaCorreta": "fixação por mais tempo em um lugar",
+        "explicacao": "A vida sedentária envolve permanência mais estável em determinado espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-ex-08",
+        "enunciado": "A ausência de escrita na Pré-História faz com que o estudo desse período dependa muito de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vestígios materiais",
+          "jornais antigos",
+          "leis romanas",
+          "documentos digitais"
+        ],
+        "respostaCorreta": "vestígios materiais",
+        "explicacao": "Objetos, ferramentas e pinturas são fundamentais para compreender a Pré-História.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-ex-09",
+        "enunciado": "Qual situação representa melhor uma mudança provocada pela sedentarização?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formação de comunidades mais estáveis",
+          "desaparecimento total das ferramentas",
+          "fim da necessidade de alimentos",
+          "surgimento imediato da internet"
+        ],
+        "respostaCorreta": "formação de comunidades mais estáveis",
+        "explicacao": "A sedentarização favoreceu o crescimento de aldeias e novas formas de organização social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-ex-10",
+        "enunciado": "Ao estudar a Pré-História, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os seres humanos desenvolveram técnicas de sobrevivência ao longo do tempo",
+          "nada mudou na vida humana durante esse período",
+          "a escrita foi o principal vestígio desse tempo",
+          "não existiam instrumentos nem formas de adaptação"
+        ],
+        "respostaCorreta": "os seres humanos desenvolveram técnicas de sobrevivência ao longo do tempo",
+        "explicacao": "O domínio do fogo, o uso de ferramentas e a agricultura mostram mudanças importantes nesse período.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-pre-historia-sim-01",
+        "enunciado": "A passagem da vida nômade para a vida sedentária foi importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permitiu maior estabilidade das comunidades",
+          "acabou com a produção de alimentos",
+          "impediu qualquer mudança social",
+          "eliminou o uso de ferramentas"
+        ],
+        "respostaCorreta": "permitiu maior estabilidade das comunidades",
+        "explicacao": "A sedentarização favoreceu a formação de aldeias e novas formas de organização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-sim-02",
+        "enunciado": "O estudo da Pré-História mostra que os vestígios materiais são essenciais porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituem registros escritos que ainda não existiam",
+          "comprovam a existência de máquinas modernas",
+          "explicam apenas fenômenos do clima",
+          "foram produzidos por povos romanos"
+        ],
+        "respostaCorreta": "substituem registros escritos que ainda não existiam",
+        "explicacao": "Sem escrita, os vestígios materiais se tornam fontes fundamentais para a pesquisa histórica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-pre-historia-sim-03",
+        "enunciado": "Ao analisar as mudanças da Pré-História, podemos perceber que a humanidade:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "adaptou-se ao ambiente e desenvolveu novas formas de vida",
+          "permaneceu sempre do mesmo modo",
+          "deixou de usar recursos naturais",
+          "viveu apenas em cidades industriais"
+        ],
+        "respostaCorreta": "adaptou-se ao ambiente e desenvolveu novas formas de vida",
+        "explicacao": "As transformações desse período mostram capacidade de adaptação e inovação humana.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

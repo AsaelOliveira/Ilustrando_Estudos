@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-circulatorio",
+    "titulo": "Sistema circulatório",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema circulatório participa do transporte de substâncias pelo corpo.",
+      "O coração, o sangue e os vasos sanguíneos fazem parte desse sistema.",
+      "Por meio da circulação, nutrientes e oxigênio chegam às diferentes partes do organismo.",
+      "O sistema circulatório também participa da remoção de substâncias que precisam ser eliminadas.",
+      "Conhecer esse sistema ajuda a compreender o funcionamento integrado do corpo humano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema circulatório",
+        "texto": "O sistema circulatório é responsável por transportar substâncias importantes pelo organismo. Por meio dele, oxigênio, nutrientes e outras substâncias chegam às células, enquanto resíduos são encaminhados para serem eliminados.",
+        "dica": "Pense no sistema circulatório como uma rede de transporte dentro do corpo."
+      },
+      {
+        "subtitulo": "Principais componentes",
+        "texto": "O coração atua como um órgão que impulsiona o sangue, enquanto os vasos sanguíneos formam caminhos por onde ele circula. O sangue transporta substâncias importantes para o funcionamento do corpo.",
+        "dica": "Coração, sangue e vasos trabalham juntos; não faz sentido estudar um sem os outros."
+      },
+      {
+        "subtitulo": "Integração com outros sistemas",
+        "texto": "O sistema circulatório se relaciona com outros sistemas do corpo. Ele ajuda a distribuir oxigênio obtido na respiração e nutrientes resultantes da digestão, mostrando como o organismo funciona de forma integrada.",
+        "dica": "O corpo funciona em conjunto, e os sistemas dependem uns dos outros."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o coração é importante para a circulação.",
+        "passos": [
+          "O coração impulsiona o sangue pelo corpo.",
+          "Com isso, substâncias importantes são transportadas.",
+          "Por isso, ele é essencial para o sistema circulatório."
+        ],
+        "resposta": "O coração é importante porque ajuda a manter o sangue em circulação."
+      },
+      {
+        "enunciado": "Relacione digestão e circulação.",
+        "passos": [
+          "A digestão ajuda a obter nutrientes dos alimentos.",
+          "A circulação transporta esses nutrientes pelo corpo.",
+          "Assim, os sistemas atuam de forma integrada."
+        ],
+        "resposta": "O sistema circulatório distribui nutrientes obtidos pela digestão."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-circulatorio-ex-01",
+        "enunciado": "A principal função do sistema circulatório é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transportar substâncias pelo corpo",
+          "realizar a digestão dos alimentos",
+          "produzir ossos",
+          "formar nuvens"
+        ],
+        "respostaCorreta": "transportar substâncias pelo corpo",
+        "explicacao": "O sistema circulatório distribui substâncias importantes pelo organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-02",
+        "enunciado": "Qual órgão faz parte do sistema circulatório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "coração",
+          "estômago",
+          "nariz",
+          "fêmur"
+        ],
+        "respostaCorreta": "coração",
+        "explicacao": "O coração é um dos principais órgãos do sistema circulatório.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-03",
+        "enunciado": "Além do coração, o sistema circulatório inclui:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sangue e vasos sanguíneos",
+          "penas e escamas",
+          "folhas e raízes",
+          "teclado e monitor"
+        ],
+        "respostaCorreta": "sangue e vasos sanguíneos",
+        "explicacao": "Esses elementos fazem parte do sistema circulatório e participam do transporte de substâncias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-04",
+        "enunciado": "O sistema circulatório ajuda a levar às células:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oxigênio e nutrientes",
+          "somente pedras e areia",
+          "apenas ondas sonoras",
+          "apenas luz solar"
+        ],
+        "respostaCorreta": "oxigênio e nutrientes",
+        "explicacao": "Essas substâncias são transportadas pelo sangue até diferentes partes do corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-05",
+        "enunciado": "Os vasos sanguíneos são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formam caminhos por onde o sangue circula",
+          "substituem os ossos",
+          "fazem a digestão dos alimentos",
+          "produzem ar para os pulmões"
+        ],
+        "respostaCorreta": "formam caminhos por onde o sangue circula",
+        "explicacao": "Os vasos conduzem o sangue pelo organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-06",
+        "enunciado": "Qual alternativa apresenta uma informação correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O sistema circulatório se relaciona com outros sistemas do corpo.",
+          "O coração não participa da circulação.",
+          "O sangue não transporta substâncias.",
+          "Os vasos sanguíneos não têm função."
+        ],
+        "respostaCorreta": "O sistema circulatório se relaciona com outros sistemas do corpo.",
+        "explicacao": "Ele distribui oxigênio e nutrientes obtidos por outros processos do organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-07",
+        "enunciado": "Ao estudar a circulação, o aluno percebe que o corpo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "funciona de forma integrada",
+          "é formado por sistemas sem relação entre si",
+          "depende apenas de um órgão",
+          "não precisa transportar substâncias"
+        ],
+        "respostaCorreta": "funciona de forma integrada",
+        "explicacao": "Os sistemas do corpo atuam em conjunto para manter o organismo funcionando.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-ex-08",
+        "enunciado": "Qual alternativa está incorreta sobre o sistema circulatório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele transporta substâncias pelo organismo.",
+          "O coração participa do processo circulatório.",
+          "O sangue circula por vasos sanguíneos.",
+          "Seu funcionamento não tem relação com oxigênio e nutrientes."
+        ],
+        "respostaCorreta": "Seu funcionamento não tem relação com oxigênio e nutrientes.",
+        "explicacao": "A circulação está diretamente ligada ao transporte de oxigênio e nutrientes.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-circulatorio-sim-01",
+        "enunciado": "A função do coração no sistema circulatório ajuda a mostrar que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "impulsiona o sangue pelo organismo",
+          "realiza sozinho toda a digestão",
+          "produz os ossos do corpo",
+          "substitui o sistema respiratório"
+        ],
+        "respostaCorreta": "impulsiona o sangue pelo organismo",
+        "explicacao": "O coração é essencial para manter a circulação do sangue.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-circulatorio-sim-02",
+        "enunciado": "Ao relacionar digestão, respiração e circulação, o aluno compreende que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os sistemas do corpo trabalham de forma integrada",
+          "cada sistema funciona isoladamente",
+          "a circulação não transporta substâncias",
+          "somente o coração importa para o organismo"
+        ],
+        "respostaCorreta": "os sistemas do corpo trabalham de forma integrada",
+        "explicacao": "A circulação distribui ao corpo substâncias obtidas por outros sistemas, mostrando integração.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

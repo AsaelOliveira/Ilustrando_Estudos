@@ -1,0 +1,197 @@
+[
+  {
+    "id": "hist6-renascimento-comercial-urbano",
+    "titulo": "Renascimento comercial e urbano",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Transformações medievais",
+    "resumo": [
+      "O renascimento comercial e urbano marcou mudanças importantes na Europa medieval.",
+      "O comércio voltou a crescer com mais intensidade em diferentes regiões.",
+      "As cidades se expandiram e ganharam maior importância econômica.",
+      "Feiras, rotas comerciais e circulação de mercadorias contribuíram para essas transformações.",
+      "O estudo desse processo ajuda a compreender mudanças entre a Idade Média e tempos posteriores."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Crescimento do comércio",
+        "texto": "Ao longo da Idade Média, o comércio passou por um período de fortalecimento em várias regiões da Europa. A circulação de mercadorias aumentou, e diferentes grupos se envolveram mais intensamente nas trocas comerciais.",
+        "dica": "Quando falamos em renascimento comercial, pensamos no aumento das trocas e da circulação de produtos."
+      },
+      {
+        "subtitulo": "Expansão das cidades",
+        "texto": "Com o crescimento do comércio, muitas cidades também se desenvolveram. Esses espaços urbanos passaram a reunir feiras, oficinas, mercados e atividades ligadas ao artesanato e aos serviços, tornando-se mais dinâmicos.",
+        "dica": "O crescimento urbano e o crescimento comercial estão ligados entre si."
+      },
+      {
+        "subtitulo": "Mudanças históricas",
+        "texto": "O renascimento comercial e urbano contribuiu para transformações na vida econômica e social. A ampliação das trocas e o fortalecimento das cidades ajudaram a alterar a organização medieval e abriram caminho para novas mudanças históricas.",
+        "dica": "Observe esse tema como um processo de transformação, não como uma mudança repentina."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que as feiras foram importantes nesse período.",
+        "passos": [
+          "As feiras reuniam comerciantes e compradores.",
+          "Nelas circulavam produtos de diferentes lugares.",
+          "Isso favorecia o crescimento do comércio."
+        ],
+        "resposta": "As feiras fortaleceram as trocas comerciais e a circulação de mercadorias."
+      },
+      {
+        "enunciado": "Relacione comércio e crescimento urbano.",
+        "passos": [
+          "Mais comércio significava maior circulação de pessoas e produtos.",
+          "Isso valorizava as cidades e ampliava atividades urbanas.",
+          "Assim, comércio e urbanização se fortaleceram mutuamente."
+        ],
+        "resposta": "O crescimento do comércio contribuiu para a expansão das cidades."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-01",
+        "enunciado": "O renascimento comercial e urbano está ligado principalmente ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescimento do comércio e das cidades",
+          "desaparecimento das trocas comerciais",
+          "fim de toda circulação de mercadorias",
+          "isolamento total das populações"
+        ],
+        "respostaCorreta": "crescimento do comércio e das cidades",
+        "explicacao": "Esse processo foi marcado pelo fortalecimento das trocas comerciais e pela expansão urbana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-02",
+        "enunciado": "As feiras medievais foram importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "favoreciam a troca e a venda de mercadorias",
+          "impediam o contato entre comerciantes",
+          "eliminavam a vida urbana",
+          "substituíam toda a produção agrícola"
+        ],
+        "respostaCorreta": "favoreciam a troca e a venda de mercadorias",
+        "explicacao": "As feiras eram espaços importantes para a circulação de produtos e para a atividade comercial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-03",
+        "enunciado": "Com o crescimento do comércio, muitas cidades:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ganharam maior importância econômica",
+          "deixaram de existir",
+          "pararam de receber mercadorias",
+          "passaram a depender apenas da caça"
+        ],
+        "respostaCorreta": "ganharam maior importância econômica",
+        "explicacao": "O fortalecimento do comércio valorizou as cidades e ampliou suas atividades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-04",
+        "enunciado": "Qual alternativa apresenta um elemento ligado ao renascimento comercial?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rotas de comércio",
+          "desaparecimento das mercadorias",
+          "fim dos mercados",
+          "isolamento das cidades"
+        ],
+        "respostaCorreta": "rotas de comércio",
+        "explicacao": "As rotas comerciais ajudavam a circulação de produtos entre diferentes lugares.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-05",
+        "enunciado": "Ao estudar o renascimento urbano, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as cidades passaram a ter maior dinamismo econômico",
+          "as cidades deixaram de ter qualquer importância",
+          "a vida urbana desapareceu completamente",
+          "o comércio foi proibido"
+        ],
+        "respostaCorreta": "as cidades passaram a ter maior dinamismo econômico",
+        "explicacao": "Com mais comércio, as cidades se tornaram espaços mais ativos economicamente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-06",
+        "enunciado": "Qual relação é correta nesse contexto histórico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mais comércio contribuiu para o crescimento urbano",
+          "mais comércio levou ao desaparecimento das cidades",
+          "mais feiras impediram a circulação de mercadorias",
+          "mais produtos acabaram com o trabalho artesanal"
+        ],
+        "respostaCorreta": "mais comércio contribuiu para o crescimento urbano",
+        "explicacao": "O comércio e o crescimento das cidades estiveram fortemente relacionados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-07",
+        "enunciado": "As transformações ligadas ao renascimento comercial e urbano ajudam a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças na economia e na sociedade medieval",
+          "a origem dos planetas",
+          "somente a formação dos rios",
+          "apenas o funcionamento do corpo humano"
+        ],
+        "respostaCorreta": "mudanças na economia e na sociedade medieval",
+        "explicacao": "Esse processo alterou a circulação de mercadorias, a importância das cidades e a vida social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-ex-08",
+        "enunciado": "Qual alternativa está incorreta sobre o renascimento comercial e urbano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Houve crescimento das trocas comerciais.",
+          "As cidades ganharam mais importância.",
+          "A circulação de mercadorias aumentou.",
+          "O processo levou ao fim total da vida urbana."
+        ],
+        "respostaCorreta": "O processo levou ao fim total da vida urbana.",
+        "explicacao": "Na verdade, o processo esteve ligado ao fortalecimento da vida urbana.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-renascimento-comercial-urbano-sim-01",
+        "enunciado": "Ao analisar as feiras, as rotas comerciais e o crescimento das cidades, o aluno identifica um processo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fortalecimento do comércio e da vida urbana",
+          "desaparecimento da circulação econômica",
+          "isolamento absoluto das regiões",
+          "fim de toda atividade artesanal"
+        ],
+        "respostaCorreta": "fortalecimento do comércio e da vida urbana",
+        "explicacao": "Esses elementos fazem parte do renascimento comercial e urbano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-comercial-urbano-sim-02",
+        "enunciado": "A importância histórica do renascimento comercial e urbano está relacionada ao fato de que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajudou a transformar a economia e a sociedade medieval",
+          "eliminou totalmente as cidades",
+          "acabou com a produção agrícola em toda a Europa",
+          "impediu as trocas entre diferentes lugares"
+        ],
+        "respostaCorreta": "ajudou a transformar a economia e a sociedade medieval",
+        "explicacao": "Esse processo trouxe mudanças importantes para a organização econômica e social da época.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

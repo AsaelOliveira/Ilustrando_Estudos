@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-espaco-rural-urbano",
+    "titulo": "Espaço rural e espaço urbano",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Organização do espaço geográfico",
+    "resumo": [
+      "O espaço rural está ligado principalmente às atividades do campo, como agricultura e pecuária.",
+      "O espaço urbano concentra maior presença de construções, serviços, comércio e circulação de pessoas.",
+      "Campo e cidade mantêm relações econômicas e sociais importantes.",
+      "As paisagens rurais e urbanas apresentam características diferentes.",
+      "O estudo desses espaços ajuda a compreender a organização da sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Características do espaço rural",
+        "texto": "O espaço rural está relacionado a atividades como agricultura, criação de animais e uso direto da terra. Nele, a paisagem tende a apresentar plantações, pastagens, sítios, fazendas e menor concentração de construções.",
+        "dica": "Ao pensar no espaço rural, observe a forte presença da produção ligada à terra."
+      },
+      {
+        "subtitulo": "Características do espaço urbano",
+        "texto": "O espaço urbano reúne grande concentração de pessoas, construções, ruas, serviços, comércio e indústrias. É nele que se destacam bairros, avenidas, escolas, hospitais, lojas e outras estruturas urbanas.",
+        "dica": "No espaço urbano, a circulação e a diversidade de atividades costumam ser maiores."
+      },
+      {
+        "subtitulo": "Relação entre campo e cidade",
+        "texto": "Campo e cidade estão interligados. O campo pode fornecer alimentos e matérias-primas, enquanto a cidade oferece serviços, comércio e tecnologia. Por isso, eles não devem ser vistos como espaços isolados.",
+        "dica": "Sempre procure perceber como um espaço depende do outro."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma fazenda e um centro comercial.",
+        "passos": [
+          "A fazenda está ligada à produção rural e ao uso da terra.",
+          "O centro comercial está ligado ao comércio e à concentração de serviços.",
+          "Esses espaços mostram características diferentes do rural e do urbano."
+        ],
+        "resposta": "A fazenda representa o espaço rural, e o centro comercial representa o espaço urbano."
+      },
+      {
+        "enunciado": "Explique uma relação entre campo e cidade.",
+        "passos": [
+          "O campo produz alimentos e matérias-primas.",
+          "A cidade consome esses produtos e oferece serviços e comércio.",
+          "Isso mostra a interdependência entre os dois espaços."
+        ],
+        "resposta": "Campo e cidade se relacionam por meio da produção, do consumo e dos serviços."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-espaco-rural-urbano-ex-01",
+        "enunciado": "Qual alternativa caracteriza melhor o espaço rural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grande concentração de prédios e comércio",
+          "presença de atividades ligadas à terra",
+          "intenso trânsito de avenidas",
+          "predomínio de shoppings e hospitais"
+        ],
+        "respostaCorreta": "presença de atividades ligadas à terra",
+        "explicacao": "O espaço rural está ligado principalmente à agricultura, à pecuária e ao uso da terra.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-02",
+        "enunciado": "Qual alternativa caracteriza melhor o espaço urbano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "plantações e criação de animais",
+          "fazendas isoladas e pastagens",
+          "maior concentração de construções, comércio e serviços",
+          "ausência de circulação de pessoas"
+        ],
+        "respostaCorreta": "maior concentração de construções, comércio e serviços",
+        "explicacao": "Esses elementos são características marcantes do espaço urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-03",
+        "enunciado": "Qual atividade está mais associada ao espaço rural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pecuária",
+          "trânsito intenso",
+          "grandes centros financeiros",
+          "estações de metrô"
+        ],
+        "respostaCorreta": "pecuária",
+        "explicacao": "A pecuária é uma atividade tradicionalmente ligada ao espaço rural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a cidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É um espaço sem comércio.",
+          "Apresenta maior diversidade de serviços e construções.",
+          "Tem como característica principal apenas a agricultura.",
+          "Não depende do campo."
+        ],
+        "respostaCorreta": "Apresenta maior diversidade de serviços e construções.",
+        "explicacao": "O espaço urbano concentra atividades de comércio, serviços, transporte e moradia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-05",
+        "enunciado": "Qual alternativa apresenta uma relação correta entre campo e cidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O campo e a cidade não se relacionam.",
+          "A cidade depende do campo apenas para paisagens bonitas.",
+          "Campo e cidade trocam produtos, serviços e recursos.",
+          "O campo não fornece nada para a cidade."
+        ],
+        "respostaCorreta": "Campo e cidade trocam produtos, serviços e recursos.",
+        "explicacao": "Os dois espaços são interdependentes em muitos aspectos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-06",
+        "enunciado": "Qual alternativa apresenta um elemento mais comum na paisagem urbana?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "avenidas",
+          "pastagens",
+          "plantações extensas",
+          "currais"
+        ],
+        "respostaCorreta": "avenidas",
+        "explicacao": "Avenidas são elementos característicos das paisagens urbanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-07",
+        "enunciado": "Qual alternativa apresenta um elemento mais comum na paisagem rural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "metrô",
+          "arranha-céus",
+          "lavouras",
+          "grandes centros comerciais"
+        ],
+        "respostaCorreta": "lavouras",
+        "explicacao": "Lavouras são típicas do espaço rural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-08",
+        "enunciado": "Um aluno disse que o espaço rural não tem nenhuma importância para a cidade. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque o espaço rural fornece alimentos e matérias-primas",
+          "correta, porque a cidade produz tudo sozinha",
+          "incorreta, porque o espaço rural só serve para turismo"
+        ],
+        "respostaCorreta": "incorreta, porque o espaço rural fornece alimentos e matérias-primas",
+        "explicacao": "O espaço rural é fundamental para abastecer e sustentar muitas atividades urbanas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-09",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "No espaço urbano não existem serviços.",
+          "No espaço rural não existem pessoas vivendo.",
+          "Campo e cidade fazem parte da organização do espaço geográfico.",
+          "O espaço rural e o espaço urbano são idênticos."
+        ],
+        "respostaCorreta": "Campo e cidade fazem parte da organização do espaço geográfico.",
+        "explicacao": "Esses espaços ajudam a entender como a sociedade organiza o território.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-ex-10",
+        "enunciado": "Qual situação está mais ligada ao espaço urbano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produção agrícola em grande área",
+          "circulação intensa de ônibus e comércio",
+          "criação extensiva de gado",
+          "cultivo de hortaliças em sítios"
+        ],
+        "respostaCorreta": "circulação intensa de ônibus e comércio",
+        "explicacao": "Essas características estão mais associadas ao espaço urbano.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-espaco-rural-urbano-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente os espaços rural e urbano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O rural está mais ligado à terra; o urbano concentra mais construções e serviços.",
+          "O rural não tem população; o urbano tem apenas fazendas.",
+          "O rural tem metrô; o urbano tem pastagens.",
+          "Os dois são sempre iguais em qualquer país."
+        ],
+        "respostaCorreta": "O rural está mais ligado à terra; o urbano concentra mais construções e serviços.",
+        "explicacao": "Essa comparação resume bem diferenças comuns entre os dois espaços.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A cidade não depende do campo' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque o campo fornece produtos importantes para a cidade.",
+          "A frase é verdadeira apenas em capitais.",
+          "A frase é falsa, porque a cidade produz toda a agricultura."
+        ],
+        "respostaCorreta": "A frase é falsa, porque o campo fornece produtos importantes para a cidade.",
+        "explicacao": "O campo participa do abastecimento e da economia urbana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-sim-03",
+        "enunciado": "Qual alternativa apresenta uma situação de interdependência entre campo e cidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a produção de alimentos no campo e sua venda na cidade",
+          "a inexistência de troca entre os dois espaços",
+          "o desaparecimento das atividades rurais",
+          "a ausência de serviços urbanos"
+        ],
+        "respostaCorreta": "a produção de alimentos no campo e sua venda na cidade",
+        "explicacao": "Esse é um exemplo claro da relação entre campo e cidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-sim-04",
+        "enunciado": "Qual alternativa apresenta um exemplo típico de paisagem rural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grandes avenidas e prédios altos",
+          "estações de trem e viadutos",
+          "plantações, silos e criação de animais",
+          "centros comerciais e hospitais"
+        ],
+        "respostaCorreta": "plantações, silos e criação de animais",
+        "explicacao": "Esses elementos são comuns em áreas rurais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-espaco-rural-urbano-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o espaço urbano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É marcado apenas por atividades agrícolas.",
+          "Concentra comércio, serviços e circulação intensa.",
+          "Não tem população residente.",
+          "Não se relaciona com o espaço rural."
+        ],
+        "respostaCorreta": "Concentra comércio, serviços e circulação intensa.",
+        "explicacao": "Essa é uma característica marcante do espaço urbano.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

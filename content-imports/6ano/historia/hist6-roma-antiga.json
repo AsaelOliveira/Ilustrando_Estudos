@@ -1,0 +1,281 @@
+[
+  {
+    "id": "hist6-roma-antiga",
+    "titulo": "Roma Antiga",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Mundo antigo",
+    "resumo": [
+      "Roma Antiga foi uma importante civilização da Antiguidade.",
+      "Ao longo do tempo, Roma passou por diferentes formas de governo.",
+      "Os romanos expandiram seu domínio por vários territórios.",
+      "A cultura romana influenciou leis, língua, arquitetura e organização política.",
+      "O estudo de Roma Antiga ajuda a compreender aspectos duradouros do mundo ocidental."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Origem e expansão",
+        "texto": "Roma surgiu na Península Itálica e, com o passar do tempo, ampliou seu domínio por muitos territórios. Essa expansão contribuiu para o fortalecimento do poder romano e para o contato com diferentes povos.",
+        "dica": "Ao estudar Roma, observe como seu território cresceu ao longo do tempo."
+      },
+      {
+        "subtitulo": "Organização política",
+        "texto": "A história de Roma passou por diferentes fases políticas, como monarquia, república e império. Cada etapa apresentou formas de governo e distribuição de poder próprias, o que torna o estudo de Roma bastante rico.",
+        "dica": "Não pense em Roma como uma sociedade sempre igual; sua organização mudou ao longo do tempo."
+      },
+      {
+        "subtitulo": "Legados romanos",
+        "texto": "Os romanos deixaram importantes contribuições para a humanidade. Entre elas estão o direito romano, obras de engenharia, construções monumentais, estradas e influências linguísticas e culturais que chegaram até os dias atuais.",
+        "dica": "Quando ouvir falar em legado romano, lembre-se especialmente de leis, construções e estradas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que as estradas romanas foram importantes.",
+        "passos": [
+          "As estradas facilitavam a circulação de pessoas, mercadorias e soldados.",
+          "Isso ajudava na comunicação e no controle do território.",
+          "Por isso, elas foram importantes para a expansão e a organização romana."
+        ],
+        "resposta": "As estradas romanas fortaleceram o domínio e a integração dos territórios."
+      },
+      {
+        "enunciado": "Identifique um legado romano presente até hoje.",
+        "passos": [
+          "Os romanos influenciaram leis e formas de organização política.",
+          "Também deixaram marcas na arquitetura e na língua.",
+          "Essas heranças mostram a importância histórica de Roma."
+        ],
+        "resposta": "O direito romano é um dos legados mais conhecidos de Roma Antiga."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-roma-antiga-ex-01",
+        "enunciado": "Roma Antiga se desenvolveu inicialmente na:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Península Itálica",
+          "Península Ibérica",
+          "Península Arábica",
+          "Escandinávia"
+        ],
+        "respostaCorreta": "Península Itálica",
+        "explicacao": "Roma surgiu na Península Itálica, região onde se localiza a atual Itália.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-02",
+        "enunciado": "Ao longo do tempo, Roma passou por diferentes formas de governo, entre elas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "monarquia, república e império",
+          "capitania, colônia e federação",
+          "sultanato, feudo e comuna",
+          "ditadura, prefeitura e reinado"
+        ],
+        "respostaCorreta": "monarquia, república e império",
+        "explicacao": "Essas são fases importantes da organização política romana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-03",
+        "enunciado": "A expansão romana permitiu:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o isolamento completo de Roma",
+          "o domínio sobre vários territórios",
+          "o desaparecimento das estradas",
+          "o fim do comércio"
+        ],
+        "respostaCorreta": "o domínio sobre vários territórios",
+        "explicacao": "Roma ampliou seu poder e passou a dominar diferentes regiões.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-04",
+        "enunciado": "Qual alternativa apresenta um importante legado romano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "direito romano",
+          "internet",
+          "máquina a vapor",
+          "avião"
+        ],
+        "respostaCorreta": "direito romano",
+        "explicacao": "O direito romano influenciou sistemas jurídicos de diferentes sociedades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-05",
+        "enunciado": "As estradas romanas foram importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "impediam qualquer circulação",
+          "facilitavam transporte e comunicação",
+          "existiam apenas para ornamentação",
+          "serviam somente para atividades religiosas"
+        ],
+        "respostaCorreta": "facilitavam transporte e comunicação",
+        "explicacao": "As estradas ajudavam a integrar o território e fortalecer o controle romano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-06",
+        "enunciado": "Ao estudar Roma Antiga, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sua organização política nunca mudou",
+          "sua história apresenta diferentes fases de governo",
+          "Roma não teve influência cultural duradoura",
+          "os romanos não construíram obras importantes"
+        ],
+        "respostaCorreta": "sua história apresenta diferentes fases de governo",
+        "explicacao": "Roma passou por monarquia, república e império, mostrando mudanças em sua organização política.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-07",
+        "enunciado": "Qual situação está mais relacionada ao legado romano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estudo das leis e da organização jurídica",
+          "produção de eletricidade em usinas",
+          "uso de satélites para comunicação",
+          "desenvolvimento de aplicativos"
+        ],
+        "respostaCorreta": "estudo das leis e da organização jurídica",
+        "explicacao": "O direito romano é uma contribuição marcante da civilização romana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-08",
+        "enunciado": "A expansão de Roma contribuiu para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o contato com diferentes povos",
+          "o desaparecimento da vida urbana",
+          "o fim da arquitetura",
+          "a divisão em cidades-estado gregas"
+        ],
+        "respostaCorreta": "o contato com diferentes povos",
+        "explicacao": "Ao expandir seu domínio, Roma entrou em contato com muitos povos e territórios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-09",
+        "enunciado": "Qual alternativa apresenta uma herança cultural de Roma Antiga?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "arquitetura e engenharia",
+          "criação da imprensa moderna",
+          "invenção da televisão",
+          "surgimento da internet"
+        ],
+        "respostaCorreta": "arquitetura e engenharia",
+        "explicacao": "Os romanos se destacaram por construções, obras de engenharia e organização urbana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-10",
+        "enunciado": "Em relação à importância histórica de Roma, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela teve pouca influência sobre outros povos",
+          "suas contribuições continuam sendo estudadas até hoje",
+          "Roma não deixou marcas na história",
+          "sua cultura desapareceu totalmente sem deixar vestígios"
+        ],
+        "respostaCorreta": "suas contribuições continuam sendo estudadas até hoje",
+        "explicacao": "Roma deixou heranças políticas, jurídicas, linguísticas e arquitetônicas duradouras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-11",
+        "enunciado": "Qual alternativa diferencia corretamente Roma Antiga de uma sociedade sem expansão territorial?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Roma ampliou seu domínio e fortaleceu seu poder",
+          "Roma viveu sempre isolada em pequenas aldeias",
+          "Roma nunca construiu estradas",
+          "Roma não possuía formas de governo"
+        ],
+        "respostaCorreta": "Roma ampliou seu domínio e fortaleceu seu poder",
+        "explicacao": "A expansão foi uma característica importante da trajetória romana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-ex-12",
+        "enunciado": "Qual alternativa está incorreta sobre Roma Antiga?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Roma influenciou leis e construções.",
+          "Roma passou por diferentes fases de governo.",
+          "Roma se desenvolveu na Península Itálica.",
+          "Roma foi uma cidade-estado grega da Mesopotâmia."
+        ],
+        "respostaCorreta": "Roma foi uma cidade-estado grega da Mesopotâmia.",
+        "explicacao": "Roma não era uma cidade-estado grega nem fazia parte da Mesopotâmia.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-roma-antiga-sim-01",
+        "enunciado": "A história política de Roma Antiga mostra que essa civilização:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permaneceu sempre com a mesma forma de governo",
+          "passou por diferentes formas de organização política",
+          "não possuía nenhuma autoridade",
+          "viveu apenas como cidade-estado grega"
+        ],
+        "respostaCorreta": "passou por diferentes formas de organização política",
+        "explicacao": "Roma passou por monarquia, república e império ao longo de sua história.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-sim-02",
+        "enunciado": "Qual alternativa relaciona corretamente Roma Antiga a um de seus legados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Roma Antiga - direito romano",
+          "Roma Antiga - invenção da internet",
+          "Roma Antiga - surgimento das fábricas modernas",
+          "Roma Antiga - criação da energia elétrica"
+        ],
+        "respostaCorreta": "Roma Antiga - direito romano",
+        "explicacao": "O direito romano é uma das mais importantes heranças dessa civilização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-sim-03",
+        "enunciado": "As estradas romanas tiveram papel importante porque ajudavam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "na circulação e no controle dos territórios",
+          "na diminuição do comércio",
+          "na destruição das cidades",
+          "na separação completa do império"
+        ],
+        "respostaCorreta": "na circulação e no controle dos territórios",
+        "explicacao": "As estradas facilitaram deslocamentos, comunicação e integração territorial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-roma-antiga-sim-04",
+        "enunciado": "Ao analisar a expansão romana, podemos concluir que ela contribuiu para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o fortalecimento do domínio romano sobre vários territórios",
+          "o desaparecimento de qualquer forma de governo",
+          "a transformação de Roma em um reino egípcio",
+          "o fim das influências culturais"
+        ],
+        "respostaCorreta": "o fortalecimento do domínio romano sobre vários territórios",
+        "explicacao": "A expansão territorial consolidou o poder de Roma e ampliou seus contatos com outros povos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

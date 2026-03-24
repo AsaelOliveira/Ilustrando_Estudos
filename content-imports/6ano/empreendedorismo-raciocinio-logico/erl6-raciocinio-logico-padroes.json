@@ -1,0 +1,169 @@
+[
+  {
+    "id": "erl6-raciocinio-logico-padroes",
+    "titulo": "Raciocínio lógico e padrões",
+    "disciplinaId": "erl6",
+    "turmaId": "6ano",
+    "unidade": "Pensamento lógico",
+    "resumo": [
+      "O raciocínio lógico ajuda a observar relações, padrões e sequências.",
+      "Identificar regularidades é importante para resolver problemas.",
+      "Padrões podem aparecer em números, formas, cores e situações do cotidiano.",
+      "Pensar passo a passo ajuda na organização do raciocínio.",
+      "Estudar esse tema fortalece a atenção, a análise e a resolução de desafios."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é raciocínio lógico",
+        "texto": "Raciocínio lógico é a capacidade de analisar informações, perceber relações e construir conclusões de maneira organizada. Ele aparece em desafios, problemas e situações em que é preciso pensar com atenção e sequência.",
+        "dica": "Pensar logicamente é organizar ideias antes de decidir."
+      },
+      {
+        "subtitulo": "Padrões e regularidades",
+        "texto": "Muitos desafios envolvem identificar padrões. Um padrão pode aparecer em sequências numéricas, em formas geométricas, em cores ou em situações repetidas. Perceber a regularidade ajuda a prever o próximo passo ou encontrar a solução.",
+        "dica": "Ao resolver um desafio, observe o que se repete ou muda de forma organizada."
+      },
+      {
+        "subtitulo": "Estratégias de resolução",
+        "texto": "Resolver problemas de lógica exige atenção aos detalhes e organização do pensamento. Comparar elementos, separar informações e analisar passo a passo são estratégias úteis para chegar a respostas mais consistentes.",
+        "dica": "Nem sempre a solução aparece de imediato; às vezes, é preciso testar e observar com calma."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe a sequência: 2, 4, 6, 8.",
+        "passos": [
+          "Os números aumentam sempre de 2 em 2.",
+          "Esse é o padrão da sequência.",
+          "Por isso, o próximo número seria 10."
+        ],
+        "resposta": "A sequência segue um padrão de aumento de 2 unidades."
+      },
+      {
+        "enunciado": "Analise formas que alternam entre círculo e quadrado.",
+        "passos": [
+          "Há repetição organizada entre duas formas.",
+          "Esse padrão permite prever a próxima figura.",
+          "Assim, a lógica ajuda a completar a sequência."
+        ],
+        "resposta": "Identificar padrões facilita a previsão do próximo elemento."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-01",
+        "enunciado": "O raciocínio lógico ajuda principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar relações e resolver problemas",
+          "decorar palavras sem sentido",
+          "ignorar informações importantes",
+          "evitar qualquer reflexão"
+        ],
+        "respostaCorreta": "analisar relações e resolver problemas",
+        "explicacao": "O raciocínio lógico ajuda a observar informações e construir respostas organizadas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-02",
+        "enunciado": "Um padrão pode aparecer em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "números, formas e cores",
+          "somente em histórias antigas",
+          "apenas em mapas políticos",
+          "somente em órgãos do corpo"
+        ],
+        "respostaCorreta": "números, formas e cores",
+        "explicacao": "Padrões podem surgir em diferentes tipos de sequências e situações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-03",
+        "enunciado": "Identificar regularidades em uma sequência ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "prever o próximo elemento",
+          "impedir qualquer conclusão",
+          "tornar o problema sem solução",
+          "eliminar a necessidade de observar"
+        ],
+        "respostaCorreta": "prever o próximo elemento",
+        "explicacao": "Reconhecer a regra da sequência ajuda a descobrir sua continuação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-04",
+        "enunciado": "Qual atitude ajuda na resolução de um problema lógico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar passo a passo",
+          "responder sem observar",
+          "ignorar os detalhes",
+          "desistir rapidamente"
+        ],
+        "respostaCorreta": "analisar passo a passo",
+        "explicacao": "Organizar o pensamento ajuda a resolver desafios de forma mais consistente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-05",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Padrões ajudam a organizar o raciocínio.",
+          "A lógica pode aparecer em desafios do cotidiano.",
+          "Observar regularidades pode ser útil.",
+          "Raciocínio lógico significa pensar sem qualquer organização."
+        ],
+        "respostaCorreta": "Raciocínio lógico significa pensar sem qualquer organização.",
+        "explicacao": "A lógica envolve justamente organização do pensamento e análise das relações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-ex-06",
+        "enunciado": "A principal ideia desse tema é que pensar logicamente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a observar padrões e resolver problemas",
+          "não tem utilidade no cotidiano",
+          "serve apenas para decorar respostas",
+          "dispensa atenção aos detalhes"
+        ],
+        "respostaCorreta": "ajuda a observar padrões e resolver problemas",
+        "explicacao": "O raciocínio lógico fortalece a análise, a organização e a solução de desafios.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl6-raciocinio-logico-padroes-sim-01",
+        "enunciado": "Ao identificar uma regra em uma sequência de números ou formas, o aluno está usando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "raciocínio lógico",
+          "apenas memorização sem análise",
+          "somente leitura cartográfica",
+          "exclusivamente expressão corporal"
+        ],
+        "respostaCorreta": "raciocínio lógico",
+        "explicacao": "Perceber padrões e regularidades faz parte do raciocínio lógico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl6-raciocinio-logico-padroes-sim-02",
+        "enunciado": "A principal lição desse tema é que resolver desafios exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "observação, organização e análise",
+          "respostas aleatórias",
+          "falta de atenção",
+          "rejeição de qualquer estratégia"
+        ],
+        "respostaCorreta": "observação, organização e análise",
+        "explicacao": "Esses elementos ajudam a construir soluções mais lógicas e consistentes.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

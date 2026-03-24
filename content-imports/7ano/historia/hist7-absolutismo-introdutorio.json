@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-absolutismo-introdutorio",
+    "titulo": "Absolutismo: introdução",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Formação dos Estados modernos",
+    "resumo": [
+      "O absolutismo foi uma forma de organização política presente em parte da Europa moderna.",
+      "Nesse modelo, o rei concentrava grande parte do poder.",
+      "O fortalecimento das monarquias esteve ligado à formação dos Estados modernos.",
+      "O absolutismo se relacionou com disputas políticas e centralização do poder.",
+      "Estudar esse tema ajuda a compreender mudanças na organização política da modernidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi o absolutismo",
+        "texto": "O absolutismo foi uma forma de organização política em que o rei concentrava grande parte do poder em suas mãos. Esse modelo apareceu em diferentes reinos europeus e esteve ligado ao fortalecimento das monarquias.",
+        "dica": "Absolutismo está relacionado à concentração de poder no rei."
+      },
+      {
+        "subtitulo": "Centralização do poder",
+        "texto": "No contexto do absolutismo, houve um esforço de centralização política. Isso significa que o poder passou a se organizar de forma mais concentrada na figura do monarca, reduzindo a autonomia de outros grupos em determinadas situações.",
+        "dica": "Centralizar o poder significa reunir decisões e autoridade em um centro mais forte."
+      },
+      {
+        "subtitulo": "Importância histórica",
+        "texto": "O absolutismo é importante para o estudo da história porque ajuda a compreender a formação dos Estados modernos e as mudanças na organização política da Europa. Ele também se relaciona com debates posteriores sobre limites do poder.",
+        "dica": "Estudar o absolutismo ajuda a entender como o poder político foi organizado em determinado período."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o absolutismo é associado à figura do rei.",
+        "passos": [
+          "Nesse modelo, o rei concentrava grande parte da autoridade.",
+          "As decisões políticas estavam fortemente ligadas ao monarca.",
+          "Por isso, o absolutismo se associa à centralização do poder real."
+        ],
+        "resposta": "O absolutismo é associado ao rei porque ele reunia grande parte do poder político."
+      },
+      {
+        "enunciado": "Relacione absolutismo e Estado moderno.",
+        "passos": [
+          "O fortalecimento das monarquias contribuiu para a formação dos Estados modernos.",
+          "O absolutismo foi uma forma de organização desse poder.",
+          "Assim, os dois temas estão historicamente ligados."
+        ],
+        "resposta": "O absolutismo ajuda a compreender a formação política dos Estados modernos."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-01",
+        "enunciado": "O absolutismo foi uma forma de organização:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "política",
+          "somente biológica",
+          "exclusivamente geológica",
+          "apenas esportiva"
+        ],
+        "respostaCorreta": "política",
+        "explicacao": "O absolutismo está ligado à forma como o poder político foi organizado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-02",
+        "enunciado": "No absolutismo, quem concentrava grande parte do poder?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o rei",
+          "o goleiro",
+          "o navegador",
+          "o escultor"
+        ],
+        "respostaCorreta": "o rei",
+        "explicacao": "A concentração do poder na figura do rei é característica do absolutismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-03",
+        "enunciado": "O absolutismo se relaciona ao fortalecimento das:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "monarquias",
+          "equações",
+          "constelações",
+          "camadas do solo"
+        ],
+        "respostaCorreta": "monarquias",
+        "explicacao": "O absolutismo esteve ligado ao fortalecimento das monarquias europeias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-04",
+        "enunciado": "Ao estudar o absolutismo, é correto afirmar que houve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "centralização do poder",
+          "desaparecimento completo das decisões políticas",
+          "fim de toda autoridade real",
+          "ausência de organização estatal"
+        ],
+        "respostaCorreta": "centralização do poder",
+        "explicacao": "O absolutismo esteve ligado à concentração da autoridade no monarca.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-05",
+        "enunciado": "Qual alternativa está incorreta sobre o absolutismo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relaciona-se ao rei e à concentração de poder.",
+          "Ajuda a compreender a formação dos Estados modernos.",
+          "Foi um tema importante da história política.",
+          "Não teve relação alguma com as monarquias."
+        ],
+        "respostaCorreta": "Não teve relação alguma com as monarquias.",
+        "explicacao": "O absolutismo esteve diretamente ligado ao fortalecimento das monarquias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-ex-06",
+        "enunciado": "A principal importância desse tema é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formas de organização política na modernidade",
+          "somente o funcionamento do corpo",
+          "apenas a classificação das palavras",
+          "exclusivamente a formação dos rios"
+        ],
+        "respostaCorreta": "formas de organização política na modernidade",
+        "explicacao": "O absolutismo ajuda a entender a organização do poder em parte da Europa moderna.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-absolutismo-introdutorio-sim-01",
+        "enunciado": "Ao relacionar rei, centralização e monarquia, o aluno identifica características do:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "absolutismo",
+          "sistema respiratório",
+          "gênero narrativo",
+          "ciclo da água"
+        ],
+        "respostaCorreta": "absolutismo",
+        "explicacao": "Esses elementos ajudam a caracterizar o absolutismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-absolutismo-introdutorio-sim-02",
+        "enunciado": "A principal lição desse tema é que a formação dos Estados modernos passou também por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "processos de centralização política",
+          "eliminação de toda autoridade",
+          "ausência de poder real",
+          "recusa de qualquer organização estatal"
+        ],
+        "respostaCorreta": "processos de centralização política",
+        "explicacao": "O absolutismo ajuda a compreender a concentração de poder em certos Estados modernos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

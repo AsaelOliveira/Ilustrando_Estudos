@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-materia-misturas",
+    "titulo": "Matéria, materiais e misturas",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Matéria e transformações",
+    "resumo": [
+      "Matéria é tudo o que tem massa e ocupa lugar no espaço.",
+      "Os materiais podem apresentar propriedades diferentes, como cor, dureza e transparência.",
+      "Misturas são formadas pela reunião de duas ou mais substâncias.",
+      "As misturas podem ser homogêneas ou heterogêneas.",
+      "Muitas situações do cotidiano envolvem materiais e misturas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é matéria",
+        "texto": "Chamamos de matéria tudo aquilo que possui massa e ocupa lugar no espaço. Objetos, água, ar e alimentos são exemplos de matéria.",
+        "dica": "Se algo ocupa espaço e tem massa, ele pode ser considerado matéria."
+      },
+      {
+        "subtitulo": "Materiais e propriedades",
+        "texto": "Os materiais apresentam características próprias, chamadas propriedades. Entre elas estão cor, textura, dureza, brilho, transparência e flexibilidade. Essas propriedades ajudam a escolher o material mais adequado para cada uso.",
+        "dica": "Observe como os objetos do dia a dia são feitos com materiais diferentes por causa de suas propriedades."
+      },
+      {
+        "subtitulo": "Misturas homogêneas e heterogêneas",
+        "texto": "Uma mistura homogênea tem aspecto uniforme, como água com sal dissolvido. Já a mistura heterogênea apresenta partes visivelmente diferentes, como água e óleo. Observar o aspecto da mistura ajuda a classificá-la.",
+        "dica": "Se você consegue perceber partes diferentes na mistura, ela tende a ser heterogênea."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Classifique água com sal dissolvido.",
+        "passos": [
+          "O sal se distribui pela água de forma uniforme.",
+          "Não é possível ver partes diferentes a olho nu.",
+          "Por isso, a mistura é homogênea."
+        ],
+        "resposta": "Água com sal dissolvido é uma mistura homogênea."
+      },
+      {
+        "enunciado": "Classifique água e óleo.",
+        "passos": [
+          "A água e o óleo não se misturam de forma uniforme.",
+          "É possível perceber duas partes distintas.",
+          "Por isso, a mistura é heterogênea."
+        ],
+        "resposta": "Água e óleo formam uma mistura heterogênea."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-materia-misturas-ex-01",
+        "enunciado": "Matéria é tudo aquilo que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não ocupa espaço",
+          "tem massa e ocupa lugar no espaço",
+          "existe apenas em estado sólido",
+          "não pode ser observado"
+        ],
+        "respostaCorreta": "tem massa e ocupa lugar no espaço",
+        "explicacao": "Essa é a definição básica de matéria.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-02",
+        "enunciado": "Qual alternativa apresenta um exemplo de matéria?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "luz",
+          "som",
+          "ar",
+          "calor"
+        ],
+        "respostaCorreta": "ar",
+        "explicacao": "O ar ocupa espaço e tem massa, por isso é matéria.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-03",
+        "enunciado": "Qual alternativa apresenta uma propriedade de um material?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "brilho",
+          "órbita",
+          "rotação",
+          "cadeia alimentar"
+        ],
+        "respostaCorreta": "brilho",
+        "explicacao": "Brilho é uma propriedade observável de materiais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-04",
+        "enunciado": "Uma mistura homogênea apresenta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "partes visivelmente diferentes",
+          "aspecto uniforme",
+          "somente materiais sólidos",
+          "apenas água"
+        ],
+        "respostaCorreta": "aspecto uniforme",
+        "explicacao": "Misturas homogêneas têm aparência uniforme.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-05",
+        "enunciado": "Água e óleo formam uma mistura:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "homogênea",
+          "heterogênea",
+          "gasosa",
+          "metálica"
+        ],
+        "respostaCorreta": "heterogênea",
+        "explicacao": "É possível perceber duas partes diferentes nessa mistura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-06",
+        "enunciado": "Qual alternativa apresenta uma mistura homogênea?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água e areia",
+          "água e óleo",
+          "água com sal dissolvido",
+          "pedras e terra"
+        ],
+        "respostaCorreta": "água com sal dissolvido",
+        "explicacao": "O sal dissolve e deixa a mistura com aspecto uniforme.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-07",
+        "enunciado": "Qual alternativa apresenta uma afirmação correta sobre os materiais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todos os materiais têm as mesmas propriedades.",
+          "As propriedades ajudam a diferenciar os materiais.",
+          "Materiais não têm utilidade no cotidiano.",
+          "Todo material é transparente."
+        ],
+        "respostaCorreta": "As propriedades ajudam a diferenciar os materiais.",
+        "explicacao": "As propriedades permitem reconhecer e escolher materiais para usos diferentes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-08",
+        "enunciado": "Qual alternativa apresenta uma mistura heterogênea?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "suco em pó bem dissolvido em água",
+          "água com açúcar dissolvido",
+          "água e óleo",
+          "vinagre"
+        ],
+        "respostaCorreta": "água e óleo",
+        "explicacao": "A água e o óleo continuam separados em partes visíveis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-09",
+        "enunciado": "Um aluno disse que toda mistura é homogênea. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque existem misturas heterogêneas",
+          "correta, porque toda mistura é uniforme",
+          "incorreta, porque não existem misturas"
+        ],
+        "respostaCorreta": "incorreta, porque existem misturas heterogêneas",
+        "explicacao": "Existem misturas homogêneas e heterogêneas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-materia-misturas-ex-10",
+        "enunciado": "Qual alternativa apresenta apenas exemplos de matéria?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, ar e pedra",
+          "som, calor e luz",
+          "brilho, cor e odor",
+          "dia, noite e vento"
+        ],
+        "respostaCorreta": "água, ar e pedra",
+        "explicacao": "Esses exemplos ocupam espaço e possuem massa.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-materia-misturas-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente mistura homogênea e mistura heterogênea?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mistura homogênea tem aspecto uniforme; heterogênea apresenta partes diferentes.",
+          "Mistura homogênea existe apenas com água; heterogênea existe apenas com óleo.",
+          "Mistura homogênea não é matéria; heterogênea é.",
+          "Mistura homogênea só pode ser sólida."
+        ],
+        "respostaCorreta": "Mistura homogênea tem aspecto uniforme; heterogênea apresenta partes diferentes.",
+        "explicacao": "Essa é a diferença principal entre esses dois tipos de mistura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materia-misturas-sim-02",
+        "enunciado": "Qual alternativa apresenta uma propriedade que pode ser observada em um material?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dureza",
+          "translação",
+          "respiração",
+          "evaporação"
+        ],
+        "respostaCorreta": "dureza",
+        "explicacao": "Dureza é uma propriedade de materiais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materia-misturas-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A água com sal dissolvido é uma mistura heterogênea' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque a mistura tem aspecto uniforme.",
+          "A frase é verdadeira, porque sal e água são diferentes.",
+          "A frase é falsa, porque não existe mistura entre sal e água."
+        ],
+        "respostaCorreta": "A frase é falsa, porque a mistura tem aspecto uniforme.",
+        "explicacao": "Quando o sal está dissolvido, a mistura fica homogênea.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materia-misturas-sim-04",
+        "enunciado": "Qual alternativa apresenta apenas exemplos de misturas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água e óleo; água com areia",
+          "luz e calor; som e brilho",
+          "pedra e solo; rotação e translação",
+          "árvore e fungo; solo e tecido"
+        ],
+        "respostaCorreta": "água e óleo; água com areia",
+        "explicacao": "Esses dois exemplos são misturas de materiais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-materia-misturas-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a matéria?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Só existe em estado sólido.",
+          "Não ocupa lugar no espaço.",
+          "Pode formar materiais e misturas.",
+          "Não possui massa."
+        ],
+        "respostaCorreta": "Pode formar materiais e misturas.",
+        "explicacao": "A matéria está presente nos materiais e nas misturas do cotidiano.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

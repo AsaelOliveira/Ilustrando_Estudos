@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-expansao-maritima-introdutoria",
+    "titulo": "Expansão marítima: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Transições históricas",
+    "resumo": [
+      "A expansão marítima marcou a busca europeia por novas rotas e novas áreas de contato.",
+      "O comércio e a navegação tiveram papel importante nesse processo.",
+      "Avanços técnicos e interesses econômicos favoreceram as viagens marítimas.",
+      "As grandes navegações ampliaram o contato entre diferentes povos e continentes.",
+      "O estudo da expansão marítima ajuda a compreender mudanças importantes da história."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a expansão marítima",
+        "texto": "A expansão marítima corresponde ao processo em que reinos europeus intensificaram viagens pelo oceano em busca de novas rotas comerciais, produtos e áreas de influência. Esse movimento ampliou o contato entre diferentes regiões do mundo.",
+        "dica": "A ideia central é a busca por novas rotas e novas possibilidades de comércio."
+      },
+      {
+        "subtitulo": "Navegação e interesses econômicos",
+        "texto": "O crescimento do comércio incentivou o interesse por caminhos marítimos que facilitassem a circulação de mercadorias. Melhorias em técnicas de navegação e em embarcações contribuíram para tornar essas viagens mais viáveis.",
+        "dica": "Comércio e navegação caminharam juntos nesse processo histórico."
+      },
+      {
+        "subtitulo": "Consequências históricas",
+        "texto": "As grandes navegações provocaram mudanças importantes, ampliando contatos entre povos, territórios e culturas. Esse processo teve efeitos duradouros na economia, na política e nas relações entre diferentes sociedades.",
+        "dica": "A expansão marítima não foi apenas deslocamento no mar; ela transformou relações históricas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a busca por novas rotas comerciais estimulou as viagens marítimas.",
+        "passos": [
+          "O comércio precisava de caminhos mais vantajosos.",
+          "As viagens pelo mar podiam ampliar o acesso a mercadorias.",
+          "Isso incentivou a navegação e a expansão marítima."
+        ],
+        "resposta": "A busca por novas rotas comerciais foi um fator importante da expansão marítima."
+      },
+      {
+        "enunciado": "Relacione navegação e contatos entre povos.",
+        "passos": [
+          "As viagens marítimas aproximaram regiões antes menos conectadas.",
+          "Com isso, diferentes povos passaram a ter mais contato.",
+          "Esse processo trouxe mudanças históricas significativas."
+        ],
+        "resposta": "A expansão marítima ampliou os contatos entre diferentes povos e continentes."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-01",
+        "enunciado": "A expansão marítima esteve ligada principalmente à busca por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "novas rotas comerciais",
+          "novas formas de cultivo do trigo apenas em feudos",
+          "produção de energia elétrica",
+          "uso de satélites no oceano"
+        ],
+        "respostaCorreta": "novas rotas comerciais",
+        "explicacao": "A busca por caminhos marítimos mais vantajosos para o comércio foi central nesse processo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-02",
+        "enunciado": "O comércio teve importância na expansão marítima porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "incentivou a procura por novas rotas e mercadorias",
+          "eliminou a necessidade de navegar",
+          "impediu qualquer contato entre regiões",
+          "acabou com as trocas comerciais"
+        ],
+        "respostaCorreta": "incentivou a procura por novas rotas e mercadorias",
+        "explicacao": "Os interesses econômicos estimularam viagens e explorações marítimas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-03",
+        "enunciado": "As grandes navegações contribuíram para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ampliar o contato entre diferentes povos",
+          "isolar completamente os continentes",
+          "impedir toda circulação no oceano",
+          "reduzir o uso das embarcações"
+        ],
+        "respostaCorreta": "ampliar o contato entre diferentes povos",
+        "explicacao": "As viagens marítimas aumentaram os contatos entre regiões e sociedades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-04",
+        "enunciado": "Qual alternativa apresenta um elemento importante para a expansão marítima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "melhorias na navegação",
+          "abandono completo das embarcações",
+          "desaparecimento do comércio",
+          "fim de todo interesse econômico"
+        ],
+        "respostaCorreta": "melhorias na navegação",
+        "explicacao": "Avanços técnicos ajudaram a tornar as viagens marítimas mais possíveis e seguras.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-05",
+        "enunciado": "Ao estudar a expansão marítima, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela trouxe mudanças importantes para a história",
+          "não teve efeitos econômicos nem políticos",
+          "aconteceu sem qualquer navegação",
+          "foi um processo sem relação com o comércio"
+        ],
+        "respostaCorreta": "ela trouxe mudanças importantes para a história",
+        "explicacao": "Esse processo alterou contatos, rotas, interesses econômicos e relações entre sociedades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre a expansão marítima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Buscou novas rotas comerciais.",
+          "Teve relação com interesses econômicos.",
+          "Ampliou contatos entre diferentes regiões.",
+          "Eliminou totalmente a importância do mar."
+        ],
+        "respostaCorreta": "Eliminou totalmente a importância do mar.",
+        "explicacao": "Na verdade, o mar ganhou grande importância nesse processo histórico.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-expansao-maritima-introdutoria-sim-01",
+        "enunciado": "A relação entre comércio, navegação e novas rotas ajuda a explicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o processo de expansão marítima",
+          "a formação do sistema digestório",
+          "o ciclo das rochas",
+          "a divisão silábica"
+        ],
+        "respostaCorreta": "o processo de expansão marítima",
+        "explicacao": "Esses elementos foram fundamentais para a expansão marítima europeia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-expansao-maritima-introdutoria-sim-02",
+        "enunciado": "A importância histórica das grandes navegações está ligada ao fato de que elas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformaram contatos e relações entre diferentes povos",
+          "impediram toda circulação de mercadorias",
+          "eliminaram o comércio europeu",
+          "acabaram com a navegação oceânica"
+        ],
+        "respostaCorreta": "transformaram contatos e relações entre diferentes povos",
+        "explicacao": "As navegações ampliaram contatos e geraram mudanças duradouras na história.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "hist6-castelos-cavaleiros-vida-medieval",
+    "titulo": "Castelos, cavaleiros e vida medieval",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Sociedades medievais",
+    "resumo": [
+      "Os castelos eram construções importantes na organização da vida medieval.",
+      "Os cavaleiros estavam ligados à guerra, à proteção e às relações de fidelidade.",
+      "A vida medieval incluía trabalho no campo, práticas religiosas e relações de dependência.",
+      "Os castelos também funcionavam como espaços de moradia e defesa.",
+      "O estudo da vida medieval ajuda a compreender a organização da sociedade feudal."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função dos castelos",
+        "texto": "Os castelos eram construções fortificadas presentes em muitas regiões da Europa medieval. Eles serviam para defesa, moradia de grupos privilegiados e organização do poder local. Sua estrutura reforça a importância da proteção e do controle territorial nesse período.",
+        "dica": "Ao pensar em castelos, associe defesa, poder e moradia."
+      },
+      {
+        "subtitulo": "Quem eram os cavaleiros",
+        "texto": "Os cavaleiros estavam ligados à atividade militar e às relações de fidelidade entre nobres. Em muitos casos, atuavam na proteção de territórios e participavam de conflitos. Sua imagem ficou fortemente associada à guerra e à vida aristocrática medieval.",
+        "dica": "O cavaleiro não era apenas um guerreiro; ele fazia parte de relações políticas e sociais da época."
+      },
+      {
+        "subtitulo": "Aspectos da vida medieval",
+        "texto": "A vida medieval não se resumia a castelos e batalhas. A maior parte da população vivia do trabalho agrícola, e a religião tinha grande influência no cotidiano. Compreender esse período exige observar diferentes grupos e funções sociais.",
+        "dica": "Nem toda a vida medieval acontecia nos castelos; o campo era central na organização da sociedade."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os castelos eram importantes na Idade Média.",
+        "passos": [
+          "Eles ajudavam na defesa dos territórios.",
+          "Também serviam como moradia e centro de poder local.",
+          "Por isso, tinham importância militar e política."
+        ],
+        "resposta": "Os castelos eram importantes porque uniam funções de defesa, moradia e organização do poder."
+      },
+      {
+        "enunciado": "Relacione cavaleiros e sociedade medieval.",
+        "passos": [
+          "Os cavaleiros participavam da defesa e dos conflitos.",
+          "Eles estavam ligados às relações de fidelidade entre nobres.",
+          "Assim, ocupavam papel importante na organização da sociedade medieval."
+        ],
+        "resposta": "Os cavaleiros faziam parte das estruturas militares e sociais do mundo medieval."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-01",
+        "enunciado": "Os castelos medievais tinham como uma de suas principais funções:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender territórios",
+          "servir apenas como mercado aberto",
+          "abrigar exclusivamente animais selvagens",
+          "funcionar como fábricas modernas"
+        ],
+        "respostaCorreta": "defender territórios",
+        "explicacao": "Os castelos eram fortificações importantes para a proteção e o controle local.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-02",
+        "enunciado": "Os cavaleiros estavam mais diretamente ligados a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atividades militares",
+          "produção industrial",
+          "navegação espacial",
+          "exploração de petróleo"
+        ],
+        "respostaCorreta": "atividades militares",
+        "explicacao": "Os cavaleiros participavam da guerra e da defesa dos territórios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-03",
+        "enunciado": "Qual alternativa apresenta uma característica da vida medieval?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grande importância do trabalho no campo",
+          "predomínio da vida em arranha-céus",
+          "uso generalizado de máquinas digitais",
+          "desaparecimento das práticas religiosas"
+        ],
+        "respostaCorreta": "grande importância do trabalho no campo",
+        "explicacao": "A produção agrícola tinha papel central na sociedade medieval.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-04",
+        "enunciado": "Os castelos também podiam servir como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "moradia e centro de poder",
+          "somente área de lazer",
+          "espaço exclusivo para comércio marítimo",
+          "laboratório científico moderno"
+        ],
+        "respostaCorreta": "moradia e centro de poder",
+        "explicacao": "Além da defesa, os castelos eram locais de moradia e administração local.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-05",
+        "enunciado": "A relação entre cavaleiros e nobres mostra que a sociedade medieval tinha:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações de fidelidade e hierarquia",
+          "igualdade social completa",
+          "ausência de qualquer conflito",
+          "fim do poder local"
+        ],
+        "respostaCorreta": "relações de fidelidade e hierarquia",
+        "explicacao": "Os cavaleiros participavam de relações políticas e sociais ligadas à nobreza.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-06",
+        "enunciado": "Ao estudar a vida medieval, é incorreto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a maior parte da população dependia do trabalho agrícola",
+          "castelos tinham importância defensiva",
+          "os cavaleiros estavam ligados à guerra",
+          "a vida medieval acontecia apenas dentro dos castelos"
+        ],
+        "respostaCorreta": "a vida medieval acontecia apenas dentro dos castelos",
+        "explicacao": "Grande parte da população vivia e trabalhava no campo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-07",
+        "enunciado": "Qual alternativa relaciona corretamente um elemento da sociedade medieval?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "castelo - defesa e poder local",
+          "castelo - produção de satélites",
+          "cavaleiro - trabalho industrial",
+          "campo - vida sem agricultura"
+        ],
+        "respostaCorreta": "castelo - defesa e poder local",
+        "explicacao": "Os castelos eram espaços estratégicos de proteção e organização do poder.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-ex-08",
+        "enunciado": "A presença de castelos e cavaleiros ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aspectos militares e políticos da sociedade medieval",
+          "somente o clima europeu",
+          "apenas a anatomia humana",
+          "exclusivamente a vida urbana industrial"
+        ],
+        "respostaCorreta": "aspectos militares e políticos da sociedade medieval",
+        "explicacao": "Esses elementos ajudam a entender defesa, poder e relações sociais da Idade Média.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-sim-01",
+        "enunciado": "Ao observar o papel dos castelos e dos cavaleiros, o aluno percebe que a sociedade medieval:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "combinava defesa, hierarquia social e poder local",
+          "era totalmente urbana e industrial",
+          "não possuía conflitos nem divisões sociais",
+          "dispensava a organização política"
+        ],
+        "respostaCorreta": "combinava defesa, hierarquia social e poder local",
+        "explicacao": "Castelos e cavaleiros ajudam a compreender a organização militar e política do período.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-castelos-cavaleiros-vida-medieval-sim-02",
+        "enunciado": "A principal limitação de imaginar a vida medieval apenas pelos castelos é esquecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grande parte da população vivia do trabalho no campo",
+          "todos eram cavaleiros",
+          "não existiam práticas religiosas",
+          "não havia produção agrícola"
+        ],
+        "respostaCorreta": "grande parte da população vivia do trabalho no campo",
+        "explicacao": "A vida medieval envolvia principalmente o espaço rural e o trabalho agrícola.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

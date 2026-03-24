@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-clima-vegetacao",
+    "titulo": "Clima e vegetação",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Natureza e dinâmica ambiental",
+    "resumo": [
+      "Clima corresponde ao conjunto de condições atmosféricas observadas por longos períodos.",
+      "Temperatura, umidade e chuvas influenciam o clima de uma região.",
+      "Vegetação é o conjunto de plantas que cobre um espaço.",
+      "O clima influencia os tipos de vegetação presentes em cada lugar.",
+      "As ações humanas também podem modificar a cobertura vegetal."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é clima",
+        "texto": "O clima é o comportamento mais duradouro das condições atmosféricas de uma região. Ele não se refere apenas ao que acontece em um dia, mas às características observadas ao longo do tempo.",
+        "dica": "Tempo e clima não são a mesma coisa: o tempo muda rapidamente, o clima é mais estável no longo prazo."
+      },
+      {
+        "subtitulo": "O que é vegetação",
+        "texto": "Vegetação é o conjunto de plantas existentes em um determinado espaço. Ela varia conforme fatores como clima, solo, relevo e disponibilidade de água.",
+        "dica": "Ao observar uma área, pense em como o ambiente favorece ou limita o crescimento das plantas."
+      },
+      {
+        "subtitulo": "Relação entre clima e vegetação",
+        "texto": "O clima influencia bastante o tipo de vegetação de uma região. Lugares mais úmidos e quentes tendem a favorecer certas formações vegetais, enquanto regiões secas apresentam vegetações adaptadas à pouca água.",
+        "dica": "Sempre tente relacionar chuva, temperatura e vegetação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que regiões secas costumam ter vegetação adaptada.",
+        "passos": [
+          "A disponibilidade de água é menor nesses lugares.",
+          "As plantas precisam desenvolver estratégias para sobreviver.",
+          "Por isso, a vegetação apresenta adaptações ao ambiente."
+        ],
+        "resposta": "Regiões secas tendem a ter vegetação adaptada à pouca água."
+      },
+      {
+        "enunciado": "Compare clima e tempo.",
+        "passos": [
+          "O tempo é a condição atmosférica em um momento específico.",
+          "O clima é o conjunto dessas condições observado por longos períodos.",
+          "Por isso, clima e tempo se relacionam, mas não são iguais."
+        ],
+        "resposta": "Tempo é momentâneo; clima é mais duradouro."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-clima-vegetacao-ex-01",
+        "enunciado": "Clima é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a condição atmosférica de um único dia",
+          "o comportamento das condições atmosféricas ao longo do tempo",
+          "somente a quantidade de rios",
+          "o mesmo que vegetação"
+        ],
+        "respostaCorreta": "o comportamento das condições atmosféricas ao longo do tempo",
+        "explicacao": "O clima é observado em períodos mais longos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-02",
+        "enunciado": "Vegetação é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas o tipo de solo",
+          "o conjunto de plantas de um lugar",
+          "a temperatura de uma região",
+          "um tipo de mapa"
+        ],
+        "respostaCorreta": "o conjunto de plantas de um lugar",
+        "explicacao": "A vegetação corresponde à cobertura vegetal de uma área.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-03",
+        "enunciado": "Qual fator influencia diretamente o clima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "temperatura",
+          "fronteira política",
+          "nome da cidade",
+          "tipo de documento"
+        ],
+        "respostaCorreta": "temperatura",
+        "explicacao": "A temperatura é um dos elementos importantes do clima.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-04",
+        "enunciado": "Qual alternativa está correta sobre a relação entre clima e vegetação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A vegetação não depende do clima.",
+          "O clima pode influenciar os tipos de vegetação.",
+          "Clima e vegetação não têm nenhuma relação.",
+          "Somente o relevo interfere na vegetação."
+        ],
+        "respostaCorreta": "O clima pode influenciar os tipos de vegetação.",
+        "explicacao": "A quantidade de chuva e a temperatura afetam bastante a vegetação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-05",
+        "enunciado": "Em regiões muito secas, a vegetação tende a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não precisar de adaptação alguma",
+          "ser adaptada à pouca água",
+          "ser sempre igual à de áreas úmidas",
+          "desaparecer completamente em todos os casos"
+        ],
+        "respostaCorreta": "ser adaptada à pouca água",
+        "explicacao": "A vegetação se adapta às condições do ambiente em que vive.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-06",
+        "enunciado": "Qual alternativa diferencia corretamente tempo e clima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tempo é de longo prazo, e clima é de curto prazo.",
+          "Tempo é momentâneo, e clima é observado por longo período.",
+          "Tempo e clima são exatamente a mesma coisa.",
+          "Clima só existe em áreas rurais."
+        ],
+        "respostaCorreta": "Tempo é momentâneo, e clima é observado por longo período.",
+        "explicacao": "Essa é uma diferença importante entre os dois conceitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-07",
+        "enunciado": "Qual alternativa apresenta um elemento do clima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "chuvas",
+          "território",
+          "fronteira",
+          "legenda"
+        ],
+        "respostaCorreta": "chuvas",
+        "explicacao": "As chuvas fazem parte das condições atmosféricas analisadas no clima.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-08",
+        "enunciado": "Um aluno disse que a vegetação de todos os lugares é igual. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque clima e outros fatores influenciam a vegetação",
+          "correta, porque toda planta precisa das mesmas condições",
+          "incorreta, porque vegetação existe apenas no campo"
+        ],
+        "respostaCorreta": "incorreta, porque clima e outros fatores influenciam a vegetação",
+        "explicacao": "A vegetação varia de acordo com diferentes condições ambientais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-09",
+        "enunciado": "Qual alternativa apresenta uma informação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O clima não muda ao longo do tempo em nenhuma situação.",
+          "A vegetação não pode ser alterada por ação humana.",
+          "Clima e vegetação fazem parte da análise geográfica da natureza.",
+          "Somente a vegetação influencia o clima, nunca o contrário."
+        ],
+        "respostaCorreta": "Clima e vegetação fazem parte da análise geográfica da natureza.",
+        "explicacao": "Esses dois elementos são importantes na compreensão do espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-ex-10",
+        "enunciado": "Qual situação está mais ligada à alteração da vegetação por ação humana?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "expansão urbana sobre áreas vegetadas",
+          "nascimento do Sol",
+          "movimento de rotação da Terra",
+          "mudança da legenda de um mapa"
+        ],
+        "respostaCorreta": "expansão urbana sobre áreas vegetadas",
+        "explicacao": "A ação humana pode modificar bastante a cobertura vegetal de uma região.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-clima-vegetacao-sim-01",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Clima é apenas a previsão do tempo para amanhã' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque clima se refere a condições observadas por longos períodos.",
+          "A frase é verdadeira apenas no inverno.",
+          "A frase é falsa, porque clima e vegetação são iguais."
+        ],
+        "respostaCorreta": "A frase é falsa, porque clima se refere a condições observadas por longos períodos.",
+        "explicacao": "A previsão de amanhã está ligada ao tempo, não ao clima.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-sim-02",
+        "enunciado": "Qual alternativa apresenta uma relação coerente entre ambiente e vegetação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "região seca - plantas adaptadas à pouca água",
+          "região seca - vegetação igual à de floresta úmida",
+          "região úmida - ausência total de vegetação",
+          "região fria - impossibilidade absoluta de vida vegetal"
+        ],
+        "respostaCorreta": "região seca - plantas adaptadas à pouca água",
+        "explicacao": "As plantas tendem a se adaptar às condições do ambiente em que vivem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-sim-03",
+        "enunciado": "Qual alternativa apresenta apenas fatores que influenciam a vegetação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "clima, solo e água",
+          "título, legenda e escala",
+          "fronteira, lei e território",
+          "rotação, translação e órbita"
+        ],
+        "respostaCorreta": "clima, solo e água",
+        "explicacao": "Esses elementos influenciam diretamente a vegetação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-clima-vegetacao-sim-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o clima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É definido por um único dia de observação.",
+          "É o conjunto das condições atmosféricas ao longo do tempo.",
+          "Não depende de temperatura nem de chuvas.",
+          "É o mesmo que paisagem."
+        ],
+        "respostaCorreta": "É o conjunto das condições atmosféricas ao longo do tempo.",
+        "explicacao": "Essa é a definição correta do clima.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-clima-vegetacao-sim-05",
+        "enunciado": "Qual alternativa apresenta uma ação humana que pode modificar a vegetação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desmatamento",
+          "uso da rosa dos ventos",
+          "leitura de mapas",
+          "mudança de legenda cartográfica"
+        ],
+        "respostaCorreta": "desmatamento",
+        "explicacao": "O desmatamento altera a cobertura vegetal de uma região.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

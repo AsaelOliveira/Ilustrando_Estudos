@@ -109,10 +109,11 @@ export default function Layout({ children }: { children: ReactNode }) {
 
   return (
     <div className="flex min-h-screen flex-col">
+      <div className="page-progress w-0" id="global-progress" />
+      <div className="grain-overlay" />
       <BackgroundBlobs />
-
-      <header className="sticky top-0 z-40 border-b border-border/50 bg-background/60 backdrop-blur-xl">
-        <div className="container mx-auto flex items-center justify-between px-4 py-3">
+      <header className="sticky top-0 z-40 w-full border-b border-border/40 bg-background/50 backdrop-blur-2xl">
+        <div className="container mx-auto flex items-center justify-between px-4 py-4">
           <Link to={homeTarget} className="group flex items-center gap-2.5">
             <motion.div whileHover={{ rotate: 8, scale: 1.08 }}>
               <BrandMark />
@@ -135,10 +136,10 @@ export default function Layout({ children }: { children: ReactNode }) {
                 <Link
                   key={item.to}
                   to={item.to}
-                  className={`relative flex items-center gap-2 rounded-xl px-4 py-2.5 font-medium transition-all ${
+                  className={`relative flex items-center gap-2.5 rounded-2xl px-5 py-3 font-bold transition-all ${
                     isActive
-                      ? "bg-gradient-to-r from-primary/20 via-emerald-400/10 to-primary/10 text-primary shadow-sm ring-1 ring-primary/15"
-                      : "text-muted-foreground hover:bg-secondary hover:text-foreground"
+                      ? "bg-primary/10 text-primary shadow-[inset_0_0_20px_rgba(99,102,241,0.08)] ring-1 ring-primary/20"
+                      : "text-muted-foreground/80 hover:bg-secondary hover:text-foreground hover:scale-105"
                   }`}
                 >
                   <Icon className="h-4 w-4" />
@@ -161,10 +162,10 @@ export default function Layout({ children }: { children: ReactNode }) {
             })}
 
             {user && isAppRoute ? (
-              <div className="ml-2 flex items-center gap-2 rounded-xl border border-border bg-background px-3 py-2 text-xs font-medium text-foreground shadow-sm">
-                <Brain className="h-3.5 w-3.5 text-primary" />
-                <span className="text-muted-foreground">Sinapses</span>
-                <span className="font-semibold text-foreground">{points}</span>
+              <div className="ml-3 flex items-center gap-2.5 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-2.5 text-[13px] font-bold text-primary shadow-[0_0_15px_-5px_rgba(99,102,241,0.2)]">
+                <Brain className="h-4 w-4 animate-pulse" />
+                <span className="opacity-70">Sinapses</span>
+                <span className="text-foreground">{points}</span>
               </div>
             ) : null}
 
@@ -247,7 +248,16 @@ export default function Layout({ children }: { children: ReactNode }) {
         </AnimatePresence>
       </header>
 
-      <main className="flex-1">{children}</main>
+      <main className="flex-1">
+        <motion.div
+          key={location.pathname}
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, ease: "easeOut" }}
+        >
+          {children}
+        </motion.div>
+      </main>
 
       <footer className="mt-16 border-t border-border/50 py-8">
         <div className="container mx-auto px-4 text-center font-body text-sm text-muted-foreground">

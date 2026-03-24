@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-vacinas-prevencao-saude",
+    "titulo": "Vacinas e prevenção da saúde",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Saúde e qualidade de vida",
+    "resumo": [
+      "As vacinas são importantes para a prevenção de doenças.",
+      "A prevenção em saúde envolve cuidados individuais e coletivos.",
+      "Hábitos de higiene, alimentação e acompanhamento de saúde ajudam a proteger o organismo.",
+      "As vacinas contribuem para a proteção das pessoas e da comunidade.",
+      "Estudar esse tema ajuda a compreender o valor da prevenção para a qualidade de vida."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O papel das vacinas",
+        "texto": "As vacinas são importantes ferramentas de prevenção da saúde. Elas ajudam a proteger o organismo e contribuem para reduzir a circulação de certas doenças, sendo um recurso importante para a saúde coletiva.",
+        "dica": "Vacina está ligada à prevenção, não ao descuido com a saúde."
+      },
+      {
+        "subtitulo": "Prevenção e cuidados",
+        "texto": "Prevenir é melhor do que esperar o aparecimento de problemas. Bons hábitos de higiene, alimentação adequada, descanso, acompanhamento de saúde e vacinação são exemplos de atitudes que favorecem a proteção do organismo.",
+        "dica": "Prevenção envolve um conjunto de cuidados, não apenas uma única ação."
+      },
+      {
+        "subtitulo": "Saúde individual e coletiva",
+        "texto": "A saúde não diz respeito apenas a cada pessoa isoladamente. Muitas ações de prevenção, como a vacinação, têm importância coletiva, pois ajudam a proteger a comunidade e a reduzir riscos para mais pessoas.",
+        "dica": "Saúde coletiva significa pensar também no bem-estar do grupo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a vacinação é uma medida de prevenção.",
+        "passos": [
+          "A vacina ajuda a proteger o organismo.",
+          "Essa proteção reduz riscos ligados a certas doenças.",
+          "Por isso, a vacinação é uma forma importante de prevenção."
+        ],
+        "resposta": "A vacinação é uma medida preventiva importante para a saúde."
+      },
+      {
+        "enunciado": "Relacione hábitos de higiene e prevenção em saúde.",
+        "passos": [
+          "A higiene ajuda a reduzir riscos de contaminação.",
+          "Esses cuidados fazem parte da prevenção.",
+          "Assim, higiene e saúde estão diretamente relacionadas."
+        ],
+        "resposta": "A prevenção da saúde depende também de hábitos diários de cuidado."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-01",
+        "enunciado": "As vacinas são importantes principalmente porque ajudam na:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "prevenção de doenças",
+          "formação do relevo",
+          "produção de energia solar",
+          "divisão das regiões brasileiras"
+        ],
+        "respostaCorreta": "prevenção de doenças",
+        "explicacao": "As vacinas são ferramentas importantes de prevenção em saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-02",
+        "enunciado": "A prevenção em saúde envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cuidados individuais e coletivos",
+          "somente esperar o aparecimento da doença",
+          "apenas tratamento de fraturas",
+          "somente o uso de mapas"
+        ],
+        "respostaCorreta": "cuidados individuais e coletivos",
+        "explicacao": "Prevenção inclui hábitos saudáveis, higiene, vacinação e outros cuidados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-03",
+        "enunciado": "Qual atitude faz parte da prevenção em saúde?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "manter hábitos de higiene",
+          "ignorar orientações de cuidado",
+          "descartar totalmente a alimentação saudável",
+          "abandonar qualquer acompanhamento de saúde"
+        ],
+        "respostaCorreta": "manter hábitos de higiene",
+        "explicacao": "A higiene é uma medida importante para a prevenção de problemas de saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-04",
+        "enunciado": "A vacinação também tem importância coletiva porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a proteger a comunidade",
+          "substitui toda forma de higiene",
+          "dispensa o cuidado com a alimentação",
+          "atua apenas sobre o clima"
+        ],
+        "respostaCorreta": "ajuda a proteger a comunidade",
+        "explicacao": "A vacinação contribui para a saúde coletiva, e não apenas individual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-05",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Vacinas ajudam na prevenção de doenças.",
+          "A prevenção em saúde envolve diferentes cuidados.",
+          "A saúde coletiva também depende de atitudes preventivas.",
+          "Prevenção significa esperar o problema aparecer para só então agir."
+        ],
+        "respostaCorreta": "Prevenção significa esperar o problema aparecer para só então agir.",
+        "explicacao": "Prevenção significa agir antes, com cuidados que reduzam riscos à saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-ex-06",
+        "enunciado": "Ao estudar esse tema, o aluno compreende que a saúde:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pode ser protegida por ações preventivas",
+          "não depende de cuidados",
+          "não tem relação com hábitos diários",
+          "dispensa qualquer atitude coletiva"
+        ],
+        "respostaCorreta": "pode ser protegida por ações preventivas",
+        "explicacao": "A prevenção é parte importante da promoção da saúde.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-vacinas-prevencao-saude-sim-01",
+        "enunciado": "Ao relacionar vacinação, higiene e alimentação, o aluno identifica exemplos de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "prevenção em saúde",
+          "erosão do solo",
+          "regionalização do território",
+          "expansão marítima"
+        ],
+        "respostaCorreta": "prevenção em saúde",
+        "explicacao": "Esses elementos fazem parte de ações preventivas ligadas à saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-vacinas-prevencao-saude-sim-02",
+        "enunciado": "A principal mensagem desse tema é que cuidar da saúde:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolve prevenção e responsabilidade individual e coletiva",
+          "depende apenas de sorte",
+          "não tem relação com hábitos cotidianos",
+          "dispensa vacinas e higiene"
+        ],
+        "respostaCorreta": "envolve prevenção e responsabilidade individual e coletiva",
+        "explicacao": "A saúde é favorecida por cuidados contínuos e ações preventivas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

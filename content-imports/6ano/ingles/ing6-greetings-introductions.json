@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ing6-greetings-introductions",
+    "titulo": "Greetings and Introductions",
+    "disciplinaId": "ing6",
+    "turmaId": "6ano",
+    "unidade": "Basic Communication",
+    "resumo": [
+      "Greetings are used to start conversations politely.",
+      "Introductions help people present themselves and meet others.",
+      "Expressions such as \"Hello\", \"Hi\" and \"Good morning\" are common greetings.",
+      "Questions like \"What is your name?\" and answers like \"My name is...\" are used in introductions.",
+      "Learning greetings and introductions helps students communicate in everyday situations."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Common greetings",
+        "texto": "In English, greetings are used when we meet someone. Expressions such as \"Hello\", \"Hi\", \"Good morning\", \"Good afternoon\" and \"Good evening\" are common in daily communication.",
+        "dica": "Choose the greeting according to the time of day and the situation."
+      },
+      {
+        "subtitulo": "Introducing yourself",
+        "texto": "To introduce yourself, you can say \"My name is...\" or \"I am...\". To ask another person's name, common questions include \"What is your name?\" and \"What is your nickname?\".",
+        "dica": "In introductions, short and clear sentences are very useful."
+      },
+      {
+        "subtitulo": "Polite interaction",
+        "texto": "Greetings and introductions are part of polite communication. They help start conversations respectfully and create a friendly interaction between people.",
+        "dica": "Being polite is also part of learning a new language."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read the dialogue: \"Hello! My name is Ana. What is your name?\"",
+        "passos": [
+          "The word \"Hello\" is a greeting.",
+          "The sentence \"My name is Ana\" is an introduction.",
+          "The question asks for the other person's name."
+        ],
+        "resposta": "The dialogue uses both a greeting and an introduction."
+      },
+      {
+        "enunciado": "Observe the sentence: \"Good morning! I am Pedro.\"",
+        "passos": [
+          "\"Good morning\" is used in the morning.",
+          "\"I am Pedro\" introduces the speaker.",
+          "Together, they form a polite opening."
+        ],
+        "resposta": "The sentence is a correct example of greeting and self-introduction."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "ing6-greetings-introductions-ex-01",
+        "enunciado": "Which expression is a greeting in English?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Hello",
+          "Notebook",
+          "Blue",
+          "School bag"
+        ],
+        "respostaCorreta": "Hello",
+        "explicacao": "\"Hello\" is a common greeting used to start a conversation.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing6-greetings-introductions-ex-02",
+        "enunciado": "Which expression is normally used in the morning?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Good morning",
+          "Good night",
+          "Goodbye",
+          "See you later"
+        ],
+        "respostaCorreta": "Good morning",
+        "explicacao": "\"Good morning\" is the greeting commonly used in the morning.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing6-greetings-introductions-ex-03",
+        "enunciado": "Which question asks for a person's name?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "What is your name?",
+          "How old are you?",
+          "Where is the book?",
+          "What color is it?"
+        ],
+        "respostaCorreta": "What is your name?",
+        "explicacao": "That question is used to ask someone's name.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing6-greetings-introductions-ex-04",
+        "enunciado": "Choose the correct self-introduction.",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "My name is Lucas.",
+          "Good afternoon school.",
+          "Blue is my friend.",
+          "She bag notebook."
+        ],
+        "respostaCorreta": "My name is Lucas.",
+        "explicacao": "\"My name is Lucas\" is a correct way to introduce yourself.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing6-greetings-introductions-ex-05",
+        "enunciado": "Which expression is used to greet someone politely at the end of the day?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Good evening",
+          "Good morning",
+          "My favorite color is green",
+          "What is your book?"
+        ],
+        "respostaCorreta": "Good evening",
+        "explicacao": "\"Good evening\" is commonly used later in the day.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing6-greetings-introductions-ex-06",
+        "enunciado": "Why are greetings important?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Because they help start conversations politely.",
+          "Because they replace every question.",
+          "Because they are only used in books.",
+          "Because they are names of objects."
+        ],
+        "respostaCorreta": "Because they help start conversations politely.",
+        "explicacao": "Greetings are important because they begin interaction in a respectful way.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "ing6-greetings-introductions-sim-01",
+        "enunciado": "Read the sentence: \"Hi! I am Sofia.\" What does it show?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A greeting and an introduction",
+          "A question and an answer about age",
+          "A description of an object",
+          "A list of school subjects"
+        ],
+        "respostaCorreta": "A greeting and an introduction",
+        "explicacao": "\"Hi\" is a greeting and \"I am Sofia\" is an introduction.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing6-greetings-introductions-sim-02",
+        "enunciado": "The main idea of this topic is that students can:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "greet people and introduce themselves in English",
+          "solve math problems in English only",
+          "study geography maps in silence",
+          "replace all communication with gestures"
+        ],
+        "respostaCorreta": "greet people and introduce themselves in English",
+        "explicacao": "The topic focuses on basic communication through greetings and introductions.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

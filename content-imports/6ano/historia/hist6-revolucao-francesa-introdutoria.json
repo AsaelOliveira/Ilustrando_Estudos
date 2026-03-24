@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-revolucao-francesa-introdutoria",
+    "titulo": "Revolução Francesa: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Transformações políticas da modernidade",
+    "resumo": [
+      "A Revolução Francesa foi um acontecimento importante da história moderna.",
+      "Esse processo esteve ligado a críticas ao poder e às desigualdades sociais.",
+      "A revolução influenciou debates sobre liberdade, igualdade e direitos.",
+      "Mudanças políticas profundas ocorreram nesse contexto.",
+      "Estudar esse tema ajuda a compreender transformações históricas de grande impacto."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a Revolução Francesa",
+        "texto": "A Revolução Francesa foi um processo histórico marcado por intensas mudanças políticas e sociais. Ela ocorreu em um contexto de críticas às desigualdades e ao modo como o poder estava organizado, tornando-se um marco importante da história moderna.",
+        "dica": "Ao estudar a Revolução Francesa, pense em mudança política e questionamento das desigualdades."
+      },
+      {
+        "subtitulo": "Ideias e reivindicações",
+        "texto": "Nesse processo, ganharam força debates sobre liberdade, igualdade, participação política e direitos. As ideias que circulavam nesse período influenciaram grupos sociais e ajudaram a impulsionar transformações importantes.",
+        "dica": "A revolução envolveu não apenas conflitos, mas também ideias e propostas de mudança."
+      },
+      {
+        "subtitulo": "Importância histórica",
+        "texto": "A Revolução Francesa teve grande importância histórica porque influenciou a política, os debates sobre cidadania e diferentes movimentos posteriores. Por isso, ela é estudada como um marco de transformação na história.",
+        "dica": "Certos acontecimentos se tornam marcos históricos porque influenciam muitos outros processos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a Revolução Francesa é associada à ideia de mudança política.",
+        "passos": [
+          "Ela questionou formas de poder e desigualdades existentes.",
+          "Também trouxe novos debates sobre direitos e participação.",
+          "Por isso, é vista como um processo de transformação política."
+        ],
+        "resposta": "A Revolução Francesa é associada à mudança política porque alterou formas de poder e influenciou novos debates sobre direitos."
+      },
+      {
+        "enunciado": "Relacione Revolução Francesa e direitos.",
+        "passos": [
+          "Durante esse processo, cresceram discussões sobre liberdade e igualdade.",
+          "Essas ideias influenciaram o debate político.",
+          "Assim, a revolução ficou ligada à defesa de direitos."
+        ],
+        "resposta": "A Revolução Francesa contribuiu para fortalecer debates sobre direitos e cidadania."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-01",
+        "enunciado": "A Revolução Francesa foi um acontecimento importante da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "história moderna",
+          "formação das rochas",
+          "classificação dos animais",
+          "história do sistema solar"
+        ],
+        "respostaCorreta": "história moderna",
+        "explicacao": "A Revolução Francesa é um marco importante da história moderna.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-02",
+        "enunciado": "Esse processo esteve ligado principalmente a críticas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ao poder e às desigualdades sociais",
+          "às florestas tropicais",
+          "ao sistema digestório",
+          "às formas geométricas"
+        ],
+        "respostaCorreta": "ao poder e às desigualdades sociais",
+        "explicacao": "A Revolução Francesa envolveu fortes críticas à organização do poder e às desigualdades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-03",
+        "enunciado": "A Revolução Francesa influenciou debates sobre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "liberdade, igualdade e direitos",
+          "somente clima e vegetação",
+          "apenas sistema urinário",
+          "unicamente divisão silábica"
+        ],
+        "respostaCorreta": "liberdade, igualdade e direitos",
+        "explicacao": "Esses temas foram centrais nas discussões influenciadas pela Revolução Francesa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-04",
+        "enunciado": "Ao estudar a Revolução Francesa, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela provocou mudanças políticas importantes",
+          "não teve impacto histórico",
+          "aconteceu sem qualquer debate social",
+          "não se relacionou com a ideia de cidadania"
+        ],
+        "respostaCorreta": "ela provocou mudanças políticas importantes",
+        "explicacao": "A Revolução Francesa se destacou por suas transformações políticas e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-05",
+        "enunciado": "Qual alternativa está incorreta sobre a Revolução Francesa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Foi um marco da história moderna.",
+          "Influenciou debates sobre direitos.",
+          "Esteve ligada a mudanças políticas.",
+          "Foi um acontecimento sem relação com desigualdades sociais."
+        ],
+        "respostaCorreta": "Foi um acontecimento sem relação com desigualdades sociais.",
+        "explicacao": "As críticas às desigualdades sociais estiveram entre os elementos importantes desse processo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-ex-06",
+        "enunciado": "A principal importância histórica da Revolução Francesa está em que ela:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciou transformações políticas e debates sobre cidadania",
+          "eliminou totalmente a política",
+          "foi um processo sem consequências futuras",
+          "substituiu toda a economia pela agricultura"
+        ],
+        "respostaCorreta": "influenciou transformações políticas e debates sobre cidadania",
+        "explicacao": "A Revolução Francesa teve impacto duradouro na história política e social.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-sim-01",
+        "enunciado": "Ao relacionar liberdade, igualdade e crítica ao poder, o aluno identifica características da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revolução Francesa",
+          "classificação dos numerais",
+          "rotação terrestre",
+          "digestão humana"
+        ],
+        "respostaCorreta": "Revolução Francesa",
+        "explicacao": "Esses elementos ajudam a compreender o contexto da Revolução Francesa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-revolucao-francesa-introdutoria-sim-02",
+        "enunciado": "A principal lição desse tema é que a Revolução Francesa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "foi um marco de transformação política e social",
+          "não influenciou outros debates históricos",
+          "aconteceu sem mudanças importantes",
+          "não teve relação com direitos"
+        ],
+        "respostaCorreta": "foi um marco de transformação política e social",
+        "explicacao": "A Revolução Francesa marcou a história por suas mudanças e influências duradouras.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

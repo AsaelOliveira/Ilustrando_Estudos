@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-urinario",
+    "titulo": "Sistema urinário",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema urinário participa da eliminação de substâncias do organismo.",
+      "Rins, ureteres, bexiga e uretra fazem parte desse sistema.",
+      "Os rins têm papel importante na filtração do sangue.",
+      "A eliminação da urina ajuda o corpo a manter seu funcionamento adequado.",
+      "Hábitos saudáveis e hidratação contribuem para a saúde do sistema urinário."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema urinário",
+        "texto": "O sistema urinário participa da eliminação de substâncias que o organismo não precisa mais. Esse processo ajuda o corpo a manter equilíbrio interno e a funcionar de maneira adequada.",
+        "dica": "Eliminar resíduos também é essencial para a saúde do organismo."
+      },
+      {
+        "subtitulo": "Principais órgãos",
+        "texto": "Os rins filtram o sangue e ajudam na formação da urina. Depois, a urina passa pelos ureteres, fica armazenada na bexiga e é eliminada pela uretra. Cada parte desse sistema tem papel específico no processo.",
+        "dica": "Acompanhar o caminho da urina ajuda a entender a função de cada órgão."
+      },
+      {
+        "subtitulo": "Cuidados com a saúde urinária",
+        "texto": "Beber água regularmente e manter hábitos de higiene são atitudes importantes para a saúde do sistema urinário. Esses cuidados ajudam o organismo a funcionar melhor e contribuem para a prevenção de problemas.",
+        "dica": "Hidratação é uma aliada importante do sistema urinário."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os rins são importantes.",
+        "passos": [
+          "Os rins participam da filtração do sangue.",
+          "Nesse processo, ajudam na formação da urina.",
+          "Por isso, são fundamentais para o sistema urinário."
+        ],
+        "resposta": "Os rins são importantes porque ajudam a eliminar substâncias do organismo."
+      },
+      {
+        "enunciado": "Descreva o caminho da urina no corpo.",
+        "passos": [
+          "A urina é formada com a participação dos rins.",
+          "Depois segue pelos ureteres até a bexiga.",
+          "Por fim, é eliminada pela uretra."
+        ],
+        "resposta": "A urina percorre diferentes estruturas do sistema urinário até ser eliminada."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-urinario-ex-01",
+        "enunciado": "A principal função do sistema urinário é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participar da eliminação de substâncias do organismo",
+          "realizar a respiração",
+          "bombear sangue",
+          "produzir ossos"
+        ],
+        "respostaCorreta": "participar da eliminação de substâncias do organismo",
+        "explicacao": "O sistema urinário ajuda o corpo a eliminar resíduos e manter equilíbrio interno.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-02",
+        "enunciado": "Qual órgão faz parte do sistema urinário?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rins",
+          "pulmões",
+          "coração",
+          "esôfago"
+        ],
+        "respostaCorreta": "rins",
+        "explicacao": "Os rins são órgãos fundamentais do sistema urinário.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-03",
+        "enunciado": "Os rins são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participam da filtração do sangue",
+          "realizam a digestão",
+          "fazem a mastigação dos alimentos",
+          "formam os ossos longos"
+        ],
+        "respostaCorreta": "participam da filtração do sangue",
+        "explicacao": "Os rins ajudam na formação da urina por meio da filtração do sangue.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-04",
+        "enunciado": "Depois dos rins, a urina segue pelos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ureteres",
+          "brônquios",
+          "intestinos",
+          "tendões"
+        ],
+        "respostaCorreta": "ureteres",
+        "explicacao": "Os ureteres conduzem a urina até a bexiga.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-05",
+        "enunciado": "A bexiga tem a função de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "armazenar urina temporariamente",
+          "produzir oxigênio",
+          "mastigar alimentos",
+          "bombear sangue"
+        ],
+        "respostaCorreta": "armazenar urina temporariamente",
+        "explicacao": "A bexiga guarda a urina até o momento de sua eliminação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-06",
+        "enunciado": "Qual hábito contribui para a saúde do sistema urinário?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "beber água regularmente",
+          "evitar toda hidratação",
+          "ignorar hábitos de higiene",
+          "deixar de eliminar urina por muito tempo"
+        ],
+        "respostaCorreta": "beber água regularmente",
+        "explicacao": "A hidratação é importante para o bom funcionamento do sistema urinário.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-07",
+        "enunciado": "Ao estudar o sistema urinário, o aluno compreende que o organismo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "precisa eliminar substâncias para funcionar bem",
+          "não precisa eliminar resíduos",
+          "depende apenas do sistema digestório",
+          "não utiliza rins nem bexiga"
+        ],
+        "respostaCorreta": "precisa eliminar substâncias para funcionar bem",
+        "explicacao": "A eliminação de resíduos é importante para o equilíbrio interno do organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-urinario-ex-08",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os rins participam da filtração do sangue.",
+          "A urina pode ficar armazenada na bexiga.",
+          "A hidratação ajuda o sistema urinário.",
+          "O sistema urinário não tem relação com a eliminação de resíduos."
+        ],
+        "respostaCorreta": "O sistema urinário não tem relação com a eliminação de resíduos.",
+        "explicacao": "Essa é justamente uma das funções centrais do sistema urinário.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-urinario-sim-01",
+        "enunciado": "A sequência correta do percurso da urina envolve, entre outras estruturas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rins, ureteres, bexiga e uretra",
+          "boca, esôfago, estômago e intestino",
+          "nariz, traqueia e pulmões",
+          "coração, veias e artérias"
+        ],
+        "respostaCorreta": "rins, ureteres, bexiga e uretra",
+        "explicacao": "Essas são estruturas do sistema urinário ligadas à formação e eliminação da urina.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-urinario-sim-02",
+        "enunciado": "A importância do sistema urinário para o corpo humano está no fato de que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a eliminar resíduos e manter o organismo em equilíbrio",
+          "realiza sozinho todos os processos do corpo",
+          "substitui a circulação sanguínea",
+          "não depende de nenhum cuidado com a saúde"
+        ],
+        "respostaCorreta": "ajuda a eliminar resíduos e manter o organismo em equilíbrio",
+        "explicacao": "Esse sistema participa da eliminação de substâncias e do equilíbrio interno do corpo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

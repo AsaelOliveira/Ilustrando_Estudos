@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-interpretacao-textual",
+    "titulo": "Interpretação textual",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Leitura e compreensão",
+    "resumo": [
+      "Interpretar um texto é compreender informações explícitas e implícitas.",
+      "A leitura atenta ajuda a identificar tema, ideia principal e intenção do texto.",
+      "Elementos do contexto e da linguagem influenciam a interpretação.",
+      "Bons leitores observam palavras-chave, relações entre ideias e pistas do texto.",
+      "Estudar interpretação textual fortalece a compreensão e a argumentação."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Compreensão e interpretação",
+        "texto": "Compreender um texto envolve reconhecer o que está escrito de forma direta. Interpretar vai além: exige perceber relações entre informações, inferir sentidos e identificar a intenção comunicativa presente na produção textual.",
+        "dica": "Nem toda resposta está escrita da forma exata no texto; às vezes, é preciso inferir."
+      },
+      {
+        "subtitulo": "Ideia principal e tema",
+        "texto": "A ideia principal corresponde ao ponto central desenvolvido no texto, enquanto o tema indica o assunto tratado. Diferenciar esses elementos ajuda o leitor a organizar melhor a leitura e a compreender o sentido global da mensagem.",
+        "dica": "Tema é o assunto; ideia principal é o que o texto diz de mais importante sobre esse assunto."
+      },
+      {
+        "subtitulo": "Pistas de interpretação",
+        "texto": "Palavras repetidas, conectivos, exemplos, comparações e o contexto de produção são pistas que ajudam na interpretação. Quanto mais atento o leitor estiver a esses elementos, maior será sua compreensão do texto.",
+        "dica": "Marcar palavras importantes pode ajudar muito na leitura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um pequeno texto sobre reciclagem e identifique sua ideia principal.",
+        "passos": [
+          "Observe o assunto tratado ao longo do texto.",
+          "Veja qual informação aparece como mais importante.",
+          "Diferencie os exemplos da mensagem central."
+        ],
+        "resposta": "A ideia principal é a informação central que o texto desenvolve sobre o tema."
+      },
+      {
+        "enunciado": "Analise um texto que defende o uso consciente da água.",
+        "passos": [
+          "Identifique palavras que mostram opinião ou orientação.",
+          "Observe os argumentos usados para convencer o leitor.",
+          "Perceba a intenção do texto."
+        ],
+        "resposta": "O texto busca conscientizar o leitor sobre a importância de economizar água."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-interpretacao-textual-ex-01",
+        "enunciado": "Interpretar um texto significa apenas copiar palavras do texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não, interpretar também envolve compreender sentidos e relações entre ideias.",
+          "Sim, basta repetir qualquer frase do texto.",
+          "Sim, porque interpretação não exige atenção ao contexto.",
+          "Não, porque interpretar é apenas decorar o título."
+        ],
+        "respostaCorreta": "Não, interpretar também envolve compreender sentidos e relações entre ideias.",
+        "explicacao": "Interpretar exige compreender o texto de forma mais profunda, indo além da cópia literal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-interpretacao-textual-ex-02",
+        "enunciado": "A ideia principal de um texto corresponde:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "à informação central desenvolvida pelo texto",
+          "a qualquer palavra repetida no início",
+          "apenas ao nome do autor",
+          "somente à última frase do parágrafo"
+        ],
+        "respostaCorreta": "à informação central desenvolvida pelo texto",
+        "explicacao": "A ideia principal é aquilo que o texto apresenta como ponto central.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-interpretacao-textual-ex-03",
+        "enunciado": "O tema de um texto é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o assunto de que ele trata",
+          "a mesma coisa que qualquer exemplo citado",
+          "o nome de uma personagem obrigatória",
+          "apenas o título copiado"
+        ],
+        "respostaCorreta": "o assunto de que ele trata",
+        "explicacao": "O tema indica o assunto geral abordado pelo texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-interpretacao-textual-ex-04",
+        "enunciado": "Qual elemento pode ajudar na interpretação de um texto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "palavras-chave e conectivos",
+          "somente a cor do papel",
+          "apenas o tamanho da letra",
+          "o número de páginas do caderno"
+        ],
+        "respostaCorreta": "palavras-chave e conectivos",
+        "explicacao": "Esses elementos ajudam a perceber relações entre ideias e sentidos do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-interpretacao-textual-ex-05",
+        "enunciado": "Quando o leitor conclui algo que não está escrito exatamente no texto, mas pode ser entendido por pistas, ele faz:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma inferência",
+          "uma cópia literal",
+          "uma separação silábica",
+          "uma classificação numérica"
+        ],
+        "respostaCorreta": "uma inferência",
+        "explicacao": "Inferir é compreender informações implícitas a partir de pistas do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-interpretacao-textual-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre interpretação textual?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Interpretar envolve compreender sentidos do texto.",
+          "A intenção comunicativa pode influenciar a leitura.",
+          "O contexto pode ajudar na compreensão.",
+          "Interpretar bem significa ignorar as relações entre as ideias."
+        ],
+        "respostaCorreta": "Interpretar bem significa ignorar as relações entre as ideias.",
+        "explicacao": "As relações entre as ideias são fundamentais para a interpretação.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-interpretacao-textual-sim-01",
+        "enunciado": "Ao observar tema, ideia principal e intenção do autor, o leitor está desenvolvendo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a interpretação textual",
+          "somente a cópia mecânica",
+          "apenas a divisão silábica",
+          "a classificação geométrica"
+        ],
+        "respostaCorreta": "a interpretação textual",
+        "explicacao": "Esses elementos fazem parte do processo de leitura interpretativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-interpretacao-textual-sim-02",
+        "enunciado": "A principal ideia desse tema é que ler bem exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atenção às pistas do texto e compreensão das relações entre ideias",
+          "somente repetir frases prontas",
+          "decorar o texto sem entendê-lo",
+          "ignorar o contexto de produção"
+        ],
+        "respostaCorreta": "atenção às pistas do texto e compreensão das relações entre ideias",
+        "explicacao": "A leitura interpretativa depende de atenção, análise e construção de sentidos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

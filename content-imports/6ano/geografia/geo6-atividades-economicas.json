@@ -1,0 +1,281 @@
+[
+  {
+    "id": "geo6-atividades-economicas",
+    "titulo": "Atividades econômicas e trabalho",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Sociedade e espaço",
+    "resumo": [
+      "As atividades econômicas estão relacionadas à produção de bens e à oferta de serviços.",
+      "Agricultura, indústria, comércio e serviços fazem parte da organização econômica da sociedade.",
+      "O trabalho humano é essencial para transformar recursos em produtos e serviços.",
+      "As atividades econômicas se distribuem de maneiras diferentes no espaço geográfico.",
+      "O estudo do trabalho e da economia ajuda a compreender a vida em sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são atividades econômicas",
+        "texto": "Atividades econômicas são ações realizadas para produzir bens, oferecer serviços e atender necessidades da população. Elas fazem parte da organização da vida em sociedade e ajudam a movimentar a economia de um lugar.",
+        "dica": "Sempre relacione atividade econômica à produção, à circulação ou aos serviços."
+      },
+      {
+        "subtitulo": "Setores de atividade",
+        "texto": "A agricultura está ligada ao cultivo da terra, enquanto a indústria transforma matérias-primas em produtos. O comércio realiza a venda de mercadorias, e os serviços incluem funções como transporte, educação, saúde e atendimento.",
+        "dica": "Observe a diferença entre produzir, transformar, vender e prestar serviços."
+      },
+      {
+        "subtitulo": "Trabalho e espaço geográfico",
+        "texto": "O trabalho humano participa da organização do espaço geográfico. Diferentes atividades se concentram em determinados lugares conforme recursos, infraestrutura, população e necessidades locais.",
+        "dica": "Nem todas as atividades econômicas aparecem com a mesma intensidade em todos os lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare o trabalho de um agricultor e o de um vendedor.",
+        "passos": [
+          "O agricultor atua na produção ligada ao cultivo da terra.",
+          "O vendedor participa da circulação de mercadorias no comércio.",
+          "Ambos realizam atividades econômicas importantes para a sociedade."
+        ],
+        "resposta": "Agricultura e comércio pertencem a setores diferentes, mas se complementam na economia."
+      },
+      {
+        "enunciado": "Explique por que o trabalho influencia a organização do espaço.",
+        "passos": [
+          "As atividades econômicas ocupam diferentes áreas do território.",
+          "Elas atraem pessoas, transporte e construções.",
+          "Por isso, o trabalho ajuda a organizar o espaço geográfico."
+        ],
+        "resposta": "O trabalho transforma e organiza os lugares de acordo com as atividades realizadas."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-atividades-economicas-ex-01",
+        "enunciado": "As atividades econômicas estão relacionadas principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "à produção de bens e à oferta de serviços",
+          "apenas ao estudo do clima",
+          "somente à observação dos rios",
+          "à formação exclusiva das montanhas"
+        ],
+        "respostaCorreta": "à produção de bens e à oferta de serviços",
+        "explicacao": "As atividades econômicas envolvem produção, circulação de mercadorias e prestação de serviços.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-02",
+        "enunciado": "Qual atividade está mais ligada ao cultivo da terra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agricultura",
+          "comércio",
+          "hotelaria",
+          "transporte aéreo"
+        ],
+        "respostaCorreta": "agricultura",
+        "explicacao": "A agricultura está relacionada ao plantio e ao uso da terra para produção.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-03",
+        "enunciado": "A indústria se caracteriza principalmente por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformar matérias-primas em produtos",
+          "apenas vender alimentos prontos",
+          "produzir mapas",
+          "realizar somente atividades esportivas"
+        ],
+        "respostaCorreta": "transformar matérias-primas em produtos",
+        "explicacao": "A indústria transforma matérias-primas em mercadorias e bens de consumo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-04",
+        "enunciado": "Qual alternativa apresenta um exemplo de serviço?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atendimento em um hospital",
+          "plantio de milho",
+          "extração de minério",
+          "colheita de frutas"
+        ],
+        "respostaCorreta": "atendimento em um hospital",
+        "explicacao": "Saúde é um exemplo importante de atividade do setor de serviços.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-05",
+        "enunciado": "O comércio está diretamente ligado a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "venda e circulação de mercadorias",
+          "formação das chuvas",
+          "decomposição da matéria orgânica",
+          "movimento dos planetas"
+        ],
+        "respostaCorreta": "venda e circulação de mercadorias",
+        "explicacao": "O comércio realiza a distribuição e a venda de produtos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-06",
+        "enunciado": "Em relação ao trabalho humano, é correto afirmar que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é essencial para a organização econômica da sociedade",
+          "não tem relação com o espaço geográfico",
+          "aparece apenas nas cidades",
+          "não participa da produção de bens"
+        ],
+        "respostaCorreta": "é essencial para a organização econômica da sociedade",
+        "explicacao": "O trabalho humano é fundamental para produzir bens, prestar serviços e organizar os lugares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-07",
+        "enunciado": "Qual alternativa apresenta uma atividade do setor de serviços?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transporte coletivo",
+          "extração de petróleo",
+          "cultivo de arroz",
+          "produção de aço bruto"
+        ],
+        "respostaCorreta": "transporte coletivo",
+        "explicacao": "O transporte coletivo faz parte do setor de serviços.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-08",
+        "enunciado": "As atividades econômicas se distribuem de formas diferentes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "todos os lugares possuem as mesmas características",
+          "recursos, população e infraestrutura variam entre os lugares",
+          "o espaço geográfico não interfere na economia",
+          "não existe relação entre trabalho e território"
+        ],
+        "respostaCorreta": "recursos, população e infraestrutura variam entre os lugares",
+        "explicacao": "A distribuição das atividades econômicas depende de vários fatores presentes no território.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-09",
+        "enunciado": "Qual situação representa melhor uma atividade industrial?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fábrica transformando algodão em tecido",
+          "feirante vendendo legumes",
+          "agricultor preparando o solo",
+          "motorista conduzindo um ônibus"
+        ],
+        "respostaCorreta": "fábrica transformando algodão em tecido",
+        "explicacao": "A indústria transforma matérias-primas em novos produtos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-10",
+        "enunciado": "Qual alternativa está incorreta sobre atividades econômicas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ajudam a organizar a vida em sociedade.",
+          "Elas envolvem produção, comércio e serviços.",
+          "Elas não têm relação com o trabalho humano.",
+          "Elas podem variar de um lugar para outro."
+        ],
+        "respostaCorreta": "Elas não têm relação com o trabalho humano.",
+        "explicacao": "As atividades econômicas dependem diretamente do trabalho humano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-11",
+        "enunciado": "Ao observar o espaço geográfico, percebemos que as atividades econômicas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciam a organização dos lugares",
+          "existem apenas em áreas rurais",
+          "não dependem de população",
+          "não alteram o cotidiano das pessoas"
+        ],
+        "respostaCorreta": "influenciam a organização dos lugares",
+        "explicacao": "As atividades econômicas interferem no uso do espaço, nos transportes, nas construções e no cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-ex-12",
+        "enunciado": "Qual alternativa reúne corretamente exemplos de setores diferentes da economia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agricultura, indústria e serviços",
+          "chuva, relevo e vegetação",
+          "mapa, legenda e escala",
+          "rio, lago e oceano"
+        ],
+        "respostaCorreta": "agricultura, indústria e serviços",
+        "explicacao": "Esses são exemplos de setores importantes das atividades econômicas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-atividades-economicas-sim-01",
+        "enunciado": "A produção agrícola e a prestação de serviços mostram que a economia envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diferentes tipos de trabalho e organização do espaço",
+          "somente atividades urbanas",
+          "apenas fenômenos naturais",
+          "exclusivamente práticas esportivas"
+        ],
+        "respostaCorreta": "diferentes tipos de trabalho e organização do espaço",
+        "explicacao": "A economia reúne várias atividades e cada uma delas participa da organização dos lugares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-sim-02",
+        "enunciado": "Qual alternativa relaciona corretamente a atividade ao setor econômico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fabricação de móveis - indústria",
+          "plantio de feijão - comércio",
+          "atendimento médico - agricultura",
+          "venda em mercado - decomposição"
+        ],
+        "respostaCorreta": "fabricação de móveis - indústria",
+        "explicacao": "A fabricação de móveis envolve transformação de matéria-prima e pertence ao setor industrial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-atividades-economicas-sim-03",
+        "enunciado": "A distribuição desigual das atividades econômicas pelo território ocorre porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os lugares apresentam condições diferentes",
+          "todos os espaços são iguais",
+          "o trabalho humano não interfere na economia",
+          "não existem recursos naturais distintos"
+        ],
+        "respostaCorreta": "os lugares apresentam condições diferentes",
+        "explicacao": "Recursos, infraestrutura e população variam entre os lugares e influenciam as atividades econômicas.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-atividades-economicas-sim-04",
+        "enunciado": "Ao estudar atividades econômicas, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como a sociedade produz, circula e oferece bens e serviços",
+          "apenas a cor dos mapas",
+          "somente a formação das nuvens",
+          "exclusivamente a origem das rochas"
+        ],
+        "respostaCorreta": "como a sociedade produz, circula e oferece bens e serviços",
+        "explicacao": "Esse tema ajuda a entender o funcionamento da economia e sua relação com o espaço geográfico.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

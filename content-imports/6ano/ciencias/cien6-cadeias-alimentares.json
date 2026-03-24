@@ -1,0 +1,281 @@
+[
+  {
+    "id": "cien6-cadeias-alimentares",
+    "titulo": "Cadeias alimentares",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e ambiente",
+    "resumo": [
+      "A cadeia alimentar representa relações de alimentação entre os seres vivos.",
+      "Produtores, consumidores e decompositores desempenham funções diferentes no ambiente.",
+      "Os produtores fabricam seu próprio alimento, geralmente por fotossíntese.",
+      "Os consumidores se alimentam de outros seres vivos.",
+      "Os decompositores ajudam a reciclar a matéria no ambiente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é cadeia alimentar",
+        "texto": "A cadeia alimentar mostra como a matéria e a energia passam de um ser vivo para outro por meio da alimentação. Ela ajuda a compreender a interdependência entre os seres vivos e o equilíbrio dos ecossistemas.",
+        "dica": "Ao observar uma cadeia alimentar, pense em quem serve de alimento para quem."
+      },
+      {
+        "subtitulo": "Produtores, consumidores e decompositores",
+        "texto": "Os produtores são seres que fabricam seu próprio alimento, como as plantas. Os consumidores dependem de outros seres vivos para se alimentar, como herbívoros e carnívoros. Já os decompositores atuam sobre restos de seres vivos, devolvendo nutrientes ao ambiente.",
+        "dica": "Plantas costumam aparecer no início das cadeias alimentares por serem produtoras."
+      },
+      {
+        "subtitulo": "Equilíbrio ambiental",
+        "texto": "Quando os seres vivos de uma cadeia alimentar se mantêm em equilíbrio, o ecossistema funciona melhor. A redução ou o desaparecimento de um grupo pode afetar outros organismos e alterar a dinâmica do ambiente.",
+        "dica": "Uma mudança em um elo da cadeia pode provocar consequências em outros elos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a sequência capim, gafanhoto e sapo.",
+        "passos": [
+          "O capim é produtor, pois fabrica seu alimento.",
+          "O gafanhoto se alimenta do capim e atua como consumidor.",
+          "O sapo se alimenta do gafanhoto, continuando a sequência alimentar."
+        ],
+        "resposta": "A sequência mostra uma cadeia alimentar simples."
+      },
+      {
+        "enunciado": "Explique a função dos decompositores.",
+        "passos": [
+          "Eles atuam sobre restos de seres vivos.",
+          "Nesse processo, ajudam a devolver nutrientes ao ambiente.",
+          "Isso contribui para a continuidade dos ciclos naturais."
+        ],
+        "resposta": "Os decompositores reciclam matéria e colaboram para o equilíbrio do ecossistema."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-cadeias-alimentares-ex-01",
+        "enunciado": "A cadeia alimentar representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a ordem das estações do ano",
+          "relações de alimentação entre seres vivos",
+          "a classificação dos planetas",
+          "a formação das rochas"
+        ],
+        "respostaCorreta": "relações de alimentação entre seres vivos",
+        "explicacao": "A cadeia alimentar mostra quem serve de alimento para quem no ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-02",
+        "enunciado": "Em uma cadeia alimentar, as plantas geralmente são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produtoras",
+          "consumidoras secundárias",
+          "decompositoras",
+          "predadoras"
+        ],
+        "respostaCorreta": "produtoras",
+        "explicacao": "As plantas fabricam seu próprio alimento, por isso são classificadas como produtoras.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-03",
+        "enunciado": "Qual alternativa apresenta um exemplo de consumidor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grama",
+          "árvore",
+          "coelho",
+          "alga produtora"
+        ],
+        "respostaCorreta": "coelho",
+        "explicacao": "O coelho é consumidor porque se alimenta de outros seres vivos, como plantas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-04",
+        "enunciado": "Os decompositores são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "impedem a circulação de nutrientes",
+          "reciclam matéria no ambiente",
+          "fabricam luz solar",
+          "eliminam toda a água do solo"
+        ],
+        "respostaCorreta": "reciclam matéria no ambiente",
+        "explicacao": "Os decompositores atuam sobre restos de seres vivos e ajudam a devolver nutrientes ao ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-05",
+        "enunciado": "Qual sequência representa corretamente uma cadeia alimentar simples?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "capim, gafanhoto, sapo",
+          "sapo, capim, gafanhoto",
+          "gafanhoto, sapo, capim",
+          "sol, pedra, água"
+        ],
+        "respostaCorreta": "capim, gafanhoto, sapo",
+        "explicacao": "O capim é produtor, o gafanhoto se alimenta dele e o sapo se alimenta do gafanhoto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-06",
+        "enunciado": "Em uma cadeia alimentar, a energia circula principalmente por meio:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "da alimentação",
+          "da chuva",
+          "dos ventos",
+          "da erosão"
+        ],
+        "respostaCorreta": "da alimentação",
+        "explicacao": "A energia passa de um ser vivo para outro ao longo das relações alimentares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-07",
+        "enunciado": "Se uma população de produtores diminuir muito, o que pode acontecer?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nada muda na cadeia alimentar.",
+          "Os consumidores podem ser afetados pela falta de alimento.",
+          "Os decompositores deixam de existir imediatamente.",
+          "O solo deixa de ter minerais."
+        ],
+        "respostaCorreta": "Os consumidores podem ser afetados pela falta de alimento.",
+        "explicacao": "Os produtores estão na base de muitas cadeias alimentares e sua redução pode afetar outros níveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-08",
+        "enunciado": "Qual alternativa descreve corretamente os produtores?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Seres que fabricam seu próprio alimento.",
+          "Seres que se alimentam apenas de carne.",
+          "Seres que decompõem restos orgânicos.",
+          "Seres que vivem sempre no fundo do mar."
+        ],
+        "respostaCorreta": "Seres que fabricam seu próprio alimento.",
+        "explicacao": "Os produtores, como as plantas, produzem alimento por processos como a fotossíntese.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-09",
+        "enunciado": "Ao analisar uma cadeia alimentar, podemos perceber que os seres vivos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vivem sempre de forma isolada",
+          "mantêm relações de dependência entre si",
+          "não precisam de alimento",
+          "ocupam exatamente a mesma função"
+        ],
+        "respostaCorreta": "mantêm relações de dependência entre si",
+        "explicacao": "A cadeia alimentar evidencia a interdependência entre os seres vivos de um ecossistema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-10",
+        "enunciado": "Qual organismo atua como decompositor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fungo",
+          "capim",
+          "gafanhoto",
+          "coelho"
+        ],
+        "respostaCorreta": "fungo",
+        "explicacao": "Muitos fungos participam da decomposição da matéria orgânica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-11",
+        "enunciado": "Qual alternativa apresenta uma informação incorreta sobre cadeias alimentares?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As plantas costumam ocupar o papel de produtoras.",
+          "Consumidores dependem de outros seres vivos para se alimentar.",
+          "Decompositores ajudam a reciclar nutrientes.",
+          "Todos os seres vivos da cadeia desempenham exatamente a mesma função."
+        ],
+        "respostaCorreta": "Todos os seres vivos da cadeia desempenham exatamente a mesma função.",
+        "explicacao": "Em uma cadeia alimentar, os organismos exercem papéis diferentes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-ex-12",
+        "enunciado": "Uma cadeia alimentar ajuda a compreender principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre alimentação e equilíbrio ambiental",
+          "a origem das montanhas",
+          "o movimento de rotação da Terra",
+          "a classificação dos planetas"
+        ],
+        "respostaCorreta": "a relação entre alimentação e equilíbrio ambiental",
+        "explicacao": "As cadeias alimentares ajudam a entender como a alimentação influencia o equilíbrio dos ecossistemas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-cadeias-alimentares-sim-01",
+        "enunciado": "Na cadeia capim, gafanhoto, sapo, qual organismo ocupa o primeiro nível por produzir seu alimento?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "capim",
+          "gafanhoto",
+          "sapo",
+          "fungo"
+        ],
+        "respostaCorreta": "capim",
+        "explicacao": "O capim é produtor, pois fabrica seu próprio alimento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-sim-02",
+        "enunciado": "A presença dos decompositores em um ecossistema é importante porque eles:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reciclam matéria e devolvem nutrientes ao ambiente",
+          "produzem luz para os consumidores",
+          "substituem todos os produtores",
+          "eliminam a necessidade de alimentação"
+        ],
+        "respostaCorreta": "reciclam matéria e devolvem nutrientes ao ambiente",
+        "explicacao": "Os decompositores atuam sobre restos orgânicos e ajudam na reciclagem de nutrientes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-sim-03",
+        "enunciado": "Quando um elo da cadeia alimentar sofre grande redução, o efeito mais provável é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alteração no equilíbrio do ecossistema",
+          "formação imediata de novas rochas",
+          "desaparecimento do Sol",
+          "mudança automática de clima"
+        ],
+        "respostaCorreta": "alteração no equilíbrio do ecossistema",
+        "explicacao": "Os elos da cadeia alimentar estão relacionados, e mudanças em um deles podem afetar os demais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-cadeias-alimentares-sim-04",
+        "enunciado": "Ao estudar cadeias alimentares, o aluno aprende que a vida no ambiente depende:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de relações de interdependência entre os seres vivos",
+          "apenas da força dos ventos",
+          "somente da quantidade de pedras do solo",
+          "de uma única espécie dominante"
+        ],
+        "respostaCorreta": "de relações de interdependência entre os seres vivos",
+        "explicacao": "As cadeias alimentares mostram que os seres vivos dependem uns dos outros para a manutenção do ecossistema.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

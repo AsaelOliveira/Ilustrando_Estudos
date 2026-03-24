@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo6-redes-circulacao-introducao",
+    "titulo": "Redes de circulação: introdução",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Circulação e organização do espaço",
+    "resumo": [
+      "As redes de circulação ajudam a conectar diferentes lugares.",
+      "Elas envolvem o deslocamento de pessoas, mercadorias e informações.",
+      "Rodovias, ferrovias, hidrovias e meios de comunicação fazem parte dessas redes.",
+      "A circulação influencia a economia e a organização do espaço geográfico.",
+      "Estudar esse tema ajuda a compreender melhor a integração entre regiões."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são redes de circulação",
+        "texto": "As redes de circulação correspondem aos caminhos e meios que permitem deslocar pessoas, produtos e informações entre diferentes lugares. Elas são fundamentais para a integração dos espaços geográficos e para o funcionamento da vida em sociedade.",
+        "dica": "Circulação sempre envolve movimento e conexão entre lugares."
+      },
+      {
+        "subtitulo": "Tipos de circulação",
+        "texto": "A circulação pode acontecer por meio de transportes terrestres, aquáticos e aéreos, além de sistemas de comunicação. Essas redes aproximam regiões, favorecem trocas e ajudam a organizar atividades econômicas e sociais.",
+        "dica": "Não pense apenas em estradas; circulação também envolve comunicação e outros meios."
+      },
+      {
+        "subtitulo": "Importância geográfica",
+        "texto": "As redes de circulação influenciam a organização do espaço geográfico porque aproximam lugares, facilitam o comércio, permitem deslocamentos e ampliam contatos. Quanto melhores as conexões, maior tende a ser a integração entre as áreas.",
+        "dica": "Boa circulação costuma significar mais integração entre lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como uma rodovia pode integrar diferentes cidades.",
+        "passos": [
+          "A rodovia permite o deslocamento entre lugares.",
+          "Por ela circulam pessoas e mercadorias.",
+          "Assim, as cidades ficam mais conectadas."
+        ],
+        "resposta": "Uma rodovia integra cidades ao facilitar o deslocamento e a circulação entre elas."
+      },
+      {
+        "enunciado": "Relacione circulação e economia.",
+        "passos": [
+          "A circulação ajuda no transporte de mercadorias.",
+          "Isso facilita comércio e abastecimento.",
+          "Por isso, as redes de circulação influenciam a economia."
+        ],
+        "resposta": "As redes de circulação são importantes para a vida econômica e social."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-01",
+        "enunciado": "As redes de circulação ajudam principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conectar diferentes lugares",
+          "eliminar qualquer deslocamento",
+          "impedir o comércio",
+          "parar a circulação de informações"
+        ],
+        "respostaCorreta": "conectar diferentes lugares",
+        "explicacao": "As redes de circulação permitem ligações entre cidades, regiões e territórios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-02",
+        "enunciado": "As redes de circulação envolvem o deslocamento de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pessoas, mercadorias e informações",
+          "somente montanhas e rios",
+          "apenas nuvens e ventos",
+          "somente animais selvagens"
+        ],
+        "respostaCorreta": "pessoas, mercadorias e informações",
+        "explicacao": "Esses são elementos centrais na ideia de circulação geográfica.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-03",
+        "enunciado": "Qual alternativa apresenta um exemplo de rede de circulação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rodovia",
+          "floresta fechada",
+          "cadeia alimentar",
+          "substantivo próprio"
+        ],
+        "respostaCorreta": "rodovia",
+        "explicacao": "As rodovias são importantes exemplos de redes de circulação terrestre.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-04",
+        "enunciado": "As redes de circulação são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "favorecem integração entre lugares",
+          "isolam totalmente as regiões",
+          "acabam com a economia",
+          "eliminam a necessidade de transporte"
+        ],
+        "respostaCorreta": "favorecem integração entre lugares",
+        "explicacao": "A circulação ajuda a conectar territórios e fortalecer relações espaciais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor a relação entre circulação e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organização do espaço geográfico",
+          "somente sistema digestório",
+          "apenas regras gramaticais",
+          "unicamente formação das rochas"
+        ],
+        "respostaCorreta": "organização do espaço geográfico",
+        "explicacao": "As redes de circulação influenciam diretamente a organização e a integração dos lugares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As redes de circulação ajudam a integrar regiões.",
+          "A circulação pode envolver transporte e comunicação.",
+          "As redes de circulação não têm relação com a economia.",
+          "Mercadorias podem circular entre diferentes lugares."
+        ],
+        "respostaCorreta": "As redes de circulação não têm relação com a economia.",
+        "explicacao": "Na verdade, a circulação tem forte relação com comércio, abastecimento e atividades econômicas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-redes-circulacao-introducao-sim-01",
+        "enunciado": "Ao relacionar rodovias, deslocamento e integração entre cidades, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as redes de circulação",
+          "os sistemas do corpo humano",
+          "as classes gramaticais",
+          "a Pré-História"
+        ],
+        "respostaCorreta": "as redes de circulação",
+        "explicacao": "Esses elementos fazem parte do estudo da circulação no espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-redes-circulacao-introducao-sim-02",
+        "enunciado": "A principal ideia desse tema é que os lugares:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem se integrar por meio do transporte e da comunicação",
+          "existem sem qualquer conexão entre si",
+          "não dependem da circulação",
+          "não precisam de redes para trocar produtos e informações"
+        ],
+        "respostaCorreta": "podem se integrar por meio do transporte e da comunicação",
+        "explicacao": "As redes de circulação são fundamentais para a conexão entre diferentes espaços.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

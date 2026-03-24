@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-populacao-migracoes",
+    "titulo": "População e migrações",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Sociedade e espaço",
+    "resumo": [
+      "População é o conjunto de pessoas que vivem em um determinado lugar.",
+      "A distribuição da população no espaço não acontece de forma igual em todas as regiões.",
+      "Migração é o deslocamento de pessoas de um lugar para outro.",
+      "As migrações podem ocorrer por motivos econômicos, sociais, ambientais ou familiares.",
+      "O estudo da população ajuda a compreender melhor a organização do espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é população",
+        "texto": "População é o conjunto de pessoas que vive em um país, estado, cidade ou bairro. Estudar a população permite compreender quantas pessoas vivem em determinado espaço e como elas se distribuem.",
+        "dica": "Sempre relacione população a pessoas vivendo em um lugar específico."
+      },
+      {
+        "subtitulo": "Distribuição da população",
+        "texto": "A população não está distribuída igualmente pelo espaço. Algumas áreas concentram muitas pessoas, enquanto outras têm ocupação menor. Isso pode acontecer por causa de fatores naturais, econômicos e históricos.",
+        "dica": "Nem todo lugar oferece as mesmas condições de moradia, trabalho e circulação."
+      },
+      {
+        "subtitulo": "Migrações",
+        "texto": "Migração é o deslocamento de pessoas de um lugar para outro. Esse movimento pode ocorrer por busca de trabalho, estudo, melhores condições de vida, fuga de conflitos ou motivos ambientais.",
+        "dica": "Quando as pessoas mudam de lugar para viver, trabalhar ou buscar proteção, pense na ideia de migração."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique uma situação de migração por trabalho.",
+        "passos": [
+          "Uma pessoa pode sair de uma cidade menor em busca de emprego em outra região.",
+          "Esse deslocamento muda o local onde ela vive.",
+          "Por isso, trata-se de uma migração."
+        ],
+        "resposta": "A busca por trabalho pode motivar migrações."
+      },
+      {
+        "enunciado": "Observe duas regiões, uma muito povoada e outra pouco ocupada.",
+        "passos": [
+          "A população não está distribuída da mesma forma nas duas áreas.",
+          "Isso mostra que a ocupação do espaço varia de região para região.",
+          "Essa diferença pode ter várias causas."
+        ],
+        "resposta": "A população se distribui de forma desigual no espaço geográfico."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-populacao-migracoes-ex-01",
+        "enunciado": "População é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas o território de um país",
+          "o conjunto de pessoas que vive em um lugar",
+          "o mesmo que vegetação",
+          "somente o número de casas de uma cidade"
+        ],
+        "respostaCorreta": "o conjunto de pessoas que vive em um lugar",
+        "explicacao": "Essa é a definição correta de população.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-02",
+        "enunciado": "Migração é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o crescimento natural das florestas",
+          "o deslocamento de pessoas de um lugar para outro",
+          "a mudança do tempo atmosférico",
+          "a construção de mapas"
+        ],
+        "respostaCorreta": "o deslocamento de pessoas de um lugar para outro",
+        "explicacao": "Migração envolve deslocamento humano no espaço.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-03",
+        "enunciado": "Qual alternativa apresenta um motivo comum para migração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "busca de trabalho",
+          "mudança na rotação da Terra",
+          "diferença entre título e legenda",
+          "formação de relevo"
+        ],
+        "respostaCorreta": "busca de trabalho",
+        "explicacao": "A busca por emprego é uma causa frequente de migração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-04",
+        "enunciado": "A distribuição da população no espaço é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sempre igual em todos os lugares",
+          "desigual entre diferentes regiões",
+          "sempre maior nas áreas frias",
+          "independente de qualquer fator"
+        ],
+        "respostaCorreta": "desigual entre diferentes regiões",
+        "explicacao": "As populações se distribuem de forma diferente pelo espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a população?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela não pode ser estudada pela Geografia.",
+          "Ela ajuda a compreender a organização dos lugares.",
+          "Ela é sempre a mesma ao longo do tempo.",
+          "Ela não tem relação com migrações."
+        ],
+        "respostaCorreta": "Ela ajuda a compreender a organização dos lugares.",
+        "explicacao": "O estudo da população é importante para entender o espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-06",
+        "enunciado": "Quando uma família muda de cidade para viver em outro lugar, ocorre um processo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "migração",
+          "erosão",
+          "condensação",
+          "cartografia"
+        ],
+        "respostaCorreta": "migração",
+        "explicacao": "A mudança de um lugar para outro caracteriza migração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-07",
+        "enunciado": "Qual alternativa apresenta um fator que pode influenciar a distribuição da população?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oportunidades de trabalho",
+          "nome do bairro",
+          "cor do mapa",
+          "formato da legenda"
+        ],
+        "respostaCorreta": "oportunidades de trabalho",
+        "explicacao": "A presença de emprego e serviços pode atrair mais população para certas áreas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-08",
+        "enunciado": "Um aluno disse que migração só acontece entre países diferentes. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque migrações também podem ocorrer dentro do mesmo país",
+          "correta, porque toda mudança interna é turismo",
+          "incorreta, porque migração só ocorre por estudo"
+        ],
+        "respostaCorreta": "incorreta, porque migrações também podem ocorrer dentro do mesmo país",
+        "explicacao": "Há migrações internas e internacionais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-09",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As migrações não têm causas sociais ou econômicas.",
+          "A população de um lugar pode mudar com o tempo.",
+          "A distribuição da população nunca muda.",
+          "A migração não interfere nos lugares."
+        ],
+        "respostaCorreta": "A população de um lugar pode mudar com o tempo.",
+        "explicacao": "Mudanças populacionais acontecem por diversos motivos, incluindo migrações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-ex-10",
+        "enunciado": "Qual situação representa melhor um movimento migratório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma pessoa visitando um parque por algumas horas",
+          "uma família mudando de estado para buscar melhores condições de vida",
+          "uma turma indo à escola todos os dias",
+          "um jogador treinando em outro bairro e voltando para casa"
+        ],
+        "respostaCorreta": "uma família mudando de estado para buscar melhores condições de vida",
+        "explicacao": "Há mudança efetiva de residência, o que caracteriza migração.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-populacao-migracoes-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente população e migração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "População é o conjunto de pessoas de um lugar; migração é o deslocamento entre lugares.",
+          "População e migração são exatamente a mesma coisa.",
+          "População é um mapa; migração é uma legenda.",
+          "Migração é sempre causada apenas por clima."
+        ],
+        "respostaCorreta": "População é o conjunto de pessoas de um lugar; migração é o deslocamento entre lugares.",
+        "explicacao": "Essa relação define corretamente os dois conceitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A população se distribui igualmente em todos os lugares' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque a distribuição populacional é desigual.",
+          "A frase é verdadeira apenas nas capitais.",
+          "A frase é falsa, porque não existe população em áreas urbanas."
+        ],
+        "respostaCorreta": "A frase é falsa, porque a distribuição populacional é desigual.",
+        "explicacao": "Existem regiões mais e menos povoadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-sim-03",
+        "enunciado": "Qual alternativa apresenta um exemplo de migração interna?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudança de uma cidade para outra dentro do mesmo país",
+          "uso diário do transporte para ir à escola",
+          "passeio em uma praça por algumas horas",
+          "mudança de sala na mesma escola"
+        ],
+        "respostaCorreta": "mudança de uma cidade para outra dentro do mesmo país",
+        "explicacao": "Quando a mudança ocorre dentro do mesmo país, trata-se de migração interna.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-sim-04",
+        "enunciado": "Qual alternativa apresenta uma possível causa de migração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "busca de trabalho e melhores condições de vida",
+          "mudança na legenda de um mapa",
+          "aparecimento de uma fotografia antiga",
+          "uso de pontos cardeais"
+        ],
+        "respostaCorreta": "busca de trabalho e melhores condições de vida",
+        "explicacao": "Esse é um motivo frequente para movimentos migratórios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-migracoes-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a dinâmica populacional?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela não muda com o tempo.",
+          "Ela pode ser influenciada por nascimentos, mortes e migrações.",
+          "Ela depende apenas do clima.",
+          "Ela não interfere na organização do espaço."
+        ],
+        "respostaCorreta": "Ela pode ser influenciada por nascimentos, mortes e migrações.",
+        "explicacao": "Esses fatores ajudam a explicar as mudanças na população ao longo do tempo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

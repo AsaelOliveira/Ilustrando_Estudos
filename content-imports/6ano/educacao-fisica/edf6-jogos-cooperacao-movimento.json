@@ -1,0 +1,169 @@
+[
+  {
+    "id": "edf6-jogos-cooperacao-movimento",
+    "titulo": "Jogos, cooperação e movimento",
+    "disciplinaId": "edf6",
+    "turmaId": "6ano",
+    "unidade": "Corpo, movimento e convivência",
+    "resumo": [
+      "A Educação Física envolve movimento corporal, convivência e participação em jogos.",
+      "Jogos podem desenvolver cooperação, respeito e trabalho em grupo.",
+      "O movimento corporal está presente em diferentes práticas e brincadeiras.",
+      "Regras ajudam a organizar a participação e a convivência durante as atividades.",
+      "Estudar esse tema ajuda a compreender a importância do corpo em ação e da convivência coletiva."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Jogos e participação",
+        "texto": "Os jogos fazem parte das práticas da Educação Física e podem envolver desafios, regras e interação entre os participantes. Eles ajudam no desenvolvimento do corpo, da atenção e da convivência com outras pessoas.",
+        "dica": "Participar de jogos envolve movimento, mas também atenção às regras e aos colegas."
+      },
+      {
+        "subtitulo": "Cooperação e respeito",
+        "texto": "Em muitas atividades, a cooperação é tão importante quanto o resultado final. Respeitar colegas, esperar a vez, ajudar o grupo e valorizar a participação de todos são atitudes fundamentais nas práticas corporais.",
+        "dica": "Na Educação Física, competir não significa desrespeitar; cooperação e respeito sempre importam."
+      },
+      {
+        "subtitulo": "Corpo em movimento",
+        "texto": "Correr, saltar, lançar, equilibrar-se e deslocar-se são exemplos de movimentos corporais presentes em jogos e brincadeiras. Essas ações ajudam a ampliar habilidades motoras e a percepção do próprio corpo.",
+        "dica": "Movimento corporal também é forma de aprendizagem."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que as regras são importantes em um jogo coletivo.",
+        "passos": [
+          "As regras organizam a atividade.",
+          "Elas ajudam todos a entender como participar.",
+          "Assim, favorecem a convivência e o bom andamento do jogo."
+        ],
+        "resposta": "As regras são importantes porque ajudam a organizar o jogo e a participação dos colegas."
+      },
+      {
+        "enunciado": "Relacione cooperação e atividades corporais.",
+        "passos": [
+          "Muitas práticas exigem ajuda entre participantes.",
+          "A cooperação fortalece o grupo e melhora a convivência.",
+          "Por isso, ela é importante na Educação Física."
+        ],
+        "resposta": "A cooperação contribui para a participação coletiva e para o respeito nas atividades corporais."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-01",
+        "enunciado": "Os jogos na Educação Física podem ajudar a desenvolver:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cooperação e participação",
+          "somente silêncio absoluto",
+          "apenas leitura de mapas",
+          "somente cálculo numérico"
+        ],
+        "respostaCorreta": "cooperação e participação",
+        "explicacao": "Os jogos ajudam na convivência, no movimento e no trabalho em grupo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-02",
+        "enunciado": "Qual atitude é importante em jogos coletivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respeitar os colegas",
+          "ignorar as regras",
+          "atrapalhar a participação dos outros",
+          "recusar toda cooperação"
+        ],
+        "respostaCorreta": "respeitar os colegas",
+        "explicacao": "O respeito é essencial para a convivência e a participação nas atividades coletivas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-03",
+        "enunciado": "As regras em um jogo servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar a atividade",
+          "impedir toda participação",
+          "eliminar o movimento corporal",
+          "substituir a cooperação"
+        ],
+        "respostaCorreta": "organizar a atividade",
+        "explicacao": "As regras ajudam a orientar a participação e o funcionamento do jogo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-04",
+        "enunciado": "Qual alternativa apresenta exemplos de movimento corporal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correr, saltar e equilibrar-se",
+          "apenas ler e escrever",
+          "somente observar mapas",
+          "apenas calcular números"
+        ],
+        "respostaCorreta": "correr, saltar e equilibrar-se",
+        "explicacao": "Esses são exemplos de movimentos presentes em práticas corporais e jogos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre movimento, convivência e participação",
+          "somente regras de ortografia",
+          "apenas o sistema urinário",
+          "exclusivamente a história medieval"
+        ],
+        "respostaCorreta": "a relação entre movimento, convivência e participação",
+        "explicacao": "O tema mostra que a Educação Física envolve corpo, regras, cooperação e convivência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cooperação pode ser importante em jogos.",
+          "Regras ajudam a organizar as atividades.",
+          "O movimento corporal faz parte da Educação Física.",
+          "Respeito não tem importância em jogos coletivos."
+        ],
+        "respostaCorreta": "Respeito não tem importância em jogos coletivos.",
+        "explicacao": "O respeito é essencial nas atividades coletivas e faz parte da convivência saudável.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf6-jogos-cooperacao-movimento-sim-01",
+        "enunciado": "Ao participar de um jogo com regras, cooperação e movimento, o estudante desenvolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "habilidades corporais e de convivência",
+          "somente memorização de datas",
+          "apenas classificação gramatical",
+          "unicamente leitura cartográfica"
+        ],
+        "respostaCorreta": "habilidades corporais e de convivência",
+        "explicacao": "Jogos podem desenvolver movimento, atenção, cooperação e respeito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf6-jogos-cooperacao-movimento-sim-02",
+        "enunciado": "A principal ideia desse tema é que a Educação Física:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolve corpo em movimento, regras e convivência",
+          "serve apenas para observar sem participar",
+          "não tem relação com cooperação",
+          "dispensa o respeito entre colegas"
+        ],
+        "respostaCorreta": "envolve corpo em movimento, regras e convivência",
+        "explicacao": "A Educação Física trabalha o corpo, a participação e a convivência em grupo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-iluminismo-introdutorio",
+    "titulo": "Iluminismo: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Ideias e transformações modernas",
+    "resumo": [
+      "O Iluminismo foi um movimento de ideias importante na história moderna.",
+      "Esse movimento valorizou a razão, o conhecimento e a crítica.",
+      "Os pensadores iluministas defenderam mudanças na sociedade e na política.",
+      "O Iluminismo influenciou debates sobre liberdade, poder e direitos.",
+      "Estudar esse tema ajuda a compreender transformações do mundo moderno."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi o Iluminismo",
+        "texto": "O Iluminismo foi um movimento intelectual que valorizou a razão e o conhecimento como formas de compreender o mundo e propor mudanças. Suas ideias circularam principalmente na Europa e influenciaram debates políticos e sociais.",
+        "dica": "Ao pensar em Iluminismo, associe razão, crítica e reflexão."
+      },
+      {
+        "subtitulo": "Crítica e transformação",
+        "texto": "Os pensadores iluministas criticavam práticas consideradas injustas ou autoritárias. Eles defendiam mudanças na organização da sociedade e do poder, incentivando reflexões sobre liberdade, direitos e participação política.",
+        "dica": "O Iluminismo não foi apenas um conjunto de ideias; ele estimulou questionamentos sobre a sociedade."
+      },
+      {
+        "subtitulo": "Importância histórica",
+        "texto": "As ideias iluministas influenciaram processos históricos e debates que marcaram a modernidade. Por isso, o Iluminismo é estudado como um movimento de grande importância para compreender transformações políticas e culturais.",
+        "dica": "As ideias também fazem história e podem influenciar mudanças profundas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o Iluminismo está ligado à valorização da razão.",
+        "passos": [
+          "Os iluministas defendiam o uso do pensamento crítico.",
+          "A razão era vista como importante para entender e melhorar a sociedade.",
+          "Por isso, esse movimento ficou ligado à valorização da razão."
+        ],
+        "resposta": "O Iluminismo valorizou a razão como instrumento para compreender e transformar o mundo."
+      },
+      {
+        "enunciado": "Relacione Iluminismo e mudanças sociais.",
+        "passos": [
+          "Os iluministas criticavam formas injustas de poder.",
+          "Eles propunham novas ideias sobre sociedade e direitos.",
+          "Assim, suas ideias influenciaram transformações históricas."
+        ],
+        "resposta": "O Iluminismo contribuiu para debates que influenciaram mudanças sociais e políticas."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-01",
+        "enunciado": "O Iluminismo foi principalmente um movimento de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ideias",
+          "construção de feudos",
+          "formação de vulcões",
+          "navegação fluvial indígena"
+        ],
+        "respostaCorreta": "ideias",
+        "explicacao": "O Iluminismo foi um movimento intelectual ligado à reflexão e à circulação de ideias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-02",
+        "enunciado": "Uma característica importante do Iluminismo foi a valorização da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "razão",
+          "guerra permanente",
+          "ignorância como virtude",
+          "ausência de conhecimento"
+        ],
+        "respostaCorreta": "razão",
+        "explicacao": "Os iluministas valorizavam a razão como caminho para compreender o mundo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-03",
+        "enunciado": "Os pensadores iluministas defendiam principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crítica e mudanças na sociedade",
+          "fim de todo conhecimento",
+          "proibição de debates",
+          "abandono completo da leitura"
+        ],
+        "respostaCorreta": "crítica e mudanças na sociedade",
+        "explicacao": "O Iluminismo propunha reflexão crítica e mudanças sociais e políticas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-04",
+        "enunciado": "O Iluminismo influenciou debates sobre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "liberdade, direitos e poder",
+          "somente tipos de vegetação",
+          "apenas o sistema digestório",
+          "somente a origem das montanhas"
+        ],
+        "respostaCorreta": "liberdade, direitos e poder",
+        "explicacao": "Esses temas foram muito importantes nos debates influenciados pelo Iluminismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-05",
+        "enunciado": "Qual alternativa está incorreta sobre o Iluminismo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Foi um movimento de ideias.",
+          "Valorizou a razão e o conhecimento.",
+          "Influenciou debates sociais e políticos.",
+          "Defendeu a rejeição de toda reflexão crítica."
+        ],
+        "respostaCorreta": "Defendeu a rejeição de toda reflexão crítica.",
+        "explicacao": "O Iluminismo estimulou justamente a crítica e a reflexão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-ex-06",
+        "enunciado": "A principal importância histórica do Iluminismo está em que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciou mudanças nas ideias e na organização da sociedade",
+          "acabou com toda produção intelectual",
+          "eliminou os debates sobre política",
+          "não teve qualquer impacto histórico"
+        ],
+        "respostaCorreta": "influenciou mudanças nas ideias e na organização da sociedade",
+        "explicacao": "As ideias iluministas ajudaram a transformar debates e processos históricos importantes.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-iluminismo-introdutorio-sim-01",
+        "enunciado": "Ao relacionar razão, crítica e defesa de mudanças, o aluno identifica características do:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Iluminismo",
+          "feudalismo",
+          "sistema circulatório",
+          "ciclo da água"
+        ],
+        "respostaCorreta": "Iluminismo",
+        "explicacao": "Esses elementos são centrais para compreender o Iluminismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-iluminismo-introdutorio-sim-02",
+        "enunciado": "A principal lição desse tema é que as ideias iluministas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciaram transformações sociais e políticas",
+          "não tiveram relevância histórica",
+          "eram contrárias ao conhecimento",
+          "defendiam o fim de toda liberdade"
+        ],
+        "respostaCorreta": "influenciaram transformações sociais e políticas",
+        "explicacao": "O Iluminismo foi importante por estimular críticas e mudanças na vida moderna.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

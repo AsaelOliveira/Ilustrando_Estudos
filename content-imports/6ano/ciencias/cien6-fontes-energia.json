@@ -1,0 +1,239 @@
+[
+  {
+    "id": "cien6-fontes-energia",
+    "titulo": "Fontes de energia",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Matéria, energia e ambiente",
+    "resumo": [
+      "A energia está presente em diversas atividades do cotidiano.",
+      "As fontes de energia podem ser renováveis ou não renováveis.",
+      "Sol, vento e água são exemplos de fontes renováveis.",
+      "Petróleo, carvão mineral e gás natural são exemplos de fontes não renováveis.",
+      "O uso consciente da energia é importante para a sociedade e para o ambiente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são fontes de energia",
+        "texto": "Fontes de energia são recursos capazes de fornecer a energia necessária para movimentar máquinas, iluminar ambientes, aquecer espaços e realizar inúmeras atividades. Elas fazem parte do cotidiano das pessoas e da organização da vida em sociedade.",
+        "dica": "Pense na energia como algo que permite funcionamento, movimento ou transformação."
+      },
+      {
+        "subtitulo": "Fontes renováveis e não renováveis",
+        "texto": "As fontes renováveis podem se renovar naturalmente em menor tempo, como a energia solar, eólica e hidráulica. Já as não renováveis levam muito tempo para se formar e podem se esgotar, como o petróleo, o carvão mineral e o gás natural.",
+        "dica": "Renovável não significa ilimitado; significa que a reposição natural ocorre mais facilmente."
+      },
+      {
+        "subtitulo": "Uso responsável da energia",
+        "texto": "O consumo de energia deve ser feito com responsabilidade. Economizar energia e buscar fontes menos poluentes ajuda a reduzir impactos ambientais e favorece um uso mais equilibrado dos recursos naturais.",
+        "dica": "Pequenas ações de economia também fazem parte do uso consciente da energia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a energia solar é considerada renovável.",
+        "passos": [
+          "Ela vem do Sol, uma fonte natural de energia.",
+          "Essa fonte se renova continuamente na natureza.",
+          "Por isso, a energia solar é classificada como renovável."
+        ],
+        "resposta": "A energia solar é renovável porque depende de uma fonte natural que se renova constantemente."
+      },
+      {
+        "enunciado": "Compare petróleo e vento como fontes de energia.",
+        "passos": [
+          "O petróleo é uma fonte não renovável.",
+          "O vento é uma fonte renovável.",
+          "Essa diferença está ligada ao tempo de reposição na natureza."
+        ],
+        "resposta": "Petróleo e vento fornecem energia, mas pertencem a grupos diferentes de fontes."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-fontes-energia-ex-01",
+        "enunciado": "Qual alternativa apresenta uma fonte de energia renovável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vento",
+          "petróleo",
+          "carvão mineral",
+          "gás natural"
+        ],
+        "respostaCorreta": "vento",
+        "explicacao": "O vento é uma fonte renovável de energia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-02",
+        "enunciado": "Qual alternativa apresenta uma fonte de energia não renovável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sol",
+          "água",
+          "petróleo",
+          "vento"
+        ],
+        "respostaCorreta": "petróleo",
+        "explicacao": "O petróleo é considerado fonte não renovável porque sua formação leva muito tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-03",
+        "enunciado": "A energia solar recebe esse nome porque é obtida a partir:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "do Sol",
+          "do carvão",
+          "do petróleo",
+          "dos minerais metálicos"
+        ],
+        "respostaCorreta": "do Sol",
+        "explicacao": "A energia solar aproveita a radiação emitida pelo Sol.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-04",
+        "enunciado": "Qual grupo reúne apenas fontes renováveis de energia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sol, vento e água",
+          "petróleo, carvão e gás natural",
+          "carvão, vento e petróleo",
+          "água, gás natural e carvão"
+        ],
+        "respostaCorreta": "sol, vento e água",
+        "explicacao": "Essas três fontes podem se renovar naturalmente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-05",
+        "enunciado": "O uso consciente da energia é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a reduzir desperdícios e impactos ambientais",
+          "elimina totalmente a necessidade de recursos naturais",
+          "torna todas as fontes infinitas",
+          "impede qualquer transformação da matéria"
+        ],
+        "respostaCorreta": "ajuda a reduzir desperdícios e impactos ambientais",
+        "explicacao": "Usar energia de forma responsável contribui para a preservação dos recursos e do ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-06",
+        "enunciado": "Qual alternativa descreve corretamente as fontes não renováveis?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Levam muito tempo para se formar e podem se esgotar.",
+          "Renovam-se em poucas horas.",
+          "Existem apenas no espaço.",
+          "Não são usadas pela sociedade."
+        ],
+        "respostaCorreta": "Levam muito tempo para se formar e podem se esgotar.",
+        "explicacao": "Essa é a principal característica das fontes não renováveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-07",
+        "enunciado": "Qual situação representa uma atitude de uso consciente da energia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apagar luzes desnecessárias",
+          "desperdiçar eletricidade sem motivo",
+          "manter aparelhos ligados sem uso",
+          "ignorar qualquer economia"
+        ],
+        "respostaCorreta": "apagar luzes desnecessárias",
+        "explicacao": "Economizar energia no cotidiano é uma prática responsável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-08",
+        "enunciado": "Ao comparar uma fonte renovável e uma não renovável, a principal diferença está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "no tempo de reposição na natureza",
+          "na cor da energia produzida",
+          "na temperatura do planeta",
+          "na forma das nuvens"
+        ],
+        "respostaCorreta": "no tempo de reposição na natureza",
+        "explicacao": "A diferença central está na capacidade de renovação natural dessas fontes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas fontes não renováveis?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "petróleo, carvão mineral e gás natural",
+          "água, vento e Sol",
+          "vento, petróleo e água",
+          "Sol, carvão e água"
+        ],
+        "respostaCorreta": "petróleo, carvão mineral e gás natural",
+        "explicacao": "Essas três fontes não se renovam rapidamente e podem se esgotar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-ex-10",
+        "enunciado": "Ao estudar fontes de energia, o aluno compreende que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a energia está presente em muitas atividades da vida cotidiana",
+          "a energia não tem relação com o cotidiano",
+          "somente o Sol fornece energia para a sociedade",
+          "não existem diferenças entre as fontes"
+        ],
+        "respostaCorreta": "a energia está presente em muitas atividades da vida cotidiana",
+        "explicacao": "Iluminação, transporte, máquinas e vários serviços dependem de energia.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-fontes-energia-sim-01",
+        "enunciado": "A energia eólica é considerada renovável porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aproveita o vento, que se renova na natureza",
+          "vem do carvão mineral",
+          "substitui completamente a luz solar",
+          "depende da queima de petróleo"
+        ],
+        "respostaCorreta": "aproveita o vento, que se renova na natureza",
+        "explicacao": "A energia eólica usa o movimento do ar, que é renovável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-sim-02",
+        "enunciado": "Uma diferença importante entre petróleo e energia solar é que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o petróleo é não renovável e a energia solar é renovável",
+          "os dois são não renováveis",
+          "os dois se esgotam no mesmo ritmo",
+          "nenhum deles é usado pela sociedade"
+        ],
+        "respostaCorreta": "o petróleo é não renovável e a energia solar é renovável",
+        "explicacao": "O petróleo leva muito tempo para se formar, enquanto a energia solar depende de uma fonte renovável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-fontes-energia-sim-03",
+        "enunciado": "Ao pensar no futuro do planeta, o uso responsável da energia é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a preservar recursos e reduzir impactos ambientais",
+          "elimina toda a produção de energia",
+          "dispensa o uso de qualquer tecnologia",
+          "impede o aproveitamento de fontes renováveis"
+        ],
+        "respostaCorreta": "ajuda a preservar recursos e reduzir impactos ambientais",
+        "explicacao": "O consumo consciente contribui para uma relação mais equilibrada com o ambiente.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

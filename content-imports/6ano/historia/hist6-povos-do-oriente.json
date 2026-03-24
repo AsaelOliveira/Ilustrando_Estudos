@@ -1,0 +1,225 @@
+[
+  {
+    "id": "hist6-povos-do-oriente",
+    "titulo": "Povos antigos do Oriente",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Mundo antigo",
+    "resumo": [
+      "Os povos antigos do Oriente desenvolveram importantes formas de organização social e cultural.",
+      "Regiões próximas a rios favoreceram agricultura, cidades e poder político.",
+      "Egípcios, mesopotâmicos, fenícios, hebreus e persas marcaram a história antiga.",
+      "Esses povos deixaram contribuições ligadas à escrita, ao comércio, à religião e à administração.",
+      "O estudo desses povos ajuda a compreender a diversidade das civilizações antigas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diversidade dos povos orientais",
+        "texto": "O Oriente Antigo reuniu diferentes povos com modos de vida próprios. Egípcios e mesopotâmicos tiveram forte relação com os rios, enquanto fenícios se destacaram pela navegação e pelo comércio. Hebreus e persas também contribuíram para a história da Antiguidade com experiências políticas, religiosas e culturais importantes.",
+        "dica": "Não trate os povos antigos do Oriente como se todos fossem iguais; cada um tinha características próprias."
+      },
+      {
+        "subtitulo": "Rios, cidades e poder",
+        "texto": "Em muitas regiões do Oriente Antigo, a proximidade de rios favoreceu a agricultura e o crescimento das cidades. Isso permitiu maior produção de alimentos, organização política e desenvolvimento de atividades econômicas e religiosas.",
+        "dica": "Os rios foram fundamentais para a vida de várias civilizações antigas."
+      },
+      {
+        "subtitulo": "Legados históricos",
+        "texto": "Os povos orientais deixaram heranças importantes, como formas de escrita, práticas comerciais, crenças religiosas e modos de administração. Esses legados ajudam a compreender processos históricos de longa duração.",
+        "dica": "Ao pensar em legado, procure o que permaneceu como contribuição histórica."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os rios eram importantes para muitos povos antigos do Oriente.",
+        "passos": [
+          "Os rios forneciam água e fertilidade ao solo.",
+          "Isso favorecia a agricultura e a permanência das populações.",
+          "Com isso, cidades e formas de governo puderam se desenvolver."
+        ],
+        "resposta": "Os rios foram fundamentais para o crescimento de várias civilizações orientais."
+      },
+      {
+        "enunciado": "Compare dois legados possíveis desses povos.",
+        "passos": [
+          "Alguns deixaram contribuições ligadas à escrita e à administração.",
+          "Outros se destacaram no comércio e na navegação.",
+          "Essas diferenças mostram a diversidade do Oriente Antigo."
+        ],
+        "resposta": "Os povos antigos do Oriente deixaram contribuições variadas para a história."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-povos-do-oriente-ex-01",
+        "enunciado": "Os povos antigos do Oriente eram importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolveram diferentes formas de organização social e cultural",
+          "viviam todos do mesmo modo",
+          "não possuíam cidades nem religião",
+          "não deixaram nenhuma influência histórica"
+        ],
+        "respostaCorreta": "desenvolveram diferentes formas de organização social e cultural",
+        "explicacao": "Esses povos contribuíram de maneiras variadas para a história antiga.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-02",
+        "enunciado": "Qual elemento favoreceu o desenvolvimento de muitas civilizações antigas do Oriente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "proximidade de rios",
+          "uso de máquinas industriais",
+          "existência de internet",
+          "produção de automóveis"
+        ],
+        "respostaCorreta": "proximidade de rios",
+        "explicacao": "Os rios ajudavam na agricultura, na fixação das populações e no surgimento de cidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-03",
+        "enunciado": "Qual povo antigo ficou especialmente conhecido pela navegação e pelo comércio?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fenícios",
+          "espartanos",
+          "romanos medievais",
+          "vikings industriais"
+        ],
+        "respostaCorreta": "fenícios",
+        "explicacao": "Os fenícios se destacaram historicamente pela navegação e pelas atividades comerciais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-04",
+        "enunciado": "Ao estudar os povos antigos do Oriente, percebemos que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "havia diversidade entre essas civilizações",
+          "todos possuíam exatamente a mesma cultura",
+          "nenhum deles vivia perto de rios",
+          "todos dependiam da industrialização"
+        ],
+        "respostaCorreta": "havia diversidade entre essas civilizações",
+        "explicacao": "Cada povo apresentou formas próprias de organização política, cultural e econômica.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-05",
+        "enunciado": "Qual alternativa apresenta um possível legado dos povos antigos do Oriente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formas de escrita e práticas comerciais",
+          "satélites artificiais",
+          "motores elétricos",
+          "redes sociais digitais"
+        ],
+        "respostaCorreta": "formas de escrita e práticas comerciais",
+        "explicacao": "Esses povos deixaram importantes contribuições ligadas à escrita, ao comércio e à organização social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-06",
+        "enunciado": "Por que os rios eram importantes para muitos povos antigos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porque favoreciam a agricultura e a vida das populações",
+          "porque impediam a formação de cidades",
+          "porque eliminavam a necessidade de trabalho",
+          "porque substituíam qualquer forma de governo"
+        ],
+        "respostaCorreta": "porque favoreciam a agricultura e a vida das populações",
+        "explicacao": "Os rios forneciam água, solo fértil e condições para o desenvolvimento das civilizações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-07",
+        "enunciado": "Qual alternativa está incorreta sobre os povos antigos do Oriente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Deixaram diferentes contribuições históricas.",
+          "Formavam um conjunto de povos diversos.",
+          "Todos tiveram a mesma experiência histórica e cultural.",
+          "Alguns se destacaram na religião, no comércio e na administração."
+        ],
+        "respostaCorreta": "Todos tiveram a mesma experiência histórica e cultural.",
+        "explicacao": "Havia grande diversidade entre os povos antigos do Oriente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-08",
+        "enunciado": "Uma característica comum a várias civilizações orientais antigas foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre rios, agricultura e cidades",
+          "o uso de ferrovias modernas",
+          "a produção de energia nuclear",
+          "o funcionamento de parlamentos digitais"
+        ],
+        "respostaCorreta": "a relação entre rios, agricultura e cidades",
+        "explicacao": "Essa relação foi muito importante para o desenvolvimento de várias civilizações da Antiguidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-ex-09",
+        "enunciado": "Ao pensar nos legados históricos dos povos antigos do Oriente, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eles influenciaram processos históricos posteriores",
+          "não tiveram qualquer importância para a história",
+          "existiram apenas na imaginação",
+          "desapareceram sem deixar vestígios"
+        ],
+        "respostaCorreta": "eles influenciaram processos históricos posteriores",
+        "explicacao": "Esses povos deixaram contribuições culturais, políticas e econômicas relevantes.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-povos-do-oriente-sim-01",
+        "enunciado": "O estudo dos povos antigos do Oriente mostra que a Antiguidade foi marcada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diversidade de civilizações e experiências históricas",
+          "uma única forma de vida em todos os povos",
+          "ausência de cidades e organização política",
+          "falta de qualquer legado cultural"
+        ],
+        "respostaCorreta": "diversidade de civilizações e experiências históricas",
+        "explicacao": "O Oriente Antigo reuniu vários povos com características próprias e contribuições distintas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-sim-02",
+        "enunciado": "Qual alternativa relaciona corretamente um elemento importante para muitos povos orientais antigos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rios - agricultura e crescimento das cidades",
+          "internet - formação do Oriente Antigo",
+          "ferrovias - início da escrita cuneiforme",
+          "satélites - organização dos fenícios"
+        ],
+        "respostaCorreta": "rios - agricultura e crescimento das cidades",
+        "explicacao": "Os rios tiveram papel decisivo no desenvolvimento de várias civilizações orientais antigas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-do-oriente-sim-03",
+        "enunciado": "Ao analisar os legados desses povos, o aluno pode concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrita, comércio e administração são exemplos de contribuições históricas importantes",
+          "apenas a navegação teve importância na Antiguidade",
+          "nenhum desses povos produziu cultura",
+          "todos desapareceram antes de deixar marcas"
+        ],
+        "respostaCorreta": "escrita, comércio e administração são exemplos de contribuições históricas importantes",
+        "explicacao": "Esses elementos ajudam a compreender a relevância histórica dos povos antigos do Oriente.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

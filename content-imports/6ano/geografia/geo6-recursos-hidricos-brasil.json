@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-recursos-hidricos-brasil",
+    "titulo": "Recursos hídricos no Brasil",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Brasil e natureza",
+    "resumo": [
+      "Os recursos hídricos incluem rios, lagos, águas subterrâneas e outras fontes de água.",
+      "A água tem grande importância para a vida, para a economia e para o cotidiano da população.",
+      "O Brasil possui muitos recursos hídricos, mas sua distribuição não é igual em todas as regiões.",
+      "O uso inadequado da água pode causar problemas ambientais e sociais.",
+      "Estudar os recursos hídricos ajuda a compreender a importância da preservação da água."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são recursos hídricos",
+        "texto": "Recursos hídricos são as diferentes formas de água disponíveis na natureza e utilizadas pela sociedade. Eles incluem rios, lagos, represas, águas subterrâneas e outras fontes que atendem a diversas necessidades humanas e ambientais.",
+        "dica": "Sempre associe recursos hídricos às águas disponíveis e ao seu uso."
+      },
+      {
+        "subtitulo": "Importância da água",
+        "texto": "A água é fundamental para a vida, para a agricultura, para a geração de energia, para o abastecimento das cidades e para várias atividades econômicas. Por isso, conhecer e preservar os recursos hídricos é uma necessidade importante.",
+        "dica": "A água não é importante apenas para beber; ela participa de muitas atividades da sociedade."
+      },
+      {
+        "subtitulo": "Distribuição e preservação",
+        "texto": "Embora o Brasil possua grande quantidade de água, essa distribuição não acontece de forma igual em todas as regiões. Além disso, poluição, desperdício e uso inadequado podem comprometer esse recurso, tornando a preservação indispensável.",
+        "dica": "Ter muita água no país não significa que ela esteja igualmente disponível em todos os lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a água é importante para as cidades.",
+        "passos": [
+          "Ela é usada no abastecimento da população.",
+          "Também participa de atividades do cotidiano e de serviços.",
+          "Por isso, a água é essencial para a vida urbana."
+        ],
+        "resposta": "A água é importante para as cidades porque participa do abastecimento e de muitas atividades diárias."
+      },
+      {
+        "enunciado": "Relacione recursos hídricos e preservação.",
+        "passos": [
+          "A água é um recurso importante para a vida e para a economia.",
+          "Quando há desperdício ou poluição, esse recurso pode ser prejudicado.",
+          "Por isso, preservar a água é fundamental."
+        ],
+        "resposta": "A preservação dos recursos hídricos é importante para garantir o uso da água no presente e no futuro."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-01",
+        "enunciado": "Recursos hídricos são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fontes de água disponíveis na natureza",
+          "apenas tipos de relevo",
+          "somente formas de vegetação",
+          "apenas construções urbanas"
+        ],
+        "respostaCorreta": "fontes de água disponíveis na natureza",
+        "explicacao": "Os recursos hídricos reúnem diferentes formas de água usadas pela sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-02",
+        "enunciado": "Qual alternativa apresenta um recurso hídrico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rio",
+          "montanha",
+          "rodovia",
+          "ferrovia"
+        ],
+        "respostaCorreta": "rio",
+        "explicacao": "Os rios fazem parte dos recursos hídricos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-03",
+        "enunciado": "A água é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participa da vida, da economia e do cotidiano",
+          "não tem utilidade para a sociedade",
+          "serve apenas para observar paisagens",
+          "existe somente em regiões frias"
+        ],
+        "respostaCorreta": "participa da vida, da economia e do cotidiano",
+        "explicacao": "A água é essencial para muitas atividades humanas e para os seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-04",
+        "enunciado": "No Brasil, a distribuição da água ocorre de forma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desigual entre as regiões",
+          "idêntica em todos os lugares",
+          "sem qualquer diferença espacial",
+          "exatamente igual em todos os estados"
+        ],
+        "respostaCorreta": "desigual entre as regiões",
+        "explicacao": "A disponibilidade de água varia entre as diferentes partes do território brasileiro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-05",
+        "enunciado": "Qual situação prejudica os recursos hídricos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poluição da água",
+          "uso responsável",
+          "preservação de nascentes",
+          "combate ao desperdício"
+        ],
+        "respostaCorreta": "poluição da água",
+        "explicacao": "A poluição compromete a qualidade da água e prejudica seu uso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-06",
+        "enunciado": "A preservação da água é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "esse recurso é essencial para a vida e para a sociedade",
+          "a água não participa do cotidiano",
+          "os recursos hídricos não sofrem impactos",
+          "a distribuição da água é sempre perfeita"
+        ],
+        "respostaCorreta": "esse recurso é essencial para a vida e para a sociedade",
+        "explicacao": "A água participa do abastecimento, da produção, do ambiente e da vida humana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-07",
+        "enunciado": "Qual alternativa está incorreta sobre os recursos hídricos no Brasil?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A água é importante para diferentes atividades.",
+          "A distribuição da água é igual em todas as regiões.",
+          "A poluição pode comprometer esse recurso.",
+          "A preservação é necessária."
+        ],
+        "respostaCorreta": "A distribuição da água é igual em todas as regiões.",
+        "explicacao": "A distribuição dos recursos hídricos varia entre as regiões brasileiras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-ex-08",
+        "enunciado": "Ao estudar os recursos hídricos, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a importância da água e da preservação ambiental",
+          "somente a classificação das palavras",
+          "apenas a estrutura dos ossos",
+          "exclusivamente a história medieval"
+        ],
+        "respostaCorreta": "a importância da água e da preservação ambiental",
+        "explicacao": "Esse tema ajuda a perceber o valor da água e a necessidade de cuidado com esse recurso.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-recursos-hidricos-brasil-sim-01",
+        "enunciado": "A principal ideia do estudo dos recursos hídricos no Brasil é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a água é essencial, mas precisa ser usada e preservada com responsabilidade",
+          "a água não tem relação com a vida social",
+          "todos os lugares possuem a mesma disponibilidade de água",
+          "a poluição não afeta rios e lagos"
+        ],
+        "respostaCorreta": "a água é essencial, mas precisa ser usada e preservada com responsabilidade",
+        "explicacao": "A água é fundamental, mas seu uso inadequado e sua distribuição desigual exigem atenção e preservação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-recursos-hidricos-brasil-sim-02",
+        "enunciado": "Ao comparar regiões brasileiras, o aluno pode concluir que os recursos hídricos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não estão distribuídos de maneira igual em todo o território",
+          "aparecem do mesmo modo em todos os lugares",
+          "não sofrem influência das ações humanas",
+          "não têm importância econômica"
+        ],
+        "respostaCorreta": "não estão distribuídos de maneira igual em todo o território",
+        "explicacao": "A disponibilidade de água varia entre as regiões do país.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "hist6-grecia-antiga",
+    "titulo": "Grécia Antiga",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Mundo antigo",
+    "resumo": [
+      "A Grécia Antiga foi formada por várias cidades-estado, como Atenas e Esparta.",
+      "As cidades-estado tinham autonomia política e costumes próprios.",
+      "A cultura grega influenciou áreas como filosofia, teatro, esporte e política.",
+      "Os gregos realizavam os Jogos Olímpicos e valorizavam a vida em comunidade.",
+      "O estudo da Grécia Antiga ajuda a compreender ideias importantes do mundo ocidental."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cidades-estado",
+        "texto": "Na Grécia Antiga, o território não formava um único país organizado como conhecemos hoje. Ele era dividido em cidades-estado, chamadas pólis, que possuíam governo, leis e costumes próprios. Entre as mais conhecidas estavam Atenas e Esparta.",
+        "dica": "Quando aparecer a palavra pólis, lembre-se de cidade-estado."
+      },
+      {
+        "subtitulo": "Atenas e Esparta",
+        "texto": "Atenas ficou conhecida por valorizar debates políticos, participação de parte dos cidadãos e intensa produção cultural. Esparta destacou-se pela organização militar e pela disciplina. As duas cidades tinham modos de vida bastante diferentes.",
+        "dica": "Atenas é frequentemente associada à política e à cultura, enquanto Esparta é lembrada pela formação militar."
+      },
+      {
+        "subtitulo": "Legados gregos",
+        "texto": "Os gregos deixaram contribuições importantes para a humanidade. Entre elas estão a filosofia, o teatro, os estudos matemáticos, a valorização da argumentação e os Jogos Olímpicos. Muitos desses elementos ainda influenciam a vida atual.",
+        "dica": "Ao estudar legado, pense naquilo que um povo deixou como herança cultural."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare Atenas e Esparta.",
+        "passos": [
+          "Atenas valorizava mais os debates políticos e a vida cultural.",
+          "Esparta priorizava a disciplina e a formação militar.",
+          "As duas eram cidades-estado gregas, mas tinham características diferentes."
+        ],
+        "resposta": "Atenas e Esparta pertenciam à Grécia Antiga, porém apresentavam formas de organização distintas."
+      },
+      {
+        "enunciado": "Explique por que os Jogos Olímpicos são associados aos gregos.",
+        "passos": [
+          "Os gregos realizavam competições esportivas entre representantes das cidades.",
+          "Esses jogos tinham grande importância cultural.",
+          "Por isso, a origem dos Jogos Olímpicos está relacionada à Grécia Antiga."
+        ],
+        "resposta": "Os Jogos Olímpicos surgiram na Grécia Antiga como parte de sua cultura."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-grecia-antiga-ex-01",
+        "enunciado": "A organização política da Grécia Antiga era marcada principalmente pela existência de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um único império centralizado",
+          "cidades-estado com autonomia",
+          "aldeias sem governo",
+          "províncias controladas por Roma"
+        ],
+        "respostaCorreta": "cidades-estado com autonomia",
+        "explicacao": "A Grécia Antiga era formada por cidades-estado, também chamadas pólis, com organização própria.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-02",
+        "enunciado": "Qual das alternativas apresenta duas cidades-estado gregas bastante conhecidas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atenas e Esparta",
+          "Roma e Cartago",
+          "Egito e Tebas",
+          "Babilônia e Nínive"
+        ],
+        "respostaCorreta": "Atenas e Esparta",
+        "explicacao": "Atenas e Esparta são exemplos clássicos de cidades-estado da Grécia Antiga.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-03",
+        "enunciado": "A palavra pólis, no estudo da Grécia Antiga, significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "exército",
+          "mercado",
+          "cidade-estado",
+          "templo"
+        ],
+        "respostaCorreta": "cidade-estado",
+        "explicacao": "Pólis era o nome dado às cidades-estado gregas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-04",
+        "enunciado": "Atenas destacou-se na Antiguidade principalmente por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valorizar debates políticos e vida cultural",
+          "proibir qualquer atividade artística",
+          "ser a capital do Egito",
+          "depender apenas da atividade pastoril"
+        ],
+        "respostaCorreta": "valorizar debates políticos e vida cultural",
+        "explicacao": "Atenas tornou-se conhecida por sua intensa vida política e cultural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-05",
+        "enunciado": "Esparta ficou historicamente associada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organização militar e disciplina",
+          "navegação oceânica moderna",
+          "produção de automóveis",
+          "governo faraônico"
+        ],
+        "respostaCorreta": "organização militar e disciplina",
+        "explicacao": "Esparta é lembrada por sua formação militar e por sua disciplina social.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-06",
+        "enunciado": "Qual alternativa apresenta um legado cultural da Grécia Antiga?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "filosofia",
+          "feudalismo",
+          "imprensa digital",
+          "satélites artificiais"
+        ],
+        "respostaCorreta": "filosofia",
+        "explicacao": "A filosofia é uma das contribuições mais importantes da cultura grega.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-07",
+        "enunciado": "Os Jogos Olímpicos tiveram origem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "na Grécia Antiga",
+          "no Império Romano",
+          "na Mesopotâmia",
+          "na Idade Média"
+        ],
+        "respostaCorreta": "na Grécia Antiga",
+        "explicacao": "Os Jogos Olímpicos nasceram entre os gregos, em competições esportivas ligadas à sua cultura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-08",
+        "enunciado": "Em relação às cidades-estado gregas, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "todas tinham o mesmo governo e os mesmos costumes",
+          "eram politicamente autônomas",
+          "não possuíam leis",
+          "dependiam do comando do Egito"
+        ],
+        "respostaCorreta": "eram politicamente autônomas",
+        "explicacao": "As cidades-estado gregas tinham autonomia política e organização própria.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-09",
+        "enunciado": "Qual alternativa ajuda a explicar por que a Grécia Antiga é importante até hoje?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque não deixou nenhuma influência cultural.",
+          "Porque suas ideias influenciaram política, arte e pensamento.",
+          "Porque foi o primeiro país industrial do mundo.",
+          "Porque aboliu todos os conflitos da Antiguidade."
+        ],
+        "respostaCorreta": "Porque suas ideias influenciaram política, arte e pensamento.",
+        "explicacao": "A cultura grega influenciou áreas como filosofia, política, teatro e esporte.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-10",
+        "enunciado": "Qual situação está mais relacionada ao legado grego?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "discussão de ideias e argumentos em público",
+          "uso de tratores na agricultura",
+          "produção de vacinas em laboratório",
+          "navegação por aplicativo de celular"
+        ],
+        "respostaCorreta": "discussão de ideias e argumentos em público",
+        "explicacao": "A valorização da argumentação e do debate é uma importante herança grega.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-11",
+        "enunciado": "Ao comparar Atenas e Esparta, podemos concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as duas tinham exatamente o mesmo modo de vida",
+          "as duas pertenciam à Grécia Antiga, mas eram diferentes entre si",
+          "Esparta era uma cidade egípcia",
+          "Atenas era uma cidade da Mesopotâmia"
+        ],
+        "respostaCorreta": "as duas pertenciam à Grécia Antiga, mas eram diferentes entre si",
+        "explicacao": "Atenas e Esparta integravam a Grécia Antiga, porém tinham características próprias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-ex-12",
+        "enunciado": "Qual alternativa apresenta uma informação incorreta sobre a Grécia Antiga?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Era formada por cidades-estado.",
+          "Deixou importantes heranças culturais.",
+          "Os Jogos Olímpicos tiveram origem entre os gregos.",
+          "Foi organizada como um único reino faraônico."
+        ],
+        "respostaCorreta": "Foi organizada como um único reino faraônico.",
+        "explicacao": "A Grécia Antiga não era um reino faraônico; esse modelo está associado ao Egito Antigo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-grecia-antiga-sim-01",
+        "enunciado": "A principal característica política da Grécia Antiga foi a existência de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cidades-estado independentes",
+          "capitanias hereditárias",
+          "repúblicas industriais",
+          "territórios sem governo"
+        ],
+        "respostaCorreta": "cidades-estado independentes",
+        "explicacao": "As pólis eram cidades-estado com governo e organização próprios.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-sim-02",
+        "enunciado": "Qual alternativa relaciona corretamente uma cidade-estado e uma de suas características?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atenas - destaque para debates políticos e cultura",
+          "Esparta - origem do rio Nilo",
+          "Atenas - organização faraônica",
+          "Esparta - sede do Império Romano"
+        ],
+        "respostaCorreta": "Atenas - destaque para debates políticos e cultura",
+        "explicacao": "Atenas se destacou pela vida política e cultural, enquanto Esparta ficou ligada à disciplina militar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-sim-03",
+        "enunciado": "Uma herança grega presente até hoje é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a filosofia",
+          "a imprensa tipográfica medieval",
+          "o uso de internet",
+          "a colonização da América"
+        ],
+        "respostaCorreta": "a filosofia",
+        "explicacao": "A filosofia é uma contribuição marcante da civilização grega antiga.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-grecia-antiga-sim-04",
+        "enunciado": "Ao estudar a Grécia Antiga, o aluno percebe que a diversidade entre as pólis mostra:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "que todas viviam do mesmo modo",
+          "que havia diferentes formas de organização dentro do mundo grego",
+          "que a Grécia fazia parte do Egito",
+          "que não existiam leis nas cidades"
+        ],
+        "respostaCorreta": "que havia diferentes formas de organização dentro do mundo grego",
+        "explicacao": "As pólis possuíam características próprias, o que mostra a diversidade do mundo grego.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

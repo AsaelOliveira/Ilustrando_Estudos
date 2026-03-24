@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-seres-vivos",
+    "titulo": "Características dos seres vivos",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e ambiente",
+    "resumo": [
+      "Os seres vivos nascem, crescem, alimentam-se, reproduzem-se e morrem.",
+      "Eles respondem a estímulos do ambiente e realizam trocas com o meio.",
+      "Animais, plantas, fungos e microrganismos são exemplos de seres vivos.",
+      "Elementos como água, luz, ar e alimento são importantes para a sobrevivência.",
+      "Seres não vivos não realizam funções vitais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que define um ser vivo",
+        "texto": "Os seres vivos apresentam características próprias, como crescimento, nutrição, reprodução e resposta a estímulos. Essas características ajudam a diferenciá-los dos elementos não vivos do ambiente.",
+        "dica": "Quando tiver dúvida, pergunte se aquilo realiza funções vitais."
+      },
+      {
+        "subtitulo": "Relação com o ambiente",
+        "texto": "Os seres vivos dependem do ambiente para obter água, alimento, abrigo, luz e oxigênio. Além disso, também modificam o ambiente em que vivem e se adaptam a ele.",
+        "dica": "Todo ser vivo precisa interagir com o meio para sobreviver."
+      },
+      {
+        "subtitulo": "Seres vivos e seres não vivos",
+        "texto": "Pedras, água, ar e objetos fabricados não são seres vivos, porque não crescem, não se reproduzem e não realizam funções vitais. Já plantas, animais, fungos e bactérias são seres vivos.",
+        "dica": "Nem tudo que se move é ser vivo, e nem todo ser vivo se desloca de um lugar para outro."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma planta e uma pedra.",
+        "passos": [
+          "A planta cresce, precisa de água e luz e realiza funções vitais.",
+          "A pedra não cresce por conta própria e não realiza funções vitais.",
+          "Por isso, a planta é um ser vivo e a pedra não."
+        ],
+        "resposta": "A planta é um ser vivo; a pedra é um elemento não vivo."
+      },
+      {
+        "enunciado": "Observe um animal doméstico.",
+        "passos": [
+          "Ele se alimenta, cresce e responde ao ambiente.",
+          "Também precisa de água, abrigo e cuidados para viver.",
+          "Essas características mostram que ele é um ser vivo."
+        ],
+        "resposta": "O animal doméstico é um ser vivo porque realiza funções vitais."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-seres-vivos-ex-01",
+        "enunciado": "Qual alternativa apresenta apenas seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "árvore, cachorro e fungo",
+          "pedra, água e vento",
+          "mesa, planta e solo",
+          "sol, areia e peixe"
+        ],
+        "respostaCorreta": "árvore, cachorro e fungo",
+        "explicacao": "Árvore, cachorro e fungo realizam funções vitais e, por isso, são seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-02",
+        "enunciado": "Qual característica pertence aos seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não crescem",
+          "não precisam do ambiente",
+          "realizam funções vitais",
+          "são feitos apenas de metal"
+        ],
+        "respostaCorreta": "realizam funções vitais",
+        "explicacao": "Essa é uma característica essencial dos seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-03",
+        "enunciado": "Qual alternativa apresenta um elemento não vivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bactéria",
+          "musgo",
+          "pedra",
+          "fungo"
+        ],
+        "respostaCorreta": "pedra",
+        "explicacao": "A pedra não realiza funções vitais, por isso não é um ser vivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-04",
+        "enunciado": "Os seres vivos dependem do ambiente porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não precisam de água",
+          "obtêm recursos para sobreviver",
+          "não interagem com o meio",
+          "vivem sem alimento"
+        ],
+        "respostaCorreta": "obtêm recursos para sobreviver",
+        "explicacao": "Água, alimento, luz e abrigo são exemplos de recursos importantes para os seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-05",
+        "enunciado": "Qual alternativa mostra uma função vital?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "brilhar",
+          "alimentar-se",
+          "ser fabricado",
+          "enferrujar"
+        ],
+        "respostaCorreta": "alimentar-se",
+        "explicacao": "Alimentar-se é uma função vital realizada pelos seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-06",
+        "enunciado": "Qual alternativa apresenta um grupo formado apenas por seres não vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, ar e rocha",
+          "árvore, solo e água",
+          "cachorro, rocha e vento",
+          "fungo, água e luz"
+        ],
+        "respostaCorreta": "água, ar e rocha",
+        "explicacao": "Esses elementos não realizam funções vitais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-07",
+        "enunciado": "Qual alternativa explica corretamente por que uma bactéria é um ser vivo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porque é invisível a olho nu",
+          "porque realiza funções vitais",
+          "porque não precisa de ambiente",
+          "porque é feita de pedra"
+        ],
+        "respostaCorreta": "porque realiza funções vitais",
+        "explicacao": "Mesmo sendo microscópica, a bactéria é viva porque realiza funções vitais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-08",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Seres vivos não se reproduzem.",
+          "Todos os elementos do ambiente são seres vivos.",
+          "Seres vivos interagem com o ambiente.",
+          "Pedras e plantas pertencem ao mesmo grupo."
+        ],
+        "respostaCorreta": "Seres vivos interagem com o ambiente.",
+        "explicacao": "Os seres vivos dependem do ambiente e respondem a ele.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-09",
+        "enunciado": "Um carro é ser vivo porque se movimenta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sim, porque todo movimento indica vida",
+          "não, porque movimento sozinho não define vida",
+          "sim, porque o carro consome combustível",
+          "não, porque todo ser vivo é planta"
+        ],
+        "respostaCorreta": "não, porque movimento sozinho não define vida",
+        "explicacao": "O carro não realiza funções vitais por conta própria.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-seres-vivos-ex-10",
+        "enunciado": "Qual alternativa apresenta fatores importantes para a sobrevivência de muitos seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, alimento e abrigo",
+          "metal, tinta e plástico",
+          "cimento, ferro e areia",
+          "vidro, papel e cola"
+        ],
+        "respostaCorreta": "água, alimento e abrigo",
+        "explicacao": "Esses são recursos importantes para muitos seres vivos.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-seres-vivos-sim-01",
+        "enunciado": "Qual alternativa melhor diferencia seres vivos de seres não vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas o tamanho",
+          "a realização de funções vitais",
+          "a cor",
+          "o fato de ocuparem espaço"
+        ],
+        "respostaCorreta": "a realização de funções vitais",
+        "explicacao": "Essa é uma diferença fundamental entre os dois grupos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-sim-02",
+        "enunciado": "Qual alternativa apresenta um exemplo de relação entre ser vivo e ambiente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma pedra absorvendo água para viver",
+          "uma planta usando luz para crescer",
+          "um carro produzindo sementes",
+          "uma mesa respirando"
+        ],
+        "respostaCorreta": "uma planta usando luz para crescer",
+        "explicacao": "A planta depende de elementos do ambiente para sobreviver e se desenvolver.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-sim-03",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fungos são seres vivos.",
+          "Animais são seres vivos.",
+          "Pedras realizam funções vitais.",
+          "Bactérias são seres vivos."
+        ],
+        "respostaCorreta": "Pedras realizam funções vitais.",
+        "explicacao": "Pedras não crescem, não se reproduzem e não se alimentam.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-seres-vivos-sim-04",
+        "enunciado": "Quando afirmamos que um ser vivo responde a estímulos, estamos dizendo que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não percebe mudanças ao redor",
+          "reage ao ambiente",
+          "vive sem recursos",
+          "é feito de metal"
+        ],
+        "respostaCorreta": "reage ao ambiente",
+        "explicacao": "Responder a estímulos significa perceber e reagir a mudanças do ambiente.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-seres-vivos-sim-05",
+        "enunciado": "Qual alternativa apresenta apenas fatores importantes para a sobrevivência dos seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, alimento e abrigo",
+          "metal, tinta e plástico",
+          "cimento, ferro e areia",
+          "vidro, papel e cola"
+        ],
+        "respostaCorreta": "água, alimento e abrigo",
+        "explicacao": "Esses são recursos importantes para muitos seres vivos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

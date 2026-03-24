@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-impactos-ambientais",
+    "titulo": "Impactos ambientais",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Sociedade e natureza",
+    "resumo": [
+      "As ações humanas podem provocar impactos ambientais positivos ou negativos.",
+      "Poluição, desmatamento e descarte inadequado de resíduos são exemplos de problemas ambientais.",
+      "Os impactos ambientais afetam a natureza e também a vida das populações.",
+      "A preservação do ambiente depende de atitudes individuais e coletivas.",
+      "Estudar os impactos ambientais ajuda a compreender a relação entre sociedade e natureza."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são impactos ambientais",
+        "texto": "Impactos ambientais são alterações no ambiente causadas por ações humanas ou por fenômenos naturais. Em Geografia, esse tema é importante para compreender como as atividades humanas transformam a paisagem e influenciam a vida em sociedade.",
+        "dica": "Impacto ambiental é toda mudança que afeta o ambiente de alguma forma."
+      },
+      {
+        "subtitulo": "Problemas ambientais",
+        "texto": "Entre os principais problemas ambientais estão a poluição da água, do ar e do solo, o desmatamento e o descarte incorreto de resíduos. Esses processos podem comprometer a qualidade de vida das pessoas e o equilíbrio dos ecossistemas.",
+        "dica": "Ao estudar problemas ambientais, observe sempre suas causas e consequências."
+      },
+      {
+        "subtitulo": "Preservação e responsabilidade",
+        "texto": "A preservação do ambiente depende de ações conscientes, como economizar recursos, evitar desperdícios, descartar resíduos corretamente e valorizar práticas sustentáveis. A responsabilidade ambiental envolve atitudes individuais, coletivas e políticas públicas.",
+        "dica": "Cuidar do ambiente é uma tarefa compartilhada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que jogar lixo em rios é um problema ambiental.",
+        "passos": [
+          "O lixo pode poluir a água.",
+          "Essa poluição afeta seres vivos e o uso da água pelas pessoas.",
+          "Por isso, o descarte inadequado causa impactos ambientais."
+        ],
+        "resposta": "Jogar lixo em rios provoca poluição e prejudica o ambiente e a população."
+      },
+      {
+        "enunciado": "Relacione desmatamento e equilíbrio ambiental.",
+        "passos": [
+          "O desmatamento altera a paisagem e reduz a vegetação.",
+          "Isso pode afetar o solo, os animais e o clima local.",
+          "Dessa forma, o equilíbrio ambiental pode ser prejudicado."
+        ],
+        "resposta": "O desmatamento é um impacto ambiental que interfere na natureza e na vida humana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-impactos-ambientais-ex-01",
+        "enunciado": "Impactos ambientais são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alterações que afetam o ambiente",
+          "apenas nomes de regiões",
+          "tipos de mapas",
+          "somente fenômenos sem consequência"
+        ],
+        "respostaCorreta": "alterações que afetam o ambiente",
+        "explicacao": "Impactos ambientais correspondem a mudanças que atingem o ambiente de alguma forma.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-02",
+        "enunciado": "Qual alternativa apresenta um problema ambiental?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poluição da água",
+          "leitura de mapas",
+          "prática de esportes",
+          "organização de feiras escolares"
+        ],
+        "respostaCorreta": "poluição da água",
+        "explicacao": "A poluição da água é um exemplo claro de impacto ambiental negativo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-03",
+        "enunciado": "O desmatamento pode causar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alterações na paisagem e no equilíbrio ambiental",
+          "produção imediata de rios",
+          "eliminação total do clima",
+          "criação de novas montanhas"
+        ],
+        "respostaCorreta": "alterações na paisagem e no equilíbrio ambiental",
+        "explicacao": "O desmatamento afeta vegetação, solo, fauna e outros elementos ambientais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-04",
+        "enunciado": "Jogar lixo em locais inadequados é prejudicial porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pode causar poluição e comprometer o ambiente",
+          "melhora a qualidade da água",
+          "protege os ecossistemas",
+          "reduz automaticamente o consumo"
+        ],
+        "respostaCorreta": "pode causar poluição e comprometer o ambiente",
+        "explicacao": "O descarte incorreto de resíduos pode poluir o solo, a água e afetar a saúde das pessoas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-05",
+        "enunciado": "A preservação do ambiente depende:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de atitudes responsáveis individuais e coletivas",
+          "somente da sorte",
+          "apenas da mudança das estações do ano",
+          "de ignorar os problemas ambientais"
+        ],
+        "respostaCorreta": "de atitudes responsáveis individuais e coletivas",
+        "explicacao": "Cuidar do ambiente exige responsabilidade compartilhada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-06",
+        "enunciado": "Qual atitude contribui para a preservação ambiental?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "descartar resíduos corretamente",
+          "desperdiçar água sem necessidade",
+          "poluir rios e ruas",
+          "desmatar áreas sem controle"
+        ],
+        "respostaCorreta": "descartar resíduos corretamente",
+        "explicacao": "O descarte correto ajuda a reduzir impactos negativos sobre o ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-07",
+        "enunciado": "Ao estudar impactos ambientais, o aluno compreende melhor a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sociedade e natureza",
+          "somente matemática e literatura",
+          "planetas e constelações",
+          "ossos e músculos"
+        ],
+        "respostaCorreta": "sociedade e natureza",
+        "explicacao": "Esse tema mostra como as ações humanas interferem no ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-impactos-ambientais-ex-08",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A poluição pode afetar a qualidade de vida.",
+          "O desmatamento pode causar impactos ambientais.",
+          "A preservação ambiental depende de responsabilidade.",
+          "Os impactos ambientais não afetam as populações."
+        ],
+        "respostaCorreta": "Os impactos ambientais não afetam as populações.",
+        "explicacao": "Os impactos ambientais atingem tanto a natureza quanto a vida das pessoas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-impactos-ambientais-sim-01",
+        "enunciado": "Ao observar poluição, desmatamento e descarte inadequado de resíduos, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "problemas ambientais ligados às ações humanas",
+          "apenas fenômenos astronômicos",
+          "somente mudanças sem consequência",
+          "formas de preservação natural"
+        ],
+        "respostaCorreta": "problemas ambientais ligados às ações humanas",
+        "explicacao": "Esses exemplos mostram impactos ambientais provocados por práticas humanas inadequadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-impactos-ambientais-sim-02",
+        "enunciado": "A principal lição do estudo dos impactos ambientais é que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as ações humanas têm consequências sobre o ambiente e exigem responsabilidade",
+          "o ambiente não precisa de cuidados",
+          "somente os rios sofrem alterações",
+          "não existe relação entre vida humana e natureza"
+        ],
+        "respostaCorreta": "as ações humanas têm consequências sobre o ambiente e exigem responsabilidade",
+        "explicacao": "O tema reforça a necessidade de consciência e preservação ambiental.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

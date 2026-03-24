@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-escravizacao-africana-introducao",
+    "titulo": "Escravização africana: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Colonização e relações de poder",
+    "resumo": [
+      "A escravização africana fez parte de processos históricos ligados à colonização.",
+      "Milhões de africanos foram retirados à força de suas terras e levados para diferentes regiões.",
+      "Esse processo esteve relacionado a interesses econômicos e à exploração do trabalho.",
+      "A escravização causou violência, sofrimento e profundas consequências históricas.",
+      "Estudar esse tema é importante para compreender desigualdades e resistências na história."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a escravização africana",
+        "texto": "A escravização africana foi um processo histórico em que homens, mulheres e crianças africanos foram capturados, vendidos e transportados à força para diferentes territórios. Esse processo esteve ligado à exploração econômica e a relações de poder profundamente violentas.",
+        "dica": "É importante tratar esse tema com seriedade, reconhecendo a violência envolvida."
+      },
+      {
+        "subtitulo": "Relação com a colonização",
+        "texto": "A escravização africana esteve ligada à colonização das Américas e à organização do trabalho em áreas dominadas por europeus. A mão de obra escravizada foi usada em diferentes atividades econômicas, em contextos marcados por opressão e desigualdade.",
+        "dica": "Colonização, exploração econômica e escravização estiveram historicamente conectadas."
+      },
+      {
+        "subtitulo": "Consequências históricas",
+        "texto": "A escravização africana deixou marcas profundas na história. Além da violência sofrida pelas populações escravizadas, esse processo influenciou a formação social, econômica e cultural de muitos países, inclusive no continente americano.",
+        "dica": "Esse tema também envolve memória, resistência e impactos duradouros."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a escravização africana não pode ser vista como um processo natural.",
+        "passos": [
+          "Ela envolveu captura, violência e exploração humana.",
+          "Foi imposta por relações de poder e interesses econômicos.",
+          "Por isso, deve ser entendida como um processo histórico violento."
+        ],
+        "resposta": "A escravização africana foi uma prática violenta ligada à exploração e ao domínio."
+      },
+      {
+        "enunciado": "Relacione escravização africana e colonização.",
+        "passos": [
+          "A colonização criou demandas de trabalho nas áreas dominadas.",
+          "A escravização foi usada para explorar essa mão de obra.",
+          "Assim, os dois processos estiveram conectados historicamente."
+        ],
+        "resposta": "A escravização africana esteve ligada à exploração econômica nas sociedades coloniais."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-01",
+        "enunciado": "A escravização africana esteve ligada principalmente à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "exploração econômica e relações de poder",
+          "produção de energia elétrica",
+          "formação do relevo",
+          "organização do sistema solar"
+        ],
+        "respostaCorreta": "exploração econômica e relações de poder",
+        "explicacao": "Esse processo esteve associado à exploração do trabalho e ao domínio de populações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-02",
+        "enunciado": "Os africanos escravizados eram levados à força para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diferentes territórios sob domínio colonial",
+          "apenas escolas medievais",
+          "somente cidades industriais modernas",
+          "espaços sem qualquer atividade econômica"
+        ],
+        "respostaCorreta": "diferentes territórios sob domínio colonial",
+        "explicacao": "A escravização africana esteve ligada ao transporte forçado de pessoas para áreas coloniais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-03",
+        "enunciado": "Qual alternativa apresenta uma característica correta desse processo histórico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolveu violência e exploração do trabalho",
+          "foi uma prática voluntária e sem coerção",
+          "não teve relação com a colonização",
+          "não produziu consequências históricas"
+        ],
+        "respostaCorreta": "envolveu violência e exploração do trabalho",
+        "explicacao": "A escravização africana foi marcada por violência, coerção e exploração humana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-04",
+        "enunciado": "Ao estudar a escravização africana, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela deixou marcas profundas na história",
+          "não influenciou a formação das sociedades americanas",
+          "foi um processo sem sofrimento humano",
+          "não teve relação com a economia colonial"
+        ],
+        "respostaCorreta": "ela deixou marcas profundas na história",
+        "explicacao": "A escravização africana influenciou a formação social, econômica e cultural de muitos países.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-05",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A escravização africana esteve ligada à violência.",
+          "Esse processo teve relação com a colonização.",
+          "A exploração do trabalho foi um de seus elementos.",
+          "Foi um acontecimento sem impacto duradouro."
+        ],
+        "respostaCorreta": "Foi um acontecimento sem impacto duradouro.",
+        "explicacao": "A escravização africana teve consequências históricas profundas e duradouras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-ex-06",
+        "enunciado": "A principal importância de estudar esse tema está em compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações históricas de violência, desigualdade e resistência",
+          "somente a formação das nuvens",
+          "apenas a classificação dos animais",
+          "exclusivamente a divisão silábica"
+        ],
+        "respostaCorreta": "relações históricas de violência, desigualdade e resistência",
+        "explicacao": "O tema ajuda a entender processos de dominação e seus efeitos na história.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-escravizacao-africana-introducao-sim-01",
+        "enunciado": "Ao relacionar colonização, exploração econômica e trabalho forçado, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o contexto histórico da escravização africana",
+          "a origem do sistema respiratório",
+          "a regionalização do Brasil",
+          "o ciclo da água"
+        ],
+        "respostaCorreta": "o contexto histórico da escravização africana",
+        "explicacao": "Esses elementos ajudam a compreender o contexto em que a escravização africana ocorreu.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-escravizacao-africana-introducao-sim-02",
+        "enunciado": "A principal lição histórica desse tema é reconhecer que a escravização africana:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "foi um processo violento com efeitos duradouros",
+          "aconteceu sem relações de poder",
+          "não alterou sociedades americanas",
+          "foi uma experiência voluntária"
+        ],
+        "respostaCorreta": "foi um processo violento com efeitos duradouros",
+        "explicacao": "Esse processo deixou marcas profundas na história e deve ser estudado com responsabilidade.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

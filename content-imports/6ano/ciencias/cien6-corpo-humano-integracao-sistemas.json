@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-corpo-humano-integracao-sistemas",
+    "titulo": "Corpo humano e integração entre sistemas",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e funcionamento integrado",
+    "resumo": [
+      "O corpo humano funciona por meio da ação conjunta de diferentes sistemas.",
+      "Sistemas como digestório, respiratório, circulatório e nervoso atuam de forma integrada.",
+      "Cada sistema tem funções próprias, mas nenhum trabalha totalmente isolado.",
+      "A integração entre sistemas permite o funcionamento adequado do organismo.",
+      "Estudar esse tema ajuda a compreender o corpo de maneira mais completa."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O corpo como conjunto",
+        "texto": "O corpo humano não funciona por partes isoladas. Seus diferentes sistemas atuam em conjunto, colaborando para que o organismo obtenha energia, transporte substâncias, responda a estímulos e mantenha o equilíbrio interno.",
+        "dica": "Sempre que estudar um sistema do corpo, pense também em como ele se relaciona com os outros."
+      },
+      {
+        "subtitulo": "Exemplos de integração",
+        "texto": "O sistema digestório ajuda a obter nutrientes, o respiratório participa da entrada de oxigênio, e o circulatório transporta essas substâncias pelo corpo. O sistema nervoso, por sua vez, contribui para a coordenação e a resposta do organismo. Isso mostra a integração entre diferentes funções.",
+        "dica": "Uma boa forma de entender o corpo é seguir o caminho das substâncias e das informações entre os sistemas."
+      },
+      {
+        "subtitulo": "Importância da integração",
+        "texto": "A integração entre os sistemas é essencial para manter o corpo funcionando adequadamente. Quando observamos o organismo dessa maneira, entendemos melhor como a vida depende da cooperação entre suas diferentes partes.",
+        "dica": "Integração significa cooperação entre diferentes estruturas do organismo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como digestão e circulação se relacionam.",
+        "passos": [
+          "A digestão ajuda a obter nutrientes dos alimentos.",
+          "A circulação transporta esses nutrientes pelo corpo.",
+          "Assim, os dois sistemas atuam de forma integrada."
+        ],
+        "resposta": "Digestão e circulação se relacionam porque os nutrientes obtidos precisam ser distribuídos pelo organismo."
+      },
+      {
+        "enunciado": "Relacione respiração e circulação.",
+        "passos": [
+          "A respiração participa da entrada de oxigênio no organismo.",
+          "A circulação transporta esse oxigênio para diferentes partes do corpo.",
+          "Isso mostra a integração entre esses sistemas."
+        ],
+        "resposta": "Respiração e circulação trabalham juntas para levar oxigênio ao organismo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-01",
+        "enunciado": "O corpo humano funciona principalmente por meio da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ação conjunta de diferentes sistemas",
+          "atuação de apenas um órgão",
+          "ausência de integração entre partes",
+          "separação completa entre funções"
+        ],
+        "respostaCorreta": "ação conjunta de diferentes sistemas",
+        "explicacao": "Os sistemas do corpo trabalham de forma integrada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-02",
+        "enunciado": "Qual alternativa apresenta dois sistemas que podem atuar de forma integrada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "digestório e circulatório",
+          "relevo e clima",
+          "substantivo e verbo",
+          "continente e oceano"
+        ],
+        "respostaCorreta": "digestório e circulatório",
+        "explicacao": "Os nutrientes obtidos pela digestão são transportados pela circulação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-03",
+        "enunciado": "A entrada de oxigênio no organismo está relacionada ao sistema:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respiratório",
+          "geométrico",
+          "cartográfico",
+          "feudal"
+        ],
+        "respostaCorreta": "respiratório",
+        "explicacao": "O sistema respiratório participa da entrada de oxigênio no corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-04",
+        "enunciado": "Depois de obtido pela respiração, o oxigênio é transportado pelo sistema:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "circulatório",
+          "solar",
+          "digestório",
+          "vegetal"
+        ],
+        "respostaCorreta": "circulatório",
+        "explicacao": "O sistema circulatório transporta substâncias como o oxigênio pelo corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-05",
+        "enunciado": "O sistema nervoso participa da integração do corpo porque ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "coordenar funções e respostas",
+          "produzir montanhas",
+          "formar as marés",
+          "substituir todos os outros sistemas"
+        ],
+        "respostaCorreta": "coordenar funções e respostas",
+        "explicacao": "O sistema nervoso ajuda a organizar e coordenar ações do organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os sistemas do corpo podem atuar em conjunto.",
+          "Digestão, respiração e circulação podem se relacionar.",
+          "Cada sistema trabalha totalmente isolado dos demais.",
+          "A integração ajuda o corpo a funcionar melhor."
+        ],
+        "respostaCorreta": "Cada sistema trabalha totalmente isolado dos demais.",
+        "explicacao": "Os sistemas do corpo atuam de forma integrada, e não completamente isolada.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-sim-01",
+        "enunciado": "Ao relacionar digestão, respiração, circulação e coordenação do corpo, o aluno compreende:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a integração entre os sistemas do organismo",
+          "a divisão do território brasileiro",
+          "a classificação dos pronomes",
+          "a história do feudalismo"
+        ],
+        "respostaCorreta": "a integração entre os sistemas do organismo",
+        "explicacao": "Esses sistemas participam juntos do funcionamento do corpo humano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-corpo-humano-integracao-sistemas-sim-02",
+        "enunciado": "A principal ideia desse tema é que o corpo humano:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "depende da cooperação entre diferentes sistemas",
+          "funciona por órgãos isolados sem relação",
+          "não precisa de integração para viver",
+          "é controlado por apenas um único sistema"
+        ],
+        "respostaCorreta": "depende da cooperação entre diferentes sistemas",
+        "explicacao": "O funcionamento saudável do corpo depende da integração entre seus sistemas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-operacoes-inteiros",
+    "titulo": "Operações com números inteiros",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Números e operações",
+    "resumo": [
+      "Os números inteiros podem ser somados, subtraídos, multiplicados e divididos.",
+      "As regras de sinais ajudam a resolver operações com mais segurança.",
+      "A reta numérica pode auxiliar em operações de adição e subtração.",
+      "Em multiplicação e divisão, o sinal do resultado depende dos sinais dos números envolvidos.",
+      "Estudar esse tema fortalece o raciocínio numérico e a resolução de problemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Adição e subtração",
+        "texto": "Na adição e na subtração com números inteiros, é importante observar o valor e o sinal de cada número. A reta numérica pode ser usada para visualizar deslocamentos para a direita ou para a esquerda, ajudando na compreensão do resultado.",
+        "dica": "Na reta numérica, somar pode significar avançar, e subtrair pode significar recuar."
+      },
+      {
+        "subtitulo": "Multiplicação e divisão",
+        "texto": "Na multiplicação e na divisão de números inteiros, as regras de sinais são essenciais. Quando os sinais são iguais, o resultado é positivo. Quando os sinais são diferentes, o resultado é negativo.",
+        "dica": "Antes de calcular, observe primeiro os sinais dos números."
+      },
+      {
+        "subtitulo": "Uso em problemas",
+        "texto": "Operações com inteiros aparecem em situações do cotidiano, como saldo, temperatura, altitude e deslocamentos. Entender essas operações ajuda a interpretar melhor problemas e a encontrar soluções corretas.",
+        "dica": "Procure relacionar os números inteiros a situações reais para compreender melhor as contas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Calcule: -3 + 5",
+        "passos": [
+          "Os números têm sinais diferentes.",
+          "Subtraímos os valores absolutos: 5 - 3 = 2.",
+          "O sinal do resultado acompanha o maior valor absoluto, que é positivo."
+        ],
+        "resposta": "-3 + 5 = 2."
+      },
+      {
+        "enunciado": "Calcule: (-4) x (-2)",
+        "passos": [
+          "Os dois números são negativos.",
+          "Na multiplicação, sinais iguais produzem resultado positivo.",
+          "Multiplicamos 4 por 2 e obtemos 8."
+        ],
+        "resposta": "(-4) x (-2) = 8."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-operacoes-inteiros-ex-01",
+        "enunciado": "Qual é o resultado de 6 + (-2)?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "8",
+          "-4",
+          "-8"
+        ],
+        "respostaCorreta": "4",
+        "explicacao": "Somar -2 a 6 equivale a retirar 2 unidades, obtendo 4.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-ex-02",
+        "enunciado": "Qual é o resultado de -5 + (-3)?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "-8",
+          "8",
+          "-2",
+          "2"
+        ],
+        "respostaCorreta": "-8",
+        "explicacao": "Somamos os valores e mantemos o sinal negativo: -5 + (-3) = -8.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-ex-03",
+        "enunciado": "Qual é o resultado de 7 - 10?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "-3",
+          "3",
+          "-17",
+          "17"
+        ],
+        "respostaCorreta": "-3",
+        "explicacao": "Ao tirar 10 de 7, obtemos um resultado negativo: -3.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-ex-04",
+        "enunciado": "Qual é o resultado de (-3) x 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "-12",
+          "12",
+          "-7",
+          "7"
+        ],
+        "respostaCorreta": "-12",
+        "explicacao": "Na multiplicação, sinais diferentes produzem resultado negativo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-ex-05",
+        "enunciado": "Qual é o resultado de (-12) ÷ (-3)?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "4",
+          "-4",
+          "9",
+          "-9"
+        ],
+        "respostaCorreta": "4",
+        "explicacao": "Na divisão, sinais iguais produzem resultado positivo: 12 ÷ 3 = 4.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Na multiplicação, sinais iguais dão resultado positivo.",
+          "Na divisão, sinais diferentes dão resultado negativo.",
+          "Somar um número negativo pode diminuir o valor final.",
+          "Todo produto entre inteiros negativos é sempre negativo."
+        ],
+        "respostaCorreta": "Todo produto entre inteiros negativos é sempre negativo.",
+        "explicacao": "Na multiplicação, dois números negativos produzem resultado positivo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-operacoes-inteiros-sim-01",
+        "enunciado": "Qual é o resultado de -2 + 7 - 4?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1",
+          "-1",
+          "5",
+          "-5"
+        ],
+        "respostaCorreta": "1",
+        "explicacao": "-2 + 7 = 5 e 5 - 4 = 1.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-operacoes-inteiros-sim-02",
+        "enunciado": "A principal ideia desse tema é que operar com números inteiros exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atenção aos sinais e ao significado das operações",
+          "ignorar completamente a reta numérica",
+          "decorar respostas sem entender as regras",
+          "usar apenas números positivos"
+        ],
+        "respostaCorreta": "atenção aos sinais e ao significado das operações",
+        "explicacao": "As regras de sinais e a compreensão das operações são essenciais nesse conteúdo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "hist6-civilizacoes-antigas",
+    "titulo": "Civilizações antigas: Mesopotâmia e Egito",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Mundo antigo",
+    "resumo": [
+      "As civilizações antigas se desenvolveram em regiões importantes para a agricultura e a organização social.",
+      "Mesopotâmia e Egito tiveram forte relação com grandes rios.",
+      "Os rios favoreceram a agricultura, a fixação das populações e o surgimento de cidades.",
+      "Essas sociedades criaram formas de escrita, governo e organização religiosa.",
+      "O estudo das civilizações antigas ajuda a compreender origens de muitos aspectos da vida em sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mesopotâmia",
+        "texto": "A Mesopotâmia localizava-se entre os rios Tigre e Eufrates. Nessa região surgiram cidades importantes e diferentes povos organizaram formas de governo, escrita e atividades econômicas ligadas principalmente à agricultura.",
+        "dica": "A palavra Mesopotâmia está ligada à ideia de terra entre rios."
+      },
+      {
+        "subtitulo": "Egito Antigo",
+        "texto": "O Egito Antigo desenvolveu-se às margens do rio Nilo. As cheias desse rio favoreciam a agricultura, permitindo a produção de alimentos e a organização da sociedade egípcia.",
+        "dica": "O rio Nilo teve papel central na vida egípcia."
+      },
+      {
+        "subtitulo": "Importância dos rios",
+        "texto": "Em ambas as civilizações, os rios garantiam água, fertilidade do solo, transporte e condições favoráveis à vida em comunidade. Por isso, eram fundamentais para a sobrevivência e a prosperidade.",
+        "dica": "Sem os rios, o desenvolvimento dessas sociedades teria sido muito mais difícil."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique a importância do rio Nilo para o Egito.",
+        "passos": [
+          "O Nilo fornecia água para a região.",
+          "Suas cheias ajudavam a fertilizar o solo.",
+          "Isso favorecia a agricultura e a vida da população."
+        ],
+        "resposta": "O rio Nilo foi essencial para o desenvolvimento do Egito Antigo."
+      },
+      {
+        "enunciado": "Explique por que a Mesopotâmia é chamada de terra entre rios.",
+        "passos": [
+          "Ela se localizava entre os rios Tigre e Eufrates.",
+          "Esses rios ajudavam na agricultura e na organização das cidades.",
+          "Por isso, a região recebeu esse nome."
+        ],
+        "resposta": "A Mesopotâmia era uma região entre dois importantes rios."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-civilizacoes-antigas-ex-01",
+        "enunciado": "A Mesopotâmia se desenvolveu entre os rios:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Amazonas e Nilo",
+          "Tigre e Eufrates",
+          "Nilo e Jordão",
+          "Ganges e Indo"
+        ],
+        "respostaCorreta": "Tigre e Eufrates",
+        "explicacao": "Esses dois rios foram fundamentais para a vida na Mesopotâmia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-02",
+        "enunciado": "O Egito Antigo se desenvolveu às margens do rio:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nilo",
+          "Tigre",
+          "Eufrates",
+          "Danúbio"
+        ],
+        "respostaCorreta": "Nilo",
+        "explicacao": "O rio Nilo teve grande importância para a sociedade egípcia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-03",
+        "enunciado": "Os rios eram importantes para essas civilizações porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "impediam toda agricultura",
+          "favoreciam a agricultura e a sobrevivência",
+          "não tinham relação com a vida social",
+          "serviam apenas para decoração"
+        ],
+        "respostaCorreta": "favoreciam a agricultura e a sobrevivência",
+        "explicacao": "A água e a fertilidade dos solos eram essenciais para essas sociedades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-04",
+        "enunciado": "Qual alternativa está correta sobre o Egito Antigo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não tinha relação com rios.",
+          "Desenvolveu-se em área favorecida pelo Nilo.",
+          "Surgiu na América.",
+          "Não praticava agricultura."
+        ],
+        "respostaCorreta": "Desenvolveu-se em área favorecida pelo Nilo.",
+        "explicacao": "O rio Nilo foi essencial para a vida no Egito Antigo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-05",
+        "enunciado": "Qual alternativa está correta sobre a Mesopotâmia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Era uma região entre dois rios importantes.",
+          "Ficava às margens do rio Nilo.",
+          "Não tinha cidades.",
+          "Não possuía atividades agrícolas."
+        ],
+        "respostaCorreta": "Era uma região entre dois rios importantes.",
+        "explicacao": "A Mesopotâmia se desenvolveu entre os rios Tigre e Eufrates.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-06",
+        "enunciado": "As cheias do rio Nilo ajudavam o Egito porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fertilizavam o solo",
+          "destruíam toda a produção",
+          "impediam o cultivo",
+          "eliminavam a água da região"
+        ],
+        "respostaCorreta": "fertilizavam o solo",
+        "explicacao": "As cheias deixavam o solo mais fértil para a agricultura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-07",
+        "enunciado": "Qual alternativa apresenta uma semelhança entre Mesopotâmia e Egito Antigo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As duas se desenvolveram com forte relação com grandes rios.",
+          "As duas surgiram na mesma margem do Nilo.",
+          "As duas rejeitavam a agricultura.",
+          "As duas não possuíam organização social."
+        ],
+        "respostaCorreta": "As duas se desenvolveram com forte relação com grandes rios.",
+        "explicacao": "Os rios foram fundamentais para a vida nessas civilizações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-08",
+        "enunciado": "Um aluno disse que os rios não influenciaram o surgimento das civilizações antigas. Essa fala está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque os rios foram fundamentais para a agricultura e a fixação humana",
+          "correta, porque a agricultura não dependia de água",
+          "incorreta, porque os rios só serviam para pesca"
+        ],
+        "respostaCorreta": "incorreta, porque os rios foram fundamentais para a agricultura e a fixação humana",
+        "explicacao": "A presença de rios favoreceu a formação e o crescimento dessas sociedades.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-09",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mesopotâmia e Egito surgiram sem relação com a natureza.",
+          "Os rios favoreceram a agricultura nas civilizações antigas.",
+          "O Egito Antigo não dependia do Nilo.",
+          "A Mesopotâmia não tinha cidades."
+        ],
+        "respostaCorreta": "Os rios favoreceram a agricultura nas civilizações antigas.",
+        "explicacao": "Os rios eram essenciais para a produção de alimentos e a vida social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-ex-10",
+        "enunciado": "Qual alternativa apresenta o principal rio ligado ao Egito Antigo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nilo",
+          "Tigre",
+          "Eufrates",
+          "Amazonas"
+        ],
+        "respostaCorreta": "Nilo",
+        "explicacao": "O Nilo teve papel central na vida egípcia.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-civilizacoes-antigas-sim-01",
+        "enunciado": "Qual alternativa relaciona corretamente civilização e rio?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Egito - Tigre",
+          "Mesopotâmia - Nilo",
+          "Egito - Nilo",
+          "Mesopotâmia - Danúbio"
+        ],
+        "respostaCorreta": "Egito - Nilo",
+        "explicacao": "O Egito Antigo desenvolveu-se às margens do rio Nilo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Os rios tiveram pouca importância no surgimento de Mesopotâmia e Egito' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque os rios foram fundamentais para essas civilizações.",
+          "A frase é verdadeira apenas no Egito.",
+          "A frase é falsa, porque os rios só eram usados para lazer."
+        ],
+        "respostaCorreta": "A frase é falsa, porque os rios foram fundamentais para essas civilizações.",
+        "explicacao": "Os rios favoreceram agricultura, abastecimento e organização da vida social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-sim-03",
+        "enunciado": "Qual alternativa apresenta uma consequência positiva da presença dos rios para as civilizações antigas estudadas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dificuldade total para plantar",
+          "isolamento absoluto das populações",
+          "maior possibilidade de agricultura",
+          "ausência de cidades"
+        ],
+        "respostaCorreta": "maior possibilidade de agricultura",
+        "explicacao": "Os rios ajudavam a garantir água e fertilidade para o cultivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-sim-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a Mesopotâmia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Desenvolveu-se entre os rios Tigre e Eufrates.",
+          "Desenvolveu-se nas Américas.",
+          "Dependia do rio Nilo.",
+          "Não conhecia atividades agrícolas."
+        ],
+        "respostaCorreta": "Desenvolveu-se entre os rios Tigre e Eufrates.",
+        "explicacao": "Essa é uma característica marcante da região mesopotâmica.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist6-civilizacoes-antigas-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o Egito Antigo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O rio Nilo não tinha importância para a agricultura.",
+          "As cheias do Nilo ajudavam a fertilizar o solo.",
+          "O Egito não tinha relação com rios.",
+          "O Egito surgiu entre o Tigre e o Eufrates."
+        ],
+        "respostaCorreta": "As cheias do Nilo ajudavam a fertilizar o solo.",
+        "explicacao": "Essa fertilidade foi essencial para a produção agrícola egípcia.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

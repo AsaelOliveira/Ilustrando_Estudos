@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo6-meio-ambiente-e-sustentabilidade",
+    "titulo": "Meio ambiente e sustentabilidade",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Sociedade e natureza",
+    "resumo": [
+      "O meio ambiente reúne elementos naturais e a relação das pessoas com eles.",
+      "A sustentabilidade envolve o uso responsável dos recursos naturais.",
+      "Preservar o ambiente é importante para o presente e para o futuro.",
+      "Atitudes individuais e coletivas podem ajudar na proteção da natureza.",
+      "Estudar esse tema contribui para a formação de consciência ambiental."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é meio ambiente",
+        "texto": "O meio ambiente envolve os elementos naturais e as relações estabelecidas com eles. Água, solo, ar, vegetação, animais e ações humanas fazem parte dessa realidade, que influencia diretamente a vida em sociedade.",
+        "dica": "Meio ambiente não é apenas natureza isolada; ele também envolve a relação humana com ela."
+      },
+      {
+        "subtitulo": "Ideia de sustentabilidade",
+        "texto": "Sustentabilidade está ligada ao uso responsável dos recursos naturais, de modo que as necessidades do presente sejam atendidas sem comprometer as possibilidades das futuras gerações. Essa ideia reforça a importância do cuidado e do equilíbrio.",
+        "dica": "Sustentabilidade tem relação com responsabilidade e continuidade."
+      },
+      {
+        "subtitulo": "Ações de cuidado",
+        "texto": "Economizar água, reduzir desperdícios, descartar resíduos corretamente e valorizar práticas de preservação são atitudes que contribuem para o cuidado com o meio ambiente. Essas ações podem começar no cotidiano e se ampliar para a vida em sociedade.",
+        "dica": "Pequenas atitudes também fazem parte da construção de uma postura sustentável."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que economizar água é uma atitude ligada à sustentabilidade.",
+        "passos": [
+          "A água é um recurso natural importante.",
+          "Seu uso responsável ajuda a evitar desperdícios.",
+          "Por isso, economizar água é uma prática sustentável."
+        ],
+        "resposta": "Economizar água é uma atitude sustentável porque contribui para o uso responsável dos recursos naturais."
+      },
+      {
+        "enunciado": "Relacione meio ambiente e ações humanas.",
+        "passos": [
+          "As pessoas utilizam recursos naturais em seu cotidiano.",
+          "Essas ações podem cuidar ou degradar o ambiente.",
+          "Por isso, a relação entre sociedade e natureza exige responsabilidade."
+        ],
+        "resposta": "O meio ambiente é influenciado pelas ações humanas e precisa de cuidado constante."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-01",
+        "enunciado": "A sustentabilidade está ligada principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ao uso responsável dos recursos naturais",
+          "ao desperdício sem limites",
+          "à eliminação de toda vegetação",
+          "à poluição constante dos rios"
+        ],
+        "respostaCorreta": "ao uso responsável dos recursos naturais",
+        "explicacao": "Sustentabilidade envolve cuidado e responsabilidade no uso dos recursos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-02",
+        "enunciado": "Qual atitude contribui para a preservação ambiental?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "economizar água",
+          "desperdiçar energia sem necessidade",
+          "jogar lixo em locais inadequados",
+          "desmatar sem controle"
+        ],
+        "respostaCorreta": "economizar água",
+        "explicacao": "Economizar água é uma atitude simples e importante para a preservação ambiental.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-03",
+        "enunciado": "O meio ambiente envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "elementos naturais e relações humanas com eles",
+          "somente prédios e avenidas",
+          "apenas fenômenos sem ligação com a sociedade",
+          "somente o fundo dos oceanos"
+        ],
+        "respostaCorreta": "elementos naturais e relações humanas com eles",
+        "explicacao": "O meio ambiente inclui natureza e a forma como as pessoas se relacionam com ela.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-04",
+        "enunciado": "Preservar o ambiente é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a cuidar do presente e do futuro",
+          "elimina a necessidade de recursos naturais",
+          "impede qualquer atividade humana",
+          "não tem relação com a vida em sociedade"
+        ],
+        "respostaCorreta": "ajuda a cuidar do presente e do futuro",
+        "explicacao": "A preservação ambiental contribui para a continuidade da vida e dos recursos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sociedade, natureza e responsabilidade ambiental",
+          "somente estrelas e planetas",
+          "apenas verbos e substantivos",
+          "somente músculos e ossos"
+        ],
+        "respostaCorreta": "sociedade, natureza e responsabilidade ambiental",
+        "explicacao": "O tema destaca a relação entre ações humanas, meio ambiente e cuidado com os recursos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sustentabilidade envolve responsabilidade.",
+          "Pequenas atitudes podem ajudar o ambiente.",
+          "O cuidado ambiental interessa apenas ao presente.",
+          "Os recursos naturais precisam ser usados com consciência."
+        ],
+        "respostaCorreta": "O cuidado ambiental interessa apenas ao presente.",
+        "explicacao": "A sustentabilidade também se preocupa com as gerações futuras.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-sim-01",
+        "enunciado": "A principal ideia da sustentabilidade é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar os recursos naturais com responsabilidade",
+          "explorar o ambiente sem limites",
+          "deixar de pensar no futuro",
+          "ignorar qualquer problema ambiental"
+        ],
+        "respostaCorreta": "usar os recursos naturais com responsabilidade",
+        "explicacao": "A sustentabilidade propõe cuidado com os recursos para o presente e o futuro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-meio-ambiente-e-sustentabilidade-sim-02",
+        "enunciado": "Ao relacionar meio ambiente, preservação e vida em sociedade, o aluno conclui que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o cuidado ambiental depende de atitudes conscientes",
+          "a natureza não tem ligação com a vida humana",
+          "somente grandes governos podem cuidar do ambiente",
+          "as ações do cotidiano não fazem diferença"
+        ],
+        "respostaCorreta": "o cuidado ambiental depende de atitudes conscientes",
+        "explicacao": "A consciência ambiental envolve escolhas individuais e coletivas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

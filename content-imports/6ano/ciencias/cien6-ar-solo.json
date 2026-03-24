@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-ar-solo",
+    "titulo": "Ar, atmosfera e solo",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Ambiente terrestre",
+    "resumo": [
+      "O ar faz parte da atmosfera terrestre e é essencial para a vida.",
+      "A atmosfera ajuda a proteger o planeta e influencia o clima.",
+      "O solo é importante para o desenvolvimento de plantas e para muitos seres vivos.",
+      "O ar e o solo podem ser afetados pela poluição e pelo uso inadequado.",
+      "Cuidar do ambiente ajuda a preservar a vida."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Importância do ar",
+        "texto": "O ar está presente ao nosso redor e contém gases importantes para a vida, como o oxigênio. Ele participa da respiração dos seres vivos e também influencia fenômenos atmosféricos.",
+        "dica": "Mesmo sem enxergar o ar, percebemos sua presença em várias situações do cotidiano."
+      },
+      {
+        "subtitulo": "Função da atmosfera",
+        "texto": "A atmosfera é a camada de gases que envolve a Terra. Ela ajuda a proteger o planeta e participa do equilíbrio térmico e climático, além de permitir a existência da vida como conhecemos.",
+        "dica": "Pense na atmosfera como uma grande camada protetora ao redor do planeta."
+      },
+      {
+        "subtitulo": "Solo e vida",
+        "texto": "O solo abriga muitos organismos e fornece suporte e nutrientes para as plantas. Sua conservação é importante para a agricultura, para os ecossistemas e para a vida humana.",
+        "dica": "Quando o solo é degradado, muitos seres vivos também são prejudicados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o solo é importante para as plantas.",
+        "passos": [
+          "Ele sustenta as raízes.",
+          "Fornece água e nutrientes.",
+          "Permite o desenvolvimento da planta."
+        ],
+        "resposta": "O solo é importante porque sustenta e nutre as plantas."
+      },
+      {
+        "enunciado": "Explique por que o ar é importante para muitos seres vivos.",
+        "passos": [
+          "No ar há gases importantes, como o oxigênio.",
+          "Muitos seres vivos dependem dele para a respiração.",
+          "Sem ar adequado, a vida seria prejudicada."
+        ],
+        "resposta": "O ar é importante porque participa de processos essenciais à vida."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-ar-solo-ex-01",
+        "enunciado": "A camada de gases que envolve a Terra chama-se:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crosta",
+          "atmosfera",
+          "oceano",
+          "núcleo"
+        ],
+        "respostaCorreta": "atmosfera",
+        "explicacao": "A atmosfera é a camada gasosa que envolve o planeta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-02",
+        "enunciado": "O ar é importante para muitos seres vivos porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participa da respiração",
+          "substitui o alimento",
+          "impede o crescimento das plantas",
+          "não influencia o ambiente"
+        ],
+        "respostaCorreta": "participa da respiração",
+        "explicacao": "O ar contém gases importantes para a respiração de muitos seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-03",
+        "enunciado": "Qual alternativa apresenta uma função importante do solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sustentar plantas",
+          "produzir luz própria",
+          "substituir a água",
+          "impedir a vida microscópica"
+        ],
+        "respostaCorreta": "sustentar plantas",
+        "explicacao": "O solo oferece suporte e nutrientes para as plantas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-04",
+        "enunciado": "Qual alternativa apresenta um problema ambiental relacionado ao ar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poluição do ar",
+          "fotossíntese",
+          "condensação do vapor",
+          "rotação da Terra"
+        ],
+        "respostaCorreta": "poluição do ar",
+        "explicacao": "A poluição do ar prejudica a saúde e o ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não abriga nenhum ser vivo.",
+          "É inútil para as plantas.",
+          "Pode ser degradado por ações humanas.",
+          "Não tem relação com agricultura."
+        ],
+        "respostaCorreta": "Pode ser degradado por ações humanas.",
+        "explicacao": "O uso inadequado do solo pode causar degradação e prejuízos ambientais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-ex-06",
+        "enunciado": "Qual alternativa ajuda a preservar o solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desmatamento intenso",
+          "descarte incorreto de lixo",
+          "conservação e uso responsável",
+          "queimadas frequentes"
+        ],
+        "respostaCorreta": "conservação e uso responsável",
+        "explicacao": "Cuidar do solo ajuda a manter a vida e a produção de alimentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-ex-07",
+        "enunciado": "Qual alternativa está correta sobre a atmosfera?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não tem relação com a vida na Terra.",
+          "Ajuda a proteger o planeta.",
+          "É formada apenas por água líquida.",
+          "Existe somente nas cidades."
+        ],
+        "respostaCorreta": "Ajuda a proteger o planeta.",
+        "explicacao": "A atmosfera exerce importante função protetora e ambiental.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-ex-08",
+        "enunciado": "Um aluno afirmou que o solo não tem importância para os seres vivos. Essa fala está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque o solo é importante para muitos organismos e plantas",
+          "correta, porque só a água importa",
+          "incorreta, porque o solo existe apenas em desertos"
+        ],
+        "respostaCorreta": "incorreta, porque o solo é importante para muitos organismos e plantas",
+        "explicacao": "O solo abriga organismos e sustenta vegetais, sendo essencial para a vida.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-09",
+        "enunciado": "Qual alternativa apresenta apenas elementos do ambiente físico terrestre estudados neste tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ar e solo",
+          "tecido e órgão",
+          "planeta e célula",
+          "fungo e músculo"
+        ],
+        "respostaCorreta": "ar e solo",
+        "explicacao": "Ar e solo fazem parte do ambiente físico terrestre abordado neste tema.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ar-solo-ex-10",
+        "enunciado": "Cuidar do ar e do solo é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não há relação com a vida",
+          "esses elementos influenciam a saúde e os ecossistemas",
+          "apenas o ar importa",
+          "apenas o solo importa"
+        ],
+        "respostaCorreta": "esses elementos influenciam a saúde e os ecossistemas",
+        "explicacao": "Ar e solo saudáveis são fundamentais para a vida e o equilíbrio ambiental.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-ar-solo-sim-01",
+        "enunciado": "Qual alternativa apresenta uma consequência possível da poluição do ar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "melhora automática da saúde",
+          "prejuízos ao ambiente e à saúde",
+          "aumento da fertilidade do solo",
+          "redução do uso de água"
+        ],
+        "respostaCorreta": "prejuízos ao ambiente e à saúde",
+        "explicacao": "A poluição do ar pode afetar tanto os seres vivos quanto o equilíbrio ambiental.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A atmosfera não tem nenhuma função para a Terra' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque a atmosfera ajuda a proteger o planeta.",
+          "A frase é verdadeira apenas em regiões frias.",
+          "A frase é falsa, porque atmosfera é o nome do solo."
+        ],
+        "respostaCorreta": "A frase é falsa, porque a atmosfera ajuda a proteger o planeta.",
+        "explicacao": "A atmosfera é importante para a proteção e para o equilíbrio do planeta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-sim-03",
+        "enunciado": "Qual alternativa apresenta uma ação de cuidado com o solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "descarte incorreto de resíduos",
+          "queimadas frequentes",
+          "preservação e uso responsável",
+          "retirada excessiva da vegetação"
+        ],
+        "respostaCorreta": "preservação e uso responsável",
+        "explicacao": "Essa atitude contribui para a conservação do solo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ar-solo-sim-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o solo e as plantas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O solo não interfere no desenvolvimento das plantas.",
+          "O solo sustenta as raízes e fornece nutrientes.",
+          "As plantas vivem melhor sem solo.",
+          "O solo serve apenas para construção."
+        ],
+        "respostaCorreta": "O solo sustenta as raízes e fornece nutrientes.",
+        "explicacao": "Essa é uma função essencial do solo para o desenvolvimento vegetal.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-ar-solo-sim-05",
+        "enunciado": "Qual alternativa apresenta apenas elementos importantes para o equilíbrio ambiental estudado neste tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ar, solo e cuidado ambiental",
+          "plástico, metal e fumaça",
+          "cimento, vidro e óleo",
+          "motores, tinta e ferrugem"
+        ],
+        "respostaCorreta": "ar, solo e cuidado ambiental",
+        "explicacao": "Esses elementos e atitudes estão diretamente ligados ao equilíbrio do ambiente terrestre.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

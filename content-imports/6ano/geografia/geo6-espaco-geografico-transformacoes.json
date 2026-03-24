@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo6-espaco-geografico-transformacoes",
+    "titulo": "Espaço geográfico e transformações",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Fundamentos da Geografia",
+    "resumo": [
+      "O espaço geográfico é resultado da relação entre natureza e sociedade.",
+      "As ações humanas transformam o espaço ao longo do tempo.",
+      "Paisagens, atividades econômicas, transportes e construções fazem parte dessas transformações.",
+      "O espaço geográfico não é estático; ele muda conforme a vida em sociedade.",
+      "Estudar esse tema ajuda a compreender como os lugares se organizam e se modificam."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é espaço geográfico",
+        "texto": "O espaço geográfico é o espaço vivido e transformado pelas pessoas em relação com a natureza. Ele inclui elementos naturais, como rios e relevo, e elementos humanos, como cidades, estradas, plantações e outras formas de ocupação.",
+        "dica": "Espaço geográfico não é apenas natureza nem apenas cidade; é a relação entre ambos."
+      },
+      {
+        "subtitulo": "Transformações no espaço",
+        "texto": "As sociedades modificam o espaço geográfico por meio do trabalho, da construção de moradias, da circulação, da produção e de outras atividades. Essas transformações podem ser observadas nas paisagens e no modo como os lugares se organizam.",
+        "dica": "Sempre que houver ação humana sobre o lugar, há transformação do espaço."
+      },
+      {
+        "subtitulo": "Mudanças ao longo do tempo",
+        "texto": "O espaço geográfico muda ao longo do tempo. Novas atividades, crescimento das cidades, uso do solo, tecnologias e formas de circulação alteram continuamente os lugares, mostrando que o espaço não é fixo.",
+        "dica": "O espaço geográfico está sempre em construção e transformação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como a construção de uma estrada transforma o espaço geográfico.",
+        "passos": [
+          "A estrada modifica a paisagem do lugar.",
+          "Ela facilita a circulação de pessoas e mercadorias.",
+          "Assim, altera a organização do espaço."
+        ],
+        "resposta": "A construção de uma estrada transforma o espaço geográfico ao modificar a paisagem e a circulação."
+      },
+      {
+        "enunciado": "Relacione natureza, sociedade e espaço geográfico.",
+        "passos": [
+          "A natureza oferece elementos como rios, solo e relevo.",
+          "A sociedade utiliza e transforma esses elementos.",
+          "Dessa relação surge o espaço geográfico."
+        ],
+        "resposta": "O espaço geográfico resulta da interação entre natureza e ação humana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-01",
+        "enunciado": "O espaço geográfico é formado pela relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "natureza e sociedade",
+          "somente oceanos e desertos",
+          "apenas letras e números",
+          "exclusivamente montanhas e florestas"
+        ],
+        "respostaCorreta": "natureza e sociedade",
+        "explicacao": "O espaço geográfico resulta da interação entre elementos naturais e ação humana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-02",
+        "enunciado": "Qual alternativa apresenta um exemplo de transformação do espaço geográfico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "construção de uma estrada",
+          "movimento dos planetas",
+          "somente a chuva caindo",
+          "apenas a luz do Sol"
+        ],
+        "respostaCorreta": "construção de uma estrada",
+        "explicacao": "A construção de estradas é uma ação humana que transforma a paisagem e a organização do espaço.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-03",
+        "enunciado": "As ações humanas transformam o espaço geográfico por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "trabalho, construção e circulação",
+          "somente o giro da Terra",
+          "apenas a formação de nuvens",
+          "somente o crescimento das marés"
+        ],
+        "respostaCorreta": "trabalho, construção e circulação",
+        "explicacao": "Essas atividades participam diretamente da transformação do espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-04",
+        "enunciado": "Qual alternativa está correta sobre o espaço geográfico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele muda ao longo do tempo.",
+          "Ele nunca sofre transformações.",
+          "Ele existe sem relação com a sociedade.",
+          "Ele é formado apenas por elementos naturais."
+        ],
+        "respostaCorreta": "Ele muda ao longo do tempo.",
+        "explicacao": "O espaço geográfico se transforma conforme as ações humanas e as dinâmicas da sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como os lugares se organizam e se transformam",
+          "somente as regras de acentuação",
+          "apenas a função dos rins",
+          "exclusivamente a história das vacinas"
+        ],
+        "respostaCorreta": "como os lugares se organizam e se transformam",
+        "explicacao": "O estudo do espaço geográfico ajuda a entender a organização e a transformação dos lugares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O espaço geográfico resulta da relação entre natureza e sociedade.",
+          "As ações humanas podem transformar o espaço.",
+          "O espaço geográfico é completamente imóvel e sem mudanças.",
+          "Paisagens e construções fazem parte do espaço geográfico."
+        ],
+        "respostaCorreta": "O espaço geográfico é completamente imóvel e sem mudanças.",
+        "explicacao": "O espaço geográfico está em constante transformação ao longo do tempo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-espaco-geografico-transformacoes-sim-01",
+        "enunciado": "Ao observar rios, estradas, cidades e plantações em um mesmo lugar, o aluno pode reconhecer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o espaço geográfico como resultado da relação entre natureza e sociedade",
+          "somente um espaço natural sem ação humana",
+          "apenas uma paisagem sem história",
+          "um lugar sem transformação"
+        ],
+        "respostaCorreta": "o espaço geográfico como resultado da relação entre natureza e sociedade",
+        "explicacao": "Esses elementos mostram a presença conjunta da natureza e da ação humana no espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-espaco-geografico-transformacoes-sim-02",
+        "enunciado": "A principal ideia desse tema é que o espaço geográfico:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é transformado continuamente pelas sociedades",
+          "permanece sempre igual",
+          "não tem relação com o trabalho humano",
+          "depende apenas do clima"
+        ],
+        "respostaCorreta": "é transformado continuamente pelas sociedades",
+        "explicacao": "O espaço geográfico muda por causa das ações humanas e das dinâmicas sociais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

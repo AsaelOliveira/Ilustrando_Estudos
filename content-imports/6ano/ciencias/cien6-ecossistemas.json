@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-ecossistemas",
+    "titulo": "Ecossistemas e cadeias alimentares",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e ambiente",
+    "resumo": [
+      "Ecossistema é o conjunto de seres vivos e elementos não vivos em interação.",
+      "Os seres vivos dependem uns dos outros e do ambiente para sobreviver.",
+      "Produtores, consumidores e decompositores participam das cadeias alimentares.",
+      "As cadeias alimentares mostram relações de alimentação entre os seres vivos.",
+      "Desequilíbrios em um ecossistema podem afetar muitos organismos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é ecossistema",
+        "texto": "Um ecossistema reúne os seres vivos de um local e os elementos não vivos com os quais eles interagem, como água, solo, luz e ar. Tudo funciona de forma relacionada.",
+        "dica": "Pense no ecossistema como uma rede de relações entre vida e ambiente."
+      },
+      {
+        "subtitulo": "Cadeia alimentar",
+        "texto": "A cadeia alimentar mostra quem serve de alimento para quem. Em geral, começa com os produtores, passa pelos consumidores e termina com a ação dos decompositores.",
+        "dica": "Observe a direção da alimentação para entender a sequência da cadeia."
+      },
+      {
+        "subtitulo": "Funções dos organismos",
+        "texto": "Os produtores, como as plantas, fabricam seu próprio alimento. Os consumidores obtêm energia ao se alimentar de outros seres vivos. Os decompositores atuam sobre restos de seres vivos e ajudam na reciclagem da matéria.",
+        "dica": "Cada grupo tem uma função importante no equilíbrio do ecossistema."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a sequência capim, gafanhoto e sapo.",
+        "passos": [
+          "O capim é produtor.",
+          "O gafanhoto se alimenta do capim e é consumidor.",
+          "O sapo se alimenta do gafanhoto e também é consumidor."
+        ],
+        "resposta": "Essa sequência faz parte de uma cadeia alimentar simples."
+      },
+      {
+        "enunciado": "Explique a importância dos decompositores.",
+        "passos": [
+          "Eles atuam sobre restos de seres vivos.",
+          "Ajudam a devolver nutrientes ao ambiente.",
+          "Contribuem para o equilíbrio do ecossistema."
+        ],
+        "resposta": "Os decompositores reciclam a matéria e mantêm o funcionamento do ecossistema."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-ecossistemas-ex-01",
+        "enunciado": "O que é um ecossistema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um grupo formado apenas por animais",
+          "o conjunto de seres vivos e elementos não vivos em interação",
+          "um local sem água e sem solo",
+          "um ambiente formado apenas por plantas"
+        ],
+        "respostaCorreta": "o conjunto de seres vivos e elementos não vivos em interação",
+        "explicacao": "Essa é a definição correta de ecossistema.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-02",
+        "enunciado": "Em uma cadeia alimentar, as plantas são geralmente classificadas como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "consumidores",
+          "predadores",
+          "produtores",
+          "decompositores"
+        ],
+        "respostaCorreta": "produtores",
+        "explicacao": "As plantas produzem seu próprio alimento, por isso são produtoras.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-03",
+        "enunciado": "Qual alternativa apresenta corretamente um consumidor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "capim",
+          "alga",
+          "coelho",
+          "musgo"
+        ],
+        "respostaCorreta": "coelho",
+        "explicacao": "O coelho se alimenta de outros seres vivos, por isso é consumidor.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-04",
+        "enunciado": "Os decompositores são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzem luz para o ambiente",
+          "reciclam a matéria orgânica",
+          "substituem todos os produtores",
+          "vivem sem relação com outros seres"
+        ],
+        "respostaCorreta": "reciclam a matéria orgânica",
+        "explicacao": "Os decompositores ajudam a devolver nutrientes ao ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-05",
+        "enunciado": "Qual sequência representa uma cadeia alimentar coerente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "gavião, capim e gafanhoto",
+          "capim, gafanhoto e sapo",
+          "sapo, capim e gafanhoto",
+          "fungo, sapo e planta"
+        ],
+        "respostaCorreta": "capim, gafanhoto e sapo",
+        "explicacao": "A sequência segue a relação alimentar correta entre produtor e consumidores.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-06",
+        "enunciado": "Qual alternativa apresenta apenas elementos não vivos de um ecossistema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, solo e luz",
+          "planta, ar e água",
+          "animal, solo e luz",
+          "fungo, rocha e ar"
+        ],
+        "respostaCorreta": "água, solo e luz",
+        "explicacao": "Esses três fatores são elementos não vivos do ecossistema.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-07",
+        "enunciado": "Qual alternativa está correta sobre os consumidores?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fabricam seu próprio alimento como as plantas",
+          "obtêm energia ao se alimentar de outros seres vivos",
+          "não dependem do ecossistema",
+          "são sempre bactérias"
+        ],
+        "respostaCorreta": "obtêm energia ao se alimentar de outros seres vivos",
+        "explicacao": "Essa é a função dos consumidores nas cadeias alimentares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-08",
+        "enunciado": "Se um ecossistema perde grande parte de seus produtores, o que pode acontecer?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nada muda",
+          "o equilíbrio pode ser prejudicado",
+          "os consumidores deixam de depender de alimento",
+          "os decompositores desaparecem imediatamente"
+        ],
+        "respostaCorreta": "o equilíbrio pode ser prejudicado",
+        "explicacao": "Os produtores são a base de muitas cadeias alimentares.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-09",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os ecossistemas são formados apenas por seres vivos.",
+          "Cadeias alimentares mostram relações de alimentação.",
+          "Produtores não fazem parte das cadeias alimentares.",
+          "Decompositores não atuam na natureza."
+        ],
+        "respostaCorreta": "Cadeias alimentares mostram relações de alimentação.",
+        "explicacao": "Essa é uma função importante das cadeias alimentares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-ex-10",
+        "enunciado": "Um aluno disse que fungos são produtores. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque fungos atuam principalmente como decompositores",
+          "correta, porque fungos fabricam o próprio alimento como as plantas",
+          "incorreta, porque fungos não são seres vivos"
+        ],
+        "respostaCorreta": "incorreta, porque fungos atuam principalmente como decompositores",
+        "explicacao": "Fungos têm papel importante na decomposição da matéria orgânica.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-ecossistemas-sim-01",
+        "enunciado": "Qual alternativa apresenta corretamente os três grandes grupos de uma cadeia alimentar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "luz, água e solo",
+          "produtores, consumidores e decompositores",
+          "órgãos, tecidos e células",
+          "pedras, ar e fungos"
+        ],
+        "respostaCorreta": "produtores, consumidores e decompositores",
+        "explicacao": "Esses grupos participam das relações alimentares no ecossistema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Em um ecossistema, seres vivos e elementos não vivos não se relacionam' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque há interação entre eles.",
+          "A frase só vale para florestas.",
+          "A frase só vale para ambientes aquáticos."
+        ],
+        "respostaCorreta": "A frase é falsa, porque há interação entre eles.",
+        "explicacao": "A interação entre vida e ambiente é essencial em qualquer ecossistema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-sim-03",
+        "enunciado": "Em uma cadeia com capim, coelho e raposa, qual é o consumidor que se alimenta diretamente do produtor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "raposa",
+          "coelho",
+          "capim",
+          "fungo"
+        ],
+        "respostaCorreta": "coelho",
+        "explicacao": "O coelho se alimenta do capim, que é o produtor da cadeia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-ecossistemas-sim-04",
+        "enunciado": "Qual alternativa apresenta um elemento não vivo que influencia os seres vivos de um ecossistema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rocha",
+          "solo",
+          "luz solar",
+          "todas as alternativas anteriores"
+        ],
+        "respostaCorreta": "todas as alternativas anteriores",
+        "explicacao": "Todos esses elementos podem influenciar o funcionamento do ecossistema.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-ecossistemas-sim-05",
+        "enunciado": "Qual alternativa apresenta uma consequência possível do desequilíbrio em um ecossistema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nenhuma mudança entre os seres vivos",
+          "alteração nas cadeias alimentares",
+          "fim da relação entre ambiente e vida",
+          "desaparecimento de toda a água da Terra"
+        ],
+        "respostaCorreta": "alteração nas cadeias alimentares",
+        "explicacao": "Mudanças em um ecossistema podem afetar diversos organismos e suas relações alimentares.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

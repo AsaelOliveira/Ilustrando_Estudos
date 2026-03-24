@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-colonizacao-da-america-introdutoria",
+    "titulo": "Colonização da América: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Expansão europeia e seus efeitos",
+    "resumo": [
+      "A colonização da América esteve ligada à expansão marítima europeia.",
+      "Esse processo envolveu ocupação de territórios e contato entre diferentes povos.",
+      "Os interesses econômicos tiveram papel importante na colonização.",
+      "A colonização provocou mudanças profundas nas sociedades americanas.",
+      "Estudar esse tema ajuda a compreender relações históricas de poder e transformação cultural."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a colonização",
+        "texto": "A colonização da América foi um processo em que povos europeus ocuparam territórios americanos e estabeleceram formas de controle político, econômico e social. Esse movimento teve relação com a expansão marítima e com interesses de exploração e domínio.",
+        "dica": "Colonização envolve ocupação, controle e transformação dos territórios."
+      },
+      {
+        "subtitulo": "Contato entre povos",
+        "texto": "A colonização colocou em contato europeus, povos indígenas e, mais tarde, populações africanas trazidas à força para o continente. Esses encontros ocorreram em contextos marcados por conflitos, desigualdades e profundas mudanças culturais.",
+        "dica": "Ao estudar colonização, observe que ela envolveu diferentes povos e relações de poder."
+      },
+      {
+        "subtitulo": "Consequências históricas",
+        "texto": "A colonização da América provocou alterações na organização do trabalho, na ocupação do território, na cultura e nas relações sociais. Seus efeitos foram duradouros e influenciaram a formação histórica de vários países do continente.",
+        "dica": "A colonização não foi um fato isolado; seus efeitos se prolongaram no tempo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a colonização da América está ligada à expansão marítima.",
+        "passos": [
+          "As viagens marítimas levaram europeus a novos territórios.",
+          "Depois desses contatos, iniciou-se a ocupação e o controle de áreas americanas.",
+          "Por isso, a colonização está ligada à expansão marítima."
+        ],
+        "resposta": "A colonização da América foi favorecida pelas navegações e pela expansão europeia."
+      },
+      {
+        "enunciado": "Relacione colonização e transformação das sociedades americanas.",
+        "passos": [
+          "A colonização alterou a ocupação dos territórios.",
+          "Também provocou mudanças sociais, culturais e econômicas.",
+          "Essas mudanças afetaram profundamente as sociedades americanas."
+        ],
+        "resposta": "A colonização transformou a história de diferentes povos da América."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-01",
+        "enunciado": "A colonização da América esteve ligada principalmente à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "expansão marítima europeia",
+          "industrialização do século XX",
+          "formação do sistema solar",
+          "invenção da internet"
+        ],
+        "respostaCorreta": "expansão marítima europeia",
+        "explicacao": "As viagens marítimas abriram caminho para a ocupação e o controle de territórios americanos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-02",
+        "enunciado": "A colonização envolveu:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ocupação e controle de territórios",
+          "apenas observação de paisagens",
+          "somente estudos astronômicos",
+          "fim das relações entre povos"
+        ],
+        "respostaCorreta": "ocupação e controle de territórios",
+        "explicacao": "Colonizar significou ocupar territórios e exercer formas de domínio sobre eles.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-03",
+        "enunciado": "Qual alternativa apresenta um fator importante da colonização da América?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interesses econômicos",
+          "ausência de navegação",
+          "fim do contato entre povos",
+          "desaparecimento dos oceanos"
+        ],
+        "respostaCorreta": "interesses econômicos",
+        "explicacao": "A exploração econômica foi um fator importante no processo colonial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-04",
+        "enunciado": "A colonização colocou em contato:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diferentes povos e culturas",
+          "somente populações isoladas do mesmo grupo",
+          "apenas animais e plantas",
+          "somente navegadores sem território"
+        ],
+        "respostaCorreta": "diferentes povos e culturas",
+        "explicacao": "O processo colonial envolveu contatos entre europeus, indígenas e africanos, entre outros grupos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-05",
+        "enunciado": "Ao estudar a colonização da América, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela provocou mudanças profundas nas sociedades americanas",
+          "não teve efeitos duradouros",
+          "foi um processo sem conflitos",
+          "não alterou o território nem a cultura"
+        ],
+        "respostaCorreta": "ela provocou mudanças profundas nas sociedades americanas",
+        "explicacao": "A colonização alterou relações sociais, culturais, econômicas e territoriais no continente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre a colonização da América?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Teve relação com a expansão marítima.",
+          "Envolveu ocupação de territórios.",
+          "Produziu transformações históricas importantes.",
+          "Foi um processo sem relação com poder e economia."
+        ],
+        "respostaCorreta": "Foi um processo sem relação com poder e economia.",
+        "explicacao": "Poder e interesses econômicos estiveram fortemente ligados à colonização.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-sim-01",
+        "enunciado": "Ao relacionar expansão marítima, ocupação territorial e contato entre povos, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o processo de colonização da América",
+          "o funcionamento do sistema nervoso",
+          "a divisão silábica",
+          "a formação das nuvens"
+        ],
+        "respostaCorreta": "o processo de colonização da América",
+        "explicacao": "Esses elementos fazem parte do contexto histórico da colonização americana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-colonizacao-da-america-introdutoria-sim-02",
+        "enunciado": "A principal importância histórica desse tema está em compreender que a colonização:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformou profundamente territórios e sociedades americanas",
+          "não alterou as populações do continente",
+          "foi um processo sem consequências duradouras",
+          "aconteceu sem relações de poder"
+        ],
+        "respostaCorreta": "transformou profundamente territórios e sociedades americanas",
+        "explicacao": "A colonização deixou efeitos duradouros na história das Américas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

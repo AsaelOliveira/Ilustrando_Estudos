@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-alimentacao-e-nutrientes",
+    "titulo": "Alimentação e nutrientes",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "A alimentação é importante para o crescimento, a energia e a saúde do corpo.",
+      "Os alimentos fornecem nutrientes necessários ao organismo.",
+      "Uma alimentação equilibrada contribui para o bom funcionamento do corpo.",
+      "Diferentes alimentos podem oferecer nutrientes distintos.",
+      "Estudar esse tema ajuda a compreender a relação entre alimentação e qualidade de vida."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função da alimentação",
+        "texto": "A alimentação fornece ao organismo energia e substâncias importantes para o crescimento, a manutenção e o funcionamento do corpo. Comer bem é uma parte importante dos cuidados com a saúde.",
+        "dica": "Alimentar-se não é apenas matar a fome; é também cuidar do organismo."
+      },
+      {
+        "subtitulo": "O que são nutrientes",
+        "texto": "Nutrientes são substâncias presentes nos alimentos e utilizadas pelo organismo. Eles participam de diferentes funções do corpo, por isso a alimentação precisa ser variada e equilibrada.",
+        "dica": "Nem todos os alimentos oferecem os mesmos nutrientes na mesma quantidade."
+      },
+      {
+        "subtitulo": "Equilíbrio alimentar",
+        "texto": "Uma alimentação equilibrada envolve variedade, moderação e atenção à qualidade dos alimentos. Bons hábitos alimentares contribuem para o desenvolvimento saudável e para a prevenção de problemas relacionados à saúde.",
+        "dica": "Equilíbrio alimentar está ligado à variedade e à escolha consciente dos alimentos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a alimentação é importante para o corpo.",
+        "passos": [
+          "Os alimentos fornecem energia e nutrientes.",
+          "Essas substâncias ajudam no crescimento e no funcionamento do organismo.",
+          "Por isso, a alimentação é essencial para a saúde."
+        ],
+        "resposta": "A alimentação é importante porque ajuda o corpo a funcionar, crescer e se manter saudável."
+      },
+      {
+        "enunciado": "Relacione variedade alimentar e saúde.",
+        "passos": [
+          "Diferentes alimentos oferecem nutrientes distintos.",
+          "Uma alimentação variada aumenta as chances de obter esses nutrientes.",
+          "Isso contribui para uma vida mais saudável."
+        ],
+        "resposta": "A variedade alimentar ajuda o organismo a receber diferentes nutrientes importantes."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-01",
+        "enunciado": "A alimentação é importante porque fornece ao organismo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "energia e nutrientes",
+          "somente vento",
+          "apenas pedras",
+          "somente luz solar"
+        ],
+        "respostaCorreta": "energia e nutrientes",
+        "explicacao": "Os alimentos fornecem substâncias essenciais ao funcionamento do corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-02",
+        "enunciado": "Nutrientes são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substâncias presentes nos alimentos",
+          "tipos de continentes",
+          "partes das montanhas",
+          "somente nomes de vitaminas inventadas"
+        ],
+        "respostaCorreta": "substâncias presentes nos alimentos",
+        "explicacao": "Os nutrientes são usados pelo organismo em diferentes funções.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-03",
+        "enunciado": "Uma alimentação equilibrada contribui para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o bom funcionamento do corpo",
+          "o desaparecimento da digestão",
+          "a eliminação de todos os nutrientes",
+          "a falta de energia no organismo"
+        ],
+        "respostaCorreta": "o bom funcionamento do corpo",
+        "explicacao": "Uma alimentação equilibrada ajuda o corpo a funcionar melhor e a se desenvolver com saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-04",
+        "enunciado": "Qual alternativa apresenta uma ideia correta sobre alimentação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diferentes alimentos podem oferecer nutrientes diferentes.",
+          "Todos os alimentos têm exatamente a mesma composição.",
+          "A alimentação não interfere na saúde.",
+          "Comer bem não tem relação com crescimento."
+        ],
+        "respostaCorreta": "Diferentes alimentos podem oferecer nutrientes diferentes.",
+        "explicacao": "A variedade dos alimentos ajuda a oferecer diferentes nutrientes ao corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-05",
+        "enunciado": "Ao estudar alimentação e nutrientes, o aluno compreende melhor a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação e qualidade de vida",
+          "somente rochas e montanhas",
+          "apenas clima e relevo",
+          "somente planetas e estrelas"
+        ],
+        "respostaCorreta": "alimentação e qualidade de vida",
+        "explicacao": "Esse tema ajuda a entender como os hábitos alimentares influenciam a saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alimentos podem fornecer nutrientes ao organismo.",
+          "Uma alimentação equilibrada ajuda a saúde.",
+          "A variedade alimentar pode ser importante.",
+          "A alimentação não tem qualquer relação com o funcionamento do corpo."
+        ],
+        "respostaCorreta": "A alimentação não tem qualquer relação com o funcionamento do corpo.",
+        "explicacao": "A alimentação tem relação direta com energia, crescimento e funcionamento do organismo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-alimentacao-e-nutrientes-sim-01",
+        "enunciado": "Ao relacionar energia, crescimento e saúde, o aluno identifica a importância da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação",
+          "erosão",
+          "rotação terrestre",
+          "expansão marítima"
+        ],
+        "respostaCorreta": "alimentação",
+        "explicacao": "A alimentação fornece energia e nutrientes para o organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-alimentacao-e-nutrientes-sim-02",
+        "enunciado": "A principal ideia desse tema é que o corpo humano:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "precisa de alimentos variados e nutritivos para funcionar bem",
+          "não depende da alimentação para viver",
+          "usa somente um tipo de alimento",
+          "dispensa nutrientes para crescer"
+        ],
+        "respostaCorreta": "precisa de alimentos variados e nutritivos para funcionar bem",
+        "explicacao": "Alimentação equilibrada e variedade ajudam no funcionamento saudável do organismo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

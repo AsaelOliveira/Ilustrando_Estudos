@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-renascimento-cultural-introdutorio",
+    "titulo": "Renascimento cultural: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Transformações da Idade Moderna",
+    "resumo": [
+      "O Renascimento cultural foi um movimento importante da história europeia.",
+      "Esse processo valorizou a arte, o conhecimento e o ser humano.",
+      "Houve grande interesse por estudos, invenções e produções artísticas.",
+      "O Renascimento marcou mudanças na forma de pensar e representar o mundo.",
+      "Seu estudo ajuda a compreender transformações da passagem para a Idade Moderna."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi o Renascimento",
+        "texto": "O Renascimento cultural foi um movimento histórico que valorizou o conhecimento, a arte e novas formas de observar o mundo. Ele se destacou em várias regiões da Europa e influenciou profundamente a produção cultural e intelectual.",
+        "dica": "Ao pensar em Renascimento, associe arte, conhecimento e novas ideias."
+      },
+      {
+        "subtitulo": "Valorização do ser humano",
+        "texto": "Uma característica importante do Renascimento foi a valorização do ser humano, de sua capacidade de pensar, criar e transformar. Isso influenciou estudos, obras artísticas e formas de compreender a realidade.",
+        "dica": "A valorização do ser humano é uma marca central desse movimento."
+      },
+      {
+        "subtitulo": "Mudanças culturais",
+        "texto": "O Renascimento estimulou mudanças nas artes, nos estudos e na circulação de ideias. Pinturas, esculturas, invenções e investigações científicas ganharam destaque, contribuindo para um período de intensa transformação cultural.",
+        "dica": "Não veja o Renascimento apenas como arte; ele também envolveu ciência e novas formas de pensar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o Renascimento cultural é associado à valorização do conhecimento.",
+        "passos": [
+          "Nesse período, houve grande interesse por estudos e descobertas.",
+          "Artistas e pensadores produziram obras e reflexões importantes.",
+          "Por isso, o movimento ficou ligado à valorização do conhecimento."
+        ],
+        "resposta": "O Renascimento cultural valorizou o conhecimento ao estimular estudos, arte e novas ideias."
+      },
+      {
+        "enunciado": "Relacione arte e transformação cultural no Renascimento.",
+        "passos": [
+          "As artes ganharam grande destaque nesse período.",
+          "Elas expressavam novas formas de observar o ser humano e o mundo.",
+          "Assim, ajudaram a marcar as mudanças culturais do Renascimento."
+        ],
+        "resposta": "A arte renascentista foi uma expressão importante das transformações culturais da época."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-01",
+        "enunciado": "O Renascimento cultural foi um movimento ligado principalmente à valorização da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "arte e do conhecimento",
+          "produção de máquinas a vapor",
+          "vida nas fábricas modernas",
+          "organização dos feudos"
+        ],
+        "respostaCorreta": "arte e do conhecimento",
+        "explicacao": "O Renascimento valorizou fortemente a arte, os estudos e novas ideias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-02",
+        "enunciado": "Uma característica importante do Renascimento cultural foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a valorização do ser humano",
+          "o abandono de toda produção artística",
+          "o fim dos estudos científicos",
+          "a recusa a qualquer mudança cultural"
+        ],
+        "respostaCorreta": "a valorização do ser humano",
+        "explicacao": "A valorização do ser humano foi uma marca importante desse movimento histórico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-03",
+        "enunciado": "O Renascimento contribuiu para mudanças em áreas como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "arte, estudos e ciência",
+          "somente agricultura feudal",
+          "apenas guerras medievais",
+          "exclusivamente formação de rios"
+        ],
+        "respostaCorreta": "arte, estudos e ciência",
+        "explicacao": "O movimento renascentista teve efeitos em diferentes campos da vida cultural e intelectual.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-04",
+        "enunciado": "Ao estudar o Renascimento, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ele marcou novas formas de pensar e representar o mundo",
+          "ele impediu o desenvolvimento artístico",
+          "ele foi um processo sem impacto cultural",
+          "ele aconteceu apenas fora da Europa"
+        ],
+        "respostaCorreta": "ele marcou novas formas de pensar e representar o mundo",
+        "explicacao": "O Renascimento contribuiu para transformações culturais importantes na Europa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-05",
+        "enunciado": "Qual alternativa está incorreta sobre o Renascimento cultural?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Valorizou a arte e o conhecimento.",
+          "Teve relação com transformações culturais.",
+          "Desestimulou totalmente os estudos e as invenções.",
+          "Ajudou a marcar a passagem para a Idade Moderna."
+        ],
+        "respostaCorreta": "Desestimulou totalmente os estudos e as invenções.",
+        "explicacao": "Na verdade, o Renascimento favoreceu o interesse por estudos, invenções e produção cultural.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-ex-06",
+        "enunciado": "A importância histórica do Renascimento cultural está ligada ao fato de que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estimulou transformações na arte e no pensamento",
+          "eliminou qualquer produção intelectual",
+          "proibiu novas formas de observação do mundo",
+          "manteve todas as ideias anteriores sem mudança"
+        ],
+        "respostaCorreta": "estimulou transformações na arte e no pensamento",
+        "explicacao": "O Renascimento marcou um período de intensa renovação cultural e intelectual.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-sim-01",
+        "enunciado": "Ao relacionar arte, ciência e valorização do ser humano, o aluno identifica características do:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Renascimento cultural",
+          "feudalismo",
+          "sistema digestório",
+          "ciclo da água"
+        ],
+        "respostaCorreta": "Renascimento cultural",
+        "explicacao": "Essas são características importantes do movimento renascentista.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-renascimento-cultural-introdutorio-sim-02",
+        "enunciado": "A principal contribuição do Renascimento cultural para a história foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estimular novas formas de produzir conhecimento e arte",
+          "impedir qualquer transformação cultural",
+          "eliminar o interesse por estudos",
+          "reduzir a importância da criatividade humana"
+        ],
+        "respostaCorreta": "estimular novas formas de produzir conhecimento e arte",
+        "explicacao": "O Renascimento foi importante por valorizar o pensamento, a arte e a capacidade criadora humana.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-nervoso-introdutorio",
+    "titulo": "Sistema nervoso: introdução",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema nervoso participa do controle e da coordenação de funções do corpo.",
+      "Cérebro, medula espinhal e nervos fazem parte desse sistema.",
+      "Ele ajuda o organismo a perceber estímulos e responder a eles.",
+      "O sistema nervoso está ligado a movimentos, sensações e tomada de decisões.",
+      "Estudar esse sistema ajuda a compreender a integração do corpo humano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema nervoso",
+        "texto": "O sistema nervoso participa do controle e da coordenação de diversas funções do corpo. Ele ajuda o organismo a perceber informações do ambiente, processá-las e responder de formas adequadas.",
+        "dica": "O sistema nervoso atua como uma rede de comando e comunicação do corpo."
+      },
+      {
+        "subtitulo": "Principais estruturas",
+        "texto": "Entre as principais estruturas do sistema nervoso estão o cérebro, a medula espinhal e os nervos. Essas partes trabalham em conjunto para transmitir informações, coordenar ações e contribuir para o funcionamento do organismo.",
+        "dica": "Ao estudar o sistema nervoso, pense em ligação entre percepção, comando e resposta."
+      },
+      {
+        "subtitulo": "Percepção e resposta",
+        "texto": "Quando sentimos dor, calor, frio ou tocamos algum objeto, o sistema nervoso participa da percepção desses estímulos. Ele também está envolvido nas respostas do corpo, como movimentos voluntários e reações rápidas.",
+        "dica": "Estímulo e resposta são ideias centrais para entender esse sistema."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como o corpo reage ao tocar uma superfície muito quente.",
+        "passos": [
+          "O sistema nervoso percebe o estímulo de calor.",
+          "Em seguida, envia informações que ajudam o corpo a reagir.",
+          "Isso pode levar a uma resposta rápida, como afastar a mão."
+        ],
+        "resposta": "O sistema nervoso ajuda o corpo a perceber o perigo e responder rapidamente."
+      },
+      {
+        "enunciado": "Relacione cérebro e coordenação do corpo.",
+        "passos": [
+          "O cérebro participa do comando de várias funções do organismo.",
+          "Ele ajuda a organizar respostas e movimentos.",
+          "Por isso, é uma estrutura central do sistema nervoso."
+        ],
+        "resposta": "O cérebro tem papel importante no controle e na coordenação do corpo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-01",
+        "enunciado": "O sistema nervoso participa principalmente do:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "controle e da coordenação de funções do corpo",
+          "crescimento das plantas",
+          "movimento dos planetas",
+          "desgaste das rochas"
+        ],
+        "respostaCorreta": "controle e da coordenação de funções do corpo",
+        "explicacao": "Essa é uma função essencial do sistema nervoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-02",
+        "enunciado": "Qual estrutura faz parte do sistema nervoso?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cérebro",
+          "estômago",
+          "bexiga",
+          "rim"
+        ],
+        "respostaCorreta": "cérebro",
+        "explicacao": "O cérebro é uma das principais estruturas do sistema nervoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-03",
+        "enunciado": "Além do cérebro, fazem parte do sistema nervoso:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "medula espinhal e nervos",
+          "pulmões e brônquios",
+          "rins e ureteres",
+          "estômago e intestinos"
+        ],
+        "respostaCorreta": "medula espinhal e nervos",
+        "explicacao": "Essas estruturas também compõem o sistema nervoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-04",
+        "enunciado": "Quando o corpo percebe dor ou calor, qual sistema participa desse processo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sistema nervoso",
+          "sistema solar",
+          "sistema digestório",
+          "sistema de relevo"
+        ],
+        "respostaCorreta": "sistema nervoso",
+        "explicacao": "O sistema nervoso participa da percepção de estímulos e da resposta do organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-05",
+        "enunciado": "Qual alternativa apresenta uma função do sistema nervoso?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "perceber estímulos e coordenar respostas",
+          "produzir urina",
+          "realizar a fotossíntese",
+          "formar rochas sedimentares"
+        ],
+        "respostaCorreta": "perceber estímulos e coordenar respostas",
+        "explicacao": "Essa é uma característica importante do funcionamento do sistema nervoso.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-06",
+        "enunciado": "Ao tocar uma superfície quente, o corpo reage rapidamente porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o sistema nervoso ajuda a perceber o estímulo e responder",
+          "o sistema digestório controla a situação",
+          "os pulmões fazem o corpo se mover",
+          "a pele funciona sozinha sem qualquer coordenação"
+        ],
+        "respostaCorreta": "o sistema nervoso ajuda a perceber o estímulo e responder",
+        "explicacao": "O sistema nervoso participa da percepção do estímulo e da resposta corporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-07",
+        "enunciado": "Qual alternativa está incorreta sobre o sistema nervoso?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele ajuda a coordenar funções do corpo.",
+          "Está relacionado a estímulos e respostas.",
+          "Não possui relação com movimentos e sensações.",
+          "Conta com estruturas como cérebro e nervos."
+        ],
+        "respostaCorreta": "Não possui relação com movimentos e sensações.",
+        "explicacao": "O sistema nervoso está diretamente ligado a movimentos, sensações e respostas do corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-ex-08",
+        "enunciado": "A principal ideia ao estudar o sistema nervoso é compreender que o corpo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "depende de uma rede de comando e comunicação interna",
+          "funciona sem coordenação alguma",
+          "não reage a estímulos externos",
+          "dispensa o cérebro para suas funções"
+        ],
+        "respostaCorreta": "depende de uma rede de comando e comunicação interna",
+        "explicacao": "O sistema nervoso participa do controle, da percepção e da resposta do organismo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-sim-01",
+        "enunciado": "Ao observar que o corpo percebe estímulos e responde a eles, o aluno identifica a atuação do:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sistema nervoso",
+          "sistema solar",
+          "solo terrestre",
+          "sistema feudal"
+        ],
+        "respostaCorreta": "sistema nervoso",
+        "explicacao": "Percepção de estímulos e resposta corporal fazem parte da atuação do sistema nervoso.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-nervoso-introdutorio-sim-02",
+        "enunciado": "A importância do sistema nervoso para o corpo humano está em que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "coordena funções e integra diferentes respostas do organismo",
+          "atua apenas no crescimento das unhas",
+          "substitui todos os outros sistemas",
+          "não participa das sensações"
+        ],
+        "respostaCorreta": "coordena funções e integra diferentes respostas do organismo",
+        "explicacao": "O sistema nervoso tem papel essencial na organização das atividades do corpo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "hist6-independencia-do-brasil-introdutoria",
+    "titulo": "Independência do Brasil: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Formação do Brasil",
+    "resumo": [
+      "A Independência do Brasil foi um processo importante da história brasileira.",
+      "Esse processo esteve ligado a mudanças políticas e a disputas de poder.",
+      "A separação em relação a Portugal marcou uma nova etapa histórica.",
+      "A independência não significou o fim imediato de todos os problemas do país.",
+      "Estudar esse tema ajuda a compreender a formação política do Brasil."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a Independência do Brasil",
+        "texto": "A Independência do Brasil foi o processo que marcou a separação política do Brasil em relação a Portugal. Esse acontecimento é estudado como um momento importante da formação do Estado brasileiro.",
+        "dica": "Independência política não significa que todos os problemas sociais desapareceram no mesmo instante."
+      },
+      {
+        "subtitulo": "Mudanças e disputas",
+        "texto": "O processo de independência ocorreu em um contexto de disputas políticas, interesses diferentes e reorganização do poder. Por isso, ele deve ser entendido como uma transformação histórica complexa, e não apenas como um único ato isolado.",
+        "dica": "Grandes processos históricos geralmente envolvem conflitos e interesses diversos."
+      },
+      {
+        "subtitulo": "Importância histórica",
+        "texto": "A Independência do Brasil foi importante porque marcou uma mudança na organização política do país. Ao mesmo tempo, é necessário compreender que muitas continuidades permaneceram na sociedade brasileira após esse processo.",
+        "dica": "Ao estudar independência, observe ao mesmo tempo mudanças e permanências."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a Independência do Brasil é considerada um processo histórico.",
+        "passos": [
+          "Ela não se resume a um único momento simbólico.",
+          "Envolveu disputas, decisões políticas e transformações no poder.",
+          "Por isso, é entendida como um processo histórico."
+        ],
+        "resposta": "A Independência do Brasil é considerada um processo porque envolveu várias mudanças e disputas políticas."
+      },
+      {
+        "enunciado": "Relacione independência e formação política do Brasil.",
+        "passos": [
+          "A independência marcou a separação política em relação a Portugal.",
+          "Isso contribuiu para uma nova etapa da organização do país.",
+          "Assim, ela faz parte da formação política brasileira."
+        ],
+        "resposta": "A Independência do Brasil foi importante para a formação política do país."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-ex-01",
+        "enunciado": "A Independência do Brasil marcou a separação política em relação a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Portugal",
+          "França",
+          "Itália",
+          "Alemanha"
+        ],
+        "respostaCorreta": "Portugal",
+        "explicacao": "A independência marcou a separação política do Brasil em relação a Portugal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-ex-02",
+        "enunciado": "A Independência do Brasil é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "faz parte da formação política do país",
+          "acabou com toda desigualdade social imediatamente",
+          "eliminou todos os conflitos do território",
+          "não teve efeito histórico"
+        ],
+        "respostaCorreta": "faz parte da formação política do país",
+        "explicacao": "Esse processo foi importante para a organização política do Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-ex-03",
+        "enunciado": "Ao estudar a Independência do Brasil, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ela envolveu mudanças políticas e disputas de poder",
+          "foi um acontecimento sem qualquer conflito",
+          "não teve relação com a história do Brasil",
+          "aconteceu sem mudanças na organização política"
+        ],
+        "respostaCorreta": "ela envolveu mudanças políticas e disputas de poder",
+        "explicacao": "A independência ocorreu em meio a disputas políticas e mudanças na organização do poder.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-ex-04",
+        "enunciado": "Qual alternativa está incorreta sobre a Independência do Brasil?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela marcou a separação política em relação a Portugal.",
+          "Foi um processo importante da história brasileira.",
+          "Significou o fim imediato de todos os problemas sociais.",
+          "Contribuiu para a formação política do país."
+        ],
+        "respostaCorreta": "Significou o fim imediato de todos os problemas sociais.",
+        "explicacao": "A independência política não resolveu de imediato todos os problemas existentes na sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-ex-05",
+        "enunciado": "A principal lição desse tema é que a Independência do Brasil:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "deve ser entendida como um processo histórico com mudanças e permanências",
+          "foi apenas um evento sem importância duradoura",
+          "eliminou todos os conflitos do país",
+          "não teve efeito na organização política"
+        ],
+        "respostaCorreta": "deve ser entendida como um processo histórico com mudanças e permanências",
+        "explicacao": "A independência trouxe mudanças, mas também manteve continuidades na sociedade brasileira.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-sim-01",
+        "enunciado": "Ao relacionar separação política, disputas de poder e formação do país, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a Independência do Brasil",
+          "o sistema respiratório",
+          "a cadeia alimentar",
+          "a divisão silábica"
+        ],
+        "respostaCorreta": "a Independência do Brasil",
+        "explicacao": "Esses elementos ajudam a compreender o processo de independência brasileira.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-independencia-do-brasil-introdutoria-sim-02",
+        "enunciado": "A principal importância histórica desse tema está em compreender que a Independência do Brasil:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "marcou uma nova etapa política, sem eliminar automaticamente todas as desigualdades",
+          "acabou com todos os problemas do país de forma imediata",
+          "não mudou nada na história brasileira",
+          "foi um fato sem relação com a formação do Estado brasileiro"
+        ],
+        "respostaCorreta": "marcou uma nova etapa política, sem eliminar automaticamente todas as desigualdades",
+        "explicacao": "A independência foi importante politicamente, mas não resolveu de imediato todos os problemas sociais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

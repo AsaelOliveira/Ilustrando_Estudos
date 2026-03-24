@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-regioes-brasileiras",
+    "titulo": "Regiões brasileiras",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Brasil e organização do espaço",
+    "resumo": [
+      "O Brasil está dividido em cinco grandes regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul.",
+      "Cada região apresenta características naturais, culturais, econômicas e populacionais próprias.",
+      "A regionalização ajuda a estudar o território brasileiro de forma organizada.",
+      "As regiões não são iguais entre si e apresentam diferentes paisagens e modos de vida.",
+      "Conhecer as regiões brasileiras é importante para compreender a diversidade do país."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é regionalização",
+        "texto": "Regionalizar é dividir um território em partes que apresentam certos critérios em comum. No caso do Brasil, a divisão em regiões facilita o estudo do espaço geográfico, permitindo comparar características naturais, econômicas, sociais e culturais.",
+        "dica": "Regionalizar é organizar o espaço em partes para facilitar o estudo."
+      },
+      {
+        "subtitulo": "As cinco regiões do Brasil",
+        "texto": "O território brasileiro foi dividido em cinco grandes regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Essa divisão ajuda a compreender diferenças e semelhanças entre partes do país, como clima, vegetação, população e atividades econômicas.",
+        "dica": "Memorizar o nome das cinco regiões é um passo importante para os estudos de Geografia do Brasil."
+      },
+      {
+        "subtitulo": "Diversidade regional",
+        "texto": "Cada região brasileira possui paisagens, modos de vida, atividades econômicas e aspectos culturais próprios. Por isso, estudar as regiões é uma forma de entender a diversidade e a complexidade do território nacional.",
+        "dica": "As regiões fazem parte do mesmo país, mas não apresentam as mesmas características."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o Brasil foi dividido em regiões.",
+        "passos": [
+          "O território brasileiro é muito extenso.",
+          "Dividir em regiões ajuda a organizar e comparar informações.",
+          "Assim, o estudo do país se torna mais claro."
+        ],
+        "resposta": "A divisão regional facilita a compreensão da diversidade do território brasileiro."
+      },
+      {
+        "enunciado": "Compare duas regiões brasileiras quanto à ideia de diversidade.",
+        "passos": [
+          "As regiões do país podem ter climas, paisagens e atividades diferentes.",
+          "Isso mostra que o Brasil não é um espaço uniforme.",
+          "A comparação ajuda a compreender a diversidade regional."
+        ],
+        "resposta": "As regiões brasileiras possuem características próprias, embora façam parte do mesmo país."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-regioes-brasileiras-ex-01",
+        "enunciado": "O Brasil está dividido em quantas grandes regiões?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cinco",
+          "duas",
+          "sete",
+          "dez"
+        ],
+        "respostaCorreta": "cinco",
+        "explicacao": "O território brasileiro foi regionalizado em cinco grandes regiões.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-02",
+        "enunciado": "Qual alternativa apresenta apenas nomes de regiões brasileiras?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Norte, Nordeste, Centro-Oeste, Sudeste e Sul",
+          "Norte, Leste, Oeste, Centro e Tropical",
+          "Amazônia, Sertão, Cerrado, Costa e Serra",
+          "Litoral, Interior, Planalto, Vale e Fronteira"
+        ],
+        "respostaCorreta": "Norte, Nordeste, Centro-Oeste, Sudeste e Sul",
+        "explicacao": "Esses são os nomes das cinco regiões oficiais do Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-03",
+        "enunciado": "A regionalização do Brasil ajuda principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar o estudo do território",
+          "eliminar as diferenças entre os lugares",
+          "transformar estados em países",
+          "mudar o clima nacional"
+        ],
+        "respostaCorreta": "organizar o estudo do território",
+        "explicacao": "A divisão em regiões facilita a análise e a comparação do espaço brasileiro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-04",
+        "enunciado": "Qual alternativa está correta sobre as regiões brasileiras?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas apresentam características diferentes entre si.",
+          "São todas iguais em clima, população e economia.",
+          "Não possuem diversidade cultural.",
+          "Existem apenas para separar cidades grandes."
+        ],
+        "respostaCorreta": "Elas apresentam características diferentes entre si.",
+        "explicacao": "As regiões do Brasil possuem diversidade natural, econômica, social e cultural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-05",
+        "enunciado": "Ao estudar as regiões brasileiras, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a diversidade do território nacional",
+          "apenas a formação das nuvens",
+          "somente a origem dos planetas",
+          "exclusivamente a circulação sanguínea"
+        ],
+        "respostaCorreta": "a diversidade do território nacional",
+        "explicacao": "A divisão regional ajuda a entender as diferenças e semelhanças entre partes do Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-06",
+        "enunciado": "Regionalizar significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dividir um território para facilitar o estudo",
+          "eliminar as paisagens existentes",
+          "transformar rios em fronteiras internacionais",
+          "misturar todos os lugares em um único bloco"
+        ],
+        "respostaCorreta": "dividir um território para facilitar o estudo",
+        "explicacao": "A regionalização organiza o espaço com base em certos critérios de análise.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-07",
+        "enunciado": "Qual alternativa apresenta uma informação incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O Brasil foi dividido em cinco regiões.",
+          "As regiões brasileiras ajudam no estudo do território.",
+          "Todas as regiões são completamente iguais.",
+          "As regiões podem ser comparadas quanto a clima e população."
+        ],
+        "respostaCorreta": "Todas as regiões são completamente iguais.",
+        "explicacao": "As regiões brasileiras apresentam diferenças importantes entre si.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-ex-08",
+        "enunciado": "A diversidade regional do Brasil pode ser percebida por meio de diferenças em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "paisagens, cultura e atividades econômicas",
+          "somente na cor das bandeiras",
+          "apenas no nome das ruas",
+          "exclusivamente no tamanho das escolas"
+        ],
+        "respostaCorreta": "paisagens, cultura e atividades econômicas",
+        "explicacao": "Esses aspectos ajudam a mostrar a diversidade existente entre as regiões do país.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-regioes-brasileiras-sim-01",
+        "enunciado": "A divisão do Brasil em cinco regiões mostra uma forma de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "regionalização do território",
+          "destruição do espaço geográfico",
+          "eliminação da diversidade nacional",
+          "substituição dos estados brasileiros"
+        ],
+        "respostaCorreta": "regionalização do território",
+        "explicacao": "A regionalização organiza o território em partes para facilitar seu estudo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-regioes-brasileiras-sim-02",
+        "enunciado": "Ao comparar as regiões brasileiras, o aluno percebe que o país:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta diversidade natural, cultural e econômica",
+          "é totalmente uniforme",
+          "não possui diferenças entre os lugares",
+          "não pode ser regionalizado"
+        ],
+        "respostaCorreta": "apresenta diversidade natural, cultural e econômica",
+        "explicacao": "As regiões ajudam a evidenciar a diversidade do território brasileiro.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

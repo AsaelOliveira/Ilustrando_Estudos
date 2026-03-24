@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-microrganismos-introducao",
+    "titulo": "Microrganismos: introdução",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e saúde",
+    "resumo": [
+      "Microrganismos são seres muito pequenos, geralmente invisíveis a olho nu.",
+      "Eles podem estar presentes na água, no solo, no ar e em diferentes superfícies.",
+      "Alguns microrganismos são úteis, enquanto outros podem causar doenças.",
+      "Higiene e cuidados de saúde ajudam a prevenir problemas relacionados a microrganismos nocivos.",
+      "Estudar esse tema ajuda a compreender melhor a relação entre seres vivos e saúde."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são microrganismos",
+        "texto": "Microrganismos são seres muito pequenos, geralmente não visíveis sem instrumentos adequados. Eles fazem parte do ambiente e podem viver em diferentes lugares, como água, solo, alimentos e no próprio corpo de outros seres vivos.",
+        "dica": "Nem tudo o que é muito pequeno deixa de ter importância para a vida e para a saúde."
+      },
+      {
+        "subtitulo": "Microrganismos úteis e nocivos",
+        "texto": "Nem todos os microrganismos são prejudiciais. Alguns participam de processos importantes na natureza e até na produção de alimentos. Outros, porém, podem causar doenças, tornando os cuidados com higiene e prevenção muito importantes.",
+        "dica": "Evite pensar que todo microrganismo é ruim; muitos têm funções importantes."
+      },
+      {
+        "subtitulo": "Saúde e prevenção",
+        "texto": "Hábitos de higiene, cuidado com alimentos, água tratada e outras práticas preventivas ajudam a reduzir riscos relacionados a microrganismos nocivos. Esse cuidado contribui para a proteção da saúde individual e coletiva.",
+        "dica": "Prevenção em saúde também passa pelo cuidado com o ambiente e com a higiene."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a higiene é importante no estudo dos microrganismos.",
+        "passos": [
+          "Alguns microrganismos podem causar doenças.",
+          "A higiene ajuda a reduzir o contato com agentes nocivos.",
+          "Por isso, ela é importante para a prevenção."
+        ],
+        "resposta": "A higiene é importante porque ajuda a prevenir problemas ligados a microrganismos nocivos."
+      },
+      {
+        "enunciado": "Relacione microrganismos e ambiente.",
+        "passos": [
+          "Microrganismos podem viver em diferentes lugares.",
+          "Eles fazem parte do ambiente e da vida dos seres vivos.",
+          "Assim, estudar microrganismos também ajuda a compreender o mundo ao nosso redor."
+        ],
+        "resposta": "Os microrganismos estão presentes em diferentes ambientes e podem influenciar a vida e a saúde."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-microrganismos-introducao-ex-01",
+        "enunciado": "Microrganismos são seres:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "muito pequenos",
+          "gigantescos",
+          "visíveis apenas do espaço",
+          "formados somente por pedras"
+        ],
+        "respostaCorreta": "muito pequenos",
+        "explicacao": "Microrganismos são seres geralmente invisíveis a olho nu por serem muito pequenos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-ex-02",
+        "enunciado": "Os microrganismos podem estar presentes em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, solo, ar e superfícies",
+          "somente em montanhas geladas",
+          "apenas no fundo do oceano",
+          "somente em laboratórios"
+        ],
+        "respostaCorreta": "água, solo, ar e superfícies",
+        "explicacao": "Microrganismos podem viver em muitos ambientes diferentes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-ex-03",
+        "enunciado": "Qual alternativa apresenta uma ideia correta sobre microrganismos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Alguns são úteis e outros podem causar doenças.",
+          "Todos são perigosos.",
+          "Nenhum tem relação com a saúde.",
+          "Não existem no ambiente."
+        ],
+        "respostaCorreta": "Alguns são úteis e outros podem causar doenças.",
+        "explicacao": "Nem todos os microrganismos são nocivos; alguns têm funções importantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-ex-04",
+        "enunciado": "Uma atitude importante para prevenir problemas ligados a microrganismos nocivos é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "manter hábitos de higiene",
+          "ignorar os cuidados com a água e os alimentos",
+          "deixar de lavar as mãos sempre",
+          "abandonar toda prevenção"
+        ],
+        "respostaCorreta": "manter hábitos de higiene",
+        "explicacao": "A higiene ajuda a reduzir riscos ligados a microrganismos prejudiciais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-ex-05",
+        "enunciado": "Ao estudar os microrganismos, o aluno compreende melhor a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "seres vivos, ambiente e saúde",
+          "somente planetas e estrelas",
+          "apenas relevo e hidrografia",
+          "exclusivamente matemática e arte"
+        ],
+        "respostaCorreta": "seres vivos, ambiente e saúde",
+        "explicacao": "O tema mostra como microrganismos participam do ambiente e influenciam a saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Microrganismos podem existir em diferentes ambientes.",
+          "Alguns microrganismos são úteis.",
+          "Todos os microrganismos causam doenças.",
+          "Hábitos de higiene ajudam na prevenção."
+        ],
+        "respostaCorreta": "Todos os microrganismos causam doenças.",
+        "explicacao": "Nem todos os microrganismos são nocivos; muitos têm funções úteis.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-microrganismos-introducao-sim-01",
+        "enunciado": "Ao relacionar higiene, prevenção e seres microscópicos, o aluno identifica o tema dos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "microrganismos",
+          "planetas",
+          "castelos",
+          "adjetivos"
+        ],
+        "respostaCorreta": "microrganismos",
+        "explicacao": "Higiene e prevenção aparecem com frequência no estudo dos microrganismos e da saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-microrganismos-introducao-sim-02",
+        "enunciado": "A principal ideia desse tema é que seres muito pequenos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem ter grande importância para a vida, o ambiente e a saúde",
+          "não têm nenhuma função no mundo",
+          "servem apenas para causar doenças",
+          "só existem em livros didáticos"
+        ],
+        "respostaCorreta": "podem ter grande importância para a vida, o ambiente e a saúde",
+        "explicacao": "Microrganismos podem ser úteis ou nocivos, e sua presença tem grande relevância.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

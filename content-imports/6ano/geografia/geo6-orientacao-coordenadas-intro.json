@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-orientacao-coordenadas-intro",
+    "titulo": "Orientação e coordenadas: introdução",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Representação do espaço",
+    "resumo": [
+      "A orientação espacial ajuda a localizar posições e direções no espaço.",
+      "Pontos cardeais e colaterais são importantes para se orientar.",
+      "As coordenadas geográficas ajudam a localizar pontos na superfície terrestre.",
+      "Latitude e longitude são conceitos iniciais desse estudo.",
+      "A localização é uma habilidade importante para a leitura do espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Orientação no espaço",
+        "texto": "Orientar-se significa identificar posições e direções no espaço. Para isso, usamos referências como os pontos cardeais, os pontos colaterais e diferentes instrumentos ou representações cartográficas.",
+        "dica": "Se a questão falar em direção, lembre-se dos pontos cardeais."
+      },
+      {
+        "subtitulo": "Coordenadas geográficas",
+        "texto": "As coordenadas geográficas são referências usadas para localizar pontos na superfície terrestre com maior precisão. Elas se baseiam em linhas imaginárias, entre elas as que estão relacionadas à latitude e à longitude.",
+        "dica": "Coordenadas servem para localizar com mais exatidão."
+      },
+      {
+        "subtitulo": "Latitude e longitude",
+        "texto": "Latitude e longitude são noções iniciais importantes para o estudo da localização. Elas permitem situar lugares no planeta e fazem parte da linguagem usada em mapas e globos.",
+        "dica": "Mesmo em um nível introdutório, vale reconhecer que latitude e longitude ajudam a localizar lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os pontos cardeais são importantes.",
+        "passos": [
+          "Eles ajudam a indicar direções principais.",
+          "Com isso, facilitam a orientação no espaço.",
+          "Por isso, são fundamentais para localização."
+        ],
+        "resposta": "Os pontos cardeais ajudam a orientar e localizar posições no espaço."
+      },
+      {
+        "enunciado": "Relacione coordenadas geográficas e localização.",
+        "passos": [
+          "As coordenadas ajudam a localizar pontos com maior precisão.",
+          "Elas fazem parte da linguagem cartográfica.",
+          "Assim, ajudam a compreender melhor o espaço terrestre."
+        ],
+        "resposta": "As coordenadas geográficas são importantes para localizar lugares na superfície terrestre."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-01",
+        "enunciado": "A orientação espacial ajuda principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "identificar direções e posições no espaço",
+          "transformar rios em montanhas",
+          "eliminar a necessidade de mapas",
+          "substituir a paisagem natural"
+        ],
+        "respostaCorreta": "identificar direções e posições no espaço",
+        "explicacao": "Orientação espacial está ligada à localização e à direção.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-02",
+        "enunciado": "Qual grupo apresenta pontos cardeais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "norte, sul, leste e oeste",
+          "alto, baixo, rápido e lento",
+          "frio, quente, seco e úmido",
+          "rio, lago, serra e vale"
+        ],
+        "respostaCorreta": "norte, sul, leste e oeste",
+        "explicacao": "Esses são os quatro pontos cardeais principais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-03",
+        "enunciado": "As coordenadas geográficas servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "localizar pontos na superfície terrestre",
+          "produzir alimentos no campo",
+          "medir a massa corporal",
+          "identificar classes de palavras"
+        ],
+        "respostaCorreta": "localizar pontos na superfície terrestre",
+        "explicacao": "As coordenadas ajudam a localizar lugares com mais precisão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-04",
+        "enunciado": "Latitude e longitude estão relacionadas ao estudo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "localização geográfica",
+          "digestão humana",
+          "ciclo da água",
+          "multiplicação de números naturais"
+        ],
+        "respostaCorreta": "localização geográfica",
+        "explicacao": "Latitude e longitude são referências usadas para localizar pontos no planeta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-05",
+        "enunciado": "Qual alternativa está correta sobre orientação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pontos cardeais ajudam a indicar direções.",
+          "Orientação serve apenas para decorar mapas.",
+          "Localização não depende de referências.",
+          "Coordenadas geográficas não têm utilidade."
+        ],
+        "respostaCorreta": "Pontos cardeais ajudam a indicar direções.",
+        "explicacao": "Os pontos cardeais são referências básicas de orientação espacial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-06",
+        "enunciado": "Ao estudar coordenadas geográficas, o aluno aprende que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é possível localizar lugares com maior precisão",
+          "não existe relação entre mapas e localização",
+          "latitude e longitude são nomes de rios",
+          "a superfície terrestre não pode ser localizada"
+        ],
+        "respostaCorreta": "é possível localizar lugares com maior precisão",
+        "explicacao": "As coordenadas são usadas justamente para localizar pontos na superfície terrestre.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-07",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A orientação espacial ajuda na leitura do espaço.",
+          "As coordenadas geográficas auxiliam na localização.",
+          "Latitude e longitude se relacionam com a posição dos lugares.",
+          "Os pontos cardeais não têm nenhuma utilidade para a orientação."
+        ],
+        "respostaCorreta": "Os pontos cardeais não têm nenhuma utilidade para a orientação.",
+        "explicacao": "Os pontos cardeais são referências fundamentais para se orientar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-ex-08",
+        "enunciado": "A principal ideia desse tema é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como localizar e orientar-se no espaço",
+          "somente como plantar alimentos",
+          "apenas o funcionamento do sistema urinário",
+          "exclusivamente a formação de rochas"
+        ],
+        "respostaCorreta": "como localizar e orientar-se no espaço",
+        "explicacao": "O tema trabalha referências de direção e localização geográfica.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-orientacao-coordenadas-intro-sim-01",
+        "enunciado": "Quando usamos pontos cardeais, latitude e longitude, estamos trabalhando com:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "orientação e localização geográfica",
+          "apenas clima e vegetação",
+          "somente relevo e hidrografia",
+          "exclusivamente produção agrícola"
+        ],
+        "respostaCorreta": "orientação e localização geográfica",
+        "explicacao": "Esses elementos ajudam a indicar posições e localizar lugares no espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-orientacao-coordenadas-intro-sim-02",
+        "enunciado": "A importância das coordenadas geográficas está no fato de que elas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permitem localizar pontos da superfície terrestre com maior precisão",
+          "substituem todas as formas de mapa",
+          "não têm relação com a Geografia",
+          "servem apenas para decorar globos"
+        ],
+        "respostaCorreta": "permitem localizar pontos da superfície terrestre com maior precisão",
+        "explicacao": "As coordenadas são instrumentos de localização mais precisa no estudo geográfico.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

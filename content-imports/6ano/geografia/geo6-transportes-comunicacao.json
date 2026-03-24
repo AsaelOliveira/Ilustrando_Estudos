@@ -1,0 +1,239 @@
+[
+  {
+    "id": "geo6-transportes-comunicacao",
+    "titulo": "Transportes e comunicação",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Redes e circulação",
+    "resumo": [
+      "Os transportes permitem o deslocamento de pessoas e mercadorias.",
+      "A comunicação facilita a troca de informações entre lugares e pessoas.",
+      "Rodovias, ferrovias, hidrovias e vias aéreas fazem parte das redes de transporte.",
+      "As redes de comunicação influenciam o cotidiano e a organização do espaço geográfico.",
+      "Transportes e comunicação contribuem para integrar diferentes regiões."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função dos transportes",
+        "texto": "Os meios de transporte são importantes para levar pessoas, produtos e matérias-primas de um lugar para outro. Eles ajudam a ligar áreas rurais e urbanas, aproximar regiões e facilitar atividades econômicas e sociais.",
+        "dica": "Sempre associe transporte à ideia de circulação no espaço."
+      },
+      {
+        "subtitulo": "Redes de comunicação",
+        "texto": "A comunicação permite trocar mensagens, notícias e informações em diferentes escalas. Ao longo do tempo, ela ficou mais rápida e passou a influenciar fortemente o cotidiano, o trabalho, a educação e o contato entre pessoas e lugares.",
+        "dica": "Comunicar é transmitir informações de um ponto a outro."
+      },
+      {
+        "subtitulo": "Integração do espaço",
+        "texto": "Transportes e comunicação participam da integração territorial. Quando uma região possui melhores redes, ela tende a se conectar mais facilmente a outras áreas, o que influencia o comércio, os serviços e a vida da população.",
+        "dica": "Boas redes facilitam a ligação entre lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que uma estrada pode ser importante para uma cidade.",
+        "passos": [
+          "Ela facilita a entrada e a saída de pessoas e mercadorias.",
+          "Isso melhora a circulação e pode favorecer o comércio.",
+          "Por isso, a estrada ajuda na integração da cidade com outras áreas."
+        ],
+        "resposta": "As estradas são importantes porque conectam lugares e facilitam a circulação."
+      },
+      {
+        "enunciado": "Observe uma mensagem enviada rapidamente para outro lugar.",
+        "passos": [
+          "A comunicação permite a transmissão de informações.",
+          "Quando ela é rápida, aproxima pessoas e regiões.",
+          "Isso mostra a importância das redes de comunicação no cotidiano."
+        ],
+        "resposta": "A comunicação integra lugares por meio da troca de informações."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-transportes-comunicacao-ex-01",
+        "enunciado": "Os meios de transporte são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permitem o deslocamento de pessoas e mercadorias",
+          "impedem a circulação entre os lugares",
+          "servem apenas para decorar as cidades",
+          "não têm relação com a economia"
+        ],
+        "respostaCorreta": "permitem o deslocamento de pessoas e mercadorias",
+        "explicacao": "Os transportes são essenciais para a circulação no espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-02",
+        "enunciado": "Qual alternativa apresenta um tipo de via de transporte?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ferrovia",
+          "vegetação",
+          "temperatura",
+          "erosão"
+        ],
+        "respostaCorreta": "ferrovia",
+        "explicacao": "A ferrovia é uma rede de transporte usada para circulação de pessoas e cargas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-03",
+        "enunciado": "A comunicação contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a troca de informações",
+          "a formação de vulcões",
+          "a produção de solo",
+          "o desaparecimento das cidades"
+        ],
+        "respostaCorreta": "a troca de informações",
+        "explicacao": "A principal função da comunicação é transmitir mensagens e informações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre transportes e comunicação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ajudam a integrar diferentes regiões.",
+          "Não influenciam o cotidiano.",
+          "Existem apenas nas capitais.",
+          "Servem somente para lazer."
+        ],
+        "respostaCorreta": "Ajudam a integrar diferentes regiões.",
+        "explicacao": "Essas redes aproximam lugares e favorecem a circulação de pessoas, produtos e informações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-05",
+        "enunciado": "Quando uma mercadoria é levada de uma cidade a outra, qual tema está mais diretamente envolvido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transportes",
+          "clima",
+          "vegetação",
+          "erosão"
+        ],
+        "respostaCorreta": "transportes",
+        "explicacao": "O deslocamento de mercadorias depende das redes de transporte.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-06",
+        "enunciado": "Qual alternativa melhor explica a importância da comunicação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela permite transmitir informações entre pessoas e lugares.",
+          "Ela substitui todos os meios de transporte.",
+          "Ela impede o contato entre regiões.",
+          "Ela ocorre apenas no campo."
+        ],
+        "respostaCorreta": "Ela permite transmitir informações entre pessoas e lugares.",
+        "explicacao": "A comunicação aproxima pessoas e regiões por meio da circulação de informações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-07",
+        "enunciado": "Uma rodovia é importante para a economia porque pode:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facilitar a circulação de produtos",
+          "impedir a chegada de mercadorias",
+          "substituir a produção agrícola",
+          "eliminar o comércio"
+        ],
+        "respostaCorreta": "facilitar a circulação de produtos",
+        "explicacao": "As rodovias ajudam no transporte de mercadorias e no abastecimento das regiões.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-08",
+        "enunciado": "Ao analisar o espaço geográfico, percebemos que redes de transporte e comunicação:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interferem na organização dos lugares",
+          "não têm relação com a vida social",
+          "existem apenas em países frios",
+          "não influenciam o comércio"
+        ],
+        "respostaCorreta": "interferem na organização dos lugares",
+        "explicacao": "Essas redes influenciam circulação, comércio, serviços e integração territorial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-09",
+        "enunciado": "Qual alternativa apresenta um exemplo de integração espacial?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma região ligada a outras por estradas e troca de informações",
+          "um lugar sem qualquer circulação",
+          "uma área isolada sem comunicação",
+          "um espaço sem pessoas e sem atividades"
+        ],
+        "respostaCorreta": "uma região ligada a outras por estradas e troca de informações",
+        "explicacao": "A integração espacial ocorre quando redes de circulação e comunicação conectam diferentes áreas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-ex-10",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transportes ajudam a deslocar pessoas e mercadorias.",
+          "Comunicação permite troca de informações.",
+          "Boas redes podem favorecer a integração territorial.",
+          "Transportes e comunicação não alteram o cotidiano das pessoas."
+        ],
+        "respostaCorreta": "Transportes e comunicação não alteram o cotidiano das pessoas.",
+        "explicacao": "Essas redes influenciam fortemente o cotidiano, o comércio, os serviços e a relação entre lugares.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-transportes-comunicacao-sim-01",
+        "enunciado": "Ao estudar redes de transporte e comunicação, o aluno entende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como os lugares se conectam e trocam pessoas, produtos e informações",
+          "apenas a origem dos minerais",
+          "somente a formação do relevo",
+          "exclusivamente a classificação dos rios"
+        ],
+        "respostaCorreta": "como os lugares se conectam e trocam pessoas, produtos e informações",
+        "explicacao": "Esse tema mostra como a circulação e a comunicação participam da organização do espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-sim-02",
+        "enunciado": "Uma região com melhores estradas e meios de comunicação tende a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ter maior facilidade de integração com outras áreas",
+          "ficar totalmente isolada",
+          "perder toda a circulação interna",
+          "deixar de realizar atividades econômicas"
+        ],
+        "respostaCorreta": "ter maior facilidade de integração com outras áreas",
+        "explicacao": "Redes mais eficientes favorecem circulação, contato e atividades econômicas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-transportes-comunicacao-sim-03",
+        "enunciado": "Ao comparar transporte e comunicação, percebe-se que ambos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participam da integração territorial",
+          "servem apenas para lazer",
+          "ocorrem somente no espaço rural",
+          "não influenciam o comércio e os serviços"
+        ],
+        "respostaCorreta": "participam da integração territorial",
+        "explicacao": "Transportes e comunicação ajudam a conectar lugares e pessoas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-uso-ocupacao-solo",
+    "titulo": "Uso e ocupação do solo",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Sociedade e natureza",
+    "resumo": [
+      "O solo pode ser utilizado de diferentes maneiras pelas sociedades.",
+      "Agricultura, moradia, vias de circulação e atividades econômicas ocupam partes do espaço.",
+      "O uso inadequado do solo pode causar problemas ambientais.",
+      "Planejar a ocupação do solo é importante para a qualidade de vida e a preservação do ambiente.",
+      "O estudo do solo ajuda a compreender a relação entre natureza e ação humana."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é uso do solo",
+        "texto": "Uso do solo é a forma como a sociedade utiliza o espaço terrestre para diferentes finalidades, como produção agrícola, construção de moradias, circulação e instalação de serviços. Esse uso varia conforme as necessidades e as características de cada lugar.",
+        "dica": "Pense no solo como base de muitas atividades humanas."
+      },
+      {
+        "subtitulo": "Ocupação e transformação do espaço",
+        "texto": "A ocupação do solo modifica a paisagem. Quando casas, ruas, plantações ou áreas industriais se espalham, o espaço geográfico se transforma. Essas mudanças podem trazer benefícios, mas também exigir planejamento e cuidado.",
+        "dica": "Toda ocupação do espaço provoca transformações na paisagem."
+      },
+      {
+        "subtitulo": "Problemas e cuidados",
+        "texto": "O uso inadequado do solo pode provocar erosão, poluição, desmatamento e outros impactos ambientais. Por isso, planejar o uso do espaço e adotar práticas mais responsáveis é fundamental para reduzir problemas e melhorar a qualidade de vida.",
+        "dica": "Uso do solo e preservação ambiental devem caminhar juntos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como a construção de um bairro modifica a paisagem.",
+        "passos": [
+          "A ocupação do solo muda o espaço original.",
+          "Passam a existir casas, ruas e serviços.",
+          "Isso transforma a paisagem e o modo de vida no lugar."
+        ],
+        "resposta": "A construção de um bairro altera a paisagem por meio da ocupação humana do solo."
+      },
+      {
+        "enunciado": "Relacione uso do solo e preservação ambiental.",
+        "passos": [
+          "O solo é usado para várias atividades humanas.",
+          "Sem cuidado, esse uso pode causar impactos negativos.",
+          "Por isso, é importante planejar a ocupação do espaço."
+        ],
+        "resposta": "O uso do solo precisa ser planejado para reduzir danos ao ambiente."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-01",
+        "enunciado": "O solo pode ser usado para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "moradia, agricultura e circulação",
+          "apenas observação do céu",
+          "somente atividades sem impacto",
+          "uso exclusivo de fenômenos naturais"
+        ],
+        "respostaCorreta": "moradia, agricultura e circulação",
+        "explicacao": "O solo serve de base para diferentes atividades humanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-02",
+        "enunciado": "Quando a sociedade ocupa o solo, ela:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transforma a paisagem",
+          "impede qualquer mudança no espaço",
+          "elimina totalmente a natureza",
+          "deixa de realizar atividades econômicas"
+        ],
+        "respostaCorreta": "transforma a paisagem",
+        "explicacao": "A ocupação humana modifica o espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-03",
+        "enunciado": "Qual alternativa apresenta um possível problema ligado ao uso inadequado do solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "erosão",
+          "fotossíntese",
+          "rotação da Terra",
+          "movimento das marés"
+        ],
+        "respostaCorreta": "erosão",
+        "explicacao": "A erosão é um exemplo de problema que pode ser agravado pelo uso inadequado do solo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-04",
+        "enunciado": "Planejar a ocupação do solo é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a reduzir problemas e melhorar a qualidade de vida",
+          "impede toda e qualquer atividade humana",
+          "elimina a necessidade de cuidar do ambiente",
+          "substitui o estudo da Geografia"
+        ],
+        "respostaCorreta": "ajuda a reduzir problemas e melhorar a qualidade de vida",
+        "explicacao": "O planejamento contribui para o uso mais responsável do espaço.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-05",
+        "enunciado": "Qual alternativa relaciona corretamente sociedade e solo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A sociedade utiliza o solo para diferentes atividades.",
+          "A sociedade não interfere no solo.",
+          "O solo só existe em áreas urbanas.",
+          "O solo não tem importância para a vida humana."
+        ],
+        "respostaCorreta": "A sociedade utiliza o solo para diferentes atividades.",
+        "explicacao": "O solo é base para moradia, produção, circulação e outras ações humanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O uso do solo pode modificar a paisagem.",
+          "O solo pode ser ocupado por moradias e plantações.",
+          "O planejamento do espaço é desnecessário.",
+          "O uso inadequado do solo pode causar impactos ambientais."
+        ],
+        "respostaCorreta": "O planejamento do espaço é desnecessário.",
+        "explicacao": "O planejamento é importante para reduzir problemas e melhorar a ocupação do espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-07",
+        "enunciado": "Ao estudar uso e ocupação do solo, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre ação humana e espaço geográfico",
+          "somente o funcionamento do corpo humano",
+          "apenas a composição das estrelas",
+          "exclusivamente as classes gramaticais"
+        ],
+        "respostaCorreta": "a relação entre ação humana e espaço geográfico",
+        "explicacao": "Esse tema mostra como a sociedade utiliza e transforma o espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-ex-08",
+        "enunciado": "A construção de estradas, bairros e áreas agrícolas é um exemplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ocupação do solo",
+          "movimento dos astros",
+          "formação de vulcões",
+          "produção de células"
+        ],
+        "respostaCorreta": "ocupação do solo",
+        "explicacao": "Essas ações representam formas de uso e ocupação do espaço terrestre.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-uso-ocupacao-solo-sim-01",
+        "enunciado": "A principal ideia do estudo do uso e da ocupação do solo é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as ações humanas transformam o espaço e exigem planejamento",
+          "o solo não tem função para a sociedade",
+          "toda ocupação é sempre positiva e sem impacto",
+          "a paisagem nunca muda"
+        ],
+        "respostaCorreta": "as ações humanas transformam o espaço e exigem planejamento",
+        "explicacao": "Esse tema mostra que a ocupação do solo modifica a paisagem e deve ser pensada com responsabilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-uso-ocupacao-solo-sim-02",
+        "enunciado": "Ao relacionar ocupação do solo e preservação ambiental, o aluno conclui que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o uso do espaço precisa considerar também o cuidado com o ambiente",
+          "planejamento e preservação não têm relação",
+          "somente áreas rurais precisam de atenção",
+          "os impactos ambientais são inevitáveis e sem solução"
+        ],
+        "respostaCorreta": "o uso do espaço precisa considerar também o cuidado com o ambiente",
+        "explicacao": "Uso responsável do solo e preservação ambiental devem caminhar juntos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

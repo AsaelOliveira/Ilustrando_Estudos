@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-locomotor-introdutorio",
+    "titulo": "Sistema locomotor: introdução",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e movimento",
+    "resumo": [
+      "O sistema locomotor participa da sustentação e do movimento do corpo.",
+      "Ossos, músculos e articulações fazem parte desse sistema.",
+      "Os ossos ajudam a sustentar e proteger o organismo.",
+      "Os músculos participam dos movimentos corporais.",
+      "O estudo do sistema locomotor ajuda a compreender como o corpo se movimenta."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema locomotor",
+        "texto": "O sistema locomotor participa da sustentação, da proteção e do movimento do corpo humano. Ele permite que as pessoas caminhem, corram, sentem, levantem objetos e realizem diversas ações do cotidiano.",
+        "dica": "Locomotor está relacionado à capacidade de mover-se e sustentar o corpo."
+      },
+      {
+        "subtitulo": "Ossos, músculos e articulações",
+        "texto": "Os ossos dão sustentação ao corpo e ajudam a proteger órgãos importantes. Os músculos participam da realização dos movimentos, e as articulações permitem a ligação entre os ossos, facilitando diferentes ações corporais.",
+        "dica": "Nenhuma dessas partes trabalha sozinha; elas atuam em conjunto."
+      },
+      {
+        "subtitulo": "Movimento e cuidados",
+        "texto": "Movimentar-se depende da integração entre diferentes partes do sistema locomotor. Bons hábitos, alimentação equilibrada e cuidados com o corpo contribuem para manter essa estrutura em melhor funcionamento.",
+        "dica": "O corpo precisa de cuidado para se mover com mais segurança e saúde."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os ossos são importantes para o corpo.",
+        "passos": [
+          "Eles ajudam a sustentar o organismo.",
+          "Também protegem partes importantes do corpo.",
+          "Por isso, têm papel central no sistema locomotor."
+        ],
+        "resposta": "Os ossos são importantes porque sustentam e ajudam a proteger o corpo."
+      },
+      {
+        "enunciado": "Relacione músculos e movimento.",
+        "passos": [
+          "Os músculos participam da realização dos movimentos.",
+          "Eles atuam junto com ossos e articulações.",
+          "Assim, permitem ações como andar, correr e levantar objetos."
+        ],
+        "resposta": "Os músculos são essenciais para o movimento corporal."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-01",
+        "enunciado": "O sistema locomotor participa principalmente da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sustentação e do movimento do corpo",
+          "formação das nuvens",
+          "digestão exclusiva dos alimentos",
+          "produção da luz solar"
+        ],
+        "respostaCorreta": "sustentação e do movimento do corpo",
+        "explicacao": "O sistema locomotor ajuda a sustentar o corpo e possibilita movimentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-02",
+        "enunciado": "Qual grupo reúne partes do sistema locomotor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ossos, músculos e articulações",
+          "pulmões, rins e ureteres",
+          "nariz, traqueia e pulmões",
+          "coração, sangue e vasos"
+        ],
+        "respostaCorreta": "ossos, músculos e articulações",
+        "explicacao": "Essas estruturas fazem parte do sistema locomotor.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-03",
+        "enunciado": "Os ossos ajudam principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sustentar e proteger o corpo",
+          "produzir ar para a respiração",
+          "fazer a digestão dos alimentos",
+          "filtrar o sangue"
+        ],
+        "respostaCorreta": "sustentar e proteger o corpo",
+        "explicacao": "Os ossos dão estrutura ao corpo e ajudam a proteger órgãos importantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-04",
+        "enunciado": "Os músculos têm papel importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participam dos movimentos corporais",
+          "substituem os ossos",
+          "produzem urina",
+          "captam oxigênio do ar"
+        ],
+        "respostaCorreta": "participam dos movimentos corporais",
+        "explicacao": "Os músculos atuam junto com outras partes do sistema locomotor na realização dos movimentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-05",
+        "enunciado": "As articulações são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facilitam a ligação entre ossos e os movimentos",
+          "produzem energia elétrica",
+          "substituem os nervos",
+          "realizam a circulação do sangue"
+        ],
+        "respostaCorreta": "facilitam a ligação entre ossos e os movimentos",
+        "explicacao": "As articulações ajudam a unir ossos e contribuem para os movimentos do corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-06",
+        "enunciado": "Ao estudar o sistema locomotor, o aluno compreende que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o movimento depende da ação conjunta de diferentes partes do corpo",
+          "os músculos trabalham sem os ossos",
+          "o corpo se movimenta sem articulações",
+          "somente um órgão é responsável por todos os movimentos"
+        ],
+        "respostaCorreta": "o movimento depende da ação conjunta de diferentes partes do corpo",
+        "explicacao": "Ossos, músculos e articulações atuam de forma integrada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-07",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O sistema locomotor participa do movimento.",
+          "Os ossos ajudam na sustentação do corpo.",
+          "Os músculos não têm relação com os movimentos.",
+          "Articulações participam das ações corporais."
+        ],
+        "respostaCorreta": "Os músculos não têm relação com os movimentos.",
+        "explicacao": "Os músculos são fundamentais para os movimentos do corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-ex-08",
+        "enunciado": "A principal ideia desse tema é entender como o corpo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se sustenta e se movimenta",
+          "forma nuvens e chuvas",
+          "produz continentes",
+          "muda o clima do planeta"
+        ],
+        "respostaCorreta": "se sustenta e se movimenta",
+        "explicacao": "O sistema locomotor está diretamente ligado à sustentação e ao movimento.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-sim-01",
+        "enunciado": "A relação entre ossos, músculos e articulações mostra que o movimento corporal:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "depende da integração entre diferentes estruturas",
+          "acontece sem participação dos músculos",
+          "dispensa os ossos",
+          "não tem relação com o corpo humano"
+        ],
+        "respostaCorreta": "depende da integração entre diferentes estruturas",
+        "explicacao": "O sistema locomotor funciona por meio da ação conjunta de suas partes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-locomotor-introdutorio-sim-02",
+        "enunciado": "A importância do sistema locomotor para a vida cotidiana está no fato de que ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permite ações como caminhar, correr e movimentar o corpo",
+          "substitui todos os outros sistemas",
+          "elimina a necessidade de cuidados com o corpo",
+          "atua apenas durante o sono"
+        ],
+        "respostaCorreta": "permite ações como caminhar, correr e movimentar o corpo",
+        "explicacao": "O sistema locomotor é essencial para a movimentação e para a sustentação do corpo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "red6-planejamento-de-texto",
+    "titulo": "Planejamento de texto",
+    "disciplinaId": "red6",
+    "turmaId": "6ano",
+    "unidade": "Produção escrita",
+    "resumo": [
+      "Planejar o texto ajuda a organizar melhor as ideias antes de escrever.",
+      "Um bom planejamento considera tema, objetivo, leitor e estrutura.",
+      "Anotações, esquemas e tópicos podem ajudar na preparação da escrita.",
+      "Escrever melhor também envolve revisar e reorganizar o texto.",
+      "Estudar esse tema fortalece a produção textual e a clareza na escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Por que planejar o texto",
+        "texto": "Antes de escrever, é importante pensar no que será dito e em como isso será organizado. O planejamento ajuda a evitar repetições, falta de sentido e desorganização, tornando o texto mais claro e coerente.",
+        "dica": "Planejar antes de escrever costuma facilitar muito o momento da produção."
+      },
+      {
+        "subtitulo": "Elementos do planejamento",
+        "texto": "Ao planejar um texto, é útil considerar o tema, o objetivo, o tipo de leitor e a estrutura das ideias. Fazer tópicos ou pequenos esquemas ajuda a definir o que deve aparecer no início, no desenvolvimento e no encerramento.",
+        "dica": "Pensar no leitor ajuda a escolher melhor o que dizer e como dizer."
+      },
+      {
+        "subtitulo": "Revisão e melhoria",
+        "texto": "Depois de escrever, revisar o texto também faz parte da produção. Na revisão, o autor pode corrigir erros, reorganizar trechos e melhorar a clareza. Escrever bem é um processo que envolve preparação e cuidado.",
+        "dica": "Revisar não é sinal de erro; é parte importante de uma boa escrita."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que fazer tópicos pode ajudar antes da escrita.",
+        "passos": [
+          "Os tópicos ajudam a organizar as ideias principais.",
+          "Com eles, o autor sabe melhor o que colocar em cada parte do texto.",
+          "Isso favorece uma produção mais clara."
+        ],
+        "resposta": "Fazer tópicos ajuda a organizar as ideias antes de escrever."
+      },
+      {
+        "enunciado": "Relacione planejamento e revisão.",
+        "passos": [
+          "O planejamento prepara a escrita.",
+          "A revisão ajuda a melhorar o texto depois de pronto.",
+          "Juntos, esses passos fortalecem a produção textual."
+        ],
+        "resposta": "Planejamento e revisão são etapas importantes de uma boa produção escrita."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red6-planejamento-de-texto-ex-01",
+        "enunciado": "Planejar um texto antes de escrever ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar melhor as ideias",
+          "eliminar toda necessidade de revisão",
+          "dispensar qualquer cuidado com a escrita",
+          "escrever sem pensar no tema"
+        ],
+        "respostaCorreta": "organizar melhor as ideias",
+        "explicacao": "O planejamento torna a escrita mais clara e coerente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red6-planejamento-de-texto-ex-02",
+        "enunciado": "Ao planejar um texto, é importante pensar em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tema, objetivo e leitor",
+          "somente na cor da folha",
+          "apenas no tamanho das letras",
+          "somente na capa do caderno"
+        ],
+        "respostaCorreta": "tema, objetivo e leitor",
+        "explicacao": "Esses elementos ajudam a orientar a produção textual.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red6-planejamento-de-texto-ex-03",
+        "enunciado": "Fazer tópicos antes da escrita pode ajudar porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facilita a organização das ideias",
+          "substitui todo o texto final",
+          "dispensa a leitura",
+          "impede a criação de frases"
+        ],
+        "respostaCorreta": "facilita a organização das ideias",
+        "explicacao": "Os tópicos ajudam a distribuir e ordenar melhor o conteúdo do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red6-planejamento-de-texto-ex-04",
+        "enunciado": "A revisão do texto é importante porque permite:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "corrigir e melhorar a escrita",
+          "apagar qualquer sentido do texto",
+          "evitar completamente a leitura",
+          "substituir o planejamento por improviso"
+        ],
+        "respostaCorreta": "corrigir e melhorar a escrita",
+        "explicacao": "Na revisão, o autor pode corrigir erros e tornar o texto mais claro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red6-planejamento-de-texto-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como preparar e melhorar a produção escrita",
+          "somente o sistema respiratório",
+          "apenas a cartografia",
+          "exclusivamente a classificação dos metais"
+        ],
+        "respostaCorreta": "como preparar e melhorar a produção escrita",
+        "explicacao": "O tema ajuda a organizar ideias, escrever melhor e revisar com mais atenção.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red6-planejamento-de-texto-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar pode ajudar na clareza do texto.",
+          "Revisar é parte da produção escrita.",
+          "Pensar no leitor pode ser importante.",
+          "Escrever bem não depende de organização das ideias."
+        ],
+        "respostaCorreta": "Escrever bem não depende de organização das ideias.",
+        "explicacao": "A organização das ideias é uma parte importante da qualidade do texto.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red6-planejamento-de-texto-sim-01",
+        "enunciado": "Ao relacionar planejamento, tópicos e revisão, o aluno identifica etapas da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produção textual",
+          "circulação sanguínea",
+          "regionalização do Brasil",
+          "fotossíntese"
+        ],
+        "respostaCorreta": "produção textual",
+        "explicacao": "Esses elementos fazem parte do processo de escrever com mais clareza e organização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red6-planejamento-de-texto-sim-02",
+        "enunciado": "A principal ideia desse tema é que escrever bem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolve pensar antes, organizar ideias e revisar depois",
+          "depende apenas de escrever rápido",
+          "não precisa de planejamento",
+          "dispensa qualquer releitura"
+        ],
+        "respostaCorreta": "envolve pensar antes, organizar ideias e revisar depois",
+        "explicacao": "Planejamento e revisão fortalecem a qualidade da produção escrita.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

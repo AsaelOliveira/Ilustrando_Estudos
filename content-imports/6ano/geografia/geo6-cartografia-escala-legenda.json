@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo6-cartografia-escala-legenda",
+    "titulo": "Cartografia: escala e legenda",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Representação do espaço",
+    "resumo": [
+      "Mapas são representações do espaço geográfico.",
+      "A legenda ajuda a interpretar símbolos e cores presentes no mapa.",
+      "A escala indica a relação entre a representação e o espaço real.",
+      "Elementos cartográficos facilitam a leitura correta dos mapas.",
+      "Estudar esse tema ajuda a desenvolver a interpretação cartográfica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "A função da legenda",
+        "texto": "A legenda explica o significado das cores, linhas, sinais e símbolos usados em um mapa. Sem a legenda, a interpretação das informações cartográficas se torna mais difícil e menos precisa.",
+        "dica": "Ao ler um mapa, observar a legenda é um passo essencial."
+      },
+      {
+        "subtitulo": "O que é escala",
+        "texto": "A escala mostra a relação entre o tamanho representado no mapa e o tamanho real do espaço. Como não é possível colocar o território inteiro no papel em tamanho real, a escala ajuda a adaptar essa representação.",
+        "dica": "Escala ajuda a entender que o mapa é uma redução da realidade."
+      },
+      {
+        "subtitulo": "Leitura cartográfica",
+        "texto": "Para interpretar um mapa corretamente, é importante observar título, legenda, escala e orientação. Esses elementos tornam a leitura cartográfica mais clara e ajudam o estudante a compreender melhor o espaço representado.",
+        "dica": "Mapas precisam ser lidos com atenção aos seus elementos básicos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a legenda é importante em um mapa.",
+        "passos": [
+          "Os mapas usam símbolos e cores para representar informações.",
+          "A legenda mostra o significado desses elementos.",
+          "Por isso, ela é essencial para a leitura correta."
+        ],
+        "resposta": "A legenda é importante porque ajuda a interpretar os símbolos e as cores do mapa."
+      },
+      {
+        "enunciado": "Relacione escala e representação do espaço.",
+        "passos": [
+          "O espaço real é muito maior do que o mapa.",
+          "A escala mostra a proporção entre a realidade e sua representação.",
+          "Assim, ela ajuda a compreender o tamanho reduzido do mapa."
+        ],
+        "resposta": "A escala indica a relação entre a representação cartográfica e o espaço real."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-01",
+        "enunciado": "A legenda de um mapa serve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "explicar o significado de símbolos e cores",
+          "substituir o título do mapa",
+          "formar rios e montanhas",
+          "medir a temperatura do ambiente"
+        ],
+        "respostaCorreta": "explicar o significado de símbolos e cores",
+        "explicacao": "A legenda ajuda o leitor a interpretar corretamente as informações cartográficas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-02",
+        "enunciado": "A escala indica a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o mapa e o espaço real",
+          "somente o clima e o solo",
+          "os rios e as florestas",
+          "as frases e as sílabas"
+        ],
+        "respostaCorreta": "o mapa e o espaço real",
+        "explicacao": "A escala mostra a proporção entre a representação cartográfica e a realidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-03",
+        "enunciado": "Qual alternativa apresenta um elemento importante para a leitura de mapas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "legenda",
+          "sistema digestório",
+          "fotossíntese",
+          "classe gramatical"
+        ],
+        "respostaCorreta": "legenda",
+        "explicacao": "A legenda é um dos elementos básicos da interpretação cartográfica.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-04",
+        "enunciado": "Por que a escala é necessária em um mapa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porque o espaço real precisa ser representado de forma reduzida",
+          "porque o mapa sempre tem tamanho real",
+          "porque a legenda substitui a escala",
+          "porque a escala serve apenas para decorar"
+        ],
+        "respostaCorreta": "porque o espaço real precisa ser representado de forma reduzida",
+        "explicacao": "A escala ajuda a adaptar o tamanho da realidade ao tamanho do mapa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-05",
+        "enunciado": "Ao estudar cartografia, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como interpretar representações do espaço geográfico",
+          "somente o funcionamento do corpo humano",
+          "apenas a história da Revolução Francesa",
+          "exclusivamente a formação das rochas"
+        ],
+        "respostaCorreta": "como interpretar representações do espaço geográfico",
+        "explicacao": "A cartografia ajuda a ler e compreender mapas e outras representações do espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A legenda ajuda a interpretar o mapa.",
+          "A escala se relaciona com a proporção da representação.",
+          "Mapas podem ser lidos sem atenção a nenhum elemento cartográfico.",
+          "Título, legenda e escala são elementos importantes."
+        ],
+        "respostaCorreta": "Mapas podem ser lidos sem atenção a nenhum elemento cartográfico.",
+        "explicacao": "A leitura correta do mapa depende da observação de seus elementos cartográficos.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-cartografia-escala-legenda-sim-01",
+        "enunciado": "Ao relacionar símbolos, cores e interpretação cartográfica, o aluno identifica a função da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "legenda",
+          "bexiga",
+          "cadeia alimentar",
+          "pontuação"
+        ],
+        "respostaCorreta": "legenda",
+        "explicacao": "A legenda explica os símbolos e as cores usados no mapa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-escala-legenda-sim-02",
+        "enunciado": "A principal importância da escala em um mapa é mostrar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre a representação e o espaço real",
+          "o nome de todos os lugares do mundo",
+          "somente a direção do norte",
+          "apenas a cor de cada paisagem"
+        ],
+        "respostaCorreta": "a relação entre a representação e o espaço real",
+        "explicacao": "A escala indica a proporção entre o espaço verdadeiro e sua representação no mapa.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

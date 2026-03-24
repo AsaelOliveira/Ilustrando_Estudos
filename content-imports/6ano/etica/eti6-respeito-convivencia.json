@@ -1,0 +1,169 @@
+[
+  {
+    "id": "eti6-respeito-convivencia",
+    "titulo": "Respeito e convivência",
+    "disciplinaId": "eti6",
+    "turmaId": "6ano",
+    "unidade": "Valores e relações humanas",
+    "resumo": [
+      "O respeito é fundamental para a convivência entre as pessoas.",
+      "Conviver bem envolve diálogo, escuta e consideração pelo outro.",
+      "Diferenças fazem parte da vida em sociedade e devem ser tratadas com respeito.",
+      "Atitudes de empatia e responsabilidade ajudam a melhorar a convivência.",
+      "Estudar esse tema fortalece relações mais justas e humanas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é respeito",
+        "texto": "Respeitar significa reconhecer o valor das outras pessoas, de suas opiniões, limites e diferenças. O respeito é essencial para construir relações saudáveis em casa, na escola e em outros espaços de convivência.",
+        "dica": "Respeito não é apenas concordar com o outro, mas tratá-lo com dignidade."
+      },
+      {
+        "subtitulo": "Convivência no cotidiano",
+        "texto": "A convivência acontece todos os dias, em grupos diferentes. Para que ela seja positiva, é importante ouvir, dialogar, cumprir combinados e agir com responsabilidade. Pequenas atitudes fazem grande diferença no ambiente coletivo.",
+        "dica": "Convivência exige prática, não apenas discurso."
+      },
+      {
+        "subtitulo": "Diferenças e empatia",
+        "texto": "As pessoas não são iguais, e isso faz parte da vida em sociedade. Aprender a conviver com diferenças e agir com empatia ajuda a reduzir conflitos e a construir relações mais respeitosas.",
+        "dica": "Empatia é tentar compreender o ponto de vista e os sentimentos do outro."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que ouvir o colega com atenção é uma atitude de respeito.",
+        "passos": [
+          "Ouvir mostra que a fala do outro tem valor.",
+          "Isso ajuda no diálogo e na compreensão mútua.",
+          "Por isso, escutar com atenção é uma atitude respeitosa."
+        ],
+        "resposta": "Ouvir com atenção demonstra respeito e fortalece a convivência."
+      },
+      {
+        "enunciado": "Relacione empatia e convivência.",
+        "passos": [
+          "A empatia ajuda a considerar os sentimentos do outro.",
+          "Isso pode reduzir conflitos e melhorar as relações.",
+          "Assim, empatia e convivência estão ligadas."
+        ],
+        "resposta": "A empatia contribui para uma convivência mais humana e respeitosa."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "eti6-respeito-convivencia-ex-01",
+        "enunciado": "O respeito é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a construir boas relações",
+          "impede qualquer diálogo",
+          "faz desaparecer todas as diferenças",
+          "serve apenas em situações formais"
+        ],
+        "respostaCorreta": "ajuda a construir boas relações",
+        "explicacao": "O respeito fortalece a convivência e as relações humanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti6-respeito-convivencia-ex-02",
+        "enunciado": "Qual atitude demonstra respeito em uma conversa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ouvir o outro com atenção",
+          "interromper o tempo todo",
+          "ignorar a fala dos colegas",
+          "desrespeitar opiniões diferentes"
+        ],
+        "respostaCorreta": "ouvir o outro com atenção",
+        "explicacao": "Escutar com atenção é uma atitude importante para o diálogo respeitoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti6-respeito-convivencia-ex-03",
+        "enunciado": "A empatia pode ser entendida como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tentar compreender o outro",
+          "recusar qualquer diferença",
+          "pensar apenas em si mesmo",
+          "ignorar sentimentos alheios"
+        ],
+        "respostaCorreta": "tentar compreender o outro",
+        "explicacao": "Empatia está ligada à capacidade de considerar sentimentos e perspectivas de outras pessoas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti6-respeito-convivencia-ex-04",
+        "enunciado": "Ao conviver com pessoas diferentes, o mais adequado é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agir com respeito e diálogo",
+          "rejeitar toda diferença",
+          "criar conflitos sem necessidade",
+          "evitar qualquer escuta"
+        ],
+        "respostaCorreta": "agir com respeito e diálogo",
+        "explicacao": "Diferenças fazem parte da vida em sociedade e devem ser tratadas com respeito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti6-respeito-convivencia-ex-05",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Respeito ajuda na convivência.",
+          "Empatia pode melhorar relações.",
+          "Diferenças devem sempre gerar exclusão.",
+          "O diálogo é importante no cotidiano."
+        ],
+        "respostaCorreta": "Diferenças devem sempre gerar exclusão.",
+        "explicacao": "As diferenças fazem parte da convivência e devem ser tratadas com respeito, não com exclusão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti6-respeito-convivencia-ex-06",
+        "enunciado": "A principal ideia desse tema é que a convivência:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fica melhor quando há respeito, diálogo e empatia",
+          "não depende das atitudes das pessoas",
+          "dispensa responsabilidade",
+          "melhora com desrespeito e intolerância"
+        ],
+        "respostaCorreta": "fica melhor quando há respeito, diálogo e empatia",
+        "explicacao": "Esses valores ajudam a construir relações mais saudáveis e justas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "eti6-respeito-convivencia-sim-01",
+        "enunciado": "Ao relacionar escuta, empatia e responsabilidade, o aluno identifica atitudes que fortalecem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a convivência respeitosa",
+          "o conflito permanente",
+          "a exclusão social",
+          "a ausência de diálogo"
+        ],
+        "respostaCorreta": "a convivência respeitosa",
+        "explicacao": "Essas atitudes contribuem para relações mais humanas e positivas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti6-respeito-convivencia-sim-02",
+        "enunciado": "A principal lição desse tema é que viver em grupo exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respeito às pessoas e às diferenças",
+          "indiferença total aos outros",
+          "ausência de escuta",
+          "recusa de qualquer diálogo"
+        ],
+        "respostaCorreta": "respeito às pessoas e às diferenças",
+        "explicacao": "O respeito é uma base importante para a convivência em sociedade.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

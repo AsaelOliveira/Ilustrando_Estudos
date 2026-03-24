@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-sistema-respiratorio",
+    "titulo": "Sistema respiratório",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema respiratório participa das trocas gasosas do organismo.",
+      "Por meio da respiração, o corpo obtém oxigênio e elimina gás carbônico.",
+      "Nariz, traqueia, brônquios e pulmões fazem parte desse sistema.",
+      "Respirar é essencial para o funcionamento do corpo.",
+      "Cuidar da qualidade do ar e dos hábitos de saúde ajuda o sistema respiratório."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema respiratório",
+        "texto": "O sistema respiratório tem a função de permitir a entrada de oxigênio no organismo e a eliminação de gás carbônico. Esse processo é essencial para a manutenção da vida e para o funcionamento adequado das células do corpo.",
+        "dica": "Respirar não é apenas puxar ar; é participar de trocas importantes para o organismo."
+      },
+      {
+        "subtitulo": "Principais órgãos",
+        "texto": "O ar entra pelo nariz, passa por estruturas do sistema respiratório, segue pela traqueia e chega aos pulmões. Nesse percurso, o organismo participa das trocas gasosas necessárias ao corpo.",
+        "dica": "Acompanhar o caminho do ar ajuda a compreender melhor o funcionamento do sistema."
+      },
+      {
+        "subtitulo": "Respiração e saúde",
+        "texto": "Hábitos saudáveis e ambientes com ar de melhor qualidade contribuem para o bom funcionamento do sistema respiratório. Evitar fumaça e cuidar da saúde são atitudes importantes para a respiração.",
+        "dica": "Saúde respiratória também depende de prevenção e cuidados diários."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o oxigênio é importante para o corpo.",
+        "passos": [
+          "O sistema respiratório ajuda a captar oxigênio.",
+          "Esse gás é importante para o funcionamento das células.",
+          "Por isso, a respiração é essencial para a vida."
+        ],
+        "resposta": "O oxigênio é importante porque participa do funcionamento do organismo."
+      },
+      {
+        "enunciado": "Descreva o caminho do ar até os pulmões.",
+        "passos": [
+          "O ar entra pelo nariz.",
+          "Depois passa por estruturas internas do sistema respiratório.",
+          "Em seguida, chega aos pulmões."
+        ],
+        "resposta": "O ar percorre diferentes partes do sistema respiratório até alcançar os pulmões."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-respiratorio-ex-01",
+        "enunciado": "A principal função do sistema respiratório é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "realizar trocas gasosas importantes para o organismo",
+          "bombear sangue para todo o corpo",
+          "digerir os alimentos",
+          "produzir ossos"
+        ],
+        "respostaCorreta": "realizar trocas gasosas importantes para o organismo",
+        "explicacao": "O sistema respiratório ajuda na entrada de oxigênio e na eliminação de gás carbônico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-02",
+        "enunciado": "Qual gás o corpo obtém por meio da respiração?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oxigênio",
+          "ouro",
+          "hidrogênio metálico",
+          "sal"
+        ],
+        "respostaCorreta": "oxigênio",
+        "explicacao": "O oxigênio é essencial para o funcionamento do organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-03",
+        "enunciado": "Qual estrutura faz parte do sistema respiratório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pulmões",
+          "fêmur",
+          "estômago",
+          "intestino"
+        ],
+        "respostaCorreta": "pulmões",
+        "explicacao": "Os pulmões são órgãos importantes do sistema respiratório.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-04",
+        "enunciado": "O ar geralmente entra no corpo pelo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nariz",
+          "coração",
+          "fígado",
+          "estômago"
+        ],
+        "respostaCorreta": "nariz",
+        "explicacao": "O nariz é a principal via de entrada do ar no sistema respiratório.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-05",
+        "enunciado": "Na respiração, o corpo elimina principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "gás carbônico",
+          "ferro",
+          "terra",
+          "pedra"
+        ],
+        "respostaCorreta": "gás carbônico",
+        "explicacao": "O sistema respiratório elimina gás carbônico durante as trocas gasosas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-06",
+        "enunciado": "Qual alternativa apresenta apenas estruturas do sistema respiratório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nariz, traqueia e pulmões",
+          "boca, estômago e intestino",
+          "rim, bexiga e uretra",
+          "osso, músculo e pele"
+        ],
+        "respostaCorreta": "nariz, traqueia e pulmões",
+        "explicacao": "Essas estruturas fazem parte do sistema respiratório.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-07",
+        "enunciado": "Cuidar da qualidade do ar é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda o sistema respiratório a funcionar melhor",
+          "elimina a necessidade de respirar",
+          "substitui a alimentação",
+          "impede o funcionamento dos pulmões"
+        ],
+        "respostaCorreta": "ajuda o sistema respiratório a funcionar melhor",
+        "explicacao": "Ambientes mais saudáveis contribuem para a saúde respiratória.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-ex-08",
+        "enunciado": "Ao estudar o sistema respiratório, o aluno compreende que respirar é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "essencial para a vida e para o funcionamento do corpo",
+          "uma atividade sem importância para o organismo",
+          "algo ligado somente aos ossos",
+          "um processo exclusivo da digestão"
+        ],
+        "respostaCorreta": "essencial para a vida e para o funcionamento do corpo",
+        "explicacao": "A respiração permite trocas gasosas fundamentais para o organismo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-respiratorio-sim-01",
+        "enunciado": "A relação entre entrada de oxigênio e eliminação de gás carbônico mostra que o sistema respiratório:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participa de trocas gasosas essenciais ao corpo",
+          "atua apenas na digestão",
+          "substitui o sistema circulatório",
+          "não interfere na manutenção da vida"
+        ],
+        "respostaCorreta": "participa de trocas gasosas essenciais ao corpo",
+        "explicacao": "Essa é a função central do sistema respiratório.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-respiratorio-sim-02",
+        "enunciado": "Ao acompanhar o caminho do ar até os pulmões, o aluno percebe que o sistema respiratório:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é formado por estruturas que trabalham de forma integrada",
+          "depende apenas do estômago",
+          "não possui órgãos definidos",
+          "atua somente fora do corpo"
+        ],
+        "respostaCorreta": "é formado por estruturas que trabalham de forma integrada",
+        "explicacao": "Nariz, traqueia, brônquios e pulmões participam conjuntamente do processo respiratório.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

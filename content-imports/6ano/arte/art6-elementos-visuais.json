@@ -1,0 +1,169 @@
+[
+  {
+    "id": "art6-elementos-visuais",
+    "titulo": "Elementos visuais da arte",
+    "disciplinaId": "art6",
+    "turmaId": "6ano",
+    "unidade": "Linguagem visual",
+    "resumo": [
+      "A arte visual utiliza elementos como linha, forma, cor, textura e espaço.",
+      "Esses elementos ajudam a construir imagens e expressar ideias.",
+      "Observar uma obra de arte com atenção permite identificar diferentes recursos visuais.",
+      "Os elementos visuais aparecem em desenhos, pinturas, colagens e outras produções artísticas.",
+      "Estudar esse tema ajuda a ampliar a leitura e a criação em arte."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Linha e forma",
+        "texto": "A linha pode contornar, separar, indicar movimento ou organizar partes de uma imagem. A forma corresponde aos elementos visuais que ocupam espaço e ajudam a construir figuras em uma composição artística.",
+        "dica": "Linhas e formas são bases importantes para muitas criações visuais."
+      },
+      {
+        "subtitulo": "Cor e textura",
+        "texto": "As cores produzem efeitos visuais e emocionais variados. A textura está relacionada ao aspecto de superfície de uma imagem ou objeto, podendo sugerir sensações como aspereza, suavidade ou irregularidade.",
+        "dica": "Ao observar uma obra, repare em como as cores e texturas ajudam a criar sentidos."
+      },
+      {
+        "subtitulo": "Leitura de imagens",
+        "texto": "Identificar os elementos visuais em uma obra ajuda a compreender melhor como ela foi construída. Essa observação também contribui para que o estudante desenvolva sua própria produção artística com mais consciência.",
+        "dica": "Ler uma imagem é perceber seus elementos e como eles se organizam."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um desenho com linhas curvas e cores fortes.",
+        "passos": [
+          "As linhas ajudam a construir o movimento da imagem.",
+          "As cores fortes chamam atenção para certas partes.",
+          "Isso mostra como os elementos visuais organizam a obra."
+        ],
+        "resposta": "Linhas e cores podem trabalhar juntas para criar expressão visual."
+      },
+      {
+        "enunciado": "Analise uma pintura com diferentes texturas.",
+        "passos": [
+          "A superfície parece variar de uma parte para outra.",
+          "Essas variações criam efeitos visuais interessantes.",
+          "Assim, a textura participa da leitura da obra."
+        ],
+        "resposta": "A textura ajuda a enriquecer a composição artística."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "art6-elementos-visuais-ex-01",
+        "enunciado": "Qual alternativa apresenta um elemento visual da arte?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cor",
+          "planeta",
+          "equação",
+          "pulmão"
+        ],
+        "respostaCorreta": "cor",
+        "explicacao": "A cor é um dos elementos visuais importantes na linguagem artística.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art6-elementos-visuais-ex-02",
+        "enunciado": "A linha em uma produção artística pode ajudar a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar e construir a imagem",
+          "eliminar toda forma da composição",
+          "substituir todas as cores do mundo",
+          "medir a temperatura do ambiente"
+        ],
+        "respostaCorreta": "organizar e construir a imagem",
+        "explicacao": "A linha pode contornar, separar e organizar partes da imagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art6-elementos-visuais-ex-03",
+        "enunciado": "A textura está relacionada principalmente ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aspecto de superfície",
+          "peso da tinta em quilos",
+          "nome do artista apenas",
+          "tempo de rotação da Terra"
+        ],
+        "respostaCorreta": "aspecto de superfície",
+        "explicacao": "A textura se refere ao modo como uma superfície pode ser percebida visualmente ou pelo toque.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art6-elementos-visuais-ex-04",
+        "enunciado": "Ao observar uma obra com diferentes tons de cor, o estudante pode perceber:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "efeitos visuais e expressivos",
+          "somente dados matemáticos",
+          "apenas regras gramaticais",
+          "nada além do nome da obra"
+        ],
+        "respostaCorreta": "efeitos visuais e expressivos",
+        "explicacao": "As cores ajudam a criar sentidos e efeitos na composição artística.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art6-elementos-visuais-ex-05",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Linha, forma e cor são elementos visuais.",
+          "Textura pode participar da leitura de uma obra.",
+          "Os elementos visuais ajudam a construir imagens.",
+          "Elementos visuais não têm importância na arte."
+        ],
+        "respostaCorreta": "Elementos visuais não têm importância na arte.",
+        "explicacao": "Os elementos visuais são fundamentais para a criação e a interpretação de produções artísticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art6-elementos-visuais-ex-06",
+        "enunciado": "A principal ideia desse tema é que a arte visual:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é construída com diferentes elementos que organizam a imagem",
+          "dispensa totalmente linhas e cores",
+          "existe sem qualquer escolha do artista",
+          "não pode ser observada e analisada"
+        ],
+        "respostaCorreta": "é construída com diferentes elementos que organizam a imagem",
+        "explicacao": "Os elementos visuais ajudam a formar a composição artística e a produzir sentidos.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "art6-elementos-visuais-sim-01",
+        "enunciado": "Ao observar linha, cor, forma e textura em uma imagem, o aluno está identificando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "elementos visuais da arte",
+          "partes do sistema digestório",
+          "categorias da cartografia",
+          "etapas da Revolução Francesa"
+        ],
+        "respostaCorreta": "elementos visuais da arte",
+        "explicacao": "Esses elementos fazem parte da linguagem visual e ajudam a construir a obra.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art6-elementos-visuais-sim-02",
+        "enunciado": "A principal importância desse tema é compreender que uma imagem artística:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pode ser lida e criada a partir de diferentes elementos visuais",
+          "não precisa de organização nenhuma",
+          "é formada apenas por palavras",
+          "não pode ser analisada"
+        ],
+        "respostaCorreta": "pode ser lida e criada a partir de diferentes elementos visuais",
+        "explicacao": "O estudo dos elementos visuais amplia a leitura e a produção em arte.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

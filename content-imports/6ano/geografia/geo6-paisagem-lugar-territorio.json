@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-paisagem-lugar-territorio",
+    "titulo": "Paisagem, lugar e território",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Conceitos básicos da Geografia",
+    "resumo": [
+      "Paisagem é tudo aquilo que podemos perceber em um espaço, com elementos naturais e humanos.",
+      "Lugar é o espaço vivido, com o qual as pessoas criam relações de pertencimento e experiência.",
+      "Território envolve controle, organização e poder sobre um espaço.",
+      "As paisagens mudam ao longo do tempo por ação da natureza e da sociedade.",
+      "Entender esses conceitos ajuda a interpretar melhor o espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é paisagem",
+        "texto": "Paisagem é o conjunto de elementos que podemos observar em um espaço. Ela inclui rios, montanhas, ruas, casas, plantações, prédios, pontes e muitos outros componentes. A paisagem pode mudar com o passar do tempo.",
+        "dica": "Ao olhar um lugar, tente perceber o que foi feito pela natureza e o que foi feito pelas pessoas."
+      },
+      {
+        "subtitulo": "O que é lugar",
+        "texto": "Lugar é o espaço vivido pelas pessoas. Ele está ligado ao cotidiano, às memórias, aos costumes e aos sentimentos de pertencimento. A rua onde alguém mora, a escola e a praça do bairro podem ser exemplos de lugar.",
+        "dica": "Lugar não é apenas uma localização; ele também envolve experiências e relações."
+      },
+      {
+        "subtitulo": "O que é território",
+        "texto": "Território é o espaço marcado por relações de poder, controle e organização. Um país, uma terra indígena, um município ou até uma área delimitada por regras pode ser entendido como território.",
+        "dica": "Quando houver limites, regras, controle ou disputa por um espaço, pense na ideia de território."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma praça com árvores, bancos, calçadas e pessoas circulando.",
+        "passos": [
+          "As árvores representam elementos naturais presentes na paisagem.",
+          "Os bancos, as calçadas e a circulação de pessoas mostram a ação humana nesse espaço.",
+          "Tudo isso junto forma a paisagem observada."
+        ],
+        "resposta": "A paisagem reúne elementos naturais e humanos presentes na praça."
+      },
+      {
+        "enunciado": "Pense na escola que você frequenta.",
+        "passos": [
+          "Ela faz parte do cotidiano de muitos estudantes.",
+          "Nesse espaço existem lembranças, convivência e experiências vividas.",
+          "Por isso, a escola pode ser entendida como um lugar."
+        ],
+        "resposta": "A escola é um exemplo de lugar, porque faz parte da vida e da experiência das pessoas."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-01",
+        "enunciado": "Qual alternativa define corretamente paisagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É apenas o espaço natural sem presença humana.",
+          "É o conjunto do que pode ser percebido em um espaço.",
+          "É somente um espaço político com fronteiras.",
+          "É o mesmo que mapa."
+        ],
+        "respostaCorreta": "É o conjunto do que pode ser percebido em um espaço.",
+        "explicacao": "Paisagem reúne elementos observáveis de um espaço, naturais e humanos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-02",
+        "enunciado": "Qual situação representa melhor a ideia de lugar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma coordenada desenhada em um mapa.",
+          "O espaço vivido e carregado de experiências pelas pessoas.",
+          "A divisão política entre países.",
+          "Um satélite em órbita."
+        ],
+        "respostaCorreta": "O espaço vivido e carregado de experiências pelas pessoas.",
+        "explicacao": "Lugar está ligado ao cotidiano, ao pertencimento e às vivências.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-03",
+        "enunciado": "A ideia de território está mais diretamente relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "somente à vegetação",
+          "controle, limites e poder sobre um espaço",
+          "sentimentos pessoais sem relação com organização",
+          "apenas à cor do solo"
+        ],
+        "respostaCorreta": "controle, limites e poder sobre um espaço",
+        "explicacao": "Território envolve organização, domínio, regras e relações de poder.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-04",
+        "enunciado": "Em uma paisagem urbana, qual elemento foi claramente construído pelas pessoas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rio",
+          "morro",
+          "prédio",
+          "chuva"
+        ],
+        "respostaCorreta": "prédio",
+        "explicacao": "Prédios são exemplos de elementos humanos na paisagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a paisagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela nunca muda.",
+          "Ela pode se transformar com o tempo.",
+          "Ela é formada apenas por elementos naturais.",
+          "Ela não pode ser observada."
+        ],
+        "respostaCorreta": "Ela pode se transformar com o tempo.",
+        "explicacao": "A paisagem muda por ação da natureza e das sociedades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-06",
+        "enunciado": "Qual exemplo está mais ligado à ideia de território?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma lembrança da infância na escola.",
+          "Uma área delimitada por fronteiras e leis.",
+          "Uma fotografia de uma montanha.",
+          "O sentimento por uma rua do bairro."
+        ],
+        "respostaCorreta": "Uma área delimitada por fronteiras e leis.",
+        "explicacao": "Território envolve limites, organização e controle do espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-07",
+        "enunciado": "Quando uma pessoa afirma que a praça do bairro faz parte da sua história e do seu cotidiano, ela está se referindo principalmente à ideia de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "território",
+          "lugar",
+          "clima",
+          "escala"
+        ],
+        "respostaCorreta": "lugar",
+        "explicacao": "Lugar está relacionado às vivências, às memórias e ao pertencimento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-08",
+        "enunciado": "Qual alternativa apresenta apenas elementos de uma paisagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ruas, árvores e casas",
+          "latitude, longitude e escala",
+          "fronteiras, tratados e leis",
+          "bússola, rosa dos ventos e legenda"
+        ],
+        "respostaCorreta": "ruas, árvores e casas",
+        "explicacao": "Esses elementos podem ser percebidos diretamente em uma paisagem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-09",
+        "enunciado": "Um aluno disse que paisagem e lugar são exatamente a mesma coisa. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque lugar envolve vivência e paisagem envolve observação do espaço",
+          "correta, porque os dois termos significam fronteira política",
+          "incorreta, porque paisagem existe apenas no campo"
+        ],
+        "respostaCorreta": "incorreta, porque lugar envolve vivência e paisagem envolve observação do espaço",
+        "explicacao": "Paisagem e lugar se relacionam, mas não são a mesma coisa.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-ex-10",
+        "enunciado": "Qual alternativa apresenta uma informação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Território não tem relação com poder.",
+          "Lugar não tem relação com a vida cotidiana.",
+          "Paisagem pode reunir elementos naturais e humanos.",
+          "Paisagem não pode mudar com o tempo."
+        ],
+        "respostaCorreta": "Paisagem pode reunir elementos naturais e humanos.",
+        "explicacao": "Esse é um aspecto central do conceito de paisagem.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-paisagem-lugar-territorio-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente lugar e território?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lugar envolve vivência; território envolve controle e limites.",
+          "Lugar é político; território é afetivo.",
+          "Lugar e território são termos idênticos.",
+          "Território não tem relação com organização."
+        ],
+        "respostaCorreta": "Lugar envolve vivência; território envolve controle e limites.",
+        "explicacao": "Essa comparação resume bem a diferença entre os dois conceitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-sim-02",
+        "enunciado": "Qual alternativa apresenta uma transformação da paisagem provocada por ação humana?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o crescimento natural de uma mata",
+          "a construção de uma ponte sobre um rio",
+          "a formação de nuvens",
+          "a mudança das estações do ano"
+        ],
+        "respostaCorreta": "a construção de uma ponte sobre um rio",
+        "explicacao": "A construção de obras é uma intervenção humana na paisagem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Território é apenas o espaço natural sem presença humana' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque território envolve organização e poder sobre o espaço.",
+          "A frase é verdadeira apenas nas florestas.",
+          "A frase é falsa, porque território é o mesmo que clima."
+        ],
+        "respostaCorreta": "A frase é falsa, porque território envolve organização e poder sobre o espaço.",
+        "explicacao": "Território não se limita à natureza; ele inclui relações sociais e políticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-sim-04",
+        "enunciado": "Ao observar uma fotografia de um bairro com ruas, postes, árvores e casas, estamos analisando principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma paisagem",
+          "uma rotação",
+          "uma coordenada",
+          "um satélite"
+        ],
+        "respostaCorreta": "uma paisagem",
+        "explicacao": "A fotografia mostra elementos observáveis do espaço, isto é, uma paisagem.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-paisagem-lugar-territorio-sim-05",
+        "enunciado": "Qual alternativa apresenta um exemplo de lugar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um mapa sem legenda",
+          "a escola frequentada diariamente por uma comunidade",
+          "uma linha de latitude",
+          "um tratado entre países"
+        ],
+        "respostaCorreta": "a escola frequentada diariamente por uma comunidade",
+        "explicacao": "A escola faz parte da vivência cotidiana e pode ser compreendida como lugar.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

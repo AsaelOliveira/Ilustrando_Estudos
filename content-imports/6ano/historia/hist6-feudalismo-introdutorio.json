@@ -1,0 +1,197 @@
+[
+  {
+    "id": "hist6-feudalismo-introdutorio",
+    "titulo": "Feudalismo: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Sociedades medievais",
+    "resumo": [
+      "O feudalismo foi uma forma de organização social, política e econômica presente em parte da Europa medieval.",
+      "A vida econômica era fortemente ligada à terra e ao trabalho no campo.",
+      "Os feudos reuniam terras, produção agrícola e relações de dependência.",
+      "A sociedade feudal era marcada por grupos com funções diferentes, como nobres, clérigos e camponeses.",
+      "O estudo do feudalismo ajuda a compreender aspectos importantes da Idade Média."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi o feudalismo",
+        "texto": "O feudalismo foi uma forma de organização social, política e econômica que se desenvolveu na Europa medieval. Nesse sistema, a terra tinha grande importância, e o poder costumava ser descentralizado, com forte influência dos senhores feudais em seus domínios.",
+        "dica": "No feudalismo, terra e poder estavam fortemente relacionados."
+      },
+      {
+        "subtitulo": "A vida nos feudos",
+        "texto": "Os feudos eram grandes propriedades rurais onde se concentravam a produção agrícola, moradias, áreas de cultivo e relações de dependência entre diferentes grupos. Grande parte da vida econômica acontecia no campo, com destaque para o trabalho dos camponeses.",
+        "dica": "Ao pensar em feudo, imagine um espaço rural voltado à produção e ao controle local."
+      },
+      {
+        "subtitulo": "Sociedade feudal",
+        "texto": "A sociedade feudal era formada por grupos com funções distintas. Nobres estavam ligados à guerra e à posse de terras, clérigos atuavam na vida religiosa, e camponeses trabalhavam na produção agrícola. Essas relações contribuíam para a organização da vida medieval.",
+        "dica": "A sociedade feudal era hierarquizada, com papéis sociais bem definidos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a terra era tão importante no feudalismo.",
+        "passos": [
+          "A economia dependia principalmente da produção agrícola.",
+          "Quem controlava a terra possuía poder e influência.",
+          "Por isso, a terra ocupava posição central na organização feudal."
+        ],
+        "resposta": "A terra era a base da economia e do poder no feudalismo."
+      },
+      {
+        "enunciado": "Compare os papéis de nobres e camponeses na sociedade feudal.",
+        "passos": [
+          "Os nobres estavam ligados à posse de terras e ao poder militar.",
+          "Os camponeses trabalhavam na produção agrícola.",
+          "Esses grupos exerciam funções diferentes dentro da organização feudal."
+        ],
+        "resposta": "Nobres e camponeses tinham posições e funções distintas na sociedade feudal."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-01",
+        "enunciado": "O feudalismo foi uma forma de organização típica de parte da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Europa medieval",
+          "América contemporânea",
+          "Ásia industrial",
+          "Oceania moderna"
+        ],
+        "respostaCorreta": "Europa medieval",
+        "explicacao": "O feudalismo marcou a organização social e econômica de parte da Europa na Idade Média.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-02",
+        "enunciado": "No feudalismo, a atividade econômica mais importante estava ligada principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "à terra e à produção agrícola",
+          "às fábricas e ao comércio internacional",
+          "à internet e aos serviços digitais",
+          "à exploração espacial"
+        ],
+        "respostaCorreta": "à terra e à produção agrícola",
+        "explicacao": "A economia feudal tinha forte base rural e agrícola.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-03",
+        "enunciado": "Os feudos eram:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "propriedades rurais ligadas à produção e ao poder local",
+          "cidades industriais modernas",
+          "redes comerciais marítimas",
+          "templos romanos"
+        ],
+        "respostaCorreta": "propriedades rurais ligadas à produção e ao poder local",
+        "explicacao": "Os feudos reuniam terras, produção agrícola e relações de dependência.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-04",
+        "enunciado": "Qual grupo social estava mais diretamente ligado ao trabalho agrícola no feudalismo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "camponeses",
+          "nobres",
+          "viajantes modernos",
+          "mercadores industriais"
+        ],
+        "respostaCorreta": "camponeses",
+        "explicacao": "Os camponeses trabalhavam na produção agrícola dentro da sociedade feudal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-05",
+        "enunciado": "A sociedade feudal era marcada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grupos com funções diferentes",
+          "igualdade total entre todos",
+          "ausência de trabalho rural",
+          "predomínio exclusivo do comércio marítimo"
+        ],
+        "respostaCorreta": "grupos com funções diferentes",
+        "explicacao": "Nobres, clérigos e camponeses exerciam papéis distintos na organização feudal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-06",
+        "enunciado": "No feudalismo, a terra era importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estava ligada à produção e ao poder",
+          "não tinha qualquer valor econômico",
+          "servia apenas para lazer",
+          "era usada somente para navegação"
+        ],
+        "respostaCorreta": "estava ligada à produção e ao poder",
+        "explicacao": "A terra era a base da economia e também uma fonte importante de poder no feudalismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-07",
+        "enunciado": "Qual alternativa apresenta uma característica da sociedade feudal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hierarquia social e vida rural",
+          "produção industrial automatizada",
+          "uso generalizado de computadores",
+          "cidades dominadas por arranha-céus"
+        ],
+        "respostaCorreta": "hierarquia social e vida rural",
+        "explicacao": "A sociedade feudal era hierarquizada e tinha forte base rural.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-ex-08",
+        "enunciado": "Ao estudar o feudalismo, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a terra e o trabalho agrícola tinham grande importância",
+          "não existiam diferenças sociais",
+          "o campo não participava da economia",
+          "os feudos eram centros industriais modernos"
+        ],
+        "respostaCorreta": "a terra e o trabalho agrícola tinham grande importância",
+        "explicacao": "Esses elementos estavam no centro da organização feudal.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-feudalismo-introdutorio-sim-01",
+        "enunciado": "A importância da terra no feudalismo ajuda a explicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o peso da vida rural e das relações de poder local",
+          "a industrialização intensa das cidades",
+          "o uso de energia nuclear",
+          "a expansão da internet"
+        ],
+        "respostaCorreta": "o peso da vida rural e das relações de poder local",
+        "explicacao": "A terra era base econômica e política no sistema feudal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-feudalismo-introdutorio-sim-02",
+        "enunciado": "Ao analisar um feudo, o aluno deve perceber principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a presença de produção agrícola e de relações sociais hierarquizadas",
+          "o predomínio de fábricas digitais",
+          "a ausência completa de trabalho",
+          "o funcionamento de satélites"
+        ],
+        "respostaCorreta": "a presença de produção agrícola e de relações sociais hierarquizadas",
+        "explicacao": "O feudo era um espaço rural onde produção e hierarquia social estavam articuladas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

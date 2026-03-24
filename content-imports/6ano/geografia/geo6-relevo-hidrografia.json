@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-relevo-hidrografia",
+    "titulo": "Relevo e hidrografia",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Natureza e espaço geográfico",
+    "resumo": [
+      "O relevo corresponde às diferentes formas da superfície terrestre.",
+      "Montanhas, planaltos, planícies e depressões são formas de relevo.",
+      "A hidrografia estuda as águas da superfície terrestre, como rios, lagos e mares.",
+      "O relevo e a água influenciam a vida das pessoas e a organização dos espaços.",
+      "A ação da natureza e da sociedade pode transformar relevo e cursos d'água."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Formas de relevo",
+        "texto": "O relevo é formado pelas diferentes irregularidades da superfície terrestre. Ele pode apresentar áreas altas, baixas, planas ou inclinadas. Essas formas influenciam a ocupação humana, os transportes e a agricultura.",
+        "dica": "Ao observar uma paisagem, perceba se o terreno é mais plano, elevado ou rebaixado."
+      },
+      {
+        "subtitulo": "Hidrografia",
+        "texto": "A hidrografia trata das águas presentes na superfície da Terra, como rios, lagos, mares e oceanos. Essas águas são importantes para abastecimento, agricultura, transporte e equilíbrio ambiental.",
+        "dica": "Rios e lagos fazem parte da vida de muitas populações e ecossistemas."
+      },
+      {
+        "subtitulo": "Relação entre relevo e água",
+        "texto": "O relevo influencia o caminho das águas, e a ação da água também modifica o relevo ao longo do tempo. Em muitos lugares, rios escavam vales, transportam materiais e participam da transformação da paisagem.",
+        "dica": "Na natureza, os elementos do espaço estão sempre interligados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma região de serras e rios.",
+        "passos": [
+          "As serras fazem parte do relevo da região.",
+          "Os rios pertencem à hidrografia local.",
+          "Juntos, eles influenciam a paisagem e as atividades humanas."
+        ],
+        "resposta": "Relevo e hidrografia ajudam a caracterizar o espaço geográfico."
+      },
+      {
+        "enunciado": "Explique por que um rio pode mudar a paisagem.",
+        "passos": [
+          "A água corre sobre o terreno.",
+          "Ao longo do tempo, pode desgastar, transportar e depositar materiais.",
+          "Essas ações modificam a superfície."
+        ],
+        "resposta": "Os rios podem transformar a paisagem ao agir continuamente sobre o relevo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-relevo-hidrografia-ex-01",
+        "enunciado": "Relevo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o conjunto das formas da superfície terrestre",
+          "apenas a água dos oceanos",
+          "somente o clima de uma região",
+          "a divisão política dos países"
+        ],
+        "respostaCorreta": "o conjunto das formas da superfície terrestre",
+        "explicacao": "O relevo corresponde às diferentes formas da superfície terrestre.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-02",
+        "enunciado": "Qual alternativa apresenta um elemento da hidrografia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "planalto",
+          "depressão",
+          "rio",
+          "serra"
+        ],
+        "respostaCorreta": "rio",
+        "explicacao": "Rios fazem parte da hidrografia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-03",
+        "enunciado": "Qual alternativa apresenta uma forma de relevo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lago",
+          "mar",
+          "montanha",
+          "canal"
+        ],
+        "respostaCorreta": "montanha",
+        "explicacao": "Montanha é uma forma de relevo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-04",
+        "enunciado": "A hidrografia estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as águas da superfície terrestre",
+          "apenas os mapas políticos",
+          "somente as florestas",
+          "os tipos de solo"
+        ],
+        "respostaCorreta": "as águas da superfície terrestre",
+        "explicacao": "Rios, lagos, mares e oceanos fazem parte da hidrografia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-05",
+        "enunciado": "Qual alternativa está correta sobre os rios?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não influenciam a paisagem.",
+          "Fazem parte da hidrografia e podem transformar o relevo.",
+          "São formas de relevo elevadas.",
+          "Existem apenas em áreas urbanas."
+        ],
+        "respostaCorreta": "Fazem parte da hidrografia e podem transformar o relevo.",
+        "explicacao": "Os rios são elementos da hidrografia e atuam na modificação da paisagem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-06",
+        "enunciado": "Qual alternativa apresenta apenas formas de relevo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "planalto, planície e depressão",
+          "rio, lago e mar",
+          "oceano, planície e lagoa",
+          "serra, rio e planície"
+        ],
+        "respostaCorreta": "planalto, planície e depressão",
+        "explicacao": "Esses três exemplos pertencem ao relevo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-07",
+        "enunciado": "Qual alternativa apresenta uma informação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relevo e hidrografia não se relacionam.",
+          "As águas podem influenciar o relevo ao longo do tempo.",
+          "A hidrografia não é importante para a sociedade.",
+          "O relevo não interfere na ocupação humana."
+        ],
+        "respostaCorreta": "As águas podem influenciar o relevo ao longo do tempo.",
+        "explicacao": "A ação da água pode desgastar e transformar a superfície terrestre.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-08",
+        "enunciado": "Um aluno disse que lagos e mares fazem parte do relevo. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque fazem parte da hidrografia",
+          "correta, porque toda água é relevo",
+          "incorreta, porque só rios fazem parte da hidrografia"
+        ],
+        "respostaCorreta": "incorreta, porque fazem parte da hidrografia",
+        "explicacao": "Lagos e mares são elementos hídricos, estudados pela hidrografia.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-09",
+        "enunciado": "Qual alternativa apresenta uma utilidade importante dos rios para as sociedades?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas decoração da paisagem",
+          "abastecimento e atividades humanas",
+          "eliminação total da agricultura",
+          "substituição do relevo"
+        ],
+        "respostaCorreta": "abastecimento e atividades humanas",
+        "explicacao": "Os rios são importantes para abastecimento, agricultura, transporte e outras atividades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-ex-10",
+        "enunciado": "Qual alternativa apresenta um exemplo em que relevo e hidrografia aparecem juntos na paisagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma serra cortada por um rio",
+          "um mapa sem legenda",
+          "uma lei de fronteira",
+          "um gráfico demográfico"
+        ],
+        "respostaCorreta": "uma serra cortada por um rio",
+        "explicacao": "Nesse exemplo aparecem uma forma de relevo e um elemento da hidrografia.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-relevo-hidrografia-sim-01",
+        "enunciado": "Qual alternativa apresenta corretamente uma relação entre relevo e hidrografia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os rios nunca interferem no relevo.",
+          "O relevo influencia o caminho das águas e a água pode modificar o relevo.",
+          "Relevo e hidrografia são exatamente a mesma coisa.",
+          "A hidrografia não depende do espaço físico."
+        ],
+        "respostaCorreta": "O relevo influencia o caminho das águas e a água pode modificar o relevo.",
+        "explicacao": "Esses elementos da natureza interagem constantemente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Planície é um elemento da hidrografia' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque planície é forma de relevo.",
+          "A frase é verdadeira apenas em áreas costeiras.",
+          "A frase é falsa, porque planície é um tipo de clima."
+        ],
+        "respostaCorreta": "A frase é falsa, porque planície é forma de relevo.",
+        "explicacao": "Planícies fazem parte do relevo, não da hidrografia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-sim-03",
+        "enunciado": "Qual alternativa apresenta apenas elementos da hidrografia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rio, lago e mar",
+          "planalto, montanha e vale",
+          "serra, rio e depressão",
+          "montanha, oceano e planície"
+        ],
+        "respostaCorreta": "rio, lago e mar",
+        "explicacao": "Esses três exemplos são elementos hídricos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-sim-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o relevo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele não interfere na ocupação humana.",
+          "Ele corresponde às formas da superfície terrestre.",
+          "Ele é formado apenas por água.",
+          "Ele não muda com o tempo."
+        ],
+        "respostaCorreta": "Ele corresponde às formas da superfície terrestre.",
+        "explicacao": "Essa é uma definição central do relevo.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-relevo-hidrografia-sim-05",
+        "enunciado": "Qual alternativa apresenta uma situação ligada à hidrografia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estudo das águas de uma bacia hidrográfica",
+          "classificação dos pontos cardeais",
+          "análise de fronteiras políticas",
+          "interpretação de gráficos de população"
+        ],
+        "respostaCorreta": "estudo das águas de uma bacia hidrográfica",
+        "explicacao": "A hidrografia trata dos elementos hídricos presentes no espaço geográfico.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

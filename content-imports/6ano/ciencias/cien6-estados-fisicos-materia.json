@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cien6-estados-fisicos-materia",
+    "titulo": "Estados físicos da matéria",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Matéria e transformações",
+    "resumo": [
+      "A matéria pode ser encontrada nos estados sólido, líquido e gasoso.",
+      "Cada estado físico apresenta características próprias.",
+      "Mudanças de temperatura podem provocar transformações de um estado para outro.",
+      "Fusão, solidificação, evaporação e condensação são exemplos de mudanças de estado.",
+      "O estudo da matéria ajuda a compreender fenômenos do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Estados físicos",
+        "texto": "A matéria pode se apresentar em diferentes estados físicos. No estado sólido, costuma ter forma e volume mais definidos. No estado líquido, tem volume definido, mas pode assumir a forma do recipiente. No estado gasoso, espalha-se com maior facilidade e ocupa o espaço disponível.",
+        "dica": "Observe forma e volume para diferenciar os estados físicos."
+      },
+      {
+        "subtitulo": "Mudanças de estado",
+        "texto": "As mudanças de temperatura podem provocar transformações entre os estados físicos da matéria. Quando um sólido passa a líquido, ocorre a fusão. Quando um líquido se transforma em sólido, ocorre a solidificação. Também existem processos como evaporação e condensação.",
+        "dica": "Lembre-se de associar cada nome à transformação correspondente."
+      },
+      {
+        "subtitulo": "Matéria no cotidiano",
+        "texto": "Muitos fenômenos do cotidiano envolvem mudanças de estado da matéria, como o gelo derretendo, a água evaporando e o vapor formando gotículas. Esses exemplos mostram que o estudo da matéria está presente em situações comuns do dia a dia.",
+        "dica": "Relacionar o conteúdo com situações do cotidiano facilita a compreensão."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique o que acontece com um cubo de gelo fora do congelador.",
+        "passos": [
+          "O gelo está inicialmente no estado sólido.",
+          "Com o aumento da temperatura, ele começa a derreter.",
+          "Essa transformação recebe o nome de fusão."
+        ],
+        "resposta": "O gelo passa do estado sólido para o líquido por meio da fusão."
+      },
+      {
+        "enunciado": "Observe o vapor de água formando gotinhas em uma tampa fria.",
+        "passos": [
+          "O vapor está no estado gasoso.",
+          "Ao entrar em contato com uma superfície fria, ele perde calor.",
+          "Assim, transforma-se em pequenas gotas de água líquida."
+        ],
+        "resposta": "Nesse caso, ocorre a condensação."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-estados-fisicos-materia-ex-01",
+        "enunciado": "Quais são os três estados físicos mais estudados da matéria?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sólido, líquido e gasoso",
+          "quente, morno e frio",
+          "duro, mole e áspero",
+          "leve, médio e pesado"
+        ],
+        "respostaCorreta": "sólido, líquido e gasoso",
+        "explicacao": "Esses são os estados físicos mais trabalhados no estudo básico da matéria.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-02",
+        "enunciado": "No estado sólido, a matéria costuma apresentar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "forma e volume mais definidos",
+          "apenas volume variável",
+          "ausência total de volume",
+          "somente forma do recipiente"
+        ],
+        "respostaCorreta": "forma e volume mais definidos",
+        "explicacao": "Essa é uma característica marcante do estado sólido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-03",
+        "enunciado": "Quando um sólido passa para o estado líquido, ocorre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fusão",
+          "condensação",
+          "solidificação",
+          "erosão"
+        ],
+        "respostaCorreta": "fusão",
+        "explicacao": "Fusão é a passagem do estado sólido para o líquido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-04",
+        "enunciado": "Quando a água líquida se transforma em gelo, ocorre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "solidificação",
+          "evaporação",
+          "fusão",
+          "combustão"
+        ],
+        "respostaCorreta": "solidificação",
+        "explicacao": "Solidificação é a passagem do estado líquido para o sólido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-05",
+        "enunciado": "A evaporação é a passagem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "do líquido para o gasoso",
+          "do sólido para o líquido",
+          "do gasoso para o sólido",
+          "do sólido para o sólido"
+        ],
+        "respostaCorreta": "do líquido para o gasoso",
+        "explicacao": "Na evaporação, a matéria passa do estado líquido para o gasoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-06",
+        "enunciado": "Qual transformação ocorre quando o vapor forma gotículas de água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "condensação",
+          "fusão",
+          "solidificação",
+          "sublimação"
+        ],
+        "respostaCorreta": "condensação",
+        "explicacao": "A condensação é a passagem do estado gasoso para o líquido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-07",
+        "enunciado": "Qual exemplo mostra uma mudança de estado físico no cotidiano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "gelo derretendo",
+          "pedra no chão",
+          "caderno sobre a mesa",
+          "árvore crescendo"
+        ],
+        "respostaCorreta": "gelo derretendo",
+        "explicacao": "O derretimento do gelo mostra a passagem do sólido para o líquido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-ex-08",
+        "enunciado": "No estado gasoso, a matéria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "espalha-se e ocupa o espaço disponível",
+          "tem forma rígida e fixa",
+          "permanece sempre parada",
+          "não possui massa"
+        ],
+        "respostaCorreta": "espalha-se e ocupa o espaço disponível",
+        "explicacao": "Essa é uma característica importante do estado gasoso.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-estados-fisicos-materia-sim-01",
+        "enunciado": "Ao observar um cubo de gelo derretendo, o aluno identifica corretamente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a passagem do estado sólido para o líquido",
+          "a passagem do líquido para o sólido",
+          "a formação de um gás inflamável",
+          "a destruição da matéria"
+        ],
+        "respostaCorreta": "a passagem do estado sólido para o líquido",
+        "explicacao": "O derretimento corresponde à fusão, que transforma o sólido em líquido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-estados-fisicos-materia-sim-02",
+        "enunciado": "As mudanças de estado físico mostram que a matéria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pode se transformar conforme as condições do ambiente",
+          "permanece sempre exatamente igual",
+          "desaparece durante os processos",
+          "não tem relação com a temperatura"
+        ],
+        "respostaCorreta": "pode se transformar conforme as condições do ambiente",
+        "explicacao": "A temperatura influencia as transformações entre os estados físicos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-reproducao-e-desenvolvimento-intro",
+    "titulo": "Reprodução e desenvolvimento: introdução",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e crescimento",
+    "resumo": [
+      "A reprodução está relacionada à continuidade dos seres vivos.",
+      "O desenvolvimento envolve mudanças no corpo ao longo do tempo.",
+      "Diferentes seres vivos apresentam formas distintas de crescimento e reprodução.",
+      "O corpo humano também passa por transformações ao longo da vida.",
+      "Estudar esse tema ajuda a compreender o ciclo da vida e o crescimento dos organismos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é reprodução",
+        "texto": "A reprodução é o processo que permite a continuidade das espécies. Graças a ela, novos indivíduos podem surgir, garantindo a permanência dos seres vivos ao longo do tempo.",
+        "dica": "Quando pensamos em reprodução, pensamos na continuidade da vida."
+      },
+      {
+        "subtitulo": "Desenvolvimento e crescimento",
+        "texto": "O desenvolvimento envolve mudanças que acontecem ao longo da vida de um ser vivo. Essas transformações podem incluir crescimento, amadurecimento e alterações no corpo, variando de uma espécie para outra.",
+        "dica": "Desenvolvimento não é apenas aumentar de tamanho; também envolve mudanças no organismo."
+      },
+      {
+        "subtitulo": "Ciclo da vida",
+        "texto": "Os seres vivos passam por etapas ao longo da existência, como nascimento, crescimento, desenvolvimento e envelhecimento. Observar esse ciclo ajuda a compreender o funcionamento da vida e a diversidade entre os organismos.",
+        "dica": "Cada ser vivo tem um ciclo de vida, mesmo que ele não seja igual ao dos outros."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a reprodução é importante para os seres vivos.",
+        "passos": [
+          "Ela permite o surgimento de novos indivíduos.",
+          "Com isso, a espécie pode continuar existindo.",
+          "Por isso, a reprodução é fundamental para a continuidade da vida."
+        ],
+        "resposta": "A reprodução é importante porque garante a continuidade das espécies."
+      },
+      {
+        "enunciado": "Relacione desenvolvimento e mudanças no corpo.",
+        "passos": [
+          "Ao longo da vida, o corpo passa por transformações.",
+          "Essas mudanças fazem parte do desenvolvimento.",
+          "Elas podem variar conforme o ser vivo e a fase da vida."
+        ],
+        "resposta": "O desenvolvimento envolve mudanças corporais ao longo do tempo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-01",
+        "enunciado": "A reprodução é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permite a continuidade das espécies",
+          "impede o crescimento dos seres vivos",
+          "elimina todas as mudanças do corpo",
+          "substitui a alimentação"
+        ],
+        "respostaCorreta": "permite a continuidade das espécies",
+        "explicacao": "A reprodução garante o surgimento de novos indivíduos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-02",
+        "enunciado": "O desenvolvimento de um ser vivo envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças ao longo da vida",
+          "ausência total de crescimento",
+          "somente a formação de montanhas",
+          "apenas a produção de energia elétrica"
+        ],
+        "respostaCorreta": "mudanças ao longo da vida",
+        "explicacao": "Desenvolvimento inclui crescimento e outras transformações do organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-03",
+        "enunciado": "Qual alternativa apresenta uma ideia correta sobre os seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles passam por etapas de vida.",
+          "Eles nunca mudam ao longo do tempo.",
+          "Todos se desenvolvem do mesmo modo.",
+          "Nenhum ser vivo cresce."
+        ],
+        "respostaCorreta": "Eles passam por etapas de vida.",
+        "explicacao": "Os seres vivos têm ciclos de vida com diferentes fases.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-04",
+        "enunciado": "O ciclo da vida pode incluir etapas como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nascimento, crescimento e envelhecimento",
+          "apenas respiração e circulação",
+          "somente calor e frio",
+          "apenas erosão e sedimentação"
+        ],
+        "respostaCorreta": "nascimento, crescimento e envelhecimento",
+        "explicacao": "Essas são etapas gerais do ciclo de vida de muitos seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-05",
+        "enunciado": "Ao estudar reprodução e desenvolvimento, o aluno compreende que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a vida envolve continuidade e transformação",
+          "os seres vivos não se modificam",
+          "todas as espécies crescem da mesma forma",
+          "não existe relação entre crescimento e vida"
+        ],
+        "respostaCorreta": "a vida envolve continuidade e transformação",
+        "explicacao": "Reprodução e desenvolvimento mostram como a vida continua e se transforma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A reprodução ajuda na continuidade das espécies.",
+          "O desenvolvimento envolve mudanças no organismo.",
+          "Todos os seres vivos permanecem sempre exatamente iguais.",
+          "Os seres vivos passam por fases da vida."
+        ],
+        "respostaCorreta": "Todos os seres vivos permanecem sempre exatamente iguais.",
+        "explicacao": "Os seres vivos passam por mudanças ao longo de seu desenvolvimento.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-sim-01",
+        "enunciado": "A relação entre reprodução e desenvolvimento mostra que os seres vivos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "garantem continuidade e passam por transformações ao longo da vida",
+          "não têm ciclo de vida",
+          "nunca mudam após o nascimento",
+          "vivem sem crescimento"
+        ],
+        "respostaCorreta": "garantem continuidade e passam por transformações ao longo da vida",
+        "explicacao": "Reprodução e desenvolvimento ajudam a entender a continuidade e as mudanças da vida.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-reproducao-e-desenvolvimento-intro-sim-02",
+        "enunciado": "A principal importância desse tema é compreender que a vida dos organismos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolve etapas, crescimento e continuidade das espécies",
+          "acontece sem qualquer transformação",
+          "não depende de reprodução",
+          "dispensa desenvolvimento"
+        ],
+        "respostaCorreta": "envolve etapas, crescimento e continuidade das espécies",
+        "explicacao": "Esse tema ajuda a compreender o ciclo de vida e o crescimento dos seres vivos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-paisagens-brasileiras",
+    "titulo": "Paisagens brasileiras",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Brasil e diversidade espacial",
+    "resumo": [
+      "O Brasil apresenta grande diversidade de paisagens.",
+      "As paisagens podem reunir elementos naturais e construídos pelas pessoas.",
+      "Vegetação, relevo, rios, cidades e estradas ajudam a compor as paisagens.",
+      "As paisagens brasileiras variam de acordo com a região e com a ação humana.",
+      "Estudar paisagens ajuda a compreender melhor o espaço geográfico do país."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é paisagem",
+        "texto": "Paisagem é tudo aquilo que podemos perceber em um lugar por meio dos sentidos, especialmente da visão. Ela pode incluir elementos naturais, como rios, montanhas e vegetação, além de elementos construídos pelas pessoas, como casas, pontes e estradas.",
+        "dica": "Paisagem é o conjunto do que observamos em determinado espaço."
+      },
+      {
+        "subtitulo": "Diversidade das paisagens brasileiras",
+        "texto": "As paisagens brasileiras são diversas porque o território do país é amplo e apresenta diferentes formas de relevo, tipos de vegetação, climas, rios e ocupações humanas. Por isso, não existe uma única paisagem brasileira, mas muitas paisagens diferentes.",
+        "dica": "Diversidade de paisagens significa variedade de elementos e formas de ocupação."
+      },
+      {
+        "subtitulo": "Paisagem e ação humana",
+        "texto": "As ações humanas também transformam as paisagens. Construções, estradas, plantações, barragens e cidades modificam o espaço. Assim, as paisagens mostram tanto a presença da natureza quanto a atuação da sociedade.",
+        "dica": "Ao observar uma paisagem, procure perceber o que é natural e o que foi transformado pelas pessoas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que uma paisagem com rio, mata e estrada reúne diferentes elementos.",
+        "passos": [
+          "O rio e a mata são elementos naturais.",
+          "A estrada é um elemento construído pelas pessoas.",
+          "Juntos, esses elementos formam a paisagem observada."
+        ],
+        "resposta": "As paisagens podem reunir elementos naturais e humanos ao mesmo tempo."
+      },
+      {
+        "enunciado": "Relacione diversidade brasileira e paisagens.",
+        "passos": [
+          "O Brasil possui diferentes regiões e formas de ocupação.",
+          "Isso produz paisagens variadas pelo território.",
+          "Por isso, estudar paisagens ajuda a entender a diversidade do país."
+        ],
+        "resposta": "A diversidade das paisagens brasileiras reflete a variedade do território nacional."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-paisagens-brasileiras-ex-01",
+        "enunciado": "Paisagem é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o conjunto do que pode ser percebido em um lugar",
+          "somente o nome de uma cidade",
+          "apenas um mapa político",
+          "uma forma de cálculo matemático"
+        ],
+        "respostaCorreta": "o conjunto do que pode ser percebido em um lugar",
+        "explicacao": "Paisagem reúne elementos observáveis em determinado espaço.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-02",
+        "enunciado": "Qual alternativa apresenta apenas elementos naturais da paisagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rio, vegetação e relevo",
+          "ponte, estrada e prédio",
+          "loja, avenida e escola",
+          "casa, bairro e fábrica"
+        ],
+        "respostaCorreta": "rio, vegetação e relevo",
+        "explicacao": "Esses elementos fazem parte da natureza e ajudam a compor a paisagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-03",
+        "enunciado": "Qual alternativa apresenta um elemento construído pelas pessoas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estrada",
+          "rio",
+          "montanha",
+          "vegetação nativa"
+        ],
+        "respostaCorreta": "estrada",
+        "explicacao": "A estrada é um exemplo de elemento humano na paisagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-04",
+        "enunciado": "As paisagens brasileiras são diversas porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o território apresenta variações naturais e humanas",
+          "todas as regiões do país são iguais",
+          "não existe ação humana sobre o espaço",
+          "o Brasil possui apenas um tipo de vegetação"
+        ],
+        "respostaCorreta": "o território apresenta variações naturais e humanas",
+        "explicacao": "A diversidade do território brasileiro se reflete em suas diferentes paisagens.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-05",
+        "enunciado": "Ao estudar uma paisagem, é importante observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "elementos naturais e transformações humanas",
+          "somente a cor do céu",
+          "apenas o nome do lugar",
+          "somente o clima do planeta inteiro"
+        ],
+        "respostaCorreta": "elementos naturais e transformações humanas",
+        "explicacao": "A paisagem mostra a presença da natureza e da ação humana no espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre paisagens?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Podem incluir elementos naturais e humanos.",
+          "Podem variar de uma região para outra.",
+          "Não sofrem influência das ações humanas.",
+          "Ajudam a compreender o espaço geográfico."
+        ],
+        "respostaCorreta": "Não sofrem influência das ações humanas.",
+        "explicacao": "As ações humanas transformam as paisagens de diferentes maneiras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-07",
+        "enunciado": "Uma paisagem com floresta, rio e cidade mostra que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "elementos naturais e humanos podem aparecer juntos",
+          "não existe diversidade no espaço",
+          "somente a natureza compõe a paisagem",
+          "as cidades não fazem parte da paisagem"
+        ],
+        "respostaCorreta": "elementos naturais e humanos podem aparecer juntos",
+        "explicacao": "Muitas paisagens reúnem elementos da natureza e construções humanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-ex-08",
+        "enunciado": "Estudar paisagens brasileiras ajuda principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender a diversidade do espaço geográfico do país",
+          "substituir o estudo de mapas",
+          "eliminar diferenças regionais",
+          "ignorar a ação humana no território"
+        ],
+        "respostaCorreta": "compreender a diversidade do espaço geográfico do país",
+        "explicacao": "As paisagens revelam diferenças naturais e humanas existentes no território brasileiro.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-paisagens-brasileiras-sim-01",
+        "enunciado": "Ao observar uma paisagem brasileira, o aluno deve considerar que ela pode revelar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a presença conjunta de elementos naturais e humanos",
+          "somente elementos sem relação com a sociedade",
+          "apenas dados invisíveis do espaço",
+          "nenhuma informação sobre o território"
+        ],
+        "respostaCorreta": "a presença conjunta de elementos naturais e humanos",
+        "explicacao": "A paisagem permite perceber tanto características naturais quanto marcas da ação humana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-paisagens-brasileiras-sim-02",
+        "enunciado": "A diversidade das paisagens brasileiras mostra que o território nacional:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é amplo e reúne diferentes formas de natureza e ocupação humana",
+          "é completamente uniforme",
+          "não possui relevo nem vegetação variados",
+          "não foi transformado pelas pessoas"
+        ],
+        "respostaCorreta": "é amplo e reúne diferentes formas de natureza e ocupação humana",
+        "explicacao": "A variedade de paisagens reflete a complexidade e a diversidade do território brasileiro.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

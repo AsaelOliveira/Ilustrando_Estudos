@@ -1,0 +1,266 @@
+[
+  {
+    "id": "hist6-tempo-historico-fontes",
+    "titulo": "Tempo histórico e fontes históricas",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Introdução aos estudos históricos",
+    "resumo": [
+      "A História estuda as ações humanas no tempo.",
+      "O tempo histórico ajuda a organizar acontecimentos e mudanças nas sociedades.",
+      "As fontes históricas são vestígios usados para conhecer o passado.",
+      "Há diferentes tipos de fontes, como escritas, materiais, visuais e orais.",
+      "O historiador analisa fontes para interpretar os acontecimentos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é tempo histórico",
+        "texto": "O tempo histórico não se limita às datas. Ele envolve permanências, mudanças, acontecimentos e processos vividos pelas sociedades ao longo do tempo.",
+        "dica": "Nem tudo na História acontece de forma rápida; alguns processos levam muito tempo."
+      },
+      {
+        "subtitulo": "O que são fontes históricas",
+        "texto": "As fontes históricas são vestígios deixados pelas sociedades. Podem ser documentos escritos, objetos, pinturas, construções, relatos orais, fotografias e outros registros do passado.",
+        "dica": "Tudo o que ajuda a conhecer o passado pode funcionar como fonte histórica."
+      },
+      {
+        "subtitulo": "O trabalho do historiador",
+        "texto": "O historiador analisa diferentes fontes, compara informações e constrói interpretações sobre o passado. Ele não inventa a História, mas investiga os vestígios deixados pelos grupos humanos.",
+        "dica": "Uma mesma fonte pode ser lida de formas diferentes, dependendo da análise feita."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Identifique uma fonte escrita e uma fonte material.",
+        "passos": [
+          "Uma carta antiga é um exemplo de fonte escrita.",
+          "Um vaso encontrado em escavação é um exemplo de fonte material."
+        ],
+        "resposta": "Fontes escritas e materiais ajudam a conhecer o passado de maneiras diferentes."
+      },
+      {
+        "enunciado": "Explique por que uma fotografia pode ser fonte histórica.",
+        "passos": [
+          "A fotografia registra pessoas, lugares e acontecimentos.",
+          "Ela guarda informações de um determinado momento.",
+          "Por isso, pode ser usada para estudar o passado."
+        ],
+        "resposta": "A fotografia é fonte histórica porque registra aspectos de um tempo passado."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-tempo-historico-fontes-ex-01",
+        "enunciado": "A História estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas fenômenos da natureza",
+          "as ações humanas no tempo",
+          "somente datas e nomes",
+          "apenas guerras"
+        ],
+        "respostaCorreta": "as ações humanas no tempo",
+        "explicacao": "A História investiga a vida humana em diferentes tempos e sociedades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-02",
+        "enunciado": "As fontes históricas são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "objetos sem importância",
+          "vestígios usados para conhecer o passado",
+          "somente textos escritos em livros didáticos",
+          "apenas monumentos antigos"
+        ],
+        "respostaCorreta": "vestígios usados para conhecer o passado",
+        "explicacao": "As fontes ajudam os historiadores a estudar o passado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-03",
+        "enunciado": "Qual alternativa apresenta uma fonte escrita?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma carta antiga",
+          "um vaso de cerâmica",
+          "uma ferramenta de pedra",
+          "uma escultura"
+        ],
+        "respostaCorreta": "uma carta antiga",
+        "explicacao": "Cartas são exemplos de fontes escritas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-04",
+        "enunciado": "Qual alternativa apresenta uma fonte material?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um relato oral",
+          "um jornal",
+          "um vaso antigo",
+          "uma entrevista gravada"
+        ],
+        "respostaCorreta": "um vaso antigo",
+        "explicacao": "Objetos produzidos por sociedades do passado são fontes materiais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-05",
+        "enunciado": "Qual profissional analisa fontes históricas para interpretar o passado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "historiador",
+          "astrônomo",
+          "químico",
+          "engenheiro"
+        ],
+        "respostaCorreta": "historiador",
+        "explicacao": "O historiador estuda e interpreta as fontes históricas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-06",
+        "enunciado": "Qual alternativa apresenta uma fonte oral?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um depoimento gravado",
+          "uma fotografia",
+          "um mapa antigo",
+          "um documento oficial"
+        ],
+        "respostaCorreta": "um depoimento gravado",
+        "explicacao": "Relatos e depoimentos são exemplos de fontes orais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-07",
+        "enunciado": "Qual alternativa está correta sobre o tempo histórico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele se resume apenas à contagem dos dias.",
+          "Ele envolve mudanças e permanências nas sociedades.",
+          "Ele existe apenas em documentos escritos.",
+          "Ele não tem relação com a História."
+        ],
+        "respostaCorreta": "Ele envolve mudanças e permanências nas sociedades.",
+        "explicacao": "O tempo histórico ajuda a compreender processos e transformações vividos pelas sociedades.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-08",
+        "enunciado": "Uma fotografia antiga pode ser usada como fonte histórica porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não registra nada importante",
+          "mostra informações de uma época",
+          "serve apenas para enfeite",
+          "substitui todas as outras fontes"
+        ],
+        "respostaCorreta": "mostra informações de uma época",
+        "explicacao": "Fotografias registram aspectos de um determinado momento histórico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-09",
+        "enunciado": "Um aluno disse que apenas livros podem ser fontes históricas. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque existem vários tipos de fontes",
+          "correta, porque objetos não informam nada",
+          "incorreta, porque apenas fotos são fontes"
+        ],
+        "respostaCorreta": "incorreta, porque existem vários tipos de fontes",
+        "explicacao": "Fontes históricas podem ser escritas, materiais, orais, visuais e de outros tipos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-ex-10",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Toda fonte histórica é igual.",
+          "O historiador compara e interpreta fontes.",
+          "O passado pode ser conhecido sem vestígios.",
+          "As fontes materiais não têm valor histórico."
+        ],
+        "respostaCorreta": "O historiador compara e interpreta fontes.",
+        "explicacao": "Essa é uma parte importante do trabalho do historiador.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-tempo-historico-fontes-sim-01",
+        "enunciado": "Qual alternativa apresenta corretamente uma relação entre História e fontes históricas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A História dispensa fontes.",
+          "As fontes ajudam a estudar e interpretar o passado.",
+          "As fontes só existem em museus.",
+          "A História trabalha apenas com imaginação."
+        ],
+        "respostaCorreta": "As fontes ajudam a estudar e interpretar o passado.",
+        "explicacao": "As fontes são fundamentais para a investigação histórica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Uma entrevista não pode ser fonte histórica' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque entrevistas podem ser fontes orais.",
+          "A frase é verdadeira, porque só objetos são fontes.",
+          "A frase é falsa, porque entrevistas são fontes materiais."
+        ],
+        "respostaCorreta": "A frase é falsa, porque entrevistas podem ser fontes orais.",
+        "explicacao": "Relatos e entrevistas são importantes fontes orais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-sim-03",
+        "enunciado": "Qual alternativa apresenta apenas fontes históricas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fotografia, carta e objeto antigo",
+          "rotação, evaporação e condensação",
+          "solo, ar e água",
+          "átomo, célula e órgão"
+        ],
+        "respostaCorreta": "fotografia, carta e objeto antigo",
+        "explicacao": "Esses três exemplos podem ser usados para estudar o passado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-sim-04",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre o tempo histórico?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele se refere apenas a datas exatas.",
+          "Ele ajuda a compreender mudanças e permanências.",
+          "Ele não é usado na História.",
+          "Ele existe apenas no presente."
+        ],
+        "respostaCorreta": "Ele ajuda a compreender mudanças e permanências.",
+        "explicacao": "O tempo histórico é importante para organizar e interpretar os processos vividos pelas sociedades.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist6-tempo-historico-fontes-sim-05",
+        "enunciado": "Qual alternativa apresenta um exemplo de fonte visual?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "depoimento oral",
+          "fotografia antiga",
+          "carta escrita",
+          "relato de viagem falado"
+        ],
+        "respostaCorreta": "fotografia antiga",
+        "explicacao": "Fotografias são exemplos de fontes visuais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-agua",
+    "titulo": "Água: importância, estados físicos e ciclo da água",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Matéria e ambiente",
+    "resumo": [
+      "A água é essencial para a vida e está presente em diferentes ambientes.",
+      "Ela pode ser encontrada nos estados sólido, líquido e gasoso.",
+      "O ciclo da água envolve evaporação, condensação e precipitação.",
+      "A água deve ser usada com cuidado para evitar desperdícios.",
+      "A qualidade da água é importante para a saúde e para o ambiente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Importância da água",
+        "texto": "A água participa da vida dos seres vivos, das atividades humanas e do equilíbrio ambiental. Ela é usada para beber, produzir alimentos, higienizar objetos e manter ecossistemas funcionando.",
+        "dica": "Ao estudar a água, pense tanto no corpo dos seres vivos quanto no ambiente."
+      },
+      {
+        "subtitulo": "Estados físicos da água",
+        "texto": "A água pode estar no estado sólido, como o gelo; no estado líquido, como nos rios e copos d'água; e no estado gasoso, como o vapor. As mudanças de temperatura influenciam essas transformações.",
+        "dica": "Tente relacionar cada estado físico a situações do cotidiano."
+      },
+      {
+        "subtitulo": "Ciclo da água",
+        "texto": "O ciclo da água é o movimento contínuo da água na natureza. A evaporação transforma a água líquida em vapor, a condensação forma gotículas e nuvens, e a precipitação devolve a água à superfície em forma de chuva, granizo ou neve.",
+        "dica": "Pense no ciclo da água como um processo de circulação contínua na natureza."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique o que acontece quando uma poça seca ao sol.",
+        "passos": [
+          "A água líquida recebe calor do ambiente.",
+          "Parte dessa água passa para o estado gasoso.",
+          "Esse processo é chamado de evaporação."
+        ],
+        "resposta": "A poça seca porque a água evapora."
+      },
+      {
+        "enunciado": "Observe gotas na tampa de uma panela.",
+        "passos": [
+          "O vapor de água sobe com o calor.",
+          "Ao encontrar uma superfície mais fria, ele volta ao estado líquido.",
+          "Esse processo é chamado de condensação."
+        ],
+        "resposta": "As gotas se formam por condensação."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-agua-ex-01",
+        "enunciado": "A água é importante para a vida porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não participa de nenhum processo vital",
+          "é usada por seres vivos e em atividades humanas",
+          "existe apenas nos oceanos",
+          "não muda de estado físico"
+        ],
+        "respostaCorreta": "é usada por seres vivos e em atividades humanas",
+        "explicacao": "A água é essencial para organismos vivos e para diversas ações humanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-02",
+        "enunciado": "Em qual estado físico a água aparece como gelo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "líquido",
+          "gasoso",
+          "sólido",
+          "plasmático"
+        ],
+        "respostaCorreta": "sólido",
+        "explicacao": "O gelo é água no estado sólido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-03",
+        "enunciado": "Qual processo transforma água líquida em vapor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "condensação",
+          "evaporação",
+          "precipitação",
+          "solidificação"
+        ],
+        "respostaCorreta": "evaporação",
+        "explicacao": "Na evaporação, a água líquida passa para o estado gasoso.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-04",
+        "enunciado": "A formação de nuvens está relacionada principalmente à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "combustão",
+          "condensação",
+          "erosão",
+          "fotossíntese"
+        ],
+        "respostaCorreta": "condensação",
+        "explicacao": "Na condensação, o vapor de água forma gotículas que contribuem para a formação das nuvens.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-05",
+        "enunciado": "A chuva é um exemplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "precipitação",
+          "evaporação",
+          "filtração",
+          "ebulição"
+        ],
+        "respostaCorreta": "precipitação",
+        "explicacao": "A chuva é uma forma de precipitação no ciclo da água.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-06",
+        "enunciado": "Qual alternativa apresenta um uso consciente da água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "deixar a torneira aberta sem necessidade",
+          "lavar calçadas com mangueira por muito tempo",
+          "fechar a torneira ao escovar os dentes",
+          "desperdiçar água limpa"
+        ],
+        "respostaCorreta": "fechar a torneira ao escovar os dentes",
+        "explicacao": "Essa atitude ajuda a evitar desperdícios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-07",
+        "enunciado": "Em qual estado físico a água se encontra na maioria dos rios?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sólido",
+          "líquido",
+          "gasoso",
+          "mineral"
+        ],
+        "respostaCorreta": "líquido",
+        "explicacao": "Nos rios, a água se encontra normalmente no estado líquido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-08",
+        "enunciado": "Qual alternativa apresenta corretamente uma etapa do ciclo da água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evaporação",
+          "oxidação",
+          "fermentação",
+          "erosão"
+        ],
+        "respostaCorreta": "evaporação",
+        "explicacao": "A evaporação é uma etapa importante do ciclo da água.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-agua-ex-09",
+        "enunciado": "Quando o vapor de água esfria e volta ao estado líquido, ocorre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "precipitação",
+          "condensação",
+          "fusão",
+          "evaporação"
+        ],
+        "respostaCorreta": "condensação",
+        "explicacao": "Na condensação, o vapor se transforma novamente em líquido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-agua-ex-10",
+        "enunciado": "Um aluno disse que a água existe apenas no estado líquido. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque a água pode estar nos estados sólido, líquido e gasoso",
+          "correta, porque gelo não é água",
+          "incorreta, porque a água existe apenas no estado gasoso"
+        ],
+        "respostaCorreta": "incorreta, porque a água pode estar nos estados sólido, líquido e gasoso",
+        "explicacao": "A água apresenta três estados físicos principais.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-agua-sim-01",
+        "enunciado": "Qual alternativa relaciona corretamente processo e transformação da água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evaporação - líquido para gasoso",
+          "condensação - sólido para líquido",
+          "precipitação - líquido para gasoso",
+          "fusão - gasoso para sólido"
+        ],
+        "respostaCorreta": "evaporação - líquido para gasoso",
+        "explicacao": "Essa relação está correta dentro das transformações da água.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-agua-sim-02",
+        "enunciado": "Qual alternativa apresenta uma atitude importante para a conservação da água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desperdiçar água tratada",
+          "poluir rios e lagos",
+          "evitar desperdícios",
+          "deixar vazamentos sem conserto"
+        ],
+        "respostaCorreta": "evitar desperdícios",
+        "explicacao": "Usar a água com responsabilidade é essencial para a conservação desse recurso.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-agua-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A chuva acontece fora do ciclo da água' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque a chuva faz parte da precipitação no ciclo da água.",
+          "A frase é verdadeira apenas no verão.",
+          "A frase é falsa, porque chuva não tem relação com nuvens."
+        ],
+        "respostaCorreta": "A frase é falsa, porque a chuva faz parte da precipitação no ciclo da água.",
+        "explicacao": "A chuva é uma das formas de precipitação no ciclo da água.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-agua-sim-04",
+        "enunciado": "Ao deixar roupas secando no varal, qual processo está mais diretamente envolvido?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evaporação",
+          "condensação",
+          "solidificação",
+          "precipitação"
+        ],
+        "respostaCorreta": "evaporação",
+        "explicacao": "A água presente nas roupas passa do estado líquido para o gasoso.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-agua-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela não é importante para a vida.",
+          "Ela só existe no mar.",
+          "Ela participa do equilíbrio ambiental e da vida dos seres vivos.",
+          "Ela não muda de estado físico."
+        ],
+        "respostaCorreta": "Ela participa do equilíbrio ambiental e da vida dos seres vivos.",
+        "explicacao": "A água é essencial tanto para os seres vivos quanto para o funcionamento do ambiente.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

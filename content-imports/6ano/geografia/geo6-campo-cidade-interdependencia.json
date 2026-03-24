@@ -1,0 +1,197 @@
+[
+  {
+    "id": "geo6-campo-cidade-interdependencia",
+    "titulo": "Campo e cidade: interdependência",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Organização do espaço geográfico",
+    "resumo": [
+      "Campo e cidade apresentam características diferentes, mas estão interligados.",
+      "O campo produz alimentos e matérias-primas importantes para a sociedade.",
+      "A cidade concentra serviços, comércio e diferentes atividades urbanas.",
+      "As relações entre campo e cidade mostram a interdependência entre os espaços.",
+      "Estudar esse tema ajuda a compreender melhor a organização da vida em sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diferenças entre campo e cidade",
+        "texto": "O campo está mais relacionado a atividades como agricultura, pecuária e uso direto da terra. A cidade, por sua vez, concentra maior número de construções, serviços, comércio e circulação de pessoas. Essas diferenças ajudam a caracterizar os dois espaços.",
+        "dica": "Ao comparar campo e cidade, observe atividades predominantes e características da paisagem."
+      },
+      {
+        "subtitulo": "Relações de interdependência",
+        "texto": "Apesar das diferenças, campo e cidade dependem um do outro. O campo fornece alimentos e matérias-primas, enquanto a cidade oferece serviços, comércio, tecnologia e diferentes formas de organização da vida urbana.",
+        "dica": "Interdependência significa dependência mútua entre os espaços."
+      },
+      {
+        "subtitulo": "Circulação e integração",
+        "texto": "A circulação de produtos, pessoas e informações fortalece as relações entre campo e cidade. Essa integração mostra que os espaços geográficos não funcionam de forma isolada, mas em conexão constante.",
+        "dica": "Quando há trocas entre espaços, há integração e interdependência."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como o campo contribui para a cidade.",
+        "passos": [
+          "O campo produz alimentos e matérias-primas.",
+          "Esses produtos chegam à cidade por redes de circulação.",
+          "Assim, o campo contribui diretamente para a vida urbana."
+        ],
+        "resposta": "O campo contribui para a cidade ao fornecer produtos importantes para o cotidiano e a economia."
+      },
+      {
+        "enunciado": "Relacione serviços urbanos e vida no campo.",
+        "passos": [
+          "A cidade concentra comércio, saúde, educação e outros serviços.",
+          "Esses serviços podem atender também populações do campo.",
+          "Isso mostra a interdependência entre os dois espaços."
+        ],
+        "resposta": "Campo e cidade mantêm relações de troca e dependência recíproca."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-01",
+        "enunciado": "O campo está mais diretamente ligado a atividades como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agricultura e pecuária",
+          "produção exclusiva de arranha-céus",
+          "somente transporte aéreo",
+          "apenas serviços bancários"
+        ],
+        "respostaCorreta": "agricultura e pecuária",
+        "explicacao": "Essas atividades são características importantes do espaço rural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-02",
+        "enunciado": "A cidade se caracteriza principalmente por concentrar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "serviços, comércio e construções",
+          "apenas florestas e rios",
+          "somente plantações e pastagens",
+          "ausência de circulação de pessoas"
+        ],
+        "respostaCorreta": "serviços, comércio e construções",
+        "explicacao": "Esses elementos são marcantes no espaço urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-03",
+        "enunciado": "A relação entre campo e cidade pode ser definida como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interdependência",
+          "isolamento total",
+          "ausência de trocas",
+          "negação de qualquer contato"
+        ],
+        "respostaCorreta": "interdependência",
+        "explicacao": "Campo e cidade dependem um do outro em vários aspectos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-04",
+        "enunciado": "O campo contribui para a cidade principalmente ao fornecer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentos e matérias-primas",
+          "somente tráfego intenso",
+          "apenas edifícios altos",
+          "exclusivamente serviços bancários"
+        ],
+        "respostaCorreta": "alimentos e matérias-primas",
+        "explicacao": "O campo tem papel importante na produção de recursos usados pela sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-05",
+        "enunciado": "A cidade contribui para o campo ao oferecer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "serviços, comércio e tecnologia",
+          "somente rios e montanhas",
+          "apenas vegetação natural",
+          "exclusivamente clima tropical"
+        ],
+        "respostaCorreta": "serviços, comércio e tecnologia",
+        "explicacao": "O espaço urbano concentra atividades e serviços que também atendem ao campo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre campo e cidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Campo e cidade mantêm relações de troca.",
+          "A cidade depende do campo em vários aspectos.",
+          "O campo não tem qualquer relação com a vida urbana.",
+          "Os espaços não funcionam de forma isolada."
+        ],
+        "respostaCorreta": "O campo não tem qualquer relação com a vida urbana.",
+        "explicacao": "Campo e cidade mantêm fortes relações de interdependência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-07",
+        "enunciado": "A circulação de produtos entre campo e cidade mostra:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "integração entre os espaços",
+          "ausência de contato",
+          "fim da atividade econômica",
+          "desaparecimento da produção rural"
+        ],
+        "respostaCorreta": "integração entre os espaços",
+        "explicacao": "A troca de produtos e serviços reforça a conexão entre campo e cidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-ex-08",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a organização da sociedade e das trocas espaciais",
+          "somente o sistema respiratório",
+          "apenas a divisão silábica",
+          "exclusivamente a origem dos planetas"
+        ],
+        "respostaCorreta": "a organização da sociedade e das trocas espaciais",
+        "explicacao": "O tema ajuda a entender como diferentes espaços se conectam na vida em sociedade.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-campo-cidade-interdependencia-sim-01",
+        "enunciado": "A principal ideia ao comparar campo e cidade é perceber que esses espaços:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "são diferentes, mas dependem um do outro",
+          "não mantêm qualquer relação",
+          "existem de forma completamente isolada",
+          "têm exatamente as mesmas funções"
+        ],
+        "respostaCorreta": "são diferentes, mas dependem um do outro",
+        "explicacao": "A interdependência entre campo e cidade é um ponto central desse tema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-campo-cidade-interdependencia-sim-02",
+        "enunciado": "Ao analisar alimentos vindos do campo e serviços concentrados na cidade, o aluno identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações de troca entre espaços geográficos",
+          "o desaparecimento da vida econômica",
+          "a ausência de circulação",
+          "a separação absoluta entre os lugares"
+        ],
+        "respostaCorreta": "relações de troca entre espaços geográficos",
+        "explicacao": "Essas trocas mostram a integração e a dependência mútua entre campo e cidade.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

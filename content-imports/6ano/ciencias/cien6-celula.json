@@ -1,0 +1,266 @@
+[
+  {
+    "id": "cien6-celula",
+    "titulo": "A célula e a organização dos seres vivos",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Vida e organização",
+    "resumo": [
+      "A célula é a menor unidade estrutural e funcional dos seres vivos.",
+      "Alguns seres são formados por uma única célula, e outros por muitas células.",
+      "As células realizam funções importantes para a manutenção da vida.",
+      "Tecidos, órgãos e sistemas formam níveis de organização no corpo dos seres vivos.",
+      "O microscópio permite observar estruturas muito pequenas, como as células."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é célula",
+        "texto": "A célula é considerada a unidade básica da vida. Todos os seres vivos são formados por uma ou mais células, que realizam funções essenciais para o organismo.",
+        "dica": "Quando pensar em um ser vivo, lembre-se de que ele é formado por células."
+      },
+      {
+        "subtitulo": "Seres unicelulares e multicelulares",
+        "texto": "Seres unicelulares possuem apenas uma célula, como muitas bactérias. Já os seres multicelulares, como animais e plantas, possuem muitas células trabalhando em conjunto.",
+        "dica": "A quantidade de células varia conforme o tipo de ser vivo."
+      },
+      {
+        "subtitulo": "Organização do corpo",
+        "texto": "Nos seres multicelulares, células semelhantes formam tecidos, tecidos formam órgãos, e órgãos formam sistemas. Essa organização permite o funcionamento do organismo de forma integrada.",
+        "dica": "Pense em uma equipe: partes diferentes trabalham juntas para um resultado comum."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Classifique uma bactéria quanto ao número de células.",
+        "passos": [
+          "A bactéria é formada por apenas uma célula.",
+          "Seres com uma única célula são chamados de unicelulares."
+        ],
+        "resposta": "A bactéria é um ser unicelular."
+      },
+      {
+        "enunciado": "Explique a relação entre células e órgãos.",
+        "passos": [
+          "Células semelhantes formam tecidos.",
+          "Os tecidos se organizam para formar órgãos.",
+          "Os órgãos realizam funções específicas no organismo."
+        ],
+        "resposta": "Os órgãos são formados por tecidos, que por sua vez são formados por células."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-celula-ex-01",
+        "enunciado": "A célula é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um órgão do corpo",
+          "a menor unidade da vida",
+          "um tipo de tecido",
+          "um sistema do organismo"
+        ],
+        "respostaCorreta": "a menor unidade da vida",
+        "explicacao": "A célula é a unidade básica estrutural e funcional dos seres vivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-02",
+        "enunciado": "Um ser formado por apenas uma célula é chamado de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "multicelular",
+          "unicelular",
+          "orgânico",
+          "mineral"
+        ],
+        "respostaCorreta": "unicelular",
+        "explicacao": "Seres unicelulares possuem apenas uma célula.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-03",
+        "enunciado": "Qual alternativa apresenta um ser multicelular?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bactéria",
+          "ameba",
+          "ser humano",
+          "microrganismo unicelular"
+        ],
+        "respostaCorreta": "ser humano",
+        "explicacao": "O ser humano é formado por muitas células.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-04",
+        "enunciado": "Qual instrumento é usado para observar células com mais facilidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "telescópio",
+          "termômetro",
+          "microscópio",
+          "régua"
+        ],
+        "respostaCorreta": "microscópio",
+        "explicacao": "O microscópio permite observar estruturas muito pequenas, como as células.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-05",
+        "enunciado": "Células semelhantes formam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tecidos",
+          "planetas",
+          "rochas",
+          "estímulos"
+        ],
+        "respostaCorreta": "tecidos",
+        "explicacao": "Nos seres multicelulares, células semelhantes se agrupam e formam tecidos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-06",
+        "enunciado": "Tecidos formam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "células",
+          "órgãos",
+          "microscópios",
+          "substâncias"
+        ],
+        "respostaCorreta": "órgãos",
+        "explicacao": "Os tecidos se organizam para formar órgãos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-07",
+        "enunciado": "Qual alternativa apresenta a sequência correta de organização?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "órgãos, tecidos, células, sistemas",
+          "células, tecidos, órgãos, sistemas",
+          "tecidos, células, sistemas, órgãos",
+          "sistemas, órgãos, células, tecidos"
+        ],
+        "respostaCorreta": "células, tecidos, órgãos, sistemas",
+        "explicacao": "Essa é a ordem correta dos níveis de organização do corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-celula-ex-08",
+        "enunciado": "Qual alternativa está correta sobre as células?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aparecem apenas em animais",
+          "existem em todos os seres vivos",
+          "só podem ser vistas sem instrumentos",
+          "não realizam funções no organismo"
+        ],
+        "respostaCorreta": "existem em todos os seres vivos",
+        "explicacao": "Todos os seres vivos são formados por uma ou mais células.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-celula-ex-09",
+        "enunciado": "Uma bactéria é unicelular porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tem muitos tecidos",
+          "é invisível",
+          "possui apenas uma célula",
+          "vive em grupo"
+        ],
+        "respostaCorreta": "possui apenas uma célula",
+        "explicacao": "Essa é a característica principal dos seres unicelulares.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-celula-ex-10",
+        "enunciado": "Um aluno afirmou que órgãos são menores do que células. Essa afirmação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque órgãos são formados por tecidos e células",
+          "correta, porque células só existem em plantas",
+          "incorreta, porque órgãos não têm relação com células"
+        ],
+        "respostaCorreta": "incorreta, porque órgãos são formados por tecidos e células",
+        "explicacao": "Os órgãos são estruturas maiores, formadas por muitos tecidos, que por sua vez são formados por células.",
+        "dificuldade": "dificil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-celula-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente seres unicelulares e multicelulares?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "unicelulares não são vivos",
+          "unicelulares têm uma célula; multicelulares têm muitas",
+          "multicelulares não possuem tecidos",
+          "unicelulares possuem sistemas"
+        ],
+        "respostaCorreta": "unicelulares têm uma célula; multicelulares têm muitas",
+        "explicacao": "Essa é a diferença básica entre esses dois grupos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-celula-sim-02",
+        "enunciado": "Qual alternativa apresenta corretamente a função do microscópio no estudo dos seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "medir a temperatura do corpo",
+          "aumentar a visão de estruturas muito pequenas",
+          "calcular a massa de um organismo",
+          "transformar células em tecidos"
+        ],
+        "respostaCorreta": "aumentar a visão de estruturas muito pequenas",
+        "explicacao": "O microscópio permite observar estruturas microscópicas, como células.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-celula-sim-03",
+        "enunciado": "Qual alternativa mostra uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tecidos são formados por sistemas.",
+          "Órgãos são formados por tecidos.",
+          "Células são formadas por órgãos.",
+          "Sistemas são menores que células."
+        ],
+        "respostaCorreta": "Órgãos são formados por tecidos.",
+        "explicacao": "Os tecidos se organizam e formam órgãos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-celula-sim-04",
+        "enunciado": "Se um organismo possui apenas uma célula e realiza funções vitais, ele é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não vivo",
+          "unicelular",
+          "mineral",
+          "tecido"
+        ],
+        "respostaCorreta": "unicelular",
+        "explicacao": "Ter uma única célula e realizar funções vitais caracteriza um ser unicelular.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-celula-sim-05",
+        "enunciado": "Qual alternativa apresenta a menor estrutura citada nos níveis de organização dos seres vivos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sistema",
+          "órgão",
+          "tecido",
+          "célula"
+        ],
+        "respostaCorreta": "célula",
+        "explicacao": "A célula é a unidade básica e menor estrutura considerada nessa organização.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

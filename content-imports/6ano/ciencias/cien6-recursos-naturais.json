@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-recursos-naturais",
+    "titulo": "Recursos naturais e sustentabilidade",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Ambiente e sociedade",
+    "resumo": [
+      "Recursos naturais são elementos da natureza utilizados pelos seres humanos.",
+      "Água, solo, minerais, plantas e ar são exemplos de recursos naturais.",
+      "Alguns recursos são renováveis, e outros são não renováveis.",
+      "O uso consciente dos recursos é importante para a vida presente e futura.",
+      "Sustentabilidade envolve equilíbrio entre uso, preservação e responsabilidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são recursos naturais",
+        "texto": "Recursos naturais são elementos encontrados na natureza e utilizados pelas pessoas para viver, produzir alimentos, construir objetos e gerar energia. Eles são essenciais para a sociedade e para o funcionamento de muitas atividades humanas.",
+        "dica": "Pense em tudo aquilo que a natureza oferece e que usamos no dia a dia."
+      },
+      {
+        "subtitulo": "Recursos renováveis e não renováveis",
+        "texto": "Recursos renováveis podem ser repostos pela natureza em certos ciclos, como água, vento e luz solar, desde que sejam usados com cuidado. Recursos não renováveis, como muitos minérios e combustíveis fósseis, levam muito tempo para se formar e podem se esgotar.",
+        "dica": "Nem todo recurso se recompõe com a mesma rapidez."
+      },
+      {
+        "subtitulo": "Sustentabilidade",
+        "texto": "Sustentabilidade é o uso responsável dos recursos naturais, evitando desperdício e degradação. Ela busca atender às necessidades do presente sem comprometer a vida das gerações futuras.",
+        "dica": "Usar com responsabilidade é tão importante quanto saber de onde vêm os recursos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a água é um recurso natural importante.",
+        "passos": [
+          "A água é usada pelos seres vivos e pelas pessoas em muitas atividades.",
+          "Ela participa da alimentação, da higiene, da agricultura e da vida nos ecossistemas.",
+          "Por isso, precisa ser preservada."
+        ],
+        "resposta": "A água é um recurso natural essencial para a vida e para diversas atividades humanas."
+      },
+      {
+        "enunciado": "Explique uma atitude sustentável.",
+        "passos": [
+          "A atitude deve evitar desperdício ou degradação.",
+          "Ela pode envolver economia de água, reciclagem ou cuidado com o solo.",
+          "Essas ações ajudam a preservar recursos para o futuro."
+        ],
+        "resposta": "Usar recursos de forma consciente é uma atitude sustentável."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-recursos-naturais-ex-01",
+        "enunciado": "Recursos naturais são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "objetos fabricados somente em fábricas",
+          "elementos da natureza usados pelas pessoas",
+          "apenas os alimentos industrializados",
+          "materiais sem importância para a vida"
+        ],
+        "respostaCorreta": "elementos da natureza usados pelas pessoas",
+        "explicacao": "Essa é a definição correta de recursos naturais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-02",
+        "enunciado": "Qual alternativa apresenta apenas recursos naturais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "água, solo e ar",
+          "plástico, vidro e tinta",
+          "papel, cola e metal refinado",
+          "computador, cimento e cabo"
+        ],
+        "respostaCorreta": "água, solo e ar",
+        "explicacao": "Esses três elementos são encontrados na natureza e são recursos naturais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-03",
+        "enunciado": "Qual alternativa representa um uso consciente de recursos naturais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desperdiçar água tratada",
+          "poluir rios",
+          "evitar desperdícios",
+          "retirar recursos sem cuidado"
+        ],
+        "respostaCorreta": "evitar desperdícios",
+        "explicacao": "Usar recursos com responsabilidade é uma atitude consciente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-04",
+        "enunciado": "Qual alternativa apresenta um recurso natural renovável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "luz solar",
+          "combustível fóssil",
+          "minério metálico",
+          "carvão mineral"
+        ],
+        "respostaCorreta": "luz solar",
+        "explicacao": "A luz solar é um recurso renovável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-05",
+        "enunciado": "Qual alternativa apresenta um recurso não renovável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vento",
+          "água da chuva",
+          "minério",
+          "luz solar"
+        ],
+        "respostaCorreta": "minério",
+        "explicacao": "Muitos minérios levam muito tempo para se formar e são considerados não renováveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-06",
+        "enunciado": "Sustentabilidade significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar os recursos sem pensar no futuro",
+          "proibir todo uso da natureza",
+          "usar recursos com responsabilidade e equilíbrio",
+          "consumir o máximo possível"
+        ],
+        "respostaCorreta": "usar recursos com responsabilidade e equilíbrio",
+        "explicacao": "Esse é o princípio básico da sustentabilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-07",
+        "enunciado": "Qual alternativa apresenta uma consequência do uso inadequado dos recursos naturais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "preservação do ambiente",
+          "redução dos impactos ambientais",
+          "degradação ambiental",
+          "melhoria automática dos ecossistemas"
+        ],
+        "respostaCorreta": "degradação ambiental",
+        "explicacao": "O uso inadequado pode causar poluição, desperdício e destruição de ambientes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-08",
+        "enunciado": "Um aluno disse que os recursos naturais existem apenas para serem consumidos sem limites. Essa fala está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque o uso deve ser responsável",
+          "correta, porque a natureza é infinita",
+          "incorreta, porque recursos naturais não têm utilidade"
+        ],
+        "respostaCorreta": "incorreta, porque o uso deve ser responsável",
+        "explicacao": "Os recursos naturais precisam ser usados com cuidado e responsabilidade.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-09",
+        "enunciado": "Qual alternativa apresenta uma ação ligada à sustentabilidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poluir nascentes",
+          "desperdiçar energia e água",
+          "reduzir desperdícios e reaproveitar materiais",
+          "destruir vegetação sem planejamento"
+        ],
+        "respostaCorreta": "reduzir desperdícios e reaproveitar materiais",
+        "explicacao": "Essas práticas ajudam na preservação dos recursos naturais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-ex-10",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre recursos naturais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todos são ilimitados.",
+          "Não têm relação com a vida humana.",
+          "São importantes para a sociedade e para os ecossistemas.",
+          "Existem apenas no subsolo."
+        ],
+        "respostaCorreta": "São importantes para a sociedade e para os ecossistemas.",
+        "explicacao": "Os recursos naturais são fundamentais para a vida e para diversas atividades humanas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-recursos-naturais-sim-01",
+        "enunciado": "Qual alternativa apresenta uma atitude compatível com a sustentabilidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "consumo sem planejamento",
+          "uso consciente dos recursos",
+          "descarte incorreto de resíduos",
+          "poluição das águas"
+        ],
+        "respostaCorreta": "uso consciente dos recursos",
+        "explicacao": "A sustentabilidade depende do uso responsável dos recursos naturais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Água, ar e solo não são recursos naturais' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque esses elementos são recursos naturais importantes.",
+          "A frase é verdadeira apenas em cidades.",
+          "A frase é falsa, porque apenas o solo é recurso natural."
+        ],
+        "respostaCorreta": "A frase é falsa, porque esses elementos são recursos naturais importantes.",
+        "explicacao": "Água, ar e solo são recursos naturais essenciais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-recursos-naturais-sim-03",
+        "enunciado": "Qual alternativa apresenta um recurso natural renovável e um não renovável, nessa ordem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "luz solar e minério",
+          "minério e vento",
+          "combustível fóssil e chuva",
+          "carvão mineral e água"
+        ],
+        "respostaCorreta": "luz solar e minério",
+        "explicacao": "A luz solar é renovável, enquanto muitos minérios são não renováveis.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-recursos-naturais-sim-04",
+        "enunciado": "Qual alternativa apresenta uma consequência do desperdício de recursos naturais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "melhoria automática do ambiente",
+          "maior equilíbrio ecológico",
+          "possível escassez e degradação",
+          "produção natural infinita"
+        ],
+        "respostaCorreta": "possível escassez e degradação",
+        "explicacao": "O desperdício pode comprometer a disponibilidade de recursos e causar impactos ambientais.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-recursos-naturais-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre sustentabilidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Significa impedir todo uso da natureza.",
+          "Significa usar a natureza sem limites.",
+          "Significa conciliar uso e preservação dos recursos.",
+          "Não tem relação com o futuro das pessoas."
+        ],
+        "respostaCorreta": "Significa conciliar uso e preservação dos recursos.",
+        "explicacao": "Esse é um dos princípios centrais da sustentabilidade.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

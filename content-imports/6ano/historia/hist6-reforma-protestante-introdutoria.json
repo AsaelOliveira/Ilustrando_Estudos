@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-reforma-protestante-introdutoria",
+    "titulo": "Reforma Protestante: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "Transformações da Idade Moderna",
+    "resumo": [
+      "A Reforma Protestante foi um movimento religioso que provocou mudanças importantes na Europa.",
+      "Esse processo esteve ligado a críticas dirigidas à Igreja Católica da época.",
+      "A Reforma contribuiu para o surgimento de novas igrejas cristãs.",
+      "As transformações religiosas tiveram também efeitos políticos e sociais.",
+      "O estudo da Reforma ajuda a compreender mudanças importantes do mundo moderno."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que foi a Reforma Protestante",
+        "texto": "A Reforma Protestante foi um movimento religioso iniciado na Europa que questionou práticas e autoridades da Igreja Católica. Esse processo contribuiu para a formação de novas igrejas cristãs e alterou o cenário religioso europeu.",
+        "dica": "A palavra reforma indica mudança ou tentativa de transformação."
+      },
+      {
+        "subtitulo": "Críticas e mudanças",
+        "texto": "Diversos grupos e líderes passaram a criticar aspectos religiosos e administrativos da Igreja Católica. Essas críticas provocaram debates, conflitos e mudanças nas práticas religiosas de diferentes regiões.",
+        "dica": "Nem toda mudança religiosa acontece de forma tranquila; muitas geram debates intensos."
+      },
+      {
+        "subtitulo": "Consequências históricas",
+        "texto": "A Reforma Protestante trouxe consequências que foram além da religião. O movimento teve efeitos sobre a política, a sociedade e a organização do poder em várias partes da Europa, tornando-se um marco importante da história moderna.",
+        "dica": "As mudanças religiosas também podem influenciar outros aspectos da vida social."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a Reforma Protestante é considerada um movimento de mudança.",
+        "passos": [
+          "Ela questionou práticas e autoridades religiosas.",
+          "Esses questionamentos provocaram transformações no cristianismo europeu.",
+          "Por isso, a Reforma é vista como um movimento de mudança."
+        ],
+        "resposta": "A Reforma Protestante é considerada um movimento de mudança porque alterou o cenário religioso da Europa."
+      },
+      {
+        "enunciado": "Relacione religião e política no contexto da Reforma.",
+        "passos": [
+          "As mudanças religiosas afetaram a organização de vários territórios.",
+          "Isso influenciou relações de poder e decisões políticas.",
+          "Assim, religião e política se conectaram nesse processo histórico."
+        ],
+        "resposta": "A Reforma Protestante teve impactos religiosos, sociais e políticos."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-01",
+        "enunciado": "A Reforma Protestante foi principalmente um movimento de caráter:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "religioso",
+          "astronômico",
+          "biológico",
+          "industrial"
+        ],
+        "respostaCorreta": "religioso",
+        "explicacao": "A Reforma Protestante começou como um movimento ligado a questões religiosas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-02",
+        "enunciado": "A Reforma Protestante provocou mudanças importantes principalmente na:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vida religiosa europeia",
+          "composição das rochas",
+          "formação das marés",
+          "classificação dos animais"
+        ],
+        "respostaCorreta": "vida religiosa europeia",
+        "explicacao": "O movimento alterou o cenário religioso da Europa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-03",
+        "enunciado": "Uma das consequências da Reforma Protestante foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o surgimento de novas igrejas cristãs",
+          "o fim de toda prática religiosa",
+          "a eliminação das cidades europeias",
+          "o desaparecimento do comércio"
+        ],
+        "respostaCorreta": "o surgimento de novas igrejas cristãs",
+        "explicacao": "A Reforma contribuiu para o aparecimento de novas igrejas cristãs.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-04",
+        "enunciado": "A Reforma Protestante esteve ligada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "críticas dirigidas à Igreja Católica da época",
+          "estudos sobre o sistema solar",
+          "mudanças apenas no relevo europeu",
+          "uso de tecnologias digitais"
+        ],
+        "respostaCorreta": "críticas dirigidas à Igreja Católica da época",
+        "explicacao": "O movimento surgiu em meio a críticas a práticas e autoridades religiosas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-05",
+        "enunciado": "Ao estudar a Reforma Protestante, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "suas consequências ultrapassaram o campo religioso",
+          "ela não provocou nenhuma mudança social",
+          "ela aconteceu apenas fora da Europa",
+          "ela não teve relação com debates e conflitos"
+        ],
+        "respostaCorreta": "suas consequências ultrapassaram o campo religioso",
+        "explicacao": "A Reforma também teve efeitos políticos e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-ex-06",
+        "enunciado": "Qual alternativa está incorreta sobre a Reforma Protestante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Foi um movimento religioso.",
+          "Trouxe mudanças para a Europa.",
+          "Contribuiu para o surgimento de novas igrejas.",
+          "Foi um fenômeno sem qualquer impacto histórico."
+        ],
+        "respostaCorreta": "Foi um fenômeno sem qualquer impacto histórico.",
+        "explicacao": "A Reforma Protestante teve grande importância histórica.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-reforma-protestante-introdutoria-sim-01",
+        "enunciado": "Ao analisar a Reforma Protestante, o aluno percebe que as mudanças religiosas podem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciar também a política e a sociedade",
+          "afetar somente o clima",
+          "alterar apenas a formação do solo",
+          "não ter nenhuma consequência histórica"
+        ],
+        "respostaCorreta": "influenciar também a política e a sociedade",
+        "explicacao": "A Reforma teve impactos que foram além da esfera religiosa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-reforma-protestante-introdutoria-sim-02",
+        "enunciado": "A principal importância histórica da Reforma Protestante está no fato de que ela:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformou o cenário religioso e influenciou outras dimensões da vida europeia",
+          "eliminou toda forma de religião na Europa",
+          "provocou apenas mudanças sem duração",
+          "substituiu o comércio pelas atividades rurais"
+        ],
+        "respostaCorreta": "transformou o cenário religioso e influenciou outras dimensões da vida europeia",
+        "explicacao": "A Reforma é um marco por suas mudanças religiosas, sociais e políticas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

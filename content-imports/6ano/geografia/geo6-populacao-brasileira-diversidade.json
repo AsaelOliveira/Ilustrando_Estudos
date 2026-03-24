@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo6-populacao-brasileira-diversidade",
+    "titulo": "População brasileira e diversidade",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Brasil e sociedade",
+    "resumo": [
+      "A população brasileira é diversa e formada por diferentes grupos.",
+      "A formação da população do Brasil envolve muitos processos históricos.",
+      "A diversidade cultural faz parte da identidade do país.",
+      "A distribuição da população no território brasileiro não é igual em todas as regiões.",
+      "Estudar esse tema ajuda a compreender a sociedade brasileira e sua pluralidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diversidade da população brasileira",
+        "texto": "A população brasileira é formada por diferentes grupos e experiências históricas. Essa diversidade aparece em aspectos culturais, sociais e regionais, contribuindo para a pluralidade que caracteriza o país.",
+        "dica": "Diversidade é uma palavra-chave para compreender a sociedade brasileira."
+      },
+      {
+        "subtitulo": "Formação histórica",
+        "texto": "A formação da população brasileira envolve processos históricos complexos, com presença de povos indígenas, africanos, europeus e outros grupos. Essas contribuições marcaram a cultura e a vida social no país.",
+        "dica": "A sociedade brasileira foi construída historicamente por diferentes povos e experiências."
+      },
+      {
+        "subtitulo": "Distribuição da população",
+        "texto": "A população brasileira não está distribuída de maneira igual em todo o território. Algumas áreas concentram mais pessoas, enquanto outras apresentam menor densidade populacional, o que se relaciona com aspectos econômicos, históricos e naturais.",
+        "dica": "Diversidade populacional também aparece na forma como as pessoas se distribuem pelo território."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a população brasileira é considerada diversa.",
+        "passos": [
+          "Ela foi formada por diferentes grupos ao longo da história.",
+          "Esses grupos contribuíram para a cultura e a vida social do país.",
+          "Por isso, a população brasileira é marcada pela diversidade."
+        ],
+        "resposta": "A população brasileira é diversa porque resulta de diferentes experiências históricas e culturais."
+      },
+      {
+        "enunciado": "Relacione diversidade e território brasileiro.",
+        "passos": [
+          "O Brasil é um país extenso e com diferentes regiões.",
+          "A população se distribui de modos variados pelo território.",
+          "Isso ajuda a explicar parte da diversidade do país."
+        ],
+        "resposta": "A diversidade brasileira aparece tanto na cultura quanto na distribuição da população."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-01",
+        "enunciado": "A população brasileira pode ser caracterizada principalmente por sua:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diversidade",
+          "uniformidade absoluta",
+          "ausência de diferenças culturais",
+          "falta de história"
+        ],
+        "respostaCorreta": "diversidade",
+        "explicacao": "A população brasileira é formada por diferentes grupos e experiências históricas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-02",
+        "enunciado": "A formação da população brasileira envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "processos históricos complexos e diferentes grupos",
+          "somente um único povo de origem",
+          "ausência de contribuições culturais variadas",
+          "apenas fenômenos naturais"
+        ],
+        "respostaCorreta": "processos históricos complexos e diferentes grupos",
+        "explicacao": "A população do Brasil foi formada por diferentes povos e processos históricos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-03",
+        "enunciado": "A diversidade cultural do Brasil faz parte:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "da identidade do país",
+          "da ausência de cultura nacional",
+          "somente das áreas sem população",
+          "apenas do clima brasileiro"
+        ],
+        "respostaCorreta": "da identidade do país",
+        "explicacao": "A diversidade cultural é uma característica importante da sociedade brasileira.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-04",
+        "enunciado": "A população brasileira se distribui pelo território de forma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desigual",
+          "idêntica em todos os lugares",
+          "sem qualquer diferença regional",
+          "igual em todas as paisagens"
+        ],
+        "respostaCorreta": "desigual",
+        "explicacao": "Algumas áreas concentram mais população do que outras.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a pluralidade da sociedade brasileira",
+          "somente o sistema circulatório",
+          "apenas as classes de palavras",
+          "exclusivamente a expansão marítima"
+        ],
+        "respostaCorreta": "a pluralidade da sociedade brasileira",
+        "explicacao": "O tema ajuda a entender a diversidade da população e da cultura no Brasil.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A população brasileira é diversa.",
+          "A formação da população envolve processos históricos.",
+          "A distribuição populacional é igual em todo o território.",
+          "A diversidade cultural faz parte da sociedade brasileira."
+        ],
+        "respostaCorreta": "A distribuição populacional é igual em todo o território.",
+        "explicacao": "A população não se distribui de maneira uniforme pelo território brasileiro.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-populacao-brasileira-diversidade-sim-01",
+        "enunciado": "Ao relacionar diferentes grupos, formação histórica e cultura, o aluno identifica aspectos da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diversidade da população brasileira",
+          "formação das rochas",
+          "classificação dos verbos",
+          "digestão dos alimentos"
+        ],
+        "respostaCorreta": "diversidade da população brasileira",
+        "explicacao": "Esses elementos ajudam a compreender a pluralidade da sociedade brasileira.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-populacao-brasileira-diversidade-sim-02",
+        "enunciado": "A principal ideia desse tema é que o Brasil:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "possui uma população diversa, marcada por diferentes processos históricos e culturais",
+          "tem uma população igual em todos os aspectos",
+          "não apresenta diferenças regionais",
+          "não foi formado por diferentes grupos"
+        ],
+        "respostaCorreta": "possui uma população diversa, marcada por diferentes processos históricos e culturais",
+        "explicacao": "A sociedade brasileira é plural e foi historicamente formada por diferentes experiências.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

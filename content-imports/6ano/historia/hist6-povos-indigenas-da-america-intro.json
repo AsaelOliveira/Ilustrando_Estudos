@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist6-povos-indigenas-da-america-intro",
+    "titulo": "Povos indígenas da América: introdução",
+    "disciplinaId": "hist6",
+    "turmaId": "6ano",
+    "unidade": "América e diversidade histórica",
+    "resumo": [
+      "Antes da chegada dos europeus, a América já era habitada por muitos povos indígenas.",
+      "Esses povos apresentavam grande diversidade cultural, social e econômica.",
+      "Não existia uma única forma de vida indígena no continente americano.",
+      "Os povos indígenas mantinham diferentes relações com o território e com a natureza.",
+      "Estudar esse tema ajuda a reconhecer a diversidade e a importância histórica desses povos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diversidade indígena",
+        "texto": "Os povos indígenas da América formavam um conjunto muito diverso. Eles possuíam línguas, costumes, formas de organização social e modos de vida variados. Por isso, não é correto tratar todos os povos indígenas como se fossem iguais.",
+        "dica": "Diversidade é uma palavra essencial para estudar os povos indígenas da América."
+      },
+      {
+        "subtitulo": "Relação com o território",
+        "texto": "Os povos indígenas estabeleciam diferentes formas de relação com o território, com os rios, as florestas, os campos e outros espaços. Essas relações estavam ligadas ao modo de vida, à produção de alimentos, à cultura e à organização de cada povo.",
+        "dica": "Território não é só espaço físico; ele também se relaciona com cultura e modo de vida."
+      },
+      {
+        "subtitulo": "Importância histórica",
+        "texto": "Os povos indígenas fazem parte da história da América muito antes da colonização europeia. Reconhecer sua presença e sua diversidade é fundamental para compreender melhor a formação histórica do continente.",
+        "dica": "A história da América não começa com a chegada dos europeus."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que não devemos imaginar os povos indígenas da América como um grupo único.",
+        "passos": [
+          "Havia muitos povos diferentes no continente.",
+          "Eles tinham culturas, línguas e formas de vida variadas.",
+          "Por isso, não se deve generalizar a experiência indígena."
+        ],
+        "resposta": "Os povos indígenas da América eram diversos e não formavam um grupo homogêneo."
+      },
+      {
+        "enunciado": "Relacione povos indígenas e território.",
+        "passos": [
+          "Os povos indígenas viviam em diferentes ambientes.",
+          "Cada povo se organizava de acordo com suas condições e tradições.",
+          "Isso mostra a importância do território em sua história."
+        ],
+        "resposta": "Os povos indígenas mantinham relações importantes com os territórios em que viviam."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-01",
+        "enunciado": "Antes da chegada dos europeus, a América:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "já era habitada por muitos povos indígenas",
+          "era um continente sem população humana",
+          "possuía somente cidades europeias",
+          "não tinha nenhuma organização social"
+        ],
+        "respostaCorreta": "já era habitada por muitos povos indígenas",
+        "explicacao": "A América era ocupada por diversos povos indígenas antes da colonização europeia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-02",
+        "enunciado": "Os povos indígenas da América podem ser caracterizados principalmente por sua:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diversidade cultural",
+          "uniformidade absoluta",
+          "ausência de costumes próprios",
+          "dependência exclusiva do comércio europeu"
+        ],
+        "respostaCorreta": "diversidade cultural",
+        "explicacao": "Esses povos apresentavam línguas, costumes e formas de organização variadas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-03",
+        "enunciado": "É incorreto afirmar que os povos indígenas da América:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eram todos exatamente iguais entre si",
+          "tinham diferentes formas de vida",
+          "mantinham relações com seus territórios",
+          "fazem parte da história do continente"
+        ],
+        "respostaCorreta": "eram todos exatamente iguais entre si",
+        "explicacao": "Os povos indígenas eram diversos e não formavam um grupo homogêneo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-04",
+        "enunciado": "Ao estudar os povos indígenas da América, é importante reconhecer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a diversidade de culturas e modos de vida",
+          "apenas a influência europeia",
+          "somente a vida nas cidades modernas",
+          "a ausência de relação com o território"
+        ],
+        "respostaCorreta": "a diversidade de culturas e modos de vida",
+        "explicacao": "Esse é um ponto fundamental para compreender a história indígena americana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-05",
+        "enunciado": "A relação dos povos indígenas com o território mostra que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "espaço e cultura podem estar ligados",
+          "o território não tem importância histórica",
+          "todos viviam do mesmo modo em qualquer ambiente",
+          "a natureza não influenciava a vida desses povos"
+        ],
+        "respostaCorreta": "espaço e cultura podem estar ligados",
+        "explicacao": "Os modos de vida indígenas se relacionavam com os ambientes em que cada povo vivia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-ex-06",
+        "enunciado": "A principal importância de estudar esse tema é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a história da América inclui grande diversidade indígena antes da colonização",
+          "a história da América começou apenas com os europeus",
+          "não existiam povos organizados no continente",
+          "os povos indígenas não fazem parte da formação histórica americana"
+        ],
+        "respostaCorreta": "a história da América inclui grande diversidade indígena antes da colonização",
+        "explicacao": "Reconhecer a presença indígena anterior à colonização é fundamental para entender a história americana.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-sim-01",
+        "enunciado": "Ao analisar os povos indígenas da América antes da colonização, o aluno deve evitar a ideia de que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "todos formavam um grupo único e igual",
+          "havia diversidade cultural no continente",
+          "os povos tinham relação com seus territórios",
+          "a história americana é anterior à chegada dos europeus"
+        ],
+        "respostaCorreta": "todos formavam um grupo único e igual",
+        "explicacao": "A diversidade é uma característica essencial dos povos indígenas da América.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist6-povos-indigenas-da-america-intro-sim-02",
+        "enunciado": "A principal lição desse tema é que a América pré-colonial:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "era marcada por diferentes povos e experiências históricas",
+          "não possuía presença humana organizada",
+          "dependia das cidades europeias",
+          "não apresentava diversidade cultural"
+        ],
+        "respostaCorreta": "era marcada por diferentes povos e experiências históricas",
+        "explicacao": "A América já possuía grande diversidade humana e cultural antes da chegada dos europeus.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

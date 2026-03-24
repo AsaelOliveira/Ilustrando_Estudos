@@ -216,33 +216,29 @@ export default function AppHomePage() {
         <motion.div
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
-          className="relative overflow-hidden rounded-[2rem] border border-border/60 bg-card px-6 py-8 shadow-card sm:px-8"
+          className="relative overflow-hidden rounded-[2.5rem] border border-border/60 bg-card px-8 py-10 shadow-card sm:px-10 mesh-gradient grid-pattern"
         >
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(110,193,147,0.22),transparent_34%),radial-gradient(circle_at_bottom_right,rgba(255,196,107,0.16),transparent_28%)]" />
-          <div className="relative grid gap-6 lg:grid-cols-[1.25fr_0.75fr]">
+          <div className="relative grid gap-8 lg:grid-cols-[1.2fr_0.8fr]">
             <div className="min-w-0">
-              <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-4 py-2 font-body text-sm font-medium text-primary">
-                <Sparkles className="h-4 w-4" />
-                Painel do aluno
+              <div className="inline-flex items-center gap-2 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-2.5 font-heading text-[13px] font-black uppercase tracking-widest text-primary shadow-sm">
+                <Sparkles className="h-4 w-4 animate-pulse" />
+                Espaço do Aluno
               </div>
-              <h1 className="mt-5 max-w-2xl break-words font-heading text-3xl font-extrabold leading-tight text-foreground [overflow-wrap:anywhere] sm:text-5xl">
-                Olá, {firstName}. Seu próximo passo já está separado.
+              <h1 className="mt-8 max-w-2xl break-words font-heading text-5xl font-black leading-[0.9] text-foreground [overflow-wrap:anywhere] md:text-7xl lg:text-8xl">
+                Olá, {firstName}. <br />
+                Sua trilha <span className="text-primary italic">chama.</span>
               </h1>
-              <p className="mt-4 max-w-2xl font-body text-base leading-relaxed text-muted-foreground sm:text-lg">
-                Esta tela foi organizada para você fazer três coisas sem se perder: continuar de onde parou, seguir a
-                trilha do dia e abrir os atalhos principais do app.
-              </p>
 
-              <div className="mt-6 grid gap-3 sm:grid-cols-3">
+              <div className="mt-12 grid gap-4 sm:grid-cols-3">
                 {focusItems.map((item) => (
                   <div
                     key={item.label}
-                    className="rounded-3xl border border-border bg-background/80 px-4 py-4"
+                    className="group rounded-[2rem] border border-border/30 bg-background/20 p-6 backdrop-blur-md transition-all hover:bg-background/40 hover:border-primary/20"
                   >
-                    <p className="font-heading text-[11px] font-semibold uppercase tracking-[0.18em] text-primary/75">
+                    <p className="font-heading text-[10px] font-black uppercase tracking-[0.25em] text-primary/60">
                       {item.label}
                     </p>
-                    <p className="mt-2 break-words font-body text-sm text-foreground [overflow-wrap:anywhere]">
+                    <p className="mt-3 break-words font-body text-lg font-black text-foreground [overflow-wrap:anywhere]">
                       {item.value}
                     </p>
                   </div>
@@ -250,50 +246,40 @@ export default function AppHomePage() {
               </div>
             </div>
 
-            <div className="rounded-[1.75rem] border border-border/60 bg-background/85 p-6 backdrop-blur">
-              <div className="flex items-center gap-3">
-                <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10">
-                  <Clock3 className="h-5 w-5 text-primary" />
-                </div>
-                <div>
-                  <p className="font-heading text-sm font-semibold uppercase tracking-[0.25em] text-primary/80">
-                    Comece por aqui
-                  </p>
-                  <p className="font-body text-sm text-muted-foreground">
-                    O botão principal da dashboard sempre fica neste bloco.
-                  </p>
-                </div>
-              </div>
-
-              <div className="mt-6 rounded-3xl border border-border bg-card p-5">
-                <p className="font-heading text-2xl font-bold text-foreground">
-                  {continueTema?.titulo || "Escolha sua primeira aula"}
-                </p>
-                <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">
-                  {continueDisciplina && continueTurma
-                    ? `${continueDisciplina.nome} • ${continueTurma.nome}`
-                    : "Abra sua turma e escolha uma disciplina para começar."}
-                </p>
-                {continueTema && (
-                  <div className="mt-4 flex flex-wrap gap-2">
-                    <span className="rounded-full bg-primary/10 px-3 py-1 text-xs font-heading font-semibold text-primary">
-                      {continueTema.resumo.length} pontos de resumo
-                    </span>
-                    <span className="rounded-full bg-secondary px-3 py-1 text-xs font-heading font-semibold text-muted-foreground">
-                      {Math.min(continueTema.exercicios.length, contentDisplayConfig.maxExercisesPerTema)} exercícios
-                    </span>
-                    <span className="rounded-full bg-secondary px-3 py-1 text-xs font-heading font-semibold text-muted-foreground">
-                      {continueTema.simulado.length} questões de prova
-                    </span>
+            <div className="group relative rounded-[3rem] border border-border/40 bg-background/40 p-1 backdrop-blur-xl transition-all hover:shadow-glow">
+               <div className="rounded-[2.75rem] bg-card p-8">
+                <div className="flex items-center gap-4">
+                  <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-glow">
+                    <Clock3 className="h-7 w-7" />
                   </div>
-                )}
-                <Link
-                  to={continueHref}
-                  className="btn-tap mt-6 inline-flex items-center gap-2 rounded-2xl bg-primary px-5 py-3 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
-                >
-                  {continueTema ? "Continuar estudando" : "Escolher primeira aula"}
-                  <ArrowRight className="h-4 w-4" />
-                </Link>
+                  <div>
+                    <p className="font-heading text-xs font-black uppercase tracking-[0.25em] text-primary/60">
+                      Última Parada
+                    </p>
+                    <p className="font-body text-sm font-medium text-muted-foreground">
+                      Continue de onde parou
+                    </p>
+                  </div>
+                </div>
+
+                <div className="mt-10">
+                  <h2 className="font-heading text-3xl font-black text-foreground leading-none">
+                    {continueTema?.titulo || "Escolha uma aula"}
+                  </h2>
+                  <p className="mt-4 font-body text-base font-medium text-muted-foreground">
+                    {continueDisciplina && continueTurma
+                      ? `${continueDisciplina.nome} • ${continueTurma.nome}`
+                      : "Sua trilha aguarda seu primeiro passo."}
+                  </p>
+                  <Link
+                    to={continueHref}
+                    className="btn-tap group relative mt-10 flex items-center justify-center gap-3 overflow-hidden rounded-[2rem] bg-primary px-8 py-5 font-heading text-lg font-black text-primary-foreground shadow-glow transition-all"
+                  >
+                    <div className="absolute inset-x-0 h-full w-1/4 animate-shine bg-white/20 blur-md pointer-events-none" />
+                    {continueTema ? "Estudar Agora" : "Começar Trilha"}
+                    <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
@@ -302,8 +288,8 @@ export default function AppHomePage() {
         <motion.div
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.08 }}
-          className="mt-8 grid gap-4 md:grid-cols-2"
+          transition={{ delay: 0.1 }}
+          className="mt-12 grid gap-6 md:grid-cols-2"
         >
           {spotlightCards.map((card, index) => {
             const Icon = card.icon;
@@ -312,26 +298,26 @@ export default function AppHomePage() {
               <Link
                 key={card.title}
                 to={card.to}
-                className={`group rounded-[1.75rem] border bg-gradient-to-br p-5 shadow-card transition-all hover:-translate-y-1 hover:shadow-xl ${card.tone}`}
+                className={`group relative overflow-hidden rounded-[2.5rem] border bg-gradient-to-br p-8 shadow-card transition-all hover:-translate-y-2 hover:shadow-2xl ${card.tone}`}
               >
                 <motion.div
-                  initial={{ opacity: 0, y: 16 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: 0.12 + index * 0.05 }}
-                  className="flex items-start gap-4"
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.2 + index * 0.1 }}
+                  className="flex items-start gap-6"
                 >
-                  <div className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-2xl bg-background/90 text-primary shadow-sm">
-                    <Icon className="h-6 w-6" />
+                  <div className="flex h-16 w-16 flex-shrink-0 items-center justify-center rounded-3xl bg-background/90 text-primary shadow-glow">
+                    <Icon className="h-8 w-8" />
                   </div>
                   <div className="min-w-0 flex-1">
-                    <span className="rounded-full bg-background/90 px-3 py-1 text-[11px] font-heading font-semibold uppercase tracking-[0.18em] text-primary">
+                    <span className="rounded-full bg-background/90 px-4 py-1.5 text-[10px] font-heading font-black uppercase tracking-[0.2em] text-primary">
                       {card.badge}
                     </span>
-                    <p className="mt-3 font-heading text-2xl font-bold text-foreground">{card.title}</p>
-                    <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">{card.description}</p>
-                    <div className="mt-4 inline-flex items-center gap-2 text-sm font-heading font-bold text-primary">
+                    <h3 className="mt-4 font-heading text-3xl font-black text-foreground leading-tight">{card.title}</h3>
+                    <p className="mt-3 font-body text-base font-medium leading-relaxed text-muted-foreground">{card.description}</p>
+                    <div className="mt-6 flex items-center gap-2 text-sm font-heading font-black uppercase tracking-widest text-primary">
                       {card.cta}
-                      <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                      <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-2" />
                     </div>
                   </div>
                 </motion.div>

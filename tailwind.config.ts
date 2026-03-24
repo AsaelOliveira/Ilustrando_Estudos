@@ -119,6 +119,10 @@ export default {
           "0%": { transform: "scale(1)", opacity: "0.8" },
           "100%": { transform: "scale(1.5)", opacity: "0" },
         },
+        "shine": {
+          "0%": { left: "-100%" },
+          "100%": { left: "100%" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
@@ -129,7 +133,9 @@ export default {
         "blob-drift": "blob-drift 20s ease-in-out infinite",
         "confetti-fall": "confetti-fall 3s ease-in-out forwards",
         "float": "float 3s ease-in-out infinite",
+        "float-delayed": "float 3s ease-in-out 1.5s infinite",
         "pulse-ring": "pulse-ring 1.5s ease-out infinite",
+        "shine": "shine 2s linear infinite",
       },
     },
   },

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien6-materiais-reciclagem-sustentabilidade",
+    "titulo": "Materiais, reciclagem e sustentabilidade",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Matéria, ambiente e responsabilidade",
+    "resumo": [
+      "Os materiais fazem parte do cotidiano e podem ter diferentes usos.",
+      "O descarte inadequado de resíduos pode gerar impactos ambientais.",
+      "A reciclagem é uma forma de reaproveitamento importante para a sustentabilidade.",
+      "Reduzir desperdícios e reutilizar materiais também são atitudes responsáveis.",
+      "Estudar esse tema ajuda a compreender a relação entre consumo e cuidado com o ambiente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Materiais no cotidiano",
+        "texto": "Diversos materiais são usados no dia a dia, como papel, plástico, vidro e metal. Cada um deles tem características e utilidades diferentes, mas todos exigem cuidado no uso e no descarte.",
+        "dica": "Observar o material de um objeto ajuda a entender melhor como ele pode ser usado ou reaproveitado."
+      },
+      {
+        "subtitulo": "Reciclagem e reaproveitamento",
+        "texto": "A reciclagem permite transformar certos materiais em novos produtos, reduzindo a quantidade de resíduos e contribuindo para o uso mais responsável dos recursos. Reutilizar materiais também é uma prática importante para diminuir desperdícios.",
+        "dica": "Reciclar e reutilizar não são a mesma coisa, mas as duas práticas ajudam a reduzir impactos."
+      },
+      {
+        "subtitulo": "Sustentabilidade e consumo",
+        "texto": "Quando o consumo acontece sem cuidado, aumenta a produção de resíduos e os impactos sobre o ambiente. Por isso, pensar no uso, no descarte e no reaproveitamento dos materiais é parte importante de uma atitude sustentável.",
+        "dica": "Consumir com responsabilidade também faz parte do cuidado com o planeta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a reciclagem é importante.",
+        "passos": [
+          "Ela ajuda a reaproveitar materiais.",
+          "Isso reduz a quantidade de resíduos descartados.",
+          "Por isso, a reciclagem contribui para a sustentabilidade."
+        ],
+        "resposta": "A reciclagem é importante porque ajuda a diminuir resíduos e a reaproveitar materiais."
+      },
+      {
+        "enunciado": "Relacione consumo e impacto ambiental.",
+        "passos": [
+          "O consumo gera uso de materiais e produção de resíduos.",
+          "Sem cuidado, isso pode aumentar impactos ambientais.",
+          "Por isso, o consumo responsável é importante."
+        ],
+        "resposta": "O modo como consumimos influencia a quantidade de resíduos e os impactos sobre o ambiente."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-01",
+        "enunciado": "A reciclagem é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permite reaproveitar materiais",
+          "aumenta necessariamente o desperdício",
+          "impede qualquer cuidado com o ambiente",
+          "elimina todos os materiais do cotidiano"
+        ],
+        "respostaCorreta": "permite reaproveitar materiais",
+        "explicacao": "A reciclagem contribui para transformar resíduos em novos produtos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-02",
+        "enunciado": "Qual atitude está mais ligada à sustentabilidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reduzir desperdícios",
+          "descartar resíduos em qualquer lugar",
+          "aumentar o consumo sem necessidade",
+          "ignorar o reaproveitamento"
+        ],
+        "respostaCorreta": "reduzir desperdícios",
+        "explicacao": "Reduzir desperdícios é uma prática importante de consumo responsável.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-03",
+        "enunciado": "Qual alternativa apresenta exemplos de materiais usados no cotidiano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "papel, plástico, vidro e metal",
+          "vento, chuva, planeta e montanha",
+          "adjetivo, verbo, sílaba e frase",
+          "pulmão, rim, osso e nervo"
+        ],
+        "respostaCorreta": "papel, plástico, vidro e metal",
+        "explicacao": "Esses materiais fazem parte do cotidiano e podem ser estudados quanto ao uso e ao descarte.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-04",
+        "enunciado": "O descarte inadequado de resíduos pode:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "gerar impactos ambientais",
+          "proteger automaticamente a natureza",
+          "eliminar toda poluição",
+          "não causar nenhum efeito"
+        ],
+        "respostaCorreta": "gerar impactos ambientais",
+        "explicacao": "Quando o descarte é inadequado, o ambiente pode ser prejudicado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-05",
+        "enunciado": "Ao estudar esse tema, o aluno compreende melhor a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "consumo, resíduos e cuidado ambiental",
+          "somente rochas e vulcões",
+          "apenas classes gramaticais",
+          "exclusivamente o sistema nervoso"
+        ],
+        "respostaCorreta": "consumo, resíduos e cuidado ambiental",
+        "explicacao": "O tema mostra como o uso e o descarte de materiais afetam o ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-ex-06",
+        "enunciado": "Qual alternativa está incorreta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Reciclar ajuda no reaproveitamento de materiais.",
+          "Reutilizar pode contribuir para reduzir resíduos.",
+          "O descarte inadequado pode afetar o ambiente.",
+          "Consumo responsável não tem relação com sustentabilidade."
+        ],
+        "respostaCorreta": "Consumo responsável não tem relação com sustentabilidade.",
+        "explicacao": "Consumo responsável é parte importante das práticas sustentáveis.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-sim-01",
+        "enunciado": "Ao relacionar reaproveitamento, redução de resíduos e cuidado ambiental, o aluno identifica a ideia de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sustentabilidade",
+          "expansão marítima",
+          "tempo histórico",
+          "divisão silábica"
+        ],
+        "respostaCorreta": "sustentabilidade",
+        "explicacao": "Esses elementos fazem parte de uma postura mais sustentável diante do consumo e dos materiais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-materiais-reciclagem-sustentabilidade-sim-02",
+        "enunciado": "A principal lição desse tema é que os materiais do cotidiano:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "devem ser usados e descartados com responsabilidade",
+          "não têm relação com o ambiente",
+          "podem ser desperdiçados sem consequência",
+          "dispensam qualquer forma de cuidado"
+        ],
+        "respostaCorreta": "devem ser usados e descartados com responsabilidade",
+        "explicacao": "O tema mostra a importância do consumo consciente, da reciclagem e do descarte adequado.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

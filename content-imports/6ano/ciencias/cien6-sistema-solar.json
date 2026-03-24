@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-sistema-solar",
+    "titulo": "Sistema Solar e movimentos da Terra",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Terra e Universo",
+    "resumo": [
+      "O Sistema Solar é formado pelo Sol, pelos planetas e por outros corpos celestes.",
+      "O Sol é a estrela central do Sistema Solar.",
+      "Os planetas giram ao redor do Sol em trajetórias chamadas órbitas.",
+      "A rotação da Terra está relacionada à sucessão dos dias e das noites.",
+      "A translação da Terra está relacionada ao ano e às estações."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é o Sistema Solar",
+        "texto": "O Sistema Solar é o conjunto formado pelo Sol e pelos corpos celestes que giram ao seu redor, como planetas, satélites naturais, asteroides e cometas.",
+        "dica": "Lembre-se de que o Sol ocupa a posição central nesse sistema."
+      },
+      {
+        "subtitulo": "Rotação da Terra",
+        "texto": "A rotação é o movimento que a Terra faz em torno de seu próprio eixo. Esse movimento dura aproximadamente 24 horas e está relacionado à alternância entre dia e noite.",
+        "dica": "Quando pensar em rotação, associe ao giro da Terra em si mesma."
+      },
+      {
+        "subtitulo": "Translação da Terra",
+        "texto": "A translação é o movimento da Terra ao redor do Sol. Esse percurso dura cerca de 365 dias e está relacionado ao ano e às estações do ano.",
+        "dica": "Quando pensar em translação, associe à volta da Terra em torno do Sol."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que existe dia e noite.",
+        "passos": [
+          "A Terra gira em torno do próprio eixo.",
+          "Enquanto uma parte do planeta recebe luz solar, a outra fica menos iluminada.",
+          "Esse movimento gera a sucessão de dias e noites."
+        ],
+        "resposta": "O dia e a noite acontecem por causa da rotação da Terra."
+      },
+      {
+        "enunciado": "Explique o papel do Sol no Sistema Solar.",
+        "passos": [
+          "O Sol é a estrela central do sistema.",
+          "Os planetas giram ao seu redor.",
+          "Ele fornece luz e calor para a Terra."
+        ],
+        "resposta": "O Sol é a estrela central do Sistema Solar e é fundamental para a vida na Terra."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-sistema-solar-ex-01",
+        "enunciado": "O Sol é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um planeta",
+          "uma estrela",
+          "um satélite natural",
+          "um cometa"
+        ],
+        "respostaCorreta": "uma estrela",
+        "explicacao": "O Sol é a estrela central do Sistema Solar.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-02",
+        "enunciado": "Os planetas do Sistema Solar giram ao redor de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "da Lua",
+          "da Terra",
+          "do Sol",
+          "dos oceanos"
+        ],
+        "respostaCorreta": "do Sol",
+        "explicacao": "Os planetas orbitam o Sol.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-03",
+        "enunciado": "O movimento da Terra em torno de seu próprio eixo chama-se:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "translação",
+          "rotação",
+          "precipitação",
+          "condensação"
+        ],
+        "respostaCorreta": "rotação",
+        "explicacao": "A rotação é o movimento de giro da Terra em torno de si mesma.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-04",
+        "enunciado": "O movimento da Terra ao redor do Sol chama-se:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rotação",
+          "translação",
+          "evaporação",
+          "revolução interna"
+        ],
+        "respostaCorreta": "translação",
+        "explicacao": "A translação é a volta da Terra ao redor do Sol.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-05",
+        "enunciado": "A sucessão dos dias e das noites está relacionada principalmente à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "translação da Terra",
+          "rotação da Terra",
+          "distância entre a Terra e a Lua",
+          "movimentação das nuvens"
+        ],
+        "respostaCorreta": "rotação da Terra",
+        "explicacao": "A rotação da Terra está associada ao dia e à noite.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-06",
+        "enunciado": "O ano está relacionado principalmente ao movimento de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rotação",
+          "translação",
+          "evaporação",
+          "erosão"
+        ],
+        "respostaCorreta": "translação",
+        "explicacao": "A Terra leva cerca de 365 dias para completar a translação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-07",
+        "enunciado": "Qual alternativa apresenta corretamente um corpo celeste do Sistema Solar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cometa",
+          "célula",
+          "tecido",
+          "microscópio"
+        ],
+        "respostaCorreta": "cometa",
+        "explicacao": "Cometas fazem parte do Sistema Solar.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-08",
+        "enunciado": "Qual alternativa está correta sobre o Sol?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "É um planeta rochoso.",
+          "É uma estrela.",
+          "É um satélite da Terra.",
+          "Não faz parte do Sistema Solar."
+        ],
+        "respostaCorreta": "É uma estrela.",
+        "explicacao": "O Sol é a estrela central do Sistema Solar.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-09",
+        "enunciado": "Um aluno disse que o dia e a noite acontecem porque a Terra gira ao redor do Sol. Essa explicação está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque dia e noite estão ligados à rotação",
+          "correta, porque a translação dura 24 horas",
+          "incorreta, porque a Terra não se move"
+        ],
+        "respostaCorreta": "incorreta, porque dia e noite estão ligados à rotação",
+        "explicacao": "O ciclo de dias e noites depende da rotação da Terra.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-sistema-solar-ex-10",
+        "enunciado": "Qual alternativa apresenta uma afirmação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Terra não faz parte do Sistema Solar.",
+          "O Sol gira ao redor da Terra.",
+          "A Terra realiza os movimentos de rotação e translação.",
+          "A Lua é uma estrela."
+        ],
+        "respostaCorreta": "A Terra realiza os movimentos de rotação e translação.",
+        "explicacao": "Esses dois movimentos são fundamentais para compreender fenômenos como o dia, a noite e o ano.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-sistema-solar-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente rotação e translação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rotação é a volta em torno do Sol; translação é o giro em torno do eixo.",
+          "Rotação é o giro da Terra em torno do próprio eixo; translação é o movimento ao redor do Sol.",
+          "As duas significam exatamente a mesma coisa.",
+          "Rotação ocorre na Lua, e translação ocorre no Sol."
+        ],
+        "respostaCorreta": "Rotação é o giro da Terra em torno do próprio eixo; translação é o movimento ao redor do Sol.",
+        "explicacao": "Essa é a definição correta dos dois movimentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-solar-sim-02",
+        "enunciado": "Qual alternativa relaciona corretamente um fenômeno ao movimento da Terra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dia e noite - rotação",
+          "dia e noite - translação",
+          "ano - evaporação",
+          "estações - condensação"
+        ],
+        "respostaCorreta": "dia e noite - rotação",
+        "explicacao": "A rotação está ligada à alternância entre dia e noite.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-solar-sim-03",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'O Sol é um planeta do Sistema Solar' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque o Sol é uma estrela.",
+          "A frase é verdadeira apenas durante o dia.",
+          "A frase é falsa, porque o Sol é um satélite natural."
+        ],
+        "respostaCorreta": "A frase é falsa, porque o Sol é uma estrela.",
+        "explicacao": "O Sol é a estrela central do Sistema Solar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-sistema-solar-sim-04",
+        "enunciado": "Qual alternativa apresenta apenas elementos do Sistema Solar?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sol, planetas e cometas",
+          "células, tecidos e órgãos",
+          "rochas, microscópios e termômetros",
+          "árvores, rios e montanhas"
+        ],
+        "respostaCorreta": "Sol, planetas e cometas",
+        "explicacao": "Esses elementos fazem parte do Sistema Solar.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-sistema-solar-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a Terra?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não realiza nenhum movimento.",
+          "Gira apenas ao redor da Lua.",
+          "Realiza rotação e translação.",
+          "É uma estrela."
+        ],
+        "respostaCorreta": "Realiza rotação e translação.",
+        "explicacao": "A Terra gira em torno de si mesma e ao redor do Sol.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

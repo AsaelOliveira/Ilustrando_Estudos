@@ -1,0 +1,267 @@
+[
+  {
+    "id": "geo6-cartografia-orientacao",
+    "titulo": "Cartografia, orientação e localização",
+    "disciplinaId": "geo6",
+    "turmaId": "6ano",
+    "unidade": "Representação do espaço",
+    "resumo": [
+      "A cartografia é a área que estuda e produz mapas e outras formas de representação do espaço.",
+      "Mapas ajudam a localizar, comparar e interpretar lugares e fenômenos geográficos.",
+      "Elementos como título, legenda, escala e orientação facilitam a leitura cartográfica.",
+      "A rosa dos ventos indica direções, como norte, sul, leste e oeste.",
+      "Localização e orientação são essenciais para compreender o espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é cartografia",
+        "texto": "A cartografia é a área do conhecimento dedicada à elaboração e ao estudo de mapas, plantas, croquis e globos. Ela permite representar espaços reais em superfícies menores e mais fáceis de analisar.",
+        "dica": "Mapas não são o espaço real, mas representações organizadas dele."
+      },
+      {
+        "subtitulo": "Elementos do mapa",
+        "texto": "Para interpretar bem um mapa, é importante observar o título, a legenda, a escala e a orientação. Cada um desses elementos fornece informações essenciais sobre o que está sendo representado.",
+        "dica": "Antes de responder a uma questão com mapa, leia primeiro o título e a legenda."
+      },
+      {
+        "subtitulo": "Orientação e direções",
+        "texto": "A orientação espacial ajuda a identificar direções no espaço. A rosa dos ventos apresenta pontos cardeais e colaterais, permitindo localizar posições como norte, sul, leste e oeste.",
+        "dica": "Quando um exercício falar em direção, pense imediatamente na rosa dos ventos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise um mapa com legenda em diferentes cores.",
+        "passos": [
+          "O título mostra o tema do mapa.",
+          "A legenda explica o significado das cores e símbolos.",
+          "Assim, o leitor entende melhor a informação representada."
+        ],
+        "resposta": "A legenda é essencial para interpretar corretamente o mapa."
+      },
+      {
+        "enunciado": "Use a rosa dos ventos para se orientar.",
+        "passos": [
+          "Identifique primeiro onde está o norte.",
+          "A partir dele, encontre sul, leste e oeste.",
+          "Depois relacione as posições dos elementos no espaço."
+        ],
+        "resposta": "A rosa dos ventos ajuda a indicar direções e posições."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo6-cartografia-orientacao-ex-01",
+        "enunciado": "A cartografia é a área que estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apenas a formação dos rios",
+          "mapas e representações do espaço",
+          "somente o clima",
+          "apenas o relevo"
+        ],
+        "respostaCorreta": "mapas e representações do espaço",
+        "explicacao": "A cartografia trabalha com a representação do espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-02",
+        "enunciado": "Qual elemento do mapa explica o significado das cores e símbolos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escala",
+          "legenda",
+          "título",
+          "bússola"
+        ],
+        "respostaCorreta": "legenda",
+        "explicacao": "A legenda ajuda o leitor a entender os símbolos do mapa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-03",
+        "enunciado": "Qual elemento do mapa mostra o tema representado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "título",
+          "rosa dos ventos",
+          "escala",
+          "coordenada"
+        ],
+        "respostaCorreta": "título",
+        "explicacao": "O título informa o assunto principal do mapa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-04",
+        "enunciado": "A rosa dos ventos é usada para indicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tipos de vegetação",
+          "direções e orientação",
+          "valores numéricos",
+          "densidade populacional"
+        ],
+        "respostaCorreta": "direções e orientação",
+        "explicacao": "Ela indica pontos cardeais e ajuda na orientação espacial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-05",
+        "enunciado": "Qual alternativa apresenta apenas pontos cardeais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "norte, sul, leste e oeste",
+          "norte, nordeste, sul e sudoeste",
+          "leste, oeste, escala e legenda",
+          "sul, mapa, norte e título"
+        ],
+        "respostaCorreta": "norte, sul, leste e oeste",
+        "explicacao": "Esses são os quatro pontos cardeais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-06",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre os mapas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mapas não precisam de legenda.",
+          "Mapas ajudam a representar e interpretar espaços.",
+          "Mapas não servem para localização.",
+          "Mapas são sempre iguais."
+        ],
+        "respostaCorreta": "Mapas ajudam a representar e interpretar espaços.",
+        "explicacao": "Essa é uma função importante dos mapas na Geografia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-07",
+        "enunciado": "Qual elemento do mapa ajuda a entender a relação entre o tamanho real e o tamanho representado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "título",
+          "escala",
+          "legenda",
+          "coordenada"
+        ],
+        "respostaCorreta": "escala",
+        "explicacao": "A escala mostra a proporção entre o espaço real e sua representação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-08",
+        "enunciado": "Um aluno observou apenas as cores do mapa e ignorou a legenda. O principal problema dessa atitude é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "nenhum, porque as cores sempre têm o mesmo significado",
+          "que a interpretação pode ficar errada sem saber o que as cores representam",
+          "que a legenda não tem função nos mapas",
+          "que o título passa a perder o valor"
+        ],
+        "respostaCorreta": "que a interpretação pode ficar errada sem saber o que as cores representam",
+        "explicacao": "Sem legenda, o leitor pode interpretar incorretamente as informações do mapa.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-09",
+        "enunciado": "Se o norte está na parte superior de um mapa, o lado direito geralmente corresponde a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oeste",
+          "leste",
+          "sul",
+          "nordeste apenas"
+        ],
+        "respostaCorreta": "leste",
+        "explicacao": "Com o norte para cima, o leste fica à direita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-ex-10",
+        "enunciado": "Qual alternativa apresenta uma informação verdadeira?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A orientação não é importante para a leitura do mapa.",
+          "A rosa dos ventos ajuda a localizar direções.",
+          "A legenda serve apenas para enfeite.",
+          "O título não informa nada importante."
+        ],
+        "respostaCorreta": "A rosa dos ventos ajuda a localizar direções.",
+        "explicacao": "A orientação é essencial para interpretar posições no espaço.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo6-cartografia-orientacao-sim-01",
+        "enunciado": "Qual alternativa diferencia corretamente título e legenda em um mapa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O título mostra o tema; a legenda explica símbolos e cores.",
+          "O título explica símbolos; a legenda mostra o tema.",
+          "Os dois têm exatamente a mesma função.",
+          "Nenhum dos dois é importante."
+        ],
+        "respostaCorreta": "O título mostra o tema; a legenda explica símbolos e cores.",
+        "explicacao": "Esses dois elementos cumprem funções diferentes e complementares.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'A rosa dos ventos serve apenas para decorar mapas' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque ela ajuda na orientação.",
+          "A frase é verdadeira apenas em mapas políticos.",
+          "A frase é falsa, porque a rosa dos ventos substitui a legenda."
+        ],
+        "respostaCorreta": "A frase é falsa, porque ela ajuda na orientação.",
+        "explicacao": "A rosa dos ventos indica direções e auxilia na leitura do mapa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-sim-03",
+        "enunciado": "Qual alternativa apresenta um conjunto de elementos importantes na leitura cartográfica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "título, legenda e escala",
+          "solo, relevo e clima",
+          "território, lugar e paisagem",
+          "rotação, translação e órbita"
+        ],
+        "respostaCorreta": "título, legenda e escala",
+        "explicacao": "Esses elementos ajudam a interpretar mapas corretamente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-sim-04",
+        "enunciado": "Se em um mapa o norte está para cima, qual direção fica na parte inferior?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "leste",
+          "oeste",
+          "sul",
+          "nordeste"
+        ],
+        "respostaCorreta": "sul",
+        "explicacao": "Em uma orientação convencional, o sul fica abaixo do norte.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo6-cartografia-orientacao-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre a cartografia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela representa espaços e ajuda a interpretá-los.",
+          "Ela substitui totalmente a observação do espaço real.",
+          "Ela trabalha apenas com desenhos sem significado.",
+          "Ela não ajuda na localização."
+        ],
+        "respostaCorreta": "Ela representa espaços e ajuda a interpretá-los.",
+        "explicacao": "Essa é uma das funções centrais da cartografia.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cien6-saude-higiene",
+    "titulo": "Saúde, higiene e prevenção",
+    "disciplinaId": "cien6",
+    "turmaId": "6ano",
+    "unidade": "Corpo e bem-estar",
+    "resumo": [
+      "Saúde envolve bem-estar físico, mental e social.",
+      "Hábitos de higiene ajudam a prevenir doenças.",
+      "Alimentação equilibrada, sono e atividade física contribuem para a saúde.",
+      "Vacinação e cuidados preventivos são importantes para a proteção do organismo.",
+      "A prevenção é uma das melhores formas de cuidado com a saúde."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é saúde",
+        "texto": "Saúde não significa apenas ausência de doença. Ela também envolve bem-estar, cuidado com o corpo, com a mente e com o ambiente em que vivemos.",
+        "dica": "Pense na saúde como um conjunto de cuidados e condições de vida."
+      },
+      {
+        "subtitulo": "Higiene e prevenção",
+        "texto": "Lavar as mãos, cuidar da higiene bucal, manter alimentos e água em condições adequadas e cuidar do ambiente são atitudes importantes para prevenir doenças e manter o corpo saudável.",
+        "dica": "Hábitos simples do dia a dia fazem grande diferença na prevenção."
+      },
+      {
+        "subtitulo": "Hábitos saudáveis",
+        "texto": "Dormir bem, alimentar-se de forma equilibrada, praticar atividades físicas e manter a vacinação em dia são atitudes que fortalecem a saúde e ajudam na prevenção de problemas.",
+        "dica": "Saúde se constrói com rotina de cuidados, não com uma única ação isolada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que lavar as mãos é importante.",
+        "passos": [
+          "As mãos entram em contato com muitos objetos e superfícies.",
+          "Nelas podem existir microrganismos causadores de doenças.",
+          "A higiene das mãos ajuda a reduzir a transmissão desses microrganismos."
+        ],
+        "resposta": "Lavar as mãos ajuda a prevenir doenças."
+      },
+      {
+        "enunciado": "Explique por que dormir bem faz parte da saúde.",
+        "passos": [
+          "O corpo precisa de descanso para funcionar bem.",
+          "O sono contribui para recuperação e equilíbrio do organismo.",
+          "Dormir bem faz parte de um estilo de vida saudável."
+        ],
+        "resposta": "O sono é importante para o bom funcionamento do organismo."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien6-saude-higiene-ex-01",
+        "enunciado": "Qual atitude ajuda a prevenir doenças?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lavar as mãos",
+          "beber água contaminada",
+          "deixar lixo espalhado",
+          "não escovar os dentes"
+        ],
+        "respostaCorreta": "lavar as mãos",
+        "explicacao": "Lavar as mãos é uma medida simples e importante de prevenção.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-02",
+        "enunciado": "Qual alternativa apresenta um hábito saudável?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação equilibrada",
+          "sono insuficiente",
+          "descuido com higiene",
+          "consumo frequente de água imprópria"
+        ],
+        "respostaCorreta": "alimentação equilibrada",
+        "explicacao": "Uma alimentação equilibrada contribui para a saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-03",
+        "enunciado": "Escovar os dentes regularmente ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "prevenir problemas bucais",
+          "substituir a alimentação",
+          "evitar o sono",
+          "aumentar a poluição"
+        ],
+        "respostaCorreta": "prevenir problemas bucais",
+        "explicacao": "A higiene bucal é importante para a prevenção de cáries e outros problemas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-04",
+        "enunciado": "Qual alternativa está correta sobre saúde?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde é apenas não sentir dor.",
+          "Saúde envolve bem-estar físico, mental e social.",
+          "Saúde depende somente de remédios.",
+          "Saúde não tem relação com hábitos diários."
+        ],
+        "respostaCorreta": "Saúde envolve bem-estar físico, mental e social.",
+        "explicacao": "Esse conceito é mais amplo e adequado para compreender a saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-05",
+        "enunciado": "Qual atitude está relacionada à prevenção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vacinação",
+          "descuido com limpeza",
+          "consumo de água não tratada",
+          "abandono da higiene pessoal"
+        ],
+        "respostaCorreta": "vacinação",
+        "explicacao": "A vacinação é uma importante medida de prevenção em saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-06",
+        "enunciado": "Dormir bem é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "prejudica a saúde",
+          "contribui para o bom funcionamento do organismo",
+          "substitui a higiene",
+          "não tem relação com a saúde"
+        ],
+        "respostaCorreta": "contribui para o bom funcionamento do organismo",
+        "explicacao": "O sono adequado é parte importante do cuidado com a saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-07",
+        "enunciado": "Qual alternativa apresenta uma combinação de hábitos saudáveis?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "boa alimentação, sono adequado e higiene",
+          "falta de higiene, sedentarismo e lixo acumulado",
+          "água imprópria, sono insuficiente e descuido bucal",
+          "desorganização, jejum prolongado e falta de descanso"
+        ],
+        "respostaCorreta": "boa alimentação, sono adequado e higiene",
+        "explicacao": "Esses hábitos contribuem positivamente para a saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-08",
+        "enunciado": "Um aluno disse que higiene pessoal não tem relação com prevenção de doenças. Essa fala está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "correta",
+          "incorreta, porque a higiene ajuda a prevenir doenças",
+          "correta, porque só remédios previnem doenças",
+          "incorreta, porque higiene serve apenas para a aparência"
+        ],
+        "respostaCorreta": "incorreta, porque a higiene ajuda a prevenir doenças",
+        "explicacao": "A higiene pessoal é uma medida importante de prevenção.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-09",
+        "enunciado": "Qual alternativa apresenta um cuidado importante com alimentos e água?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "consumir sem higiene",
+          "manter em condições adequadas de limpeza e conservação",
+          "deixar expostos sem proteção",
+          "misturar lixo e alimentos"
+        ],
+        "respostaCorreta": "manter em condições adequadas de limpeza e conservação",
+        "explicacao": "Esse cuidado ajuda a evitar contaminações e doenças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-ex-10",
+        "enunciado": "A prevenção é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evita ou reduz riscos à saúde",
+          "substitui todos os tratamentos",
+          "não depende de hábitos diários",
+          "vale apenas para adultos"
+        ],
+        "respostaCorreta": "evita ou reduz riscos à saúde",
+        "explicacao": "Prevenir é uma forma importante de cuidar da saúde antes que problemas apareçam ou se agravem.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien6-saude-higiene-sim-01",
+        "enunciado": "Qual alternativa apresenta uma atitude de prevenção ligada à saúde coletiva?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "descartar lixo em qualquer lugar",
+          "manter ambientes limpos",
+          "ignorar água parada",
+          "não lavar as mãos"
+        ],
+        "respostaCorreta": "manter ambientes limpos",
+        "explicacao": "A limpeza do ambiente contribui para a prevenção de doenças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-sim-02",
+        "enunciado": "Qual alternativa avalia corretamente a frase: 'Saúde depende apenas de remédios' ?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A frase é verdadeira.",
+          "A frase é falsa, porque saúde também depende de hábitos e prevenção.",
+          "A frase é verdadeira apenas para crianças.",
+          "A frase é falsa, porque remédios não têm relação com saúde."
+        ],
+        "respostaCorreta": "A frase é falsa, porque saúde também depende de hábitos e prevenção.",
+        "explicacao": "A saúde envolve cuidados diários, prevenção e bem-estar, não apenas medicamentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-sim-03",
+        "enunciado": "Qual alternativa apresenta uma relação correta entre hábito e benefício?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lavar as mãos - ajuda a prevenir doenças",
+          "não dormir - melhora a recuperação do corpo",
+          "não escovar os dentes - fortalece a saúde bucal",
+          "beber água imprópria - previne contaminações"
+        ],
+        "respostaCorreta": "lavar as mãos - ajuda a prevenir doenças",
+        "explicacao": "A higiene das mãos é uma prática importante de prevenção.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien6-saude-higiene-sim-04",
+        "enunciado": "Qual alternativa apresenta um conjunto de atitudes coerente com o cuidado da saúde?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vacinação, higiene e alimentação equilibrada",
+          "sedentarismo, falta de sono e desorganização alimentar",
+          "água contaminada, lixo acumulado e descuido bucal",
+          "falta de higiene, má alimentação e ausência de prevenção"
+        ],
+        "respostaCorreta": "vacinação, higiene e alimentação equilibrada",
+        "explicacao": "Essas atitudes estão ligadas ao cuidado com a saúde e à prevenção.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien6-saude-higiene-sim-05",
+        "enunciado": "Qual alternativa apresenta uma informação correta sobre prevenção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Prevenção não faz diferença no dia a dia.",
+          "Prevenção é importante apenas após o surgimento da doença.",
+          "Prevenção ajuda a reduzir riscos e proteger a saúde.",
+          "Prevenção substitui todos os outros cuidados."
+        ],
+        "respostaCorreta": "Prevenção ajuda a reduzir riscos e proteger a saúde.",
+        "explicacao": "A prevenção é uma parte essencial do cuidado com a saúde.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

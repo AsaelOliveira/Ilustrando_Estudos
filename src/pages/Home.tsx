@@ -27,94 +27,128 @@ const publicHighlights = [
 export default function Home() {
   return (
     <Layout>
-      <section className="relative overflow-hidden">
+      <section className="relative min-h-[95vh] overflow-hidden mesh-gradient grid-pattern">
+        {/* Floating background shapes */}
         <motion.div
-          animate={{ y: [0, -14, 0] }}
-          transition={{ duration: 4.2, repeat: Infinity }}
-          className="pointer-events-none absolute left-[8%] top-20 hidden h-32 w-32 rounded-full bg-primary/12 blur-3xl sm:block"
+          animate={{ x: [0, 50, 0], y: [0, 30, 0] }}
+          transition={{ duration: 20, repeat: Infinity }}
+          className="absolute -right-20 -top-20 h-[500px] w-[500px] rounded-full bg-primary/10 blur-[100px]"
         />
-        <motion.div
-          animate={{ y: [0, -16, 0] }}
-          transition={{ duration: 5, repeat: Infinity, delay: 0.6 }}
-          className="pointer-events-none absolute right-[8%] top-28 hidden h-40 w-40 rounded-full bg-accent/10 blur-3xl sm:block"
-        />
-
-        <div className="container mx-auto px-4 py-16 md:py-24">
-          <motion.div
-            initial={{ opacity: 0, y: 18 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7 }}
-            className="relative overflow-hidden rounded-[2rem] border border-border/60 bg-card px-6 py-10 shadow-card sm:px-10 lg:px-12 lg:py-14"
-          >
-            <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(110,193,147,0.22),transparent_33%),radial-gradient(circle_at_bottom_right,rgba(255,196,107,0.16),transparent_26%)]" />
-            <div className="relative mx-auto max-w-4xl text-center">
-              <motion.div
-                initial={{ opacity: 0, y: -10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.15 }}
-                className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-5 py-2 font-body text-sm font-medium text-primary"
-              >
-                <Zap className="h-3.5 w-3.5" />
-                Home publica, leve e pronta para o login
-              </motion.div>
-
-              <h1 className="mt-6 font-heading text-4xl font-extrabold leading-[1.05] tracking-tight text-foreground md:text-6xl lg:text-7xl">
-                Um caminho claro para <span className="text-gradient">entrar, estudar e continuar.</span>
+        
+        <div className="container relative mx-auto px-4 pt-20 pb-12 md:pt-32">
+          {/* Asymmetrical Hero Section */}
+          <div className="grid gap-12 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.8 }}
+            >
+              <div className="inline-flex items-center gap-2 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-2 font-heading text-sm font-bold text-primary shadow-sm">
+                <div className="h-2 w-2 rounded-full bg-accent animate-pulse" />
+                Plataforma de Estudos
+              </div>
+              <h1 className="mt-8 font-heading text-6xl font-black leading-[0.9] tracking-tighter text-foreground md:text-8xl">
+                O futuro do seu <br />
+                <span className="text-primary italic">aprendizado.</span>
               </h1>
-              <p className="mx-auto mt-6 max-w-2xl font-body text-lg leading-relaxed text-muted-foreground">
-                A vitrine publica apresenta a plataforma sem carregar o conteudo de estudo. O acesso completo fica
-                guardado para depois do login, com um fluxo mais rapido e organizado.
+              <p className="mt-8 max-w-xl font-body text-xl font-medium leading-relaxed text-muted-foreground/90">
+                Resumos manuais, desafios épicos e uma comunidade focada. Comece sua jornada agora e transforme seu jeito de estudar.
               </p>
-
-              <motion.div
-                initial={{ opacity: 0, y: 16 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.3 }}
-                className="mt-10"
-              >
+              
+              <div className="mt-10 flex flex-wrap gap-5">
                 <Link
                   to="/login"
-                  className="btn-tap group inline-flex items-center gap-2 rounded-2xl bg-primary px-8 py-4 font-heading text-base font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
+                  className="btn-tap group relative overflow-hidden rounded-[2rem] bg-primary px-10 py-5 font-heading text-xl font-black text-primary-foreground shadow-glow"
                 >
-                  Entrar
-                  <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                  <div className="absolute inset-x-0 h-full w-1/3 animate-shine bg-white/20 blur-xl pointer-events-none" />
+                  Acessar Arena
+                </Link>
+                <div className="flex -space-x-3 overflow-hidden p-1">
+                  {[1, 2, 3, 4].map((i) => (
+                    <div key={i} className="inline-block h-12 w-12 rounded-full border-4 border-background bg-secondary shadow-sm" />
+                  ))}
+                  <div className="flex h-12 items-center justify-center rounded-full border-4 border-background bg-primary/10 px-4 font-heading text-xs font-bold text-primary">
+                    +500 alunos
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.9, rotate: 5 }}
+              animate={{ opacity: 1, scale: 1, rotate: 0 }}
+              transition={{ delay: 0.3, duration: 1 }}
+              className="relative hidden lg:block"
+            >
+              <div className="relative aspect-square overflow-hidden rounded-[4rem] border-8 border-background bg-primary/5 shadow-card">
+                <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20" />
+                <div className="flex h-full items-center justify-center p-12">
+                  <div className="grid h-full w-full grid-cols-2 grid-rows-2 gap-4">
+                    <div className="rounded-[3rem] bg-white shadow-soft animate-float" />
+                    <div className="rounded-[3rem] bg-accent/90 shadow-soft animate-float-delayed" />
+                    <div className="rounded-[3rem] bg-primary/80 shadow-soft animate-float-delayed" />
+                    <div className="rounded-[3rem] border-4 border-dashed border-primary/20" />
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+
+          {/* New Asymmetrical Bento Grid */}
+          <div className="mt-32">
+            <h2 className="font-heading text-4xl font-black tracking-tight text-foreground md:text-5xl">Destaques</h2>
+            <div className="mt-12 grid gap-6 md:grid-cols-4 md:grid-rows-2">
+              {/* Feature 1 - Large */}
+              <motion.div
+                whileHover={{ y: -10 }}
+                className="bento-card md:col-span-2 md:row-span-2 bg-primary/5 border-primary/10 flex flex-col justify-end min-h-[400px]"
+              >
+                <div className="mb-8 flex h-20 w-20 items-center justify-center rounded-[2.5rem] bg-primary text-primary-foreground shadow-glow">
+                  <LayoutGrid className="h-10 w-10" />
+                </div>
+                <h3 className="font-heading text-4xl font-black text-foreground">{publicHighlights[0].title}</h3>
+                <p className="mt-4 font-body text-lg font-medium text-muted-foreground leading-relaxed">
+                  {publicHighlights[0].description}
+                </p>
+              </motion.div>
+
+              {/* Feature 2 - Wide */}
+              <motion.div
+                whileHover={{ y: -8 }}
+                className="bento-card md:col-span-2 bg-accent/5 border-accent/10 flex items-center gap-6"
+              >
+                <div className="flex h-16 w-16 items-center justify-center rounded-3xl bg-accent text-accent-foreground shadow-glow shrink-0">
+                  <BookOpen className="h-8 w-8" />
+                </div>
+                <div>
+                  <h3 className="font-heading text-2xl font-black text-foreground">{publicHighlights[1].title}</h3>
+                  <p className="mt-2 font-body text-base text-muted-foreground">{publicHighlights[1].description}</p>
+                </div>
+              </motion.div>
+
+              {/* Feature 3 - Standard */}
+              <motion.div
+                whileHover={{ x: 10 }}
+                className="bento-card md:col-span-1 bg-background/50 border-border/60"
+              >
+                 <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-secondary text-primary">
+                    <FileCheck className="h-6 w-6" />
+                 </div>
+                 <h3 className="font-heading text-xl font-bold text-foreground">{publicHighlights[2].title}</h3>
+              </motion.div>
+
+              {/* Brand CTA */}
+              <motion.div
+                whileHover={{ scale: 0.98 }}
+                className="bento-card md:col-span-1 border-dashed border-2 flex items-center justify-center text-center p-4 bg-transparent"
+              >
+                <Link to="/login" className="font-heading text-lg font-bold text-primary flex flex-col items-center gap-2">
+                  Ver tudo
+                  <ArrowRight className="h-6 w-6" />
                 </Link>
               </motion.div>
-
-              <motion.div
-                initial={{ opacity: 0, y: 24 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.45, duration: 0.8 }}
-                className="mt-14 grid gap-5 text-left md:grid-cols-3"
-              >
-                {publicHighlights.map((highlight) => {
-                  const Icon = highlight.icon;
-
-                  return (
-                    <motion.div
-                      key={highlight.title}
-                      whileHover={{ y: -6, scale: 1.01 }}
-                      transition={{ type: "spring", stiffness: 280 }}
-                      className="group relative overflow-hidden rounded-3xl border border-border/60 bg-background/85 p-6 shadow-soft"
-                    >
-                      <div
-                        className={`absolute inset-0 bg-gradient-to-br ${highlight.accent} opacity-0 transition-opacity duration-300 group-hover:opacity-100`}
-                      />
-                      <div className="relative">
-                        <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10 text-primary">
-                          <Icon className="h-5 w-5" />
-                        </div>
-                        <p className="mt-5 font-heading text-xl font-bold text-foreground">{highlight.title}</p>
-                        <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">
-                          {highlight.description}
-                        </p>
-                      </div>
-                    </motion.div>
-                  );
-                })}
-              </motion.div>
             </div>
-          </motion.div>
+          </div>
         </div>
       </section>
     </Layout>
