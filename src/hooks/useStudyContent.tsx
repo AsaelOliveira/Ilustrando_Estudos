@@ -18,6 +18,13 @@ import { supabase } from "@/integrations/supabase/client";
 import { getStudyTips } from "@/data/study-content";
 
 const STUDY_CONTENT_KEY = "study_content";
+const STUDY_CONTENT_CACHE_KEY = "study_content_cache_v1";
+const STUDY_CONTENT_CACHE_TTL_MS = 1000 * 60 * 10;
+
+type StudyContentCachePayload = {
+  savedAt: number;
+  temas: Tema[];
+};
 
 type SaveThemesResult = {
   error: string | null;
@@ -211,7 +218,45 @@ export function getTemasByDisciplinaFromList(temas: Tema[], disciplinaId: string
   return temas.filter((tema) => tema.disciplinaId === disciplinaId);
 }
 
+function readCachedTemas(): Tema[] | null {
+  if (typeof window === "undefined") return null;
+
+  try {
+    const raw = window.sessionStorage.getItem(STUDY_CONTENT_CACHE_KEY);
+    if (!raw) return null;
+
+    const parsed = JSON.parse(raw) as StudyContentCachePayload;
+    if (!parsed?.savedAt || !Array.isArray(parsed.temas)) return null;
+
+    if (Date.now() - parsed.savedAt > STUDY_CONTENT_CACHE_TTL_MS) {
+      window.sessionStorage.removeItem(STUDY_CONTENT_CACHE_KEY);
+      return null;
+    }
+
+    return normalizeTemasInput(parsed.temas);
+  } catch {
+    return null;
+  }
+}
+
+function writeCachedTemas(temas: Tema[]) {
+  if (typeof window === "undefined") return;
+
+  try {
+    const payload: StudyContentCachePayload = {
+      savedAt: Date.now(),
+      temas,
+    };
+    window.sessionStorage.setItem(STUDY_CONTENT_CACHE_KEY, JSON.stringify(payload));
+  } catch {
+    // Ignora falhas de quota/cache.
+  }
+}
+
 async function fetchTemas(): Promise<Tema[]> {
+  const cachedTemas = readCachedTemas();
+  if (cachedTemas) return cachedTemas;
+
   const { data, error } = await supabase
     .from("app_settings")
     .select("value")
@@ -221,7 +266,9 @@ async function fetchTemas(): Promise<Tema[]> {
   if (error || !data) return [];
 
   try {
-    return normalizeTemasInput(data.value);
+    const normalizedTemas = normalizeTemasInput(data.value);
+    writeCachedTemas(normalizedTemas);
+    return normalizedTemas;
   } catch (loadError) {
     console.error("Nao foi possivel carregar o conteudo salvo:", loadError);
     return [];
@@ -229,6 +276,7 @@ async function fetchTemas(): Promise<Tema[]> {
 }
 
 async function persistTemas(temas: Tema[]) {
+  writeCachedTemas(temas);
   return supabase.from("app_settings").upsert(
     {
       key: STUDY_CONTENT_KEY,

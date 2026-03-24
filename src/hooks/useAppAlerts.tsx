@@ -47,22 +47,21 @@ export function AppAlertsProvider({ children }: { children: ReactNode }) {
     setLoading(true);
     const today = getTodayKey();
 
-    const [{ data: missionToday }, { data: incomingDuels }] = await Promise.all([
+    const [{ count: missionCount }, { count: duelCount }] = await Promise.all([
       supabase
         .from("mission_attempts")
-        .select("id")
+        .select("*", { count: "exact", head: true })
         .eq("user_id", user.id)
-        .eq("mission_date", today)
-        .maybeSingle(),
+        .eq("mission_date", today),
       supabase
         .from("duels")
-        .select("id")
+        .select("*", { count: "exact", head: true })
         .eq("challenged_id", user.id)
         .eq("status", "aguardando"),
     ]);
 
-    setMissionAvailable(!missionToday);
-    setOpenDuelCount((incomingDuels ?? []).length);
+    setMissionAvailable((missionCount ?? 0) === 0);
+    setOpenDuelCount(duelCount ?? 0);
     setLoading(false);
   }, [authLoading, role, user]);
 
