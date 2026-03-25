@@ -245,7 +245,7 @@ function ResumoTab({ resumo }: { resumo: string[] }) {
 }
 
 function ExplicacaoTab({ explicacao }: { explicacao: BlocoExplicacao[] }) {
-  const [expandedIndex, setExpandedIndex] = useState<number | null>(0);
+  const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
   const sectionEmojis = ["📘", "📗", "📙", "📕", "📓"];
 
   return (
