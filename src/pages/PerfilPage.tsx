@@ -915,13 +915,13 @@ export default function PerfilPage() {
   return (
     <Layout>
       <Breadcrumbs items={[{ label: "Loja" }]} />
-      <section className="container mx-auto max-w-7xl px-4 py-8">
+      <section className="container mx-auto max-w-7xl px-3 py-6 sm:px-4 sm:py-8">
         <motion.div
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           className="overflow-hidden rounded-[32px] border border-emerald-100 bg-[linear-gradient(180deg,#ffffff_0%,#f6fbf8_100%)] shadow-[0_20px_70px_rgba(15,23,42,0.08)]"
         >
-          <div className="grid gap-6 px-6 py-6 lg:grid-cols-[320px_minmax(0,1fr)] lg:px-8">
+          <div className="grid gap-5 px-4 py-4 sm:px-6 sm:py-6 lg:grid-cols-[320px_minmax(0,1fr)] lg:px-8">
             <motion.div
               initial={{ opacity: 0, scale: 0.97 }}
               animate={{ opacity: 1, scale: 1 }}
@@ -1080,14 +1080,15 @@ export default function PerfilPage() {
             </motion.div>
 
             <div className="space-y-5">
-              <div className="rounded-[24px] border border-emerald-100 bg-white/85 p-3 shadow-[0_10px_24px_rgba(16,24,40,0.05)]">
-                <div className="flex flex-wrap gap-2">
+              <div className="rounded-[24px] border border-emerald-100 bg-white/85 p-2.5 shadow-[0_10px_24px_rgba(16,24,40,0.05)] sm:p-3">
+                <div className="-mx-1 overflow-x-auto px-1 pb-1">
+                  <div className="flex min-w-max gap-2">
                   {visibleShopTabs.map((tab) => (
                     <button
                       key={tab.key}
                       type="button"
                       onClick={() => setSelectedShopTab(tab.key)}
-                      className={`rounded-full px-4 py-2 text-sm font-semibold transition-all ${
+                      className={`shrink-0 rounded-full px-4 py-2 text-sm font-semibold transition-all ${
                         selectedShopTab === tab.key
                           ? "bg-primary text-primary-foreground shadow-sm"
                           : "border border-border bg-background text-muted-foreground hover:border-primary/20 hover:text-foreground"
@@ -1123,6 +1124,7 @@ export default function PerfilPage() {
                       ) : null}
                     </button>
                   ))}
+                  </div>
                 </div>
               </div>
 

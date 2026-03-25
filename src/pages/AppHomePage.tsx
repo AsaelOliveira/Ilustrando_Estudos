@@ -212,33 +212,33 @@ export default function AppHomePage() {
   return (
     <Layout>
       <Breadcrumbs items={[{ label: "Dashboard" }]} />
-      <section className="container mx-auto max-w-6xl px-4 py-8">
+      <section className="container mx-auto max-w-6xl px-3 py-6 sm:px-4 sm:py-8">
         <motion.div
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
-          className="relative overflow-hidden rounded-[2.5rem] border border-border/60 bg-card px-8 py-10 shadow-card sm:px-10 mesh-gradient grid-pattern"
+          className="relative overflow-hidden rounded-[2rem] border border-border/60 bg-card px-5 py-6 shadow-card sm:rounded-[2.5rem] sm:px-8 sm:py-10 md:px-10 mesh-gradient grid-pattern"
         >
           <div className="relative grid gap-8 lg:grid-cols-[1.2fr_0.8fr]">
             <div className="min-w-0">
-              <div className="inline-flex items-center gap-2 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-2.5 font-heading text-[13px] font-black uppercase tracking-widest text-primary shadow-sm">
+              <div className="inline-flex items-center gap-2 rounded-2xl border border-primary/20 bg-primary/5 px-3 py-2 text-[11px] font-heading font-black uppercase tracking-[0.22em] text-primary shadow-sm sm:px-4 sm:py-2.5 sm:text-[13px] sm:tracking-widest">
                 <Sparkles className="h-4 w-4 animate-pulse" />
                 Espaço do Aluno
               </div>
-              <h1 className="mt-8 max-w-2xl break-words font-heading text-5xl font-black leading-[0.9] text-foreground [overflow-wrap:anywhere] md:text-7xl lg:text-8xl">
+              <h1 className="mt-6 max-w-2xl break-words font-heading text-4xl font-black leading-[0.95] text-foreground [overflow-wrap:anywhere] sm:mt-8 sm:text-5xl md:text-7xl lg:text-8xl">
                 Olá, {firstName}. <br />
                 Sua trilha <span className="text-primary italic">chama.</span>
               </h1>
 
-              <div className="mt-12 grid gap-4 sm:grid-cols-3">
+              <div className="mt-8 grid gap-3 sm:mt-12 sm:grid-cols-3 sm:gap-4">
                 {focusItems.map((item) => (
                   <div
                     key={item.label}
-                    className="group rounded-[2rem] border border-border/30 bg-background/20 p-6 backdrop-blur-md transition-all hover:bg-background/40 hover:border-primary/20"
+                    className="group rounded-[1.5rem] border border-border/30 bg-background/20 p-4 backdrop-blur-md transition-all hover:bg-background/40 hover:border-primary/20 sm:rounded-[2rem] sm:p-6"
                   >
                     <p className="font-heading text-[10px] font-black uppercase tracking-[0.25em] text-primary/60">
                       {item.label}
                     </p>
-                    <p className="mt-3 break-words font-body text-lg font-black text-foreground [overflow-wrap:anywhere]">
+                    <p className="mt-2 break-words font-body text-base font-black text-foreground [overflow-wrap:anywhere] sm:mt-3 sm:text-lg">
                       {item.value}
                     </p>
                   </div>
@@ -247,10 +247,10 @@ export default function AppHomePage() {
             </div>
 
             <div className="group relative rounded-[3rem] border border-border/40 bg-background/40 p-1 backdrop-blur-xl transition-all hover:shadow-glow">
-               <div className="rounded-[2.75rem] bg-card p-8">
-                <div className="flex items-center gap-4">
-                  <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-glow">
-                    <Clock3 className="h-7 w-7" />
+               <div className="rounded-[2.2rem] bg-card p-5 sm:rounded-[2.75rem] sm:p-8">
+                <div className="flex items-center gap-3 sm:gap-4">
+                  <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-glow sm:h-14 sm:w-14">
+                    <Clock3 className="h-6 w-6 sm:h-7 sm:w-7" />
                   </div>
                   <div>
                     <p className="font-heading text-xs font-black uppercase tracking-[0.25em] text-primary/60">
@@ -263,17 +263,17 @@ export default function AppHomePage() {
                 </div>
 
                 <div className="mt-10">
-                  <h2 className="font-heading text-3xl font-black text-foreground leading-none">
+                  <h2 className="font-heading text-2xl font-black leading-tight text-foreground sm:text-3xl sm:leading-none">
                     {continueTema?.titulo || "Escolha uma aula"}
                   </h2>
-                  <p className="mt-4 font-body text-base font-medium text-muted-foreground">
+                  <p className="mt-3 font-body text-sm font-medium text-muted-foreground sm:mt-4 sm:text-base">
                     {continueDisciplina && continueTurma
                       ? `${continueDisciplina.nome} • ${continueTurma.nome}`
                       : "Sua trilha aguarda seu primeiro passo."}
                   </p>
                   <Link
                     to={continueHref}
-                    className="btn-tap group relative mt-10 flex items-center justify-center gap-3 overflow-hidden rounded-[2rem] bg-primary px-8 py-5 font-heading text-lg font-black text-primary-foreground shadow-glow transition-all"
+                    className="btn-tap group relative mt-8 flex items-center justify-center gap-3 overflow-hidden rounded-[1.5rem] bg-primary px-6 py-4 text-base font-heading font-black text-primary-foreground shadow-glow transition-all sm:mt-10 sm:rounded-[2rem] sm:px-8 sm:py-5 sm:text-lg"
                   >
                     <div className="absolute inset-x-0 h-full w-1/4 animate-shine bg-white/20 blur-md pointer-events-none" />
                     {continueTema ? "Estudar Agora" : "Começar Trilha"}
@@ -289,7 +289,7 @@ export default function AppHomePage() {
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.1 }}
-          className="mt-12 grid gap-6 md:grid-cols-2"
+          className="mt-10 grid gap-4 md:mt-12 md:gap-6 md:grid-cols-2"
         >
           {spotlightCards.map((card, index) => {
             const Icon = card.icon;
@@ -298,23 +298,23 @@ export default function AppHomePage() {
               <Link
                 key={card.title}
                 to={card.to}
-                className={`group relative overflow-hidden rounded-[2.5rem] border bg-gradient-to-br p-8 shadow-card transition-all hover:-translate-y-2 hover:shadow-2xl ${card.tone}`}
+                className={`group relative overflow-hidden rounded-[2rem] border bg-gradient-to-br p-5 shadow-card transition-all hover:-translate-y-2 hover:shadow-2xl sm:rounded-[2.5rem] sm:p-8 ${card.tone}`}
               >
                 <motion.div
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.2 + index * 0.1 }}
-                  className="flex items-start gap-6"
+                  className="flex items-start gap-4 sm:gap-6"
                 >
-                  <div className="flex h-16 w-16 flex-shrink-0 items-center justify-center rounded-3xl bg-background/90 text-primary shadow-glow">
-                    <Icon className="h-8 w-8" />
+                  <div className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-3xl bg-background/90 text-primary shadow-glow sm:h-16 sm:w-16">
+                    <Icon className="h-7 w-7 sm:h-8 sm:w-8" />
                   </div>
                   <div className="min-w-0 flex-1">
                     <span className="rounded-full bg-background/90 px-4 py-1.5 text-[10px] font-heading font-black uppercase tracking-[0.2em] text-primary">
                       {card.badge}
                     </span>
-                    <h3 className="mt-4 font-heading text-3xl font-black text-foreground leading-tight">{card.title}</h3>
-                    <p className="mt-3 font-body text-base font-medium leading-relaxed text-muted-foreground">{card.description}</p>
+                    <h3 className="mt-3 font-heading text-2xl font-black leading-tight text-foreground sm:mt-4 sm:text-3xl">{card.title}</h3>
+                    <p className="mt-2 font-body text-sm font-medium leading-relaxed text-muted-foreground sm:mt-3 sm:text-base">{card.description}</p>
                     <div className="mt-6 flex items-center gap-2 text-sm font-heading font-black uppercase tracking-widest text-primary">
                       {card.cta}
                       <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-2" />
@@ -330,7 +330,7 @@ export default function AppHomePage() {
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.14 }}
-          className="mt-6 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]"
+          className="mt-6 grid gap-4 lg:grid-cols-[1.1fr_0.9fr] lg:gap-6"
         >
           <div className="rounded-[1.75rem] border border-border bg-card p-6 shadow-card">
             <div className="flex items-center justify-between gap-4">

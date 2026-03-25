@@ -905,7 +905,7 @@ function LobbyView({
               </p>
             </div>
           ) : onlinePlayers.length > 0 ? (
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:flex lg:flex-wrap lg:gap-4">
+          <div className="grid grid-cols-1 gap-3 min-[420px]:grid-cols-2 sm:grid-cols-3 lg:flex lg:flex-wrap lg:gap-4">
             {onlinePlayers.map((player, index) => (
               (() => {
                 const statusMeta = getDuelStatusMeta(player.duelStatus);
@@ -1351,19 +1351,19 @@ function ConfigView({
           <Hash className="h-4 w-4 text-accent" />
           Tem um código de convite?
         </h3>
-        <div className="flex gap-2">
+        <div className="flex flex-col gap-2 sm:flex-row">
           <input
             type="text"
             value={inviteCode}
             onChange={e => setInviteCode(e.target.value.toUpperCase())}
             placeholder="Ex: A3F2B1"
             maxLength={6}
-            className="flex-1 rounded-xl border-2 border-border bg-background px-4 py-2.5 font-heading text-sm uppercase tracking-widest focus:border-primary focus:outline-none"
+            className="min-w-0 flex-1 rounded-xl border-2 border-border bg-background px-4 py-2.5 font-heading text-sm uppercase tracking-widest focus:border-primary focus:outline-none"
           />
           <button
             onClick={joinByCode}
             disabled={creating || inviteCode.length < 4}
-            className="btn-tap flex items-center gap-1.5 rounded-xl bg-accent px-4 py-2.5 font-heading text-xs font-bold text-white transition-all hover:bg-accent/90 disabled:opacity-50"
+            className="btn-tap flex w-full items-center justify-center gap-1.5 rounded-xl bg-accent px-4 py-2.5 font-heading text-xs font-bold text-white transition-all hover:bg-accent/90 disabled:opacity-50 sm:w-auto"
           >
             <Send className="h-3.5 w-3.5" />
             Entrar
@@ -1380,7 +1380,7 @@ function ConfigView({
         {/* Tipo de adversário */}
         <fieldset className="mb-5">
           <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Adversário</legend>
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid gap-3 sm:grid-cols-2">
             {([
               ["publico", "Público", Users, "Qualquer um aceita"] as const,
               ["privado", "Desafiar alguém", Target, "Escolha o adversário"] as const,
@@ -1402,13 +1402,13 @@ function ConfigView({
         {cfg.targetType === "privado" && (
           <div className="mb-5">
             {cfg.targetUserId ? (
-              <div className="flex items-center gap-3 rounded-2xl border-2 border-accent/30 bg-accent/5 px-4 py-3">
+              <div className="flex flex-wrap items-center gap-3 rounded-2xl border-2 border-accent/30 bg-accent/5 px-4 py-3 sm:flex-nowrap">
                 <SimpleProfileAvatar
                   size="md"
                   src={cfg.targetUserAvatar}
                   showBadge={false}
                 />
-                <div className="flex-1">
+                <div className="min-w-0 flex-1">
                   <p className="font-heading text-sm font-bold text-foreground">{cfg.targetUserName}</p>
                   <p className="font-body text-[10px] text-muted-foreground">Adversário selecionado</p>
                 </div>
@@ -1465,7 +1465,7 @@ function ConfigView({
         {/* Modo */}
         <fieldset className="mb-5">
           <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Identidade</legend>
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid gap-3 sm:grid-cols-2">
             {([["aberto", "Aberto", Eye, "Seu nome visível"] as const, ["anonimo", "Anônimo", EyeOff, "Identidade oculta"] as const]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
@@ -1496,15 +1496,15 @@ function ConfigView({
         </fieldset>
 
         {/* Questões e Tempo */}
-        <div className="mb-5 grid grid-cols-2 gap-4">
+        <div className="mb-5 grid gap-4 lg:grid-cols-2">
           <fieldset>
             <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Questões</legend>
-            <div className="flex gap-2">
+            <div className="grid gap-2 sm:grid-cols-3">
               {questionOptions.map((option) => (
                 <button
                   key={option.id}
                   onClick={() => setCfg(p => ({ ...p, numQuestions: option.count }))}
-                  className={`btn-tap flex-1 rounded-xl border-2 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === option.count ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
+                  className={`btn-tap rounded-xl border-2 px-3 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === option.count ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
                 >
                   <span className="block">{option.label}</span>
                   <span className="mt-0.5 block text-[11px] font-body font-medium opacity-80">

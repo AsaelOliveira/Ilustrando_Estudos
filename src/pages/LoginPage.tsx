@@ -315,7 +315,7 @@ export default function LoginPage() {
                   Novo fluxo de cadastro
                 </p>
                 <p className="mt-1 text-sm font-medium text-amber-900">
-                  Cadastro guiado por lista autorizada do admin.
+                  Escreva seu nome completo e clique na lupa.
                 </p>
               </div>
             ) : null}
@@ -362,15 +362,15 @@ export default function LoginPage() {
                 </>
               ) : (
                 <>
-                  <div className="rounded-2xl border border-primary/15 bg-primary/5 px-4 py-3 text-sm text-muted-foreground">
-                    Se seu nome estiver na lista liberada pelo admin, sua conta sera criada na hora.
+                  <div className="rounded-2xl border border-primary/15 bg-primary/5 px-4 py-3 text-sm font-semibold text-primary">
+                    Escreva seu nome completo e clique na lupa.
                   </div>
 
                   <div className="space-y-2">
                     <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
                       Nome completo
                     </label>
-                    <div className="flex gap-3">
+                    <div className="flex flex-col gap-3 sm:flex-row">
                       <input
                         type="text"
                         value={signupNome}
@@ -382,16 +382,24 @@ export default function LoginPage() {
                         }}
                         required
                         placeholder="Digite seu nome completo"
-                        className="flex-1 rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                        className="min-w-0 flex-1 rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                       />
                       <button
                         type="button"
                         onClick={handleCheckSignupName}
                         disabled={signupChecking}
-                        className="btn-tap inline-flex min-w-16 items-center justify-center rounded-2xl border border-primary/20 bg-primary/10 px-4 py-4 text-primary transition-all hover:bg-primary/15 disabled:opacity-60"
+                        className="btn-tap inline-flex h-14 w-full shrink-0 items-center justify-center rounded-2xl border border-emerald-400/70 bg-emerald-500 px-4 py-4 text-white shadow-[0_0_0_8px_rgba(16,185,129,0.12)] transition-all hover:scale-[1.03] hover:bg-emerald-600 hover:shadow-[0_0_0_10px_rgba(16,185,129,0.16)] disabled:opacity-60 sm:h-auto sm:w-auto sm:min-w-16"
                         aria-label="Conferir nome"
                       >
-                        <Search className="h-5 w-5" />
+                        <span className="relative flex items-center justify-center">
+                          {!signupChecking ? (
+                            <>
+                              <span className="absolute inline-flex h-9 w-9 animate-ping rounded-full bg-white/25" />
+                              <span className="absolute inline-flex h-11 w-11 rounded-full border border-white/20" />
+                            </>
+                          ) : null}
+                          <Search className="relative h-5 w-5" />
+                        </span>
                       </button>
                     </div>
                   </div>
@@ -414,7 +422,7 @@ export default function LoginPage() {
                     ) : signupNameConflict ? (
                       "Existe mais de um cadastro com esse nome. Procure o admin."
                     ) : (
-                      "Digite seu nome e clique na lupa para conferir a lista autorizada."
+                      "Escreva seu nome completo e clique na lupa."
                     )}
                   </div>
 
@@ -427,9 +435,9 @@ export default function LoginPage() {
                         <p className="mt-2 text-sm text-muted-foreground">
                           Guarde este email. Ele sera usado junto com a senha que voce criar abaixo.
                         </p>
-                        <div className="mt-3 flex flex-wrap items-center gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3">
+                        <div className="mt-3 flex flex-col gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3 sm:flex-row sm:items-center">
                           <span className="font-heading text-sm font-bold text-primary">Email de acesso</span>
-                          <code className="rounded-xl bg-secondary px-3 py-2 font-mono text-base font-semibold text-foreground">
+                          <code className="max-w-full break-all rounded-xl bg-secondary px-3 py-2 font-mono text-sm font-semibold text-foreground sm:text-base">
                             {signupPreviewAccess ?? "email@escola.com"}
                           </code>
                         </div>
