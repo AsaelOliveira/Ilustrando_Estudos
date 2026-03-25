@@ -23,6 +23,19 @@ export function normalizeRosterName(value: string) {
   return simplifyText(value);
 }
 
+export function normalizeRosterTurma(value: string) {
+  const simplified = simplifyText(value)
+    .replace(/[º°]/g, "")
+    .replace(/\s+/g, "");
+
+  if (simplified.includes("6")) return "6ano";
+  if (simplified.includes("7")) return "7ano";
+  if (simplified.includes("8")) return "8ano";
+  if (simplified.includes("9")) return "9ano";
+
+  return value.trim().toLowerCase();
+}
+
 export function findRosterEntriesByName(entries: StudentSignupRosterEntry[], nome: string) {
   const normalizedName = normalizeRosterName(nome);
   if (!normalizedName) return [];
@@ -52,8 +65,16 @@ export function parseSignupRosterCsv(csv: string) {
 
   lines.forEach((line, index) => {
     const [rawNome = "", rawTurma = "", rawEmail = ""] = line.split(",").map((part) => part.trim());
+    const isHeaderLine =
+      index === 0 &&
+      normalizeRosterName(rawNome) === "nome" &&
+      normalizeRosterName(rawTurma).startsWith("serie") &&
+      normalizeRosterName(rawEmail) === "email";
+
+    if (isHeaderLine) return;
+
     const nome = rawNome.replace(/\s+/g, " ").trim();
-    const turma_id = rawTurma.toLowerCase();
+    const turma_id = normalizeRosterTurma(rawTurma);
     const email = rawEmail.toLowerCase();
 
     if (!nome || !turma_id || !email) {
@@ -91,7 +112,7 @@ export async function loadSignupRoster() {
     .filter((item): item is Record<string, unknown> => Boolean(item) && typeof item === "object")
     .map((item) => ({
       nome: typeof item.nome === "string" ? item.nome : "",
-      turma_id: typeof item.turma_id === "string" ? item.turma_id : "",
+      turma_id: typeof item.turma_id === "string" ? normalizeRosterTurma(item.turma_id) : "",
       email: typeof item.email === "string" ? item.email : "",
       claimed_user_id: typeof item.claimed_user_id === "string" ? item.claimed_user_id : null,
       claimed_at: typeof item.claimed_at === "string" ? item.claimed_at : null,

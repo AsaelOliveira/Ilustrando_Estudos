@@ -12,7 +12,6 @@ type SelfRegisterResponse = {
   success: true;
   turma_id: string;
   email?: string;
-  login_identifier?: string;
 };
 
 function getSignupFunctionErrorMessage(rawMessage?: string | null) {
@@ -41,6 +40,7 @@ export default function LoginPage() {
   const [signupPasswordConfirm, setSignupPasswordConfirm] = useState("");
   const [showSignupPass, setShowSignupPass] = useState(false);
   const [signupResolvedTurma, setSignupResolvedTurma] = useState<string | null>(null);
+  const [signupPreviewAccess, setSignupPreviewAccess] = useState<string | null>(null);
   const [signupNameConflict, setSignupNameConflict] = useState(false);
   const [signupChecking, setSignupChecking] = useState(false);
   const [signupLookupDone, setSignupLookupDone] = useState(false);
@@ -60,6 +60,7 @@ export default function LoginPage() {
     setCreatedAccess(null);
     setSignupNameConflict(false);
     setSignupResolvedTurma(null);
+    setSignupPreviewAccess(null);
     setSignupLookupDone(false);
   };
 
@@ -126,11 +127,11 @@ export default function LoginPage() {
 
       setLoading(false);
       setCreatedAccess({
-        login: data.login_identifier ?? "",
+        login: data.email ?? "",
         password: signupPassword,
         turmaId: data.turma_id,
       });
-      setIdentifier(data.login_identifier ?? "");
+      setIdentifier(data.email ?? "");
       setPassword(signupPassword);
       setMode("signin");
       setSignupPassword("");
@@ -166,6 +167,7 @@ export default function LoginPage() {
 
     if (!trimmedName) {
       setSignupResolvedTurma(null);
+      setSignupPreviewAccess(null);
       setSignupNameConflict(false);
       setError("Digite o nome completo antes de conferir.");
       return;
@@ -182,6 +184,7 @@ export default function LoginPage() {
 
       if (previewError || data?.success !== true || !data?.turma_id) {
         setSignupResolvedTurma(null);
+        setSignupPreviewAccess(null);
         setSignupNameConflict(Boolean(previewError?.message?.includes("mais de um cadastro")));
         setSignupLookupDone(false);
         setSignupChecking(false);
@@ -195,11 +198,13 @@ export default function LoginPage() {
       }
 
       setSignupResolvedTurma(data.turma_id);
+      setSignupPreviewAccess(data.email ?? null);
       setSignupNameConflict(false);
       setSignupLookupDone(true);
       setSignupChecking(false);
     } catch (invokeError) {
       setSignupResolvedTurma(null);
+      setSignupPreviewAccess(null);
       setSignupNameConflict(false);
       setSignupLookupDone(false);
       setSignupChecking(false);
@@ -213,6 +218,7 @@ export default function LoginPage() {
     if (mode !== "signup") return;
     setSignupLookupDone(false);
     setSignupResolvedTurma(null);
+    setSignupPreviewAccess(null);
     setSignupNameConflict(false);
   }, [signupNome, mode]);
 
@@ -403,7 +409,7 @@ export default function LoginPage() {
                       "Conferindo seu nome na lista autorizada..."
                     ) : signupLookupDone && signupResolvedTurma ? (
                       <>
-                        <span className="font-semibold">Cadastro autorizado:</span> {resolvedTurmaLabel}. O acesso sera gerado ao concluir o cadastro.
+                        <span className="font-semibold">Cadastro autorizado:</span> {resolvedTurmaLabel}
                       </>
                     ) : signupNameConflict ? (
                       "Existe mais de um cadastro com esse nome. Procure o admin."
@@ -412,44 +418,63 @@ export default function LoginPage() {
                     )}
                   </div>
 
-                  <div className={`grid gap-4 transition-all sm:grid-cols-2 ${signupLookupDone && signupResolvedTurma ? "opacity-100" : "pointer-events-none opacity-50"}`}>
-                    <div className="space-y-2">
-                      <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
-                        Criar senha
-                      </label>
-                      <div className="relative">
-                        <input
-                          type={showSignupPass ? "text" : "password"}
-                          value={signupPassword}
-                          onChange={(e) => setSignupPassword(e.target.value)}
-                          required
-                          placeholder="Minimo de 6 caracteres"
-                          className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
-                        />
-                        <button
-                          type="button"
-                          onClick={() => setShowSignupPass(!showSignupPass)}
-                          className="absolute right-5 top-1/2 -translate-y-1/2 text-muted-foreground transition-all hover:scale-110 hover:text-primary"
-                        >
-                          {showSignupPass ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
-                        </button>
+                  {signupLookupDone && signupResolvedTurma ? (
+                    <>
+                      <div className="rounded-3xl border border-primary/20 bg-gradient-to-r from-primary/10 via-emerald-50 to-background px-5 py-4 shadow-sm">
+                        <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-primary/80">
+                          Seu acesso para entrar
+                        </p>
+                        <p className="mt-2 text-sm text-muted-foreground">
+                          Guarde este email. Ele sera usado junto com a senha que voce criar abaixo.
+                        </p>
+                        <div className="mt-3 flex flex-wrap items-center gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3">
+                          <span className="font-heading text-sm font-bold text-primary">Email de acesso</span>
+                          <code className="rounded-xl bg-secondary px-3 py-2 font-mono text-base font-semibold text-foreground">
+                            {signupPreviewAccess ?? "email@escola.com"}
+                          </code>
+                        </div>
                       </div>
-                    </div>
 
-                    <div className="space-y-2">
-                      <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
-                        Confirmar senha
-                      </label>
-                      <input
-                        type={showSignupPass ? "text" : "password"}
-                        value={signupPasswordConfirm}
-                        onChange={(e) => setSignupPasswordConfirm(e.target.value)}
-                        required
-                        placeholder="Repita a senha"
-                        className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
-                      />
-                    </div>
-                  </div>
+                      <div className="grid gap-4 sm:grid-cols-2">
+                        <div className="space-y-2">
+                          <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
+                            Criar senha
+                          </label>
+                          <div className="relative">
+                            <input
+                              type={showSignupPass ? "text" : "password"}
+                              value={signupPassword}
+                              onChange={(e) => setSignupPassword(e.target.value)}
+                              required
+                              placeholder="Minimo de 6 caracteres"
+                              className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                            />
+                            <button
+                              type="button"
+                              onClick={() => setShowSignupPass(!showSignupPass)}
+                              className="absolute right-5 top-1/2 -translate-y-1/2 text-muted-foreground transition-all hover:scale-110 hover:text-primary"
+                            >
+                              {showSignupPass ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
+                            </button>
+                          </div>
+                        </div>
+
+                        <div className="space-y-2">
+                          <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
+                            Confirmar senha
+                          </label>
+                          <input
+                            type={showSignupPass ? "text" : "password"}
+                            value={signupPasswordConfirm}
+                            onChange={(e) => setSignupPasswordConfirm(e.target.value)}
+                            required
+                            placeholder="Repita a senha"
+                            className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                          />
+                        </div>
+                      </div>
+                    </>
+                  ) : null}
                 </>
               )}
 
@@ -464,30 +489,32 @@ export default function LoginPage() {
                 </motion.div>
               )}
 
-              <button
-                type="submit"
-                disabled={loading}
-                className="btn-tap group relative flex w-full items-center justify-center gap-3 overflow-hidden rounded-2xl bg-primary py-5 font-heading text-lg font-black text-primary-foreground shadow-glow transition-all hover:scale-[1.02] disabled:opacity-60"
-              >
-                <div className="pointer-events-none absolute inset-x-0 h-full w-1/3 animate-shine bg-white/20 blur-xl" />
-                {loading ? (
-                  <motion.div
-                    animate={{ rotate: 360 }}
-                    transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
-                    className="h-6 w-6 rounded-full border-3 border-primary-foreground/30 border-t-primary-foreground"
-                  />
-                ) : mode === "signin" ? (
-                  <>
-                    <LogIn className="h-6 w-6 transition-transform group-hover:scale-110" />
-                    Entrar agora
-                  </>
-                ) : (
-                  <>
-                    <UserPlus className="h-6 w-6 transition-transform group-hover:scale-110" />
-                    Criar minha conta
-                  </>
-                )}
-              </button>
+              {mode === "signin" || (signupLookupDone && signupResolvedTurma) ? (
+                <button
+                  type="submit"
+                  disabled={loading}
+                  className="btn-tap group relative flex w-full items-center justify-center gap-3 overflow-hidden rounded-2xl bg-primary py-5 font-heading text-lg font-black text-primary-foreground shadow-glow transition-all hover:scale-[1.02] disabled:opacity-60"
+                >
+                  <div className="pointer-events-none absolute inset-x-0 h-full w-1/3 animate-shine bg-white/20 blur-xl" />
+                  {loading ? (
+                    <motion.div
+                      animate={{ rotate: 360 }}
+                      transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+                      className="h-6 w-6 rounded-full border-3 border-primary-foreground/30 border-t-primary-foreground"
+                    />
+                  ) : mode === "signin" ? (
+                    <>
+                      <LogIn className="h-6 w-6 transition-transform group-hover:scale-110" />
+                      Entrar agora
+                    </>
+                  ) : (
+                    <>
+                      <UserPlus className="h-6 w-6 transition-transform group-hover:scale-110" />
+                      Criar minha conta
+                    </>
+                  )}
+                </button>
+              ) : null}
             </form>
           </div>
         </motion.div>

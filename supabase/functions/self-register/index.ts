@@ -36,9 +36,53 @@ function normalizeName(value: string) {
     .toLowerCase();
 }
 
+function normalizeTurma(value: string) {
+  const simplified = value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[º°]/g, "")
+    .replace(/\s+/g, "")
+    .trim()
+    .toLowerCase();
+
+  if (simplified.includes("6")) return "6ano";
+  if (simplified.includes("7")) return "7ano";
+  if (simplified.includes("8")) return "8ano";
+  if (simplified.includes("9")) return "9ano";
+
+  return simplified;
+}
+
 async function generateUniqueLoginIdentifier(supabase: ReturnType<typeof createClient>) {
   const bytes = crypto.getRandomValues(new Uint8Array(4));
   const base = `aluno_${Array.from(bytes, (byte) => byte.toString(16).padStart(2, "0")).join("").slice(0, 6)}`;
+  let candidate = base;
+  let counter = 2;
+
+  while (true) {
+    const { data } = await supabase
+      .from("profiles")
+      .select("user_id")
+      .eq("login_identifier", candidate)
+      .maybeSingle();
+
+    if (!data) return candidate;
+    candidate = `${base}_${counter}`;
+    counter += 1;
+  }
+}
+
+function buildLoginSeed(email: string) {
+  const normalized = email.trim().toLowerCase();
+  let hash = 0;
+  for (let index = 0; index < normalized.length; index += 1) {
+    hash = (hash * 31 + normalized.charCodeAt(index)) >>> 0;
+  }
+  return hash.toString(16).padStart(8, "0").slice(0, 6);
+}
+
+async function generateStableSignupLoginIdentifier(supabase: ReturnType<typeof createClient>, email: string) {
+  const base = `aluno_${buildLoginSeed(email)}`;
   let candidate = base;
   let counter = 2;
 
@@ -94,7 +138,12 @@ serve(async (req) => {
 
     if (rosterError) throw rosterError;
 
-    const roster = Array.isArray(rosterSetting?.value) ? (rosterSetting.value as SignupRosterEntry[]) : [];
+    const roster = Array.isArray(rosterSetting?.value)
+      ? (rosterSetting.value as SignupRosterEntry[]).map((entry) => ({
+          ...entry,
+          turma_id: typeof entry?.turma_id === "string" ? normalizeTurma(entry.turma_id) : "",
+        }))
+      : [];
     const matchingEntries = roster.filter(
       (entry) =>
         typeof entry?.nome === "string" &&
@@ -136,14 +185,16 @@ serve(async (req) => {
 
     const resolvedTurmaId = rosterEntry.turma_id;
 
+    const loginIdentifier = await generateStableSignupLoginIdentifier(supabase, rosterEntry.email);
+
     if (previewOnly) {
       return jsonResponse({
         success: true,
         turma_id: resolvedTurmaId,
+        email: rosterEntry.email,
       });
     }
 
-    const loginIdentifier = await generateUniqueLoginIdentifier(supabase);
     const { data: createdUserData, error: createUserError } = await supabase.auth.admin.createUser({
       email: rosterEntry.email,
       password,
