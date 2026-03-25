@@ -11,6 +11,7 @@ import { useAuth } from "@/hooks/useAuth";
 import { canAccessTurma, getTurma, getDisciplina } from "@/data/catalog";
 import type { BlocoExplicacao, Questao } from "@/data/content-types";
 import { setRecentStudy } from "@/lib/recent-study";
+import { pickRandomItems, shuffleItems } from "@/lib/random";
 import { Check, X, RotateCcw, Clock, Lightbulb, ChevronDown, BookOpen, FileText, Beaker, PenTool, GraduationCap, Zap, Star, Target } from "lucide-react";
 import { recordActivityResult, type ActivityResultType } from "@/lib/activity-results";
 
@@ -42,7 +43,10 @@ export default function AulaPage() {
   const discData = getDisciplina(disciplinaId || "");
   const tema = getTemaByIdFromList(temas, temaId || "");
   const [tab, setTab] = useState<Tab>("Resumo");
-  const visibleExercicios = tema?.exercicios.slice(0, contentDisplayConfig.maxExercisesPerTema) || [];
+  const [exerciseRound, setExerciseRound] = useState(0);
+  const [simuladoRound, setSimuladoRound] = useState(0);
+  const [visibleExercicios, setVisibleExercicios] = useState<Questao[]>([]);
+  const [visibleSimulado, setVisibleSimulado] = useState<Questao[]>([]);
   const metadataTurma =
     user?.user_metadata && typeof user.user_metadata.turma_id === "string"
       ? user.user_metadata.turma_id
@@ -59,6 +63,26 @@ export default function AulaPage() {
         countsForPoints,
       }
     : null;
+
+  useEffect(() => {
+    if (!tema) {
+      setVisibleExercicios([]);
+      return;
+    }
+
+    setVisibleExercicios(
+      pickRandomItems(tema.exercicios, contentDisplayConfig.maxExercisesPerTema),
+    );
+  }, [contentDisplayConfig.maxExercisesPerTema, exerciseRound, tema]);
+
+  useEffect(() => {
+    if (!tema) {
+      setVisibleSimulado([]);
+      return;
+    }
+
+    setVisibleSimulado(shuffleItems(tema.simulado));
+  }, [simuladoRound, tema]);
 
   if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
     return <Navigate to="/app/turmas" replace />;
@@ -381,14 +405,27 @@ function ExerciciosTab({
   exercicios: Questao[];
   activityContext: ActivityContext | null;
 }) {
+  const { temaId } = useParams();
+  const { temas } = useStudyContent();
+  const { config: displayConfig } = useContentDisplayConfig();
+  const tema = getTemaByIdFromList(temas, temaId || "");
+  const [questionSet, setQuestionSet] = useState<Questao[]>(exercicios);
   const [respostas, setRespostas] = useState<Record<string, string>>({});
   const [showGabarito, setShowGabarito] = useState(false);
   const [savedResult, setSavedResult] = useState(false);
 
   const totalRespondidas = Object.keys(respostas).length;
-  const totalAcertos = exercicios.filter((q) => respostas[q.id] === q.respostaCorreta).length;
+  const totalAcertos = questionSet.filter((q) => respostas[q.id] === q.respostaCorreta).length;
+
+  useEffect(() => {
+    setQuestionSet(exercicios);
+  }, [exercicios]);
 
   const handleReset = () => {
+    const renewedQuestions = tema
+      ? pickRandomItems(tema.exercicios, displayConfig.maxExercisesPerTema)
+      : exercicios;
+    setQuestionSet(renewedQuestions);
     setRespostas({});
     setShowGabarito(false);
     setSavedResult(false);
@@ -397,9 +434,9 @@ function ExerciciosTab({
   const handleShowGabarito = async () => {
     setShowGabarito(true);
 
-    if (!activityContext || savedResult || totalRespondidas !== exercicios.length) return;
+    if (!activityContext || savedResult || totalRespondidas !== questionSet.length) return;
 
-    await saveActivityResult(activityContext, "exercicio", totalAcertos, exercicios.length);
+    await saveActivityResult(activityContext, "exercicio", totalAcertos, questionSet.length);
     setSavedResult(true);
   };
 
@@ -410,7 +447,7 @@ function ExerciciosTab({
         <div className="flex items-center justify-between mb-3">
           <span className="font-body text-sm text-muted-foreground flex items-center gap-2">
             <Target className="h-4 w-4" />
-            Progresso: {totalRespondidas}/{exercicios.length} respondidas
+            Progresso: {totalRespondidas}/{questionSet.length} respondidas
           </span>
           {showGabarito && (
             <motion.span
@@ -419,7 +456,7 @@ function ExerciciosTab({
               className="font-heading text-sm font-semibold text-primary flex items-center gap-1"
             >
               <Star className="h-4 w-4" />
-              {totalAcertos}/{exercicios.length} acertos
+              {totalAcertos}/{questionSet.length} acertos
             </motion.span>
           )}
         </div>
@@ -427,11 +464,11 @@ function ExerciciosTab({
           <motion.div
             className="h-full bg-gradient-to-r from-primary to-primary-glow rounded-full"
             initial={{ width: 0 }}
-            animate={{ width: `${(totalRespondidas / exercicios.length) * 100}%` }}
+            animate={{ width: `${questionSet.length > 0 ? (totalRespondidas / questionSet.length) * 100 : 0}%` }}
             transition={{ duration: 0.4, type: "spring" }}
           />
         </div>
-        {totalRespondidas === exercicios.length && !showGabarito && (
+        {totalRespondidas === questionSet.length && !showGabarito && (
           <motion.p
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -443,7 +480,7 @@ function ExerciciosTab({
       </div>
 
       <div className="space-y-5">
-        {exercicios.map((q, i) => (
+        {questionSet.map((q, i) => (
           <QuestaoCard
             key={q.id}
             questao={q}
@@ -608,6 +645,10 @@ function SimuladoTab({
   questoes: Questao[];
   activityContext: ActivityContext | null;
 }) {
+  const { temaId } = useParams();
+  const { temas } = useStudyContent();
+  const tema = getTemaByIdFromList(temas, temaId || "");
+  const [questionSet, setQuestionSet] = useState<Questao[]>(questoes);
   const [respostas, setRespostas] = useState<Record<string, string>>({});
   const [finalizado, setFinalizado] = useState(false);
   const [showConfetti, setShowConfetti] = useState(false);
@@ -616,20 +657,25 @@ function SimuladoTab({
   const [started, setStarted] = useState(false);
   const [savedResult, setSavedResult] = useState(false);
 
-  const acertos = questoes.filter((q) => respostas[q.id] === q.respostaCorreta).length;
+  const acertos = questionSet.filter((q) => respostas[q.id] === q.respostaCorreta).length;
+
+  useEffect(() => {
+    setQuestionSet(questoes);
+    setTimeLeft(questoes.length * 60);
+  }, [questoes]);
 
   const handleFinalizar = useCallback(async () => {
     setFinalizado(true);
-    if (acertos >= questoes.length * 0.6) {
+    if (acertos >= questionSet.length * 0.6) {
       setShowConfetti(true);
       setTimeout(() => setShowConfetti(false), 4000);
     }
 
     if (!activityContext || savedResult) return;
 
-    await saveActivityResult(activityContext, "simulado", acertos, questoes.length);
+    await saveActivityResult(activityContext, "simulado", acertos, questionSet.length);
     setSavedResult(true);
-  }, [acertos, activityContext, questoes.length, savedResult]);
+  }, [acertos, activityContext, questionSet.length, savedResult]);
 
   useEffect(() => {
     if (!timerEnabled || !started || finalizado) return;
@@ -662,7 +708,7 @@ function SimuladoTab({
         </motion.div>
         <h2 className="font-heading font-bold text-2xl text-foreground mb-3">Mini Simulado</h2>
         <p className="font-body text-muted-foreground mb-8 max-w-md mx-auto">
-          📝 {questoes.length} questões sobre o tema. Teste seus conhecimentos!
+          📝 {questionSet.length} questões sobre o tema. Teste seus conhecimentos!
         </p>
         <div className="flex items-center justify-center gap-3 mb-8">
           <button
@@ -688,7 +734,7 @@ function SimuladoTab({
   }
 
   if (finalizado) {
-    const pct = Math.round((acertos / questoes.length) * 100);
+    const pct = questionSet.length > 0 ? Math.round((acertos / questionSet.length) * 100) : 0;
     return (
       <div>
         <Confetti show={showConfetti} />
@@ -713,7 +759,7 @@ function SimuladoTab({
             </div>
           </motion.div>
           <p className="font-body text-foreground text-lg">
-            Você acertou <span className="font-heading font-bold text-primary">{acertos}</span> de {questoes.length} questões.
+            Você acertou <span className="font-heading font-bold text-primary">{acertos}</span> de {questionSet.length} questões.
           </p>
           {pct >= 80 && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} className="text-primary font-heading font-semibold mt-2">
@@ -729,7 +775,7 @@ function SimuladoTab({
         </motion.div>
 
         <div className="space-y-5">
-          {questoes.map((q, i) => (
+          {questionSet.map((q, i) => (
             <QuestaoCard
               key={q.id}
               questao={q}
@@ -743,10 +789,12 @@ function SimuladoTab({
 
         <button
           onClick={() => {
+            const renewedQuestions = tema ? shuffleItems(tema.simulado) : questoes;
+            setQuestionSet(renewedQuestions);
             setRespostas({});
             setFinalizado(false);
             setStarted(false);
-            setTimeLeft(questoes.length * 60);
+            setTimeLeft(renewedQuestions.length * 60);
             setSavedResult(false);
           }}
           className="btn-tap mt-8 border border-border text-foreground font-heading font-semibold px-6 py-3 rounded-xl hover:bg-secondary transition-colors text-sm flex items-center gap-2"
@@ -766,7 +814,7 @@ function SimuladoTab({
       <div className="sticky top-[96px] z-10 bg-background/80 backdrop-blur-md py-3 mb-6 flex items-center justify-between px-5 rounded-xl border border-border shadow-sm">
         <span className="font-body text-sm text-muted-foreground flex items-center gap-2">
           <Zap className="h-4 w-4 text-primary" />
-          {totalRespondidas}/{questoes.length} respondidas
+          {totalRespondidas}/{questionSet.length} respondidas
         </span>
         {timerEnabled && (
           <span className={`font-heading font-bold text-lg flex items-center gap-2 ${timeLeft < 60 ? "text-destructive animate-pulse" : "text-accent"}`}>
@@ -776,7 +824,7 @@ function SimuladoTab({
       </div>
 
       <div className="space-y-5">
-        {questoes.map((q, i) => (
+        {questionSet.map((q, i) => (
           <QuestaoCard
             key={q.id}
             questao={q}

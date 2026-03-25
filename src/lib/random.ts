@@ -10,9 +10,8 @@ function randomInt(maxExclusive: number) {
   return Math.floor(Math.random() * maxExclusive);
 }
 
-export function pickRandomItems<T>(items: T[], count: number): T[] {
-  if (count <= 0 || items.length === 0) return [];
-  if (count >= items.length) return [...items];
+export function shuffleItems<T>(items: T[]): T[] {
+  if (items.length <= 1) return [...items];
 
   const pool = [...items];
 
@@ -20,6 +19,15 @@ export function pickRandomItems<T>(items: T[], count: number): T[] {
     const swapIndex = randomInt(index + 1);
     [pool[index], pool[swapIndex]] = [pool[swapIndex], pool[index]];
   }
+
+  return pool;
+}
+
+export function pickRandomItems<T>(items: T[], count: number): T[] {
+  if (count <= 0 || items.length === 0) return [];
+  if (count >= items.length) return shuffleItems(items);
+
+  const pool = shuffleItems(items);
 
   return pool.slice(0, count);
 }
