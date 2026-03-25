@@ -35,6 +35,12 @@ import {
   type ManagedUser,
 } from "@/lib/manage-users";
 import {
+  loadSignupRoster,
+  parseSignupRosterCsv,
+  saveSignupRoster,
+  serializeSignupRoster,
+} from "@/lib/student-signup-roster";
+import {
   Dialog,
   DialogContent,
   DialogDescription,
@@ -1571,7 +1577,11 @@ function CredentialDeliveryCard({
 function AlunosTab() {
   const [importMode, setImportMode] = useState(false);
   const [listMode, setListMode] = useState(false);
+  const [rosterMode, setRosterMode] = useState(false);
   const [csvData, setCsvData] = useState("");
+  const [rosterCsvData, setRosterCsvData] = useState("");
+  const [rosterCount, setRosterCount] = useState(0);
+  const [savingRoster, setSavingRoster] = useState(false);
   const [creating, setCreating] = useState(false);
   const [result, setResult] = useState<{ success: number; errors: string[] } | null>(null);
   const [showPassword, setShowPassword] = useState(false);
@@ -1608,6 +1618,12 @@ function AlunosTab() {
   const [senha, setSenha] = useState("");
   const getTurmaLabel = (turmaValue: string | null) =>
     turmas.find((turma) => turma.id === turmaValue)?.nome || turmaValue || "Sem turma";
+
+  const loadRosterData = async () => {
+    const rosterEntries = await loadSignupRoster();
+    setRosterCount(rosterEntries.length);
+    setRosterCsvData(serializeSignupRoster(rosterEntries));
+  };
 
   useEffect(() => {
     if (selectedRole !== "professor") return;
@@ -1670,6 +1686,30 @@ function AlunosTab() {
     let password = "";
     for (let i = 0; i < 10; i++) password += chars[buffer[i] % chars.length];
     return password;
+  };
+
+  const handleSaveRoster = async () => {
+    setAdminError("");
+    const { entries, errors } = parseSignupRosterCsv(rosterCsvData);
+
+    if (errors.length > 0) {
+      setAdminError(errors[0]);
+      return;
+    }
+
+    setSavingRoster(true);
+    try {
+      const savedEntries = await saveSignupRoster(entries);
+      setRosterCount(savedEntries.length);
+      toast({
+        title: "Lista autorizada salva",
+        description: `${savedEntries.length} aluno(s) liberados para auto cadastro.`,
+      });
+    } catch (error) {
+      setAdminError(error instanceof Error ? error.message : "Erro ao salvar lista autorizada.");
+    } finally {
+      setSavingRoster(false);
+    }
   };
 
   const closePasswordResetDialog = () => {
@@ -2145,28 +2185,36 @@ function AlunosTab() {
 
       <div className="flex gap-2 flex-wrap">
         <button
-          onClick={() => { setImportMode(false); setListMode(false); setCurrentPage(1); }}
+          onClick={() => { setImportMode(false); setListMode(false); setRosterMode(false); setCurrentPage(1); }}
           className={`btn-tap px-4 py-2 rounded-xl font-body text-sm transition-all flex items-center gap-2 ${
-            !importMode && !listMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
+            !importMode && !listMode && !rosterMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
           }`}
         >
           <UserPlus className="h-3.5 w-3.5" /> Cadastro Individual
         </button>
         <button
-          onClick={() => { setImportMode(true); setListMode(false); setCurrentPage(1); }}
+          onClick={() => { setImportMode(true); setListMode(false); setRosterMode(false); setCurrentPage(1); }}
           className={`btn-tap px-4 py-2 rounded-xl font-body text-sm transition-all flex items-center gap-2 ${
-            importMode && !listMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
+            importMode && !listMode && !rosterMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
           }`}
         >
           <Upload className="h-3.5 w-3.5" /> Importacao em lote
         </button>
         <button
-          onClick={() => { setListMode(true); setImportMode(false); setCurrentPage(1); loadUsers(); }}
+          onClick={() => { setListMode(true); setImportMode(false); setRosterMode(false); setCurrentPage(1); loadUsers(); }}
           className={`btn-tap px-4 py-2 rounded-xl font-body text-sm transition-all flex items-center gap-2 ${
             listMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
           }`}
         >
           <Users className="h-3.5 w-3.5" /> Ver Alunos
+        </button>
+        <button
+          onClick={() => { setRosterMode(true); setImportMode(false); setListMode(false); setCurrentPage(1); void loadRosterData(); }}
+          className={`btn-tap px-4 py-2 rounded-xl font-body text-sm transition-all flex items-center gap-2 ${
+            rosterMode ? "bg-primary text-primary-foreground" : "border border-border text-muted-foreground hover:text-foreground"
+          }`}
+        >
+          <CheckCircle className="h-3.5 w-3.5" /> Lista de cadastro
         </button>
       </div>
 
@@ -2402,6 +2450,60 @@ function AlunosTab() {
               ) : null}
             </div>
           </motion.div>
+        ) : rosterMode ? (
+          <motion.div key="roster" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}>
+            <div className="bg-card border border-border rounded-xl p-6 space-y-4">
+              <div className="rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">
+                  Area nova de auto cadastro
+                </p>
+                <p className="mt-1 text-sm font-medium text-amber-900">
+                  Essa lista alimenta o botao "Quero me cadastrar" da tela de login.
+                </p>
+              </div>
+              <div className="flex flex-col gap-3 lg:flex-row lg:items-start lg:justify-between">
+                <div>
+                  <h3 className="font-heading font-semibold text-foreground">Lista autorizada para auto cadastro</h3>
+                  <p className="mt-1 text-sm text-muted-foreground">
+                    Cole no formato CSV: <code className="rounded bg-secondary px-1.5 py-0.5 text-xs">nome,turmaId,email</code>
+                  </p>
+                </div>
+                <div className="rounded-xl border border-primary/20 bg-primary/5 px-4 py-3 text-sm text-foreground">
+                  {rosterCount} aluno(s) liberados
+                </div>
+              </div>
+
+              <div className="rounded-xl border border-primary/15 bg-primary/5 p-4 text-sm text-muted-foreground">
+                O aluno vai digitar apenas nome completo e senha no login. A turma sera localizada automaticamente pela lista autorizada.
+              </div>
+
+              <textarea
+                value={rosterCsvData}
+                onChange={(e) => setRosterCsvData(e.target.value)}
+                rows={10}
+                placeholder={`Nome completo,6ano,email@escola.com\nOutro nome,7ano,outroemail@escola.com`}
+                className="w-full px-4 py-3 rounded-xl border border-border bg-background font-mono text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 resize-none"
+              />
+
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  onClick={() => void loadRosterData()}
+                  className="btn-tap rounded-xl border border-border px-4 py-2 text-sm text-muted-foreground transition-all hover:text-foreground"
+                >
+                  Carregar lista atual
+                </button>
+                <button
+                  type="button"
+                  onClick={handleSaveRoster}
+                  disabled={savingRoster}
+                  className="btn-tap rounded-xl bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90 disabled:opacity-60"
+                >
+                  {savingRoster ? "Salvando..." : "Salvar lista autorizada"}
+                </button>
+              </div>
+            </div>
+          </motion.div>
         ) : !importMode ? (
           <motion.div key="single" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}>
             <div className="bg-card border border-border rounded-xl p-6 space-y-4">
@@ -2414,7 +2516,7 @@ function AlunosTab() {
                   <input
                     value={nome}
                     onChange={(e) => setNome(e.target.value)}
-                    placeholder="Joao Silva"
+                    placeholder="Nome completo"
                     className="w-full px-4 py-3 rounded-xl border border-border bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30"
                   />
                 </div>
@@ -2423,7 +2525,7 @@ function AlunosTab() {
                   <input
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    placeholder="joao@escola.com"
+                    placeholder="email@escola.com"
                     type="email"
                     className="w-full px-4 py-3 rounded-xl border border-border bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30"
                   />
@@ -2552,13 +2654,13 @@ function AlunosTab() {
                   Cole os dados no formato CSV: <code className="bg-secondary px-1.5 py-0.5 rounded text-primary font-mono text-xs">nome,email,turmaId,senha(opcional)</code>
                 </p>
                 <p className="font-body text-xs text-muted-foreground mt-1">
-                  Exemplo: <code className="font-mono text-xs text-foreground/70">Joao Silva,joao@escola.com,6ano,minhasenha123</code>
+                  Exemplo: <code className="font-mono text-xs text-foreground/70">Nome completo,email@escola.com,6ano,minhasenha123</code>
                 </p>
               </div>
               <textarea
                 value={csvData}
                 onChange={(e) => setCsvData(e.target.value)}
-                placeholder={`Joao Silva,joao@escola.com,6ano,senha123\nMaria Santos,maria@escola.com,7ano,senha456`}
+                placeholder={`Nome completo,email@escola.com,6ano,senha123\nOutro nome,outroemail@escola.com,7ano,senha456`}
                 rows={8}
                 className="w-full px-4 py-3 rounded-xl border border-border bg-background font-mono text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 resize-none"
               />
