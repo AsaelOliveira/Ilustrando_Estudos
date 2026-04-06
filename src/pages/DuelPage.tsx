@@ -916,106 +916,128 @@ function ConfigView({
   const create = async () => {
     if (!user || !profile) return;
     setCreating(true);
-
-    let questions = await getQuestionsForMission({
-      turmaId: userTurma,
-      disciplineId: cfg.disciplineId,
-      interclass: cfg.interclass,
-      limit: cfg.numQuestions,
-    });
-
-    if (questions.length < cfg.numQuestions) {
-      questions = getTemaQuestionsForDuel({
-        temas,
+    try {
+      let questions = await getQuestionsForMission({
         turmaId: userTurma,
         disciplineId: cfg.disciplineId,
         interclass: cfg.interclass,
         limit: cfg.numQuestions,
       });
-    }
 
-    if (questions.length < cfg.numQuestions) {
-      toast({ title: "Questões insuficientes", description: `Encontramos apenas ${questions.length} questões com esses filtros.`, variant: "destructive" });
+      if (questions.length < cfg.numQuestions) {
+        questions = getTemaQuestionsForDuel({
+          temas,
+          turmaId: userTurma,
+          disciplineId: cfg.disciplineId,
+          interclass: cfg.interclass,
+          limit: cfg.numQuestions,
+        });
+      }
+
+      if (questions.length < cfg.numQuestions) {
+        toast({
+          title: "Questões insuficientes",
+          description: `Encontramos apenas ${questions.length} questões com esses filtros.`,
+          variant: "destructive",
+        });
+        return;
+      }
+
+      const displayName = cfg.mode === "anonimo" ? "Anônimo" : profile.nome;
+      const displayTurma = cfg.mode === "anonimo" ? null : userTurma;
+
+      const { data, error } = await supabase.from("duels").insert({
+        challenger_id: user.id,
+        challenged_id: cfg.targetType === "privado" ? cfg.targetUserId : null,
+        mode: cfg.mode,
+        visibility: cfg.targetType === "privado" ? "privado" : "publico",
+        challenger_display_name: displayName,
+        challenger_display_turma: displayTurma,
+        question_ids: questions.map(q => q.id),
+        turma_id: userTurma,
+        discipline_id: cfg.disciplineId,
+        interclass: cfg.interclass,
+        num_questions: cfg.numQuestions,
+        time_limit: cfg.timeLimit,
+        status: "aberto",
+      }).select("id").single();
+
+      if (error || !data) {
+        toast({
+          title: "Erro ao criar desafio",
+          description: error?.message || "Não foi possível criar o duelo.",
+          variant: "destructive",
+        });
+        return;
+      }
+
+      if (cfg.targetType === "privado") {
+        const code = data.id.replace(/-/g, "").slice(0, 6).toUpperCase();
+        toast({ title: "Convite criado!", description: `Código: ${code} — compartilhe com seu colega!` });
+      }
+
+      onCreated(data.id);
+    } catch (error) {
+      console.error(error);
+      toast({
+        title: "Erro ao criar desafio",
+        description: error instanceof Error ? error.message : "Não foi possível montar esse duelo agora.",
+        variant: "destructive",
+      });
+    } finally {
       setCreating(false);
-      return;
     }
-
-    const displayName = cfg.mode === "anonimo" ? "Anônimo" : profile.nome;
-    const displayTurma = cfg.mode === "anonimo" ? null : userTurma;
-
-    const { data, error } = await supabase.from("duels").insert({
-      challenger_id: user.id,
-      challenged_id: cfg.targetType === "privado" ? cfg.targetUserId : null,
-      mode: cfg.mode,
-      visibility: cfg.targetType === "privado" ? "privado" : "publico",
-      challenger_display_name: displayName,
-      challenger_display_turma: displayTurma,
-      question_ids: questions.map(q => q.id),
-      turma_id: userTurma,
-      discipline_id: cfg.disciplineId,
-      interclass: cfg.interclass,
-      num_questions: cfg.numQuestions,
-      time_limit: cfg.timeLimit,
-      status: "aberto",
-    }).select("id").single();
-
-    setCreating(false);
-    if (error || !data) {
-      toast({ title: "Erro ao criar desafio", description: error?.message, variant: "destructive" });
-      return;
-    }
-
-    // Gerar cÃ³digo de convite a partir do ID (primeiros 6 caracteres)
-    if (cfg.targetType === "privado") {
-      const code = data.id.replace(/-/g, "").slice(0, 6).toUpperCase();
-      toast({ title: "Convite criado!", description: `Código: ${code} — compartilhe com seu colega!` });
-    }
-
-    onCreated(data.id);
   };
 
   // Aceitar por cÃ³digo de convite
   const joinByCode = async () => {
     if (!user || inviteCode.length < 4) return;
     setCreating(true);
-    const normalized = inviteCode.trim().toUpperCase();
+    try {
+      const normalized = inviteCode.trim().toUpperCase();
 
-    // Buscar duelo cujo ID comeÃ§a com o cÃ³digo
-    const { data: duels } = await supabase
-      .from("duels")
-      .select("id, status, challenger_id, challenged_id")
-      .eq("status", "aguardando")
-      .gt("expires_at", new Date().toISOString())
-      .limit(50);
+      const { data: duels } = await supabase
+        .from("duels")
+        .select("id, status, challenger_id, challenged_id")
+        .eq("status", "aguardando")
+        .gt("expires_at", new Date().toISOString())
+        .limit(50);
 
-    const match = duels?.find(d =>
-      d.id.replace(/-/g, "").slice(0, 6).toUpperCase() === normalized
-      && d.challenger_id !== user.id
-    );
+      const match = duels?.find(d =>
+        d.id.replace(/-/g, "").slice(0, 6).toUpperCase() === normalized
+        && d.challenger_id !== user.id
+      );
 
-    if (!match) {
-      toast({ title: "Código não encontrado", description: "Verifique o código e tente novamente.", variant: "destructive" });
+      if (!match) {
+        toast({ title: "Código não encontrado", description: "Verifique o código e tente novamente.", variant: "destructive" });
+        return;
+      }
+
+      if (match.challenged_id && match.challenged_id !== user.id) {
+        toast({ title: "Desafio indisponível", description: "Este desafio já foi aceito por outro aluno.", variant: "destructive" });
+        return;
+      }
+
+      const { error } = await supabase.from("duels").update({
+        challenged_id: user.id,
+        status: "em_batalha",
+      }).eq("id", match.id);
+
+      if (error) {
+        toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
+        return;
+      }
+      onCreated(match.id);
+    } catch (error) {
+      console.error(error);
+      toast({
+        title: "Erro ao entrar no desafio",
+        description: error instanceof Error ? error.message : "Tente novamente em alguns instantes.",
+        variant: "destructive",
+      });
+    } finally {
       setCreating(false);
-      return;
     }
-
-    if (match.challenged_id && match.challenged_id !== user.id) {
-      toast({ title: "Desafio indisponível", description: "Este desafio já foi aceito por outro aluno.", variant: "destructive" });
-      setCreating(false);
-      return;
-    }
-
-    const { error } = await supabase.from("duels").update({
-      challenged_id: user.id,
-      status: "em_batalha",
-    }).eq("id", match.id);
-
-    setCreating(false);
-    if (error) {
-      toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
-      return;
-    }
-    onCreated(match.id);
   };
 
   return (
@@ -1066,7 +1088,7 @@ function ConfigView({
             ]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
-                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null }))}
+                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null, targetAvatarUrl: null }))}
                 className={`btn-tap rounded-xl border-2 p-4 text-left transition-all ${cfg.targetType === val ? "border-accent bg-accent/5" : "border-border hover:border-accent/20"}`}
               >
                 <Icon className={`mb-1 h-5 w-5 ${cfg.targetType === val ? "text-accent" : "text-muted-foreground"}`} />
@@ -1277,9 +1299,31 @@ function ConfigView({
         )}
 
         {/* Info */}
-        <p className="mb-4 font-body text-xs text-muted-foreground">
-          {effectiveAvailable} questões disponíveis com esses filtros
-        </p>
+        <div className="mb-4 rounded-xl border border-border bg-secondary/30 px-4 py-3">
+          <div className="flex flex-wrap items-center gap-2 text-[11px]">
+            <span className="rounded-full bg-primary/10 px-2.5 py-1 font-heading font-semibold text-primary">
+              {cfg.interclass ? "Interclasse" : disciplineLabel(cfg.disciplineId)}
+            </span>
+            <span className="rounded-full bg-accent/10 px-2.5 py-1 font-heading font-semibold text-accent">
+              {cfg.numQuestions} questões
+            </span>
+            <span className="rounded-full bg-secondary px-2.5 py-1 font-heading font-semibold text-foreground/80">
+              {Math.floor(cfg.timeLimit / 60)} min
+            </span>
+            {cfg.targetType === "privado" && cfg.targetUserName ? (
+              <span className="rounded-full bg-emerald-500/10 px-2.5 py-1 font-heading font-semibold text-emerald-700">
+                Contra {cfg.targetUserName.split(" ")[0]}
+              </span>
+            ) : (
+              <span className="rounded-full bg-emerald-500/10 px-2.5 py-1 font-heading font-semibold text-emerald-700">
+                Duelo público
+              </span>
+            )}
+          </div>
+          <p className="mt-2 font-body text-xs text-muted-foreground">
+            {effectiveAvailable} questões disponíveis com esses filtros
+          </p>
+        </div>
 
         <button
           onClick={create}
