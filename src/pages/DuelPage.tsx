@@ -1429,25 +1429,64 @@ function BattleArena({
 
   // Carregar duelo
   useEffect(() => {
-    (async () => {
-      const { data } = await supabase.from("duels").select("*").eq("id", duelId).single();
-      if (!data) return;
-      const d = data as Duel;
-      setDuel(d);
-      let qs = await fetchQuestionsByIds(d.question_ids);
-      if (qs.length === 0) {
-        qs = getTemaQuestionsByIds(temas, d.question_ids) as ContentQuestion[];
-      }
-      setQuestions(qs);
-      questionsRef.current = qs;
-      answersRef.current = new Array(qs.length).fill(null);
-      setAnswers(answersRef.current);
-      setTimeLeft(d.time_limit);
-      startTimeRef.current = Date.now();
+    let active = true;
 
-      // Tela VS por 2.5 segundos
-      setTimeout(() => setShowVS(false), 2500);
+    (async () => {
+      try {
+        const { data } = await supabase.from("duels").select("*").eq("id", duelId).single();
+        if (!data || !active) return;
+
+        const d = data as Duel;
+        setDuel(d);
+
+        let qs: ContentQuestion[] = [];
+
+        try {
+          qs = await fetchQuestionsByIds(d.question_ids);
+        } catch (error) {
+          console.error("Falha ao carregar questões do duelo pelo content_store:", error);
+          qs = [];
+        }
+
+        if (qs.length === 0) {
+          qs = getTemaQuestionsByIds(temas, d.question_ids) as ContentQuestion[];
+        }
+
+        if (!active) return;
+
+        setQuestions(qs);
+        questionsRef.current = qs;
+        answersRef.current = new Array(qs.length).fill(null);
+        setAnswers(answersRef.current);
+        setTimeLeft(d.time_limit);
+        startTimeRef.current = Date.now();
+
+        if (qs.length === 0) {
+          toast({
+            title: "Questões do duelo indisponíveis",
+            description: "Não foi possível carregar as questões desse duelo agora.",
+            variant: "destructive",
+          });
+        }
+
+        setTimeout(() => {
+          if (active) setShowVS(false);
+        }, 2500);
+      } catch (error) {
+        console.error("Falha ao carregar o duelo:", error);
+        if (!active) return;
+        toast({
+          title: "Erro ao abrir duelo",
+          description: "Não foi possível carregar esse duelo agora.",
+          variant: "destructive",
+        });
+        setShowVS(false);
+      }
     })();
+
+    return () => {
+      active = false;
+    };
   }, [duelId, temas]);
 
   // Timer
