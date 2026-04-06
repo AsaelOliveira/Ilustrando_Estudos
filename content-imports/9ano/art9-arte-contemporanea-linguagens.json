@@ -1,0 +1,46 @@
+[
+  {
+    "id": "art9-arte-contemporanea-linguagens",
+    "titulo": "Arte contemporânea e múltiplas linguagens",
+    "disciplinaId": "art9",
+    "turmaId": "9ano",
+    "unidade": "Arte contemporânea",
+    "resumo": [
+      "A arte contemporânea reúne diferentes linguagens, materiais e formas de expressão.",
+      "Nesse campo, a obra pode provocar reflexão, questionamento e participação do público.",
+      "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Pluralidade de linguagens",
+        "texto": "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público.",
+        "dica": "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra."
+      },
+      {
+        "subtitulo": "Arte e reflexão social",
+        "texto": "Muitas produções contemporâneas abordam temas como identidade, memória, consumo, desigualdade e meio ambiente. Por isso, analisar essas obras também é uma forma de refletir sobre questões da sociedade atual.",
+        "dica": "Pergunte o que a obra quer comunicar e quais sensações ou ideias ela desperta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma instalação artística que utiliza objetos do cotidiano em um espaço expositivo.",
+        "passos": [
+          "Identifique os materiais utilizados.",
+          "Perceba como o espaço participa da obra.",
+          "Analise qual mensagem ou reflexão pode estar sendo proposta."
+        ],
+        "resposta": "Esse exemplo mostra como a arte contemporânea pode unir materiais, espaço e ideia em uma mesma produção."
+      }
+    ],
+    "exercicios": [
+      {"id":"art9-arte-contemporanea-linguagens-ex-01","enunciado":"A arte contemporânea se caracteriza por:","tipo":"multipla_escolha","alternativas":["usar diferentes linguagens e formas de expressão","aceitar apenas pintura clássica","rejeitar qualquer tema atual","limitar-se a uma única técnica"],"respostaCorreta":"usar diferentes linguagens e formas de expressão","explicacao":"A arte contemporânea amplia materiais, linguagens e modos de criação artística.","dificuldade":"facil"},
+      {"id":"art9-arte-contemporanea-linguagens-ex-02","enunciado":"Uma instalação artística pode envolver:","tipo":"multipla_escolha","alternativas":["objetos, espaço e participação do público","somente frases sem forma visual","apenas exercícios matemáticos","somente regras gramaticais"],"respostaCorreta":"objetos, espaço e participação do público","explicacao":"A instalação é uma linguagem em que materiais e ambiente fazem parte da obra.","dificuldade":"facil"},
+      {"id":"art9-arte-contemporanea-linguagens-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A arte contemporânea pode dialogar com questões sociais e culturais.","Arte contemporânea não permite reflexão crítica.","Toda obra contemporânea segue o mesmo formato tradicional.","O público nunca participa da experiência artística."],"respostaCorreta":"A arte contemporânea pode dialogar com questões sociais e culturais.","explicacao":"Muitas obras contemporâneas abordam temas relevantes da vida em sociedade.","dificuldade":"medio"},
+      {"id":"art9-arte-contemporanea-linguagens-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ampliar repertório cultural e leitura crítica de obras","decorar nomes sem interpretar produções artísticas","reduzir arte a um único padrão","ignorar relações entre arte e sociedade"],"respostaCorreta":"ampliar repertório cultural e leitura crítica de obras","explicacao":"O tema favorece análise, sensibilidade e compreensão de produções artísticas diversas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art9-arte-contemporanea-linguagens-sim-01","enunciado":"A principal característica da arte contemporânea destacada nesse tema é:","tipo":"multipla_escolha","alternativas":["a diversidade de linguagens e possibilidades de reflexão","a obrigação de seguir uma técnica única","a recusa de qualquer tema social","a ausência de experimentação artística"],"respostaCorreta":"a diversidade de linguagens e possibilidades de reflexão","explicacao":"A arte contemporânea se destaca pela variedade de formas, materiais e sentidos produzidos.","dificuldade":"medio"}
+    ]
+  }
+]

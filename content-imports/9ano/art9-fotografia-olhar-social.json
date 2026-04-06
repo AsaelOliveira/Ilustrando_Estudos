@@ -1,0 +1,46 @@
+[
+  {
+    "id": "art9-fotografia-olhar-social",
+    "titulo": "Fotografia e olhar social",
+    "disciplinaId": "art9",
+    "turmaId": "9ano",
+    "unidade": "Imagem e leitura crítica",
+    "resumo": [
+      "A fotografia pode registrar, interpretar e questionar aspectos da realidade social.",
+      "O olhar do fotógrafo influencia enquadramento, foco e sentidos da imagem.",
+      "Estudar esse tema amplia a leitura crítica das imagens no cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Fotografia como linguagem",
+        "texto": "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público.",
+        "dica": "Observe o que aparece na imagem e também o que ficou fora dela."
+      },
+      {
+        "subtitulo": "Imagem e questão social",
+        "texto": "Fotografias podem revelar desigualdades, costumes, paisagens urbanas, trabalho, memória e experiências coletivas. Por isso, interpretar imagens também é refletir sobre sociedade, contexto e intenção comunicativa.",
+        "dica": "Pergunte que tema social a fotografia evidencia e como os elementos visuais contribuem para essa leitura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma fotografia que retrata uma situação do cotidiano urbano.",
+        "passos": [
+          "Identifique o foco principal da imagem.",
+          "Perceba como o enquadramento orienta o olhar do observador.",
+          "Relacione a fotografia a uma questão social presente no cenário."
+        ],
+        "resposta": "Esse tipo de leitura mostra que a fotografia também constrói sentidos sobre a realidade."
+      }
+    ],
+    "exercicios": [
+      {"id":"art9-fotografia-olhar-social-ex-01","enunciado":"A fotografia pode ser entendida como:","tipo":"multipla_escolha","alternativas":["uma linguagem visual que produz sentidos","apenas uma cópia neutra da realidade","somente uma técnica sem intenção","um tipo de texto matemático"],"respostaCorreta":"uma linguagem visual que produz sentidos","explicacao":"A fotografia envolve escolhas que influenciam a interpretação da imagem.","dificuldade":"facil"},
+      {"id":"art9-fotografia-olhar-social-ex-02","enunciado":"O enquadramento em uma fotografia ajuda a:","tipo":"multipla_escolha","alternativas":["direcionar o olhar e construir significados","eliminar qualquer interpretação","apagar o tema fotografado","transformar imagem em regra gramatical"],"respostaCorreta":"direcionar o olhar e construir significados","explicacao":"A forma como a cena é enquadrada interfere no destaque e na leitura da imagem.","dificuldade":"facil"},
+      {"id":"art9-fotografia-olhar-social-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Fotografias podem contribuir para reflexão sobre questões sociais.","Toda imagem é neutra e sem contexto.","A fotografia não se relaciona com a realidade vivida.","O olhar do fotógrafo não interfere no resultado da imagem."],"respostaCorreta":"Fotografias podem contribuir para reflexão sobre questões sociais.","explicacao":"Muitas imagens trazem recortes da realidade e convidam à análise crítica de contextos sociais.","dificuldade":"medio"},
+      {"id":"art9-fotografia-olhar-social-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler imagens de modo mais crítico e atento","considerar toda fotografia como simples reprodução mecânica","ignorar contexto e intenção na análise visual","reduzir imagem a enfeite sem sentido"],"respostaCorreta":"ler imagens de modo mais crítico e atento","explicacao":"O conteúdo fortalece observação, interpretação e consciência visual.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art9-fotografia-olhar-social-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["fotografias também expressam escolhas, recortes e olhares sobre a realidade social","fotografia não produz sentido algum","imagens sempre mostram a realidade de forma totalmente neutra","o enquadramento não influencia a leitura visual"],"respostaCorreta":"fotografias também expressam escolhas, recortes e olhares sobre a realidade social","explicacao":"O tema mostra que a fotografia é linguagem e pode revelar perspectivas sobre o mundo.","dificuldade":"medio"}
+    ]
+  }
+]

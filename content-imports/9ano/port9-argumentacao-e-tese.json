@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port9-argumentacao-e-tese",
+    "titulo": "Argumentação e tese",
+    "disciplinaId": "port9",
+    "turmaId": "9ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A tese é a ideia central defendida em um texto argumentativo.",
+      "A argumentação organiza razões, exemplos e justificativas para sustentar um ponto de vista.",
+      "Estudar esse tema fortalece leitura crítica e escrita mais consistente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é tese",
+        "texto": "A tese corresponde à posição principal que o autor assume sobre determinado tema. Ela orienta o desenvolvimento do texto e ajuda o leitor a entender qual ideia está sendo defendida.",
+        "dica": "Pergunte qual é a opinião central do texto e de que modo ela aparece formulada."
+      },
+      {
+        "subtitulo": "Como os argumentos funcionam",
+        "texto": "Os argumentos servem para sustentar a tese por meio de razões, dados, comparações, exemplos e explicações. Um texto argumentativo fica mais forte quando apresenta justificativas coerentes e bem organizadas.",
+        "dica": "Observe se cada argumento realmente ajuda a defender a tese apresentada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que defende a importância da participação dos jovens na comunidade.",
+        "passos": [
+          "Identifique a ideia central defendida pelo autor.",
+          "Observe os argumentos usados para sustentar essa posição."
+        ],
+        "resposta": "Esse é um exemplo de texto organizado em torno de uma tese e de argumentos."
+      }
+    ],
+    "exercicios": [
+      {"id":"port9-argumentacao-e-tese-ex-01","enunciado":"A tese em um texto argumentativo é:","tipo":"multipla_escolha","alternativas":["a ideia central defendida pelo autor","a lista de palavras difíceis do texto","o título usado ao acaso","o conjunto de vírgulas do parágrafo"],"respostaCorreta":"a ideia central defendida pelo autor","explicacao":"A tese indica o posicionamento principal que orienta a argumentação.","dificuldade":"facil"},
+      {"id":"port9-argumentacao-e-tese-ex-02","enunciado":"Os argumentos têm a função de:","tipo":"multipla_escolha","alternativas":["sustentar a tese","apagar o tema do texto","substituir o leitor","eliminar qualquer opinião"],"respostaCorreta":"sustentar a tese","explicacao":"Os argumentos justificam e fortalecem a posição defendida pelo autor.","dificuldade":"facil"},
+      {"id":"port9-argumentacao-e-tese-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um texto argumentativo fica mais consistente quando tese e argumentos se relacionam com clareza.","A tese não precisa de justificativas em um texto argumentativo.","Argumentar é apenas repetir a mesma frase várias vezes.","Todo argumento funciona mesmo sem relação com o tema."],"respostaCorreta":"Um texto argumentativo fica mais consistente quando tese e argumentos se relacionam com clareza.","explicacao":"A força da argumentação depende da ligação coerente entre a posição defendida e suas justificativas.","dificuldade":"medio"},
+      {"id":"port9-argumentacao-e-tese-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler e escrever com mais criticidade e precisão","eliminar toda opinião da escrita","reduzir textos a frases soltas","dispensar organização de ideias"],"respostaCorreta":"ler e escrever com mais criticidade e precisão","explicacao":"O conteúdo fortalece a compreensão da defesa de pontos de vista e da construção de textos mais consistentes.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port9-argumentacao-e-tese-sim-01","enunciado":"A principal ideia desse tema é compreender que um texto argumentativo:","tipo":"multipla_escolha","alternativas":["depende de uma tese clara e de argumentos que a sustentem","dispensa qualquer justificativa","não apresenta ponto de vista","se constrói apenas por frases sem relação"],"respostaCorreta":"depende de uma tese clara e de argumentos que a sustentem","explicacao":"A argumentação exige organização de ideias em torno de uma posição defendida de forma coerente.","dificuldade":"medio"}
+    ]
+  }
+]

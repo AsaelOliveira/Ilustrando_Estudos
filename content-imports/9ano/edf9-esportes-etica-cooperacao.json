@@ -1,0 +1,46 @@
+[
+  {
+    "id": "edf9-esportes-etica-cooperacao",
+    "titulo": "Esportes, ética e cooperação",
+    "disciplinaId": "edf9",
+    "turmaId": "9ano",
+    "unidade": "Práticas esportivas",
+    "resumo": [
+      "O esporte envolve regras, estratégias, cooperação e respeito entre participantes.",
+      "A ética nas práticas esportivas favorece convivência, responsabilidade e fair play.",
+      "Estudar esse tema ajuda a compreender o esporte para além da competição."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Valores presentes no esporte",
+        "texto": "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal.",
+        "dica": "Observe como a atitude dos participantes influencia a qualidade da prática esportiva."
+      },
+      {
+        "subtitulo": "Ética e fair play",
+        "texto": "Agir com ética no esporte significa respeitar adversários, colegas, árbitros e regras do jogo. O fair play valoriza honestidade, autocontrole e cooperação, mesmo em contextos competitivos.",
+        "dica": "Pense no esporte como prática de convivência, e não apenas como disputa por resultado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que uma equipe mantém o respeito ao adversário mesmo após um resultado negativo.",
+        "passos": [
+          "Observe as atitudes dos participantes.",
+          "Perceba como o respeito aparece durante e após o jogo.",
+          "Relacione a situação à ética esportiva."
+        ],
+        "resposta": "Esse exemplo mostra que o esporte também educa para a convivência e para o autocontrole."
+      }
+    ],
+    "exercicios": [
+      {"id":"edf9-esportes-etica-cooperacao-ex-01","enunciado":"A ética no esporte envolve:","tipo":"multipla_escolha","alternativas":["respeito às regras e aos participantes","apenas vencer a qualquer custo","desconsiderar o adversário","ignorar a cooperação em equipe"],"respostaCorreta":"respeito às regras e aos participantes","explicacao":"A ética esportiva valoriza respeito, responsabilidade e convivência justa.","dificuldade":"facil"},
+      {"id":"edf9-esportes-etica-cooperacao-ex-02","enunciado":"O fair play está relacionado a:","tipo":"multipla_escolha","alternativas":["honestidade e atitude correta no jogo","uso de qualquer estratégia desleal","desobediência às regras","competição sem respeito"],"respostaCorreta":"honestidade e atitude correta no jogo","explicacao":"Fair play significa jogar com justiça, respeito e espírito esportivo.","dificuldade":"facil"},
+      {"id":"edf9-esportes-etica-cooperacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O esporte pode desenvolver cooperação, disciplina e respeito.","Práticas esportivas não ensinam nada sobre convivência.","Esporte é importante apenas pelo resultado final.","Regras atrapalham qualquer prática coletiva."],"respostaCorreta":"O esporte pode desenvolver cooperação, disciplina e respeito.","explicacao":"As práticas esportivas também favorecem aprendizagens sociais e éticas.","dificuldade":"medio"},
+      {"id":"edf9-esportes-etica-cooperacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["entender o esporte como prática corporal e social","reduzir o esporte a disputa sem valores","ignorar a importância das regras","separar movimento de convivência"],"respostaCorreta":"entender o esporte como prática corporal e social","explicacao":"O tema amplia a compreensão do esporte como espaço de saúde, respeito e cooperação.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"edf9-esportes-etica-cooperacao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["o esporte também educa para a ética, a cooperação e o respeito","competir dispensa qualquer valor coletivo","regras não têm função nas práticas esportivas","vencer sempre é mais importante que agir com respeito"],"respostaCorreta":"o esporte também educa para a ética, a cooperação e o respeito","explicacao":"O conteúdo mostra que o esporte envolve valores sociais importantes além do desempenho. ","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien9-energia-eletricidade-consumo",
+    "titulo": "Energia elétrica, consumo e sustentabilidade",
+    "disciplinaId": "cien9",
+    "turmaId": "9ano",
+    "unidade": "Física e sociedade",
+    "resumo": [
+      "A energia elétrica está presente em muitas atividades cotidianas e processos tecnológicos.",
+      "O consumo de energia envolve escolhas, custos e impactos ambientais.",
+      "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Uso da energia elétrica no cotidiano",
+        "texto": "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna.",
+        "dica": "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar."
+      },
+      {
+        "subtitulo": "Consumo consciente e impactos",
+        "texto": "O consumo de energia está relacionado ao gasto financeiro e também aos impactos ambientais da produção elétrica. Por isso, discutir eficiência e uso responsável é essencial para pensar sustentabilidade e cidadania.",
+        "dica": "Compare hábitos que economizam energia com práticas de desperdício no dia a dia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise duas casas: uma com lâmpadas eficientes e outra com desperdício frequente de energia.",
+        "passos": [
+          "Observe os hábitos de uso dos aparelhos.",
+          "Compare possíveis diferenças no consumo.",
+          "Reflita sobre o impacto econômico e ambiental dessas escolhas."
+        ],
+        "resposta": "Esse exemplo mostra que o consumo de energia depende de decisões cotidianas e pode ser mais sustentável."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien9-energia-eletricidade-consumo-ex-01","enunciado":"A energia elétrica está presente no cotidiano porque:","tipo":"multipla_escolha","alternativas":["alimenta aparelhos e sistemas usados no dia a dia","serve apenas para decorar ambientes","não interfere na vida moderna","é usada somente em laboratórios"],"respostaCorreta":"alimenta aparelhos e sistemas usados no dia a dia","explicacao":"A energia elétrica é fundamental para o funcionamento de muitos equipamentos e serviços.","dificuldade":"facil"},
+      {"id":"cien9-energia-eletricidade-consumo-ex-02","enunciado":"Falar em consumo consciente de energia significa:","tipo":"multipla_escolha","alternativas":["usar a energia de modo responsável e evitar desperdícios","deixar todos os aparelhos ligados o tempo todo","ignorar custos e impactos ambientais","considerar a energia um recurso sem limites"],"respostaCorreta":"usar a energia de modo responsável e evitar desperdícios","explicacao":"O consumo consciente busca equilíbrio entre necessidade, economia e sustentabilidade.","dificuldade":"facil"},
+      {"id":"cien9-energia-eletricidade-consumo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O consumo de energia envolve dimensões econômicas e ambientais.","A produção de energia não causa nenhum impacto ambiental.","Economizar energia não altera o consumo total.","Sustentabilidade não tem relação com eletricidade."],"respostaCorreta":"O consumo de energia envolve dimensões econômicas e ambientais.","explicacao":"Usar energia implica custos e também efeitos sobre os recursos e o ambiente.","dificuldade":"medio"},
+      {"id":"cien9-energia-eletricidade-consumo-ex-04","enunciado":"Uma atitude coerente com o tema é:","tipo":"multipla_escolha","alternativas":["apagar luzes desnecessárias e usar equipamentos com responsabilidade","desperdiçar energia sempre que houver tomada disponível","deixar aparelhos ligados sem uso","considerar irrelevante o impacto do consumo"],"respostaCorreta":"apagar luzes desnecessárias e usar equipamentos com responsabilidade","explicacao":"Pequenas atitudes no dia a dia podem reduzir desperdícios e estimular o uso consciente da energia.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien9-energia-eletricidade-consumo-sim-01","enunciado":"A principal contribuição do estudo da energia elétrica no 9º ano é:","tipo":"multipla_escolha","alternativas":["compreender o uso da eletricidade e refletir sobre consumo responsável","decorar nomes de aparelhos sem entender sua função","eliminar a relação entre ciência e cotidiano","tratar o consumo de energia como um tema sem importância social"],"respostaCorreta":"compreender o uso da eletricidade e refletir sobre consumo responsável","explicacao":"O tema aproxima ciência, tecnologia e cidadania ao discutir uso e impacto da energia elétrica.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist9-organismos-internacionais-direitos",
+    "titulo": "Organismos internacionais e direitos no mundo contemporâneo",
+    "disciplinaId": "hist9",
+    "turmaId": "9ano",
+    "unidade": "Mundo contemporâneo",
+    "resumo": [
+      "Organismos internacionais participam de debates e ações ligados à cooperação entre países.",
+      "Essas instituições se relacionam a temas como paz, direitos, desenvolvimento e acordos globais.",
+      "Estudar o tema ajuda a compreender a política internacional e seus desafios."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cooperação e relações internacionais",
+        "texto": "No mundo contemporâneo, diferentes organismos internacionais atuam em questões que envolvem diálogo entre países, resolução de conflitos, acordos e defesa de direitos. Essas instituições refletem disputas, interesses e tentativas de cooperação.",
+        "dica": "Observe que a atuação internacional envolve tanto negociação quanto divergências entre países."
+      },
+      {
+        "subtitulo": "Direitos e desafios globais",
+        "texto": "Temas como direitos humanos, desenvolvimento, conflitos e proteção de populações aparecem com frequência nas discussões internacionais. Compreender esse cenário ajuda a ler o mundo contemporâneo de forma mais ampla e crítica.",
+        "dica": "Pergunte como decisões internacionais podem afetar diferentes sociedades e territórios."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma situação em que vários países discutem medidas conjuntas para enfrentar um problema internacional.",
+        "passos": [
+          "Observe a necessidade de cooperação entre diferentes governos.",
+          "Perceba que interesses distintos também fazem parte do processo."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender o papel dos organismos internacionais no mundo contemporâneo."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist9-organismos-internacionais-direitos-ex-01","enunciado":"Organismos internacionais se relacionam a:","tipo":"multipla_escolha","alternativas":["cooperação entre países e temas globais","somente regras de acentuação","apenas cálculos de distância","unicamente produção artística local"],"respostaCorreta":"cooperação entre países e temas globais","explicacao":"Essas instituições participam de questões ligadas à política internacional, acordos e direitos.","dificuldade":"facil"},
+      {"id":"hist9-organismos-internacionais-direitos-ex-02","enunciado":"Um tema frequente nas discussões internacionais é:","tipo":"multipla_escolha","alternativas":["direitos humanos","divisão silábica","classificação de adjetivos","tipos de rima"],"respostaCorreta":"direitos humanos","explicacao":"A defesa de direitos e a cooperação global são assuntos recorrentes na atuação de organismos internacionais.","dificuldade":"facil"},
+      {"id":"hist9-organismos-internacionais-direitos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A política internacional envolve cooperação, disputas e interesses entre países.","Todos os países pensam e agem exatamente da mesma forma em organismos internacionais.","Questões globais não afetam a vida das populações.","Organismos internacionais não têm relação com direitos e desenvolvimento."],"respostaCorreta":"A política internacional envolve cooperação, disputas e interesses entre países.","explicacao":"O mundo contemporâneo combina negociações, conflitos e busca de acordos em escala internacional.","dificuldade":"medio"},
+      {"id":"hist9-organismos-internacionais-direitos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor os desafios e as relações do mundo contemporâneo","ignorar os impactos das decisões internacionais","achar que política internacional não interfere na vida social","separar totalmente direitos e relações entre países"],"respostaCorreta":"compreender melhor os desafios e as relações do mundo contemporâneo","explicacao":"O conteúdo amplia a compreensão sobre cooperação, conflitos e temas globais no cenário contemporâneo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist9-organismos-internacionais-direitos-sim-01","enunciado":"A principal ideia desse tema é compreender que o mundo contemporâneo:","tipo":"multipla_escolha","alternativas":["envolve cooperação internacional, disputas e debates sobre direitos e desenvolvimento","não depende de relações entre países","se organiza sem instituições e acordos globais","dispensa qualquer reflexão sobre política internacional"],"respostaCorreta":"envolve cooperação internacional, disputas e debates sobre direitos e desenvolvimento","explicacao":"A atuação de organismos internacionais ajuda a entender problemas, acordos e tensões que ultrapassam fronteiras nacionais.","dificuldade":"medio"}
+    ]
+  }
+]

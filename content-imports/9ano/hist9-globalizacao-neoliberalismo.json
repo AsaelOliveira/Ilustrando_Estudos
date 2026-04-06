@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist9-globalizacao-neoliberalismo",
+    "titulo": "Globalização e transformações econômicas contemporâneas",
+    "disciplinaId": "hist9",
+    "turmaId": "9ano",
+    "unidade": "Mundo contemporâneo",
+    "resumo": [
+      "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados.",
+      "Essas transformações influenciaram trabalho, consumo e relações entre países.",
+      "Estudar o tema ajuda a compreender processos históricos recentes em escala global."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudanças econômicas em escala global",
+        "texto": "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial.",
+        "dica": "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações."
+      },
+      {
+        "subtitulo": "Impactos históricos e sociais",
+        "texto": "As transformações econômicas contemporâneas produziram efeitos diferentes entre regiões e grupos sociais. Por isso, o estudo histórico desse tema exige atenção a contrastes, desigualdades e novas formas de integração mundial.",
+        "dica": "Pergunte quem se beneficia mais e quem enfrenta maiores dificuldades nesses processos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um contexto em que empresas passam a produzir em vários países ao mesmo tempo.",
+        "passos": [
+          "Observe a ampliação das conexões econômicas globais.",
+          "Perceba que essa dinâmica afeta trabalho, consumo e relações entre territórios."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender transformações econômicas recentes ligadas à globalização."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist9-globalizacao-neoliberalismo-ex-01","enunciado":"As transformações econômicas contemporâneas se relacionam à:","tipo":"multipla_escolha","alternativas":["circulação ampliada de capitais, mercadorias e informações","redução total das trocas entre países","eliminação de mudanças no trabalho","ausência de integração econômica"],"respostaCorreta":"circulação ampliada de capitais, mercadorias e informações","explicacao":"O mundo contemporâneo passou por intensa ampliação de fluxos econômicos e informacionais em escala global.","dificuldade":"facil"},
+      {"id":"hist9-globalizacao-neoliberalismo-ex-02","enunciado":"Essas mudanças influenciaram especialmente:","tipo":"multipla_escolha","alternativas":["trabalho, consumo e relações entre países","somente regras gramaticais","apenas a rotação da Terra","exclusivamente a formação do relevo"],"respostaCorreta":"trabalho, consumo e relações entre países","explicacao":"O processo alterou formas de produção, circulação e organização econômica internacional.","dificuldade":"facil"},
+      {"id":"hist9-globalizacao-neoliberalismo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.","Todos os países vivenciam as mudanças globais do mesmo modo.","A economia mundial recente não interfere na vida cotidiana das populações.","O tema não tem importância histórica."],"respostaCorreta":"As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.","explicacao":"O estudo histórico desse processo exige observar contrastes sociais, econômicos e regionais.","dificuldade":"medio"},
+      {"id":"hist9-globalizacao-neoliberalismo-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender mudanças recentes no funcionamento da economia mundial","ignorar relações entre economia e sociedade","separar totalmente história e globalização","pensar que os processos econômicos não afetam o trabalho"],"respostaCorreta":"compreender mudanças recentes no funcionamento da economia mundial","explicacao":"O conteúdo amplia a leitura histórica das transformações econômicas do mundo contemporâneo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist9-globalizacao-neoliberalismo-sim-01","enunciado":"A principal ideia desse tema é compreender que o mundo contemporâneo:","tipo":"multipla_escolha","alternativas":["passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais","deixou de ter relações econômicas entre países","não sofreu mudanças recentes na produção e no consumo","não apresenta impacto das conexões globais na vida social"],"respostaCorreta":"passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais","explicacao":"O estudo histórico da globalização econômica exige observar tanto integração quanto desigualdades produzidas nesse processo.","dificuldade":"medio"}
+    ]
+  }
+]

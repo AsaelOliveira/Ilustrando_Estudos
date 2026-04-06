@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port9-figuras-argumentativas-linguagem",
+    "titulo": "Figuras de linguagem e efeitos argumentativos",
+    "disciplinaId": "port9",
+    "turmaId": "9ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva.",
+      "Recursos como ironia, metáfora e repetição podem influenciar a leitura do texto.",
+      "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressividade e intenção",
+        "texto": "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento.",
+        "dica": "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação."
+      },
+      {
+        "subtitulo": "Leitura dos efeitos de sentido",
+        "texto": "Quando o leitor reconhece figuras de linguagem, entende melhor a intenção do autor, o tom do texto e os sentidos que vão além do plano literal. Isso fortalece a leitura crítica e a interpretação mais profunda.",
+        "dica": "Pergunte que efeito o uso daquela expressão causa na compreensão do argumento."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia uma frase argumentativa que use ironia para criticar uma situação social.",
+        "passos": [
+          "Observe que o sentido não está apenas nas palavras literais.",
+          "Perceba como a ironia reforça a crítica feita pelo autor."
+        ],
+        "resposta": "Esse exemplo mostra como a linguagem figurada pode fortalecer a argumentação."
+      }
+    ],
+    "exercicios": [
+      {"id":"port9-figuras-argumentativas-linguagem-ex-01","enunciado":"As figuras de linguagem podem ajudar a:","tipo":"multipla_escolha","alternativas":["intensificar sentidos e fortalecer argumentos","eliminar toda expressividade do texto","substituir completamente a tese","impedir a interpretação do leitor"],"respostaCorreta":"intensificar sentidos e fortalecer argumentos","explicacao":"Em muitos textos, as figuras de linguagem contribuem para reforçar ideias e efeitos argumentativos.","dificuldade":"facil"},
+      {"id":"port9-figuras-argumentativas-linguagem-ex-02","enunciado":"Um recurso de linguagem pode ser importante na argumentação porque:","tipo":"multipla_escolha","alternativas":["influencia o modo como o leitor percebe a mensagem","serve apenas para decorar o texto","não interfere no sentido do que está escrito","substitui a necessidade de justificar opiniões"],"respostaCorreta":"influencia o modo como o leitor percebe a mensagem","explicacao":"A linguagem participa da construção dos sentidos e da força persuasiva do texto.","dificuldade":"facil"},
+      {"id":"port9-figuras-argumentativas-linguagem-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.","A linguagem figurada não tem efeito sobre a argumentação.","Toda figura de linguagem torna o texto neutro.","O sentido literal é suficiente para entender qualquer texto argumentativo."],"respostaCorreta":"Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.","explicacao":"A leitura crítica depende da percepção dos efeitos de sentido produzidos pela escolha das palavras.","dificuldade":"medio"},
+      {"id":"port9-figuras-argumentativas-linguagem-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar melhor a expressividade e a força dos argumentos","reduzir o texto apenas ao sentido literal","ignorar a intenção do autor","pensar que a linguagem não interfere na persuasão"],"respostaCorreta":"interpretar melhor a expressividade e a força dos argumentos","explicacao":"O conteúdo amplia a percepção sobre como a linguagem atua na construção da argumentação.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port9-figuras-argumentativas-linguagem-sim-01","enunciado":"A principal ideia desse tema é compreender que a linguagem figurada:","tipo":"multipla_escolha","alternativas":["também pode atuar na defesa de ideias e na produção de efeitos argumentativos","não tem relação com textos argumentativos","serve apenas para poemas e canções","elimina a necessidade de interpretação"],"respostaCorreta":"também pode atuar na defesa de ideias e na produção de efeitos argumentativos","explicacao":"Figuras de linguagem podem reforçar o posicionamento do autor e tornar a argumentação mais expressiva.","dificuldade":"medio"}
+    ]
+  }
+]

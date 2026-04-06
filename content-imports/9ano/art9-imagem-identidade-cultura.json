@@ -1,0 +1,46 @@
+[
+  {
+    "id": "art9-imagem-identidade-cultura",
+    "titulo": "Imagem, identidade e cultura",
+    "disciplinaId": "art9",
+    "turmaId": "9ano",
+    "unidade": "Arte e sociedade",
+    "resumo": [
+      "As imagens podem expressar identidades, valores e experiências culturais.",
+      "A arte dialoga com memória, pertencimento e diversidade social.",
+      "Estudar esse tema fortalece a leitura crítica de produções visuais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Imagem como linguagem cultural",
+        "texto": "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos.",
+        "dica": "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra."
+      },
+      {
+        "subtitulo": "Arte e identidade",
+        "texto": "A produção artística também pode afirmar identidades individuais e coletivas. Ao analisar obras ligadas a território, memória e diversidade, o estudante percebe como a arte participa da construção de pertencimento e expressão cultural.",
+        "dica": "Pergunte como a obra se relaciona com a experiência de um grupo, de uma comunidade ou de um período."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma obra visual que represente costumes, símbolos ou histórias de uma comunidade.",
+        "passos": [
+          "Identifique elementos culturais presentes na imagem.",
+          "Perceba como esses elementos constroem significados.",
+          "Relacione a produção artística à ideia de identidade cultural."
+        ],
+        "resposta": "Esse tipo de análise mostra que a arte pode expressar pertencimento e memória coletiva."
+      }
+    ],
+    "exercicios": [
+      {"id":"art9-imagem-identidade-cultura-ex-01","enunciado":"As imagens podem comunicar:","tipo":"multipla_escolha","alternativas":["valores, identidades e referências culturais","apenas medidas matemáticas","somente regras gramaticais","unicamente nomes de lugares"],"respostaCorreta":"valores, identidades e referências culturais","explicacao":"A linguagem visual pode expressar experiências e sentidos ligados à vida social e cultural.","dificuldade":"facil"},
+      {"id":"art9-imagem-identidade-cultura-ex-02","enunciado":"Ao relacionar arte e identidade, analisamos:","tipo":"multipla_escolha","alternativas":["como obras podem expressar pertencimento e memória","somente o tamanho da moldura","apenas o preço de materiais artísticos","unicamente a data de impressão de um cartaz"],"respostaCorreta":"como obras podem expressar pertencimento e memória","explicacao":"A arte pode representar experiências coletivas e afirmar identidades culturais.","dificuldade":"facil"},
+      {"id":"art9-imagem-identidade-cultura-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A arte pode contribuir para refletir sobre diversidade cultural.","Toda imagem artística é neutra e sem contexto.","Identidade não tem relação com produção visual.","A leitura de imagens dispensa interpretação."],"respostaCorreta":"A arte pode contribuir para refletir sobre diversidade cultural.","explicacao":"Muitas produções visuais ajudam a discutir experiências, diferenças e pertencimentos sociais.","dificuldade":"medio"},
+      {"id":"art9-imagem-identidade-cultura-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver leitura crítica de imagens e culturas","reduzir a arte a decoração sem sentido","ignorar a diversidade social nas obras","analisar produções visuais sem observar contexto"],"respostaCorreta":"desenvolver leitura crítica de imagens e culturas","explicacao":"O conteúdo amplia a compreensão da arte como linguagem ligada à sociedade e à identidade.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art9-imagem-identidade-cultura-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["imagens e obras podem expressar identidade, cultura e memória","arte existe apenas para enfeitar ambientes","produção visual não tem relação com sociedade","identidade cultural não aparece em manifestações artísticas"],"respostaCorreta":"imagens e obras podem expressar identidade, cultura e memória","explicacao":"O tema mostra que a arte participa da construção e da expressão de sentidos culturais. ","dificuldade":"medio"}
+    ]
+  }
+]

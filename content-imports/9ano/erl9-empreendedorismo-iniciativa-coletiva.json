@@ -1,0 +1,46 @@
+[
+  {
+    "id": "erl9-empreendedorismo-iniciativa-coletiva",
+    "titulo": "Empreendedorismo e iniciativa coletiva",
+    "disciplinaId": "erl9",
+    "turmaId": "9ano",
+    "unidade": "Iniciativa e colaboração",
+    "resumo": [
+      "Empreender também pode significar criar soluções com impacto coletivo.",
+      "Iniciativa, colaboração e responsabilidade são importantes na construção de projetos.",
+      "Estudar esse tema ajuda a pensar ideias com organização e propósito social."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Iniciativa com propósito",
+        "texto": "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive.",
+        "dica": "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade."
+      },
+      {
+        "subtitulo": "Colaboração e execução",
+        "texto": "Empreendedorismo não depende apenas de criar ideias, mas também de organizar ações, dividir responsabilidades e acompanhar resultados. Quando o trabalho é coletivo, cooperação e escuta fazem diferença para o projeto avançar.",
+        "dica": "Uma proposta ganha força quando o grupo compartilha tarefas e objetivos com clareza."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma equipe que identifica um problema na escola e cria uma campanha para melhorar a situação.",
+        "passos": [
+          "Defina qual necessidade foi percebida.",
+          "Observe como a solução foi planejada.",
+          "Relacione a ação à ideia de iniciativa coletiva."
+        ],
+        "resposta": "Esse exemplo mostra que empreender também envolve cooperação e compromisso com o grupo."
+      }
+    ],
+    "exercicios": [
+      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-01","enunciado":"Empreender, nesse contexto, pode significar:","tipo":"multipla_escolha","alternativas":["criar soluções com organização e propósito","agir sem planejamento","esperar sempre que outros resolvam tudo","ignorar problemas do entorno"],"respostaCorreta":"criar soluções com organização e propósito","explicacao":"O empreendedorismo pode envolver iniciativa, planejamento e busca de soluções para necessidades reais.","dificuldade":"facil"},
+      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-02","enunciado":"A iniciativa coletiva depende de:","tipo":"multipla_escolha","alternativas":["cooperação e divisão de responsabilidades","isolamento de cada participante","falta de objetivos comuns","desorganização das tarefas"],"respostaCorreta":"cooperação e divisão de responsabilidades","explicacao":"Projetos coletivos funcionam melhor quando há participação articulada do grupo.","dificuldade":"facil"},
+      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.","Ter iniciativa significa agir sempre sozinho.","Projetos não precisam de organização para acontecer.","Colaboração atrapalha a execução de boas ideias."],"respostaCorreta":"Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.","explicacao":"Esse tema aproxima iniciativa e responsabilidade social em ações concretas.","dificuldade":"medio"},
+      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["pensar soluções com planejamento e colaboração","tratar ideias como algo sem execução possível","dispensar responsabilidade em projetos","reduzir iniciativas a improviso"],"respostaCorreta":"pensar soluções com planejamento e colaboração","explicacao":"O conteúdo fortalece organização, iniciativa e compromisso com o coletivo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"erl9-empreendedorismo-iniciativa-coletiva-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["iniciativa e colaboração podem gerar soluções com impacto positivo","empreender significa agir sem planejamento","projetos coletivos não precisam de organização","boas ideias não dependem de responsabilidade social"],"respostaCorreta":"iniciativa e colaboração podem gerar soluções com impacto positivo","explicacao":"O tema mostra que empreender também envolve propósito, cooperação e ação organizada.","dificuldade":"medio"}
+    ]
+  }
+]

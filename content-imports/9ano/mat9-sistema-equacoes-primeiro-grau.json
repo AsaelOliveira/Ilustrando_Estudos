@@ -1,0 +1,45 @@
+[
+  {
+    "id": "mat9-sistema-equacoes-primeiro-grau",
+    "titulo": "Sistemas de equações do 1º grau",
+    "disciplinaId": "mat9",
+    "turmaId": "9ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas.",
+      "Resolver um sistema significa encontrar valores que satisfaçam todas as equações ao mesmo tempo.",
+      "Esse conteúdo ajuda a modelar e resolver situações do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relação entre as equações",
+        "texto": "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente.",
+        "dica": "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema."
+      },
+      {
+        "subtitulo": "Leitura de problemas",
+        "texto": "Sistemas de equações aparecem em situações em que duas grandezas desconhecidas estão ligadas por mais de uma condição. Esse tipo de organização ajuda a transformar um problema em linguagem matemática.",
+        "dica": "Procure identificar quais informações do enunciado podem virar equações."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere o sistema x + y = 12 e x = 5.",
+        "passos": [
+          "Substitua x por 5 na primeira equação.",
+          "Calcule o valor de y a partir da relação restante."
+        ],
+        "resposta": "Se x = 5, então y = 7, e esse par resolve o sistema."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-01","enunciado":"Resolver um sistema de equações significa:","tipo":"multipla_escolha","alternativas":["encontrar valores que satisfaçam todas as equações","escolher qualquer número para as incógnitas","eliminar as variáveis sem interpretar o problema","substituir equações por desenhos"],"respostaCorreta":"encontrar valores que satisfaçam todas as equações","explicacao":"A solução de um sistema precisa tornar verdadeiras todas as equações ao mesmo tempo.","dificuldade":"facil"},
+      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-02","enunciado":"Um sistema de equações é útil para:","tipo":"multipla_escolha","alternativas":["representar relações entre grandezas desconhecidas","substituir todo cálculo por tentativa aleatória","eliminar qualquer leitura do enunciado","resolver apenas figuras geométricas planas"],"respostaCorreta":"representar relações entre grandezas desconhecidas","explicacao":"Sistemas ajudam a modelar problemas com mais de uma informação sobre as incógnitas.","dificuldade":"facil"},
+      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As equações de um sistema se relacionam e devem ser analisadas em conjunto.","Cada equação do sistema deve ser resolvida separadamente, sem relação alguma.","Resolver um sistema é escolher números aleatórios até funcionar.","O sistema só serve quando há uma única incógnita."],"respostaCorreta":"As equações de um sistema se relacionam e devem ser analisadas em conjunto.","explicacao":"O sistema representa condições conectadas que precisam ser satisfeitas simultaneamente.","dificuldade":"medio"},
+      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["modelar e resolver problemas com mais de uma condição","ignorar a relação entre grandezas","substituir álgebra por adivinhação","dispensar a interpretação do enunciado"],"respostaCorreta":"modelar e resolver problemas com mais de uma condição","explicacao":"O conteúdo amplia a capacidade de transformar situações do cotidiano em linguagem algébrica.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat9-sistema-equacoes-primeiro-grau-sim-01","enunciado":"A principal ideia desse tema é compreender que um sistema:","tipo":"multipla_escolha","alternativas":["reúne equações ligadas entre si e exige solução comum","deve ser resolvido sem relação entre suas partes","dispensa interpretação matemática","serve apenas para repetir contas sem significado"],"respostaCorreta":"reúne equações ligadas entre si e exige solução comum","explicacao":"Sistemas de equações organizam condições simultâneas e permitem interpretar relações entre incógnitas.","dificuldade":"medio"}
+    ]
+  }
+]

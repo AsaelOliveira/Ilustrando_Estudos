@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ing9-digital-life-critical-reading",
+    "titulo": "Digital life and critical reading",
+    "disciplinaId": "ing9",
+    "turmaId": "9ano",
+    "unidade": "Language and society",
+    "resumo": [
+      "English appears in many digital contexts, such as posts, videos, comments and news.",
+      "Critical reading helps students identify information, opinion and purpose in online texts.",
+      "This topic connects language learning with digital life and responsible interpretation."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Reading in digital contexts",
+        "texto": "Students often encounter English in online environments. Reading digital texts involves understanding vocabulary, recognizing the type of message and identifying what the author wants to communicate.",
+        "dica": "Look at titles, keywords and repeated expressions to identify the main message of a text."
+      },
+      {
+        "subtitulo": "Critical reading online",
+        "texto": "Reading critically means going beyond isolated words. It includes analyzing reliability, intention, point of view and the possible impact of digital messages in everyday life.",
+        "dica": "Ask who wrote the message, why it was written and whether the information seems trustworthy."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read a short online post in English about environmental action at school.",
+        "passos": [
+          "Identify the main idea of the post.",
+          "Observe whether the author is informing or expressing an opinion.",
+          "Reflect on the purpose of the message."
+        ],
+        "resposta": "This example shows how English reading in digital life also requires interpretation and critical attention."
+      }
+    ],
+    "exercicios": [
+      {"id":"ing9-digital-life-critical-reading-ex-01","enunciado":"Critical reading helps students:","tipo":"multipla_escolha","alternativas":["analyze information and purpose in a text","ignore the meaning of the message","focus only on isolated letters","avoid interpretation"],"respostaCorreta":"analyze information and purpose in a text","explicacao":"Critical reading involves understanding what a text says and why it was produced.","dificuldade":"facil"},
+      {"id":"ing9-digital-life-critical-reading-ex-02","enunciado":"English in digital life may appear in:","tipo":"multipla_escolha","alternativas":["posts, comments and online news","only mathematics notebooks","just geography maps","only science formulas"],"respostaCorreta":"posts, comments and online news","explicacao":"Digital environments expose students to many English-language texts and messages.","dificuldade":"facil"},
+      {"id":"ing9-digital-life-critical-reading-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Reading online texts critically helps students interpret information more responsibly.","Digital texts should be read without attention to purpose.","Every online text is automatically reliable.","English in digital media has no relevance for language learning."],"respostaCorreta":"Reading online texts critically helps students interpret information more responsibly.","explicacao":"The topic connects language learning with careful analysis of digital communication.","dificuldade":"medio"},
+      {"id":"ing9-digital-life-critical-reading-ex-04","enunciado":"Studying this topic helps students:","tipo":"multipla_escolha","alternativas":["connect English reading to online communication and interpretation","avoid digital texts completely","ignore author intention in messages","treat every text as neutral and identical"],"respostaCorreta":"connect English reading to online communication and interpretation","explicacao":"The content strengthens reading skills in meaningful and current contexts.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"ing9-digital-life-critical-reading-sim-01","enunciado":"The main idea of this topic is:","tipo":"multipla_escolha","alternativas":["English reading in digital life also requires critical interpretation","digital communication has no relation to language learning","online texts should never be analyzed critically","language study must ignore contemporary communication"],"respostaCorreta":"English reading in digital life also requires critical interpretation","explicacao":"The topic joins language comprehension with responsible reading of online texts.","dificuldade":"medio"}
+    ]
+  }
+]

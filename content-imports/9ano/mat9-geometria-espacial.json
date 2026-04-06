@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat9-geometria-espacial",
+    "titulo": "Geometria espacial",
+    "disciplinaId": "mat9",
+    "turmaId": "9ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "A geometria espacial estuda sólidos e suas características no espaço.",
+      "Prismas, pirâmides, cilindros, cones e esferas aparecem em várias situações do cotidiano.",
+      "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Sólidos geométricos e suas propriedades",
+        "texto": "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas.",
+        "dica": "Compare objetos do cotidiano com sólidos geométricos para identificar suas características."
+      },
+      {
+        "subtitulo": "Relação entre forma e medida",
+        "texto": "O estudo da geometria espacial também envolve análise de área e volume. Isso permite compreender capacidade, ocupação de espaço e características das formas em problemas práticos e matemáticos.",
+        "dica": "Sempre diferencie área de superfície e volume, pois cada medida representa uma ideia distinta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma caixa, uma lata e uma bola.",
+        "passos": [
+          "Associe a caixa a um prisma.",
+          "Relacione a lata a um cilindro.",
+          "Compare a bola a uma esfera."
+        ],
+        "resposta": "Esse exemplo mostra como a geometria espacial ajuda a interpretar formas presentes no cotidiano."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat9-geometria-espacial-ex-01","enunciado":"A geometria espacial estuda principalmente:","tipo":"multipla_escolha","alternativas":["figuras tridimensionais","somente retas no plano","apenas sílabas e acentos","exclusivamente gráficos estatísticos"],"respostaCorreta":"figuras tridimensionais","explicacao":"A geometria espacial analisa sólidos e formas com três dimensões.","dificuldade":"facil"},
+      {"id":"mat9-geometria-espacial-ex-02","enunciado":"Qual objeto se aproxima de um cilindro?","tipo":"multipla_escolha","alternativas":["uma lata","uma folha de papel","um triângulo desenhado","uma reta numérica"],"respostaCorreta":"uma lata","explicacao":"A lata tem bases circulares e superfície lateral curva, características do cilindro.","dificuldade":"facil"},
+      {"id":"mat9-geometria-espacial-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Volume está relacionado ao espaço ocupado por um sólido.","Volume e perímetro representam exatamente a mesma medida.","Todo sólido geométrico possui apenas uma dimensão.","Geometria espacial não tem aplicação no cotidiano."],"respostaCorreta":"Volume está relacionado ao espaço ocupado por um sólido.","explicacao":"O volume indica a capacidade ou o espaço interno ocupado pelo sólido.","dificuldade":"medio"},
+      {"id":"mat9-geometria-espacial-ex-04","enunciado":"Estudar geometria espacial ajuda a:","tipo":"multipla_escolha","alternativas":["compreender formas, medidas e ocupação do espaço","ignorar objetos tridimensionais do cotidiano","substituir toda a geometria plana","eliminar a necessidade de observação das formas"],"respostaCorreta":"compreender formas, medidas e ocupação do espaço","explicacao":"O conteúdo permite analisar sólidos, superfícies e volumes em situações reais e matemáticas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat9-geometria-espacial-sim-01","enunciado":"A principal importância da geometria espacial é:","tipo":"multipla_escolha","alternativas":["interpretar sólidos e medidas no espaço tridimensional","estudar apenas desenhos sem medida","substituir completamente a álgebra","eliminar o uso de formas geométricas no cotidiano"],"respostaCorreta":"interpretar sólidos e medidas no espaço tridimensional","explicacao":"A geometria espacial ajuda a compreender as formas e o espaço em diferentes contextos.","dificuldade":"medio"}
+    ]
+  }
+]

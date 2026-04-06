@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien9-ecologia-impactos-humanos",
+    "titulo": "Ecologia e impactos humanos",
+    "disciplinaId": "cien9",
+    "turmaId": "9ano",
+    "unidade": "Vida e ambiente",
+    "resumo": [
+      "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem.",
+      "As ações humanas podem alterar essas relações e provocar impactos ambientais.",
+      "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relações ecológicas e equilíbrio",
+        "texto": "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida.",
+        "dica": "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema."
+      },
+      {
+        "subtitulo": "Interferência humana no ambiente",
+        "texto": "Atividades humanas como desmatamento, poluição, descarte inadequado de resíduos e uso excessivo de recursos naturais podem alterar ecossistemas e comprometer o equilíbrio ecológico. Por isso, a ação humana deve ser analisada com responsabilidade.",
+        "dica": "Pergunte como as escolhas humanas podem afetar seres vivos, água, solo e ar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma área natural que sofre desmatamento intenso.",
+        "passos": [
+          "Observe a perda de habitat para diferentes organismos.",
+          "Perceba que a alteração pode afetar cadeias alimentares e outros processos ecológicos."
+        ],
+        "resposta": "Esse exemplo mostra como ações humanas podem interferir no equilíbrio ambiental."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien9-ecologia-impactos-humanos-ex-01","enunciado":"A ecologia estuda:","tipo":"multipla_escolha","alternativas":["as relações entre seres vivos e ambiente","somente a ortografia das palavras","apenas o cálculo de áreas geométricas","a formação exclusiva das rochas"],"respostaCorreta":"as relações entre seres vivos e ambiente","explicacao":"Esse campo da ciência analisa como os organismos interagem entre si e com o meio em que vivem.","dificuldade":"facil"},
+      {"id":"cien9-ecologia-impactos-humanos-ex-02","enunciado":"Uma ação humana que pode causar impacto ambiental é:","tipo":"multipla_escolha","alternativas":["desmatamento","leitura de poemas","uso de vírgulas","cálculo de médias"],"respostaCorreta":"desmatamento","explicacao":"O desmatamento altera habitats e interfere nas relações ecológicas do ambiente.","dificuldade":"facil"},
+      {"id":"cien9-ecologia-impactos-humanos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As ações humanas podem comprometer o equilíbrio ecológico.","O ambiente natural não sofre qualquer influência da atividade humana.","Ecologia não tem relação com responsabilidade socioambiental.","Toda interferência humana melhora automaticamente os ecossistemas."],"respostaCorreta":"As ações humanas podem comprometer o equilíbrio ecológico.","explicacao":"A atuação humana pode modificar ecossistemas e gerar desequilíbrios ambientais importantes.","dificuldade":"medio"},
+      {"id":"cien9-ecologia-impactos-humanos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender relações ecológicas e impactos ambientais","ignorar a responsabilidade humana diante do ambiente","separar totalmente sociedade e natureza","pensar que ecossistemas não mudam"],"respostaCorreta":"compreender relações ecológicas e impactos ambientais","explicacao":"O conteúdo amplia a compreensão do funcionamento dos ecossistemas e da responsabilidade socioambiental.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien9-ecologia-impactos-humanos-sim-01","enunciado":"A principal ideia desse tema é compreender que o ambiente:","tipo":"multipla_escolha","alternativas":["depende de relações ecológicas que podem ser alteradas pelas ações humanas","não sofre qualquer transformação com a presença humana","funciona sem conexão entre os seres vivos","não precisa ser analisado em relação à responsabilidade social"],"respostaCorreta":"depende de relações ecológicas que podem ser alteradas pelas ações humanas","explicacao":"Ecologia e impactos humanos se relacionam diretamente na compreensão do equilíbrio ambiental e da ação social.","dificuldade":"medio"}
+    ]
+  }
+]

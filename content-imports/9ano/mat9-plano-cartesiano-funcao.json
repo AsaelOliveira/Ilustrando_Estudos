@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mat9-plano-cartesiano-funcao",
+    "titulo": "Plano cartesiano e representação de funções",
+    "disciplinaId": "mat9",
+    "turmaId": "9ano",
+    "unidade": "Álgebra e representação gráfica",
+    "resumo": [
+      "O plano cartesiano permite localizar pontos e representar relações matemáticas graficamente.",
+      "A representação de funções no plano ajuda a visualizar variações entre grandezas.",
+      "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Localização de pontos",
+        "texto": "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico.",
+        "dica": "Observe sempre a posição do ponto em relação aos dois eixos."
+      },
+      {
+        "subtitulo": "Função em forma de gráfico",
+        "texto": "Quando representamos uma função no plano cartesiano, podemos visualizar como os valores de uma grandeza dependem dos valores da outra. O gráfico ajuda a perceber crescimento, variação e comportamento da função.",
+        "dica": "Compare os valores da expressão com sua posição no gráfico para entender a relação entre as grandezas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere a função y = x + 2 e o valor x = 1.",
+        "passos": [
+          "Substitua x por 1 na expressão.",
+          "Encontre y = 3.",
+          "Represente o ponto correspondente no plano cartesiano."
+        ],
+        "resposta": "O ponto (1, 3) representa essa relação no gráfico."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat9-plano-cartesiano-funcao-ex-01","enunciado":"O plano cartesiano serve para:","tipo":"multipla_escolha","alternativas":["localizar pontos e representar relações graficamente","substituir todas as expressões algébricas","eliminar o uso de números em gráficos","desenhar apenas figuras sem medida"],"respostaCorreta":"localizar pontos e representar relações graficamente","explicacao":"O plano cartesiano é uma ferramenta importante para a leitura e a representação de relações matemáticas.","dificuldade":"facil"},
+      {"id":"mat9-plano-cartesiano-funcao-ex-02","enunciado":"Um ponto no plano cartesiano é identificado por:","tipo":"multipla_escolha","alternativas":["um par ordenado","uma cor específica","uma frase escrita","um tipo de triângulo"],"respostaCorreta":"um par ordenado","explicacao":"As coordenadas do ponto indicam sua posição em relação aos eixos do plano.","dificuldade":"facil"},
+      {"id":"mat9-plano-cartesiano-funcao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.","Funções não podem ser representadas graficamente.","O plano cartesiano não se relaciona à álgebra.","Todo gráfico dispensa interpretação dos valores."
+],"respostaCorreta":"O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.","explicacao":"A representação gráfica permite compreender melhor a dependência entre variáveis.","dificuldade":"medio"},
+      {"id":"mat9-plano-cartesiano-funcao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar relações algébricas por meio de gráficos","ignorar o comportamento das funções","substituir toda leitura gráfica por adivinhação","pensar que eixos e coordenadas não têm utilidade"],"respostaCorreta":"interpretar relações algébricas por meio de gráficos","explicacao":"O conteúdo fortalece a leitura gráfica e a articulação entre expressão algébrica e representação no plano.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat9-plano-cartesiano-funcao-sim-01","enunciado":"A principal ideia desse tema é compreender que o plano cartesiano:","tipo":"multipla_escolha","alternativas":["ajuda a representar e interpretar relações entre variáveis","serve apenas para decorar nomes de eixos","não tem relação com funções","substitui qualquer cálculo algébrico"],"respostaCorreta":"ajuda a representar e interpretar relações entre variáveis","explicacao":"O plano cartesiano amplia a leitura de funções e de suas representações gráficas.","dificuldade":"medio"}
+    ]
+  }
+]

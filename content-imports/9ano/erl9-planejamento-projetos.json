@@ -1,0 +1,46 @@
+[
+  {
+    "id": "erl9-planejamento-projetos",
+    "titulo": "Planejamento, projetos e tomada de decisão",
+    "disciplinaId": "erl9",
+    "turmaId": "9ano",
+    "unidade": "Organização e iniciativa",
+    "resumo": [
+      "Planejar é definir objetivos, etapas, recursos e estratégias para realizar uma ação.",
+      "Projetos exigem organização, cooperação, análise de problemas e tomada de decisão.",
+      "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Planejamento e clareza de objetivos",
+        "texto": "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência.",
+        "dica": "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários?"
+      },
+      {
+        "subtitulo": "Decidir com responsabilidade",
+        "texto": "Tomar decisões em projetos envolve analisar possibilidades, consequências e prioridades. Esse processo desenvolve raciocínio lógico, organização e responsabilidade diante de desafios reais.",
+        "dica": "Boas decisões costumam considerar informações, alternativas e impactos das escolhas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo que precisa organizar uma ação solidária na escola.",
+        "passos": [
+          "Defina o objetivo da ação.",
+          "Liste materiais, tempo e responsabilidades.",
+          "Avalie quais decisões precisam ser tomadas para que o projeto funcione."
+        ],
+        "resposta": "Esse exemplo mostra como planejamento e decisão ajudam a transformar ideias em ações concretas."
+      }
+    ],
+    "exercicios": [
+      {"id":"erl9-planejamento-projetos-ex-01","enunciado":"Planejar significa:","tipo":"multipla_escolha","alternativas":["organizar objetivos, etapas e recursos","agir sem definir metas","tomar decisões aleatórias","ignorar possíveis dificuldades"],"respostaCorreta":"organizar objetivos, etapas e recursos","explicacao":"O planejamento dá direção e estrutura a uma ação ou projeto.","dificuldade":"facil"},
+      {"id":"erl9-planejamento-projetos-ex-02","enunciado":"Um projeto bem organizado costuma envolver:","tipo":"multipla_escolha","alternativas":["metas claras e divisão de tarefas","falta de objetivo","improvisação permanente","ausência de acompanhamento"],"respostaCorreta":"metas claras e divisão de tarefas","explicacao":"Projetos funcionam melhor quando há objetivos definidos e responsabilidades distribuídas.","dificuldade":"facil"},
+      {"id":"erl9-planejamento-projetos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Tomar decisões exige analisar alternativas e consequências.","Toda decisão deve ser tomada sem informação.","Planejamento não ajuda em projetos escolares ou sociais.","Organização impede a criatividade."],"respostaCorreta":"Tomar decisões exige analisar alternativas e consequências.","explicacao":"Decidir bem envolve reflexão, análise e responsabilidade.","dificuldade":"medio"},
+      {"id":"erl9-planejamento-projetos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais autonomia e responsabilidade","evitar qualquer forma de cooperação","dispensar metas e prazos","reduzir projetos a ideias sem execução"],"respostaCorreta":"agir com mais autonomia e responsabilidade","explicacao":"Planejamento e tomada de decisão fortalecem iniciativa e organização.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"erl9-planejamento-projetos-sim-01","enunciado":"A principal contribuição do tema é:","tipo":"multipla_escolha","alternativas":["desenvolver organização, iniciativa e decisões mais conscientes","substituir toda ação por improviso","eliminar a necessidade de objetivos em projetos","tratar decisões como escolhas sem consequência"],"respostaCorreta":"desenvolver organização, iniciativa e decisões mais conscientes","explicacao":"O conteúdo ajuda a planejar melhor ações, projetos e soluções para problemas reais.","dificuldade":"medio"}
+    ]
+  }
+]

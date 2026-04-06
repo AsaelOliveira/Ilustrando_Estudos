@@ -1,0 +1,46 @@
+[
+  {
+    "id": "esp9-lectura-critica-mensajes",
+    "titulo": "Lectura crítica de mensajes",
+    "disciplinaId": "esp9",
+    "turmaId": "9ano",
+    "unidade": "Comprensión e interpretación",
+    "resumo": [
+      "Leer críticamente implica identificar intención, información y punto de vista en un mensaje.",
+      "El español puede ser estudiado por medio de textos breves que circulan en la vida cotidiana.",
+      "Este tema fortalece comprensión, análisis y uso consciente de la lengua."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Leer más allá de las palabras",
+        "texto": "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista.",
+        "dica": "Observa si el texto informa, opina, invita, critica o intenta convencer."
+      },
+      {
+        "subtitulo": "Mensajes y vida cotidiana",
+        "texto": "Comentarios, avisos, publicaciones y noticias breves permiten estudiar el español en contextos vivos y cercanos. Esa práctica fortalece la relación entre lengua, comunicación e interpretación crítica.",
+        "dica": "Relaciona el texto leído con situaciones reales de comunicación en el cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Lee un mensaje breve en español sobre convivencia en la escuela.",
+        "passos": [
+          "Identifica el tema principal.",
+          "Observa la intención del mensaje.",
+          "Analiza si hay opinión, orientación o llamada a la acción."
+        ],
+        "resposta": "Este ejemplo muestra que leer críticamente ayuda a comprender mejor el sentido y la intención de un texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp9-lectura-critica-mensajes-ex-01","enunciado":"Leer críticamente significa:","tipo":"multipla_escolha","alternativas":["analizar intención y sentido del mensaje","solo repetir palabras del texto","ignorar el punto de vista presentado","memorizar frases sin contexto"],"respostaCorreta":"analizar intención y sentido del mensaje","explicacao":"La lectura crítica busca comprender no solo qué se dice, sino también cómo y con qué objetivo.","dificuldade":"facil"},
+      {"id":"esp9-lectura-critica-mensajes-ex-02","enunciado":"Un mensaje puede tener la intención de:","tipo":"multipla_escolha","alternativas":["informar, opinar o convencer","solo decorar una página","eliminar la comunicación","evitar cualquier interpretación"],"respostaCorreta":"informar, opinar o convencer","explicacao":"Los textos pueden cumplir distintas funciones comunicativas según su contexto.","dificuldade":"facil"},
+      {"id":"esp9-lectura-critica-mensajes-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Los textos breves también pueden ser analizados de forma crítica.","Solo textos largos permiten interpretación.","La intención del mensaje no importa en la lectura.","Comprender un texto es repetir cada palabra sin pensar."],"respostaCorreta":"Los textos breves también pueden ser analizados de forma crítica.","explicacao":"La lectura crítica puede aplicarse a distintos tipos de mensajes, incluso breves y cotidianos.","dificuldade":"medio"},
+      {"id":"esp9-lectura-critica-mensajes-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar el español para comprender mensajes de manera consciente y crítica","leer sin observar intención ni contexto","separar lengua y comunicación","evitar el análisis de textos cotidianos"],"respostaCorreta":"usar el español para comprender mensajes de manera consciente y crítica","explicacao":"El contenido fortalece interpretación, análisis y uso significativo de la lengua.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp9-lectura-critica-mensajes-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["leer críticamente es comprender intención, punto de vista y sentido en los mensajes","todo texto debe leerse sin reflexión","la intención del mensaje no forma parte de la comprensión","la lengua no se relaciona con contextos cotidianos"],"respostaCorreta":"leer críticamente es comprender intención, punto de vista y sentido en los mensajes","explicacao":"El tema une comprensión lectora, análisis del mensaje y uso real del idioma.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien9-genetica-hereditariedade",
+    "titulo": "Genética e hereditariedade",
+    "disciplinaId": "cien9",
+    "turmaId": "9ano",
+    "unidade": "Vida e evolução",
+    "resumo": [
+      "A genética estuda a transmissão de características entre gerações.",
+      "A hereditariedade ajuda a explicar semelhanças e diferenças entre os seres vivos.",
+      "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Transmissão de características",
+        "texto": "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família.",
+        "dica": "Observe que herança biológica não significa repetição exata, mas transmissão de informações."
+      },
+      {
+        "subtitulo": "Genética e diversidade",
+        "texto": "A genética também ajuda a compreender por que os seres vivos apresentam variações entre si. Essas diferenças fazem parte da diversidade biológica e estão ligadas aos mecanismos de herança.",
+        "dica": "Pense em como semelhanças e diferenças podem coexistir dentro de um mesmo grupo familiar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma família em que algumas pessoas possuem características físicas semelhantes, mas não idênticas.",
+        "passos": [
+          "Observe que há traços herdados entre gerações.",
+          "Perceba que também existem diferenças individuais."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender a relação entre hereditariedade e diversidade."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien9-genetica-hereditariedade-ex-01","enunciado":"A hereditariedade está relacionada à:","tipo":"multipla_escolha","alternativas":["transmissão de características entre gerações","mudança do clima em curto prazo","classificação de verbos em frases","localização de cidades no mapa"],"respostaCorreta":"transmissão de características entre gerações","explicacao":"Esse é o núcleo do estudo da herança biológica em genética.","dificuldade":"facil"},
+      {"id":"cien9-genetica-hereditariedade-ex-02","enunciado":"A genética ajuda a compreender:","tipo":"multipla_escolha","alternativas":["semelhanças e diferenças entre os seres vivos","somente o ciclo da água","apenas a formação das rochas","exclusivamente a pontuação dos textos"],"respostaCorreta":"semelhanças e diferenças entre os seres vivos","explicacao":"A genética explica como características são transmitidas e por que há variações biológicas.","dificuldade":"facil"},
+      {"id":"cien9-genetica-hereditariedade-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A hereditariedade ajuda a explicar traços compartilhados entre gerações.","Todos os indivíduos de uma família são biologicamente idênticos.","Genética não tem relação com diversidade biológica.","Características herdadas não variam entre os seres vivos."],"respostaCorreta":"A hereditariedade ajuda a explicar traços compartilhados entre gerações.","explicacao":"A transmissão de características está ligada à herança biológica observada em diferentes organismos.","dificuldade":"medio"},
+      {"id":"cien9-genetica-hereditariedade-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a diversidade e a herança biológica","pensar que todos os organismos são iguais","ignorar a transmissão de características","separar totalmente genética e vida cotidiana"],"respostaCorreta":"compreender melhor a diversidade e a herança biológica","explicacao":"O tema fortalece a compreensão científica sobre características, variações e transmissão biológica.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien9-genetica-hereditariedade-sim-01","enunciado":"A principal ideia desse tema é compreender que a genética:","tipo":"multipla_escolha","alternativas":["estuda a herança biológica e a diversidade dos seres vivos","se limita apenas a nomes científicos decorados","não tem relação com famílias ou gerações","explica apenas fenômenos geológicos"],"respostaCorreta":"estuda a herança biológica e a diversidade dos seres vivos","explicacao":"A genética ajuda a explicar tanto a transmissão de características quanto as variações entre organismos.","dificuldade":"medio"}
+    ]
+  }
+]

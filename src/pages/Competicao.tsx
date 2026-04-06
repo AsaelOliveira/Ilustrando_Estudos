@@ -465,12 +465,37 @@ export default function Competicao() {
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
-          className="mt-10 glass-card rounded-2xl p-6"
+          className="mt-10 overflow-hidden rounded-[1.8rem] border border-primary/10 bg-[linear-gradient(135deg,rgba(255,255,255,0.95)_0%,rgba(240,253,250,0.95)_100%)] p-5 shadow-sm"
         >
-          <h2 className="font-heading font-bold text-lg text-foreground flex items-center gap-2 mb-4">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+            <div className="min-w-0">
+              <p className="inline-flex items-center gap-2 rounded-full bg-primary/8 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-primary/80">
+                <Shield className="h-3.5 w-3.5" />
+                Em breve
+              </p>
+              <h2 className="mt-3 font-heading text-lg font-bold text-foreground">
+                Próximas fases da competição
+              </h2>
+              <p className="mt-1 max-w-2xl text-sm font-body text-muted-foreground">
+                Este ano a competição está focada na fase online. As etapas interclasses e presenciais serão liberadas no momento certo.
+              </p>
+            </div>
+            <div className="rounded-2xl border border-primary/10 bg-white/80 px-4 py-3 text-left shadow-sm sm:min-w-[210px]">
+              <p className="text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-primary/70">
+                Status
+              </p>
+              <p className="mt-1 font-heading text-base font-bold text-foreground">
+                Planejamento futuro
+              </p>
+              <p className="mt-1 text-xs font-body text-muted-foreground">
+                Sem impacto no ranking atual.
+              </p>
+            </div>
+          </div>
+          <h2 className="hidden font-heading font-bold text-lg text-foreground flex items-center gap-2 mb-4">
             <Shield className="h-5 w-5 text-primary" /> Etapas da Competição
           </h2>
-          <div className="space-y-3">
+          <div className="hidden space-y-3">
             {[
               { n: 1, title: "Fase Online", desc: "Missões diárias. Acumule pontos!", color: "bg-primary/10 text-primary" },
               { n: 2, title: "Semifinal Interclasse", desc: "Os melhores de cada turma se enfrentam.", color: "bg-accent/10 text-accent" },

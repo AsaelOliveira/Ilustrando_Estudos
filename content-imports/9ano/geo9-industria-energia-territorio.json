@@ -1,0 +1,45 @@
+[
+  {
+    "id": "geo9-industria-energia-territorio",
+    "titulo": "Indústria, energia e território",
+    "disciplinaId": "geo9",
+    "turmaId": "9ano",
+    "unidade": "Espaço geográfico e produção",
+    "resumo": [
+      "A indústria e a produção de energia influenciam fortemente a organização do território.",
+      "Essas atividades se relacionam a infraestrutura, circulação e uso de recursos naturais.",
+      "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Produção e organização espacial",
+        "texto": "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa.",
+        "dica": "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas."
+      },
+      {
+        "subtitulo": "Impactos e recursos",
+        "texto": "A produção industrial e energética também envolve uso de recursos naturais e pode gerar impactos ambientais e sociais. Esse olhar ajuda a interpretar o espaço geográfico de modo mais crítico.",
+        "dica": "Pergunte como o desenvolvimento econômico se articula a questões ambientais e territoriais."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma região onde a instalação de indústrias atrai infraestrutura e altera o uso do espaço.",
+        "passos": [
+          "Observe a mudança na dinâmica econômica da área.",
+          "Perceba os efeitos sobre circulação, trabalho e ambiente."
+        ],
+        "resposta": "Esse exemplo mostra como indústria e território se relacionam de forma direta."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo9-industria-energia-territorio-ex-01","enunciado":"A indústria pode influenciar o território por meio de:","tipo":"multipla_escolha","alternativas":["empregos, infraestrutura e circulação","apenas mudanças no vocabulário","somente fenômenos literários","eliminação total do uso de recursos"],"respostaCorreta":"empregos, infraestrutura e circulação","explicacao":"A atividade industrial interfere na organização espacial e na dinâmica econômica dos lugares.","dificuldade":"facil"},
+      {"id":"geo9-industria-energia-territorio-ex-02","enunciado":"A produção de energia está relacionada a:","tipo":"multipla_escolha","alternativas":["uso de recursos e organização do espaço","apenas atividades sem impacto territorial","ausência de infraestrutura","somente decisões linguísticas"],"respostaCorreta":"uso de recursos e organização do espaço","explicacao":"A energia depende de recursos, técnicas e infraestrutura que afetam o território.","dificuldade":"facil"},
+      {"id":"geo9-industria-energia-territorio-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.","Essas atividades não têm relação com o espaço geográfico.","Produção industrial não depende de infraestrutura.","Energia e território não se conectam."],"respostaCorreta":"Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.","explicacao":"O tema mostra como economia, recursos e território se articulam de forma complexa.","dificuldade":"medio"},
+      {"id":"geo9-industria-energia-territorio-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar relações entre produção, recursos e território","pensar que economia e espaço não se conectam","ignorar impactos ambientais da produção","reduzir a geografia a localização de capitais"],"respostaCorreta":"interpretar relações entre produção, recursos e território","explicacao":"O conteúdo amplia a leitura crítica sobre desenvolvimento econômico e organização espacial.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo9-industria-energia-territorio-sim-01","enunciado":"A principal ideia desse tema é compreender que indústria e energia:","tipo":"multipla_escolha","alternativas":["transformam o território e se relacionam a infraestrutura, recursos e impactos","não interferem na organização espacial","existem sem depender de recursos naturais","não produzem efeitos sociais e ambientais"],"respostaCorreta":"transformam o território e se relacionam a infraestrutura, recursos e impactos","explicacao":"A produção industrial e energética faz parte da dinâmica espacial, econômica e ambiental do mundo contemporâneo.","dificuldade":"medio"}
+    ]
+  }
+]

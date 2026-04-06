@@ -1,0 +1,46 @@
+[
+  {
+    "id": "eti9-dialogo-conflitos-justica",
+    "titulo": "Diálogo, conflitos e justiça",
+    "disciplinaId": "eti9",
+    "turmaId": "9ano",
+    "unidade": "Relações éticas",
+    "resumo": [
+      "Conflitos fazem parte da vida social e podem ser enfrentados com diálogo e responsabilidade.",
+      "A justiça envolve escuta, respeito, análise de situações e busca de soluções mais equilibradas.",
+      "Estudar esse tema fortalece atitudes éticas na convivência cotidiana."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Conflitos e convivência",
+        "texto": "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas.",
+        "dica": "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito."
+      },
+      {
+        "subtitulo": "Diálogo e senso de justiça",
+        "texto": "O diálogo ajuda a construir soluções mais equilibradas porque permite escuta, argumentação e consideração do ponto de vista das pessoas envolvidas. Isso se relaciona à ideia de justiça como prática de convivência e responsabilidade social.",
+        "dica": "Procure pensar em soluções que considerem direitos, deveres e consequências para todos os envolvidos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que um desentendimento entre colegas é resolvido por conversa e mediação.",
+        "passos": [
+          "Identifique a causa do conflito.",
+          "Observe como o diálogo foi construído.",
+          "Relacione a solução à ideia de justiça e convivência ética."
+        ],
+        "resposta": "Esse exemplo mostra que conflitos podem ser transformados em oportunidades de aprendizado e respeito mútuo."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti9-dialogo-conflitos-justica-ex-01","enunciado":"Uma forma ética de lidar com conflitos é:","tipo":"multipla_escolha","alternativas":["buscar diálogo e escuta","reagir com agressividade","ignorar totalmente o outro","ampliar o problema sem análise"],"respostaCorreta":"buscar diálogo e escuta","explicacao":"O diálogo favorece soluções mais justas e responsáveis nas relações sociais.","dificuldade":"facil"},
+      {"id":"eti9-dialogo-conflitos-justica-ex-02","enunciado":"O senso de justiça envolve:","tipo":"multipla_escolha","alternativas":["considerar direitos, deveres e consequências","agir apenas por impulso","defender sempre o interesse individual","negar a importância da escuta"],"respostaCorreta":"considerar direitos, deveres e consequências","explicacao":"Agir com justiça exige reflexão e responsabilidade diante das situações vividas.","dificuldade":"facil"},
+      {"id":"eti9-dialogo-conflitos-justica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Conflitos podem ser resolvidos de forma ética por meio do diálogo.","Todo conflito deve ser tratado com imposição e silêncio.","Justiça não tem relação com convivência social.","Escutar o outro atrapalha a solução dos problemas."],"respostaCorreta":"Conflitos podem ser resolvidos de forma ética por meio do diálogo.","explicacao":"A mediação e a escuta contribuem para soluções mais equilibradas e respeitosas.","dificuldade":"medio"},
+      {"id":"eti9-dialogo-conflitos-justica-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver atitudes éticas diante de conflitos","tratar divergências sem responsabilidade","separar justiça da convivência cotidiana","considerar o conflito sempre insolúvel"],"respostaCorreta":"desenvolver atitudes éticas diante de conflitos","explicacao":"O tema fortalece diálogo, escuta e busca de soluções mais justas no cotidiano.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti9-dialogo-conflitos-justica-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["conflitos podem ser enfrentados com diálogo, respeito e senso de justiça","toda divergência exige confronto agressivo","justiça não se aplica à vida cotidiana","escuta e mediação não ajudam na convivência"],"respostaCorreta":"conflitos podem ser enfrentados com diálogo, respeito e senso de justiça","explicacao":"O conteúdo relaciona ética, convivência e responsabilidade na resolução de conflitos.","dificuldade":"medio"}
+    ]
+  }
+]

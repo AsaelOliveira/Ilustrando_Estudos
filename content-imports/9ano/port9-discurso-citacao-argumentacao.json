@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port9-discurso-citacao-argumentacao",
+    "titulo": "Discurso, citação e argumentação",
+    "disciplinaId": "port9",
+    "turmaId": "9ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "Citações e diferentes formas de discurso podem fortalecer a argumentação em um texto.",
+      "O uso adequado da voz de outras pessoas exige clareza, contexto e responsabilidade.",
+      "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Uso de vozes no texto",
+        "texto": "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido.",
+        "dica": "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto."
+      },
+      {
+        "subtitulo": "Relação entre citação e argumento",
+        "texto": "Uma citação não substitui a argumentação do autor. Ela funciona como apoio e precisa ser interpretada, explicada e articulada ao ponto de vista defendido, para que o texto mantenha coerência e força argumentativa.",
+        "dica": "Depois de citar uma fonte, explique por que ela é importante para o argumento apresentado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um trecho em que o autor apresenta uma opinião e, em seguida, cita uma pesquisa para sustentá-la.",
+        "passos": [
+          "Identifique a tese defendida no texto.",
+          "Observe qual informação da pesquisa foi usada.",
+          "Analise como a citação reforça o argumento do autor."
+        ],
+        "resposta": "Esse exemplo mostra que a citação pode fortalecer a argumentação quando é bem articulada ao texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"port9-discurso-citacao-argumentacao-ex-01","enunciado":"Em um texto argumentativo, uma citação pode servir para:","tipo":"multipla_escolha","alternativas":["fortalecer a defesa de uma ideia","substituir totalmente a opinião do autor","eliminar a necessidade de coerência","dispensar a organização do texto"],"respostaCorreta":"fortalecer a defesa de uma ideia","explicacao":"A citação pode funcionar como apoio ao ponto de vista defendido no texto.","dificuldade":"facil"},
+      {"id":"port9-discurso-citacao-argumentacao-ex-02","enunciado":"Uma citação é mais adequada quando:","tipo":"multipla_escolha","alternativas":["tem relação clara com o argumento apresentado","aparece sem explicação e sem contexto","é usada apenas para ocupar espaço","contradiz totalmente o texto sem análise"],"respostaCorreta":"tem relação clara com o argumento apresentado","explicacao":"A citação precisa dialogar com a tese e com o desenvolvimento do texto.","dificuldade":"facil"},
+      {"id":"port9-discurso-citacao-argumentacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Citações ajudam na argumentação, mas não substituem a análise do autor.","Citar uma fonte dispensa qualquer explicação posterior.","A voz do autor deixa de existir quando uma citação aparece.","Toda citação fortalece um texto automaticamente, mesmo sem contexto."],"respostaCorreta":"Citações ajudam na argumentação, mas não substituem a análise do autor.","explicacao":"O autor continua responsável por interpretar e articular a informação usada como apoio.","dificuldade":"medio"},
+      {"id":"port9-discurso-citacao-argumentacao-ex-04","enunciado":"Ao usar a voz de outra pessoa em um texto, é importante:","tipo":"multipla_escolha","alternativas":["explicar a relação entre a citação e a tese","deixar o leitor adivinhar o motivo da citação","usar qualquer fala sem verificar o contexto","substituir todos os argumentos por trechos copiados"],"respostaCorreta":"explicar a relação entre a citação e a tese","explicacao":"A interpretação da citação é essencial para a construção do texto argumentativo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port9-discurso-citacao-argumentacao-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["usar citações com clareza e análise fortalece a argumentação","citar fontes dispensa qualquer ponto de vista próprio","todo texto precisa apenas de citações para convencer","a argumentação perde importância quando há discurso citado"],"respostaCorreta":"usar citações com clareza e análise fortalece a argumentação","explicacao":"O uso de outras vozes no texto só é produtivo quando dialoga com a tese e é interpretado pelo autor.","dificuldade":"medio"}
+    ]
+  }
+]

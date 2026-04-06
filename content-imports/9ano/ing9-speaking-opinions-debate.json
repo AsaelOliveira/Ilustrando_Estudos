@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ing9-speaking-opinions-debate",
+    "titulo": "Speaking, opinions and debate",
+    "disciplinaId": "ing9",
+    "turmaId": "9ano",
+    "unidade": "Oral communication",
+    "resumo": [
+      "Speaking in English can involve expressing opinions, agreeing and disagreeing respectfully.",
+      "Debate situations help students organize ideas and use language more actively.",
+      "This topic strengthens oral communication in meaningful contexts."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressing ideas orally",
+        "texto": "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills.",
+        "dica": "Use short structures first, then add reasons to support what you say."
+      },
+      {
+        "subtitulo": "Debate and respectful interaction",
+        "texto": "In simple debate situations, learners can practice agreement, disagreement and justification. This helps them understand language as a tool for dialogue and participation.",
+        "dica": "Respectful expressions are important when presenting a different point of view."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine a classroom discussion in English about the use of mobile phones at school.",
+        "passos": [
+          "Identify one opinion about the topic.",
+          "Observe a reason used to support that idea.",
+          "Think of a respectful way to agree or disagree."
+        ],
+        "resposta": "This example shows how oral English can be used for interaction and debate in real situations."
+      }
+    ],
+    "exercicios": [
+      {"id":"ing9-speaking-opinions-debate-ex-01","enunciado":"To express an opinion in English, a student can use:","tipo":"multipla_escolha","alternativas":["I think","Triangle is blue","Run the notebook","Table of clouds"],"respostaCorreta":"I think","explicacao":"'I think' is a simple and common expression to introduce an opinion.","dificuldade":"facil"},
+      {"id":"ing9-speaking-opinions-debate-ex-02","enunciado":"A debate situation can help students:","tipo":"multipla_escolha","alternativas":["organize ideas and respond to others","avoid all interaction","ignore different opinions","speak without listening"],"respostaCorreta":"organize ideas and respond to others","explicacao":"Debate encourages participation, listening and oral expression with purpose.","dificuldade":"facil"},
+      {"id":"ing9-speaking-opinions-debate-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Respectful disagreement is part of communication.","Debate means speaking without listening.","Opinions are not useful in oral English.","Interaction prevents language learning."],"respostaCorreta":"Respectful disagreement is part of communication.","explicacao":"Communication includes listening, responding and expressing differences with respect.","dificuldade":"medio"},
+      {"id":"ing9-speaking-opinions-debate-ex-04","enunciado":"Studying this topic helps students:","tipo":"multipla_escolha","alternativas":["use English more actively in oral interaction","avoid real communication situations","separate language from dialogue","ignore the importance of listening"],"respostaCorreta":"use English more actively in oral interaction","explicacao":"The topic connects speaking, listening and participation in meaningful contexts.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"ing9-speaking-opinions-debate-sim-01","enunciado":"The main idea of this topic is:","tipo":"multipla_escolha","alternativas":["English speaking can be used to share opinions and participate in respectful debate","oral language has no relation to interaction","debate should avoid different points of view","students do not need reasons when speaking"],"respostaCorreta":"English speaking can be used to share opinions and participate in respectful debate","explicacao":"The content helps learners use spoken English in dialogic and purposeful situations.","dificuldade":"medio"}
+    ]
+  }
+]

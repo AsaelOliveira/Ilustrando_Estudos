@@ -1,0 +1,45 @@
+[
+  {
+    "id": "geo9-globalizacao-redes-economia",
+    "titulo": "Globalização, redes e economia",
+    "disciplinaId": "geo9",
+    "turmaId": "9ano",
+    "unidade": "Espaço geográfico contemporâneo",
+    "resumo": [
+      "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares.",
+      "As redes técnicas e logísticas ajudam a integrar territórios em diferentes escalas.",
+      "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Integração e circulação",
+        "texto": "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos.",
+        "dica": "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso."
+      },
+      {
+        "subtitulo": "Economia em escala ampla",
+        "texto": "No mundo globalizado, a economia envolve relações entre diferentes países, empresas e mercados. Isso afeta produção, consumo, trabalho e organização do espaço geográfico de forma complexa.",
+        "dica": "Pergunte como um produto, uma informação ou um serviço circula entre vários lugares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em um produto fabricado em um país, distribuído por outro e vendido em sua cidade.",
+        "passos": [
+          "Observe a circulação entre diferentes territórios.",
+          "Perceba como redes econômicas e logísticas tornam esse processo possível."
+        ],
+        "resposta": "Esse exemplo mostra a relação entre globalização, redes e economia no mundo atual."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo9-globalizacao-redes-economia-ex-01","enunciado":"A globalização intensifica principalmente:","tipo":"multipla_escolha","alternativas":["conexões entre diferentes lugares","o isolamento total dos territórios","a interrupção da circulação de informações","a eliminação de toda desigualdade"],"respostaCorreta":"conexões entre diferentes lugares","explicacao":"A globalização amplia fluxos e relações econômicas, culturais e informacionais entre espaços distintos.","dificuldade":"facil"},
+      {"id":"geo9-globalizacao-redes-economia-ex-02","enunciado":"As redes técnicas ajudam a:","tipo":"multipla_escolha","alternativas":["integrar territórios por meio de fluxos","eliminar todo transporte e comunicação","substituir o espaço geográfico","impedir relações econômicas"],"respostaCorreta":"integrar territórios por meio de fluxos","explicacao":"Transporte, comunicação e logística são fundamentais para a circulação no mundo globalizado.","dificuldade":"facil"},
+      {"id":"geo9-globalizacao-redes-economia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A globalização integra territórios, mas também evidencia desigualdades.","Todos os lugares participam da globalização do mesmo modo.","A economia global não afeta o trabalho e o consumo.","As redes não interferem no espaço geográfico."],"respostaCorreta":"A globalização integra territórios, mas também evidencia desigualdades.","explicacao":"As conexões globais ampliam relações, mas o acesso às redes e aos benefícios da globalização é desigual.","dificuldade":"medio"},
+      {"id":"geo9-globalizacao-redes-economia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender interdependências e contrastes do mundo contemporâneo","pensar que a economia atual funciona sem circulação","ignorar o papel das redes no território","separar completamente espaço e economia"],"respostaCorreta":"compreender interdependências e contrastes do mundo contemporâneo","explicacao":"O conteúdo aproxima circulação, economia, tecnologia e desigualdades no espaço geográfico atual.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo9-globalizacao-redes-economia-sim-01","enunciado":"A principal ideia desse tema é compreender que o mundo atual:","tipo":"multipla_escolha","alternativas":["funciona por redes e conexões que integram territórios, mas de forma desigual","é totalmente isolado entre países e regiões","não depende de circulação de mercadorias e informações","dispensa relações entre espaço e economia"],"respostaCorreta":"funciona por redes e conexões que integram territórios, mas de forma desigual","explicacao":"Globalização e redes ajudam a explicar integração espacial e também contrastes econômicos e sociais.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat9-funcao-primeiro-grau",
+    "titulo": "Função do 1º grau",
+    "disciplinaId": "mat9",
+    "turmaId": "9ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "A função do 1º grau relaciona duas grandezas por uma expressão algébrica linear.",
+      "Esse tipo de função pode ser representado por tabela, expressão e gráfico.",
+      "Estudar o tema ajuda a interpretar variações e relações do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relação entre grandezas",
+        "texto": "A função do 1º grau mostra como um valor depende de outro em uma relação linear. Ela costuma ser representada por uma expressão do tipo y = ax + b, em que a variação segue um padrão constante.",
+        "dica": "Observe como a mudança em uma variável interfere no valor da outra."
+      },
+      {
+        "subtitulo": "Formas de representação",
+        "texto": "Esse conteúdo pode aparecer em tabelas, gráficos e expressões algébricas. Compreender a passagem entre essas representações ajuda a interpretar melhor o comportamento da função.",
+        "dica": "Compare expressão, tabela e gráfico como modos diferentes de mostrar a mesma relação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere a relação y = 2x + 1.",
+        "passos": [
+          "Escolha um valor para x, por exemplo 3.",
+          "Substitua na expressão: y = 2·3 + 1.",
+          "Calcule o resultado."
+        ],
+        "resposta": "Quando x = 3, temos y = 7."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat9-funcao-primeiro-grau-ex-01","enunciado":"Uma função do 1º grau representa:","tipo":"multipla_escolha","alternativas":["uma relação linear entre grandezas","apenas um desenho geométrico","somente palavras em sequência","uma equação sem qualquer variável"],"respostaCorreta":"uma relação linear entre grandezas","explicacao":"Esse tipo de função relaciona valores por meio de uma expressão algébrica linear.","dificuldade":"facil"},
+      {"id":"mat9-funcao-primeiro-grau-ex-02","enunciado":"A função do 1º grau pode ser representada por:","tipo":"multipla_escolha","alternativas":["expressão, tabela e gráfico","apenas texto corrido","somente figuras planas","somente desenhos sem números"],"respostaCorreta":"expressão, tabela e gráfico","explicacao":"Essas representações ajudam a compreender a mesma relação de maneiras diferentes.","dificuldade":"facil"},
+      {"id":"mat9-funcao-primeiro-grau-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A função do 1º grau ajuda a interpretar como uma grandeza varia em relação à outra.","Esse conteúdo não tem relação com gráficos.","Função do 1º grau não pode ser expressa por fórmula.","Toda função do 1º grau é apenas um desenho sem significado."],"respostaCorreta":"A função do 1º grau ajuda a interpretar como uma grandeza varia em relação à outra.","explicacao":"O tema é importante para analisar dependência entre variáveis em situações matemáticas e cotidianas.","dificuldade":"medio"},
+      {"id":"mat9-funcao-primeiro-grau-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender relações lineares e suas representações","ignorar a variação entre grandezas","reduzir tabelas e gráficos a enfeites","substituir cálculos por tentativas aleatórias"],"respostaCorreta":"compreender relações lineares e suas representações","explicacao":"O conteúdo fortalece o raciocínio algébrico e a leitura de diferentes formas de representar funções.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat9-funcao-primeiro-grau-sim-01","enunciado":"A principal ideia da função do 1º grau é perceber que:","tipo":"multipla_escolha","alternativas":["duas grandezas podem se relacionar de modo linear","gráficos não têm relação com a álgebra","funções não dependem de variáveis","expressões algébricas não representam situações"],"respostaCorreta":"duas grandezas podem se relacionar de modo linear","explicacao":"A função do 1º grau organiza a relação entre variáveis e permite analisá-la por diferentes representações.","dificuldade":"medio"}
+    ]
+  }
+]

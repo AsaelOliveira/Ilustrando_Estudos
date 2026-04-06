@@ -1,0 +1,111 @@
+[
+  {
+    "id": "hist9-ditadura-militar-introducao",
+    "titulo": "Introdução à ditadura militar no Brasil",
+    "disciplinaId": "hist9",
+    "turmaId": "9ano",
+    "unidade": "Brasil contemporâneo",
+    "resumo": [
+      "A ditadura militar foi um período de restrição política e autoritarismo no Brasil.",
+      "Esse contexto envolveu censura, repressão e limitação de direitos.",
+      "Estudar o tema ajuda a refletir sobre democracia, memória e participação política."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Características do período",
+        "texto": "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país.",
+        "dica": "Observe como a restrição de direitos interfere na vida coletiva e na democracia."
+      },
+      {
+        "subtitulo": "Memória e reflexão histórica",
+        "texto": "Estudar esse período ajuda a compreender a importância da democracia, da liberdade de expressão e da preservação da memória histórica. Essa análise é fundamental para evitar simplificações e fortalecer a cidadania.",
+        "dica": "Pergunte quais valores democráticos ficam mais visíveis quando analisamos períodos autoritários."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um período em que críticas ao governo passam a ser controladas e direitos políticos são restringidos.",
+        "passos": [
+          "Identifique sinais de autoritarismo no contexto descrito.",
+          "Observe a redução da participação democrática.",
+          "Perceba como isso afeta a vida pública e cultural."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender características básicas de um regime autoritário."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist9-ditadura-militar-introducao-ex-01",
+        "enunciado": "A ditadura militar no Brasil foi marcada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "autoritarismo e restrição de direitos",
+          "ampliação plena da democracia",
+          "ausência de censura e repressão",
+          "participação política totalmente livre"
+        ],
+        "respostaCorreta": "autoritarismo e restrição de direitos",
+        "explicacao": "Esse período envolveu concentração de poder, repressão e limitação de liberdades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-ex-02",
+        "enunciado": "Um aspecto importante desse período foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "censura e repressão",
+          "expansão irrestrita da liberdade política",
+          "fim de todos os conflitos sociais",
+          "ausência de controle estatal"
+        ],
+        "respostaCorreta": "censura e repressão",
+        "explicacao": "Censura e repressão foram características marcantes do regime militar no Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar a ditadura militar ajuda a refletir sobre democracia e memória histórica.",
+          "A análise desse período não tem relação com cidadania.",
+          "Regimes autoritários não afetam a vida social.",
+          "A liberdade política foi ampliada durante todo esse período."
+        ],
+        "respostaCorreta": "Estudar a ditadura militar ajuda a refletir sobre democracia e memória histórica.",
+        "explicacao": "O estudo desse contexto é importante para compreender direitos, participação política e valores democráticos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender os efeitos do autoritarismo na sociedade",
+          "achar que liberdade e democracia não têm importância",
+          "ignorar a preservação da memória histórica",
+          "separar totalmente política e vida social"
+        ],
+        "respostaCorreta": "compreender os efeitos do autoritarismo na sociedade",
+        "explicacao": "Esse conteúdo mostra como a limitação de direitos afeta instituições, cultura e vida coletiva.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist9-ditadura-militar-introducao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que períodos autoritários:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afetam direitos, participação política e vida social",
+          "fortalecem automaticamente a democracia",
+          "não interferem na liberdade de expressão",
+          "existem sem impacto na memória histórica"
+        ],
+        "respostaCorreta": "afetam direitos, participação política e vida social",
+        "explicacao": "O estudo da ditadura militar ajuda a refletir sobre democracia, autoritarismo e memória histórica.",
+        "dificuldade": "medio"
+      }
+    ]
+  }
+]

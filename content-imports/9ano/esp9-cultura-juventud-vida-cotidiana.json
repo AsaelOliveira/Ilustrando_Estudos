@@ -1,0 +1,46 @@
+[
+  {
+    "id": "esp9-cultura-juventud-vida-cotidiana",
+    "titulo": "Cultura, juventud y vida cotidiana",
+    "disciplinaId": "esp9",
+    "turmaId": "9ano",
+    "unidade": "Lengua y cultura",
+    "resumo": [
+      "La lengua española permite hablar de hábitos, intereses y experiencias de la vida cotidiana.",
+      "El estudio de temas culturales amplía el contacto con usos reales del idioma.",
+      "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lengua y experiencias juveniles",
+        "texto": "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad.",
+        "dica": "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre."
+      },
+      {
+        "subtitulo": "Cultura y comunicación",
+        "texto": "Aprender una lengua también implica entrar en contacto con modos de vida, costumbres y referencias culturales de distintos grupos. Eso amplía la comprensión del idioma como forma de interacción y de conocimiento del mundo.",
+        "dica": "Observa cómo expresiones y temas del cotidiano pueden variar según el contexto cultural."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Lee un pequeño texto sobre actividades de jóvenes en su rutina diaria.",
+        "passos": [
+          "Identifica palabras relacionadas con hábitos y tiempo libre.",
+          "Observa cómo se describen acciones cotidianas.",
+          "Relaciona el contenido con experiencias cercanas a tu realidad."
+        ],
+        "resposta": "Este ejemplo muestra que la lengua se aprende mejor cuando dialoga con situaciones significativas del cotidiano."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-01","enunciado":"Estudiar la vida cotidiana en español ayuda a:","tipo":"multipla_escolha","alternativas":["usar la lengua en contextos más significativos","memorizar palabras sin contexto","evitar cualquier comunicación real","separar idioma y cultura"],"respostaCorreta":"usar la lengua en contextos más significativos","explicacao":"El aprendizaje gana sentido cuando se conecta con experiencias cercanas al estudiante.","dificuldade":"facil"},
+      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-02","enunciado":"La cultura en el aprendizaje de una lengua permite:","tipo":"multipla_escolha","alternativas":["comprender usos y referencias del idioma en la sociedad","eliminar el valor de la comunicación","estudiar palabras sin sentido","ignorar hábitos y costumbres"],"respostaCorreta":"comprender usos y referencias del idioma en la sociedad","explicacao":"La lengua se relaciona con modos de vida, costumbres y experiencias culturales.","dificuldade":"facil"},
+      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.","La vida cotidiana no tiene valor para el aprendizaje de la lengua.","Idioma y cultura no se relacionan.","Solo textos muy formales permiten aprender español."],"respostaCorreta":"Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.","explicacao":"Los temas cotidianos favorecen la comprensión y el uso comunicativo del idioma.","dificuldade":"medio"},
+      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["la lengua y la cultura se aprenden mejor en contextos vivos y cercanos","el español debe estudiarse sin relación con la experiencia","la cultura no influye en la comunicación","la rutina no puede ser tema de aprendizaje"],"respostaCorreta":"la lengua y la cultura se aprenden mejor en contextos vivos y cercanos","explicacao":"El tema aproxima el idioma a situaciones reales y significativas para el estudiante.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp9-cultura-juventud-vida-cotidiana-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["aprender español también implica comprender cultura, rutina y experiencias cotidianas","el idioma debe estudiarse sin contexto social","la cultura no forma parte de la comunicación","solo listas de vocabulario permiten aprender"],"respostaCorreta":"aprender español también implica comprender cultura, rutina y experiencias cotidianas","explicacao":"El contenido integra lengua, vida cotidiana y referencias culturales en el aprendizaje del español.","dificuldade":"medio"}
+    ]
+  }
+]
