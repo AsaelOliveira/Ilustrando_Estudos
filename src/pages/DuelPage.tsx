@@ -18,7 +18,6 @@ import {
   RotateCcw,
   Flame,
   Target,
-  BookOpen,
   Shuffle,
   Timer,
   Shield,
@@ -28,6 +27,7 @@ import {
   Crown,
   Medal,
   Send,
+  Pencil,
 } from "lucide-react";
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -123,6 +123,22 @@ const TIME_OPTIONS = [
   { value: 300, label: "5 minutos" },
 ];
 const QUESTION_OPTIONS = [3, 5, 7];
+
+function CrossedPencils({
+  className = "",
+  pencilClassName = "",
+}: {
+  className?: string;
+  pencilClassName?: string;
+}) {
+  return (
+    <span className={`relative inline-flex items-center justify-center ${className}`}>
+      <Pencil className={`absolute h-full w-full rotate-45 ${pencilClassName}`} />
+      <Pencil className={`absolute h-full w-full -rotate-45 ${pencilClassName}`} />
+    </span>
+  );
+}
+
 // ============================================================
 // Utilidades
 // ============================================================
@@ -381,7 +397,7 @@ export default function DuelPage() {
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
               className="text-4xl"
             >
-              <BookOpen className="h-10 w-10 text-primary" />
+              <CrossedPencils className="h-10 w-10" pencilClassName="text-primary" />
             </motion.div>
             <div>
               <h1 className="font-heading text-3xl font-extrabold text-foreground md:text-4xl">
@@ -615,7 +631,7 @@ function LobbyView({
         ) : challenges.length === 0 ? (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
             <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 flex justify-center">
-              <BookOpen className="h-12 w-12 text-primary" />
+              <CrossedPencils className="h-12 w-12" pencilClassName="text-primary" />
             </motion.div>
             <h3 className="mb-1 font-heading text-lg font-bold text-foreground">Nenhum desafio por enquanto</h3>
             <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversário.</p>
@@ -632,7 +648,7 @@ function LobbyView({
                 className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
                 <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
-                  {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🥷" : "✏️"}
+                  {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🥷" : "✏️✏️"}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
@@ -660,7 +676,7 @@ function LobbyView({
                   disabled={accepting === c.id}
                   className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
-                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️"}
+                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️✏️"}
                 </button>
               </motion.div>
             ))}
@@ -1099,9 +1115,9 @@ function ConfigView({
           {creating ? (
             <span className="flex items-center justify-center gap-2"><Loader2 className="h-4 w-4 animate-spin" /> Criando...</span>
           ) : cfg.targetType === "privado" ? (
-            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ✏️`
+            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ✏️✏️`
           ) : (
-            "Criar Desafio Público ✏️"
+            "Criar Desafio Público ✏️✏️"
           )}
         </button>
       </div>
@@ -1267,7 +1283,7 @@ function BattleArena({
           transition={{ duration: 0.8, ease: "backOut" }}
           className="mb-6 text-8xl"
         >
-          ✏️
+          ✏️✏️
         </motion.div>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
