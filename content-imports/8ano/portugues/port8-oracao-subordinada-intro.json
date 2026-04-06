@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port8-oracao-subordinada-intro",
+    "titulo": "Introdução às orações subordinadas",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Análise sintática",
+    "resumo": [
+      "As orações subordinadas dependem de outra oração para completar o sentido.",
+      "Elas ajudam a ampliar informações e organizar melhor as ideias no período.",
+      "Compreender essa relação melhora a leitura e a escrita de textos mais complexos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relação de dependência",
+        "texto": "Uma oração subordinada não aparece de forma independente no contexto do período. Ela se liga a outra oração, chamada principal, para completar ou detalhar uma informação.",
+        "dica": "Procure identificar qual oração traz a informação central e qual a complementa."
+      },
+      {
+        "subtitulo": "Ampliação de sentido",
+        "texto": "Ao usar orações subordinadas, o texto ganha mais detalhes, explicações, causas, consequências ou condições. Isso torna a construção mais rica e articulada.",
+        "dica": "Observe se a segunda oração explica, completa ou acrescenta algo à primeira."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Eu percebi que a turma estava atenta.'",
+        "passos": [
+          "Identifique a oração principal: 'Eu percebi'.",
+          "Observe que 'que a turma estava atenta' completa o sentido do verbo."
+        ],
+        "resposta": "A segunda oração está subordinada à primeira, pois depende dela para fazer sentido no período."
+      }
+    ],
+    "exercicios": [
+      {"id":"port8-oracao-subordinada-intro-ex-01","enunciado":"Uma oração subordinada é aquela que:","tipo":"multipla_escolha","alternativas":["depende de outra oração para completar o sentido","sempre aparece sozinha e isolada","não se relaciona com nenhuma outra oração","substitui todos os verbos do período"],"respostaCorreta":"depende de outra oração para completar o sentido","explicacao":"A ideia de subordinação está ligada à dependência sintática e de sentido.","dificuldade":"facil"},
+      {"id":"port8-oracao-subordinada-intro-ex-02","enunciado":"No período 'Ela disse que voltaria cedo', a oração 'que voltaria cedo' serve para:","tipo":"multipla_escolha","alternativas":["completar a informação da oração principal","eliminar o sentido do verbo","substituir o sujeito da frase","marcar apenas uma interjeição"],"respostaCorreta":"completar a informação da oração principal","explicacao":"A segunda oração completa o sentido do verbo 'disse'.","dificuldade":"facil"},
+      {"id":"port8-oracao-subordinada-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As orações subordinadas ajudam a ampliar e organizar as ideias do período.","Orações subordinadas nunca aparecem em textos escritos.","Toda oração subordinada é independente da principal.","Subordinação e pontuação são exatamente a mesma coisa."],"respostaCorreta":"As orações subordinadas ajudam a ampliar e organizar as ideias do período.","explicacao":"Elas contribuem para enriquecer o texto com informações complementares.","dificuldade":"medio"},
+      {"id":"port8-oracao-subordinada-intro-ex-04","enunciado":"Estudar orações subordinadas é importante porque isso ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender períodos mais elaborados","eliminar todos os conectivos","escrever apenas frases curtas","dispensar a leitura de textos"],"respostaCorreta":"compreender períodos mais elaborados","explicacao":"Esse conteúdo fortalece a leitura e a produção de textos com estruturas mais complexas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port8-oracao-subordinada-intro-sim-01","enunciado":"A característica central de uma oração subordinada é:","tipo":"multipla_escolha","alternativas":["manter relação de dependência com outra oração","funcionar sempre sozinha","não possuir verbo","ser usada apenas em poesia"],"respostaCorreta":"manter relação de dependência com outra oração","explicacao":"A subordinação existe quando uma oração depende da outra no período composto.","dificuldade":"medio"}
+    ]
+  }
+]

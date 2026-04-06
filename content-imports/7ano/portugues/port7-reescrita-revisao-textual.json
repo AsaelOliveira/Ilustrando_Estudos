@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port7-reescrita-revisao-textual",
+    "titulo": "Reescrita e revisão textual",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Produção escrita",
+    "resumo": [
+      "Revisar e reescrever ajudam a melhorar clareza, coerência e correção da escrita.",
+      "A reescrita permite reorganizar ideias e aperfeiçoar o texto produzido.",
+      "Estudar esse tema fortalece a autonomia no processo de escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Revisar para melhorar",
+        "texto": "A revisão consiste em reler o texto para observar problemas de clareza, repetição, ortografia, pontuação e organização das ideias. Esse momento é importante para perceber o que precisa ser ajustado antes da versão final.",
+        "dica": "Ao revisar, pergunte se o texto comunica bem a ideia principal e se está fácil de entender."
+      },
+      {
+        "subtitulo": "Reescrita como aprimoramento",
+        "texto": "Reescrever não é apenas copiar o texto novamente, mas fazer mudanças que tornem a escrita mais clara e eficiente. Isso pode incluir reorganizar frases, substituir palavras e melhorar a progressão do texto.",
+        "dica": "Veja a reescrita como oportunidade de fortalecer o texto, e não apenas de corrigir erros."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um pequeno texto com repetições e ideias pouco organizadas.",
+        "passos": [
+          "Identifique trechos que podem ser melhorados.",
+          "Observe possíveis ajustes de clareza e coesão.",
+          "Reescreva o texto de forma mais organizada."
+        ],
+        "resposta": "Esse processo mostra como revisão e reescrita ajudam a produzir textos melhores."
+      }
+    ],
+    "exercicios": [
+      {"id":"port7-reescrita-revisao-textual-ex-01","enunciado":"A revisão de um texto serve para:","tipo":"multipla_escolha","alternativas":["identificar pontos a melhorar","eliminar toda leitura final","trocar palavras sem critério","dispensar o cuidado com clareza"],"respostaCorreta":"identificar pontos a melhorar","explicacao":"A revisão ajuda a perceber problemas e a aprimorar a qualidade do texto.","dificuldade":"facil"},
+      {"id":"port7-reescrita-revisao-textual-ex-02","enunciado":"Reescrever um texto significa:","tipo":"multipla_escolha","alternativas":["aprimorar a versão anterior","copiar tudo sem alteração","reduzir o texto a frases soltas","ignorar a organização das ideias"],"respostaCorreta":"aprimorar a versão anterior","explicacao":"A reescrita busca melhorar linguagem, estrutura e clareza do texto.","dificuldade":"facil"},
+      {"id":"port7-reescrita-revisao-textual-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Revisão e reescrita ajudam a produzir textos mais claros e organizados.","Um texto bom nunca precisa ser relido.","Escrever bem dispensa revisão.","Reescrita não tem relação com melhoria textual."],"respostaCorreta":"Revisão e reescrita ajudam a produzir textos mais claros e organizados.","explicacao":"Essas etapas são importantes no processo de escrita e no aprimoramento da produção textual.","dificuldade":"medio"},
+      {"id":"port7-reescrita-revisao-textual-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["melhorar a qualidade da própria escrita","considerar desnecessária a versão final","ignorar problemas de clareza","tratar a escrita como processo pronto"],"respostaCorreta":"melhorar a qualidade da própria escrita","explicacao":"O conteúdo fortalece o cuidado com a produção textual e a autonomia no ato de escrever.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port7-reescrita-revisao-textual-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["revisar e reescrever são etapas importantes para aperfeiçoar um texto","um texto deve ser escrito de uma única vez e sem releitura","reescrita não contribui para a clareza textual","revisão serve apenas para contar linhas"],"respostaCorreta":"revisar e reescrever são etapas importantes para aperfeiçoar um texto","explicacao":"O conteúdo destaca a escrita como processo de elaboração, revisão e melhoria.","dificuldade":"medio"}
+    ]
+  }
+]

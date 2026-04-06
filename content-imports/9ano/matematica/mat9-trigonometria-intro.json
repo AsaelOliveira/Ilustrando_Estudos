@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat9-trigonometria-intro",
+    "titulo": "Introdução à trigonometria",
+    "disciplinaId": "mat9",
+    "turmaId": "9ano",
+    "unidade": "Geometria e relações métricas",
+    "resumo": [
+      "A trigonometria estuda relações entre lados e ângulos em triângulos.",
+      "No 9º ano, ela aparece de forma introdutória, associada a triângulos retângulos.",
+      "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relações em triângulos retângulos",
+        "texto": "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação.",
+        "dica": "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado."
+      },
+      {
+        "subtitulo": "Trigonometia como ferramenta de resolução",
+        "texto": "Esse conteúdo ajuda a interpretar situações geométricas em que nem todas as medidas são dadas diretamente. Assim, o aluno desenvolve raciocínio espacial e maior precisão na leitura de figuras e problemas.",
+        "dica": "Desenhar a situação e marcar os elementos conhecidos facilita muito a compreensão do problema."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um triângulo retângulo e identifique qual lado é oposto a um dos ângulos agudos.",
+        "passos": [
+          "Localize o ângulo escolhido.",
+          "Veja qual lado está de frente para esse ângulo.",
+          "Compare essa posição com os demais lados do triângulo."
+        ],
+        "resposta": "Esse reconhecimento é importante para compreender as relações trigonométricas básicas."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat9-trigonometria-intro-ex-01","enunciado":"A trigonometria estuda, principalmente:","tipo":"multipla_escolha","alternativas":["relações entre lados e ângulos","somente gráficos estatísticos","apenas regras de divisão","a ordem alfabética de expressões"],"respostaCorreta":"relações entre lados e ângulos","explicacao":"A trigonometria analisa como medidas de lados e ângulos se relacionam em figuras, especialmente em triângulos.","dificuldade":"facil"},
+      {"id":"mat9-trigonometria-intro-ex-02","enunciado":"No 9º ano, a trigonometria costuma ser estudada inicialmente em:","tipo":"multipla_escolha","alternativas":["triângulos retângulos","círculos concêntricos apenas","figuras sem medida","tabelas de frequência"],"respostaCorreta":"triângulos retângulos","explicacao":"A introdução ao tema geralmente parte das relações em triângulos retângulos.","dificuldade":"facil"},
+      {"id":"mat9-trigonometria-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A trigonometria pode ajudar em problemas de altura e distância.","Esse conteúdo não tem relação com medidas reais.","Triângulos retângulos não são usados nesse estudo.","A trigonometria dispensa análise geométrica."],"respostaCorreta":"A trigonometria pode ajudar em problemas de altura e distância.","explicacao":"As relações trigonométricas permitem interpretar medidas indiretas em várias situações.","dificuldade":"medio"},
+      {"id":"mat9-trigonometria-intro-ex-04","enunciado":"Antes de resolver um problema introdutório de trigonometria, é importante:","tipo":"multipla_escolha","alternativas":["identificar os lados e o ângulo de referência","trocar todos os valores por números aleatórios","ignorar a figura apresentada","eliminar as informações geométricas do enunciado"],"respostaCorreta":"identificar os lados e o ângulo de referência","explicacao":"A correta leitura do triângulo é o primeiro passo para aplicar relações entre lados e ângulos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat9-trigonometria-intro-sim-01","enunciado":"A principal contribuição da trigonometria introdutória no 9º ano é:","tipo":"multipla_escolha","alternativas":["ampliar a resolução de problemas geométricos com lados e ângulos","substituir toda a álgebra por desenho livre","eliminar a necessidade de interpretar figuras","trabalhar apenas com cálculos sem significado geométrico"],"respostaCorreta":"ampliar a resolução de problemas geométricos com lados e ângulos","explicacao":"O tema desenvolve raciocínio espacial e interpretação de medidas em triângulos retângulos.","dificuldade":"medio"}
+    ]
+  }
+]

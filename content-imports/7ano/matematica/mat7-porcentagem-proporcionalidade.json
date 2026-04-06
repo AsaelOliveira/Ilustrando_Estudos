@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-porcentagem-proporcionalidade",
+    "titulo": "Porcentagem e proporcionalidade",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Relações numéricas",
+    "resumo": [
+      "Porcentagem representa uma razão com base em 100.",
+      "Ela aparece em descontos, acréscimos, pesquisas e comparações.",
+      "A proporcionalidade ajuda a relacionar grandezas que variam juntas.",
+      "Compreender esses conceitos facilita a resolução de problemas do cotidiano.",
+      "O raciocínio proporcional é importante em diferentes áreas da Matemática."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é porcentagem",
+        "texto": "Porcentagem é uma forma de representar uma parte de um todo considerando a base 100. Quando dizemos 25%, por exemplo, estamos falando de 25 partes em cada 100 partes iguais.",
+        "dica": "O símbolo % significa 'por cento', ou seja, a cada 100."
+      },
+      {
+        "subtitulo": "Situações de uso",
+        "texto": "A porcentagem é muito usada em situações do cotidiano, como descontos em compras, aumento de preços, resultados de pesquisas e análise de dados. Ela ajuda a comparar quantidades de forma prática e padronizada.",
+        "dica": "Sempre pergunte: porcentagem de quê?"
+      },
+      {
+        "subtitulo": "Proporcionalidade",
+        "texto": "A proporcionalidade aparece quando duas grandezas variam mantendo uma relação constante. Entender essa relação ajuda a resolver problemas envolvendo escalas, receitas, velocidade, preços e muitas outras situações.",
+        "dica": "Se uma grandeza dobra e a outra também, pode haver relação proporcional."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Calcule 10% de 200.",
+        "passos": [
+          "10% significa 10 em cada 100.",
+          "Também pode ser entendido como a décima parte.",
+          "A décima parte de 200 é 20."
+        ],
+        "resposta": "10% de 200 é igual a 20."
+      },
+      {
+        "enunciado": "Uma receita usa 2 copos de leite para 1 copo de farinha. Se o leite dobrar, o que acontece na proporção?",
+        "passos": [
+          "A relação inicial é de 2 para 1.",
+          "Se a quantidade de leite dobrar para 4, a farinha precisa dobrar para 2.",
+          "Assim, a proporção é mantida."
+        ],
+        "resposta": "Para manter a proporcionalidade, a outra grandeza também deve dobrar."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-01",
+        "enunciado": "Porcentagem é uma razão baseada em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "100",
+          "10",
+          "2",
+          "1.000"
+        ],
+        "respostaCorreta": "100",
+        "explicacao": "A porcentagem representa partes de um todo considerando a base 100.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-02",
+        "enunciado": "O símbolo % significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "por cento",
+          "por mil",
+          "divisão exata",
+          "número negativo"
+        ],
+        "respostaCorreta": "por cento",
+        "explicacao": "O símbolo % indica uma razão referente a cada 100 partes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-03",
+        "enunciado": "Qual é o valor de 25% de 80?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "20",
+          "25",
+          "40",
+          "60"
+        ],
+        "respostaCorreta": "20",
+        "explicacao": "25% corresponde à quarta parte; a quarta parte de 80 é 20.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-04",
+        "enunciado": "Em uma relação proporcional, se uma grandeza dobra, a outra pode:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dobrar também",
+          "desaparecer",
+          "ficar sem relação com a primeira",
+          "virar porcentagem automaticamente"
+        ],
+        "respostaCorreta": "dobrar também",
+        "explicacao": "Em relações diretamente proporcionais, as grandezas variam mantendo a mesma razão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-05",
+        "enunciado": "Qual situação envolve porcentagem?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um desconto de 15% em uma compra",
+          "a ordem alfabética dos nomes",
+          "a cor da capa de um livro",
+          "o título de um poema"
+        ],
+        "respostaCorreta": "um desconto de 15% em uma compra",
+        "explicacao": "Descontos e acréscimos são exemplos muito comuns de uso de porcentagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O raciocínio proporcional ajuda a resolver problemas do cotidiano.",
+          "Porcentagem só aparece em livros de matemática.",
+          "Proporcionalidade não tem relação com medidas.",
+          "Uma porcentagem nunca representa parte de um todo."
+        ],
+        "respostaCorreta": "O raciocínio proporcional ajuda a resolver problemas do cotidiano.",
+        "explicacao": "Esses conceitos são muito usados em compras, tabelas, medidas, receitas e comparações.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-porcentagem-proporcionalidade-sim-01",
+        "enunciado": "Se um produto custa 100 reais e recebe desconto de 20%, qual é o novo valor?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "80 reais",
+          "20 reais",
+          "120 reais",
+          "90 reais"
+        ],
+        "respostaCorreta": "80 reais",
+        "explicacao": "20% de 100 é 20; subtraindo esse valor, o produto passa a custar 80 reais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-porcentagem-proporcionalidade-sim-02",
+        "enunciado": "A ideia central desse tema é compreender como comparar quantidades e resolver situações por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porcentagem e relações proporcionais",
+          "apenas figuras geométricas",
+          "somente regras de acentuação",
+          "nomes de capitais"
+        ],
+        "respostaCorreta": "porcentagem e relações proporcionais",
+        "explicacao": "O tema mostra como esses conceitos ajudam a interpretar e resolver problemas reais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

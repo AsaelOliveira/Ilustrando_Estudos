@@ -1,0 +1,45 @@
+[
+  {
+    "id": "geo8-rede-transportes-logistica",
+    "titulo": "Rede de transportes e logística",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Circulação e integração do território",
+    "resumo": [
+      "As redes de transporte conectam lugares, pessoas e mercadorias.",
+      "A logística organiza fluxos e contribui para o funcionamento da economia.",
+      "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Circulação no espaço geográfico",
+        "texto": "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões.",
+        "dica": "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores."
+      },
+      {
+        "subtitulo": "Função da logística",
+        "texto": "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura.",
+        "dica": "Relacione transporte e logística à ideia de integração territorial."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades.",
+        "passos": [
+          "Pense no uso de rodovias, centros de distribuição e pontos de venda.",
+          "Perceba que o percurso depende de planejamento e infraestrutura."
+        ],
+        "resposta": "Esse processo mostra a importância das redes de transporte e da logística na economia."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo8-rede-transportes-logistica-ex-01","enunciado":"As redes de transporte servem para:","tipo":"multipla_escolha","alternativas":["conectar lugares e permitir circulação","eliminar todas as distâncias do mundo","substituir completamente a produção econômica","impedir o deslocamento de mercadorias"],"respostaCorreta":"conectar lugares e permitir circulação","explicacao":"O transporte articula diferentes áreas do território por meio dos fluxos de pessoas e produtos.","dificuldade":"facil"},
+      {"id":"geo8-rede-transportes-logistica-ex-02","enunciado":"A logística está relacionada à:","tipo":"multipla_escolha","alternativas":["organização e distribuição de mercadorias","classificação de espécies vegetais","divisão silábica das palavras","formação das nuvens"],"respostaCorreta":"organização e distribuição de mercadorias","explicacao":"A logística planeja o fluxo de produtos e recursos em diferentes etapas.","dificuldade":"facil"},
+      {"id":"geo8-rede-transportes-logistica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Nem todas as regiões possuem a mesma infraestrutura de transporte.","Todas as regiões brasileiras têm exatamente a mesma integração logística.","A rede de transportes não interfere na economia.","Logística e circulação territorial não têm relação."],"respostaCorreta":"Nem todas as regiões possuem a mesma infraestrutura de transporte.","explicacao":"A infraestrutura é desigual e isso afeta a circulação e o desenvolvimento regional.","dificuldade":"medio"},
+      {"id":"geo8-rede-transportes-logistica-ex-04","enunciado":"Estudar transportes e logística ajuda a compreender:","tipo":"multipla_escolha","alternativas":["a integração e as desigualdades do território","apenas regras gramaticais","somente os planetas do sistema solar","exclusivamente o ciclo da água"],"respostaCorreta":"a integração e as desigualdades do território","explicacao":"O tema mostra como infraestrutura e circulação influenciam a organização espacial.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo8-rede-transportes-logistica-sim-01","enunciado":"Ao analisar redes de transporte, o estudante deve perceber que elas:","tipo":"multipla_escolha","alternativas":["articulam fluxos e revelam desigualdades regionais","existem sem relação com a economia","funcionam igualmente em todos os lugares","servem apenas para o turismo"],"respostaCorreta":"articulam fluxos e revelam desigualdades regionais","explicacao":"As redes ajudam a integrar o território, mas também evidenciam contrastes de infraestrutura e acesso.","dificuldade":"medio"}
+    ]
+  }
+]

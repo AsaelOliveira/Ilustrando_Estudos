@@ -1,0 +1,45 @@
+[
+  {
+    "id": "eti8-respeito-diversidade-convivencia",
+    "titulo": "Respeito, diversidade e convivência",
+    "disciplinaId": "eti8",
+    "turmaId": "8ano",
+    "unidade": "Vida em sociedade",
+    "resumo": [
+      "A convivência ética depende de respeito às diferenças e responsabilidade nas relações.",
+      "A diversidade faz parte da vida em sociedade e precisa ser valorizada.",
+      "Estudar esse tema ajuda a construir atitudes mais justas e acolhedoras."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Respeito nas relações",
+        "texto": "Respeitar o outro significa reconhecer sua dignidade, seus limites e suas diferenças. Na escola e em outros espaços, essa atitude fortalece relações mais saudáveis e responsáveis.",
+        "dica": "Observe como pequenas atitudes do dia a dia podem fortalecer ou enfraquecer a convivência."
+      },
+      {
+        "subtitulo": "Diversidade e cidadania",
+        "texto": "A diversidade envolve modos de viver, pensar, agir e se expressar. Valorizar essa pluralidade é importante para combater preconceitos e construir uma convivência mais democrática.",
+        "dica": "Pergunte como suas atitudes podem contribuir para um ambiente mais respeitoso."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma situação em que colegas têm opiniões diferentes sobre um mesmo tema.",
+        "passos": [
+          "Observe que discordar não significa desrespeitar.",
+          "Perceba que escuta e diálogo ajudam na convivência."
+        ],
+        "resposta": "Esse exemplo mostra a importância do respeito na vida coletiva."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti8-respeito-diversidade-convivencia-ex-01","enunciado":"Uma convivência ética depende de:","tipo":"multipla_escolha","alternativas":["respeito e responsabilidade nas relações","desprezo pelas diferenças","eliminação do diálogo","imposição constante da própria opinião"],"respostaCorreta":"respeito e responsabilidade nas relações","explicacao":"A ética nas relações exige consideração pelo outro e cuidado com a convivência.","dificuldade":"facil"},
+      {"id":"eti8-respeito-diversidade-convivencia-ex-02","enunciado":"Valorizar a diversidade significa:","tipo":"multipla_escolha","alternativas":["reconhecer e respeitar diferenças","achar que todos devem pensar igual","evitar qualquer convivência com o diferente","reduzir a sociedade a um único modo de viver"],"respostaCorreta":"reconhecer e respeitar diferenças","explicacao":"A diversidade deve ser entendida como parte importante da vida em sociedade.","dificuldade":"facil"},
+      {"id":"eti8-respeito-diversidade-convivencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O diálogo ajuda a lidar com diferenças de forma mais respeitosa.","Discordar autoriza o desrespeito.","A convivência melhora quando se ignora o outro.","Diversidade atrapalha toda vida em grupo."],"respostaCorreta":"O diálogo ajuda a lidar com diferenças de forma mais respeitosa.","explicacao":"O diálogo é uma ferramenta importante para construir convivência ética e democrática.","dificuldade":"medio"},
+      {"id":"eti8-respeito-diversidade-convivencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver atitudes mais justas e acolhedoras","reforçar preconceitos","evitar qualquer escuta do outro","substituir ética por imposição"],"respostaCorreta":"desenvolver atitudes mais justas e acolhedoras","explicacao":"A reflexão ética contribui para relações mais saudáveis, respeitosas e responsáveis.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti8-respeito-diversidade-convivencia-sim-01","enunciado":"A principal ideia do estudo de respeito e diversidade é compreender que:","tipo":"multipla_escolha","alternativas":["conviver bem exige reconhecer diferenças com responsabilidade e diálogo","todos devem agir da mesma forma sempre","diferenças impedem qualquer convivência","ética serve apenas para regras formais"],"respostaCorreta":"conviver bem exige reconhecer diferenças com responsabilidade e diálogo","explicacao":"A convivência ética se fortalece com respeito, escuta e valorização da diversidade.","dificuldade":"medio"}
+    ]
+  }
+]

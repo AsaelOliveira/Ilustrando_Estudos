@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien8-transformacoes-quimicas",
+    "titulo": "Transformações químicas",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Matéria e energia",
+    "resumo": [
+      "Transformações químicas produzem novas substâncias.",
+      "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química.",
+      "Nem toda mudança observada é química; algumas são apenas físicas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que caracteriza uma transformação química",
+        "texto": "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência.",
+        "dica": "Pergunte se surgiu uma nova substância com características próprias."
+      },
+      {
+        "subtitulo": "Evidências da reação",
+        "texto": "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção.",
+        "dica": "Observe o processo inteiro, e não apenas o resultado visual."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere o enferrujamento de um portão de ferro.",
+        "passos": [
+          "O ferro reage com substâncias presentes no ambiente.",
+          "Forma-se a ferrugem, que possui características diferentes do metal original."
+        ],
+        "resposta": "O enferrujamento é um exemplo de transformação química."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien8-transformacoes-quimicas-ex-01","enunciado":"Uma transformação química ocorre quando:","tipo":"multipla_escolha","alternativas":["novas substâncias são formadas","a matéria apenas muda de lugar","o objeto é observado à distância","a cor do ambiente permanece a mesma"],"respostaCorreta":"novas substâncias são formadas","explicacao":"A formação de novas substâncias é a principal característica de uma transformação química.","dificuldade":"facil"},
+      {"id":"cien8-transformacoes-quimicas-ex-02","enunciado":"Qual situação representa uma transformação química?","tipo":"multipla_escolha","alternativas":["queima de papel","derretimento do gelo","quebra de um copo","corte de uma folha"],"respostaCorreta":"queima de papel","explicacao":"Na queima, surgem novas substâncias, como cinzas e gases.","dificuldade":"facil"},
+      {"id":"cien8-transformacoes-quimicas-ex-03","enunciado":"Um possível indício de reação química é:","tipo":"multipla_escolha","alternativas":["formação de gás","mudança de endereço","troca de caderno","redução do silêncio"],"respostaCorreta":"formação de gás","explicacao":"A liberação de gás é um dos sinais que podem indicar transformação química.","dificuldade":"medio"},
+      {"id":"cien8-transformacoes-quimicas-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Nem toda mudança observada é química.","Toda mudança de tamanho é química.","Toda transformação física cria novas substâncias.","Mudanças químicas não alteram propriedades."],"respostaCorreta":"Nem toda mudança observada é química.","explicacao":"Algumas mudanças são apenas físicas, como derretimento e evaporação.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien8-transformacoes-quimicas-sim-01","enunciado":"Ao analisar uma reação, o principal critério para identificar transformação química é verificar se:","tipo":"multipla_escolha","alternativas":["houve formação de novas substâncias","o recipiente mudou de posição","o material ficou maior","a experiência foi rápida"],"respostaCorreta":"houve formação de novas substâncias","explicacao":"A presença de substâncias novas diferencia a transformação química da transformação física.","dificuldade":"medio"}
+    ]
+  }
+]

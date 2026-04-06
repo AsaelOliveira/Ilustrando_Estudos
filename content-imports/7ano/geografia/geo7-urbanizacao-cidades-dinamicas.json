@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo7-urbanizacao-cidades-dinamicas",
+    "titulo": "Urbanização e dinâmicas das cidades",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Espaço urbano",
+    "resumo": [
+      "A urbanização transforma o espaço e concentra pessoas, serviços e atividades econômicas.",
+      "As cidades apresentam desigualdades, circulação intensa e diferentes formas de ocupação.",
+      "Estudar esse tema ajuda a compreender problemas e potencialidades do espaço urbano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Crescimento urbano",
+        "texto": "O processo de urbanização envolve aumento da população urbana e ampliação das cidades. Esse crescimento modifica paisagens, redes de transporte, serviços e formas de uso do solo.",
+        "dica": "Observe como o crescimento da cidade altera moradia, circulação e organização dos bairros."
+      },
+      {
+        "subtitulo": "Desigualdades e desafios urbanos",
+        "texto": "As cidades concentram oportunidades, mas também apresentam problemas como trânsito, poluição, moradia precária e desigualdade no acesso a serviços. Por isso, estudar o espaço urbano exige olhar para suas contradições.",
+        "dica": "Ao analisar a cidade, pense tanto em seus recursos quanto nos desafios de sua organização."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare um centro urbano bem servido de transporte e serviços com uma área periférica com menos infraestrutura.",
+        "passos": [
+          "Observe diferenças no uso do espaço.",
+          "Perceba desigualdades de acesso a recursos urbanos.",
+          "Relacione isso à dinâmica das cidades."
+        ],
+        "resposta": "Esse contraste ajuda a compreender que a urbanização pode gerar oportunidades, mas também desigualdades."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo7-urbanizacao-cidades-dinamicas-ex-01","enunciado":"A urbanização está relacionada a:","tipo":"multipla_escolha","alternativas":["crescimento das cidades e da população urbana","redução total das atividades urbanas","ausência de serviços e circulação","fim das relações econômicas no espaço"],"respostaCorreta":"crescimento das cidades e da população urbana","explicacao":"Urbanização envolve ampliação do espaço urbano e maior concentração populacional nas cidades.","dificuldade":"facil"},
+      {"id":"geo7-urbanizacao-cidades-dinamicas-ex-02","enunciado":"Um desafio comum do espaço urbano é:","tipo":"multipla_escolha","alternativas":["desigualdade no acesso a serviços","ausência total de circulação de pessoas","falta de qualquer atividade econômica","impossibilidade de transformação da paisagem"],"respostaCorreta":"desigualdade no acesso a serviços","explicacao":"As cidades podem concentrar recursos, mas nem sempre os distribuem de forma igualitária.","dificuldade":"facil"},
+      {"id":"geo7-urbanizacao-cidades-dinamicas-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O espaço urbano reúne oportunidades e também problemas ligados à sua organização.","Urbanização não modifica paisagens nem relações sociais.","As cidades não apresentam desafios de infraestrutura.","A vida urbana é igual em todas as partes da cidade."],"respostaCorreta":"O espaço urbano reúne oportunidades e também problemas ligados à sua organização.","explicacao":"A cidade concentra serviços, circulação e atividades, mas também desigualdades e conflitos espaciais.","dificuldade":"medio"},
+      {"id":"geo7-urbanizacao-cidades-dinamicas-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor o funcionamento e os desafios das cidades","separar totalmente sociedade e espaço urbano","ignorar desigualdades urbanas","considerar a cidade um espaço homogêneo"],"respostaCorreta":"compreender melhor o funcionamento e os desafios das cidades","explicacao":"O tema amplia a leitura do espaço urbano como ambiente dinâmico e desigual.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo7-urbanizacao-cidades-dinamicas-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a urbanização transforma o espaço e gera oportunidades e desafios nas cidades","as cidades não mudam com o crescimento populacional","urbanização não se relaciona a desigualdades","o espaço urbano é sempre igual em todas as áreas"],"respostaCorreta":"a urbanização transforma o espaço e gera oportunidades e desafios nas cidades","explicacao":"O conteúdo mostra como crescimento urbano, serviços e desigualdades fazem parte da dinâmica das cidades.","dificuldade":"medio"}
+    ]
+  }
+]

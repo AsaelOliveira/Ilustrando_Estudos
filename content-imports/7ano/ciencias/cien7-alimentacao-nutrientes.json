@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien7-alimentacao-nutrientes",
+    "titulo": "Alimentação e nutrientes",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Vida e saúde",
+    "resumo": [
+      "A alimentação fornece energia e materiais importantes para o corpo.",
+      "Os nutrientes desempenham funções diferentes no organismo.",
+      "Uma alimentação equilibrada contribui para crescimento, saúde e bem-estar.",
+      "Os alimentos podem ser variados e complementares entre si.",
+      "Estudar esse tema ajuda a fazer escolhas mais conscientes no dia a dia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função da alimentação",
+        "texto": "A alimentação é essencial para o funcionamento do corpo, pois fornece energia e substâncias necessárias para crescimento, manutenção e realização das atividades diárias.",
+        "dica": "Alimentar-se bem não significa apenas comer bastante, mas escolher alimentos adequados."
+      },
+      {
+        "subtitulo": "Nutrientes e suas funções",
+        "texto": "Os nutrientes desempenham funções variadas no organismo. Alguns ajudam a fornecer energia, outros participam da construção e da manutenção dos tecidos, e outros contribuem para o equilíbrio do corpo.",
+        "dica": "Cada grupo de nutrientes tem um papel importante no organismo."
+      },
+      {
+        "subtitulo": "Equilíbrio alimentar",
+        "texto": "Uma alimentação equilibrada envolve variedade, moderação e qualidade. O consumo de diferentes tipos de alimentos favorece o funcionamento adequado do organismo e reduz riscos à saúde.",
+        "dica": "Variedade e equilíbrio costumam ser mais importantes do que excessos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o corpo precisa de diferentes nutrientes.",
+        "passos": [
+          "O organismo realiza muitas funções ao mesmo tempo.",
+          "Cada nutriente atua de maneira específica.",
+          "Por isso, uma alimentação variada é importante."
+        ],
+        "resposta": "O corpo precisa de diferentes nutrientes porque eles exercem funções complementares e essenciais."
+      },
+      {
+        "enunciado": "Relacione alimentação equilibrada e saúde.",
+        "passos": [
+          "Uma alimentação equilibrada oferece variedade de nutrientes.",
+          "Isso favorece o bom funcionamento do organismo.",
+          "Assim, ela contribui para a saúde e o bem-estar."
+        ],
+        "resposta": "Uma alimentação equilibrada ajuda a manter o organismo em melhores condições de funcionamento."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-01",
+        "enunciado": "A alimentação é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fornece energia e substâncias necessárias ao corpo",
+          "substitui a necessidade de água",
+          "elimina totalmente o cansaço",
+          "dispensa hábitos de saúde"
+        ],
+        "respostaCorreta": "fornece energia e substâncias necessárias ao corpo",
+        "explicacao": "Os alimentos contribuem para o funcionamento do corpo, fornecendo energia e materiais importantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-02",
+        "enunciado": "Os nutrientes:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desempenham funções diferentes no organismo",
+          "têm todos a mesma função",
+          "existem apenas em alimentos industrializados",
+          "não influenciam a saúde"
+        ],
+        "respostaCorreta": "desempenham funções diferentes no organismo",
+        "explicacao": "Os nutrientes participam de funções variadas no corpo, como fornecimento de energia e manutenção dos tecidos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-03",
+        "enunciado": "Uma alimentação equilibrada costuma envolver:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "variedade e moderação",
+          "apenas um tipo de alimento",
+          "grande quantidade de um único nutriente",
+          "ausência total de frutas e verduras"
+        ],
+        "respostaCorreta": "variedade e moderação",
+        "explicacao": "O equilíbrio alimentar depende da diversidade de alimentos e do consumo adequado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma alimentação variada favorece o bom funcionamento do organismo.",
+          "Comer bem significa apenas comer em grande quantidade.",
+          "Os nutrientes não têm relação com a saúde.",
+          "O corpo precisa sempre dos mesmos alimentos e nas mesmas quantidades."
+        ],
+        "respostaCorreta": "Uma alimentação variada favorece o bom funcionamento do organismo.",
+        "explicacao": "A variedade de alimentos ajuda a oferecer diferentes nutrientes ao corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-05",
+        "enunciado": "Estudar alimentação e nutrientes ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fazer escolhas mais conscientes no cotidiano",
+          "substituir toda atividade física",
+          "dispensar cuidados com a higiene",
+          "eliminar a necessidade de descanso"
+        ],
+        "respostaCorreta": "fazer escolhas mais conscientes no cotidiano",
+        "explicacao": "Esse conhecimento contribui para decisões mais equilibradas relacionadas à saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-ex-06",
+        "enunciado": "A principal ideia desse tema é que os alimentos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participam da saúde por meio dos nutrientes que fornecem",
+          "servem apenas para matar a fome momentaneamente",
+          "não têm relação com o organismo",
+          "são todos iguais em função e composição"
+        ],
+        "respostaCorreta": "participam da saúde por meio dos nutrientes que fornecem",
+        "explicacao": "Os alimentos contribuem para o funcionamento do organismo por causa dos nutrientes que oferecem.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien7-alimentacao-nutrientes-sim-01",
+        "enunciado": "Ao refletir sobre energia, crescimento e equilíbrio do corpo, o estudante está analisando o papel de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação e nutrientes",
+          "somente mapas e escalas",
+          "apenas verbos e períodos",
+          "unicamente ângulos"
+        ],
+        "respostaCorreta": "alimentação e nutrientes",
+        "explicacao": "Esse tema trata da relação entre alimentos, nutrientes e funcionamento do organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-alimentacao-nutrientes-sim-02",
+        "enunciado": "A principal compreensão desse tema é que uma alimentação equilibrada:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "contribui para a saúde e o bom funcionamento do corpo",
+          "dispensa outros cuidados com a saúde",
+          "elimina totalmente o risco de doenças",
+          "depende de um único tipo de alimento"
+        ],
+        "respostaCorreta": "contribui para a saúde e o bom funcionamento do corpo",
+        "explicacao": "A alimentação equilibrada favorece o organismo ao fornecer nutrientes variados e adequados.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

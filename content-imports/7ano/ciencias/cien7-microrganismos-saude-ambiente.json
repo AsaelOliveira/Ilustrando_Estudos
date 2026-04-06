@@ -1,0 +1,170 @@
+[
+  {
+    "id": "cien7-microrganismos-saude-ambiente",
+    "titulo": "Microrganismos, saúde e ambiente",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Vida e saúde",
+    "resumo": [
+      "Microrganismos são seres muito pequenos, invisíveis a olho nu.",
+      "Eles podem ser úteis, neutros ou causar doenças.",
+      "Alguns participam da produção de alimentos e da decomposição da matéria orgânica.",
+      "Há também microrganismos que exigem cuidados de higiene e prevenção.",
+      "Estudar esse tema ajuda a relacionar ciência, saúde e ambiente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são microrganismos",
+        "texto": "Microrganismos são seres vivos muito pequenos, geralmente observados apenas com auxílio de instrumentos apropriados. Eles estão presentes em muitos ambientes, como água, solo, ar e no corpo dos seres vivos.",
+        "dica": "Microrganismos não significam apenas doenças; muitos são importantes para a vida."
+      },
+      {
+        "subtitulo": "Funções no ambiente e no cotidiano",
+        "texto": "Diversos microrganismos atuam na decomposição da matéria orgânica, na fabricação de alimentos e em processos naturais importantes. Sem eles, vários ciclos ambientais e atividades humanas seriam prejudicados.",
+        "dica": "Pense em fermentação, decomposição e equilíbrio ambiental como exemplos de atuação dos microrganismos."
+      },
+      {
+        "subtitulo": "Saúde e prevenção",
+        "texto": "Alguns microrganismos podem causar doenças, por isso hábitos de higiene, saneamento e cuidados com a alimentação são fundamentais. Lavar as mãos, beber água tratada e conservar bem os alimentos são medidas simples e importantes.",
+        "dica": "Prevenção começa com informação e práticas de higiene no dia a dia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que alguns microrganismos são considerados úteis.",
+        "passos": [
+          "Nem todos causam doenças.",
+          "Alguns participam da produção de alimentos e da decomposição.",
+          "Essas funções ajudam o ambiente e o cotidiano humano."
+        ],
+        "resposta": "Alguns microrganismos são úteis porque realizam funções importantes para a natureza e para a vida humana."
+      },
+      {
+        "enunciado": "Relacione higiene e prevenção de doenças.",
+        "passos": [
+          "Certos microrganismos podem contaminar mãos, água e alimentos.",
+          "Hábitos de higiene reduzem esse risco.",
+          "Por isso, higiene é uma forma de prevenção."
+        ],
+        "resposta": "Medidas de higiene ajudam a evitar a transmissão de microrganismos prejudiciais."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-01",
+        "enunciado": "Microrganismos são seres:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "muito pequenos, geralmente invisíveis a olho nu",
+          "sempre grandes e fáceis de observar",
+          "exclusivos do fundo do mar",
+          "presentes apenas em hospitais"
+        ],
+        "respostaCorreta": "muito pequenos, geralmente invisíveis a olho nu",
+        "explicacao": "Os microrganismos são seres de tamanho reduzido, observados normalmente com auxílio de instrumentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-02",
+        "enunciado": "Qual alternativa mostra uma ação útil de alguns microrganismos?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decomposição da matéria orgânica",
+          "eliminação de toda a água do planeta",
+          "substituição dos vegetais",
+          "formação de montanhas"
+        ],
+        "respostaCorreta": "decomposição da matéria orgânica",
+        "explicacao": "Muitos microrganismos ajudam a decompor restos orgânicos e reciclar nutrientes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-03",
+        "enunciado": "Alguns microrganismos podem causar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "doenças",
+          "somente brilho no ar",
+          "movimentos dos continentes",
+          "mudanças no alfabeto"
+        ],
+        "respostaCorreta": "doenças",
+        "explicacao": "Embora muitos sejam úteis, alguns microrganismos podem causar infecções e outras doenças.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-04",
+        "enunciado": "Uma medida importante de prevenção é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lavar as mãos com frequência",
+          "ignorar a higiene dos alimentos",
+          "beber qualquer água sem cuidado",
+          "guardar comida em locais sujos"
+        ],
+        "respostaCorreta": "lavar as mãos com frequência",
+        "explicacao": "A higiene das mãos ajuda a reduzir a transmissão de microrganismos prejudiciais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-05",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem todos os microrganismos fazem mal à saúde.",
+          "Todos os microrganismos são perigosos.",
+          "Microrganismos não existem no ambiente.",
+          "Higiene não interfere na prevenção."
+        ],
+        "respostaCorreta": "Nem todos os microrganismos fazem mal à saúde.",
+        "explicacao": "Há microrganismos úteis, neutros e também os que podem causar doenças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-ex-06",
+        "enunciado": "Estudar microrganismos é importante porque ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações entre ambiente, saúde e prevenção",
+          "apenas nomes de capitais",
+          "somente cálculos algébricos",
+          "unicamente tipos de mapas"
+        ],
+        "respostaCorreta": "relações entre ambiente, saúde e prevenção",
+        "explicacao": "O tema liga conhecimentos científicos a práticas de cuidado e entendimento do ambiente.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien7-microrganismos-saude-ambiente-sim-01",
+        "enunciado": "Ao estudar fermentação, decomposição e higiene das mãos, o aluno está relacionando temas ligados a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "microrganismos",
+          "ângulos",
+          "pontuação",
+          "cartografia"
+        ],
+        "respostaCorreta": "microrganismos",
+        "explicacao": "Esses exemplos estão ligados à atuação e aos efeitos dos microrganismos no cotidiano e no ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-microrganismos-saude-ambiente-sim-02",
+        "enunciado": "A principal compreensão desse tema é que os microrganismos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem ter efeitos positivos ou negativos, dependendo da situação",
+          "servem apenas para causar doenças",
+          "não têm relação com o ambiente",
+          "não exigem cuidados preventivos"
+        ],
+        "respostaCorreta": "podem ter efeitos positivos ou negativos, dependendo da situação",
+        "explicacao": "O tema mostra a diversidade de papéis dos microrganismos e a importância da prevenção em saúde.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]
+

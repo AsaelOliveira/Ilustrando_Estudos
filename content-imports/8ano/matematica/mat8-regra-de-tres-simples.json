@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat8-regra-de-tres-simples",
+    "titulo": "Regra de três simples",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Grandezas e proporcionalidade",
+    "resumo": [
+      "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais.",
+      "É importante identificar se a relação é direta ou inversa.",
+      "A organização correta dos dados facilita a resolução."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização das grandezas",
+        "texto": "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra.",
+        "dica": "Monte a correspondência com atenção antes de calcular."
+      },
+      {
+        "subtitulo": "Proporcionalidade",
+        "texto": "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema.",
+        "dica": "Compare o comportamento das grandezas antes de montar a conta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?",
+        "passos": [
+          "Organize as grandezas: quantidade e preço.",
+          "Perceba que, aumentando a quantidade, o preço também aumenta.",
+          "Use a proporção para encontrar o valor correspondente."
+        ],
+        "resposta": "Como as grandezas são diretamente proporcionais, 5 cadernos custam 25 reais."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat8-regra-de-tres-simples-ex-01","enunciado":"A regra de três simples é usada para resolver problemas com:","tipo":"multipla_escolha","alternativas":["duas grandezas relacionadas","apenas figuras geométricas","números romanos","equações sem incógnita"],"respostaCorreta":"duas grandezas relacionadas","explicacao":"Esse procedimento compara grandezas proporcionais em situações do cotidiano.","dificuldade":"facil"},
+      {"id":"mat8-regra-de-tres-simples-ex-02","enunciado":"Quando uma grandeza aumenta e a outra também aumenta, a relação costuma ser:","tipo":"multipla_escolha","alternativas":["direta","inversa","aleatória","nula"],"respostaCorreta":"direta","explicacao":"Na proporcionalidade direta, as grandezas variam no mesmo sentido.","dificuldade":"facil"},
+      {"id":"mat8-regra-de-tres-simples-ex-03","enunciado":"Se 3 camisetas custam 45 reais, 1 camiseta custa:","tipo":"multipla_escolha","alternativas":["15 reais","12 reais","18 reais","10 reais"],"respostaCorreta":"15 reais","explicacao":"Basta dividir 45 por 3 para encontrar o valor unitário.","dificuldade":"medio"},
+      {"id":"mat8-regra-de-tres-simples-ex-04","enunciado":"Qual cuidado é essencial antes de aplicar a regra de três?","tipo":"multipla_escolha","alternativas":["organizar corretamente as grandezas e a correspondência entre os valores","eliminar os dados do problema","escolher números ao acaso","ignorar a relação entre as grandezas"],"respostaCorreta":"organizar corretamente as grandezas e a correspondência entre os valores","explicacao":"Uma montagem incorreta compromete toda a resolução do problema.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-regra-de-tres-simples-sim-01","enunciado":"Um problema de proporcionalidade exige, antes do cálculo, a identificação de:","tipo":"multipla_escolha","alternativas":["como as grandezas se relacionam","apenas a cor dos objetos citados","somente a ordem alfabética dos dados","o número de frases do enunciado"],"respostaCorreta":"como as grandezas se relacionam","explicacao":"A identificação da relação entre as grandezas orienta a montagem correta da solução.","dificuldade":"medio"}
+    ]
+  }
+]

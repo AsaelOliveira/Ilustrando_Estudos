@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mat8-equacoes-primeiro-grau",
+    "titulo": "Equações do 1º grau",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Álgebra",
+    "resumo": ["Equações do 1º grau envolvem uma incógnita e igualdade.","Resolver uma equação é encontrar o valor correto da incógnita.","Esse tema desenvolve raciocínio algébrico."],
+    "explicacao": [
+      {"subtitulo":"Incógnita","texto":"A incógnita representa um valor desconhecido em uma igualdade matemática.","dica":"O objetivo é descobrir o valor que mantém a igualdade verdadeira."},
+      {"subtitulo":"Resolução","texto":"Para resolver uma equação, usamos operações inversas e raciocínio lógico.","dica":"Sempre confira o resultado ao final."}
+    ],
+    "exemplos": [
+      {"enunciado":"Resolva x + 3 = 8.","passos":["Subtraia 3 de 8.","Encontre o valor de x."],"resposta":"O valor de x é 5."}
+    ],
+    "exercicios": [
+      {"id":"mat8-equacoes-primeiro-grau-ex-01","enunciado":"Uma equação apresenta:","tipo":"multipla_escolha","alternativas":["igualdade com incógnita","somente desenhos","apenas mapas","cores e formas"],"respostaCorreta":"igualdade com incógnita","explicacao":"A equação envolve igualdade e valor desconhecido.","dificuldade":"facil"},
+      {"id":"mat8-equacoes-primeiro-grau-ex-02","enunciado":"Resolver uma equação significa:","tipo":"multipla_escolha","alternativas":["encontrar a incógnita","apagar o sinal de igual","eliminar números","trocar o problema"],"respostaCorreta":"encontrar a incógnita","explicacao":"O objetivo é descobrir o valor desconhecido.","dificuldade":"facil"},
+      {"id":"mat8-equacoes-primeiro-grau-ex-03","enunciado":"Na equação x + 4 = 10, x vale:","tipo":"multipla_escolha","alternativas":["6","4","10","14"],"respostaCorreta":"6","explicacao":"Basta subtrair 4 de 10.","dificuldade":"medio"},
+      {"id":"mat8-equacoes-primeiro-grau-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Equações ajudam a resolver problemas algébricos.","Toda equação dispensa incógnita.","Resolver equação é decorar respostas.","Equação não usa igualdade."],"respostaCorreta":"Equações ajudam a resolver problemas algébricos.","explicacao":"O tema desenvolve raciocínio e organização matemática.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-equacoes-primeiro-grau-sim-01","enunciado":"A principal ideia desse tema é compreender como:","tipo":"multipla_escolha","alternativas":["encontrar valores desconhecidos em igualdades","eliminar números da álgebra","evitar operações","trocar igualdade por desenho"],"respostaCorreta":"encontrar valores desconhecidos em igualdades","explicacao":"As equações organizam relações numéricas com incógnitas.","dificuldade":"medio"}
+    ]
+  }
+]

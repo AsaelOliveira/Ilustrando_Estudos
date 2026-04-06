@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo7-urbanizacao-redes-transportes",
+    "titulo": "Urbanização, redes e transportes",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Espaço geográfico e circulação",
+    "resumo": [
+      "A urbanização é o crescimento e a expansão das cidades.",
+      "As redes de transporte e comunicação conectam pessoas, mercadorias e informações.",
+      "Essas redes influenciam a organização do espaço geográfico.",
+      "O desenvolvimento urbano cria oportunidades, mas também desafios.",
+      "Estudar esse tema ajuda a compreender a dinâmica entre cidade, circulação e sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Processo de urbanização",
+        "texto": "A urbanização ocorre quando as cidades crescem em população, extensão e importância econômica. Esse processo modifica a paisagem e cria novas formas de organização do espaço, com bairros, vias, serviços e atividades variadas.",
+        "dica": "Urbanização não é apenas construir mais prédios; é transformar a organização do espaço urbano."
+      },
+      {
+        "subtitulo": "Redes e circulação",
+        "texto": "As redes de transporte e comunicação ligam diferentes lugares e tornam possível a circulação de pessoas, mercadorias e informações. Rodovias, ferrovias, portos, internet e telefonia são exemplos de elementos dessas redes.",
+        "dica": "Quando pensamos em redes, devemos lembrar de conexões entre lugares."
+      },
+      {
+        "subtitulo": "Desafios e impactos",
+        "texto": "O crescimento urbano pode ampliar acesso a serviços, trabalho e comércio, mas também pode gerar problemas como congestionamentos, poluição, desigualdade e pressão sobre a infraestrutura. Por isso, entender a urbanização é importante para analisar o espaço vivido.",
+        "dica": "O espaço urbano reúne avanços e problemas ao mesmo tempo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como uma rodovia pode influenciar a organização do espaço.",
+        "passos": [
+          "A rodovia conecta cidades e facilita deslocamentos.",
+          "Ela favorece a circulação de pessoas e mercadorias.",
+          "Essa conexão pode estimular atividades econômicas e expansão urbana."
+        ],
+        "resposta": "As rodovias influenciam o espaço geográfico ao conectar lugares e intensificar fluxos e atividades."
+      },
+      {
+        "enunciado": "Observe o crescimento de um bairro próximo a uma estação de transporte.",
+        "passos": [
+          "O acesso mais fácil atrai moradores e serviços.",
+          "O bairro passa a concentrar mais circulação e atividades.",
+          "Isso mostra como transportes interferem na urbanização."
+        ],
+        "resposta": "As redes de transporte podem estimular o crescimento e a reorganização do espaço urbano."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-01",
+        "enunciado": "A urbanização corresponde ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescimento e à expansão das cidades",
+          "desaparecimento total das áreas urbanas",
+          "estudo exclusivo das florestas",
+          "aumento da salinidade dos oceanos"
+        ],
+        "respostaCorreta": "crescimento e à expansão das cidades",
+        "explicacao": "A urbanização envolve o crescimento das cidades e mudanças na organização do espaço urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-02",
+        "enunciado": "As redes de transporte são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conectam lugares e facilitam a circulação",
+          "impedem qualquer deslocamento",
+          "existem apenas em mapas escolares",
+          "substituem todos os serviços urbanos"
+        ],
+        "respostaCorreta": "conectam lugares e facilitam a circulação",
+        "explicacao": "Transportes ligam espaços e permitem fluxos de pessoas e mercadorias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-03",
+        "enunciado": "Qual alternativa apresenta um elemento de rede de circulação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "rodovia",
+          "substantivo",
+          "fotossíntese",
+          "fração equivalente"
+        ],
+        "respostaCorreta": "rodovia",
+        "explicacao": "Rodovias são estruturas importantes para a circulação no espaço geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-04",
+        "enunciado": "Um possível desafio do crescimento urbano é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "congestionamento",
+          "desaparecimento completo das cidades",
+          "fim da circulação de pessoas",
+          "eliminação de todos os serviços"
+        ],
+        "respostaCorreta": "congestionamento",
+        "explicacao": "O aumento da circulação e da ocupação do espaço urbano pode gerar congestionamentos e outros problemas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-05",
+        "enunciado": "As redes de comunicação também influenciam o espaço porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permitem circulação de informações",
+          "substituem todos os transportes físicos",
+          "eliminam a necessidade de cidades",
+          "servem apenas para decoração"
+        ],
+        "respostaCorreta": "permitem circulação de informações",
+        "explicacao": "As redes de comunicação conectam pessoas e lugares por meio do fluxo de informações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A urbanização e as redes alteram a organização do espaço geográfico.",
+          "A urbanização não muda a paisagem.",
+          "As redes não interferem na vida cotidiana.",
+          "As cidades crescem sem qualquer impacto social."
+        ],
+        "respostaCorreta": "A urbanização e as redes alteram a organização do espaço geográfico.",
+        "explicacao": "O crescimento urbano e a circulação reorganizam paisagens, fluxos e relações sociais.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo7-urbanizacao-redes-transportes-sim-01",
+        "enunciado": "Ao estudar avenidas, ônibus, internet e expansão dos bairros, o aluno está analisando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "urbanização e redes de circulação",
+          "apenas acentuação gráfica",
+          "somente cadeia alimentar",
+          "apenas sistema decimal"
+        ],
+        "respostaCorreta": "urbanização e redes de circulação",
+        "explicacao": "Esses elementos mostram como o espaço urbano e as redes se organizam e se conectam.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-urbanizacao-redes-transportes-sim-02",
+        "enunciado": "A principal compreensão desse tema é que cidades e redes:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se relacionam e moldam a dinâmica do espaço geográfico",
+          "não têm ligação entre si",
+          "existem sem circulação de pessoas",
+          "não interferem na vida social"
+        ],
+        "respostaCorreta": "se relacionam e moldam a dinâmica do espaço geográfico",
+        "explicacao": "O tema mostra como urbanização, transportes e comunicação influenciam o espaço e a sociedade.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

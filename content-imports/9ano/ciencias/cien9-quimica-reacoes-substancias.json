@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien9-quimica-reacoes-substancias",
+    "titulo": "Substâncias e reações químicas",
+    "disciplinaId": "cien9",
+    "turmaId": "9ano",
+    "unidade": "Química",
+    "resumo": [
+      "As substâncias apresentam propriedades que ajudam a identificá-las e diferenciá-las.",
+      "As reações químicas transformam materiais e produzem novas substâncias.",
+      "Estudar esse tema ajuda a interpretar fenômenos do cotidiano e processos industriais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Identificação de substâncias",
+        "texto": "As substâncias podem ser analisadas por características como estado físico, cor, cheiro, solubilidade e ponto de ebulição. Essas propriedades ajudam a compreender como os materiais se comportam em diferentes situações.",
+        "dica": "Nem toda mudança observada indica reação química; primeiro analise se houve formação de uma nova substância."
+      },
+      {
+        "subtitulo": "Transformações químicas",
+        "texto": "Uma reação química ocorre quando certas substâncias se transformam em outras com propriedades diferentes. Esse processo pode ser percebido por indícios como mudança de cor, formação de gás, liberação de calor ou aparecimento de precipitado.",
+        "dica": "Observe sinais de transformação, mas sempre relacione esses indícios ao contexto do fenômeno."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare a dissolução do açúcar em água com a ferrugem formada em um metal.",
+        "passos": [
+          "Observe que, na dissolução, não surge uma nova substância visível.",
+          "Na ferrugem, há transformação do material inicial em outra substância.",
+          "Analise o que diferencia uma mudança física de uma reação química."
+        ],
+        "resposta": "Esse contraste ajuda a perceber que nem toda transformação aparente é uma reação química."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien9-quimica-reacoes-substancias-ex-01","enunciado":"Uma reação química acontece quando:","tipo":"multipla_escolha","alternativas":["novas substâncias são formadas","um texto muda de tamanho","uma tabela ganha mais linhas","um desenho é apagado"],"respostaCorreta":"novas substâncias são formadas","explicacao":"A reação química envolve transformação da matéria com formação de substâncias diferentes das iniciais.","dificuldade":"facil"},
+      {"id":"cien9-quimica-reacoes-substancias-ex-02","enunciado":"Qual pode ser um indício de reação química?","tipo":"multipla_escolha","alternativas":["formação de gás","mudança de margem no caderno","troca da cor da capa do livro","organização alfabética de palavras"],"respostaCorreta":"formação de gás","explicacao":"A formação de gás é um dos possíveis sinais de que ocorreu transformação química.","dificuldade":"facil"},
+      {"id":"cien9-quimica-reacoes-substancias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As propriedades das substâncias ajudam a identificá-las e compará-las.","Toda mudança observável é obrigatoriamente química.","Reações químicas não acontecem no cotidiano.","Substâncias não apresentam propriedades características."],"respostaCorreta":"As propriedades das substâncias ajudam a identificá-las e compará-las.","explicacao":"Características como solubilidade, estado físico e ponto de ebulição ajudam a estudar os materiais.","dificuldade":"medio"},
+      {"id":"cien9-quimica-reacoes-substancias-ex-04","enunciado":"Estudar reações químicas é importante porque permite:","tipo":"multipla_escolha","alternativas":["compreender transformações presentes no cotidiano e na indústria","ignorar a composição dos materiais","eliminar a observação dos fenômenos","substituir toda a ciência por memorização"],"respostaCorreta":"compreender transformações presentes no cotidiano e na indústria","explicacao":"As reações químicas explicam muitos processos ligados aos materiais e ao seu uso social.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien9-quimica-reacoes-substancias-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["substâncias têm propriedades próprias e podem participar de reações que formam novos materiais","toda mudança é química e independe do contexto","as substâncias não apresentam características identificáveis","reações químicas não têm aplicação prática"],"respostaCorreta":"substâncias têm propriedades próprias e podem participar de reações que formam novos materiais","explicacao":"O tema integra identificação de materiais e compreensão de transformações químicas.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port7-pontuacao-sentidos",
+    "titulo": "Pontuação e construção de sentidos",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "A pontuação ajuda a organizar o texto e orientar a leitura.",
+      "Diferentes sinais podem produzir efeitos de sentido e evitar ambiguidades.",
+      "Estudar esse tema melhora a clareza e a expressividade na escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Pontuação e organização textual",
+        "texto": "Os sinais de pontuação indicam pausas, relações entre ideias e limites entre partes do texto. Seu uso adequado contribui para que o leitor compreenda melhor a mensagem e acompanhe o raciocínio apresentado.",
+        "dica": "Observe como a pontuação ajuda a separar explicações, enumerações e mudanças de entonação."
+      },
+      {
+        "subtitulo": "Sentido e intenção na escrita",
+        "texto": "Uma mesma sequência de palavras pode produzir efeitos diferentes conforme a pontuação utilizada. Por isso, pontuar bem também significa construir sentidos com mais precisão e expressividade.",
+        "dica": "Leia a frase em voz alta e perceba como os sinais interferem na interpretação."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare duas frases com as mesmas palavras, mas com pontuação diferente.",
+        "passos": [
+          "Observe onde os sinais aparecem.",
+          "Perceba como a leitura muda.",
+          "Relacione essa mudança aos efeitos de sentido."
+        ],
+        "resposta": "Esse contraste mostra que a pontuação interfere na construção do significado do texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"port7-pontuacao-sentidos-ex-01","enunciado":"A pontuação ajuda a:","tipo":"multipla_escolha","alternativas":["organizar a leitura e o sentido do texto","eliminar a necessidade de palavras","substituir a coerência textual","decorar a página"],"respostaCorreta":"organizar a leitura e o sentido do texto","explicacao":"Os sinais de pontuação orientam a leitura e ajudam a estruturar a mensagem.","dificuldade":"facil"},
+      {"id":"port7-pontuacao-sentidos-ex-02","enunciado":"Um efeito importante da pontuação é:","tipo":"multipla_escolha","alternativas":["evitar ambiguidades e marcar relações entre ideias","impedir toda interpretação do leitor","eliminar a função das frases","trocar o assunto do texto"],"respostaCorreta":"evitar ambiguidades e marcar relações entre ideias","explicacao":"Pontuar corretamente ajuda a tornar o texto mais claro e compreensível.","dificuldade":"facil"},
+      {"id":"port7-pontuacao-sentidos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A pontuação participa da construção de sentidos do texto.","Pontuar ou não pontuar produz sempre o mesmo efeito.","Pontuação não interfere na leitura.","Os sinais não têm função na escrita."],"respostaCorreta":"A pontuação participa da construção de sentidos do texto.","explicacao":"Os sinais ajudam a orientar o leitor e podem alterar a interpretação de uma frase.","dificuldade":"medio"},
+      {"id":"port7-pontuacao-sentidos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["escrever com mais clareza e precisão","ignorar a organização do texto","dispensar revisão da escrita","separar sentido e pontuação"],"respostaCorreta":"escrever com mais clareza e precisão","explicacao":"O tema fortalece o uso consciente da pontuação na produção textual.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port7-pontuacao-sentidos-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["pontuação organiza o texto e ajuda a construir sentidos","sinais gráficos não interferem na escrita","pontuar bem é apenas seguir enfeites visuais","a leitura não muda com a pontuação"],"respostaCorreta":"pontuação organiza o texto e ajuda a construir sentidos","explicacao":"O conteúdo mostra que pontuação e significado estão ligados no uso da linguagem escrita.","dificuldade":"medio"}
+    ]
+  }
+]

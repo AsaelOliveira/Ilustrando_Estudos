@@ -1,0 +1,46 @@
+[
+  {
+    "id": "erl8-organizacao-recursos-decisao",
+    "titulo": "Organização de recursos e tomada de decisão",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Projeto e raciocínio prático",
+    "resumo": [
+      "Tomar decisões exige analisar objetivos, recursos e consequências possíveis.",
+      "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados.",
+      "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Uso consciente de recursos",
+        "texto": "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios.",
+        "dica": "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários."
+      },
+      {
+        "subtitulo": "Decisão com critérios",
+        "texto": "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade.",
+        "dica": "Liste opções possíveis e compare vantagens e limites de cada uma."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar.",
+        "passos": [
+          "Organize o que é prioridade.",
+          "Distribua funções de modo equilibrado.",
+          "Escolha a solução mais viável para o objetivo proposto."
+        ],
+        "resposta": "Esse exemplo mostra como organização e decisão estão ligadas à resolução eficiente de desafios."
+      }
+    ],
+    "exercicios": [
+      {"id":"erl8-organizacao-recursos-decisao-ex-01","enunciado":"Tomar decisões com responsabilidade exige:","tipo":"multipla_escolha","alternativas":["analisar opções e consequências","agir por impulso sempre","ignorar os recursos disponíveis","evitar qualquer planejamento"],"respostaCorreta":"analisar opções e consequências","explicacao":"A tomada de decisão responsável depende de análise, comparação e reflexão.","dificuldade":"facil"},
+      {"id":"erl8-organizacao-recursos-decisao-ex-02","enunciado":"Organizar recursos significa:","tipo":"multipla_escolha","alternativas":["usar tempo, materiais e esforços de modo planejado","gastar tudo sem critério","eliminar toda divisão de tarefas","improvisar sem objetivo"],"respostaCorreta":"usar tempo, materiais e esforços de modo planejado","explicacao":"Organizar recursos ajuda a agir com mais eficiência e responsabilidade.","dificuldade":"facil"},
+      {"id":"erl8-organizacao-recursos-decisao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Comparar alternativas ajuda a tomar decisões mais conscientes.","Toda decisão deve ser tomada sem análise.","Planejamento impede a resolução de problemas.","Os recursos não influenciam a escolha das ações."],"respostaCorreta":"Comparar alternativas ajuda a tomar decisões mais conscientes.","explicacao":"A análise de opções permite escolhas mais adequadas ao objetivo e à situação.","dificuldade":"medio"},
+      {"id":"erl8-organizacao-recursos-decisao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais estratégia e responsabilidade","depender apenas do acaso","ignorar limites e prioridades","substituir raciocínio por improviso"],"respostaCorreta":"agir com mais estratégia e responsabilidade","explicacao":"O conteúdo fortalece organização, reflexão e escolhas mais eficientes no cotidiano.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"erl8-organizacao-recursos-decisao-sim-01","enunciado":"A principal ideia da organização de recursos e da tomada de decisão é:","tipo":"multipla_escolha","alternativas":["usar critérios claros para escolher e agir melhor","deixar tudo para a última hora","eliminar toda responsabilidade individual","agir sem observar o contexto"],"respostaCorreta":"usar critérios claros para escolher e agir melhor","explicacao":"Organizar recursos e comparar caminhos ajuda a alcançar objetivos com mais eficiência.","dificuldade":"medio"}
+    ]
+  }
+]

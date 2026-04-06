@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien9-biotecnologia-etica-ciencia",
+    "titulo": "Biotecnologia, ciência e ética",
+    "disciplinaId": "cien9",
+    "turmaId": "9ano",
+    "unidade": "Ciência, tecnologia e sociedade",
+    "resumo": [
+      "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas.",
+      "Esse campo científico se relaciona à saúde, à produção e à pesquisa.",
+      "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Aplicações da biotecnologia",
+        "texto": "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias.",
+        "dica": "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica."
+      },
+      {
+        "subtitulo": "Reflexão ética",
+        "texto": "Toda inovação científica precisa ser pensada também em relação a seus impactos sociais, ambientais e humanos. Por isso, estudar biotecnologia envolve refletir sobre responsabilidade, limites e uso consciente do conhecimento científico.",
+        "dica": "Pergunte não apenas o que a tecnologia permite fazer, mas também como ela deve ser usada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere o desenvolvimento de uma nova técnica para produção de medicamentos.",
+        "passos": [
+          "Observe a relação entre pesquisa científica e aplicação prática.",
+          "Perceba que também é necessário pensar nas implicações éticas do uso dessa tecnologia."
+        ],
+        "resposta": "Esse exemplo mostra a ligação entre biotecnologia, inovação e responsabilidade."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien9-biotecnologia-etica-ciencia-ex-01","enunciado":"A biotecnologia se relaciona ao uso de:","tipo":"multipla_escolha","alternativas":["conhecimentos biológicos em aplicações diversas","apenas regras de pontuação","somente operações aritméticas","exclusivamente mapas históricos"],"respostaCorreta":"conhecimentos biológicos em aplicações diversas","explicacao":"A biotecnologia aplica conhecimentos da biologia em processos científicos e tecnológicos.","dificuldade":"facil"},
+      {"id":"cien9-biotecnologia-etica-ciencia-ex-02","enunciado":"Uma área em que a biotecnologia pode atuar é:","tipo":"multipla_escolha","alternativas":["saúde","apenas literatura","somente arte mural","exclusivamente cartografia"],"respostaCorreta":"saúde","explicacao":"Vacinas, medicamentos e outras aplicações mostram a presença da biotecnologia na área da saúde.","dificuldade":"facil"},
+      {"id":"cien9-biotecnologia-etica-ciencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A biotecnologia deve ser analisada também sob o ponto de vista ético.","Ciência e ética nunca se relacionam.","Toda tecnologia pode ser usada sem reflexão alguma.","A biotecnologia não tem impacto social."],"respostaCorreta":"A biotecnologia deve ser analisada também sob o ponto de vista ético.","explicacao":"O uso do conhecimento científico exige responsabilidade e avaliação de seus impactos.","dificuldade":"medio"},
+      {"id":"cien9-biotecnologia-etica-ciencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["relacionar ciência, inovação e responsabilidade","ignorar consequências do uso da tecnologia","separar totalmente ciência e sociedade","reduzir biotecnologia a uma curiosidade sem aplicação"],"respostaCorreta":"relacionar ciência, inovação e responsabilidade","explicacao":"O conteúdo fortalece a reflexão crítica sobre o papel da ciência e seus efeitos na vida social.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien9-biotecnologia-etica-ciencia-sim-01","enunciado":"A principal ideia desse tema é compreender que a biotecnologia:","tipo":"multipla_escolha","alternativas":["une conhecimento científico e responsabilidade no uso das inovações","não tem relação com ética ou sociedade","serve apenas a laboratórios sem impacto cotidiano","dispensa qualquer reflexão sobre consequências"],"respostaCorreta":"une conhecimento científico e responsabilidade no uso das inovações","explicacao":"A biotecnologia mostra como ciência e tecnologia precisam ser pensadas também do ponto de vista ético e social.","dificuldade":"medio"}
+    ]
+  }
+]

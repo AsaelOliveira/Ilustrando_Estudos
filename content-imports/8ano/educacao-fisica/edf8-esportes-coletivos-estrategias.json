@@ -1,0 +1,45 @@
+[
+  {
+    "id": "edf8-esportes-coletivos-estrategias",
+    "titulo": "Esportes coletivos e estratégias de jogo",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Práticas esportivas",
+    "resumo": [
+      "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo.",
+      "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas.",
+      "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Jogo coletivo e cooperação",
+        "texto": "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe.",
+        "dica": "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo."
+      },
+      {
+        "subtitulo": "Leitura tática do jogo",
+        "texto": "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora.",
+        "dica": "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma equipe que troca passes para avançar até o gol ou a cesta.",
+        "passos": [
+          "Observe que a ação depende de cooperação entre os jogadores.",
+          "Perceba que a circulação da bola segue uma estratégia para criar espaço."
+        ],
+        "resposta": "Esse exemplo mostra a importância das estratégias nos esportes coletivos."
+      }
+    ],
+    "exercicios": [
+      {"id":"edf8-esportes-coletivos-estrategias-ex-01","enunciado":"Nos esportes coletivos, uma habilidade importante é:","tipo":"multipla_escolha","alternativas":["cooperar com a equipe","agir isoladamente o tempo todo","ignorar as regras do jogo","evitar qualquer comunicação"],"respostaCorreta":"cooperar com a equipe","explicacao":"A cooperação é fundamental para o funcionamento da equipe e para o desenvolvimento do jogo.","dificuldade":"facil"},
+      {"id":"edf8-esportes-coletivos-estrategias-ex-02","enunciado":"As estratégias de jogo ajudam a:","tipo":"multipla_escolha","alternativas":["organizar ações ofensivas e defensivas","eliminar o trabalho em equipe","substituir toda a prática corporal","ignorar o espaço de jogo"],"respostaCorreta":"organizar ações ofensivas e defensivas","explicacao":"A estratégia orienta decisões táticas para melhorar o desempenho coletivo.","dificuldade":"facil"},
+      {"id":"edf8-esportes-coletivos-estrategias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A leitura tática do jogo amplia a compreensão das práticas esportivas.","Esportes coletivos dependem apenas de força física.","Toda estratégia atrapalha a participação do grupo.","O espaço de jogo não interfere nas decisões da equipe."],"respostaCorreta":"A leitura tática do jogo amplia a compreensão das práticas esportivas.","explicacao":"Entender o jogo envolve observar posições, decisões, cooperação e uso do espaço.","dificuldade":"medio"},
+      {"id":"edf8-esportes-coletivos-estrategias-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["participar com mais consciência, respeito e estratégia","reduzir o esporte a ações sem organização","ignorar o papel do grupo","pensar que regras não são necessárias"],"respostaCorreta":"participar com mais consciência, respeito e estratégia","explicacao":"O conteúdo fortalece compreensão tática, convivência e participação qualificada nas práticas esportivas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"edf8-esportes-coletivos-estrategias-sim-01","enunciado":"A principal ideia do estudo dos esportes coletivos é perceber que eles exigem:","tipo":"multipla_escolha","alternativas":["cooperação, regras e tomada de decisão em grupo","somente velocidade individual","ausência de organização tática","ação totalmente isolada dos participantes"],"respostaCorreta":"cooperação, regras e tomada de decisão em grupo","explicacao":"Os esportes coletivos articulam técnica, estratégia, respeito e trabalho em equipe.","dificuldade":"medio"}
+    ]
+  }
+]

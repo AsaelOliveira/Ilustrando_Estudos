@@ -862,7 +862,7 @@ function TemasTab({
         turmaGroup.disciplineGroups.forEach((disciplineGroup) => {
           validKeys.add(disciplineGroup.key);
           if (!(disciplineGroup.key in next)) {
-            next[disciplineGroup.key] = true;
+            next[disciplineGroup.key] = false;
             changed = true;
           }
         });
@@ -1126,7 +1126,7 @@ function TemasTab({
 
             <div className="space-y-4">
               {turmaGroup.disciplineGroups.map((disciplineGroup, groupIndex) => {
-                const isOpen = openDisciplineGroups[disciplineGroup.key] ?? true;
+                const isOpen = openDisciplineGroups[disciplineGroup.key] ?? false;
 
                 return (
                   <div

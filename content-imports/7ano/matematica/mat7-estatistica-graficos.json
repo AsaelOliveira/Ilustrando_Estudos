@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat7-estatistica-graficos",
+    "titulo": "Estatística e leitura de gráficos",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Tratamento da informação",
+    "resumo": [
+      "A estatística ajuda a organizar, representar e interpretar dados.",
+      "Gráficos e tabelas permitem comparar informações de forma visual.",
+      "Estudar esse tema fortalece a leitura crítica de dados do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização de dados",
+        "texto": "A estatística permite reunir informações, classificar dados e apresentá-los de forma mais clara. Tabelas e gráficos ajudam a identificar tendências, comparar resultados e resumir informações importantes.",
+        "dica": "Observe sempre título, legenda e categorias antes de interpretar um gráfico."
+      },
+      {
+        "subtitulo": "Leitura e interpretação",
+        "texto": "Ler dados não é apenas observar números. É preciso compreender o que eles representam, comparar valores e tirar conclusões coerentes com as informações apresentadas.",
+        "dica": "Procure perceber qual pergunta os dados ajudam a responder."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um gráfico com a quantidade de livros lidos por diferentes turmas.",
+        "passos": [
+          "Identifique as categorias mostradas.",
+          "Compare os valores representados.",
+          "Tire uma conclusão com base nos dados."
+        ],
+        "resposta": "Esse exemplo mostra que gráficos ajudam a visualizar informações e a interpretar diferenças entre dados."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat7-estatistica-graficos-ex-01","enunciado":"A estatística ajuda a:","tipo":"multipla_escolha","alternativas":["organizar e interpretar dados","eliminar a necessidade de informação","trocar números por palavras aleatórias","dispensar comparações"],"respostaCorreta":"organizar e interpretar dados","explicacao":"Esse conteúdo ajuda a compreender informações por meio de dados e representações gráficas.","dificuldade":"facil"},
+      {"id":"mat7-estatistica-graficos-ex-02","enunciado":"Um gráfico serve para:","tipo":"multipla_escolha","alternativas":["representar dados de modo visual","substituir toda análise matemática","esconder informações importantes","eliminar categorias e valores"],"respostaCorreta":"representar dados de modo visual","explicacao":"Os gráficos facilitam comparação e leitura de informações quantitativas.","dificuldade":"facil"},
+      {"id":"mat7-estatistica-graficos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Interpretar dados exige observar valores, contexto e categorias.","Todo gráfico pode ser lido sem atenção ao título.","Estatística não tem relação com o cotidiano.","Tabelas e gráficos não ajudam na compreensão de informações."],"respostaCorreta":"Interpretar dados exige observar valores, contexto e categorias.","explicacao":"A leitura correta depende de análise cuidadosa dos elementos do gráfico ou da tabela.","dificuldade":"medio"},
+      {"id":"mat7-estatistica-graficos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler dados com mais criticidade e clareza","ignorar informações quantitativas","tratar gráficos como desenhos sem sentido","dispensar comparações entre valores"],"respostaCorreta":"ler dados com mais criticidade e clareza","explicacao":"O tema fortalece análise de informações e leitura matemática do cotidiano.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat7-estatistica-graficos-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["dados podem ser organizados e interpretados com ajuda de tabelas e gráficos","gráficos não ajudam a compreender informações","estatística não se relaciona à vida cotidiana","ler dados significa apenas observar números sem análise"],"respostaCorreta":"dados podem ser organizados e interpretados com ajuda de tabelas e gráficos","explicacao":"O conteúdo mostra como a estatística contribui para a leitura e compreensão de informações. ","dificuldade":"medio"}
+    ]
+  }
+]

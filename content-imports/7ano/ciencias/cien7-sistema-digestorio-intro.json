@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien7-sistema-digestorio-intro",
+    "titulo": "Sistema digestório: introdução",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "O sistema digestório participa da transformação dos alimentos no organismo.",
+      "Ele permite a digestão, a absorção de nutrientes e a eliminação de resíduos.",
+      "Diferentes órgãos atuam de forma integrada nesse processo.",
+      "A alimentação adequada e os hábitos saudáveis contribuem para seu bom funcionamento.",
+      "Estudar esse tema ajuda a compreender melhor o corpo humano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função do sistema digestório",
+        "texto": "O sistema digestório é responsável por transformar os alimentos em substâncias que o organismo pode aproveitar. Esse processo é importante para a obtenção de energia e nutrientes necessários à vida.",
+        "dica": "A digestão não serve apenas para 'quebrar' o alimento, mas para torná-lo aproveitável pelo corpo."
+      },
+      {
+        "subtitulo": "Órgãos e integração",
+        "texto": "Diversos órgãos participam do sistema digestório, cada um com funções específicas ao longo do percurso do alimento. O funcionamento integrado dessas partes garante a digestão e a absorção dos nutrientes.",
+        "dica": "Pense no sistema digestório como um conjunto de etapas organizadas."
+      },
+      {
+        "subtitulo": "Saúde e hábitos",
+        "texto": "Hábitos como alimentação equilibrada, hidratação e higiene contribuem para o bom funcionamento do sistema digestório. O cuidado com os alimentos e com a saúde geral também ajuda a prevenir problemas.",
+        "dica": "Saúde digestiva está ligada ao modo como nos alimentamos e cuidamos do corpo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que o sistema digestório é importante para o organismo.",
+        "passos": [
+          "O corpo precisa aproveitar os nutrientes dos alimentos.",
+          "Os alimentos precisam ser transformados para isso.",
+          "O sistema digestório realiza esse processo."
+        ],
+        "resposta": "O sistema digestório é importante porque transforma os alimentos em substâncias úteis ao organismo."
+      },
+      {
+        "enunciado": "Relacione alimentação equilibrada e funcionamento do sistema digestório.",
+        "passos": [
+          "A alimentação influencia a digestão.",
+          "Hábitos saudáveis favorecem o trabalho do sistema digestório.",
+          "Isso contribui para o bem-estar geral."
+        ],
+        "resposta": "A alimentação equilibrada ajuda o sistema digestório a funcionar melhor."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-01",
+        "enunciado": "O sistema digestório é responsável por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformar os alimentos para o aproveitamento pelo corpo",
+          "bombear sangue para o organismo",
+          "controlar apenas os movimentos do corpo",
+          "produzir luz no ambiente"
+        ],
+        "respostaCorreta": "transformar os alimentos para o aproveitamento pelo corpo",
+        "explicacao": "Sua função principal é participar da digestão e do aproveitamento dos nutrientes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-02",
+        "enunciado": "Uma função importante da digestão é permitir:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a absorção de nutrientes",
+          "a formação de continentes",
+          "a mudança da órbita dos planetas",
+          "a substituição do sistema respiratório"
+        ],
+        "respostaCorreta": "a absorção de nutrientes",
+        "explicacao": "Após a digestão, o organismo pode absorver nutrientes importantes para seu funcionamento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-03",
+        "enunciado": "Os órgãos do sistema digestório atuam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de forma integrada",
+          "sem relação entre si",
+          "apenas quando a pessoa dorme",
+          "somente em situações de doença"
+        ],
+        "respostaCorreta": "de forma integrada",
+        "explicacao": "Os órgãos realizam funções diferentes, mas trabalham juntos no processo digestivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-04",
+        "enunciado": "Qual hábito contribui para o bom funcionamento do sistema digestório?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimentação equilibrada",
+          "consumo de água contaminada",
+          "descuido com a higiene dos alimentos",
+          "ausência completa de refeições"
+        ],
+        "respostaCorreta": "alimentação equilibrada",
+        "explicacao": "Uma alimentação adequada favorece o funcionamento saudável do sistema digestório.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-05",
+        "enunciado": "Estudar o sistema digestório ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como o corpo aproveita os alimentos",
+          "somente a classificação dos mapas",
+          "apenas a divisão silábica",
+          "como se formam os vulcões"
+        ],
+        "respostaCorreta": "como o corpo aproveita os alimentos",
+        "explicacao": "O tema explica como o organismo transforma alimentos em substâncias úteis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O sistema digestório participa da digestão e da absorção de nutrientes.",
+          "O sistema digestório não tem relação com a alimentação.",
+          "A digestão ocorre sem órgãos.",
+          "Esse sistema não interfere na saúde."
+        ],
+        "respostaCorreta": "O sistema digestório participa da digestão e da absorção de nutrientes.",
+        "explicacao": "Essas são funções centrais do sistema digestório no organismo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien7-sistema-digestorio-intro-sim-01",
+        "enunciado": "Ao estudar digestão, nutrientes e órgãos que atuam em sequência, o aluno está analisando o:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "sistema digestório",
+          "sistema solar",
+          "sistema decimal",
+          "sistema cartográfico"
+        ],
+        "respostaCorreta": "sistema digestório",
+        "explicacao": "Esses elementos fazem parte do funcionamento do sistema digestório.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-sistema-digestorio-intro-sim-02",
+        "enunciado": "A principal compreensão desse tema é que o sistema digestório:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transforma alimentos em substâncias aproveitáveis pelo corpo",
+          "substitui todos os outros sistemas do organismo",
+          "atua apenas em situações de doença",
+          "não depende da alimentação"
+        ],
+        "respostaCorreta": "transforma alimentos em substâncias aproveitáveis pelo corpo",
+        "explicacao": "A função central do sistema digestório é tornar os alimentos úteis ao organismo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

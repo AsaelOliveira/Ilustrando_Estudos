@@ -1,0 +1,45 @@
+[
+  {
+    "id": "geo8-industria-urbanizacao-brasil",
+    "titulo": "Indústria e urbanização no Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço econômico e urbano",
+    "resumo": [
+      "A industrialização contribuiu para transformar cidades e regiões brasileiras.",
+      "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura.",
+      "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expansão industrial",
+        "texto": "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos.",
+        "dica": "Observe como a localização das atividades industriais afeta outras dinâmicas do território."
+      },
+      {
+        "subtitulo": "Crescimento das cidades",
+        "texto": "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos.",
+        "dica": "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas.",
+        "passos": [
+          "A indústria atrai trabalhadores e investimentos.",
+          "Com isso, a cidade se expande e precisa de mais serviços e infraestrutura."
+        ],
+        "resposta": "Esse é um exemplo de relação entre industrialização e urbanização."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo8-industria-urbanizacao-brasil-ex-01","enunciado":"A industrialização pode provocar:","tipo":"multipla_escolha","alternativas":["crescimento de cidades e transformação do espaço","eliminação do trabalho urbano","desaparecimento dos serviços","fim da circulação de pessoas"],"respostaCorreta":"crescimento de cidades e transformação do espaço","explicacao":"A expansão industrial influencia a dinâmica econômica e urbana do território.","dificuldade":"facil"},
+      {"id":"geo8-industria-urbanizacao-brasil-ex-02","enunciado":"A urbanização está relacionada ao aumento da:","tipo":"multipla_escolha","alternativas":["população urbana","produção agrícola exclusivamente","temperatura do planeta","quantidade de oceanos"],"respostaCorreta":"população urbana","explicacao":"Urbanização envolve crescimento das cidades e concentração populacional em áreas urbanas.","dificuldade":"facil"},
+      {"id":"geo8-industria-urbanizacao-brasil-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Industrialização e urbanização podem gerar oportunidades e também desafios sociais.","O crescimento urbano elimina automaticamente as desigualdades.","A indústria não interfere na organização do território.","Urbanização significa redução das cidades."],"respostaCorreta":"Industrialização e urbanização podem gerar oportunidades e também desafios sociais.","explicacao":"Esses processos trazem transformações econômicas, mas também criam problemas e contrastes no espaço urbano.","dificuldade":"medio"},
+      {"id":"geo8-industria-urbanizacao-brasil-ex-04","enunciado":"Estudar indústria e urbanização ajuda a compreender:","tipo":"multipla_escolha","alternativas":["mudanças na organização econômica e urbana do Brasil","somente a formação das estrelas","apenas regras ortográficas","exclusivamente a classificação dos animais"],"respostaCorreta":"mudanças na organização econômica e urbana do Brasil","explicacao":"Esse tema explica transformações importantes no espaço geográfico brasileiro.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo8-industria-urbanizacao-brasil-sim-01","enunciado":"Ao relacionar indústria e urbanização, é correto concluir que:","tipo":"multipla_escolha","alternativas":["a expansão industrial influencia o crescimento e os desafios das cidades","as cidades crescem sem relação com a economia","a indústria reduz necessariamente a população urbana","urbanização e trabalho não têm ligação"],"respostaCorreta":"a expansão industrial influencia o crescimento e os desafios das cidades","explicacao":"A atividade industrial altera fluxos populacionais, infraestrutura e organização urbana.","dificuldade":"medio"}
+    ]
+  }
+]

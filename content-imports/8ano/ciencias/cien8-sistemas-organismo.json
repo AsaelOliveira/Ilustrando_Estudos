@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cien8-sistemas-organismo",
+    "titulo": "Sistemas do organismo",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano",
+    "resumo": ["Os sistemas do corpo atuam de forma integrada.","Cada sistema possui funções específicas.","Esse estudo ajuda a compreender o organismo como conjunto."],
+    "explicacao": [
+      {"subtitulo":"Integração","texto":"Os sistemas do corpo se relacionam para manter o funcionamento do organismo.","dica":"O corpo funciona como um conjunto organizado."},
+      {"subtitulo":"Funções","texto":"Cada sistema tem um papel próprio, mas depende dos demais para manter o equilíbrio corporal.","dica":"Observar relações entre sistemas ajuda a compreender a saúde."}
+    ],
+    "exemplos": [
+      {"enunciado":"Pense na relação entre respiração e circulação.","passos":["Cada sistema possui função própria.","Eles se conectam no funcionamento corporal."],"resposta":"Esse é um exemplo de integração entre sistemas."}
+    ],
+    "exercicios": [
+      {"id":"cien8-sistemas-organismo-ex-01","enunciado":"Os sistemas do corpo atuam:","tipo":"multipla_escolha","alternativas":["de forma integrada","sempre isolados","sem função alguma","somente em desenhos"],"respostaCorreta":"de forma integrada","explicacao":"Os sistemas trabalham em conjunto no organismo.","dificuldade":"facil"},
+      {"id":"cien8-sistemas-organismo-ex-02","enunciado":"Cada sistema possui:","tipo":"multipla_escolha","alternativas":["funções específicas","nenhuma função","apenas nomes","somente cores"],"respostaCorreta":"funções específicas","explicacao":"Cada sistema realiza papéis próprios no corpo.","dificuldade":"facil"},
+      {"id":"cien8-sistemas-organismo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O organismo depende da integração entre sistemas.","Os sistemas não se relacionam.","Corpo humano funciona sem organização.","Saúde dispensa o funcionamento dos sistemas."],"respostaCorreta":"O organismo depende da integração entre sistemas.","explicacao":"A cooperação entre sistemas é essencial à vida.","dificuldade":"medio"},
+      {"id":"cien8-sistemas-organismo-ex-04","enunciado":"A principal ideia desse tema é compreender:","tipo":"multipla_escolha","alternativas":["o corpo como conjunto organizado","a eliminação dos sistemas","o fim da integração corporal","a ausência de funções"],"respostaCorreta":"o corpo como conjunto organizado","explicacao":"O tema mostra a relação entre diferentes sistemas do organismo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien8-sistemas-organismo-sim-01","enunciado":"Esse tema ajuda a entender por que o corpo:","tipo":"multipla_escolha","alternativas":["funciona com integração entre sistemas","dispensa relações internas","não precisa de organização","atua sem cooperação"],"respostaCorreta":"funciona com integração entre sistemas","explicacao":"Os sistemas corporais atuam de maneira articulada.","dificuldade":"medio"}
+    ]
+  }
+]

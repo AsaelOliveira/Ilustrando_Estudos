@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-geometria-angulos-poligonos",
+    "titulo": "Ângulos e polígonos",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Os ângulos aparecem em diferentes formas e posições no espaço.",
+      "Eles podem ser classificados conforme sua medida.",
+      "Os polígonos são figuras planas fechadas formadas por segmentos de reta.",
+      "A quantidade de lados ajuda a identificar e nomear os polígonos.",
+      "Esse conteúdo desenvolve percepção espacial e leitura geométrica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são ângulos",
+        "texto": "Ângulo é a abertura formada por duas semirretas com a mesma origem. No cotidiano, os ângulos aparecem em portas, relógios, placas e em diversas construções geométricas.",
+        "dica": "Pense no ângulo como a abertura entre duas direções."
+      },
+      {
+        "subtitulo": "Classificação dos ângulos",
+        "texto": "Os ângulos podem ser classificados conforme sua medida. Entre os mais estudados estão o agudo, o reto, o obtuso e o raso. Essa classificação ajuda a comparar e interpretar formas geométricas.",
+        "dica": "O ângulo reto mede 90 graus e costuma servir como referência."
+      },
+      {
+        "subtitulo": "Polígonos",
+        "texto": "Polígonos são figuras planas fechadas formadas apenas por segmentos de reta. Triângulo, quadrilátero, pentágono e hexágono são alguns exemplos, identificados pela quantidade de lados.",
+        "dica": "Para nomear um polígono, conte seus lados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Classifique um ângulo de 90 graus.",
+        "passos": [
+          "Observe sua medida.",
+          "Ângulos de 90 graus são usados como referência importante.",
+          "Esse tipo de ângulo é chamado de reto."
+        ],
+        "resposta": "Um ângulo de 90 graus é um ângulo reto."
+      },
+      {
+        "enunciado": "Identifique a figura com cinco lados.",
+        "passos": [
+          "Conte os lados da figura.",
+          "Uma figura plana fechada com cinco lados recebe nome específico.",
+          "Esse nome é pentágono."
+        ],
+        "resposta": "O polígono com cinco lados é o pentágono."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-01",
+        "enunciado": "Ângulo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a abertura formada por duas semirretas de mesma origem",
+          "uma figura sempre redonda",
+          "um tipo de número decimal",
+          "uma operação algébrica"
+        ],
+        "respostaCorreta": "a abertura formada por duas semirretas de mesma origem",
+        "explicacao": "Essa é a definição geométrica de ângulo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-02",
+        "enunciado": "O ângulo de 90 graus é chamado de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reto",
+          "agudo",
+          "obtuso",
+          "raso"
+        ],
+        "respostaCorreta": "reto",
+        "explicacao": "O ângulo reto mede exatamente 90 graus.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-03",
+        "enunciado": "Qual figura é um polígono?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma figura fechada formada por segmentos de reta",
+          "uma linha curva aberta",
+          "um círculo",
+          "um ponto isolado"
+        ],
+        "respostaCorreta": "uma figura fechada formada por segmentos de reta",
+        "explicacao": "Os polígonos são figuras planas fechadas formadas somente por segmentos de reta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-04",
+        "enunciado": "Um polígono com quatro lados é chamado de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quadrilátero",
+          "triângulo",
+          "pentágono",
+          "hexágono"
+        ],
+        "respostaCorreta": "quadrilátero",
+        "explicacao": "Polígonos de quatro lados recebem o nome de quadriláteros.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-05",
+        "enunciado": "Qual alternativa apresenta um ângulo agudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um ângulo menor que 90 graus",
+          "um ângulo igual a 90 graus",
+          "um ângulo maior que 180 graus",
+          "um ângulo exatamente de 180 graus"
+        ],
+        "respostaCorreta": "um ângulo menor que 90 graus",
+        "explicacao": "Ângulos agudos têm medida menor que 90 graus.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A quantidade de lados ajuda a identificar os polígonos.",
+          "Todo polígono é formado por linhas curvas.",
+          "Ângulos não aparecem em figuras geométricas.",
+          "Triângulos têm quatro lados."
+        ],
+        "respostaCorreta": "A quantidade de lados ajuda a identificar os polígonos.",
+        "explicacao": "A contagem dos lados é essencial para classificar e nomear os polígonos.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-geometria-angulos-poligonos-sim-01",
+        "enunciado": "Ao observar um quadrado, o estudante pode identificar nele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quatro lados e ângulos retos",
+          "três lados e um ângulo obtuso",
+          "cinco lados e um ângulo raso",
+          "apenas linhas curvas"
+        ],
+        "respostaCorreta": "quatro lados e ângulos retos",
+        "explicacao": "O quadrado é um quadrilátero com quatro lados e quatro ângulos retos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-geometria-angulos-poligonos-sim-02",
+        "enunciado": "A principal ideia desse tema é compreender como identificar e classificar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ângulos e figuras planas fechadas",
+          "somente verbos e pronomes",
+          "apenas elementos climáticos",
+          "unicamente processos históricos"
+        ],
+        "respostaCorreta": "ângulos e figuras planas fechadas",
+        "explicacao": "O conteúdo desenvolve a leitura geométrica de ângulos e polígonos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

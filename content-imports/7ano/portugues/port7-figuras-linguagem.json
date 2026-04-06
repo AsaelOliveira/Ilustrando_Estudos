@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-figuras-linguagem",
+    "titulo": "Figuras de linguagem: introdução",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Leitura e linguagem",
+    "resumo": [
+      "As figuras de linguagem tornam a comunicação mais expressiva e criativa.",
+      "Elas aparecem com frequência em poemas, músicas, propagandas e textos literários.",
+      "Comparação, metáfora, hipérbole e personificação são exemplos comuns.",
+      "Reconhecer essas figuras ajuda a interpretar melhor os sentidos do texto.",
+      "O uso das figuras de linguagem enriquece a leitura e a produção escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são figuras de linguagem",
+        "texto": "Figuras de linguagem são recursos usados para dar mais expressividade às palavras e aos enunciados. Elas ajudam a destacar ideias, criar efeitos de sentido e tornar a comunicação mais interessante para o leitor ou ouvinte.",
+        "dica": "Quando uma frase parece ter um sentido além do literal, pode haver uma figura de linguagem."
+      },
+      {
+        "subtitulo": "Comparação e metáfora",
+        "texto": "A comparação aproxima dois elementos por meio de uma palavra comparativa, como 'como' ou 'parece'. Já a metáfora faz essa aproximação de forma direta, sem usar conectivos comparativos, criando um efeito de sentido mais condensado.",
+        "dica": "Se houver palavras como 'como', 'tal qual' ou 'parece', pense primeiro em comparação."
+      },
+      {
+        "subtitulo": "Hipérbole e personificação",
+        "texto": "A hipérbole ocorre quando há exagero para intensificar uma ideia. A personificação acontece quando se atribuem ações, sentimentos ou características humanas a animais, objetos ou elementos da natureza.",
+        "dica": "Pergunte a si mesmo se houve exagero ou se algo sem vida ganhou comportamento humano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase: \"Estou morrendo de fome.\"",
+        "passos": [
+          "A frase não deve ser entendida literalmente.",
+          "Ela exagera a intensidade da fome para reforçar a ideia.",
+          "Esse exagero é uma hipérbole."
+        ],
+        "resposta": "A frase apresenta hipérbole, pois exagera a situação para dar mais força ao enunciado."
+      },
+      {
+        "enunciado": "Observe a frase: \"O vento cantava entre as árvores.\"",
+        "passos": [
+          "O vento não canta de verdade como um ser humano.",
+          "Foi atribuída ao vento uma ação humana.",
+          "Esse recurso é chamado de personificação."
+        ],
+        "resposta": "A frase apresenta personificação, pois atribui ao vento uma característica humana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-figuras-linguagem-ex-01",
+        "enunciado": "As figuras de linguagem são usadas para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dar mais expressividade à linguagem",
+          "eliminar todo sentido do texto",
+          "substituir a pontuação",
+          "corrigir erros de ortografia"
+        ],
+        "respostaCorreta": "dar mais expressividade à linguagem",
+        "explicacao": "As figuras de linguagem enriquecem os efeitos de sentido e tornam a comunicação mais expressiva.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-figuras-linguagem-ex-02",
+        "enunciado": "Qual alternativa apresenta um exemplo de comparação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele é forte como um touro.",
+          "Meu coração é de pedra.",
+          "Chorei um rio inteiro.",
+          "A lua sorriu para a noite."
+        ],
+        "respostaCorreta": "Ele é forte como um touro.",
+        "explicacao": "A presença da palavra 'como' indica uma comparação explícita entre os elementos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-figuras-linguagem-ex-03",
+        "enunciado": "Na frase \"Meu coração é de pedra\", há um exemplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "metáfora",
+          "comparação",
+          "enumeração",
+          "pontuação"
+        ],
+        "respostaCorreta": "metáfora",
+        "explicacao": "A frase associa diretamente o coração à pedra para sugerir frieza ou insensibilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-figuras-linguagem-ex-04",
+        "enunciado": "Qual frase apresenta personificação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As estrelas dançavam no céu.",
+          "Ela estudou como uma campeã.",
+          "Comi um prato enorme de arroz.",
+          "O menino leu o livro."
+        ],
+        "respostaCorreta": "As estrelas dançavam no céu.",
+        "explicacao": "A frase atribui às estrelas uma ação humana, característica da personificação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-figuras-linguagem-ex-05",
+        "enunciado": "Em \"Esperei uma eternidade\", o efeito de sentido foi construído por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hipérbole",
+          "metáfora",
+          "comparação",
+          "aliteração"
+        ],
+        "respostaCorreta": "hipérbole",
+        "explicacao": "A expressão exagera o tempo de espera para intensificar a ideia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-figuras-linguagem-ex-06",
+        "enunciado": "Reconhecer figuras de linguagem ajuda o leitor a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor os sentidos do texto",
+          "ignorar as palavras do texto",
+          "substituir toda leitura por memorização",
+          "ler apenas o título"
+        ],
+        "respostaCorreta": "compreender melhor os sentidos do texto",
+        "explicacao": "Esses recursos expressivos ampliam os sentidos e exigem interpretação mais atenta.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-figuras-linguagem-sim-01",
+        "enunciado": "Ao ler a frase \"A cidade acordou apressada\", o estudante deve perceber principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a atribuição de característica humana à cidade",
+          "uma conta matemática escondida",
+          "um erro de pontuação",
+          "a ausência de verbo"
+        ],
+        "respostaCorreta": "a atribuição de característica humana à cidade",
+        "explicacao": "A frase atribui comportamento humano à cidade, configurando personificação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-figuras-linguagem-sim-02",
+        "enunciado": "A principal utilidade das figuras de linguagem em um texto é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "enriquecer a expressão e ampliar os sentidos",
+          "eliminar a necessidade de interpretação",
+          "substituir as ideias do autor",
+          "deixar qualquer frase sem sentido"
+        ],
+        "respostaCorreta": "enriquecer a expressão e ampliar os sentidos",
+        "explicacao": "As figuras de linguagem tornam a mensagem mais expressiva e ajudam a construir sentidos variados.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

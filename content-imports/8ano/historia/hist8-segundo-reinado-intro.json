@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist8-segundo-reinado-intro",
+    "titulo": "Introdução ao Segundo Reinado",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Brasil Império",
+    "resumo": [
+      "O Segundo Reinado corresponde ao período do governo de D. Pedro II.",
+      "Foi uma fase de maior estabilidade política em comparação ao período anterior, mas com muitos conflitos e desigualdades.",
+      "Estudar esse momento ajuda a compreender mudanças econômicas, sociais e políticas do Brasil imperial."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização do governo",
+        "texto": "Com o início do Segundo Reinado, o Brasil passou a viver uma fase de reorganização política sob D. Pedro II. Essa etapa está ligada ao fortalecimento do poder central e à busca de maior estabilidade institucional.",
+        "dica": "Compare essa fase com as tensões do Período Regencial."
+      },
+      {
+        "subtitulo": "Transformações do período",
+        "texto": "Durante o Segundo Reinado, ocorreram mudanças econômicas e sociais importantes, mas o país também manteve desigualdades profundas. Por isso, é necessário analisar o período de forma crítica e contextualizada.",
+        "dica": "Observe ao mesmo tempo avanços, permanências e conflitos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise um período em que o governo tenta fortalecer a unidade política do país.",
+        "passos": [
+          "Identifique a presença de um poder central mais estável.",
+          "Observe que isso não elimina automaticamente todos os conflitos sociais."
+        ],
+        "resposta": "Essa leitura ajuda a compreender características do Segundo Reinado."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist8-segundo-reinado-intro-ex-01","enunciado":"O Segundo Reinado corresponde ao governo de:","tipo":"multipla_escolha","alternativas":["D. Pedro II","D. Pedro I","Marechal Deodoro","Tiradentes"],"respostaCorreta":"D. Pedro II","explicacao":"Esse período da história do Brasil está ligado ao governo de D. Pedro II.","dificuldade":"facil"},
+      {"id":"hist8-segundo-reinado-intro-ex-02","enunciado":"Em relação ao Período Regencial, o Segundo Reinado apresentou:","tipo":"multipla_escolha","alternativas":["maior estabilidade política relativa","o desaparecimento completo dos conflitos","o fim de toda desigualdade social","a volta ao período colonial"],"respostaCorreta":"maior estabilidade política relativa","explicacao":"Houve maior estabilidade institucional, embora continuassem existindo conflitos e desigualdades.","dificuldade":"facil"},
+      {"id":"hist8-segundo-reinado-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O Segundo Reinado deve ser estudado considerando avanços e problemas do período.","Foi um tempo sem qualquer transformação econômica ou social.","Não houve manutenção de desigualdades no Brasil imperial.","Esse período não tem relação com a formação histórica do país."],"respostaCorreta":"O Segundo Reinado deve ser estudado considerando avanços e problemas do período.","explicacao":"A análise histórica precisa considerar estabilidade política, mudanças e permanências sociais.","dificuldade":"medio"},
+      {"id":"hist8-segundo-reinado-intro-ex-04","enunciado":"Estudar o Segundo Reinado ajuda a compreender:","tipo":"multipla_escolha","alternativas":["aspectos políticos, econômicos e sociais do Brasil imperial","apenas a história da Roma Antiga","somente a estrutura da célula","exclusivamente a classificação dos triângulos"],"respostaCorreta":"aspectos políticos, econômicos e sociais do Brasil imperial","explicacao":"Esse período é importante para entender a formação histórica do Brasil no século XIX.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist8-segundo-reinado-intro-sim-01","enunciado":"A compreensão do Segundo Reinado exige perceber que esse período:","tipo":"multipla_escolha","alternativas":["combinou relativa estabilidade política com permanência de conflitos e desigualdades","foi totalmente uniforme e sem tensões","não teve importância histórica para o Brasil","eliminou imediatamente todos os problemas sociais"],"respostaCorreta":"combinou relativa estabilidade política com permanência de conflitos e desigualdades","explicacao":"Essa leitura permite uma visão mais crítica e completa do período imperial brasileiro.","dificuldade":"medio"}
+    ]
+  }
+]

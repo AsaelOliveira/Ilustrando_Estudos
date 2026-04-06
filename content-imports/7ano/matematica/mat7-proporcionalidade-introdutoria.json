@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat7-proporcionalidade-introdutoria",
+    "titulo": "Proporcionalidade introdutória",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Grandezas e relações",
+    "resumo": [
+      "A proporcionalidade relaciona grandezas que variam de maneira correspondente.",
+      "Esse tema ajuda a comparar valores e interpretar situações do cotidiano.",
+      "Estudar proporcionalidade fortalece raciocínio, organização e resolução de problemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relação entre grandezas",
+        "texto": "Quando duas grandezas variam mantendo uma relação estável, podemos analisar essa situação por meio da proporcionalidade. Esse raciocínio aparece em escalas, receitas, preços, tempo e diversas comparações do cotidiano.",
+        "dica": "Observe se o aumento ou a redução de uma grandeza acompanha a variação da outra de modo regular."
+      },
+      {
+        "subtitulo": "Leitura de situações proporcionais",
+        "texto": "A proporcionalidade ajuda a interpretar problemas em que não basta olhar valores isolados. É preciso comparar relações, organizar dados e perceber padrões entre quantidades envolvidas.",
+        "dica": "Antes de calcular, tente entender a relação entre as grandezas apresentadas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma receita que usa 2 copos de farinha para 1 de leite.",
+        "passos": [
+          "Observe a relação entre as quantidades.",
+          "Pense no que acontece se a receita for dobrada.",
+          "Relacione isso à ideia de proporcionalidade."
+        ],
+        "resposta": "Esse exemplo mostra que certas grandezas mantêm uma relação constante quando variam."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat7-proporcionalidade-introdutoria-ex-01","enunciado":"A proporcionalidade está relacionada a:","tipo":"multipla_escolha","alternativas":["relações entre grandezas que variam de forma correspondente","somente figuras geométricas fixas","palavras de um texto narrativo","mudanças sem nenhuma relação entre valores"],"respostaCorreta":"relações entre grandezas que variam de forma correspondente","explicacao":"A proporcionalidade envolve comparação entre quantidades ligadas entre si.","dificuldade":"facil"},
+      {"id":"mat7-proporcionalidade-introdutoria-ex-02","enunciado":"Um exemplo de situação proporcional pode aparecer em:","tipo":"multipla_escolha","alternativas":["receitas e escalas","nomes de continentes","pontuação de frases","classificação de verbos"],"respostaCorreta":"receitas e escalas","explicacao":"Essas situações geralmente envolvem relações regulares entre grandezas.","dificuldade":"facil"},
+      {"id":"mat7-proporcionalidade-introdutoria-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A proporcionalidade ajuda a interpretar padrões entre quantidades.","Grandezas proporcionais não mantêm relação entre si.","Esse conteúdo não aparece em situações cotidianas.","Proporcionalidade significa apenas decorar números."],"respostaCorreta":"A proporcionalidade ajuda a interpretar padrões entre quantidades.","explicacao":"O conteúdo ajuda a perceber relações constantes entre valores em diferentes contextos.","dificuldade":"medio"},
+      {"id":"mat7-proporcionalidade-introdutoria-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["comparar grandezas e resolver problemas com mais lógica","ignorar relações entre valores","tratar dados como números sem sentido","dispensar análise de padrões"],"respostaCorreta":"comparar grandezas e resolver problemas com mais lógica","explicacao":"O tema fortalece raciocínio matemático e interpretação de relações entre quantidades.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat7-proporcionalidade-introdutoria-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["algumas grandezas variam mantendo relações que podem ser analisadas matematicamente","toda comparação entre valores é aleatória","proporcionalidade não aparece no cotidiano","grandezas nunca se relacionam entre si"],"respostaCorreta":"algumas grandezas variam mantendo relações que podem ser analisadas matematicamente","explicacao":"O conteúdo mostra como relações proporcionais ajudam a interpretar e resolver situações concretas.","dificuldade":"medio"}
+    ]
+  }
+]

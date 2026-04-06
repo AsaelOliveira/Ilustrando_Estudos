@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-generos-textuais-cronica",
+    "titulo": "Gêneros textuais: a crônica",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A crônica é um gênero textual geralmente curto e ligado ao cotidiano.",
+      "Ela pode misturar observação, humor, crítica e reflexão.",
+      "O cronista transforma fatos simples em textos interessantes e significativos.",
+      "A linguagem da crônica costuma ser próxima do leitor e fluida.",
+      "Compreender esse gênero ajuda a interpretar melhor textos do dia a dia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que caracteriza a crônica",
+        "texto": "A crônica é um gênero textual que costuma abordar situações do cotidiano, apresentadas de forma breve, leve e reflexiva. Muitas vezes, o autor parte de um fato simples para comentar comportamentos, sentimentos ou aspectos da vida em sociedade.",
+        "dica": "Na crônica, um acontecimento comum pode ganhar um olhar criativo e reflexivo."
+      },
+      {
+        "subtitulo": "Linguagem e efeito de sentido",
+        "texto": "A linguagem da crônica costuma ser acessível e próxima da fala cotidiana, embora também possa ser elaborada e expressiva. O autor pode recorrer ao humor, à ironia ou à sensibilidade para aproximar o leitor do tema tratado.",
+        "dica": "Observe se o texto parece conversar com o leitor e comentar uma cena comum do cotidiano."
+      },
+      {
+        "subtitulo": "Leitura e interpretação",
+        "texto": "Ao ler uma crônica, é importante identificar o fato narrado, o ponto de vista do autor e a reflexão construída ao longo do texto. Nem sempre a intenção é apenas contar algo; muitas vezes, o objetivo é fazer pensar.",
+        "dica": "Pergunte-se não apenas o que aconteceu, mas o que o autor quis destacar com esse acontecimento."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Um texto conta a cena de um atraso no ônibus e termina refletindo sobre a pressa das pessoas.",
+        "passos": [
+          "O texto parte de uma situação cotidiana.",
+          "O autor usa esse fato para fazer uma reflexão mais ampla.",
+          "Essas características se aproximam da crônica."
+        ],
+        "resposta": "Trata-se de um exemplo compatível com a crônica, pois une cotidiano e reflexão."
+      },
+      {
+        "enunciado": "Observe um texto curto que descreve uma conversa em família com humor e crítica leve.",
+        "passos": [
+          "A situação apresentada é comum ao dia a dia.",
+          "O tom é próximo e dialoga com o leitor.",
+          "Há mistura de observação cotidiana e comentário reflexivo."
+        ],
+        "resposta": "Esses elementos são frequentes no gênero crônica."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-generos-textuais-cronica-ex-01",
+        "enunciado": "A crônica costuma tratar principalmente de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "situações do cotidiano",
+          "somente fórmulas matemáticas",
+          "apenas leis antigas",
+          "exclusivamente mapas políticos"
+        ],
+        "respostaCorreta": "situações do cotidiano",
+        "explicacao": "A crônica frequentemente parte de fatos comuns do dia a dia para construir sentidos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-ex-02",
+        "enunciado": "Uma característica comum da crônica é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "misturar narrativa breve e reflexão",
+          "usar somente linguagem técnica",
+          "apresentar apenas definições científicas",
+          "eliminar qualquer ponto de vista do autor"
+        ],
+        "respostaCorreta": "misturar narrativa breve e reflexão",
+        "explicacao": "A crônica costuma unir um fato simples a uma reflexão ou comentário do autor.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-ex-03",
+        "enunciado": "Qual alternativa combina melhor com o gênero crônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um texto curto sobre uma cena na escola com observação bem-humorada.",
+          "Uma tabela com resultados de um experimento.",
+          "Um mapa com escala e legenda.",
+          "Uma sequência de contas sem contexto."
+        ],
+        "respostaCorreta": "Um texto curto sobre uma cena na escola com observação bem-humorada.",
+        "explicacao": "A crônica se aproxima de situações cotidianas e pode apresentar humor ou reflexão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-ex-04",
+        "enunciado": "Ao interpretar uma crônica, o leitor deve observar também:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o ponto de vista do autor",
+          "somente o tamanho das palavras",
+          "apenas a cor do título",
+          "somente a quantidade de parágrafos"
+        ],
+        "respostaCorreta": "o ponto de vista do autor",
+        "explicacao": "O olhar do cronista sobre o fato narrado é parte importante da construção do sentido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-ex-05",
+        "enunciado": "Qual frase resume melhor a função da crônica?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformar fatos comuns em leitura significativa.",
+          "Substituir todas as notícias do jornal.",
+          "Apresentar apenas instruções técnicas.",
+          "Organizar fórmulas de geometria."
+        ],
+        "respostaCorreta": "Transformar fatos comuns em leitura significativa.",
+        "explicacao": "A crônica valoriza o cotidiano e mostra como situações simples podem gerar reflexão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-ex-06",
+        "enunciado": "A linguagem da crônica costuma ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "próxima do leitor e expressiva",
+          "obrigatoriamente científica",
+          "sempre antiga e formal",
+          "sem intenção de comunicação"
+        ],
+        "respostaCorreta": "próxima do leitor e expressiva",
+        "explicacao": "A crônica geralmente usa linguagem acessível, fluida e próxima das experiências do leitor.",
+        "dificuldade": "facil"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-generos-textuais-cronica-sim-01",
+        "enunciado": "Um texto breve comenta, com humor, uma situação de fila no mercado e leva o leitor a pensar sobre impaciência. Esse texto se aproxima da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crônica",
+          "receita",
+          "planta cartográfica",
+          "tabela estatística"
+        ],
+        "respostaCorreta": "crônica",
+        "explicacao": "O texto parte de uma situação cotidiana e desenvolve humor e reflexão, características comuns da crônica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-generos-textuais-cronica-sim-02",
+        "enunciado": "A principal contribuição da crônica para o leitor é mostrar que o cotidiano pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "observado de modo sensível, crítico ou bem-humorado",
+          "ignorado por completo",
+          "explicado apenas por fórmulas",
+          "entendido sem interpretação"
+        ],
+        "respostaCorreta": "observado de modo sensível, crítico ou bem-humorado",
+        "explicacao": "A crônica oferece um olhar autoral sobre experiências comuns, valorizando reflexão e expressão.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

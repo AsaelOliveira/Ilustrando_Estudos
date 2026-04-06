@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat7-equacoes-introdutorias",
+    "titulo": "Equações introdutórias",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "Equações representam situações em que há uma igualdade com valor desconhecido.",
+      "Resolver uma equação significa descobrir o valor que torna a sentença verdadeira.",
+      "Estudar esse tema fortalece o raciocínio algébrico e a resolução de problemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideia de incógnita",
+        "texto": "Em uma equação, a letra representa um valor desconhecido. O objetivo é descobrir que número satisfaz a igualdade apresentada, usando raciocínio e operações adequadas.",
+        "dica": "Pense na incógnita como uma quantidade que precisa ser determinada com base nas relações da igualdade."
+      },
+      {
+        "subtitulo": "Equação e problema",
+        "texto": "Muitas situações do cotidiano podem ser representadas por equações simples. Essa linguagem matemática ajuda a organizar informações e encontrar soluções com mais clareza.",
+        "dica": "Tente relacionar o enunciado do problema à igualdade matemática que ele representa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere a equação x + 5 = 12.",
+        "passos": [
+          "Observe a relação entre a incógnita e o número conhecido.",
+          "Pense em qual valor, somado a 5, resulta em 12.",
+          "Verifique se a igualdade fica verdadeira."
+        ],
+        "resposta": "Nesse caso, x = 7."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat7-equacoes-introdutorias-ex-01","enunciado":"Resolver uma equação significa:","tipo":"multipla_escolha","alternativas":["descobrir o valor desconhecido que mantém a igualdade verdadeira","apenas copiar a expressão","eliminar os números da conta","trocar a letra por qualquer número"],"respostaCorreta":"descobrir o valor desconhecido que mantém a igualdade verdadeira","explicacao":"A solução da equação é o valor que torna a sentença matemática verdadeira.","dificuldade":"facil"},
+      {"id":"mat7-equacoes-introdutorias-ex-02","enunciado":"Em uma equação, a letra costuma representar:","tipo":"multipla_escolha","alternativas":["um valor desconhecido","apenas um desenho","um sinal de pontuação","uma unidade de medida fixa"],"respostaCorreta":"um valor desconhecido","explicacao":"A letra funciona como incógnita e precisa ser determinada na resolução.","dificuldade":"facil"},
+      {"id":"mat7-equacoes-introdutorias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Equações ajudam a organizar e resolver problemas com mais clareza.","Equações não têm relação com situações práticas.","Toda letra em matemática não tem significado algum.","Resolver equações dispensa verificação do resultado."],"respostaCorreta":"Equações ajudam a organizar e resolver problemas com mais clareza.","explicacao":"A linguagem algébrica permite representar situações e buscar soluções de modo organizado.","dificuldade":"medio"},
+      {"id":"mat7-equacoes-introdutorias-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver raciocínio algébrico e resolução de problemas","ignorar relações de igualdade","substituir toda matemática por adivinhação","dispensar análise dos dados de um problema"],"respostaCorreta":"desenvolver raciocínio algébrico e resolução de problemas","explicacao":"O conteúdo fortalece a interpretação de igualdades e a busca de valores desconhecidos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat7-equacoes-introdutorias-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["equações ajudam a descobrir valores desconhecidos em igualdades e problemas","incógnitas não têm função em matemática","resolver equações é apenas decorar letras","igualdade não se relaciona à álgebra"],"respostaCorreta":"equações ajudam a descobrir valores desconhecidos em igualdades e problemas","explicacao":"O conteúdo introduz a linguagem algébrica como ferramenta de raciocínio e resolução.","dificuldade":"medio"}
+    ]
+  }
+]

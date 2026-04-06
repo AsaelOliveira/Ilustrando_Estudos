@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port9-artigo-opiniao-estrategias",
+    "titulo": "Artigo de opinião e estratégias argumentativas",
+    "disciplinaId": "port9",
+    "turmaId": "9ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social.",
+      "As estratégias argumentativas fortalecem a defesa do ponto de vista do autor.",
+      "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Posicionamento e propósito",
+        "texto": "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias.",
+        "dica": "Observe qual posição o autor assume e para quem o texto parece ser dirigido."
+      },
+      {
+        "subtitulo": "Estratégias argumentativas",
+        "texto": "Para sustentar o ponto de vista, o autor pode usar exemplos, comparações, dados, perguntas, explicações e refutações. Essas estratégias dão força à argumentação e tornam o texto mais convincente.",
+        "dica": "Pergunte como cada argumento contribui para defender a opinião apresentada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um artigo que defende a ampliação de espaços culturais para os jovens.",
+        "passos": [
+          "Identifique a opinião principal do autor.",
+          "Observe os argumentos e exemplos usados para sustentá-la."
+        ],
+        "resposta": "Esse é um exemplo de texto opinativo organizado com estratégias argumentativas."
+      }
+    ],
+    "exercicios": [
+      {"id":"port9-artigo-opiniao-estrategias-ex-01","enunciado":"O artigo de opinião se caracteriza por:","tipo":"multipla_escolha","alternativas":["defender um ponto de vista sobre um tema","narrar apenas fatos ficcionais","apresentar somente regras gramaticais","listar informações sem organização"],"respostaCorreta":"defender um ponto de vista sobre um tema","explicacao":"Esse gênero se organiza em torno de uma opinião sustentada por argumentos.","dificuldade":"facil"},
+      {"id":"port9-artigo-opiniao-estrategias-ex-02","enunciado":"Uma estratégia argumentativa pode ser:","tipo":"multipla_escolha","alternativas":["uso de exemplos e dados","eliminação do tema central","ausência de justificativas","troca constante de assunto"],"respostaCorreta":"uso de exemplos e dados","explicacao":"Exemplos e dados podem fortalecer a defesa da tese em um texto opinativo.","dificuldade":"facil"},
+      {"id":"port9-artigo-opiniao-estrategias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um artigo de opinião exige posicionamento claro e argumentos coerentes.","Esse gênero dispensa justificativas e desenvolvimento.","Argumentar é apenas repetir a mesma ideia sem exemplos.","A opinião do autor não interfere no texto."],"respostaCorreta":"Um artigo de opinião exige posicionamento claro e argumentos coerentes.","explicacao":"A força do gênero depende da relação entre tese, argumentos e organização do texto.","dificuldade":"medio"},
+      {"id":"port9-artigo-opiniao-estrategias-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["produzir e interpretar textos opinativos com mais criticidade","eliminar a necessidade de argumentar","substituir a leitura por frases isoladas","dispensar a organização do texto"],"respostaCorreta":"produzir e interpretar textos opinativos com mais criticidade","explicacao":"O conteúdo fortalece leitura crítica, posicionamento e construção textual mais consistente.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port9-artigo-opiniao-estrategias-sim-01","enunciado":"A principal ideia desse tema é compreender que o artigo de opinião:","tipo":"multipla_escolha","alternativas":["se apoia em estratégias para defender um ponto de vista","não apresenta tese nem argumentação","serve apenas para relatar fatos sem análise","não considera o leitor em sua construção"],"respostaCorreta":"se apoia em estratégias para defender um ponto de vista","explicacao":"O artigo de opinião organiza argumentos para sustentar uma posição diante de um tema relevante.","dificuldade":"medio"}
+    ]
+  }
+]

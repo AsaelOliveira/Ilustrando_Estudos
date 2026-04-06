@@ -1,0 +1,45 @@
+[
+  {
+    "id": "lit8-narrador-foco-narrativo",
+    "titulo": "Narrador e foco narrativo",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "O narrador é a voz que conta a história em um texto narrativo.",
+      "O foco narrativo influencia o modo como os fatos são apresentados ao leitor.",
+      "Estudar esse tema ajuda a compreender melhor a construção das narrativas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Quem conta a história",
+        "texto": "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração.",
+        "dica": "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador."
+      },
+      {
+        "subtitulo": "Efeitos do foco narrativo",
+        "texto": "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária.",
+        "dica": "Pergunte como a escolha do narrador altera a experiência de leitura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um trecho narrado em primeira pessoa.",
+        "passos": [
+          "Observe a presença de palavras como 'eu' e 'meu'.",
+          "Perceba que a história é contada a partir da perspectiva de quem narra."
+        ],
+        "resposta": "Esse exemplo mostra como o foco narrativo interfere na leitura do texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"lit8-narrador-foco-narrativo-ex-01","enunciado":"O narrador é:","tipo":"multipla_escolha","alternativas":["a voz que conta a história","o título do texto","a capa do livro","o cenário da narrativa"],"respostaCorreta":"a voz que conta a história","explicacao":"O narrador é responsável por apresentar os acontecimentos ao leitor.","dificuldade":"facil"},
+      {"id":"lit8-narrador-foco-narrativo-ex-02","enunciado":"O foco narrativo influencia:","tipo":"multipla_escolha","alternativas":["a forma como a história é apresentada","apenas a quantidade de páginas do texto","somente a ortografia dos personagens","o tipo de papel do livro"],"respostaCorreta":"a forma como a história é apresentada","explicacao":"A escolha do foco narrativo interfere na perspectiva e nas informações da narrativa.","dificuldade":"facil"},
+      {"id":"lit8-narrador-foco-narrativo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A escolha do narrador interfere na experiência de leitura.","Toda narrativa apresenta a história da mesma forma.","O narrador não tem importância para a interpretação do texto.","Primeira e terceira pessoa produzem exatamente o mesmo efeito sempre."],"respostaCorreta":"A escolha do narrador interfere na experiência de leitura.","explicacao":"O foco narrativo modifica proximidade, perspectiva e acesso às informações da história.","dificuldade":"medio"},
+      {"id":"lit8-narrador-foco-narrativo-ex-04","enunciado":"Estudar narrador e foco narrativo ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a construção das narrativas","reduzir toda leitura a resumo de enredo","ignorar a perspectiva do texto","pensar que toda história é neutra"],"respostaCorreta":"compreender melhor a construção das narrativas","explicacao":"Esse tema amplia a leitura crítica de como a história é organizada e contada.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"lit8-narrador-foco-narrativo-sim-01","enunciado":"A principal utilidade desse tema é compreender que:","tipo":"multipla_escolha","alternativas":["a narrativa muda conforme a voz e a perspectiva escolhidas para contar a história","toda história é contada do mesmo modo","o narrador não interfere no texto literário","o foco narrativo se resume ao título da obra"],"respostaCorreta":"a narrativa muda conforme a voz e a perspectiva escolhidas para contar a história","explicacao":"Narrador e foco narrativo influenciam a forma de leitura e interpretação do texto.","dificuldade":"medio"}
+    ]
+  }
+]

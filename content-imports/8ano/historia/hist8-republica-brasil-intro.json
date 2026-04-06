@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist8-republica-brasil-intro",
+    "titulo": "Introdução à Proclamação da República no Brasil",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Transições políticas no Brasil",
+    "resumo": [
+      "A Proclamação da República marcou o fim do regime monárquico no Brasil.",
+      "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais.",
+      "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudança de regime",
+        "texto": "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império.",
+        "dica": "Observe que grandes mudanças políticas costumam resultar de processos acumulados."
+      },
+      {
+        "subtitulo": "Leitura histórica do processo",
+        "texto": "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas.",
+        "dica": "Procure identificar sujeitos, interesses e consequências do processo político."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que um país muda sua forma de governo.",
+        "passos": [
+          "Observe quais grupos apoiam a mudança.",
+          "Perceba que a troca de regime altera instituições e formas de poder."
+        ],
+        "resposta": "Essa análise ajuda a compreender o significado histórico da Proclamação da República."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist8-republica-brasil-intro-ex-01","enunciado":"A Proclamação da República marcou:","tipo":"multipla_escolha","alternativas":["o fim da Monarquia no Brasil","o início do período colonial","a chegada dos portugueses ao Brasil","o começo do Período Regencial"],"respostaCorreta":"o fim da Monarquia no Brasil","explicacao":"Esse acontecimento encerrou o regime monárquico e iniciou a forma republicana de governo.","dificuldade":"facil"},
+      {"id":"hist8-republica-brasil-intro-ex-02","enunciado":"A mudança para a República ocorreu em meio a:","tipo":"multipla_escolha","alternativas":["tensões políticas e institucionais","ausência completa de conflitos","somente festas populares sem debate político","situação totalmente estável e sem disputas"],"respostaCorreta":"tensões políticas e institucionais","explicacao":"A transição de regime esteve ligada a conflitos e interesses de diferentes grupos.","dificuldade":"facil"},
+      {"id":"hist8-republica-brasil-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A Proclamação da República deve ser entendida como parte de um processo histórico.","A República surgiu sem qualquer contexto anterior.","A mudança de regime não alterou instituições políticas.","O tema não tem importância para a história do Brasil."],"respostaCorreta":"A Proclamação da República deve ser entendida como parte de um processo histórico.","explicacao":"Mudanças políticas desse porte se relacionam a processos mais amplos, e não a um fato isolado apenas.","dificuldade":"medio"},
+      {"id":"hist8-republica-brasil-intro-ex-04","enunciado":"Estudar a Proclamação da República ajuda a compreender:","tipo":"multipla_escolha","alternativas":["transformações na organização do Estado brasileiro","apenas a formação do relevo","somente a estrutura da célula","exclusivamente a literatura medieval"],"respostaCorreta":"transformações na organização do Estado brasileiro","explicacao":"Esse tema é importante para entender mudanças de poder e de instituições no país.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist8-republica-brasil-intro-sim-01","enunciado":"Ao estudar a Proclamação da República, o aluno deve perceber principalmente que houve:","tipo":"multipla_escolha","alternativas":["mudança de regime político em um contexto de disputas e transformações","apenas uma alteração de nome sem consequências","total ausência de tensões sociais","um processo isolado sem relação com o final do Império"],"respostaCorreta":"mudança de regime político em um contexto de disputas e transformações","explicacao":"A transição para a República faz parte de um processo político mais amplo na história do Brasil.","dificuldade":"medio"}
+    ]
+  }
+]

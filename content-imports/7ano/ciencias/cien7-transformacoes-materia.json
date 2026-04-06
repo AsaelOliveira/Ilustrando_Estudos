@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien7-transformacoes-materia",
+    "titulo": "Transformações da matéria",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Matéria e energia",
+    "resumo": [
+      "A matéria pode sofrer transformações físicas e químicas.",
+      "Nas transformações físicas, a substância continua a mesma, embora possa mudar de estado ou forma.",
+      "Nas transformações químicas, surgem novas substâncias com propriedades diferentes.",
+      "Observar evidências ajuda a identificar o tipo de transformação.",
+      "Esse estudo aproxima a ciência de situações do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Transformações físicas",
+        "texto": "Nas transformações físicas, a matéria muda de estado, forma, tamanho ou aparência, mas continua sendo a mesma substância. Derreter gelo e cortar papel são exemplos desse tipo de transformação.",
+        "dica": "Se a substância permanece a mesma, a transformação tende a ser física."
+      },
+      {
+        "subtitulo": "Transformações químicas",
+        "texto": "Nas transformações químicas, a matéria sofre alterações que produzem novas substâncias. Ferrugem, queima e cozimento de alimentos são exemplos em que ocorre mudança na composição da matéria.",
+        "dica": "Mudança de cor, liberação de gás e formação de novos materiais podem indicar transformação química."
+      },
+      {
+        "subtitulo": "Observação científica",
+        "texto": "Para identificar corretamente uma transformação, é importante observar o que mudou e se a substância inicial continua a mesma. Esse olhar investigativo ajuda a compreender fenômenos do cotidiano com mais precisão.",
+        "dica": "Nem toda mudança visível é química; é preciso analisar o que realmente aconteceu com a matéria."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise o derretimento do gelo.",
+        "passos": [
+          "O gelo passa do estado sólido para o líquido.",
+          "A substância continua sendo água.",
+          "Portanto, trata-se de transformação física."
+        ],
+        "resposta": "O derretimento do gelo é uma transformação física."
+      },
+      {
+        "enunciado": "Observe a formação de ferrugem em um objeto de ferro.",
+        "passos": [
+          "O material original sofre alteração ao longo do tempo.",
+          "Surge uma nova substância com características diferentes.",
+          "Esse processo corresponde a uma transformação química."
+        ],
+        "resposta": "A formação de ferrugem é uma transformação química."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien7-transformacoes-materia-ex-01",
+        "enunciado": "Uma transformação física ocorre quando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a substância permanece a mesma",
+          "sempre surgem novas substâncias",
+          "não acontece nenhuma mudança",
+          "todo material desaparece"
+        ],
+        "respostaCorreta": "a substância permanece a mesma",
+        "explicacao": "Na transformação física, a matéria muda de forma, estado ou tamanho, mas continua sendo a mesma substância.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-transformacoes-materia-ex-02",
+        "enunciado": "Qual exemplo apresenta transformação química?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formação de ferrugem",
+          "quebra de um copo",
+          "corte de papel",
+          "derretimento de gelo"
+        ],
+        "respostaCorreta": "formação de ferrugem",
+        "explicacao": "Na ferrugem, surge uma nova substância, o que caracteriza transformação química.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-transformacoes-materia-ex-03",
+        "enunciado": "Derreter uma vela sem queimá-la é exemplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformação física",
+          "transformação química",
+          "decomposição biológica",
+          "mistura heterogênea"
+        ],
+        "respostaCorreta": "transformação física",
+        "explicacao": "Nesse caso, ocorre mudança de estado ou forma, sem formação de nova substância.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-transformacoes-materia-ex-04",
+        "enunciado": "Qual sinal pode indicar transformação química?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formação de nova substância",
+          "somente mudança de tamanho",
+          "dobrar uma folha ao meio",
+          "trocar o recipiente de um líquido"
+        ],
+        "respostaCorreta": "formação de nova substância",
+        "explicacao": "Quando surgem novas substâncias com propriedades diferentes, há indício de transformação química.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-transformacoes-materia-ex-05",
+        "enunciado": "Cortar um pedaço de madeira é um caso de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformação física",
+          "transformação química",
+          "combustão",
+          "oxidação"
+        ],
+        "respostaCorreta": "transformação física",
+        "explicacao": "O material muda de forma, mas continua sendo madeira.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-transformacoes-materia-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem toda mudança visível na matéria é química.",
+          "Toda mudança de forma é química.",
+          "Transformação física e química são sempre iguais.",
+          "Transformações químicas não ocorrem no cotidiano."
+        ],
+        "respostaCorreta": "Nem toda mudança visível na matéria é química.",
+        "explicacao": "Para classificar corretamente uma transformação, é preciso observar se a substância continua a mesma ou se surgem novas substâncias.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien7-transformacoes-materia-sim-01",
+        "enunciado": "Ao comparar gelo derretendo e ferro enferrujando, o estudante deve concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o primeiro caso é físico e o segundo é químico",
+          "os dois casos são apenas físicos",
+          "os dois casos são apenas químicos",
+          "nenhum dos dois representa transformação da matéria"
+        ],
+        "respostaCorreta": "o primeiro caso é físico e o segundo é químico",
+        "explicacao": "No gelo, a substância continua sendo água; na ferrugem, surge uma nova substância.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-transformacoes-materia-sim-02",
+        "enunciado": "A principal habilidade desse tema é identificar, em situações do cotidiano, se houve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudança física ou química da matéria",
+          "somente alteração no tamanho das palavras",
+          "apenas localização geográfica",
+          "variação dos gêneros textuais"
+        ],
+        "respostaCorreta": "mudança física ou química da matéria",
+        "explicacao": "O tema desenvolve a capacidade de observar e interpretar transformações da matéria de forma científica.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-iluminismo-revolucao-francesa",
+    "titulo": "Iluminismo e Revolução Francesa",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Ideias e transformações políticas",
+    "resumo": [
+      "O Iluminismo valorizou a razão, a crítica e a busca por direitos.",
+      "Muitos pensadores iluministas questionaram privilégios e abusos do poder absoluto.",
+      "A Revolução Francesa foi influenciada por essas ideias.",
+      "Esse processo histórico transformou a política e a sociedade na França.",
+      "O tema ajuda a compreender mudanças importantes no mundo contemporâneo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideias iluministas",
+        "texto": "O Iluminismo foi um movimento intelectual que destacou o valor da razão, da ciência e da liberdade. Seus pensadores criticaram injustiças, defenderam limites ao poder dos governantes e estimularam reflexões sobre direitos e cidadania.",
+        "dica": "Ao estudar o Iluminismo, pense em crítica, razão e busca por mudanças."
+      },
+      {
+        "subtitulo": "Crítica ao absolutismo",
+        "texto": "Muitos iluministas criticaram o absolutismo, sistema em que o rei concentrava grande poder. Eles defendiam formas mais equilibradas de organização política, com leis, participação e proteção de direitos.",
+        "dica": "A crítica ao poder sem limites foi um ponto importante do Iluminismo."
+      },
+      {
+        "subtitulo": "Revolução Francesa",
+        "texto": "A Revolução Francesa, iniciada em 1789, foi um processo de profundas mudanças políticas e sociais. Ela se relacionou com desigualdades existentes na França e com a influência das ideias iluministas, que incentivavam liberdade, igualdade e transformação.",
+        "dica": "Não pense a Revolução Francesa apenas como um conflito; ela também expressou novas ideias políticas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Relacione Iluminismo e questionamento do poder absoluto.",
+        "passos": [
+          "Os iluministas defendiam o uso da razão e criticavam injustiças.",
+          "Eles questionavam a concentração de poder nas mãos do rei.",
+          "Assim, o Iluminismo contribuiu para críticas ao absolutismo."
+        ],
+        "resposta": "O Iluminismo ajudou a enfraquecer a ideia de poder absoluto ao defender limites e direitos."
+      },
+      {
+        "enunciado": "Explique por que a Revolução Francesa é considerada um marco histórico.",
+        "passos": [
+          "Ela provocou mudanças políticas e sociais importantes.",
+          "Enfrentou privilégios antigos e discutiu direitos.",
+          "Seus impactos ultrapassaram a França."
+        ],
+        "resposta": "A Revolução Francesa é um marco porque representou grandes transformações na política e na sociedade."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-01",
+        "enunciado": "O Iluminismo valorizava principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a razão e a crítica",
+          "o poder absoluto sem questionamentos",
+          "a proibição de novas ideias",
+          "o isolamento completo da ciência"
+        ],
+        "respostaCorreta": "a razão e a crítica",
+        "explicacao": "O Iluminismo defendia a reflexão crítica, a ciência e o uso da razão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-02",
+        "enunciado": "Os pensadores iluministas criticavam com frequência:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os abusos do poder absoluto",
+          "a existência de livros",
+          "toda forma de conhecimento",
+          "a observação científica"
+        ],
+        "respostaCorreta": "os abusos do poder absoluto",
+        "explicacao": "Uma das críticas iluministas era dirigida à concentração excessiva de poder.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-03",
+        "enunciado": "A Revolução Francesa foi influenciada por ideias ligadas a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "liberdade e igualdade",
+          "silêncio político total",
+          "fim de toda participação social",
+          "negação de qualquer direito"
+        ],
+        "respostaCorreta": "liberdade e igualdade",
+        "explicacao": "Essas ideias estiveram fortemente associadas às transformações defendidas no período.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-04",
+        "enunciado": "Qual relação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Iluminismo: movimento de ideias; Revolução Francesa: processo de transformação política e social.",
+          "Iluminismo: guerra naval; Revolução Francesa: mapa geográfico.",
+          "Iluminismo: sistema feudal; Revolução Francesa: tabela matemática.",
+          "Iluminismo: reforma agrária; Revolução Francesa: poema romântico."
+        ],
+        "respostaCorreta": "Iluminismo: movimento de ideias; Revolução Francesa: processo de transformação política e social.",
+        "explicacao": "O Iluminismo foi um movimento intelectual, e a Revolução Francesa foi um processo histórico de mudanças políticas e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-05",
+        "enunciado": "Uma das contribuições do Iluminismo foi estimular:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "debates sobre direitos e cidadania",
+          "a aceitação cega de toda autoridade",
+          "o abandono da razão",
+          "o fim de qualquer crítica social"
+        ],
+        "respostaCorreta": "debates sobre direitos e cidadania",
+        "explicacao": "O movimento incentivou reflexões sobre liberdade, direitos e organização do poder.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Revolução Francesa marcou mudanças importantes para a história política.",
+          "A Revolução Francesa não teve relação com ideias novas.",
+          "O Iluminismo defendia o poder absoluto ilimitado.",
+          "Esses temas não influenciaram a sociedade."
+        ],
+        "respostaCorreta": "A Revolução Francesa marcou mudanças importantes para a história política.",
+        "explicacao": "O processo revolucionário teve grande impacto histórico e se relacionou a debates sobre direitos e poder.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-sim-01",
+        "enunciado": "Ao estudar Iluminismo e Revolução Francesa, o aluno analisa principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre ideias políticas e transformações históricas",
+          "apenas a produção de mapas",
+          "somente a classificação dos animais",
+          "a resolução de expressões algébricas"
+        ],
+        "respostaCorreta": "a relação entre ideias políticas e transformações históricas",
+        "explicacao": "O tema mostra como ideias de razão, crítica e direitos influenciaram mudanças históricas concretas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-iluminismo-revolucao-francesa-sim-02",
+        "enunciado": "A principal compreensão desse tema é que novas ideias podem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciar mudanças sociais e políticas profundas",
+          "existir sem qualquer impacto histórico",
+          "servir apenas para decorar datas",
+          "eliminar a necessidade de análise histórica"
+        ],
+        "respostaCorreta": "influenciar mudanças sociais e políticas profundas",
+        "explicacao": "O Iluminismo e a Revolução Francesa mostram que ideias podem transformar instituições e sociedades.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

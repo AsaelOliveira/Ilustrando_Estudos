@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port7-coesao-conectivos",
+    "titulo": "Coesão e conectivos",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Produção textual",
+    "resumo": [
+      "A coesão ajuda a ligar ideias e organizar a progressão do texto.",
+      "Conectivos indicam relação de causa, oposição, conclusão, explicação e sequência.",
+      "Estudar esse tema melhora a clareza e a fluidez da escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ligações entre ideias",
+        "texto": "Um texto coeso apresenta relações claras entre frases e parágrafos. Para isso, conectivos e retomadas são usados para indicar continuidade, contraste, causa, consequência e outras relações de sentido.",
+        "dica": "Observe se as ideias do texto se conectam de forma natural e compreensível."
+      },
+      {
+        "subtitulo": "Conectivos em contexto",
+        "texto": "Palavras como 'porque', 'porém', 'além disso' e 'portanto' ajudam o leitor a acompanhar o raciocínio. O uso adequado desses elementos fortalece a organização textual e a compreensão das ideias. ",
+        "dica": "Escolha o conectivo de acordo com a relação que você quer marcar entre as partes do texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare dois pequenos textos: um com frases soltas e outro com conectivos bem empregados.",
+        "passos": [
+          "Observe qual deles é mais fácil de entender.",
+          "Perceba como os conectivos orientam a leitura.",
+          "Relacione isso à noção de coesão textual."
+        ],
+        "resposta": "Esse contraste mostra que a coesão ajuda o leitor a acompanhar o raciocínio do texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"port7-coesao-conectivos-ex-01","enunciado":"A coesão textual serve para:","tipo":"multipla_escolha","alternativas":["ligar ideias e organizar o texto","aumentar o tamanho do parágrafo","eliminar a necessidade de sentido","trocar palavras aleatoriamente"],"respostaCorreta":"ligar ideias e organizar o texto","explicacao":"A coesão ajuda a estabelecer relações claras entre as partes do texto.","dificuldade":"facil"},
+      {"id":"port7-coesao-conectivos-ex-02","enunciado":"Um conectivo pode indicar:","tipo":"multipla_escolha","alternativas":["causa, oposição ou conclusão","apenas cor e tamanho","somente classe gramatical isolada","número de linhas de um texto"],"respostaCorreta":"causa, oposição ou conclusão","explicacao":"Os conectivos mostram como as ideias se relacionam dentro do texto.","dificuldade":"facil"},
+      {"id":"port7-coesao-conectivos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O uso adequado de conectivos melhora a fluidez do texto.","Coesão não interfere na leitura.","As ideias de um texto podem ficar soltas sem prejuízo algum.","Conectivos só têm função decorativa."],"respostaCorreta":"O uso adequado de conectivos melhora a fluidez do texto.","explicacao":"Esses elementos ajudam o leitor a compreender a organização do raciocínio apresentado.","dificuldade":"medio"},
+      {"id":"port7-coesao-conectivos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["escrever com mais clareza e ligação entre ideias","produzir frases desconectadas","ignorar a progressão textual","dispensar revisão da escrita"],"respostaCorreta":"escrever com mais clareza e ligação entre ideias","explicacao":"A coesão fortalece a organização textual e a compreensão do texto produzido.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port7-coesao-conectivos-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["conectivos e retomadas ajudam a construir um texto mais coeso","coesão não tem relação com clareza textual","ideias não precisam de ligação em um texto","conectivos servem apenas para enfeitar a escrita"],"respostaCorreta":"conectivos e retomadas ajudam a construir um texto mais coeso","explicacao":"O conteúdo mostra como a coesão é importante para organizar e tornar o texto compreensível.","dificuldade":"medio"}
+    ]
+  }
+]

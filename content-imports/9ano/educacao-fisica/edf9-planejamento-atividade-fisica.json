@@ -1,0 +1,46 @@
+[
+  {
+    "id": "edf9-planejamento-atividade-fisica",
+    "titulo": "Planejamento de atividade física",
+    "disciplinaId": "edf9",
+    "turmaId": "9ano",
+    "unidade": "Corpo e organização da prática",
+    "resumo": [
+      "Planejar atividades físicas ajuda a tornar a prática mais segura e adequada aos objetivos.",
+      "Intensidade, frequência, descanso e regularidade influenciam os resultados do movimento corporal.",
+      "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização da prática corporal",
+        "texto": "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos.",
+        "dica": "Ao planejar uma atividade, considere seus objetivos e seus limites físicos."
+      },
+      {
+        "subtitulo": "Regularidade e equilíbrio",
+        "texto": "Ter regularidade e respeitar intervalos de descanso é importante para manter benefícios à saúde. O equilíbrio entre esforço, recuperação e adaptação corporal torna a prática mais consciente e segura.",
+        "dica": "Nem sempre fazer mais significa cuidar melhor do corpo; equilíbrio também é parte do processo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma rotina de atividade física organizada com outra feita sem planejamento nem descanso adequado.",
+        "passos": [
+          "Observe diferenças na frequência e na intensidade das práticas.",
+          "Perceba como o descanso aparece em cada caso.",
+          "Relacione a situação à ideia de prática corporal consciente."
+        ],
+        "resposta": "Esse contraste mostra que planejar a atividade física ajuda a proteger a saúde e a melhorar a qualidade da prática."
+      }
+    ],
+    "exercicios": [
+      {"id":"edf9-planejamento-atividade-fisica-ex-01","enunciado":"Planejar atividade física ajuda a:","tipo":"multipla_escolha","alternativas":["organizar a prática com mais segurança","dispensar qualquer cuidado com o corpo","eliminar a importância do descanso","reduzir atividade a improviso"],"respostaCorreta":"organizar a prática com mais segurança","explicacao":"O planejamento contribui para uma prática mais equilibrada e adequada aos objetivos.","dificuldade":"facil"},
+      {"id":"edf9-planejamento-atividade-fisica-ex-02","enunciado":"Um elemento importante no planejamento é:","tipo":"multipla_escolha","alternativas":["considerar esforço e descanso","ignorar limites físicos","fazer tudo de forma aleatória","evitar regularidade"],"respostaCorreta":"considerar esforço e descanso","explicacao":"A prática física equilibrada envolve atividade e recuperação corporal.","dificuldade":"facil"},
+      {"id":"edf9-planejamento-atividade-fisica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Regularidade e equilíbrio são importantes para práticas corporais saudáveis.","Descanso não interfere na qualidade da prática.","Toda atividade deve ser intensa em qualquer situação.","Planejamento não tem relação com saúde."],"respostaCorreta":"Regularidade e equilíbrio são importantes para práticas corporais saudáveis.","explicacao":"O cuidado com o corpo envolve frequência, adaptação e respeito aos limites.","dificuldade":"medio"},
+      {"id":"edf9-planejamento-atividade-fisica-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["fazer escolhas mais conscientes sobre atividade física","considerar a prática corporal sem nenhum critério","ignorar o próprio corpo durante o exercício","pensar apenas em desempenho competitivo"],"respostaCorreta":"fazer escolhas mais conscientes sobre atividade física","explicacao":"O conteúdo fortalece autonomia e responsabilidade no cuidado com o corpo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"edf9-planejamento-atividade-fisica-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["atividade física planejada tende a ser mais segura e adequada aos objetivos","qualquer prática corporal deve ser feita sem organização","descanso não faz parte do cuidado com o corpo","movimento e saúde não precisam de regularidade"],"respostaCorreta":"atividade física planejada tende a ser mais segura e adequada aos objetivos","explicacao":"O planejamento ajuda a tornar a prática mais consciente, equilibrada e saudável.","dificuldade":"medio"}
+    ]
+  }
+]

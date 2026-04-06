@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo7-atividades-economicas-espaco",
+    "titulo": "Atividades econômicas e organização do espaço",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Economia e território",
+    "resumo": [
+      "As atividades econômicas influenciam a organização do espaço geográfico.",
+      "Agricultura, indústria, comércio e serviços transformam paisagens e relações sociais.",
+      "Estudar esse tema ajuda a compreender como a economia se materializa no território."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Economia e paisagem",
+        "texto": "As atividades econômicas deixam marcas no espaço. Áreas rurais, zonas industriais, centros comerciais e redes de transporte mostram como a produção e o consumo organizam o território de maneiras diferentes.",
+        "dica": "Observe quais tipos de atividade predominam em cada paisagem e como isso influencia o espaço."
+      },
+      {
+        "subtitulo": "Transformações e desigualdades",
+        "texto": "A economia também pode produzir desigualdades territoriais, pois investimentos, infraestrutura e oportunidades não se distribuem igualmente. Analisar essas diferenças ajuda a entender a dinâmica do espaço geográfico.",
+        "dica": "Pense em como certas regiões concentram serviços e produção enquanto outras têm menos acesso a recursos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma área agrícola, uma área industrial e um centro comercial urbano.",
+        "passos": [
+          "Observe as atividades predominantes em cada espaço.",
+          "Perceba como a paisagem muda conforme a função econômica.",
+          "Relacione essas diferenças à organização do território."
+        ],
+        "resposta": "Esse exemplo mostra que o espaço geográfico reflete atividades econômicas e suas necessidades."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo7-atividades-economicas-espaco-ex-01","enunciado":"As atividades econômicas influenciam:","tipo":"multipla_escolha","alternativas":["a organização do espaço geográfico","apenas a ortografia das palavras","somente nomes de ruas","nenhum aspecto da paisagem"],"respostaCorreta":"a organização do espaço geográfico","explicacao":"A produção, o comércio e os serviços deixam marcas no território e nas paisagens.","dificuldade":"facil"},
+      {"id":"geo7-atividades-economicas-espaco-ex-02","enunciado":"Uma paisagem industrial costuma se relacionar a:","tipo":"multipla_escolha","alternativas":["produção e circulação de mercadorias","apenas vegetação natural preservada","ausência total de infraestrutura","nenhuma atividade humana"],"respostaCorreta":"produção e circulação de mercadorias","explicacao":"Áreas industriais se organizam em torno de atividades produtivas e de infraestrutura de transporte.","dificuldade":"facil"},
+      {"id":"geo7-atividades-economicas-espaco-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Economia e território se relacionam na formação de paisagens e desigualdades.","As atividades econômicas não alteram o espaço geográfico.","Toda região tem a mesma infraestrutura e oportunidade econômica.","Paisagens não revelam funções econômicas."],"respostaCorreta":"Economia e território se relacionam na formação de paisagens e desigualdades.","explicacao":"O espaço é transformado pelas atividades econômicas e pelas diferenças de investimento e acesso.","dificuldade":"medio"},
+      {"id":"geo7-atividades-economicas-espaco-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["entender como a economia se materializa no território","ignorar a relação entre trabalho e paisagem","separar produção e espaço geográfico","considerar o território sem função social"],"respostaCorreta":"entender como a economia se materializa no território","explicacao":"O tema amplia a compreensão das relações entre produção, circulação e organização espacial.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo7-atividades-economicas-espaco-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["atividades econômicas transformam paisagens e ajudam a organizar o território","o espaço geográfico não se relaciona à economia","paisagens não revelam funções produtivas","todas as regiões têm a mesma dinâmica econômica"],"respostaCorreta":"atividades econômicas transformam paisagens e ajudam a organizar o território","explicacao":"O conteúdo mostra que o espaço expressa relações de trabalho, produção e circulação.","dificuldade":"medio"}
+    ]
+  }
+]

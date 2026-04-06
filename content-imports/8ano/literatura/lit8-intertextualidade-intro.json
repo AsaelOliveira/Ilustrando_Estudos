@@ -1,0 +1,45 @@
+[
+  {
+    "id": "lit8-intertextualidade-intro",
+    "titulo": "Introdução à intertextualidade",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita.",
+      "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação.",
+      "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Textos em diálogo",
+        "texto": "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras.",
+        "dica": "Observe se o texto faz referência a outra obra, personagem ou situação conhecida."
+      },
+      {
+        "subtitulo": "Leitura comparativa",
+        "texto": "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica.",
+        "dica": "Pergunte o que muda quando um texto retoma outro em novo contexto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que recria um conto tradicional em linguagem atual.",
+        "passos": [
+          "Identifique elementos que lembram a história original.",
+          "Observe como eles foram transformados na nova versão."
+        ],
+        "resposta": "Esse exemplo mostra uma forma de intertextualidade na literatura."
+      }
+    ],
+    "exercicios": [
+      {"id":"lit8-intertextualidade-intro-ex-01","enunciado":"A intertextualidade acontece quando:","tipo":"multipla_escolha","alternativas":["um texto dialoga com outro","todo texto elimina referências anteriores","uma obra surge sem relação com nenhuma outra","apenas uma palavra é repetida sem sentido"],"respostaCorreta":"um texto dialoga com outro","explicacao":"Intertextualidade é a relação construída entre textos de formas variadas.","dificuldade":"facil"},
+      {"id":"lit8-intertextualidade-intro-ex-02","enunciado":"Uma forma de intertextualidade pode aparecer por meio de:","tipo":"multipla_escolha","alternativas":["referência ou recriação","ausência total de sentido","apagamento de toda memória cultural","eliminação de qualquer leitura comparativa"],"respostaCorreta":"referência ou recriação","explicacao":"Textos podem dialogar por citação, adaptação, paródia, alusão e outras estratégias. ","dificuldade":"facil"},
+      {"id":"lit8-intertextualidade-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Perceber a intertextualidade amplia a interpretação e o repertório do leitor.","Todo texto deve ser lido sempre sem comparação alguma.","Intertextualidade não existe na literatura.","Textos não podem retomar personagens ou ideias de outras obras."],"respostaCorreta":"Perceber a intertextualidade amplia a interpretação e o repertório do leitor.","explicacao":"Esse estudo ajuda a reconhecer como as obras dialogam e produzem novos sentidos.","dificuldade":"medio"},
+      {"id":"lit8-intertextualidade-intro-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["comparar obras e perceber novas camadas de sentido","ignorar referências culturais nos textos","achar que toda obra nasce isolada","reduzir a leitura a uma interpretação única e fechada"],"respostaCorreta":"comparar obras e perceber novas camadas de sentido","explicacao":"A intertextualidade fortalece a leitura crítica e a percepção das relações entre produções culturais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"lit8-intertextualidade-intro-sim-01","enunciado":"A principal ideia desse tema é compreender que os textos:","tipo":"multipla_escolha","alternativas":["podem dialogar entre si e produzir novos sentidos","funcionam sempre de forma isolada","não retomam referências culturais","dispensam comparação na leitura"],"respostaCorreta":"podem dialogar entre si e produzir novos sentidos","explicacao":"A intertextualidade mostra que a leitura literária também envolve relações entre obras e contextos.","dificuldade":"medio"}
+    ]
+  }
+]

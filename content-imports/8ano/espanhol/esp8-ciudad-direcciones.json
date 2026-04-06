@@ -1,0 +1,45 @@
+[
+  {
+    "id": "esp8-ciudad-direcciones",
+    "titulo": "La ciudad y direcciones básicas",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación cotidiana",
+    "resumo": [
+      "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol.",
+      "Esse tema trabalha vocabulário de lugares, deslocamentos e localização.",
+      "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lugares e localização",
+        "texto": "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento.",
+        "dica": "Associe as palavras a lugares que você conhece para facilitar a memorização."
+      },
+      {
+        "subtitulo": "Direções básicas",
+        "texto": "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara.",
+        "dica": "Pratique frases curtas com referência de lugar e direção."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'La biblioteca está cerca de la plaza.'",
+        "passos": [
+          "Identifique o lugar principal mencionado na frase.",
+          "Observe a expressão que indica localização."
+        ],
+        "resposta": "Esse é um exemplo simples de descrição de lugar em espanhol."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp8-ciudad-direcciones-ex-01","enunciado":"Falar sobre a cidade em espanhol ajuda a:","tipo":"multipla_escolha","alternativas":["descrever lugares e compreender deslocamentos","evitar qualquer situação prática de comunicação","eliminar o uso de vocabulário espacial","substituir frases por listas sem contexto"],"respostaCorreta":"descrever lugares e compreender deslocamentos","explicacao":"Esse conteúdo amplia a comunicação em contextos cotidianos ligados ao espaço urbano.","dificuldade":"facil"},
+      {"id":"esp8-ciudad-direcciones-ex-02","enunciado":"Uma expressão de localização serve para:","tipo":"multipla_escolha","alternativas":["indicar onde algo está","apagar o sentido da frase","trocar todo o vocabulário por números","eliminar a referência espacial"],"respostaCorreta":"indicar onde algo está","explicacao":"Essas expressões ajudam a localizar pessoas, objetos e lugares. ","dificuldade":"facil"},
+      {"id":"esp8-ciudad-direcciones-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Vocabulário de cidade e direções ajuda em situações reais de comunicação.","Esse tema não aparece no cotidiano.","Não é possível pedir orientação com frases simples em espanhol.","Lugares e deslocamentos não fazem parte da comunicação básica."],"respostaCorreta":"Vocabulário de cidade e direções ajuda em situações reais de comunicação.","explicacao":"Esse repertório é útil para compreender e dar informações simples sobre localização e caminho.","dificuldade":"medio"},
+      {"id":"esp8-ciudad-direcciones-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["falar sobre lugares e localização com mais segurança","evitar toda referência ao espaço","ignorar o vocabulário de circulação urbana","substituir diálogo por silêncio"],"respostaCorreta":"falar sobre lugares e localização com mais segurança","explicacao":"O conteúdo fortalece a comunicação prática em espanhol no dia a dia.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp8-ciudad-direcciones-sim-01","enunciado":"A principal utilidade desse tema é permitir que o estudante:","tipo":"multipla_escolha","alternativas":["compreenda e expresse localização e direções básicas em espanhol","substitua toda a comunicação por gestos","ignore a organização do espaço","dispense o uso de frases"],"respostaCorreta":"compreenda e expresse localização e direções básicas em espanhol","explicacao":"O vocabulário de lugares e direções fortalece a participação em situações reais de comunicação.","dificuldade":"medio"}
+    ]
+  }
+]

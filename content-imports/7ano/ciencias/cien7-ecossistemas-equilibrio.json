@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien7-ecossistemas-equilibrio",
+    "titulo": "Equilíbrio dos ecossistemas",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Ecologia",
+    "resumo": [
+      "Os ecossistemas dependem de relações entre seres vivos e fatores do ambiente.",
+      "O equilíbrio ecológico envolve interdependência e transformação constante.",
+      "Estudar esse tema ajuda a compreender impactos humanos sobre a natureza."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relações no ecossistema",
+        "texto": "Em um ecossistema, organismos e elementos não vivos interagem de diversas maneiras. Essas relações influenciam alimentação, reprodução, abrigo e sobrevivência das espécies.",
+        "dica": "Observe como mudanças em um elemento do ambiente podem afetar vários outros componentes do ecossistema."
+      },
+      {
+        "subtitulo": "Equilíbrio e ação humana",
+        "texto": "O equilíbrio ecológico não significa ausência de mudança, mas funcionamento dinâmico das relações naturais. Quando a ação humana altera intensamente esse sistema, surgem desequilíbrios que afetam espécies e recursos naturais.",
+        "dica": "Pense nos efeitos do desmatamento, da poluição e da redução da biodiversidade sobre o ambiente."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um ambiente em que a retirada de uma espécie altera a cadeia alimentar local.",
+        "passos": [
+          "Observe a função da espécie no ecossistema.",
+          "Perceba quais outros seres vivos são afetados.",
+          "Relacione a situação à ideia de equilíbrio ecológico."
+        ],
+        "resposta": "Esse exemplo mostra que os ecossistemas funcionam por meio de relações interdependentes."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien7-ecossistemas-equilibrio-ex-01","enunciado":"O equilíbrio de um ecossistema depende de:","tipo":"multipla_escolha","alternativas":["relações entre seres vivos e ambiente","apenas de um único animal","somente da temperatura","nenhuma interação entre elementos"],"respostaCorreta":"relações entre seres vivos e ambiente","explicacao":"Os ecossistemas se mantêm por meio de interações entre organismos e fatores ambientais.","dificuldade":"facil"},
+      {"id":"cien7-ecossistemas-equilibrio-ex-02","enunciado":"Uma alteração intensa causada pelo ser humano pode:","tipo":"multipla_escolha","alternativas":["gerar desequilíbrio ecológico","fortalecer automaticamente todas as espécies","não produzir nenhum efeito no ambiente","aumentar sempre a biodiversidade"],"respostaCorreta":"gerar desequilíbrio ecológico","explicacao":"Mudanças intensas podem comprometer relações ecológicas e a sobrevivência de espécies.","dificuldade":"facil"},
+      {"id":"cien7-ecossistemas-equilibrio-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Os ecossistemas são dinâmicos e dependem de interdependência entre seus elementos.","Equilíbrio ecológico significa ambiente parado e sem mudanças.","Seres vivos não dependem do ambiente em que vivem.","A ação humana nunca interfere na natureza."],"respostaCorreta":"Os ecossistemas são dinâmicos e dependem de interdependência entre seus elementos.","explicacao":"O funcionamento do ecossistema envolve relações contínuas entre organismos e ambiente.","dificuldade":"medio"},
+      {"id":"cien7-ecossistemas-equilibrio-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor os efeitos das ações humanas sobre a natureza","separar totalmente ser humano e ambiente","ignorar a biodiversidade","considerar os ecossistemas estruturas sem relação interna"],"respostaCorreta":"compreender melhor os efeitos das ações humanas sobre a natureza","explicacao":"O tema fortalece a leitura ecológica e a responsabilidade ambiental.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien7-ecossistemas-equilibrio-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["os ecossistemas dependem de relações equilibradas entre organismos e ambiente","o equilíbrio ecológico dispensa interação entre seres vivos","a ação humana nunca altera a natureza","cada espécie vive sem relação com as demais"],"respostaCorreta":"os ecossistemas dependem de relações equilibradas entre organismos e ambiente","explicacao":"O conteúdo mostra que a vida no ambiente depende de interdependência e equilíbrio dinâmico.","dificuldade":"medio"}
+    ]
+  }
+]

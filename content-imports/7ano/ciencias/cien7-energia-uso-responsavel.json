@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien7-energia-uso-responsavel",
+    "titulo": "Energia e uso responsÃ¡vel",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Recursos e tecnologia",
+    "resumo": [
+      "A energia estÃ¡ presente em muitas atividades humanas e processos naturais.",
+      "O uso responsÃ¡vel da energia envolve eficiÃªncia, cuidado ambiental e escolhas conscientes.",
+      "Estudar esse tema ajuda a relacionar ciÃªncia, cotidiano e sustentabilidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Energia no cotidiano",
+        "texto": "IluminaÃ§Ã£o, transporte, aparelhos eletrÃ´nicos e produÃ§Ã£o industrial dependem de diferentes formas de energia. Compreender esse tema ajuda a perceber como a energia participa da vida moderna e das transformaÃ§Ãµes do ambiente. ",
+        "dica": "Observe quantas atividades do dia a dia sÃ³ acontecem por causa do uso de energia."
+      },
+      {
+        "subtitulo": "Consumo e responsabilidade",
+        "texto": "Usar energia de forma responsÃ¡vel significa evitar desperdÃ­cios, pensar em impactos ambientais e valorizar fontes e prÃ¡ticas mais sustentÃ¡veis. Esse cuidado beneficia tanto a sociedade quanto o ambiente.",
+        "dica": "Pense em atitudes simples que reduzem consumo e desperdÃ­cio sem comprometer a qualidade de vida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma casa em que luzes e aparelhos ficam ligados sem necessidade com outra em que hÃ¡ uso mais consciente da energia.",
+        "passos": [
+          "Observe diferenÃ§as de consumo.",
+          "Perceba possÃ­veis impactos econÃ´micos e ambientais.",
+          "Relacione isso ao uso responsÃ¡vel da energia."
+        ],
+        "resposta": "Esse contraste mostra que pequenas atitudes podem fazer diferenÃ§a no consumo de energia."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien7-energia-uso-responsavel-ex-01","enunciado":"A energia estÃ¡ presente em:","tipo":"multipla_escolha","alternativas":["diversas atividades do cotidiano","apenas laboratÃ³rios cientÃ­ficos","somente fenÃ´menos sem relaÃ§Ã£o humana","nenhuma atividade tecnolÃ³gica"],"respostaCorreta":"diversas atividades do cotidiano","explicacao":"IluminaÃ§Ã£o, transporte e aparelhos sÃ£o exemplos de uso cotidiano da energia.","dificuldade":"facil"},
+      {"id":"cien7-energia-uso-responsavel-ex-02","enunciado":"Usar energia de forma responsÃ¡vel significa:","tipo":"multipla_escolha","alternativas":["evitar desperdÃ­cios e pensar em impactos ambientais","ligar tudo sem necessidade","ignorar formas de consumo","desconsiderar o ambiente"],"respostaCorreta":"evitar desperdÃ­cios e pensar em impactos ambientais","explicacao":"O uso responsÃ¡vel relaciona consumo, economia e cuidado com o ambiente.","dificuldade":"facil"},
+      {"id":"cien7-energia-uso-responsavel-ex-03","enunciado":"Qual afirmaÃ§Ã£o estÃ¡ correta?","tipo":"multipla_escolha","alternativas":["O consumo de energia pode ser repensado em favor da sustentabilidade.","Energia nÃ£o se relaciona Ã  vida moderna.","Toda forma de consumo Ã© igual e sem impacto ambiental.","Uso responsÃ¡vel da energia nÃ£o depende de escolhas humanas."],"respostaCorreta":"O consumo de energia pode ser repensado em favor da sustentabilidade.","explicacao":"Refletir sobre o uso da energia Ã© importante para reduzir desperdÃ­cios e impactos ambientais.","dificuldade":"medio"},
+      {"id":"cien7-energia-uso-responsavel-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["relacionar ciÃªncia, tecnologia e sustentabilidade","ignorar os efeitos do consumo energÃ©tico","separar energia do cotidiano","considerar o ambiente irrelevante"],"respostaCorreta":"relacionar ciÃªncia, tecnologia e sustentabilidade","explicacao":"O tema aproxima conhecimento cientÃ­fico de decisÃµes prÃ¡ticas sobre uso de recursos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien7-energia-uso-responsavel-sim-01","enunciado":"A principal ideia do tema Ã©:","tipo":"multipla_escolha","alternativas":["a energia Ã© essencial ao cotidiano e seu uso responsÃ¡vel contribui para a sustentabilidade","energia nÃ£o depende de escolhas humanas","consumo energÃ©tico nÃ£o produz impacto algum","ciÃªncia e cotidiano nÃ£o se relacionam nesse tema"],"respostaCorreta":"a energia Ã© essencial ao cotidiano e seu uso responsÃ¡vel contribui para a sustentabilidade","explicacao":"O conteÃºdo destaca a importÃ¢ncia da energia e do consumo consciente para a vida em sociedade.","dificuldade":"medio"}
+    ]
+  }
+]

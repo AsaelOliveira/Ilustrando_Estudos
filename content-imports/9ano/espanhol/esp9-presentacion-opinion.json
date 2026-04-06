@@ -1,0 +1,46 @@
+[
+  {
+    "id": "esp9-presentacion-opinion",
+    "titulo": "Presentación personal y expresión de opinión",
+    "disciplinaId": "esp9",
+    "turmaId": "9ano",
+    "unidade": "Comunicación inicial",
+    "resumo": [
+      "La lengua española permite presentarse, describirse y expresar opiniones en situaciones cotidianas.",
+      "Aprender estructuras básicas favorece la comunicación oral y escrita.",
+      "Este tema amplía el repertorio lingüístico y cultural del estudiante."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Presentarse con claridad",
+        "texto": "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas.",
+        "dica": "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'."
+      },
+      {
+        "subtitulo": "Expresar opiniones sencillas",
+        "texto": "Además de presentarse, el estudiante puede aprender a manifestar opiniones simples sobre temas cercanos, usando frases claras y vocabulario básico. Eso fortalece la confianza para comunicar ideas en otro idioma.",
+        "dica": "Relaciona palabras conocidas con frases cortas y bien organizadas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Lee un pequeño diálogo en el que una persona se presenta y dice qué le gusta hacer.",
+        "passos": [
+          "Identifica la información personal presentada.",
+          "Observa las expresiones usadas para hablar de gustos.",
+          "Relaciona esas estructuras con tu propia experiencia."
+        ],
+        "resposta": "Este ejemplo muestra cómo la lengua puede usarse para presentarse y expresar opiniones simples."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp9-presentacion-opinion-ex-01","enunciado":"La expresión 'me llamo' se usa para:","tipo":"multipla_escolha","alternativas":["decir el nombre","hablar del clima","describir una ciudad","explicar un experimento"],"respostaCorreta":"decir el nombre","explicacao":"'Me llamo' es una expresión básica para presentarse en español.","dificuldade":"facil"},
+      {"id":"esp9-presentacion-opinion-ex-02","enunciado":"La expresión 'me gusta' sirve para:","tipo":"multipla_escolha","alternativas":["expresar gustos u opiniones sencillas","indicar una cuenta matemática","nombrar continentes","clasificar sílabas"],"respostaCorreta":"expresar gustos u opiniones sencillas","explicacao":"'Me gusta' se usa para decir lo que a una persona le agrada.","dificuldade":"facil"},
+      {"id":"esp9-presentacion-opinion-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Presentarse y opinar son habilidades básicas de comunicación en español.","El español no permite hablar de gustos personales.","Una presentación no incluye información personal.","Las opiniones simples no tienen valor comunicativo."],"respostaCorreta":"Presentarse y opinar son habilidades básicas de comunicación en español.","explicacao":"Esas funciones ayudan a establecer interacciones iniciales en la lengua.","dificuldade":"medio"},
+      {"id":"esp9-presentacion-opinion-ex-04","enunciado":"Estudiar este tema ayuda al estudiante a:","tipo":"multipla_escolha","alternativas":["comunicarse mejor en situaciones cotidianas","ignorar el uso real de la lengua","reducir el aprendizaje a palabras sueltas","evitar la interacción oral"],"respostaCorreta":"comunicarse mejor en situaciones cotidianas","explicacao":"El contenido fortalece la expresión básica y la comprensión del idioma en contextos reales.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp9-presentacion-opinion-sim-01","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar expresiones básicas para presentarse y expresar opiniones","estudiar solo listas de palabras sin contexto","evitar cualquier interacción en español","aprender el idioma sin hablar de la vida cotidiana"],"respostaCorreta":"usar expresiones básicas para presentarse y expresar opiniones","explicacao":"El tema se centra en la comunicación inicial y en el uso práctico de la lengua.","dificuldade":"medio"}
+    ]
+  }
+]

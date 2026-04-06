@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien8-camadas-terra-intro",
+    "titulo": "Introdução às camadas da Terra",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Terra e Universo",
+    "resumo": [
+      "A Terra apresenta camadas com características diferentes.",
+      "Crosta, manto e núcleo fazem parte da estrutura interna do planeta.",
+      "Conhecer essa organização ajuda a entender fenômenos geológicos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Estrutura interna",
+        "texto": "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta.",
+        "dica": "Tente relacionar cada camada à posição que ela ocupa no interior da Terra."
+      },
+      {
+        "subtitulo": "Importância do estudo",
+        "texto": "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório.",
+        "dica": "Associe a estrutura interna do planeta a fenômenos observados na superfície."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um modelo em corte mostrando o interior da Terra.",
+        "passos": [
+          "A camada mais externa é a crosta.",
+          "Abaixo dela está o manto.",
+          "Na parte mais interna está o núcleo."
+        ],
+        "resposta": "Esse modelo ajuda a visualizar a organização interna do planeta."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien8-camadas-terra-intro-ex-01","enunciado":"Uma camada externa da Terra é a:","tipo":"multipla_escolha","alternativas":["crosta","órbita","galáxia","atmosfera solar"],"respostaCorreta":"crosta","explicacao":"A crosta é a parte mais externa da estrutura sólida do planeta.","dificuldade":"facil"},
+      {"id":"cien8-camadas-terra-intro-ex-02","enunciado":"A estrutura interna da Terra é formada por:","tipo":"multipla_escolha","alternativas":["camadas com características diferentes","uma única massa uniforme","somente água e ar","apenas rochas superficiais"],"respostaCorreta":"camadas com características diferentes","explicacao":"Crosta, manto e núcleo apresentam composições e condições distintas.","dificuldade":"facil"},
+      {"id":"cien8-camadas-terra-intro-ex-03","enunciado":"Estudar as camadas da Terra ajuda a compreender melhor:","tipo":"multipla_escolha","alternativas":["fenômenos geológicos","somente a fotossíntese","apenas a cadeia alimentar","exclusivamente a pontuação"],"respostaCorreta":"fenômenos geológicos","explicacao":"A estrutura interna do planeta se relaciona a processos como terremotos e vulcanismo.","dificuldade":"medio"},
+      {"id":"cien8-camadas-terra-intro-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A Terra possui uma estrutura interna organizada em camadas.","A Terra é totalmente igual em todas as suas partes internas.","O planeta não apresenta núcleo.","A crosta é a parte mais interna da Terra."],"respostaCorreta":"A Terra possui uma estrutura interna organizada em camadas.","explicacao":"Essa é a ideia central do tema introdutório sobre a estrutura interna terrestre.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien8-camadas-terra-intro-sim-01","enunciado":"O principal objetivo de estudar as camadas da Terra é entender:","tipo":"multipla_escolha","alternativas":["como a estrutura interna do planeta se organiza e influencia fenômenos geológicos","apenas o formato das nuvens","somente a classificação dos mamíferos","exclusivamente a ortografia"],"respostaCorreta":"como a estrutura interna do planeta se organiza e influencia fenômenos geológicos","explicacao":"Esse conteúdo relaciona a estrutura interna da Terra a processos importantes do planeta.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien8-sexualidade-puberdade-respeito",
+    "titulo": "Puberdade, sexualidade e respeito",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "A puberdade é uma fase de mudanças físicas, emocionais e sociais.",
+      "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito.",
+      "Informação confiável e diálogo respeitoso são essenciais nesse tema."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudanças da puberdade",
+        "texto": "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural.",
+        "dica": "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas."
+      },
+      {
+        "subtitulo": "Respeito e responsabilidade",
+        "texto": "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras.",
+        "dica": "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma conversa em sala sobre mudanças da puberdade.",
+        "passos": [
+          "Perceba que cada pessoa pode viver essa fase de modo diferente.",
+          "Observe a importância de escutar com respeito e sem julgamentos."
+        ],
+        "resposta": "O tema deve ser tratado com informação correta, acolhimento e responsabilidade."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien8-sexualidade-puberdade-respeito-ex-01","enunciado":"A puberdade é caracterizada por:","tipo":"multipla_escolha","alternativas":["mudanças físicas, emocionais e sociais","fim do crescimento humano","ausência completa de transformações","alterações que ocorrem do mesmo modo para todos"],"respostaCorreta":"mudanças físicas, emocionais e sociais","explicacao":"Essa fase envolve transformações importantes no desenvolvimento humano.","dificuldade":"facil"},
+      {"id":"cien8-sexualidade-puberdade-respeito-ex-02","enunciado":"Qual atitude é adequada ao tratar esse tema?","tipo":"multipla_escolha","alternativas":["respeitar as diferenças e buscar informação confiável","rir das dúvidas dos colegas","espalhar informações sem verificar","tratar o assunto com desrespeito"],"respostaCorreta":"respeitar as diferenças e buscar informação confiável","explicacao":"Esse conteúdo exige responsabilidade, cuidado e respeito na convivência.","dificuldade":"facil"},
+      {"id":"cien8-sexualidade-puberdade-respeito-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Nem todas as pessoas passam pela puberdade no mesmo ritmo.","Todas as mudanças da puberdade acontecem no mesmo momento para todos.","A sexualidade se resume apenas às mudanças do corpo.","Esse tema não exige diálogo nem responsabilidade."],"respostaCorreta":"Nem todas as pessoas passam pela puberdade no mesmo ritmo.","explicacao":"O desenvolvimento humano apresenta variações individuais, e isso precisa ser respeitado.","dificuldade":"medio"},
+      {"id":"cien8-sexualidade-puberdade-respeito-ex-04","enunciado":"O estudo desse tema contribui para:","tipo":"multipla_escolha","alternativas":["autocuidado, respeito e convivência ética","aumento de preconceitos","substituição de informações científicas por boatos","eliminação do diálogo"],"respostaCorreta":"autocuidado, respeito e convivência ética","explicacao":"Esse conteúdo fortalece atitudes responsáveis em relação ao corpo e ao outro.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien8-sexualidade-puberdade-respeito-sim-01","enunciado":"Ao estudar puberdade e sexualidade, o ponto mais importante é compreender que esse tema envolve:","tipo":"multipla_escolha","alternativas":["informação correta, respeito e responsabilidade","apenas mudanças sem impacto social","somente conteúdos biológicos isolados","nenhuma necessidade de diálogo"],"respostaCorreta":"informação correta, respeito e responsabilidade","explicacao":"A abordagem desse conteúdo precisa unir conhecimento, cuidado e ética nas relações.","dificuldade":"medio"}
+    ]
+  }
+]

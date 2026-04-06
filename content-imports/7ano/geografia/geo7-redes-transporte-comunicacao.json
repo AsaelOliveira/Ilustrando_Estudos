@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo7-redes-transporte-comunicacao",
+    "titulo": "Redes de transporte e comunicaÃ§Ã£o",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "CirculaÃ§Ã£o no espaÃ§o geogrÃ¡fico",
+    "resumo": [
+      "Transportes e comunicaÃ§Ã£o conectam lugares e intensificam fluxos de pessoas, mercadorias e informaÃ§Ãµes.",
+      "Essas redes influenciam economia, organizaÃ§Ã£o do territÃ³rio e vida cotidiana.",
+      "Estudar esse tema ajuda a compreender a integraÃ§Ã£o entre diferentes espaÃ§os."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "CirculaÃ§Ã£o e conexÃ£o entre lugares",
+        "texto": "Rodovias, portos, ferrovias, internet e telefonia sÃ£o exemplos de redes que aproximam territÃ³rios e facilitam trocas. Quanto maior a integraÃ§Ã£o dessas redes, maior a circulaÃ§Ã£o de informaÃ§Ãµes, produtos e pessoas.",
+        "dica": "Observe como o deslocamento fÃ­sico e a comunicaÃ§Ã£o Ã  distÃ¢ncia influenciam a organizaÃ§Ã£o do espaÃ§o."
+      },
+      {
+        "subtitulo": "Impactos territoriais das redes",
+        "texto": "As redes de transporte e comunicaÃ§Ã£o podem favorecer o crescimento econÃ´mico e a integraÃ§Ã£o regional, mas tambÃ©m revelam desigualdades de acesso e infraestrutura. Nem todos os lugares contam com as mesmas condiÃ§Ãµes de conexÃ£o.",
+        "dica": "Pense em como a presenÃ§a ou a ausÃªncia dessas redes altera oportunidades em diferentes regiÃµes."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma regiÃ£o bem conectada por estradas e internet a outra com infraestrutura limitada.",
+        "passos": [
+          "Observe diferenÃ§as na circulaÃ§Ã£o de pessoas e informaÃ§Ãµes.",
+          "Perceba os efeitos sobre economia e acesso a serviÃ§os.",
+          "Relacione isso Ã  importÃ¢ncia das redes no territÃ³rio."
+        ],
+        "resposta": "Esse contraste mostra que transportes e comunicaÃ§Ã£o influenciam fortemente a integraÃ§Ã£o espacial."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo7-redes-transporte-comunicacao-ex-01","enunciado":"As redes de transporte e comunicaÃ§Ã£o servem para:","tipo":"multipla_escolha","alternativas":["conectar lugares e intensificar fluxos","eliminar qualquer circulaÃ§Ã£o no territÃ³rio","substituir completamente a vida em sociedade","impedir trocas entre regiÃµes"],"respostaCorreta":"conectar lugares e intensificar fluxos","explicacao":"Essas redes aproximam espaÃ§os e facilitam deslocamentos e circulaÃ§Ã£o de informaÃ§Ãµes.","dificuldade":"facil"},
+      {"id":"geo7-redes-transporte-comunicacao-ex-02","enunciado":"Um exemplo de rede de comunicaÃ§Ã£o Ã©:","tipo":"multipla_escolha","alternativas":["internet","montanha","plantaÃ§Ã£o","clima"],"respostaCorreta":"internet","explicacao":"A internet Ã© uma rede que permite circulaÃ§Ã£o rÃ¡pida de informaÃ§Ãµes entre diferentes lugares.","dificuldade":"facil"},
+      {"id":"geo7-redes-transporte-comunicacao-ex-03","enunciado":"Qual afirmaÃ§Ã£o estÃ¡ correta?","tipo":"multipla_escolha","alternativas":["Transportes e comunicaÃ§Ã£o influenciam economia e integraÃ§Ã£o territorial.","As redes nÃ£o alteram a vida cotidiana nem o territÃ³rio.","Todas as regiÃµes tÃªm a mesma infraestrutura de circulaÃ§Ã£o.","A comunicaÃ§Ã£o nÃ£o se relaciona ao espaÃ§o geogrÃ¡fico."],"respostaCorreta":"Transportes e comunicaÃ§Ã£o influenciam economia e integraÃ§Ã£o territorial.","explicacao":"O conteÃºdo mostra como essas redes organizam fluxos e revelam desigualdades no espaÃ§o. ","dificuldade":"medio"},
+      {"id":"geo7-redes-transporte-comunicacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["entender como diferentes lugares se conectam e circulam","ignorar a importÃ¢ncia da infraestrutura","separar economia de circulaÃ§Ã£o","considerar o territÃ³rio como espaÃ§o sem redes"],"respostaCorreta":"entender como diferentes lugares se conectam e circulam","explicacao":"O tema amplia a compreensÃ£o sobre integraÃ§Ã£o espacial e desigualdades de acesso. ","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo7-redes-transporte-comunicacao-sim-01","enunciado":"A principal ideia do tema Ã©:","tipo":"multipla_escolha","alternativas":["redes de transporte e comunicaÃ§Ã£o conectam territÃ³rios e transformam o espaÃ§o geogrÃ¡fico","circulaÃ§Ã£o e comunicaÃ§Ã£o nÃ£o interferem no territÃ³rio","todas as regiÃµes possuem o mesmo acesso Ã s redes","as redes nÃ£o tÃªm relaÃ§Ã£o com economia e vida cotidiana"],"respostaCorreta":"redes de transporte e comunicaÃ§Ã£o conectam territÃ³rios e transformam o espaÃ§o geogrÃ¡fico","explicacao":"O conteÃºdo destaca a importÃ¢ncia das redes na integraÃ§Ã£o, circulaÃ§Ã£o e organizaÃ§Ã£o do espaÃ§o. ","dificuldade":"medio"}
+    ]
+  }
+]

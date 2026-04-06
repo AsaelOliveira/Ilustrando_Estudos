@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-conjuncoes-coesao",
+    "titulo": "Conjunções e coesão textual",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "As conjunções ligam palavras, orações e ideias.",
+      "Elas ajudam a estabelecer relações de sentido no texto.",
+      "A coesão textual contribui para a organização e a continuidade das informações.",
+      "O uso adequado das conjunções melhora a clareza da escrita.",
+      "Esse conteúdo fortalece a leitura e a produção textual."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função das conjunções",
+        "texto": "As conjunções são palavras que ligam termos ou orações, estabelecendo relações como adição, oposição, explicação, causa e conclusão. Elas são fundamentais para organizar o raciocínio dentro da frase e do texto.",
+        "dica": "Ao encontrar uma conjunção, observe que relação de sentido ela cria entre as partes do enunciado."
+      },
+      {
+        "subtitulo": "Coesão textual",
+        "texto": "A coesão textual é o conjunto de recursos que ajudam a conectar as partes de um texto. As conjunções participam desse processo ao evitar que as ideias apareçam de forma solta ou desorganizada.",
+        "dica": "Um texto coeso faz o leitor perceber como uma ideia se liga à outra."
+      },
+      {
+        "subtitulo": "Clareza e sentido",
+        "texto": "Escolher a conjunção adequada ajuda a expressar com precisão a intenção do autor. Uma mesma frase pode mudar de sentido conforme o conectivo utilizado, por isso é importante compreender o valor de cada relação.",
+        "dica": "Palavras como 'e', 'mas', 'porque' e 'portanto' não têm a mesma função."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase: \"Estudei bastante, mas ainda fiquei inseguro.\"",
+        "passos": [
+          "A conjunção presente é 'mas'.",
+          "Ela liga duas ideias com sentido de contraste.",
+          "Isso mostra uma relação de oposição."
+        ],
+        "resposta": "A conjunção 'mas' estabelece oposição entre as ideias."
+      },
+      {
+        "enunciado": "Observe a frase: \"Choveu, portanto o jogo foi adiado.\"",
+        "passos": [
+          "A palavra 'portanto' conecta as duas partes da frase.",
+          "Ela introduz uma consequência.",
+          "Assim, a conjunção ajuda a construir a lógica do enunciado."
+        ],
+        "resposta": "A conjunção 'portanto' indica conclusão ou consequência."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-conjuncoes-coesao-ex-01",
+        "enunciado": "As conjunções servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligar palavras, orações e ideias",
+          "substituir todos os verbos",
+          "formar apenas nomes próprios",
+          "indicar medidas geométricas"
+        ],
+        "respostaCorreta": "ligar palavras, orações e ideias",
+        "explicacao": "As conjunções conectam elementos do enunciado e ajudam na construção do sentido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-ex-02",
+        "enunciado": "Na frase \"Eu queria sair, mas começou a chover\", a conjunção indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "oposição",
+          "adição",
+          "explicação",
+          "tempo"
+        ],
+        "respostaCorreta": "oposição",
+        "explicacao": "A palavra 'mas' estabelece contraste entre o desejo de sair e o fato de começar a chover.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-ex-03",
+        "enunciado": "Qual conjunção pode indicar conclusão?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "portanto",
+          "e",
+          "mas",
+          "embora"
+        ],
+        "respostaCorreta": "portanto",
+        "explicacao": "A conjunção 'portanto' é usada para introduzir conclusão ou consequência.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-ex-04",
+        "enunciado": "A coesão textual ajuda o texto a ficar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mais conectado e organizado",
+          "sem sentido",
+          "obrigatoriamente mais curto",
+          "formado apenas por perguntas"
+        ],
+        "respostaCorreta": "mais conectado e organizado",
+        "explicacao": "A coesão organiza as informações e mostra a ligação entre as partes do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-ex-05",
+        "enunciado": "Qual frase apresenta relação de causa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fiquei em casa porque estava doente.",
+          "Fiquei em casa, mas queria sair.",
+          "Fiquei em casa e li um livro.",
+          "Fiquei em casa; portanto."
+        ],
+        "respostaCorreta": "Fiquei em casa porque estava doente.",
+        "explicacao": "A conjunção 'porque' introduz a causa de ter ficado em casa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As conjunções colaboram para a coesão textual.",
+          "As conjunções não interferem no sentido.",
+          "A coesão textual elimina a necessidade de leitura atenta.",
+          "Todas as conjunções têm a mesma função."
+        ],
+        "respostaCorreta": "As conjunções colaboram para a coesão textual.",
+        "explicacao": "As conjunções são recursos importantes para ligar ideias e organizar o texto.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-conjuncoes-coesao-sim-01",
+        "enunciado": "Ao observar palavras como 'mas', 'porque' e 'portanto' em um texto, o aluno está analisando recursos de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "coesão e relação de sentido",
+          "medidas de comprimento",
+          "classificação dos planetas",
+          "ângulos e polígonos"
+        ],
+        "respostaCorreta": "coesão e relação de sentido",
+        "explicacao": "Essas palavras conectam ideias e ajudam a construir a lógica do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-conjuncoes-coesao-sim-02",
+        "enunciado": "A principal utilidade das conjunções em um texto é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "articular ideias e tornar o texto mais claro",
+          "eliminar a necessidade de pontuação",
+          "substituir todos os substantivos",
+          "formar apenas títulos"
+        ],
+        "respostaCorreta": "articular ideias e tornar o texto mais claro",
+        "explicacao": "As conjunções ajudam a construir relações de sentido e a organizar as informações.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

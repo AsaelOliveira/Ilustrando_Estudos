@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port8-discurso-argumentativo",
+    "titulo": "Discurso argumentativo",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "O discurso argumentativo busca defender um ponto de vista.",
+      "Ele usa razões, exemplos e justificativas.",
+      "Esse tema fortalece leitura crítica e escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ponto de vista",
+        "texto": "Em textos argumentativos, o autor apresenta uma opinião e procura sustentá-la com argumentos.",
+        "dica": "Observe qual ideia o autor quer defender."
+      },
+      {
+        "subtitulo": "Justificativas",
+        "texto": "Os argumentos ajudam a convencer o leitor por meio de razões, exemplos ou explicações bem organizadas.",
+        "dica": "Pergunte como o autor justifica sua posição."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que defende mais leitura na escola.",
+        "passos": [
+          "Identifique a opinião principal.",
+          "Observe os argumentos usados para sustentá-la."
+        ],
+        "resposta": "Esse é um exemplo de construção argumentativa."
+      }
+    ],
+    "exercicios": [
+      {"id":"port8-discurso-argumentativo-ex-01","enunciado":"Um texto argumentativo procura:","tipo":"multipla_escolha","alternativas":["defender um ponto de vista","apenas listar palavras","eliminar opiniões","contar sílabas"],"respostaCorreta":"defender um ponto de vista","explicacao":"A argumentação organiza ideias para sustentar uma posição.","dificuldade":"facil"},
+      {"id":"port8-discurso-argumentativo-ex-02","enunciado":"Os argumentos servem para:","tipo":"multipla_escolha","alternativas":["justificar uma opinião","eliminar o tema","substituir a leitura","apagar o texto"],"respostaCorreta":"justificar uma opinião","explicacao":"Argumentos ajudam a sustentar a posição do autor.","dificuldade":"facil"},
+      {"id":"port8-discurso-argumentativo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O discurso argumentativo usa razões e justificativas.","Argumentar é o mesmo que listar palavras soltas.","Todo texto argumentativo dispensa opinião.","Argumentos não interferem no sentido do texto."],"respostaCorreta":"O discurso argumentativo usa razões e justificativas.","explicacao":"A argumentação se organiza por meio de justificativas e estratégias de convencimento.","dificuldade":"medio"},
+      {"id":"port8-discurso-argumentativo-ex-04","enunciado":"A principal ideia desse tema é compreender:","tipo":"multipla_escolha","alternativas":["como uma opinião pode ser defendida no texto","como eliminar argumentos","como evitar leitura crítica","como substituir ideias por imagens"],"respostaCorreta":"como uma opinião pode ser defendida no texto","explicacao":"O tema trabalha a organização de pontos de vista e argumentos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port8-discurso-argumentativo-sim-01","enunciado":"Esse tema ajuda o aluno a perceber principalmente:","tipo":"multipla_escolha","alternativas":["como o autor constrói defesa de uma ideia","como apagar o tema do texto","como evitar justificativas","como eliminar opiniões"],"respostaCorreta":"como o autor constrói defesa de uma ideia","explicacao":"A argumentação organiza a defesa de um ponto de vista.","dificuldade":"medio"}
+    ]
+  }
+]

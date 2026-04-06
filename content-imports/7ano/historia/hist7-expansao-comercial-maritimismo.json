@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hist7-expansao-comercial-maritimismo",
+    "titulo": "Expansão comercial e navegações",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Mundo moderno",
+    "resumo": [
+      "A expansão comercial europeia esteve ligada ao crescimento das navegações e da circulação mercantil.",
+      "Esses processos transformaram relações econômicas, políticas e culturais entre continentes.",
+      "Estudar esse tema ajuda a compreender a formação do mundo moderno."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expansão do comércio",
+        "texto": "O crescimento das trocas comerciais estimulou a busca por novas rotas, produtos e mercados. Nesse contexto, monarquias e grupos mercantis passaram a investir em navegações e formas de ampliar suas áreas de influência.",
+        "dica": "Observe como interesses econômicos se relacionaram à política e à expansão marítima."
+      },
+      {
+        "subtitulo": "Navegações e transformações históricas",
+        "texto": "As grandes navegações contribuíram para ampliar contatos entre continentes, intensificar disputas e reorganizar o comércio internacional. Esse movimento teve consequências profundas para povos, territórios e relações de poder.",
+        "dica": "Relacione as navegações não só à descoberta de rotas, mas também a seus efeitos econômicos e humanos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma monarquia que investe em viagens marítimas para alcançar novos mercados e produtos.",
+        "passos": [
+          "Identifique o interesse econômico envolvido.",
+          "Observe a relação entre poder político e comércio.",
+          "Relacione a situação à expansão comercial europeia."
+        ],
+        "resposta": "Esse exemplo mostra como as navegações se ligaram à busca de lucro e de influência internacional."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist7-expansao-comercial-maritimismo-ex-01","enunciado":"A expansão comercial europeia esteve ligada a:","tipo":"multipla_escolha","alternativas":["busca de rotas, produtos e mercados","fim do comércio entre regiões","isolamento das monarquias","ausência de interesses econômicos"],"respostaCorreta":"busca de rotas, produtos e mercados","explicacao":"A ampliação das trocas motivou a procura por novas possibilidades comerciais.","dificuldade":"facil"},
+      {"id":"hist7-expansao-comercial-maritimismo-ex-02","enunciado":"As navegações contribuíram para:","tipo":"multipla_escolha","alternativas":["transformar relações entre continentes","eliminar disputas por rotas comerciais","reduzir os contatos internacionais","encerrar o comércio de longa distância"],"respostaCorreta":"transformar relações entre continentes","explicacao":"As viagens marítimas ampliaram contatos, disputas e trocas em escala maior.","dificuldade":"facil"},
+      {"id":"hist7-expansao-comercial-maritimismo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Interesses econômicos e políticos se combinaram na expansão marítima.","As navegações ocorreram sem motivação comercial.","A expansão comercial não teve impactos históricos relevantes.","Monarquias não participaram desses processos."],"respostaCorreta":"Interesses econômicos e políticos se combinaram na expansão marítima.","explicacao":"A formação do mundo moderno envolveu relações entre comércio, poder e navegação.","dificuldade":"medio"},
+      {"id":"hist7-expansao-comercial-maritimismo-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a formação do mundo moderno","ignorar relações entre comércio e poder","separar totalmente economia e navegação","considerar as navegações fatos sem consequência"],"respostaCorreta":"compreender melhor a formação do mundo moderno","explicacao":"O tema mostra como a expansão comercial influenciou a história global e as relações entre povos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist7-expansao-comercial-maritimismo-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["navegações e comércio participaram da reorganização econômica e política do mundo moderno","a expansão marítima não teve relação com interesses econômicos","as navegações não alteraram as relações entre continentes","o comércio europeu permaneceu sem mudanças"],"respostaCorreta":"navegações e comércio participaram da reorganização econômica e política do mundo moderno","explicacao":"O conteúdo destaca a ligação entre expansão comercial, poder político e transformações históricas amplas.","dificuldade":"medio"}
+    ]
+  }
+]

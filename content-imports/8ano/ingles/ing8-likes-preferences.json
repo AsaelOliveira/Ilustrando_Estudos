@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ing8-likes-preferences",
+    "titulo": "Likes and preferences",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about likes and preferences helps students express personal choices in English.",
+      "This topic expands vocabulary related to activities, food, music and interests.",
+      "Learning these structures improves participation in simple dialogues."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressing preferences",
+        "texto": "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life.",
+        "dica": "Practice talking about real preferences to make the language more useful."
+      },
+      {
+        "subtitulo": "From words to interaction",
+        "texto": "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way.",
+        "dica": "Try to combine preference expressions with short reasons or examples."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'I like music because it helps me relax.'",
+        "passos": [
+          "Identify the expression of preference in the sentence.",
+          "Observe how the speaker gives a simple reason."
+        ],
+        "resposta": "This is a simple example of expressing likes in English."
+      }
+    ],
+    "exercicios": [
+      {"id":"ing8-likes-preferences-ex-01","enunciado":"Talking about likes helps students:","tipo":"multipla_escolha","alternativas":["express personal choices in English","avoid all communication","replace language with isolated lists","ignore everyday situations"],"respostaCorreta":"express personal choices in English","explicacao":"This topic supports basic communication about interests and preferences.","dificuldade":"facil"},
+      {"id":"ing8-likes-preferences-ex-02","enunciado":"A simple reason in a sentence makes communication:","tipo":"multipla_escolha","alternativas":["clearer and more meaningful","impossible to understand","less personal","unrelated to the topic"],"respostaCorreta":"clearer and more meaningful","explicacao":"Adding a short reason helps the listener understand the preference better.","dificuldade":"facil"},
+      {"id":"ing8-likes-preferences-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Talking about preferences helps students participate in simple dialogues.","Preferences cannot be expressed with short English sentences.","This topic has no practical use.","Personal choices are not part of communication."],"respostaCorreta":"Talking about preferences helps students participate in simple dialogues.","explicacao":"This content helps students interact more naturally in familiar conversations.","dificuldade":"medio"},
+      {"id":"ing8-likes-preferences-ex-04","enunciado":"Studying this topic helps the student:","tipo":"multipla_escolha","alternativas":["talk about interests with more confidence","avoid all personal communication","replace meaning with repetition only","ignore preference vocabulary"],"respostaCorreta":"talk about interests with more confidence","explicacao":"The topic expands vocabulary and supports communication about everyday choices.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"ing8-likes-preferences-sim-01","enunciado":"The main idea of this topic is that students can:","tipo":"multipla_escolha","alternativas":["express likes and preferences in everyday English","stop using complete sentences","avoid interaction with others","replace speech with isolated words only"],"respostaCorreta":"express likes and preferences in everyday English","explicacao":"This topic helps students communicate personal choices in simple and useful ways.","dificuldade":"medio"}
+    ]
+  }
+]

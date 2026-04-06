@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ing8-family-personal-description",
+    "titulo": "Family and personal description",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about family and personal characteristics expands basic communication in English.",
+      "This topic helps students describe people and family relationships more clearly.",
+      "Learning this vocabulary supports reading, speaking and writing in simple contexts."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Family vocabulary",
+        "texto": "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences.",
+        "dica": "Connect each word to real people and familiar situations to memorize it better."
+      },
+      {
+        "subtitulo": "Describing people",
+        "texto": "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English.",
+        "dica": "Start with short descriptions before producing longer sentences."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'My brother is tall and friendly.'",
+        "passos": [
+          "Identify the family word used in the sentence.",
+          "Observe the adjectives that describe the person."
+        ],
+        "resposta": "This is a simple example of personal description in English."
+      }
+    ],
+    "exercicios": [
+      {"id":"ing8-family-personal-description-ex-01","enunciado":"The word 'sister' means:","tipo":"multipla_escolha","alternativas":["irmã","irmão","mãe","tia"],"respostaCorreta":"irmã","explicacao":"'Sister' is the English word used for 'irmã'.","dificuldade":"facil"},
+      {"id":"ing8-family-personal-description-ex-02","enunciado":"Describing people helps students:","tipo":"multipla_escolha","alternativas":["communicate more clearly in everyday situations","avoid using adjectives forever","replace language with numbers only","stop building complete sentences"],"respostaCorreta":"communicate more clearly in everyday situations","explicacao":"Descriptions make communication richer and more precise in real interactions.","dificuldade":"facil"},
+      {"id":"ing8-family-personal-description-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Family vocabulary and descriptions support basic communication in English.","This topic has no practical use.","Students cannot describe people with simple sentences.","Family words are not part of everyday English."],"respostaCorreta":"Family vocabulary and descriptions support basic communication in English.","explicacao":"This content helps students talk about people and relationships with more confidence.","dificuldade":"medio"},
+      {"id":"ing8-family-personal-description-ex-04","enunciado":"Studying this topic helps the student:","tipo":"multipla_escolha","alternativas":["talk about people and relationships with more vocabulary","avoid communication in English","replace all speaking with isolated words","ignore personal information in conversations"],"respostaCorreta":"talk about people and relationships with more vocabulary","explicacao":"This topic expands useful vocabulary for everyday communication in English.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"ing8-family-personal-description-sim-01","enunciado":"The main goal of this topic is to help students:","tipo":"multipla_escolha","alternativas":["describe family members and people more clearly","avoid personal interaction in English","use only random vocabulary","stop building meaningful sentences"],"respostaCorreta":"describe family members and people more clearly","explicacao":"This content supports basic description and communication in familiar situations.","dificuldade":"medio"}
+    ]
+  }
+]

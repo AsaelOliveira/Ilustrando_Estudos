@@ -1,0 +1,46 @@
+[
+  {
+    "id": "eti9-solidariedade-acao-coletiva",
+    "titulo": "Solidariedade e ação coletiva",
+    "disciplinaId": "eti9",
+    "turmaId": "9ano",
+    "unidade": "Ética e participação social",
+    "resumo": [
+      "Solidariedade envolve atenção ao outro e compromisso com o bem comum.",
+      "A ação coletiva pode contribuir para enfrentar problemas sociais de forma mais justa.",
+      "Estudar esse tema fortalece responsabilidade, participação e consciência ética."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Solidariedade na vida social",
+        "texto": "Ser solidário não significa apenas ajudar de forma pontual, mas também reconhecer necessidades, injustiças e possibilidades de cooperação. A solidariedade se relaciona a empatia, cuidado e responsabilidade com outras pessoas.",
+        "dica": "Pense em como pequenas atitudes podem gerar efeitos positivos para um grupo ou comunidade."
+      },
+      {
+        "subtitulo": "Ação coletiva e transformação",
+        "texto": "Quando pessoas se organizam para enfrentar problemas em conjunto, surgem possibilidades mais amplas de mudança social. A ação coletiva fortalece participação, compromisso e construção de soluções compartilhadas.",
+        "dica": "Observe como a cooperação entre pessoas pode ampliar o impacto de uma iniciativa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma campanha organizada por estudantes para arrecadar materiais e apoiar uma comunidade.",
+        "passos": [
+          "Identifique a necessidade que motivou a ação.",
+          "Observe como o grupo se organizou.",
+          "Relacione a iniciativa à solidariedade e à ação coletiva."
+        ],
+        "resposta": "Esse exemplo mostra que agir em conjunto pode ampliar cuidado, responsabilidade e transformação social."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti9-solidariedade-acao-coletiva-ex-01","enunciado":"Solidariedade está relacionada a:","tipo":"multipla_escolha","alternativas":["cuidado com o outro e compromisso com o bem comum","vantagem individual acima de tudo","indiferença diante das necessidades alheias","rejeição à cooperação"],"respostaCorreta":"cuidado com o outro e compromisso com o bem comum","explicacao":"A solidariedade envolve empatia, responsabilidade e atenção às necessidades coletivas.","dificuldade":"facil"},
+      {"id":"eti9-solidariedade-acao-coletiva-ex-02","enunciado":"Uma ação coletiva pode:","tipo":"multipla_escolha","alternativas":["fortalecer a busca por soluções compartilhadas","reduzir toda participação social","eliminar a importância da cooperação","substituir responsabilidade por improviso"],"respostaCorreta":"fortalecer a busca por soluções compartilhadas","explicacao":"A organização conjunta amplia possibilidades de atuação sobre problemas comuns.","dificuldade":"facil"},
+      {"id":"eti9-solidariedade-acao-coletiva-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Solidariedade e participação coletiva contribuem para a convivência ética.","Ajudar os outros não tem relação com responsabilidade social.","Ação coletiva atrapalha qualquer solução justa.","O bem comum não se relaciona à ética."],"respostaCorreta":"Solidariedade e participação coletiva contribuem para a convivência ética.","explicacao":"O tema articula cuidado com o outro, compromisso social e construção de soluções mais justas.","dificuldade":"medio"},
+      {"id":"eti9-solidariedade-acao-coletiva-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["valorizar atitudes solidárias e ação responsável em grupo","desconsiderar o impacto social das escolhas","separar ética de participação coletiva","tratar problemas sociais como questões individuais apenas"],"respostaCorreta":"valorizar atitudes solidárias e ação responsável em grupo","explicacao":"O conteúdo fortalece cidadania, cooperação e compromisso com o coletivo.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti9-solidariedade-acao-coletiva-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["solidariedade e ação coletiva ajudam a construir respostas éticas para necessidades sociais","ajudar os outros não se relaciona à ética","problemas coletivos devem ser tratados sempre de forma isolada","cooperação enfraquece a responsabilidade"],"respostaCorreta":"solidariedade e ação coletiva ajudam a construir respostas éticas para necessidades sociais","explicacao":"O tema mostra que cuidado, participação e compromisso com o bem comum são valores centrais da vida social.","dificuldade":"medio"}
+    ]
+  }
+]

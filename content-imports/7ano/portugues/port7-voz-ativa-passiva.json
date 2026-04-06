@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-voz-ativa-passiva",
+    "titulo": "Voz ativa e voz passiva",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "A voz verbal mostra a relação entre o sujeito e a ação expressa pelo verbo.",
+      "Na voz ativa, o sujeito pratica a ação.",
+      "Na voz passiva, o sujeito sofre ou recebe a ação.",
+      "Compreender essa diferença melhora a leitura e a produção de textos.",
+      "A mudança de voz verbal altera a organização da frase, mas pode preservar o sentido principal."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Voz ativa",
+        "texto": "Na voz ativa, o sujeito realiza a ação verbal. Em frases como 'Os alunos resolveram a atividade', o sujeito 'os alunos' pratica a ação de resolver.",
+        "dica": "Pergunte quem faz a ação. Se o sujeito a pratica, a frase está na voz ativa."
+      },
+      {
+        "subtitulo": "Voz passiva",
+        "texto": "Na voz passiva, o sujeito recebe a ação expressa pelo verbo. Em 'A atividade foi resolvida pelos alunos', o foco passa para 'a atividade', que sofre a ação.",
+        "dica": "Na voz passiva, a atenção geralmente recai sobre quem recebe a ação."
+      },
+      {
+        "subtitulo": "Efeito na construção do texto",
+        "texto": "A escolha entre voz ativa e voz passiva influencia a forma de apresentar a informação. Em muitos casos, a voz ativa torna a frase mais direta, enquanto a passiva destaca o elemento que sofre a ação.",
+        "dica": "Observar a voz verbal ajuda a entender por que o autor escolheu determinada estrutura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase: \"O diretor entregou os certificados.\"",
+        "passos": [
+          "O sujeito é 'o diretor'.",
+          "Ele pratica a ação de entregar.",
+          "Portanto, a frase está na voz ativa."
+        ],
+        "resposta": "A frase está na voz ativa, pois o sujeito realiza a ação."
+      },
+      {
+        "enunciado": "Observe a frase: \"Os certificados foram entregues pelo diretor.\"",
+        "passos": [
+          "O sujeito é 'os certificados'.",
+          "Eles recebem a ação de serem entregues.",
+          "Assim, a frase está na voz passiva."
+        ],
+        "resposta": "A frase está na voz passiva, pois o sujeito sofre a ação."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-voz-ativa-passiva-ex-01",
+        "enunciado": "Na voz ativa, o sujeito:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pratica a ação",
+          "sempre desaparece da frase",
+          "recebe a ação",
+          "não se relaciona com o verbo"
+        ],
+        "respostaCorreta": "pratica a ação",
+        "explicacao": "Na voz ativa, o sujeito é o agente da ação verbal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-ex-02",
+        "enunciado": "Na voz passiva, o sujeito:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "recebe a ação",
+          "sempre pratica a ação",
+          "deixa de existir",
+          "nunca aparece na frase"
+        ],
+        "respostaCorreta": "recebe a ação",
+        "explicacao": "Na voz passiva, o sujeito sofre ou recebe a ação verbal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-ex-03",
+        "enunciado": "Qual frase está na voz ativa?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os estudantes organizaram a feira.",
+          "A feira foi organizada pelos estudantes.",
+          "Os convites foram enviados pela escola.",
+          "O prêmio foi entregue ao vencedor."
+        ],
+        "respostaCorreta": "Os estudantes organizaram a feira.",
+        "explicacao": "Nessa frase, o sujeito pratica a ação de organizar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-ex-04",
+        "enunciado": "Qual frase está na voz passiva?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O livro foi lido pela turma.",
+          "A turma leu o livro.",
+          "Os alunos copiaram a atividade.",
+          "O professor explicou a lição."
+        ],
+        "respostaCorreta": "O livro foi lido pela turma.",
+        "explicacao": "O sujeito 'o livro' recebe a ação, o que caracteriza a voz passiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-ex-05",
+        "enunciado": "Mudar a voz verbal pode alterar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o foco da informação na frase",
+          "o alfabeto da língua",
+          "a existência do verbo",
+          "a pontuação obrigatoriamente"
+        ],
+        "respostaCorreta": "o foco da informação na frase",
+        "explicacao": "Ao escolher voz ativa ou passiva, o autor reorganiza a informação e destaca elementos diferentes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A voz verbal ajuda a entender a relação entre sujeito e ação.",
+          "A voz verbal só existe em poemas.",
+          "A voz passiva elimina o verbo da frase.",
+          "A voz ativa não possui sujeito."
+        ],
+        "respostaCorreta": "A voz verbal ajuda a entender a relação entre sujeito e ação.",
+        "explicacao": "O estudo das vozes verbais mostra como o sujeito se relaciona com a ação expressa pelo verbo.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-voz-ativa-passiva-sim-01",
+        "enunciado": "Ao comparar as frases \"A equipe venceu o torneio\" e \"O torneio foi vencido pela equipe\", o aluno observa principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a mudança da voz verbal",
+          "a troca do idioma",
+          "a ausência de sentido",
+          "a eliminação do sujeito"
+        ],
+        "respostaCorreta": "a mudança da voz verbal",
+        "explicacao": "As frases apresentam o mesmo fato, mas com estruturas diferentes: uma na voz ativa e outra na voz passiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-voz-ativa-passiva-sim-02",
+        "enunciado": "A principal utilidade de estudar voz ativa e voz passiva é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como a informação pode ser organizada de maneiras diferentes no texto",
+          "como eliminar todos os verbos da frase",
+          "como substituir leitura por memorização",
+          "como transformar qualquer frase em poema"
+        ],
+        "respostaCorreta": "como a informação pode ser organizada de maneiras diferentes no texto",
+        "explicacao": "O estudo das vozes verbais ajuda a interpretar melhor a organização e o foco das informações.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "mat8-estatistica-media-graficos",
+    "titulo": "Média e interpretação de gráficos",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Tratamento da informação",
+    "resumo": [
+      "A média é uma medida usada para representar um conjunto de valores.",
+      "Gráficos ajudam a organizar e visualizar informações de forma clara.",
+      "Esse tema é importante para interpretar dados do cotidiano com mais segurança."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Leitura de dados",
+        "texto": "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões.",
+        "dica": "Leia título, eixos, legendas e unidades antes de interpretar um gráfico."
+      },
+      {
+        "subtitulo": "Cálculo da média",
+        "texto": "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto.",
+        "dica": "Some todos os valores antes de dividir pela quantidade de dados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere as notas 6, 8 e 10.",
+        "passos": [
+          "Some os valores: 6 + 8 + 10 = 24.",
+          "Divida por 3, que é a quantidade de notas."
+        ],
+        "resposta": "A média é 8."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat8-estatistica-media-graficos-ex-01","enunciado":"A média aritmética é calculada por meio de:","tipo":"multipla_escolha","alternativas":["soma dos valores dividida pela quantidade de dados","subtração entre o maior e o menor valor","multiplicação dos extremos","divisão do menor valor pelo maior"],"respostaCorreta":"soma dos valores dividida pela quantidade de dados","explicacao":"Esse é o procedimento básico para calcular a média aritmética simples.","dificuldade":"facil"},
+      {"id":"mat8-estatistica-media-graficos-ex-02","enunciado":"Os gráficos são úteis porque:","tipo":"multipla_escolha","alternativas":["facilitam a visualização e a comparação de dados","substituem todos os cálculos matemáticos","eliminam a necessidade de leitura","servem apenas para decoração"],"respostaCorreta":"facilitam a visualização e a comparação de dados","explicacao":"Os gráficos organizam informações de forma mais clara e comparável.","dificuldade":"facil"},
+      {"id":"mat8-estatistica-media-graficos-ex-03","enunciado":"Para interpretar um gráfico corretamente, é importante observar:","tipo":"multipla_escolha","alternativas":["título, legendas e unidades","apenas as cores usadas","somente o maior número","a ordem alfabética dos dados"],"respostaCorreta":"título, legendas e unidades","explicacao":"Esses elementos ajudam a entender o que está sendo representado e como os dados devem ser lidos.","dificuldade":"medio"},
+      {"id":"mat8-estatistica-media-graficos-ex-04","enunciado":"Estudar média e gráficos ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar informações quantitativas do cotidiano","evitar qualquer leitura de dados","substituir problemas por desenhos aleatórios","dispensar o raciocínio matemático"],"respostaCorreta":"interpretar informações quantitativas do cotidiano","explicacao":"Esse conteúdo é essencial para a leitura crítica de tabelas, gráficos e conjuntos numéricos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-estatistica-media-graficos-sim-01","enunciado":"A principal utilidade da média e dos gráficos é:","tipo":"multipla_escolha","alternativas":["organizar, resumir e interpretar dados","eliminar toda análise matemática","servir apenas a exercícios escolares sem aplicação","substituir completamente textos e tabelas"],"respostaCorreta":"organizar, resumir e interpretar dados","explicacao":"Esses recursos ajudam a compreender informações quantitativas em diferentes contextos.","dificuldade":"medio"}
+    ]
+  }
+]

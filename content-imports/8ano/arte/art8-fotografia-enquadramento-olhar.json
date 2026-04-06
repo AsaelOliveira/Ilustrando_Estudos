@@ -1,0 +1,45 @@
+[
+  {
+    "id": "art8-fotografia-enquadramento-olhar",
+    "titulo": "Fotografia, enquadramento e olhar",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Imagem e criação",
+    "resumo": [
+      "A fotografia também é uma forma de linguagem artística e de registro visual.",
+      "O enquadramento influencia o que aparece em destaque na imagem.",
+      "Estudar esse tema ajuda a perceber escolhas visuais e intenções de quem fotografa."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Escolhas no registro da imagem",
+        "texto": "Ao fotografar, a pessoa escolhe o que mostrar, de que ângulo observar e como organizar a cena. Essas decisões interferem diretamente no sentido produzido pela imagem.",
+        "dica": "Observe o que ficou dentro e fora da foto para perceber as escolhas feitas."
+      },
+      {
+        "subtitulo": "Enquadramento e sentido",
+        "texto": "O enquadramento pode valorizar detalhes, aproximar o observador da cena ou criar diferentes sensações. Por isso, a fotografia não é apenas um registro automático, mas também uma construção de olhar.",
+        "dica": "Pergunte qual elemento a imagem quer destacar primeiro."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare duas fotos do mesmo lugar, uma bem aberta e outra focada em um detalhe.",
+        "passos": [
+          "Observe o que cada imagem escolheu destacar.",
+          "Perceba como o enquadramento muda a leitura da cena."
+        ],
+        "resposta": "Esse contraste mostra que fotografar também envolve intenção e composição."
+      }
+    ],
+    "exercicios": [
+      {"id":"art8-fotografia-enquadramento-olhar-ex-01","enunciado":"Na fotografia, o enquadramento ajuda a:","tipo":"multipla_escolha","alternativas":["destacar partes da imagem","eliminar toda intenção visual","substituir a observação da cena","impedir a composição"],"respostaCorreta":"destacar partes da imagem","explicacao":"O enquadramento organiza o que será visto com mais destaque pelo observador.","dificuldade":"facil"},
+      {"id":"art8-fotografia-enquadramento-olhar-ex-02","enunciado":"Fotografar envolve escolhas como:","tipo":"multipla_escolha","alternativas":["ângulo, recorte e foco da cena","apenas apertar um botão sem decidir nada","eliminar toda interpretação","substituir imagem por texto"],"respostaCorreta":"ângulo, recorte e foco da cena","explicacao":"Toda fotografia envolve decisões visuais que interferem no resultado final.","dificuldade":"facil"},
+      {"id":"art8-fotografia-enquadramento-olhar-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A fotografia pode ser entendida como linguagem visual e artística.","Toda fotografia é neutra e sem intenção.","O enquadramento não muda o sentido da imagem.","Fotografar significa apenas copiar a realidade sem escolhas."],"respostaCorreta":"A fotografia pode ser entendida como linguagem visual e artística.","explicacao":"A fotografia registra, interpreta e constrói sentidos por meio de escolhas visuais.","dificuldade":"medio"},
+      {"id":"art8-fotografia-enquadramento-olhar-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler imagens com mais atenção e senso crítico","ignorar a composição visual","pensar que toda foto é igual","eliminar a interpretação das imagens"],"respostaCorreta":"ler imagens com mais atenção e senso crítico","explicacao":"O conteúdo amplia a percepção sobre enquadramento, olhar e intenção na imagem fotográfica.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art8-fotografia-enquadramento-olhar-sim-01","enunciado":"A principal ideia desse tema é compreender que a fotografia:","tipo":"multipla_escolha","alternativas":["também constrói sentidos por meio de escolhas visuais","é apenas registro automático sem intenção","não depende de composição","dispensa qualquer leitura crítica"],"respostaCorreta":"também constrói sentidos por meio de escolhas visuais","explicacao":"O enquadramento e o olhar do fotógrafo influenciam diretamente o efeito produzido pela imagem.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo7-populacao-migracoes-territorio",
+    "titulo": "População, migrações e território",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Dinâmica populacional",
+    "resumo": [
+      "A população se distribui de modo desigual pelo território.",
+      "As migrações alteram paisagens, serviços, relações sociais e organização do espaço.",
+      "Estudar esse tema ajuda a compreender transformações demográficas e territoriais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Distribuição da população",
+        "texto": "As pessoas não ocupam o território de maneira uniforme. Infraestrutura, oportunidades de trabalho, condições ambientais e história de ocupação influenciam a concentração ou a dispersão populacional em diferentes áreas.",
+        "dica": "Observe que fatores naturais e sociais podem atuar juntos na distribuição da população."
+      },
+      {
+        "subtitulo": "Migrações e mudanças no espaço",
+        "texto": "Os deslocamentos populacionais podem ocorrer por motivos econômicos, sociais, ambientais, familiares ou políticos. Esses movimentos transformam o espaço geográfico e afetam serviços, moradia, trabalho e relações culturais.",
+        "dica": "Pense nas causas da migração e também nos efeitos que ela pode gerar nos lugares de origem e destino."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma cidade que recebe muitas pessoas em busca de trabalho.",
+        "passos": [
+          "Observe a causa do deslocamento populacional.",
+          "Perceba possíveis mudanças no espaço urbano.",
+          "Relacione isso à dinâmica de população e território."
+        ],
+        "resposta": "Esse exemplo mostra que migração e organização do espaço geográfico se influenciam mutuamente."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo7-populacao-migracoes-territorio-ex-01","enunciado":"A população se distribui no território:","tipo":"multipla_escolha","alternativas":["de forma desigual","exatamente do mesmo modo em todas as áreas","sem relação com trabalho ou infraestrutura","somente por causa da vegetação"],"respostaCorreta":"de forma desigual","explicacao":"A distribuição populacional depende de vários fatores históricos, sociais e ambientais.","dificuldade":"facil"},
+      {"id":"geo7-populacao-migracoes-territorio-ex-02","enunciado":"Uma migração pode acontecer por:","tipo":"multipla_escolha","alternativas":["busca de trabalho e melhores condições de vida","ausência total de motivos sociais","apenas curiosidade sem contexto","nenhuma mudança no lugar de destino"],"respostaCorreta":"busca de trabalho e melhores condições de vida","explicacao":"Motivos econômicos e sociais estão entre as causas frequentes de migração.","dificuldade":"facil"},
+      {"id":"geo7-populacao-migracoes-territorio-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As migrações podem transformar o espaço geográfico e a vida social.","Migração não produz efeitos no território.","População e espaço não têm relação entre si.","Distribuição populacional depende de um único fator."],"respostaCorreta":"As migrações podem transformar o espaço geográfico e a vida social.","explicacao":"Os deslocamentos populacionais influenciam cidades, serviços, cultura e organização do território.","dificuldade":"medio"},
+      {"id":"geo7-populacao-migracoes-territorio-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender relações entre população, migração e território","ignorar causas e efeitos dos deslocamentos humanos","separar sociedade e espaço geográfico","considerar a população um dado sem dinâmica"],"respostaCorreta":"compreender relações entre população, migração e território","explicacao":"O tema amplia a leitura das mudanças populacionais e de seus impactos territoriais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo7-populacao-migracoes-territorio-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["migrações e distribuição populacional influenciam a organização do território","a população ocupa todo o espaço da mesma forma","migração não tem causas nem efeitos sociais","território e população não se relacionam"],"respostaCorreta":"migrações e distribuição populacional influenciam a organização do território","explicacao":"O conteúdo mostra como movimentos populacionais e ocupação humana transformam o espaço geográfico.","dificuldade":"medio"}
+    ]
+  }
+]

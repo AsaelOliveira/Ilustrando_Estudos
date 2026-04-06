@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cien7-cadeias-teias-alimentares",
+    "titulo": "Cadeias e teias alimentares",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Vida e ambiente",
+    "resumo": [
+      "A cadeia alimentar mostra a sequência de relações de alimentação entre os seres vivos.",
+      "Produtores, consumidores e decompositores exercem funções importantes no ambiente.",
+      "A teia alimentar reúne várias cadeias alimentares interligadas.",
+      "A energia circula no ecossistema por meio das relações alimentares.",
+      "Alterações em uma espécie podem afetar outras partes da dinâmica ecológica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cadeia alimentar",
+        "texto": "A cadeia alimentar representa a sequência de seres vivos em que um serve de alimento para outro. Essa organização ajuda a compreender como a matéria e a energia passam de um nível para outro dentro do ecossistema.",
+        "dica": "Observe quem produz alimento, quem se alimenta e quem decompõe os restos orgânicos."
+      },
+      {
+        "subtitulo": "Produtores, consumidores e decompositores",
+        "texto": "Os produtores, como as plantas, fabricam seu próprio alimento. Os consumidores dependem de outros seres vivos para se alimentar. Já os decompositores atuam na decomposição da matéria orgânica, devolvendo nutrientes ao ambiente.",
+        "dica": "As plantas costumam aparecer no início das cadeias alimentares."
+      },
+      {
+        "subtitulo": "Teia alimentar e equilíbrio ecológico",
+        "texto": "Na natureza, os seres vivos não participam de apenas uma relação alimentar. Por isso, várias cadeias se conectam e formam uma teia alimentar. Esse conjunto mostra como o equilíbrio ecológico depende de múltiplas interações.",
+        "dica": "Uma teia alimentar é mais complexa do que uma única cadeia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a sequência: capim, gafanhoto, sapo e cobra.",
+        "passos": [
+          "O capim é produtor, pois fabrica seu próprio alimento.",
+          "O gafanhoto alimenta-se do capim e é consumidor.",
+          "O sapo e a cobra dão continuidade à cadeia alimentar."
+        ],
+        "resposta": "Essa sequência representa uma cadeia alimentar em que a energia passa do produtor para os consumidores."
+      },
+      {
+        "enunciado": "Explique por que a teia alimentar é mais complexa que a cadeia alimentar.",
+        "passos": [
+          "Uma cadeia mostra uma sequência simples de alimentação.",
+          "Na natureza, um ser vivo pode participar de várias relações alimentares.",
+          "Por isso, várias cadeias se conectam, formando a teia alimentar."
+        ],
+        "resposta": "A teia alimentar é mais complexa porque reúne várias cadeias alimentares interligadas."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-01",
+        "enunciado": "A cadeia alimentar representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a sequência de relações de alimentação entre seres vivos",
+          "somente a lista de plantas de uma floresta",
+          "apenas a classificação dos planetas",
+          "um tipo de mapa geográfico"
+        ],
+        "respostaCorreta": "a sequência de relações de alimentação entre seres vivos",
+        "explicacao": "A cadeia alimentar mostra quem serve de alimento para quem no ecossistema.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-02",
+        "enunciado": "Qual organismo costuma ocupar o início de muitas cadeias alimentares?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produtor",
+          "consumidor terciário",
+          "decompositor",
+          "predador final"
+        ],
+        "respostaCorreta": "produtor",
+        "explicacao": "Os produtores fabricam seu próprio alimento e iniciam muitas cadeias alimentares.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-03",
+        "enunciado": "Os decompositores são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atuam na decomposição da matéria orgânica",
+          "produzem luz para o ecossistema",
+          "substituem os produtores",
+          "eliminam toda a água do ambiente"
+        ],
+        "respostaCorreta": "atuam na decomposição da matéria orgânica",
+        "explicacao": "Eles transformam restos orgânicos e devolvem nutrientes ao ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-04",
+        "enunciado": "A teia alimentar é formada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "várias cadeias alimentares interligadas",
+          "uma única sequência sem ramificações",
+          "somente animais carnívoros",
+          "apenas seres microscópicos"
+        ],
+        "respostaCorreta": "várias cadeias alimentares interligadas",
+        "explicacao": "A teia alimentar mostra a complexidade das relações ecológicas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-05",
+        "enunciado": "Quando uma espécie desaparece de uma teia alimentar, pode ocorrer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desequilíbrio em outras relações do ecossistema",
+          "nenhuma alteração no ambiente",
+          "o fim automático de todos os seres vivos",
+          "a transformação de produtores em decompositores"
+        ],
+        "respostaCorreta": "desequilíbrio em outras relações do ecossistema",
+        "explicacao": "As relações alimentares são interdependentes; mudanças em uma espécie podem afetar outras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-ex-06",
+        "enunciado": "Qual alternativa está correta sobre o fluxo de energia no ecossistema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele ocorre por meio das relações alimentares.",
+          "Ele existe apenas dentro do solo.",
+          "Ele não depende dos seres vivos.",
+          "Ele acontece somente entre decompositores."
+        ],
+        "respostaCorreta": "Ele ocorre por meio das relações alimentares.",
+        "explicacao": "A energia passa pelos diferentes níveis da cadeia e da teia alimentar.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien7-cadeias-teias-alimentares-sim-01",
+        "enunciado": "Ao observar uma planta, um inseto, um pássaro e um gavião em sequência, o estudante identifica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma cadeia alimentar",
+          "um experimento químico",
+          "uma escala cartográfica",
+          "uma classificação textual"
+        ],
+        "respostaCorreta": "uma cadeia alimentar",
+        "explicacao": "Essa sequência mostra relações de alimentação entre os organismos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien7-cadeias-teias-alimentares-sim-02",
+        "enunciado": "A principal ideia do estudo das cadeias e teias alimentares é compreender que os seres vivos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mantêm relações de dependência dentro do ecossistema",
+          "vivem sem ligação com o ambiente",
+          "ocupam sempre o mesmo nível alimentar",
+          "não influenciam o equilíbrio ecológico"
+        ],
+        "respostaCorreta": "mantêm relações de dependência dentro do ecossistema",
+        "explicacao": "As cadeias e teias alimentares mostram a interdependência entre os organismos e o ambiente.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

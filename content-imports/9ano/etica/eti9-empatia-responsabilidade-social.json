@@ -1,0 +1,46 @@
+[
+  {
+    "id": "eti9-empatia-responsabilidade-social",
+    "titulo": "Empatia, respeito e responsabilidade social",
+    "disciplinaId": "eti9",
+    "turmaId": "9ano",
+    "unidade": "Convivência ética",
+    "resumo": [
+      "Empatia é a capacidade de considerar sentimentos, perspectivas e necessidades de outras pessoas.",
+      "O respeito e a responsabilidade social fortalecem a convivência em diferentes espaços.",
+      "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Empatia e convivência",
+        "texto": "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana.",
+        "dica": "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido."
+      },
+      {
+        "subtitulo": "Responsabilidade em sociedade",
+        "texto": "Responsabilidade social significa reconhecer que nossas escolhas afetam outras pessoas. Esse entendimento favorece atitudes éticas, compromisso com o bem comum e maior cuidado com direitos, deveres e relações coletivas.",
+        "dica": "Pense em como pequenas ações cotidianas podem gerar efeitos positivos ou negativos no grupo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação de conflito em que uma pessoa decide ouvir o outro antes de responder.",
+        "passos": [
+          "Observe a mudança de atitude adotada.",
+          "Perceba como a escuta pode diminuir tensões.",
+          "Relacione essa prática à empatia e ao respeito."
+        ],
+        "resposta": "Esse exemplo mostra que atitudes éticas podem melhorar a convivência e favorecer soluções mais justas."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti9-empatia-responsabilidade-social-ex-01","enunciado":"Empatia é a capacidade de:","tipo":"multipla_escolha","alternativas":["considerar sentimentos e perspectivas de outras pessoas","ignorar totalmente o outro","agir apenas por impulso","rejeitar qualquer diálogo"],"respostaCorreta":"considerar sentimentos e perspectivas de outras pessoas","explicacao":"A empatia envolve compreensão e escuta em relação às experiências do outro.","dificuldade":"facil"},
+      {"id":"eti9-empatia-responsabilidade-social-ex-02","enunciado":"Responsabilidade social está relacionada a:","tipo":"multipla_escolha","alternativas":["reconhecer que nossas ações afetam a coletividade","pensar somente em vantagens individuais imediatas","evitar qualquer compromisso com o grupo","reduzir convivência a regras sem reflexão"],"respostaCorreta":"reconhecer que nossas ações afetam a coletividade","explicacao":"Esse conceito envolve considerar impactos das escolhas na vida em sociedade.","dificuldade":"facil"},
+      {"id":"eti9-empatia-responsabilidade-social-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Empatia e respeito favorecem a convivência e o diálogo.","A ética não tem relação com a vida cotidiana.","Responsabilidade social impede a cooperação.","Ouvir o outro sempre enfraquece a convivência."],"respostaCorreta":"Empatia e respeito favorecem a convivência e o diálogo.","explicacao":"Esses valores ajudam a construir relações mais justas e humanas.","dificuldade":"medio"},
+      {"id":"eti9-empatia-responsabilidade-social-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["refletir sobre atitudes individuais e coletivas","desconsiderar efeitos das próprias ações","separar ética da convivência social","tratar conflitos sem escuta ou diálogo"],"respostaCorreta":"refletir sobre atitudes individuais e coletivas","explicacao":"O tema fortalece consciência ética e responsabilidade nas relações sociais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti9-empatia-responsabilidade-social-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["conviver melhor exige empatia, respeito e responsabilidade social","a vida coletiva não depende de atitudes éticas","empatia não influencia relações humanas","responsabilidade social se limita a regras sem reflexão"],"respostaCorreta":"conviver melhor exige empatia, respeito e responsabilidade social","explicacao":"O conteúdo mostra que valores éticos são fundamentais para a qualidade das relações sociais.","dificuldade":"medio"}
+    ]
+  }
+]

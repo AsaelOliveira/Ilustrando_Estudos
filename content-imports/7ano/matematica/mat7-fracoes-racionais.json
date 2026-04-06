@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-fracoes-racionais",
+    "titulo": "Frações e números racionais",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Números racionais",
+    "resumo": [
+      "Os números racionais podem ser representados por frações, números decimais e porcentagens.",
+      "Uma fração representa partes de um todo ou uma divisão entre números.",
+      "Frações equivalentes indicam a mesma quantidade, mesmo com escrita diferente.",
+      "Comparar frações é importante para resolver problemas e interpretar situações do cotidiano.",
+      "O estudo dos números racionais amplia a compreensão sobre medidas, repartições e operações."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que são números racionais",
+        "texto": "Os números racionais são aqueles que podem ser escritos na forma de fração, com numerador e denominador inteiros, desde que o denominador seja diferente de zero. Eles também podem aparecer como números decimais ou em outras representações equivalentes.",
+        "dica": "Sempre que uma quantidade puder ser representada como divisão entre inteiros, pense em número racional."
+      },
+      {
+        "subtitulo": "Frações e equivalência",
+        "texto": "Uma fração pode representar partes iguais de um todo ou o resultado de uma divisão. Frações equivalentes são diferentes escritas que indicam a mesma quantidade, como 1/2 e 2/4, o que é muito útil em comparações e simplificações.",
+        "dica": "Se duas frações representam a mesma parte do todo, elas são equivalentes."
+      },
+      {
+        "subtitulo": "Comparação de frações",
+        "texto": "Para comparar frações, é possível observar se possuem o mesmo denominador, o mesmo numerador ou transformá-las em frações equivalentes. Esse processo ajuda a descobrir qual quantidade é maior, menor ou igual.",
+        "dica": "Em frações com o mesmo denominador, a maior é a que tem maior numerador."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare as frações 3/5 e 4/5.",
+        "passos": [
+          "As duas frações têm o mesmo denominador.",
+          "Quando o denominador é igual, basta comparar os numeradores.",
+          "Como 4 é maior que 3, 4/5 é maior que 3/5."
+        ],
+        "resposta": "A fração 4/5 representa uma quantidade maior que 3/5."
+      },
+      {
+        "enunciado": "Verifique se 1/2 e 2/4 são equivalentes.",
+        "passos": [
+          "A fração 1/2 representa metade de um todo.",
+          "A fração 2/4 também representa metade de um todo.",
+          "Assim, elas indicam a mesma quantidade."
+        ],
+        "resposta": "As frações 1/2 e 2/4 são equivalentes."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-fracoes-racionais-ex-01",
+        "enunciado": "Os números racionais podem ser representados por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "frações e números decimais",
+          "somente figuras geométricas",
+          "apenas números naturais",
+          "somente letras"
+        ],
+        "respostaCorreta": "frações e números decimais",
+        "explicacao": "Os números racionais podem aparecer em diferentes formas equivalentes, como frações e decimais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-fracoes-racionais-ex-02",
+        "enunciado": "Qual fração representa a metade de um inteiro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/2",
+          "1/3",
+          "2/5",
+          "3/4"
+        ],
+        "respostaCorreta": "1/2",
+        "explicacao": "A fração 1/2 representa duas partes iguais, considerando apenas uma delas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-fracoes-racionais-ex-03",
+        "enunciado": "Qual alternativa apresenta uma fração equivalente a 1/2?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2/4",
+          "2/3",
+          "3/5",
+          "4/7"
+        ],
+        "respostaCorreta": "2/4",
+        "explicacao": "As frações 1/2 e 2/4 representam a mesma quantidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-fracoes-racionais-ex-04",
+        "enunciado": "Entre as frações 5/8 e 3/8, a maior é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5/8",
+          "3/8",
+          "as duas são iguais",
+          "não é possível comparar"
+        ],
+        "respostaCorreta": "5/8",
+        "explicacao": "Com o mesmo denominador, a fração com maior numerador representa a maior quantidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-fracoes-racionais-ex-05",
+        "enunciado": "Uma fração também pode representar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma divisão entre números inteiros",
+          "apenas um desenho decorativo",
+          "somente uma sequência de letras",
+          "um tipo de pontuação textual"
+        ],
+        "respostaCorreta": "uma divisão entre números inteiros",
+        "explicacao": "A fração indica a divisão do numerador pelo denominador.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-fracoes-racionais-ex-06",
+        "enunciado": "Qual afirmação está correta sobre frações equivalentes?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas têm escritas diferentes, mas representam a mesma quantidade.",
+          "Elas sempre têm numeradores iguais.",
+          "Elas não podem ser comparadas.",
+          "Elas são usadas apenas em geometria."
+        ],
+        "respostaCorreta": "Elas têm escritas diferentes, mas representam a mesma quantidade.",
+        "explicacao": "Frações equivalentes mantêm o mesmo valor, mesmo quando são escritas de outra forma.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-fracoes-racionais-sim-01",
+        "enunciado": "Ao comparar 7/10 e 9/10, o estudante deve concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "9/10 é maior que 7/10",
+          "7/10 é maior que 9/10",
+          "as duas frações são equivalentes",
+          "não há relação entre elas"
+        ],
+        "respostaCorreta": "9/10 é maior que 7/10",
+        "explicacao": "Como os denominadores são iguais, basta comparar os numeradores.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-fracoes-racionais-sim-02",
+        "enunciado": "A ideia central do estudo dos números racionais é compreender que uma mesma quantidade pode ser representada:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de diferentes formas equivalentes, como fração e decimal",
+          "somente por desenhos",
+          "apenas por números naturais",
+          "sem nenhuma relação com o cotidiano"
+        ],
+        "respostaCorreta": "de diferentes formas equivalentes, como fração e decimal",
+        "explicacao": "Os números racionais aparecem em várias representações e ajudam a resolver muitas situações reais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

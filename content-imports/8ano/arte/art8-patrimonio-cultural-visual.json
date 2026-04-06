@@ -1,0 +1,45 @@
+[
+  {
+    "id": "art8-patrimonio-cultural-visual",
+    "titulo": "Patrimônio cultural e produção visual",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Arte e cultura",
+    "resumo": [
+      "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo.",
+      "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio.",
+      "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Memória e identidade",
+        "texto": "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo.",
+        "dica": "Observe como arte e cultura se relacionam à memória coletiva de um grupo."
+      },
+      {
+        "subtitulo": "Arte como valorização cultural",
+        "texto": "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica.",
+        "dica": "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma pintura ou fotografia que represente uma festa popular brasileira.",
+        "passos": [
+          "Identifique elementos culturais presentes na imagem.",
+          "Perceba como a produção visual ajuda a valorizar essa manifestação."
+        ],
+        "resposta": "Esse exemplo mostra como a arte pode dialogar com o patrimônio cultural."
+      }
+    ],
+    "exercicios": [
+      {"id":"art8-patrimonio-cultural-visual-ex-01","enunciado":"O patrimônio cultural está relacionado a:","tipo":"multipla_escolha","alternativas":["memória e identidade de um povo","apenas objetos sem significado histórico","somente fórmulas matemáticas","apenas paisagens naturais sem presença humana"],"respostaCorreta":"memória e identidade de um povo","explicacao":"O patrimônio cultural reúne referências importantes para a história e a identidade coletiva.","dificuldade":"facil"},
+      {"id":"art8-patrimonio-cultural-visual-ex-02","enunciado":"A produção visual pode contribuir para:","tipo":"multipla_escolha","alternativas":["valorizar manifestações culturais","eliminar a memória coletiva","substituir toda tradição por repetição mecânica","impedir a leitura de imagens"],"respostaCorreta":"valorizar manifestações culturais","explicacao":"A arte pode representar, registrar e reinterpretar elementos importantes da cultura.","dificuldade":"facil"},
+      {"id":"art8-patrimonio-cultural-visual-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Arte e patrimônio cultural podem se relacionar na construção da memória coletiva.","A arte não tem ligação com a cultura de um povo.","Patrimônio cultural se limita apenas a prédios antigos.","Imagens não podem representar tradições ou costumes."],"respostaCorreta":"Arte e patrimônio cultural podem se relacionar na construção da memória coletiva.","explicacao":"A arte participa da valorização e da interpretação de referências culturais importantes.","dificuldade":"medio"},
+      {"id":"art8-patrimonio-cultural-visual-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["reconhecer a arte como parte da identidade cultural","separar totalmente arte e sociedade","ignorar manifestações culturais locais","pensar a produção visual como algo sem contexto"],"respostaCorreta":"reconhecer a arte como parte da identidade cultural","explicacao":"O conteúdo aproxima arte, memória e pertencimento cultural.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art8-patrimonio-cultural-visual-sim-01","enunciado":"A principal ideia desse tema é compreender que:","tipo":"multipla_escolha","alternativas":["a arte pode valorizar e reinterpretar o patrimônio cultural","o patrimônio cultural não tem relação com imagens","identidade cultural não se relaciona à memória coletiva","a produção visual existe sem contexto social"],"respostaCorreta":"a arte pode valorizar e reinterpretar o patrimônio cultural","explicacao":"A linguagem visual participa da preservação e da ressignificação de referências culturais.","dificuldade":"medio"}
+    ]
+  }
+]

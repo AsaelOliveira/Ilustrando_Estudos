@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo7-cartografia-orientacao-escala",
+    "titulo": "Cartografia, orientação e escala",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Linguagem cartográfica",
+    "resumo": [
+      "A cartografia é a área responsável pela elaboração e interpretação de mapas.",
+      "Orientação espacial ajuda a localizar lugares e a compreender deslocamentos.",
+      "Os pontos cardeais são referências importantes para se orientar.",
+      "A escala indica a relação entre o tamanho real e a representação no mapa.",
+      "Ler mapas com atenção permite compreender melhor o espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função da cartografia",
+        "texto": "A cartografia é a área do conhecimento que produz e interpreta mapas, plantas e outras representações do espaço. Ela ajuda a comunicar informações geográficas de maneira organizada e facilita a compreensão de distâncias, localizações e trajetos.",
+        "dica": "Mapa não é apenas desenho; ele comunica informações sobre o espaço."
+      },
+      {
+        "subtitulo": "Orientação espacial",
+        "texto": "Para se orientar, usamos referências como os pontos cardeais, a posição do Sol, a bússola e elementos da paisagem. A orientação espacial é importante para localizar lugares, planejar trajetos e entender a organização do espaço.",
+        "dica": "Norte, sul, leste e oeste são referências básicas de orientação."
+      },
+      {
+        "subtitulo": "Escala cartográfica",
+        "texto": "A escala mostra a relação entre o que aparece no mapa e o tamanho real do espaço representado. Ela permite saber se um mapa retrata uma grande área com menos detalhes ou uma área menor com mais detalhamento.",
+        "dica": "Sem escala, fica difícil interpretar corretamente tamanhos e distâncias no mapa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a escala é importante em um mapa.",
+        "passos": [
+          "O mapa representa a realidade de forma reduzida.",
+          "A escala mostra essa relação de redução.",
+          "Assim, é possível interpretar melhor distâncias e dimensões."
+        ],
+        "resposta": "A escala é importante porque informa a relação entre o espaço real e sua representação no mapa."
+      },
+      {
+        "enunciado": "Relacione pontos cardeais e orientação.",
+        "passos": [
+          "Os pontos cardeais servem como referência de direção.",
+          "Eles ajudam a localizar lugares e organizar deslocamentos.",
+          "Por isso, são fundamentais para a orientação espacial."
+        ],
+        "resposta": "Os pontos cardeais ajudam a orientar deslocamentos e localizar posições no espaço."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-01",
+        "enunciado": "A cartografia é a área que estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a elaboração e a leitura de mapas",
+          "somente a criação de poemas",
+          "apenas a divisão de números",
+          "exclusivamente os alimentos"
+        ],
+        "respostaCorreta": "a elaboração e a leitura de mapas",
+        "explicacao": "A cartografia produz e interpreta representações do espaço, como os mapas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-02",
+        "enunciado": "Quais são os quatro pontos cardeais?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "norte, sul, leste e oeste",
+          "alto, baixo, perto e longe",
+          "frente, trás, lado e centro",
+          "cidade, campo, rio e montanha"
+        ],
+        "respostaCorreta": "norte, sul, leste e oeste",
+        "explicacao": "Esses são os pontos cardeais básicos usados na orientação espacial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-03",
+        "enunciado": "A escala de um mapa indica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre a realidade e a representação",
+          "a cor usada no título do mapa",
+          "o idioma do cartógrafo",
+          "a idade do papel"
+        ],
+        "respostaCorreta": "a relação entre a realidade e a representação",
+        "explicacao": "A escala permite interpretar o quanto o espaço real foi reduzido no mapa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-04",
+        "enunciado": "Por que a orientação espacial é importante?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque ajuda a localizar lugares e planejar trajetos.",
+          "Porque substitui todos os mapas existentes.",
+          "Porque elimina a necessidade de referências.",
+          "Porque serve apenas para decorar nomes."
+        ],
+        "respostaCorreta": "Porque ajuda a localizar lugares e planejar trajetos.",
+        "explicacao": "A orientação espacial é essencial para entender direções e deslocamentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-05",
+        "enunciado": "Qual instrumento é frequentemente associado à orientação?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bússola",
+          "termômetro",
+          "borracha",
+          "pincel"
+        ],
+        "respostaCorreta": "bússola",
+        "explicacao": "A bússola é um instrumento usado para indicar direções e auxiliar na orientação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-ex-06",
+        "enunciado": "Qual alternativa está correta sobre mapas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Eles representam o espaço de forma organizada e interpretável.",
+          "Eles não precisam de escala nem legenda.",
+          "Eles servem apenas como decoração.",
+          "Eles não ajudam na localização."
+        ],
+        "respostaCorreta": "Eles representam o espaço de forma organizada e interpretável.",
+        "explicacao": "Os mapas comunicam informações geográficas e ajudam a compreender o espaço.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo7-cartografia-orientacao-escala-sim-01",
+        "enunciado": "Ao usar pontos cardeais e escala para interpretar um mapa, o estudante está mobilizando conhecimentos de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cartografia e orientação espacial",
+          "análise sintática",
+          "classificação dos vertebrados",
+          "operações com potências"
+        ],
+        "respostaCorreta": "cartografia e orientação espacial",
+        "explicacao": "Esses conceitos pertencem ao estudo da linguagem cartográfica e da localização no espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-cartografia-orientacao-escala-sim-02",
+        "enunciado": "A principal função da escala em um mapa é permitir que o leitor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreenda a proporção entre o espaço real e sua representação",
+          "descubra o nome do autor do mapa",
+          "troque os pontos cardeais por cores",
+          "ignore as distâncias entre os lugares"
+        ],
+        "respostaCorreta": "compreenda a proporção entre o espaço real e sua representação",
+        "explicacao": "A escala informa como o espaço foi reduzido e ajuda a interpretar dimensões e distâncias.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

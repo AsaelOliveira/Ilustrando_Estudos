@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien7-saude-prevencao-doencas",
+    "titulo": "Saúde e prevenção de doenças",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Saúde",
+    "resumo": [
+      "A prevenção de doenças envolve hábitos, informação e cuidado com o corpo e o ambiente.",
+      "Vacinação, higiene, alimentação adequada e saneamento são fatores importantes para a saúde.",
+      "Estudar esse tema ajuda a desenvolver atitudes de autocuidado e responsabilidade coletiva."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cuidados individuais e coletivos",
+        "texto": "A saúde não depende apenas de tratamento quando a doença aparece, mas também de ações preventivas. Hábitos diários, acesso a serviços e condições ambientais influenciam diretamente o bem-estar e a qualidade de vida.",
+        "dica": "Pense na prevenção como conjunto de atitudes contínuas, e não como ação isolada."
+      },
+      {
+        "subtitulo": "Informação e prevenção",
+        "texto": "Compreender formas de transmissão de doenças, importância da vacinação e papel da higiene ajuda a reduzir riscos. Esse conhecimento também fortalece decisões mais responsáveis sobre saúde individual e coletiva.",
+        "dica": "Ao estudar uma doença, observe causas, formas de prevenção e impactos para a população."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma comunidade com acesso a saneamento e vacinação a outra com menos condições de prevenção.",
+        "passos": [
+          "Observe diferenças nas medidas preventivas disponíveis.",
+          "Perceba possíveis efeitos sobre a saúde da população.",
+          "Relacione a situação à ideia de prevenção de doenças."
+        ],
+        "resposta": "Esse contraste mostra que saúde também depende de condições coletivas e políticas de prevenção."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien7-saude-prevencao-doencas-ex-01","enunciado":"Prevenir doenças significa:","tipo":"multipla_escolha","alternativas":["adotar cuidados para reduzir riscos à saúde","esperar a doença aparecer para agir","ignorar higiene e vacinação","tratar saúde como assunto sem relação com o ambiente"],"respostaCorreta":"adotar cuidados para reduzir riscos à saúde","explicacao":"A prevenção envolve ações que evitam ou diminuem a chance de adoecimento.","dificuldade":"facil"},
+      {"id":"cien7-saude-prevencao-doencas-ex-02","enunciado":"Qual fator contribui para a prevenção de doenças?","tipo":"multipla_escolha","alternativas":["vacinação e higiene","desinformação","falta de saneamento","abandono de cuidados básicos"],"respostaCorreta":"vacinação e higiene","explicacao":"Esses elementos são importantes para a proteção individual e coletiva.","dificuldade":"facil"},
+      {"id":"cien7-saude-prevencao-doencas-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Saúde envolve hábitos individuais e também condições coletivas de prevenção.","Doenças só dependem de escolhas pessoais.","Prevenção não tem relação com informação científica.","Higiene e vacinação não influenciam a saúde pública."],"respostaCorreta":"Saúde envolve hábitos individuais e também condições coletivas de prevenção.","explicacao":"O bem-estar depende de práticas pessoais, acesso a recursos e políticas de cuidado coletivo.","dificuldade":"medio"},
+      {"id":"cien7-saude-prevencao-doencas-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver atitudes de autocuidado e responsabilidade coletiva","ignorar a importância da prevenção","separar saúde e ambiente","dispensar informações sobre doenças"],"respostaCorreta":"desenvolver atitudes de autocuidado e responsabilidade coletiva","explicacao":"O tema fortalece consciência sobre hábitos preventivos e sobre saúde pública.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien7-saude-prevencao-doencas-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a prevenção depende de informação, hábitos saudáveis e condições coletivas de cuidado","saúde só deve ser tratada quando a doença já apareceu","vacinação e higiene não influenciam a prevenção","a saúde não se relaciona ao ambiente"],"respostaCorreta":"a prevenção depende de informação, hábitos saudáveis e condições coletivas de cuidado","explicacao":"O conteúdo mostra que a prevenção integra escolhas pessoais e ações coletivas em favor da saúde.","dificuldade":"medio"}
+    ]
+  }
+]

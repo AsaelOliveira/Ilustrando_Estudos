@@ -1,0 +1,45 @@
+[
+  {
+    "id": "esp8-saludos-presentacion",
+    "titulo": "Saludos y presentación personal",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación inicial",
+    "resumo": [
+      "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol.",
+      "Esse conteúdo ajuda a iniciar interações simples com clareza e educação.",
+      "Aprender estruturas básicas favorece a confiança no uso do idioma."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Saudações básicas",
+        "texto": "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada.",
+        "dica": "Observe em que momento do dia cada saudação costuma ser usada."
+      },
+      {
+        "subtitulo": "Apresentação pessoal",
+        "texto": "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica.",
+        "dica": "Pratique frases curtas e claras para ganhar segurança ao falar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Hola, me llamo Ana y soy de Brasil.'",
+        "passos": [
+          "Identifique a saudação no início da frase.",
+          "Observe a estrutura usada para dizer o nome e a origem."
+        ],
+        "resposta": "Esse é um exemplo simples de apresentação pessoal em espanhol."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp8-saludos-presentacion-ex-01","enunciado":"Qual expressão é uma saudação em espanhol?","tipo":"multipla_escolha","alternativas":["hola","bonjour","hello there only","ciao bella sempre"],"respostaCorreta":"hola","explicacao":"'Hola' é uma forma básica e frequente de cumprimento em espanhol.","dificuldade":"facil"},
+      {"id":"esp8-saludos-presentacion-ex-02","enunciado":"A expressão 'me llamo' é usada para:","tipo":"multipla_escolha","alternativas":["dizer o próprio nome","despedir-se","perguntar as horas","falar sobre comida"],"respostaCorreta":"dizer o próprio nome","explicacao":"'Me llamo' significa 'eu me chamo' e é usada na apresentação pessoal.","dificuldade":"facil"},
+      {"id":"esp8-saludos-presentacion-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Saudações e apresentação pessoal ajudam a iniciar a comunicação em espanhol.","Esse conteúdo não tem utilidade em interações básicas.","Não existem formas simples de se apresentar no idioma.","Os cumprimentos não mudam conforme o contexto."],"respostaCorreta":"Saudações e apresentação pessoal ajudam a iniciar a comunicação em espanhol.","explicacao":"Essas estruturas são fundamentais para interações iniciais no idioma.","dificuldade":"medio"},
+      {"id":"esp8-saludos-presentacion-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["comunicar informações pessoais básicas com mais segurança","eliminar todo contato oral no idioma","falar apenas em frases aleatórias","ignorar o contexto de uso das saudações"],"respostaCorreta":"comunicar informações pessoais básicas com mais segurança","explicacao":"O conteúdo desenvolve repertório inicial para apresentações e cumprimentos em espanhol.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp8-saludos-presentacion-sim-01","enunciado":"A principal função das saudações e da apresentação pessoal em espanhol é:","tipo":"multipla_escolha","alternativas":["iniciar interações de forma educada e compreensível","substituir todo o estudo do idioma","servir apenas para leitura silenciosa","dispensar o uso de frases completas"],"respostaCorreta":"iniciar interações de forma educada e compreensível","explicacao":"Essas estruturas básicas sustentam os primeiros contatos comunicativos no idioma.","dificuldade":"medio"}
+    ]
+  }
+]

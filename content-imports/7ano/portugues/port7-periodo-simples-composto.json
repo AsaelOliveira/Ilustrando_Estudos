@@ -1,0 +1,169 @@
+[
+  {
+    "id": "port7-periodo-simples-composto",
+    "titulo": "Período simples e período composto",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "O período é um enunciado organizado em torno de verbos e ideias completas.",
+      "O período simples possui uma única oração.",
+      "O período composto apresenta duas ou mais orações.",
+      "Reconhecer a estrutura do período ajuda na leitura e na escrita.",
+      "Esse conteúdo favorece a compreensão da organização sintática das frases."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é período",
+        "texto": "Período é um enunciado com sentido completo, normalmente encerrado por pontuação como ponto final, ponto de exclamação ou ponto de interrogação. Ele pode ser formado por uma ou mais orações.",
+        "dica": "Primeiro identifique os verbos; eles ajudam a perceber quantas orações existem no período."
+      },
+      {
+        "subtitulo": "Período simples",
+        "texto": "O período simples é formado por apenas uma oração, ou seja, apresenta apenas um verbo ou locução verbal principal. Mesmo sendo breve, ele pode comunicar uma ideia completa.",
+        "dica": "Se houver apenas um núcleo verbal, provavelmente o período é simples."
+      },
+      {
+        "subtitulo": "Período composto",
+        "texto": "O período composto reúne duas ou mais orações, geralmente conectadas por conjunções ou pontuação. Essa estrutura permite articular melhor ideias, explicações, causas, condições e relações entre fatos.",
+        "dica": "Quando há mais de um verbo com sentidos organizados em conjunto, o período tende a ser composto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a frase: \"A turma estudou bastante.\"",
+        "passos": [
+          "Há apenas um verbo: 'estudou'.",
+          "O enunciado transmite uma ideia completa.",
+          "Portanto, trata-se de período simples."
+        ],
+        "resposta": "A frase é um período simples, pois possui uma única oração."
+      },
+      {
+        "enunciado": "Observe a frase: \"A turma estudou bastante e conseguiu ótimos resultados.\"",
+        "passos": [
+          "Há dois verbos: 'estudou' e 'conseguiu'.",
+          "As ideias estão ligadas no mesmo enunciado.",
+          "Logo, temos um período composto."
+        ],
+        "resposta": "A frase é um período composto, pois apresenta mais de uma oração."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port7-periodo-simples-composto-ex-01",
+        "enunciado": "O período simples apresenta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma única oração",
+          "duas orações obrigatórias",
+          "apenas substantivos",
+          "somente pontuação"
+        ],
+        "respostaCorreta": "uma única oração",
+        "explicacao": "O período simples possui apenas uma oração, geralmente identificada por um único verbo principal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-periodo-simples-composto-ex-02",
+        "enunciado": "O período composto apresenta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "duas ou mais orações",
+          "nenhum verbo",
+          "somente palavras isoladas",
+          "apenas uma sílaba tônica"
+        ],
+        "respostaCorreta": "duas ou mais orações",
+        "explicacao": "O período composto reúne mais de uma oração em um mesmo enunciado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port7-periodo-simples-composto-ex-03",
+        "enunciado": "Qual alternativa apresenta período simples?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os alunos chegaram cedo.",
+          "Os alunos chegaram cedo e organizaram a sala.",
+          "A professora explicou o conteúdo e tirou dúvidas.",
+          "Estudamos muito, mas ainda queríamos revisar."
+        ],
+        "respostaCorreta": "Os alunos chegaram cedo.",
+        "explicacao": "Essa frase possui apenas um verbo principal, 'chegaram', formando uma única oração.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-periodo-simples-composto-ex-04",
+        "enunciado": "Qual alternativa apresenta período composto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Choveu e a temperatura caiu.",
+          "A manhã foi tranquila.",
+          "O menino correu.",
+          "A aula terminou."
+        ],
+        "respostaCorreta": "Choveu e a temperatura caiu.",
+        "explicacao": "A frase possui duas orações, organizadas por dois verbos principais: 'choveu' e 'caiu'.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-periodo-simples-composto-ex-05",
+        "enunciado": "Para identificar se um período é simples ou composto, uma estratégia importante é observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a quantidade de verbos e orações",
+          "a cor das palavras",
+          "o tamanho do caderno",
+          "a ordem alfabética"
+        ],
+        "respostaCorreta": "a quantidade de verbos e orações",
+        "explicacao": "A observação dos verbos ajuda a perceber quantas orações compõem o período.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-periodo-simples-composto-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O período composto permite articular mais de uma ideia no mesmo enunciado.",
+          "O período simples nunca possui verbo.",
+          "Todo período composto tem apenas uma oração.",
+          "Período simples e composto são exatamente a mesma coisa."
+        ],
+        "respostaCorreta": "O período composto permite articular mais de uma ideia no mesmo enunciado.",
+        "explicacao": "A principal característica do período composto é reunir duas ou mais orações em um único enunciado.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port7-periodo-simples-composto-sim-01",
+        "enunciado": "Ao comparar as frases \"A menina sorriu.\" e \"A menina sorriu porque recebeu a notícia.\", o aluno observa a diferença entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "período simples e período composto",
+          "substantivo e adjetivo",
+          "mapa e gráfico",
+          "fração e decimal"
+        ],
+        "respostaCorreta": "período simples e período composto",
+        "explicacao": "A primeira frase tem uma oração; a segunda, duas, organizadas no mesmo período.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port7-periodo-simples-composto-sim-02",
+        "enunciado": "A principal utilidade desse tema é compreender como as frases podem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar uma ou várias orações para construir sentido",
+          "eliminar todos os verbos do texto",
+          "substituir a leitura por memorização",
+          "transformar qualquer texto em poema"
+        ],
+        "respostaCorreta": "organizar uma ou várias orações para construir sentido",
+        "explicacao": "O estudo dos períodos ajuda a entender a estrutura sintática e a organização das ideias na frase.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-razoes-proporcoes",
+    "titulo": "Razões e proporções",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Relações numéricas",
+    "resumo": [
+      "Razão é a comparação entre duas grandezas ou quantidades.",
+      "A proporção relaciona duas razões equivalentes.",
+      "Esses conceitos aparecem em escalas, receitas, mapas e problemas do cotidiano.",
+      "Compreender razões e proporções ajuda a comparar situações de forma precisa.",
+      "O raciocínio proporcional é uma base importante da Matemática."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é razão",
+        "texto": "Razão é uma forma de comparar duas quantidades por meio de divisão. Quando dizemos que a razão entre 8 e 4 é 2, estamos indicando quantas vezes uma quantidade contém a outra.",
+        "dica": "Pense na razão como uma comparação numérica entre duas quantidades."
+      },
+      {
+        "subtitulo": "O que é proporção",
+        "texto": "A proporção ocorre quando duas razões são equivalentes. Isso significa que, embora possam ter números diferentes, representam a mesma relação entre grandezas.",
+        "dica": "Se duas comparações mantêm a mesma relação, há uma proporção."
+      },
+      {
+        "subtitulo": "Aplicações no cotidiano",
+        "texto": "Razões e proporções são usadas em muitas situações, como receitas culinárias, ampliação de desenhos, leitura de mapas, escalas e problemas envolvendo velocidade, consumo e repartição.",
+        "dica": "Sempre que houver comparação entre grandezas, a razão pode estar presente."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare 6 bolas azuis com 3 bolas vermelhas.",
+        "passos": [
+          "A razão entre 6 e 3 pode ser escrita como 6/3.",
+          "Essa divisão resulta em 2.",
+          "Isso mostra que a quantidade de bolas azuis é o dobro da de bolas vermelhas."
+        ],
+        "resposta": "A razão entre 6 e 3 é 2."
+      },
+      {
+        "enunciado": "Verifique se 2/4 e 3/6 formam uma proporção.",
+        "passos": [
+          "A fração 2/4 pode ser simplificada para 1/2.",
+          "A fração 3/6 também pode ser simplificada para 1/2.",
+          "Como representam a mesma relação, formam uma proporção."
+        ],
+        "resposta": "As razões 2/4 e 3/6 são proporcionais."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-razoes-proporcoes-ex-01",
+        "enunciado": "Razão é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma comparação entre quantidades",
+          "um tipo de verbo",
+          "uma figura circular",
+          "um nome de polígono"
+        ],
+        "respostaCorreta": "uma comparação entre quantidades",
+        "explicacao": "A razão compara duas grandezas ou quantidades por meio de divisão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-ex-02",
+        "enunciado": "Quando duas razões são equivalentes, temos uma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "proporção",
+          "subtração",
+          "adição",
+          "permutação"
+        ],
+        "respostaCorreta": "proporção",
+        "explicacao": "A proporção é a igualdade entre duas razões equivalentes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-ex-03",
+        "enunciado": "Qual par de razões forma uma proporção?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "1/2 e 2/4",
+          "1/2 e 3/4",
+          "2/3 e 4/5",
+          "3/5 e 2/7"
+        ],
+        "respostaCorreta": "1/2 e 2/4",
+        "explicacao": "As duas razões representam a mesma relação, pois 2/4 equivale a 1/2.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-ex-04",
+        "enunciado": "Razões e proporções são úteis em situações como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escalas e receitas",
+          "apenas pontuação textual",
+          "somente nomes de cidades",
+          "classificação dos biomas"
+        ],
+        "respostaCorreta": "escalas e receitas",
+        "explicacao": "Esses conceitos aparecem com frequência em comparações presentes no cotidiano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-ex-05",
+        "enunciado": "Se a razão entre 10 e 5 é calculada, o resultado é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "2",
+          "5",
+          "10",
+          "15"
+        ],
+        "respostaCorreta": "2",
+        "explicacao": "A razão entre 10 e 5 é dada pela divisão 10/5, cujo resultado é 2.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A proporção mostra a equivalência entre duas razões.",
+          "Toda razão é uma figura geométrica.",
+          "Proporção não pode ser usada no cotidiano.",
+          "Razão e proporção não têm relação entre si."
+        ],
+        "respostaCorreta": "A proporção mostra a equivalência entre duas razões.",
+        "explicacao": "Essa é a principal ideia do conceito de proporção.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-razoes-proporcoes-sim-01",
+        "enunciado": "Ao comparar ingredientes de uma receita e manter a mesma relação entre eles, o aluno está usando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "proporção",
+          "pontuação",
+          "classificação verbal",
+          "sílaba tônica"
+        ],
+        "respostaCorreta": "proporção",
+        "explicacao": "A manutenção da mesma relação entre quantidades caracteriza uma proporção.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-razoes-proporcoes-sim-02",
+        "enunciado": "A principal utilidade de estudar razões e proporções é compreender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comparar grandezas e manter relações equivalentes",
+          "eliminar todos os cálculos",
+          "substituir a geometria",
+          "dispensar a interpretação de problemas"
+        ],
+        "respostaCorreta": "comparar grandezas e manter relações equivalentes",
+        "explicacao": "O tema ajuda a analisar comparações e relações proporcionais em diferentes contextos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "geo8-comercio-global-consumo",
+    "titulo": "Comércio global e consumo",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Globalização e economia",
+    "resumo": [
+      "O comércio global conecta países, empresas e consumidores em diferentes escalas.",
+      "O consumo está ligado à circulação de produtos, informações e publicidade.",
+      "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Circulação de mercadorias",
+        "texto": "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica.",
+        "dica": "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor."
+      },
+      {
+        "subtitulo": "Consumo e sociedade",
+        "texto": "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica.",
+        "dica": "Pergunte como produção, circulação e consumo se relacionam no cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em um produto fabricado em outro país e vendido em sua cidade.",
+        "passos": [
+          "Identifique que houve circulação internacional de mercadorias.",
+          "Observe que esse processo depende de redes comerciais e de transporte."
+        ],
+        "resposta": "Esse exemplo mostra uma relação típica do comércio global."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo8-comercio-global-consumo-ex-01","enunciado":"O comércio global se caracteriza por:","tipo":"multipla_escolha","alternativas":["conectar produção, circulação e consumo em diferentes lugares","eliminar toda circulação de mercadorias","funcionar apenas dentro de uma única cidade","substituir completamente os meios de transporte"],"respostaCorreta":"conectar produção, circulação e consumo em diferentes lugares","explicacao":"O comércio global articula espaços diversos por meio de redes econômicas e logísticas.","dificuldade":"facil"},
+      {"id":"geo8-comercio-global-consumo-ex-02","enunciado":"O consumo está relacionado também a:","tipo":"multipla_escolha","alternativas":["hábitos sociais e publicidade","somente fenômenos naturais","apenas regras gramaticais","somente a idade das pessoas"],"respostaCorreta":"hábitos sociais e publicidade","explicacao":"O consumo depende de fatores sociais, culturais e econômicos, e não apenas da necessidade imediata.","dificuldade":"facil"},
+      {"id":"geo8-comercio-global-consumo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Produtos podem ser fabricados em um lugar e consumidos em outro graças às redes globais.","Todo produto é fabricado e consumido no mesmo local.","O comércio global não depende de transporte nem tecnologia.","Consumo e economia não têm relação."],"respostaCorreta":"Produtos podem ser fabricados em um lugar e consumidos em outro graças às redes globais.","explicacao":"A globalização econômica permite a circulação internacional de mercadorias em grande escala.","dificuldade":"medio"},
+      {"id":"geo8-comercio-global-consumo-ex-04","enunciado":"Estudar comércio global e consumo ajuda a compreender:","tipo":"multipla_escolha","alternativas":["relações econômicas e impactos sociais e ambientais","somente a estrutura interna da Terra","apenas a classificação dos verbos","exclusivamente a formação dos rios"],"respostaCorreta":"relações econômicas e impactos sociais e ambientais","explicacao":"Esse tema mostra como economia, sociedade e ambiente se conectam na circulação de mercadorias.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo8-comercio-global-consumo-sim-01","enunciado":"Ao estudar comércio global, o aluno deve perceber principalmente que:","tipo":"multipla_escolha","alternativas":["produção, circulação e consumo estão articulados em escala ampla","cada lugar consome apenas o que produz localmente","o consumo não sofre influência social","as redes comerciais não dependem de infraestrutura"],"respostaCorreta":"produção, circulação e consumo estão articulados em escala ampla","explicacao":"O comércio global se apoia em redes que conectam diferentes territórios e etapas da economia.","dificuldade":"medio"}
+    ]
+  }
+]

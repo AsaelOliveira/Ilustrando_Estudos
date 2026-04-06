@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-independencia-americas-intro",
+    "titulo": "Processos de independência nas Américas",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Transformações políticas",
+    "resumo": [
+      "Os processos de independência nas Américas ocorreram em diferentes contextos históricos.",
+      "Eles envolveram conflitos, disputas de poder e projetos políticos diversos.",
+      "As ideias iluministas e outras transformações do período influenciaram essas mudanças.",
+      "Cada território teve seu próprio caminho até a independência.",
+      "Estudar esse tema ajuda a compreender a formação de novos países no continente americano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Independência e contexto histórico",
+        "texto": "Os processos de independência nas Américas aconteceram em momentos de intensas mudanças políticas e econômicas. Em diferentes territórios, grupos sociais passaram a contestar o domínio colonial e a buscar novas formas de organização política.",
+        "dica": "Independência não aconteceu do mesmo jeito em todos os lugares."
+      },
+      {
+        "subtitulo": "Influências e disputas",
+        "texto": "Ideias de liberdade, autonomia e crítica ao poder colonial circularam em vários espaços e influenciaram movimentos de independência. Ao mesmo tempo, havia disputas entre grupos com interesses diferentes sobre o futuro dos territórios.",
+        "dica": "Nem todos defendiam a independência pelos mesmos motivos."
+      },
+      {
+        "subtitulo": "Formação de novos países",
+        "texto": "Com a ruptura do domínio colonial, surgiram novos países nas Américas. Esses processos, porém, não eliminaram automaticamente desigualdades e conflitos, o que mostra que a independência foi também o início de novos desafios políticos e sociais.",
+        "dica": "A independência marca uma transformação, mas não resolve todos os problemas históricos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que os processos de independência nas Américas não foram todos iguais.",
+        "passos": [
+          "Cada território tinha história, economia e grupos sociais diferentes.",
+          "As disputas políticas variavam de lugar para lugar.",
+          "Por isso, os processos seguiram caminhos distintos."
+        ],
+        "resposta": "As independências nas Américas aconteceram de formas diferentes porque cada território tinha seu próprio contexto histórico."
+      },
+      {
+        "enunciado": "Relacione ideias de liberdade e independência.",
+        "passos": [
+          "Muitos grupos passaram a criticar o domínio colonial.",
+          "Ideias de autonomia e direitos ganharam força.",
+          "Essas influências ajudaram a impulsionar movimentos de independência."
+        ],
+        "resposta": "As ideias de liberdade contribuíram para o questionamento do domínio colonial e para os movimentos de independência."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-independencia-americas-intro-ex-01",
+        "enunciado": "Os processos de independência nas Américas ocorreram:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "em contextos históricos diversos",
+          "todos da mesma forma e ao mesmo tempo",
+          "sem qualquer disputa política",
+          "somente por motivos climáticos"
+        ],
+        "respostaCorreta": "em contextos históricos diversos",
+        "explicacao": "Cada território teve características próprias, o que influenciou seu processo de independência.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-ex-02",
+        "enunciado": "Uma influência importante em vários movimentos de independência foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a circulação de ideias de liberdade e autonomia",
+          "a eliminação de toda atividade econômica",
+          "a inexistência de conflitos",
+          "a ausência de mudanças políticas"
+        ],
+        "respostaCorreta": "a circulação de ideias de liberdade e autonomia",
+        "explicacao": "Essas ideias ajudaram a questionar o domínio colonial e a defender novas formas de organização política.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-ex-03",
+        "enunciado": "Após a independência, muitos territórios americanos passaram a enfrentar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "novos desafios políticos e sociais",
+          "o desaparecimento de toda desigualdade",
+          "o fim imediato de todos os conflitos",
+          "a extinção da vida urbana"
+        ],
+        "respostaCorreta": "novos desafios políticos e sociais",
+        "explicacao": "A independência não resolveu automaticamente todos os problemas, e muitos desafios continuaram.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cada processo de independência teve características próprias.",
+          "Todos os países americanos tornaram-se independentes pelo mesmo motivo.",
+          "A independência foi um fato sem relação com disputas de poder.",
+          "Esses processos não alteraram a política do continente."
+        ],
+        "respostaCorreta": "Cada processo de independência teve características próprias.",
+        "explicacao": "Embora haja elementos em comum, cada território viveu a independência de modo particular.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-ex-05",
+        "enunciado": "Estudar as independências americanas ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a formação de novos países no continente",
+          "apenas a classificação dos biomas",
+          "somente operações com frações",
+          "a origem exclusiva da cartografia"
+        ],
+        "respostaCorreta": "a formação de novos países no continente",
+        "explicacao": "Esses processos foram fundamentais para a reorganização política das Américas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-ex-06",
+        "enunciado": "Qual opção resume melhor a noção de independência nesse contexto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ruptura com o domínio colonial e busca de autonomia política",
+          "abandono de qualquer forma de governo",
+          "fim de toda atividade econômica",
+          "substituição da história por mapas"
+        ],
+        "respostaCorreta": "ruptura com o domínio colonial e busca de autonomia política",
+        "explicacao": "A independência envolveu o rompimento com o controle colonial e a construção de novas formas de organização política.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-independencia-americas-intro-sim-01",
+        "enunciado": "Ao analisar independências ocorridas em diferentes regiões americanas, o estudante deve considerar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as diferenças de contexto histórico e político",
+          "apenas a cor das bandeiras",
+          "somente o tamanho dos territórios",
+          "a ausência de conflitos em todos os casos"
+        ],
+        "respostaCorreta": "as diferenças de contexto histórico e político",
+        "explicacao": "Os processos de independência variaram conforme as condições e disputas de cada região.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-independencia-americas-intro-sim-02",
+        "enunciado": "A principal compreensão desse tema é que a independência nas Américas foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um conjunto de processos históricos diversos, marcados por disputas e transformações",
+          "um único evento idêntico em todo o continente",
+          "uma mudança sem qualquer influência de ideias políticas",
+          "um tema sem importância para a formação dos países"
+        ],
+        "respostaCorreta": "um conjunto de processos históricos diversos, marcados por disputas e transformações",
+        "explicacao": "O tema destaca a diversidade dos processos de independência e seus impactos na formação política das Américas.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

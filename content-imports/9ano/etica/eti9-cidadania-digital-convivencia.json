@@ -1,0 +1,46 @@
+[
+  {
+    "id": "eti9-cidadania-digital-convivencia",
+    "titulo": "Cidadania digital e convivência responsável",
+    "disciplinaId": "eti9",
+    "turmaId": "9ano",
+    "unidade": "Ética no mundo digital",
+    "resumo": [
+      "A cidadania digital envolve uso responsável, respeitoso e crítico das tecnologias.",
+      "A convivência nas redes exige cuidado com linguagem, privacidade e consequências das ações.",
+      "Estudar esse tema ajuda a refletir sobre ética também nos espaços virtuais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Responsabilidade nas interações digitais",
+        "texto": "As ações realizadas em ambientes digitais têm impacto real sobre outras pessoas. Por isso, comentar, compartilhar, expor imagens ou divulgar informações exige responsabilidade, respeito e consciência das consequências.",
+        "dica": "Antes de publicar algo, pense se o conteúdo respeita direitos, limites e a dignidade de quem pode ser afetado."
+      },
+      {
+        "subtitulo": "Ética e participação online",
+        "texto": "A cidadania digital também envolve participação crítica, combate à desinformação e respeito à diversidade nas interações virtuais. O uso ético das tecnologias contribui para ambientes mais seguros e mais responsáveis.",
+        "dica": "Verificar fontes e evitar ofensas são atitudes importantes para uma convivência digital mais saudável."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que uma mensagem é compartilhada sem verificação e causa prejuízo a outras pessoas.",
+        "passos": [
+          "Observe o comportamento de quem compartilhou a mensagem.",
+          "Perceba os efeitos da ação sobre os envolvidos.",
+          "Relacione a situação à ideia de cidadania digital responsável."
+        ],
+        "resposta": "Esse exemplo mostra que ética digital envolve cuidado com informação, respeito e responsabilidade coletiva."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti9-cidadania-digital-convivencia-ex-01","enunciado":"Cidadania digital envolve:","tipo":"multipla_escolha","alternativas":["uso responsável e respeitoso das tecnologias","publicar qualquer conteúdo sem reflexão","ignorar efeitos das ações online","tratar redes sociais como espaços sem regras"],"respostaCorreta":"uso responsável e respeitoso das tecnologias","explicacao":"A cidadania digital relaciona tecnologia, ética e responsabilidade nas interações virtuais.","dificuldade":"facil"},
+      {"id":"eti9-cidadania-digital-convivencia-ex-02","enunciado":"Uma atitude coerente no ambiente digital é:","tipo":"multipla_escolha","alternativas":["verificar informações antes de compartilhar","espalhar boatos sem conferir a fonte","expor alguém sem consentimento","usar ofensas em debates online"],"respostaCorreta":"verificar informações antes de compartilhar","explicacao":"Checar fontes ajuda a combater desinformação e reduz danos causados por compartilhamentos irresponsáveis.","dificuldade":"facil"},
+      {"id":"eti9-cidadania-digital-convivencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O ambiente virtual também exige ética, respeito e responsabilidade.","Na internet, ações não produzem consequências reais.","Convivência digital dispensa cuidado com outras pessoas.","Desinformação não afeta a vida social."],"respostaCorreta":"O ambiente virtual também exige ética, respeito e responsabilidade.","explicacao":"As interações online fazem parte da vida social e precisam ser orientadas por valores éticos.","dificuldade":"medio"},
+      {"id":"eti9-cidadania-digital-convivencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais consciência nas práticas digitais","considerar as redes como espaços sem deveres","separar ética da vida online","compartilhar conteúdos sem pensar nas consequências"],"respostaCorreta":"agir com mais consciência nas práticas digitais","explicacao":"O conteúdo fortalece responsabilidade, senso crítico e respeito no uso das tecnologias.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti9-cidadania-digital-convivencia-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["usar tecnologias com responsabilidade faz parte da ética e da cidadania","o ambiente digital não precisa de regras de convivência","ações online não afetam outras pessoas","ética vale apenas fora das redes"],"respostaCorreta":"usar tecnologias com responsabilidade faz parte da ética e da cidadania","explicacao":"O tema mostra que a convivência digital também exige respeito, reflexão e compromisso com o coletivo.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "esp9-medios-comunicacion-opinion",
+    "titulo": "Medios de comunicación y opinión",
+    "disciplinaId": "esp9",
+    "turmaId": "9ano",
+    "unidade": "Comunicación y sociedad",
+    "resumo": [
+      "Los medios de comunicación influyen en la circulación de información y opiniones.",
+      "Aprender vocabulario y estructuras sobre este tema fortalece la comprensión crítica del idioma.",
+      "El estudio favorece la lectura y la expresión en contextos actuales."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lengua y medios",
+        "texto": "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales.",
+        "dica": "Observa palabras relacionadas con noticia, opinión, información y red social."
+      },
+      {
+        "subtitulo": "Opinión y lectura crítica",
+        "texto": "Además de entender mensajes, el estudiante puede aprender a identificar puntos de vista y expresar opiniones sencillas sobre temas presentes en los medios. Eso fortalece comunicación y análisis crítico.",
+        "dica": "Relaciona el aprendizaje del idioma con textos breves que circulan en el cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Lee un comentario breve sobre una noticia y observa cómo aparece la opinión del hablante.",
+        "passos": [
+          "Identifica el tema principal del mensaje.",
+          "Observa las palabras usadas para opinar.",
+          "Relaciona la estructura con otras situaciones de comunicación."
+        ],
+        "resposta": "Este ejemplo muestra cómo la lengua puede ser usada para leer y comentar información en contextos actuales."
+      }
+    ],
+    "exercicios": [
+      {"id":"esp9-medios-comunicacion-opinion-ex-01","enunciado":"Los medios de comunicación ayudan a circular:","tipo":"multipla_escolha","alternativas":["información y opiniones","solo operaciones matemáticas","únicamente nombres de colores","apenas reglas de puntuación"],"respostaCorreta":"información y opiniones","explicacao":"Los medios permiten difundir noticias, ideas y comentarios en diferentes contextos.","dificuldade":"facil"},
+      {"id":"esp9-medios-comunicacion-opinion-ex-02","enunciado":"Estudiar este tema ayuda a:","tipo":"multipla_escolha","alternativas":["comprender mejor textos actuales en español","evitar cualquier uso real de la lengua","memorizar palabras sin contexto","ignorar la presencia del idioma en la comunicación"],"respostaCorreta":"comprender mejor textos actuales en español","explicacao":"El contenido aproxima la lengua a situaciones reales de lectura y opinión.","dificuldade":"facil"},
+      {"id":"esp9-medios-comunicacion-opinion-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Leer medios también implica identificar puntos de vista.","Los medios nunca presentan opiniones.","La lengua no se usa en contextos sociales reales.","Opinar en español no forma parte de la comunicación."],"respostaCorreta":"Leer medios también implica identificar puntos de vista.","explicacao":"El análisis de mensajes incluye comprender información y reconocer opiniones. ","dificuldade":"medio"},
+      {"id":"esp9-medios-comunicacion-opinion-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar el español para leer, comprender y opinar sobre mensajes actuales","estudiar solo listas aisladas de palabras","evitar la lectura crítica","separar el idioma de la vida cotidiana"],"respostaCorreta":"usar el español para leer, comprender y opinar sobre mensajes actuales","explicacao":"El tema integra comunicación, vocabulario y lectura crítica en contextos contemporáneos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"esp9-medios-comunicacion-opinion-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["los medios y la opinión ayudan a estudiar el español en contextos reales","aprender español no necesita textos actuales","la comunicación no incluye puntos de vista","el idioma debe estudiarse sin relación con la sociedad"],"respostaCorreta":"los medios y la opinión ayudan a estudiar el español en contextos reales","explicacao":"El contenido conecta lengua, comunicación y análisis de mensajes del presente.","dificuldade":"medio"}
+    ]
+  }
+]

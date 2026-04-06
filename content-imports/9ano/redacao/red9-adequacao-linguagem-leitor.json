@@ -1,0 +1,46 @@
+[
+  {
+    "id": "red9-adequacao-linguagem-leitor",
+    "titulo": "Adequação de linguagem ao leitor e ao contexto",
+    "disciplinaId": "red9",
+    "turmaId": "9ano",
+    "unidade": "Produção textual e contexto",
+    "resumo": [
+      "Escrever bem também exige considerar quem vai ler o texto e em que situação ele circula.",
+      "A linguagem pode variar conforme objetivo, gênero, interlocutor e contexto de produção.",
+      "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Escrita e interlocutor",
+        "texto": "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa.",
+        "dica": "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir."
+      },
+      {
+        "subtitulo": "Contexto e escolha linguística",
+        "texto": "A adequação linguística não significa escrever de qualquer modo, mas ajustar a linguagem ao gênero, ao tema e ao contexto. Em uma redação argumentativa, isso ajuda a tornar o texto mais claro, pertinente e convincente.",
+        "dica": "Observe se o modo de escrever combina com a finalidade do texto e com o espaço em que ele circula."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare dois textos sobre o mesmo tema: um destinado a colegas da escola e outro a um público mais amplo.",
+        "passos": [
+          "Observe diferenças na linguagem usada.",
+          "Perceba como o interlocutor influencia o texto.",
+          "Relacione essa adaptação à ideia de adequação linguística."
+        ],
+        "resposta": "Esse contraste mostra que escrever também é escolher linguagem conforme leitor e contexto."
+      }
+    ],
+    "exercicios": [
+      {"id":"red9-adequacao-linguagem-leitor-ex-01","enunciado":"Adequar a linguagem de um texto significa:","tipo":"multipla_escolha","alternativas":["ajustar a escrita ao leitor, ao gênero e ao contexto","escrever sempre do mesmo modo em qualquer situação","ignorar quem vai ler o texto","trocar clareza por excesso de informalidade"],"respostaCorreta":"ajustar a escrita ao leitor, ao gênero e ao contexto","explicacao":"A adequação torna o texto mais pertinente e eficaz na situação comunicativa.","dificuldade":"facil"},
+      {"id":"red9-adequacao-linguagem-leitor-ex-02","enunciado":"Pensar no interlocutor ajuda a escolher:","tipo":"multipla_escolha","alternativas":["vocabulário e grau de formalidade","apenas o tamanho da letra","somente a quantidade de linhas","unicamente o título do texto"],"respostaCorreta":"vocabulário e grau de formalidade","explicacao":"Quem vai ler o texto influencia decisões sobre linguagem e estratégia de escrita.","dificuldade":"facil"},
+      {"id":"red9-adequacao-linguagem-leitor-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.","Todo texto deve ignorar o contexto de circulação.","Leitor e objetivo não interferem na escrita.","Adequação significa abandonar qualquer organização textual."],"respostaCorreta":"Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.","explicacao":"A relação entre escrita, público e finalidade é essencial para a qualidade da produção textual.","dificuldade":"medio"},
+      {"id":"red9-adequacao-linguagem-leitor-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["produzir textos mais claros e adequados à situação","escrever sem considerar leitor nem objetivo","usar a mesma linguagem em qualquer contexto","separar redação de comunicação real"],"respostaCorreta":"produzir textos mais claros e adequados à situação","explicacao":"O conteúdo fortalece a relação entre escrita, contexto e interlocutor.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"red9-adequacao-linguagem-leitor-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["escrever bem exige considerar contexto, leitor e objetivo do texto","todo texto deve manter a mesma linguagem em qualquer situação","o leitor não interfere na produção textual","adequação não tem relação com comunicação"],"respostaCorreta":"escrever bem exige considerar contexto, leitor e objetivo do texto","explicacao":"O tema mostra que a eficácia de um texto depende também da adequação de sua linguagem.","dificuldade":"medio"}
+    ]
+  }
+]

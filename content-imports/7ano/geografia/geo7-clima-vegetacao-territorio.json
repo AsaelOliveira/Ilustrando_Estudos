@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo7-clima-vegetacao-territorio",
+    "titulo": "Clima, vegetação e território",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Natureza e espaço geográfico",
+    "resumo": [
+      "Clima e vegetação se relacionam com relevo, solo, água e ação humana.",
+      "As características naturais influenciam modos de vida e ocupação do território.",
+      "Estudar esse tema ajuda a compreender a diversidade dos espaços geográficos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Elementos do clima e cobertura vegetal",
+        "texto": "Temperatura, umidade, chuvas e incidência solar influenciam o desenvolvimento da vegetação. Diferentes combinações desses fatores produzem paisagens variadas e interferem na dinâmica dos ambientes.",
+        "dica": "Observe que clima e vegetação não devem ser estudados separadamente do território em que aparecem."
+      },
+      {
+        "subtitulo": "Relação entre natureza e ocupação humana",
+        "texto": "As condições naturais influenciam agricultura, circulação, moradia e uso do solo. Ao mesmo tempo, a ação humana modifica paisagens por meio do desmatamento, da urbanização e de outras intervenções no território.",
+        "dica": "Procure relacionar as características naturais de uma área às atividades humanas ali desenvolvidas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare duas regiões: uma úmida e florestada, outra mais seca e com vegetação adaptada à escassez de água.",
+        "passos": [
+          "Observe diferenças no clima.",
+          "Perceba como a vegetação responde a essas condições.",
+          "Relacione essas características à ocupação do território."
+        ],
+        "resposta": "Esse exemplo mostra que clima, vegetação e uso do espaço geográfico estão interligados."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo7-clima-vegetacao-territorio-ex-01","enunciado":"A vegetação de uma área depende, entre outros fatores, de:","tipo":"multipla_escolha","alternativas":["condições climáticas e ambientais","apenas da cor do solo","somente do nome do lugar","nenhum elemento natural"],"respostaCorreta":"condições climáticas e ambientais","explicacao":"Clima, água, solo e outros fatores influenciam o desenvolvimento da vegetação.","dificuldade":"facil"},
+      {"id":"geo7-clima-vegetacao-territorio-ex-02","enunciado":"A ocupação humana do território pode:","tipo":"multipla_escolha","alternativas":["modificar paisagens naturais","não produzir qualquer mudança no espaço","eliminar totalmente a relação com o clima","dispensar a análise da vegetação"],"respostaCorreta":"modificar paisagens naturais","explicacao":"Atividades humanas alteram o espaço por meio do uso do solo, da urbanização e do desmatamento.","dificuldade":"facil"},
+      {"id":"geo7-clima-vegetacao-territorio-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Clima, vegetação e território se relacionam na organização do espaço geográfico.","A vegetação não sofre influência do clima.","Território e natureza não têm relação entre si.","A ação humana nunca modifica paisagens naturais."],"respostaCorreta":"Clima, vegetação e território se relacionam na organização do espaço geográfico.","explicacao":"O espaço geográfico resulta da interação entre elementos naturais e ação humana.","dificuldade":"medio"},
+      {"id":"geo7-clima-vegetacao-territorio-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a diversidade ambiental e territorial","separar natureza e sociedade de modo absoluto","ignorar a influência do clima nas paisagens","reduzir o território a um mapa sem vida"],"respostaCorreta":"compreender melhor a diversidade ambiental e territorial","explicacao":"O tema amplia a leitura das relações entre ambiente, paisagem e ocupação humana.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo7-clima-vegetacao-territorio-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["clima, vegetação e ação humana participam da organização do território","a vegetação não depende das condições naturais","o clima não interfere nas paisagens","território não tem relação com natureza"],"respostaCorreta":"clima, vegetação e ação humana participam da organização do território","explicacao":"O conteúdo mostra que o espaço geográfico se organiza por relações entre elementos naturais e sociedade.","dificuldade":"medio"}
+    ]
+  }
+]

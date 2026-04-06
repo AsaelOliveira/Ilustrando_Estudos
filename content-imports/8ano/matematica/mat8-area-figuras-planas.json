@@ -1,0 +1,45 @@
+[
+  {
+    "id": "mat8-area-figuras-planas",
+    "titulo": "Área de figuras planas",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "A área mede a superfície ocupada por uma figura plana.",
+      "Cada figura possui uma forma específica de cálculo da área.",
+      "Esse conceito é útil em situações de medida e planejamento de espaços."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Significado de área",
+        "texto": "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies.",
+        "dica": "Não confunda área com perímetro: área mede superfície; perímetro mede contorno."
+      },
+      {
+        "subtitulo": "Leitura das medidas",
+        "texto": "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação.",
+        "dica": "Antes de calcular, reconheça o tipo de figura e as unidades de medida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um retângulo com 6 metros de comprimento e 4 metros de largura.",
+        "passos": [
+          "Multiplique comprimento por largura.",
+          "Calcule 6 × 4."
+        ],
+        "resposta": "A área do retângulo é 24 metros quadrados."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat8-area-figuras-planas-ex-01","enunciado":"A área de uma figura plana mede:","tipo":"multipla_escolha","alternativas":["a superfície ocupada por ela","o contorno da figura","apenas o número de lados","a inclinação da forma"],"respostaCorreta":"a superfície ocupada por ela","explicacao":"Área corresponde ao espaço interno da figura plana.","dificuldade":"facil"},
+      {"id":"mat8-area-figuras-planas-ex-02","enunciado":"Para calcular a área corretamente, é importante identificar:","tipo":"multipla_escolha","alternativas":["o tipo de figura e suas medidas","a cor da figura","a ordem alfabética dos números","apenas o maior lado"],"respostaCorreta":"o tipo de figura e suas medidas","explicacao":"A fórmula da área depende da figura envolvida e das medidas fornecidas.","dificuldade":"facil"},
+      {"id":"mat8-area-figuras-planas-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Área e perímetro não representam a mesma medida.","Área e perímetro são exatamente a mesma coisa.","Área mede apenas linhas retas.","Perímetro mede o interior da figura."],"respostaCorreta":"Área e perímetro não representam a mesma medida.","explicacao":"Área mede superfície, enquanto perímetro mede o contorno da figura.","dificuldade":"medio"},
+      {"id":"mat8-area-figuras-planas-ex-04","enunciado":"O estudo da área é útil em situações como:","tipo":"multipla_escolha","alternativas":["medir pisos, paredes e terrenos","classificar verbos","ordenar palavras por tamanho","identificar rimas em poemas"],"respostaCorreta":"medir pisos, paredes e terrenos","explicacao":"A área aparece em muitas situações práticas que envolvem superfícies.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-area-figuras-planas-sim-01","enunciado":"Ao resolver um problema de área, o estudante deve compreender principalmente que está calculando:","tipo":"multipla_escolha","alternativas":["o espaço interno ocupado pela figura","o contorno externo da figura","o número de vértices apenas","a espessura do desenho"],"respostaCorreta":"o espaço interno ocupado pela figura","explicacao":"A área sempre se refere à superfície da figura plana.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo8-regionalizacao-brasil",
+    "titulo": "Regionalização do Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Brasil e organização do espaço",
+    "resumo": [
+      "Regionalizar é dividir um território em partes com características comuns.",
+      "O Brasil pode ser regionalizado segundo diferentes critérios.",
+      "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Critérios de regionalização",
+        "texto": "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes.",
+        "dica": "Pergunte qual foi o critério usado para formar cada região."
+      },
+      {
+        "subtitulo": "Leitura do território brasileiro",
+        "texto": "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território.",
+        "dica": "Relacione cada divisão regional às características que ela destaca."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um mapa do Brasil dividido em regiões.",
+        "passos": [
+          "Identifique que o território foi organizado em partes.",
+          "Perceba que essa divisão facilita a análise do espaço.",
+          "Relacione cada região a suas características predominantes."
+        ],
+        "resposta": "A regionalização é um recurso para compreender melhor a diversidade do território brasileiro."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo8-regionalizacao-brasil-ex-01","enunciado":"Regionalizar um território significa:","tipo":"multipla_escolha","alternativas":["dividi-lo em partes com características comuns","eliminar suas diferenças internas","transformá-lo em um único espaço sem contrastes","substituir o mapa por texto"],"respostaCorreta":"dividi-lo em partes com características comuns","explicacao":"A regionalização organiza o espaço segundo critérios que facilitam sua análise.","dificuldade":"facil"},
+      {"id":"geo8-regionalizacao-brasil-ex-02","enunciado":"Uma regionalização pode considerar aspectos:","tipo":"multipla_escolha","alternativas":["naturais, sociais e econômicos","somente musicais","apenas literários","exclusivamente esportivos"],"respostaCorreta":"naturais, sociais e econômicos","explicacao":"Os critérios de regionalização variam conforme o objetivo do estudo geográfico.","dificuldade":"facil"},
+      {"id":"geo8-regionalizacao-brasil-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A regionalização ajuda a interpretar diferenças e semelhanças do território.","Regionalizar significa apagar a diversidade do espaço.","Toda regionalização usa exatamente o mesmo critério.","As regiões existem sem relação com qualquer análise humana."],"respostaCorreta":"A regionalização ajuda a interpretar diferenças e semelhanças do território.","explicacao":"Esse procedimento organiza a leitura do espaço e evidencia características importantes.","dificuldade":"medio"},
+      {"id":"geo8-regionalizacao-brasil-ex-04","enunciado":"No estudo do Brasil, a regionalização é útil porque:","tipo":"multipla_escolha","alternativas":["facilita a compreensão da diversidade territorial","dispensa o uso de mapas","elimina as atividades econômicas","substitui a observação das paisagens"],"respostaCorreta":"facilita a compreensão da diversidade territorial","explicacao":"Ela permite analisar contrastes e relações entre diferentes partes do país.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo8-regionalizacao-brasil-sim-01","enunciado":"Ao estudar regionalização, o aluno precisa entender principalmente que as divisões do território:","tipo":"multipla_escolha","alternativas":["dependem dos critérios adotados para a análise","são sempre naturais e imutáveis","eliminam qualquer diferença espacial","não têm função no estudo geográfico"],"respostaCorreta":"dependem dos critérios adotados para a análise","explicacao":"As regionalizações variam conforme o objetivo e o critério usado para organizar o espaço.","dificuldade":"medio"}
+    ]
+  }
+]

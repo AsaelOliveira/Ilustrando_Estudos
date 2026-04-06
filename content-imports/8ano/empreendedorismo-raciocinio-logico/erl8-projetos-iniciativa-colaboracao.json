@@ -1,0 +1,46 @@
+[
+  {
+    "id": "erl8-projetos-iniciativa-colaboracao",
+    "titulo": "Projetos, iniciativa e colaboração",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Empreendedorismo e ação coletiva",
+    "resumo": [
+      "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas.",
+      "A colaboração fortalece a resolução de desafios coletivos.",
+      "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Iniciativa com propósito",
+        "texto": "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento.",
+        "dica": "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido."
+      },
+      {
+        "subtitulo": "Colaboração em projetos",
+        "texto": "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto.",
+        "dica": "Observe como escuta, organização e cooperação fortalecem os resultados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo que cria uma ação para melhorar um espaço da escola.",
+        "passos": [
+          "Identifique o problema a ser resolvido.",
+          "Organize ideias, funções e etapas de execução.",
+          "Perceba a importância da colaboração para alcançar o objetivo."
+        ],
+        "resposta": "Esse exemplo mostra como iniciativa e trabalho coletivo podem transformar a realidade ao redor."
+      }
+    ],
+    "exercicios": [
+      {"id":"erl8-projetos-iniciativa-colaboracao-ex-01","enunciado":"Ter iniciativa em um projeto significa:","tipo":"multipla_escolha","alternativas":["propor ações com responsabilidade","esperar sempre que outra pessoa decida tudo","agir sem objetivo algum","evitar qualquer participação"],"respostaCorreta":"propor ações com responsabilidade","explicacao":"A iniciativa envolve perceber necessidades e agir de forma planejada e consciente.","dificuldade":"facil"},
+      {"id":"erl8-projetos-iniciativa-colaboracao-ex-02","enunciado":"A colaboração em projetos ajuda a:","tipo":"multipla_escolha","alternativas":["construir soluções em conjunto","eliminar o diálogo entre os participantes","dispensar o planejamento","substituir o objetivo por improviso"],"respostaCorreta":"construir soluções em conjunto","explicacao":"A colaboração fortalece a qualidade das decisões e das ações desenvolvidas pelo grupo.","dificuldade":"facil"},
+      {"id":"erl8-projetos-iniciativa-colaboracao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Projetos funcionam melhor quando há organização e objetivo comum.","Todo projeto dispensa divisão de tarefas.","Colaboração significa apenas obedecer sem pensar.","Iniciativa é agir sem analisar a realidade."],"respostaCorreta":"Projetos funcionam melhor quando há organização e objetivo comum.","explicacao":"Objetivo claro, planejamento e colaboração ajudam a tornar a ação mais consistente.","dificuldade":"medio"},
+      {"id":"erl8-projetos-iniciativa-colaboracao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver protagonismo com responsabilidade","evitar participação em ações coletivas","agir sem planejamento","reduzir projetos a tarefas sem sentido"],"respostaCorreta":"desenvolver protagonismo com responsabilidade","explicacao":"O conteúdo fortalece iniciativa, cooperação e compromisso com objetivos coletivos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"erl8-projetos-iniciativa-colaboracao-sim-01","enunciado":"A principal ideia desse tema é compreender que projetos dependem de:","tipo":"multipla_escolha","alternativas":["iniciativa, organização e colaboração","improviso contínuo sem objetivo","ausência de diálogo entre participantes","ações isoladas sem responsabilidade"],"respostaCorreta":"iniciativa, organização e colaboração","explicacao":"Projetos bem conduzidos exigem propósito, cooperação e participação responsável.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo8-setores-economia-brasil",
+    "titulo": "Setores da economia no Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço econômico brasileiro",
+    "resumo": [
+      "As atividades econômicas podem ser agrupadas em setores com funções diferentes.",
+      "Os setores primário, secundário e terciário participam da organização do espaço geográfico.",
+      "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização por setores",
+        "texto": "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços.",
+        "dica": "Associe cada setor ao tipo de atividade econômica que ele realiza."
+      },
+      {
+        "subtitulo": "Importância para o território",
+        "texto": "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território.",
+        "dica": "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma fazenda, uma fábrica e um supermercado.",
+        "passos": [
+          "A fazenda se relaciona à produção primária.",
+          "A fábrica transforma matérias-primas.",
+          "O supermercado participa do comércio e da circulação de mercadorias."
+        ],
+        "resposta": "Esses três exemplos mostram a atuação dos diferentes setores da economia."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo8-setores-economia-brasil-ex-01","enunciado":"O setor primário está ligado principalmente a atividades de:","tipo":"multipla_escolha","alternativas":["extração e produção de recursos naturais","comércio bancário exclusivamente","produção de textos escolares","organização de arquivos digitais"],"respostaCorreta":"extração e produção de recursos naturais","explicacao":"Esse setor envolve atividades como agricultura, pecuária, pesca e extrativismo.","dificuldade":"facil"},
+      {"id":"geo8-setores-economia-brasil-ex-02","enunciado":"O setor secundário se caracteriza por:","tipo":"multipla_escolha","alternativas":["transformar matérias-primas em produtos","realizar apenas atividades agrícolas","cuidar somente do turismo","eliminar a circulação de mercadorias"],"respostaCorreta":"transformar matérias-primas em produtos","explicacao":"A indústria é um dos principais exemplos de atividade do setor secundário.","dificuldade":"facil"},
+      {"id":"geo8-setores-economia-brasil-ex-03","enunciado":"Qual alternativa apresenta um exemplo do setor terciário?","tipo":"multipla_escolha","alternativas":["comércio e serviços","extração mineral","plantio agrícola","produção industrial de aço"],"respostaCorreta":"comércio e serviços","explicacao":"O setor terciário reúne atividades como transporte, comércio, saúde, educação e outros serviços.","dificuldade":"medio"},
+      {"id":"geo8-setores-economia-brasil-ex-04","enunciado":"Estudar os setores da economia ajuda a compreender:","tipo":"multipla_escolha","alternativas":["como produção, trabalho e circulação se organizam no território","apenas nomes de capitais estaduais","somente fenômenos astronômicos","exclusivamente regras gramaticais"],"respostaCorreta":"como produção, trabalho e circulação se organizam no território","explicacao":"Os setores econômicos influenciam diretamente a organização do espaço geográfico.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo8-setores-economia-brasil-sim-01","enunciado":"Ao comparar os setores primário, secundário e terciário, o estudante deve perceber que eles:","tipo":"multipla_escolha","alternativas":["desempenham funções diferentes, mas se relacionam na economia","funcionam isoladamente e sem ligação","têm exatamente a mesma função","existem apenas nas grandes cidades"],"respostaCorreta":"desempenham funções diferentes, mas se relacionam na economia","explicacao":"Os setores econômicos são distintos, porém articulados na produção e na circulação de riquezas.","dificuldade":"medio"}
+    ]
+  }
+]

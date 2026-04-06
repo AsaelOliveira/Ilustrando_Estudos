@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port9-interpretacao-midia-opiniao",
+    "titulo": "Leitura crítica da mídia e formação de opinião",
+    "disciplinaId": "port9",
+    "turmaId": "9ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A mídia influencia a circulação de informações e a formação de opiniões na sociedade.",
+      "Ler criticamente implica observar linguagem, intenção, fonte e contexto da mensagem.",
+      "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Informação e ponto de vista",
+        "texto": "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador.",
+        "dica": "Pergunte quem produz a informação e de que modo ela está sendo apresentada."
+      },
+      {
+        "subtitulo": "Leitura crítica e responsabilidade",
+        "texto": "Ler criticamente a mídia significa verificar fontes, comparar informações e refletir sobre possíveis interesses envolvidos na mensagem. Esse cuidado ajuda a combater desinformação e opinião pouco fundamentada.",
+        "dica": "Observe se a mensagem apresenta dados confiáveis ou apenas apelos emocionais e afirmações soltas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare duas notícias sobre o mesmo fato publicadas em meios diferentes.",
+        "passos": [
+          "Observe os títulos, o vocabulário e o recorte adotado por cada texto.",
+          "Perceba como a forma de apresentar o fato interfere na leitura."
+        ],
+        "resposta": "Esse exemplo mostra por que a leitura crítica da mídia é importante para a formação de opinião."
+      }
+    ],
+    "exercicios": [
+      {"id":"port9-interpretacao-midia-opiniao-ex-01","enunciado":"Ler criticamente a mídia significa:","tipo":"multipla_escolha","alternativas":["observar fonte, linguagem e intenção da mensagem","aceitar toda informação sem análise","ignorar o contexto da notícia","ler apenas o título e tirar conclusões imediatas"],"respostaCorreta":"observar fonte, linguagem e intenção da mensagem","explicacao":"A leitura crítica envolve análise da forma como a informação é construída e divulgada.","dificuldade":"facil"},
+      {"id":"port9-interpretacao-midia-opiniao-ex-02","enunciado":"A mídia pode influenciar a formação de opinião porque:","tipo":"multipla_escolha","alternativas":["seleciona linguagens, enfoques e modos de apresentar informações","sempre apresenta os fatos de maneira neutra e idêntica","não interfere na interpretação do público","dispensa qualquer análise de quem lê"],"respostaCorreta":"seleciona linguagens, enfoques e modos de apresentar informações","explicacao":"As escolhas discursivas afetam a forma como os fatos são percebidos pelo público.","dificuldade":"facil"},
+      {"id":"port9-interpretacao-midia-opiniao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.","Toda notícia deve ser aceita como verdadeira sem comparação de fontes.","A linguagem usada em textos midiáticos não interfere no sentido.","A formação de opinião não tem relação com a qualidade da informação."],"respostaCorreta":"A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.","explicacao":"O conteúdo ajuda o leitor a refletir sobre fontes, intenções e confiabilidade das mensagens recebidas.","dificuldade":"medio"},
+      {"id":"port9-interpretacao-midia-opiniao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["avaliar melhor as informações antes de formar opinião","repetir mensagens sem análise","substituir reflexão por impulso","ignorar a necessidade de verificar fontes"],"respostaCorreta":"avaliar melhor as informações antes de formar opinião","explicacao":"O conteúdo promove postura mais crítica e responsável diante da circulação de informações.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port9-interpretacao-midia-opiniao-sim-01","enunciado":"A principal ideia desse tema é compreender que a informação midiática:","tipo":"multipla_escolha","alternativas":["precisa ser analisada criticamente antes de orientar opiniões","deve ser aceita automaticamente em qualquer situação","não interfere no pensamento social","dispensa verificação e comparação"],"respostaCorreta":"precisa ser analisada criticamente antes de orientar opiniões","explicacao":"A leitura crítica é fundamental para lidar com a informação de modo responsável e consciente.","dificuldade":"medio"}
+    ]
+  }
+]

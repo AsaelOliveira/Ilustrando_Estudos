@@ -1,0 +1,45 @@
+[
+  {
+    "id": "art8-elementos-linguagem-visual",
+    "titulo": "Elementos da linguagem visual",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Artes visuais",
+    "resumo": [
+      "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura.",
+      "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas.",
+      "Estudar esse tema amplia o olhar crítico sobre imagens e obras."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Construção da imagem",
+        "texto": "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado.",
+        "dica": "Observe quais elementos aparecem com mais destaque na imagem analisada."
+      },
+      {
+        "subtitulo": "Leitura visual",
+        "texto": "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos.",
+        "dica": "Pergunte como a combinação de elementos visuais interfere no que a obra comunica."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma pintura com cores fortes e linhas marcadas.",
+        "passos": [
+          "Identifique a presença de linhas e cores na composição.",
+          "Perceba como esses elementos tornam a imagem mais expressiva."
+        ],
+        "resposta": "A análise mostra como a linguagem visual é formada por diferentes elementos combinados."
+      }
+    ],
+    "exercicios": [
+      {"id":"art8-elementos-linguagem-visual-ex-01","enunciado":"Um elemento da linguagem visual é:","tipo":"multipla_escolha","alternativas":["cor","sílaba tônica","equação","tempo verbal"],"respostaCorreta":"cor","explicacao":"Cor é um dos elementos básicos da linguagem visual.","dificuldade":"facil"},
+      {"id":"art8-elementos-linguagem-visual-ex-02","enunciado":"Os elementos visuais ajudam a:","tipo":"multipla_escolha","alternativas":["compor e dar sentido às imagens","eliminar toda interpretação da obra","substituir o desenho por texto","impedir a expressão artística"],"respostaCorreta":"compor e dar sentido às imagens","explicacao":"Eles organizam a composição e influenciam a leitura da imagem.","dificuldade":"facil"},
+      {"id":"art8-elementos-linguagem-visual-ex-03","enunciado":"Estudar linguagem visual ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["observar e interpretar imagens com mais atenção","decorar apenas nomes de artistas","evitar toda análise de obras","trocar arte por cálculo matemático"],"respostaCorreta":"observar e interpretar imagens com mais atenção","explicacao":"O tema fortalece a leitura crítica de produções visuais.","dificuldade":"medio"},
+      {"id":"art8-elementos-linguagem-visual-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Linhas, formas e cores participam da construção de imagens.","Uma obra visual não utiliza elementos básicos.","Toda imagem depende apenas de texto escrito.","A linguagem visual não comunica ideias."],"respostaCorreta":"Linhas, formas e cores participam da construção de imagens.","explicacao":"Esses elementos estruturam a composição visual e contribuem para seu significado.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"art8-elementos-linguagem-visual-sim-01","enunciado":"A principal ideia do estudo da linguagem visual é compreender como:","tipo":"multipla_escolha","alternativas":["os elementos da imagem produzem sentido e expressão","a arte elimina toda interpretação","as obras visuais dependem apenas de palavras","a observação não interfere na leitura da obra"],"respostaCorreta":"os elementos da imagem produzem sentido e expressão","explicacao":"A análise visual mostra como os elementos básicos organizam e comunicam a obra.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat7-decimais-operacoes",
+    "titulo": "Números decimais e operações",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Números",
+    "resumo": [
+      "Os números decimais representam partes de um inteiro e aparecem em medidas, preços e registros do cotidiano.",
+      "As operações com decimais exigem atenção ao valor posicional dos algarismos.",
+      "Estudar esse tema ajuda a resolver situações práticas com mais precisão."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Valor posicional nos decimais",
+        "texto": "Em números decimais, cada algarismo ocupa uma posição com valor específico, como unidade, décimo e centésimo. Entender essa organização ajuda a comparar números e a realizar operações corretamente.",
+        "dica": "Observe a posição da vírgula antes de somar, subtrair ou comparar números decimais."
+      },
+      {
+        "subtitulo": "Operações no cotidiano",
+        "texto": "Somar, subtrair, multiplicar e dividir decimais é importante em problemas com dinheiro, medidas e consumo. A organização correta dos números evita erros e torna o cálculo mais claro.",
+        "dica": "Em adição e subtração, alinhe as casas decimais para facilitar o cálculo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Some 2,35 e 1,4.",
+        "passos": [
+          "Alinhe as vírgulas dos dois números.",
+          "Complete a quantidade de casas decimais, se necessário.",
+          "Realize a soma normalmente."
+        ],
+        "resposta": "A soma correta é 3,75."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat7-decimais-operacoes-ex-01","enunciado":"Os números decimais são importantes porque:","tipo":"multipla_escolha","alternativas":["representam partes de um inteiro em várias situações do cotidiano","existem apenas em exercícios sem aplicação","não têm relação com medidas","não podem ser usados com dinheiro"],"respostaCorreta":"representam partes de um inteiro em várias situações do cotidiano","explicacao":"Os decimais aparecem com frequência em preços, medidas e registros numéricos.","dificuldade":"facil"},
+      {"id":"mat7-decimais-operacoes-ex-02","enunciado":"Ao somar números decimais, é importante:","tipo":"multipla_escolha","alternativas":["alinhar as vírgulas","esquecer as casas decimais","trocar a ordem dos algarismos aleatoriamente","retirar a vírgula do número"],"respostaCorreta":"alinhar as vírgulas","explicacao":"O alinhamento das casas decimais ajuda a respeitar o valor posicional de cada algarismo.","dificuldade":"facil"},
+      {"id":"mat7-decimais-operacoes-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Operações com decimais ajudam a resolver problemas práticos com precisão.","Números decimais não se relacionam a medidas nem a preços.","A vírgula não tem função em um número decimal.","Somar decimais dispensa atenção ao valor posicional."],"respostaCorreta":"Operações com decimais ajudam a resolver problemas práticos com precisão.","explicacao":"Esse conteúdo é útil em situações reais e exige leitura correta do número decimal.","dificuldade":"medio"},
+      {"id":"mat7-decimais-operacoes-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["resolver cálculos com mais segurança em contextos reais","tratar a vírgula como detalhe sem importância","separar matemática do cotidiano","ignorar medidas e preços"],"respostaCorreta":"resolver cálculos com mais segurança em contextos reais","explicacao":"O tema fortalece a interpretação e o cálculo em situações que envolvem números decimais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat7-decimais-operacoes-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["os números decimais exigem atenção ao valor posicional e são úteis no cotidiano","decimais não têm aplicação prática","a vírgula não interfere nos cálculos","operações com decimais não precisam de organização"],"respostaCorreta":"os números decimais exigem atenção ao valor posicional e são úteis no cotidiano","explicacao":"O conteúdo combina compreensão do sistema decimal e resolução de situações concretas.","dificuldade":"medio"}
+    ]
+  }
+]

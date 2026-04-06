@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-expansao-maritima-colonialismo",
+    "titulo": "Expansão marítima e colonialismo",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Mundo moderno",
+    "resumo": [
+      "A expansão marítima europeia ocorreu em busca de novas rotas comerciais e riquezas.",
+      "Portugal e Espanha tiveram papel importante nas grandes navegações.",
+      "A conquista de novos territórios fortaleceu o colonialismo.",
+      "A colonização envolveu exploração econômica, dominação política e imposição cultural.",
+      "Compreender esse processo ajuda a entender transformações profundas na história mundial."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expansão marítima europeia",
+        "texto": "A expansão marítima foi um processo em que países europeus organizaram viagens pelo oceano em busca de novas rotas comerciais, metais preciosos e maior poder político. Esse movimento ganhou força entre os séculos XV e XVI, especialmente com Portugal e Espanha.",
+        "dica": "As navegações não ocorreram por curiosidade apenas; havia interesses econômicos e políticos muito fortes."
+      },
+      {
+        "subtitulo": "Conquista e colonização",
+        "texto": "Ao chegar a novos territórios, as potências europeias iniciaram processos de conquista e colonização. Isso significou controlar terras, explorar recursos, impor formas de governo e influenciar profundamente a vida das populações locais.",
+        "dica": "Colonizar é muito mais do que ocupar um território; envolve controle e exploração."
+      },
+      {
+        "subtitulo": "Consequências históricas",
+        "texto": "A expansão marítima e o colonialismo provocaram mudanças econômicas, sociais e culturais em diferentes partes do mundo. Houve circulação de mercadorias, pessoas e ideias, mas também violência, dominação e desigualdades que deixaram marcas duradouras.",
+        "dica": "Ao estudar esse tema, observe tanto os interesses europeus quanto os impactos sobre os povos dominados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que as potências europeias buscaram novas rotas marítimas.",
+        "passos": [
+          "O comércio com o Oriente era muito valorizado.",
+          "As antigas rotas apresentavam dificuldades e custos elevados.",
+          "Por isso, a busca por caminhos marítimos tornou-se estratégica."
+        ],
+        "resposta": "As potências europeias buscavam novas rotas para ampliar o comércio e fortalecer seu poder econômico."
+      },
+      {
+        "enunciado": "Relacione expansão marítima e colonialismo.",
+        "passos": [
+          "As navegações levaram os europeus a novos territórios.",
+          "Nesses espaços, muitos reinos passaram a exercer domínio político e econômico.",
+          "Esse processo contribuiu para o desenvolvimento do colonialismo."
+        ],
+        "resposta": "A expansão marítima abriu caminho para a conquista e a colonização de novos territórios."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-01",
+        "enunciado": "A expansão marítima europeia teve como um de seus principais objetivos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "buscar novas rotas comerciais",
+          "acabar com toda produção agrícola",
+          "eliminar o uso de moedas",
+          "substituir a escrita por desenhos"
+        ],
+        "respostaCorreta": "buscar novas rotas comerciais",
+        "explicacao": "Os interesses comerciais estavam entre os principais motivos das grandes navegações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-02",
+        "enunciado": "Quais países tiveram grande destaque no início das grandes navegações?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Portugal e Espanha",
+          "Brasil e Canadá",
+          "Japão e China",
+          "México e Argentina"
+        ],
+        "respostaCorreta": "Portugal e Espanha",
+        "explicacao": "Portugal e Espanha se destacaram nas primeiras fases da expansão marítima europeia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-03",
+        "enunciado": "O colonialismo envolveu:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dominação e exploração de territórios",
+          "apenas visitas culturais amistosas",
+          "somente troca de cartas entre reinos",
+          "exclusivamente estudo de mapas antigos"
+        ],
+        "respostaCorreta": "dominação e exploração de territórios",
+        "explicacao": "O colonialismo implicou controle político, econômico e cultural sobre os territórios conquistados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-04",
+        "enunciado": "Uma consequência da expansão marítima foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a intensificação do contato entre diferentes continentes",
+          "o desaparecimento completo do comércio",
+          "o fim das disputas por poder",
+          "a interrupção de toda circulação de mercadorias"
+        ],
+        "respostaCorreta": "a intensificação do contato entre diferentes continentes",
+        "explicacao": "As navegações ampliaram o contato entre regiões do mundo e transformaram as relações comerciais e políticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-05",
+        "enunciado": "Ao estudar o colonialismo, é importante considerar também:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os impactos sobre as populações dominadas",
+          "somente a beleza dos navios",
+          "apenas os nomes dos reis",
+          "o formato das moedas europeias"
+        ],
+        "respostaCorreta": "os impactos sobre as populações dominadas",
+        "explicacao": "O processo colonial teve efeitos profundos sobre os povos submetidos à dominação europeia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-ex-06",
+        "enunciado": "Qual alternativa está correta sobre a expansão marítima?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela esteve ligada a interesses econômicos e políticos.",
+          "Ela ocorreu sem qualquer relação com comércio.",
+          "Ela foi um movimento restrito a um único porto.",
+          "Ela não produziu consequências históricas importantes."
+        ],
+        "respostaCorreta": "Ela esteve ligada a interesses econômicos e políticos.",
+        "explicacao": "As navegações foram impulsionadas por disputas de poder, comércio e busca por riquezas.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-expansao-maritima-colonialismo-sim-01",
+        "enunciado": "Ao relacionar grandes navegações, conquista de territórios e exploração econômica, o estudante está analisando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a ligação entre expansão marítima e colonialismo",
+          "um tema exclusivo da geologia",
+          "um conteúdo apenas de matemática",
+          "um processo sem efeitos históricos"
+        ],
+        "respostaCorreta": "a ligação entre expansão marítima e colonialismo",
+        "explicacao": "A expansão marítima abriu caminho para a conquista e a exploração colonial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-expansao-maritima-colonialismo-sim-02",
+        "enunciado": "A principal compreensão histórica desse tema é que a expansão marítima europeia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformou relações comerciais e fortaleceu processos de dominação colonial",
+          "foi apenas uma atividade esportiva dos marinheiros",
+          "não alterou nenhuma sociedade do período",
+          "teve efeitos limitados a um único país"
+        ],
+        "respostaCorreta": "transformou relações comerciais e fortaleceu processos de dominação colonial",
+        "explicacao": "O tema mostra como as navegações se ligaram à expansão do poder europeu e ao colonialismo.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

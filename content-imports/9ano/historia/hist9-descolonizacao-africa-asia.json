@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist9-descolonizacao-africa-asia",
+    "titulo": "Descolonização na África e na Ásia",
+    "disciplinaId": "hist9",
+    "turmaId": "9ano",
+    "unidade": "Mundo contemporâneo",
+    "resumo": [
+      "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia.",
+      "Esses movimentos estiveram ligados a disputas políticas, econômicas e culturais no século XX.",
+      "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lutas por independência",
+        "texto": "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX.",
+        "dica": "Observe que a independência não aconteceu de forma igual em todos os países."
+      },
+      {
+        "subtitulo": "Impactos históricos e políticos",
+        "texto": "Os processos de descolonização alteraram fronteiras políticas, relações de poder e debates sobre identidade, soberania e desenvolvimento. Por isso, seu estudo é fundamental para compreender o mundo pós-colonial.",
+        "dica": "Pergunte como a independência mudou a posição desses países no cenário internacional."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um território que passa por mobilização política contra o domínio colonial e luta pela independência.",
+        "passos": [
+          "Observe a busca por autonomia política.",
+          "Perceba que o processo envolve disputas internas e externas."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender a lógica histórica da descolonização."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist9-descolonizacao-africa-asia-ex-01","enunciado":"A descolonização está relacionada a:","tipo":"multipla_escolha","alternativas":["processos de luta e independência contra o domínio colonial","expansão do colonialismo sobre novos territórios","eliminação de toda disputa política no século XX","formação de impérios coloniais sem resistência"],"respostaCorreta":"processos de luta e independência contra o domínio colonial","explicacao":"A descolonização marca movimentos que buscaram autonomia política em territórios colonizados.","dificuldade":"facil"},
+      {"id":"hist9-descolonizacao-africa-asia-ex-02","enunciado":"Os processos de descolonização alteraram:","tipo":"multipla_escolha","alternativas":["relações políticas e posição internacional de diversos países","apenas a ortografia de documentos históricos","somente a paisagem natural sem qualquer mudança política","unicamente o clima das regiões envolvidas"],"respostaCorreta":"relações políticas e posição internacional de diversos países","explicacao":"A independência modificou fronteiras políticas, relações de poder e debates sobre soberania.","dificuldade":"facil"},
+      {"id":"hist9-descolonizacao-africa-asia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.","Todos os processos de independência foram idênticos.","A descolonização não interfere no mundo contemporâneo.","Esse tema não se relaciona à história política do século XX."],"respostaCorreta":"A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.","explicacao":"Os processos ocorreram de formas diferentes, mas em todos houve disputa por soberania e reorganização política.","dificuldade":"medio"},
+      {"id":"hist9-descolonizacao-africa-asia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender a luta por independência e a reorganização do mundo contemporâneo","achar que o colonialismo terminou sem resistência","ignorar o papel político dos povos colonizados","separar autonomia política de história global"],"respostaCorreta":"compreender a luta por independência e a reorganização do mundo contemporâneo","explicacao":"O conteúdo mostra como esses movimentos influenciaram a política internacional e a história do século XX.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist9-descolonizacao-africa-asia-sim-01","enunciado":"A principal ideia desse tema é compreender que a descolonização:","tipo":"multipla_escolha","alternativas":["envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo","foi um processo igual e simples em todos os países","não teve impacto no cenário internacional","aconteceu sem disputas e sem mobilização política"],"respostaCorreta":"envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo","explicacao":"A descolonização foi um processo histórico amplo que redefiniu territórios, relações políticas e soberanias.","dificuldade":"medio"}
+    ]
+  }
+]

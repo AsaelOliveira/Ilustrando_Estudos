@@ -1,0 +1,46 @@
+[
+  {
+    "id": "geo9-meio-ambiente-sustentabilidade-global",
+    "titulo": "Meio ambiente e sustentabilidade global",
+    "disciplinaId": "geo9",
+    "turmaId": "9ano",
+    "unidade": "Geografia ambiental",
+    "resumo": [
+      "Questões ambientais atuais envolvem consumo, produção, recursos naturais e desigualdades.",
+      "A sustentabilidade propõe formas de desenvolvimento que considerem sociedade, economia e ambiente.",
+      "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Problemas ambientais no mundo atual",
+        "texto": "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço.",
+        "dica": "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos."
+      },
+      {
+        "subtitulo": "Sustentabilidade como perspectiva de ação",
+        "texto": "A sustentabilidade busca conciliar preservação ambiental, justiça social e desenvolvimento econômico. Isso exige planejamento, responsabilidade coletiva e mudanças em hábitos individuais e políticas públicas.",
+        "dica": "Pense em como decisões locais podem contribuir para problemas ou soluções em escala global."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma cidade que amplia a coleta seletiva e reduz desperdícios de água e energia.",
+        "passos": [
+          "Identifique quais ações favorecem o uso responsável de recursos.",
+          "Observe os benefícios para a população e para o ambiente.",
+          "Relacione essas medidas à ideia de sustentabilidade."
+        ],
+        "resposta": "Esse exemplo mostra que sustentabilidade depende de práticas concretas e planejamento coletivo."
+      }
+    ],
+    "exercicios": [
+      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-01","enunciado":"A sustentabilidade procura:","tipo":"multipla_escolha","alternativas":["equilibrar desenvolvimento, sociedade e ambiente","aumentar o desperdício de recursos","separar economia de qualquer questão ambiental","ignorar impactos das ações humanas"],"respostaCorreta":"equilibrar desenvolvimento, sociedade e ambiente","explicacao":"A sustentabilidade propõe conciliar necessidades humanas com preservação ambiental e responsabilidade social.","dificuldade":"facil"},
+      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-02","enunciado":"Um problema ambiental contemporâneo é:","tipo":"multipla_escolha","alternativas":["desmatamento","ordem alfabética de palavras","pontuação de frases","classificação de sílabas"],"respostaCorreta":"desmatamento","explicacao":"O desmatamento é um exemplo de problema ambiental com impactos locais e globais.","dificuldade":"facil"},
+      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Questões ambientais se relacionam a formas de produção e consumo.","Os problemas ambientais não têm ligação com a ação humana.","Sustentabilidade significa explorar recursos sem limites.","Planejamento não interfere na gestão ambiental."],"respostaCorreta":"Questões ambientais se relacionam a formas de produção e consumo.","explicacao":"Muitos problemas ambientais decorrem de escolhas econômicas, sociais e espaciais feitas pela sociedade.","dificuldade":"medio"},
+      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-04","enunciado":"Pensar globalmente e agir localmente significa:","tipo":"multipla_escolha","alternativas":["reconhecer que atitudes locais também afetam questões amplas","considerar que problemas globais não têm solução","acreditar que ações individuais nunca fazem diferença","separar ambiente e sociedade como temas independentes"],"respostaCorreta":"reconhecer que atitudes locais também afetam questões amplas","explicacao":"A relação entre escalas locais e globais é central para compreender a sustentabilidade.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"geo9-meio-ambiente-sustentabilidade-global-sim-01","enunciado":"A principal ideia do tema é que:","tipo":"multipla_escolha","alternativas":["a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas","problemas ambientais são sempre isolados e locais","desenvolvimento e meio ambiente nunca podem ser pensados juntos","a ação humana não interfere no espaço geográfico"],"respostaCorreta":"a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas","explicacao":"O tema mostra que ambiente, economia e sociedade precisam ser analisados de forma integrada.","dificuldade":"medio"}
+    ]
+  }
+]

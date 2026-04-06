@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cien8-saude-prevencao-doencas",
+    "titulo": "Saúde e prevenção de doenças",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "A prevenção é uma parte fundamental dos cuidados com a saúde.",
+      "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças.",
+      "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cuidados preventivos",
+        "texto": "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade.",
+        "dica": "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas."
+      },
+      {
+        "subtitulo": "Informação e responsabilidade",
+        "texto": "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado.",
+        "dica": "Prefira sempre fontes seguras e orientações confiáveis."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação.",
+        "passos": [
+          "Observe que essas medidas reduzem a chance de transmissão de doenças.",
+          "Perceba que o cuidado beneficia tanto o indivíduo quanto o grupo."
+        ],
+        "resposta": "Esse é um exemplo de prevenção voltada à saúde individual e coletiva."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien8-saude-prevencao-doencas-ex-01","enunciado":"A prevenção em saúde envolve:","tipo":"multipla_escolha","alternativas":["hábitos e cuidados que reduzem riscos de doenças","somente tratamento depois da doença instalada","apenas repouso após sintomas graves","unicamente o uso de medicamentos sem orientação"],"respostaCorreta":"hábitos e cuidados que reduzem riscos de doenças","explicacao":"A prevenção inclui atitudes cotidianas que ajudam a proteger a saúde antes do aparecimento de problemas.","dificuldade":"facil"},
+      {"id":"cien8-saude-prevencao-doencas-ex-02","enunciado":"Qual atitude contribui para a prevenção de doenças?","tipo":"multipla_escolha","alternativas":["higiene adequada e busca de orientação confiável","espalhar informações sem verificar","ignorar recomendações de saúde","substituir cuidados por boatos"],"respostaCorreta":"higiene adequada e busca de orientação confiável","explicacao":"Práticas preventivas e informação segura são fundamentais para a proteção da saúde.","dificuldade":"facil"},
+      {"id":"cien8-saude-prevencao-doencas-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Algumas ações de saúde individual também protegem a coletividade.","A prevenção não tem relação com a vida em sociedade.","Informações falsas ajudam a cuidar melhor da saúde.","Vacinação e higiene não interferem na prevenção."],"respostaCorreta":"Algumas ações de saúde individual também protegem a coletividade.","explicacao":"Muitas medidas preventivas beneficiam o indivíduo e também reduzem riscos para o grupo.","dificuldade":"medio"},
+      {"id":"cien8-saude-prevencao-doencas-ex-04","enunciado":"Estudar prevenção de doenças ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver autocuidado e responsabilidade social","ignorar hábitos saudáveis","substituir ciência por boatos","pensar que a saúde depende apenas de sorte"],"respostaCorreta":"desenvolver autocuidado e responsabilidade social","explicacao":"Esse conteúdo fortalece atitudes conscientes em relação ao próprio corpo e à convivência com os outros.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien8-saude-prevencao-doencas-sim-01","enunciado":"A principal ideia do estudo da prevenção em saúde é compreender que:","tipo":"multipla_escolha","alternativas":["cuidar da saúde envolve hábitos, informação e responsabilidade","a saúde depende apenas de tratamentos médicos depois da doença","o tema não se relaciona ao cotidiano","ações preventivas não têm efeito coletivo"],"respostaCorreta":"cuidar da saúde envolve hábitos, informação e responsabilidade","explicacao":"A prevenção reúne práticas cotidianas e conhecimento confiável para proteger o bem-estar individual e coletivo.","dificuldade":"medio"}
+    ]
+  }
+]

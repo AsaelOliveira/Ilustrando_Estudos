@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo7-industria-trabalho-espaco",
+    "titulo": "Indústria, trabalho e organização do espaço",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Espaço produtivo",
+    "resumo": [
+      "As atividades industriais transformam matérias-primas em produtos.",
+      "A indústria influencia o trabalho, a economia e a organização do espaço.",
+      "A localização das indústrias depende de fatores como transporte, energia e mercado.",
+      "O trabalho industrial passou por mudanças ao longo do tempo.",
+      "Estudar esse tema ajuda a compreender a relação entre produção e espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Atividade industrial",
+        "texto": "A indústria é uma atividade econômica que transforma matérias-primas em mercadorias e produtos variados. Seu desenvolvimento influencia cidades, transportes, fluxos econômicos e formas de ocupação do espaço.",
+        "dica": "A indústria não atua isoladamente; ela depende de redes, energia, trabalhadores e mercado consumidor."
+      },
+      {
+        "subtitulo": "Localização industrial",
+        "texto": "As indústrias não se instalam em qualquer lugar. A escolha do local envolve fatores como acesso a transporte, disponibilidade de energia, proximidade de matéria-prima, mão de obra e mercado consumidor.",
+        "dica": "Observe quais elementos tornam um lugar mais favorável para a produção industrial."
+      },
+      {
+        "subtitulo": "Trabalho e transformações",
+        "texto": "O trabalho industrial mudou com o tempo, acompanhando avanços tecnológicos e novas formas de organização da produção. Essas mudanças impactam o cotidiano das pessoas e a dinâmica econômica de diferentes regiões.",
+        "dica": "Produção, tecnologia e trabalho estão profundamente ligados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que muitas indústrias se instalam perto de rodovias ou portos.",
+        "passos": [
+          "Esses locais facilitam o transporte de mercadorias.",
+          "Também ajudam no recebimento de matérias-primas.",
+          "Isso reduz dificuldades logísticas e favorece a produção."
+        ],
+        "resposta": "A proximidade de rodovias ou portos favorece a circulação de materiais e produtos, o que é importante para a indústria."
+      },
+      {
+        "enunciado": "Relacione indústria e organização do espaço urbano.",
+        "passos": [
+          "A indústria atrai trabalhadores, transportes e serviços.",
+          "Esses elementos transformam bairros e áreas das cidades.",
+          "Assim, a atividade industrial interfere na organização do espaço."
+        ],
+        "resposta": "A indústria modifica o espaço ao influenciar circulação, trabalho, serviços e ocupação urbana."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-01",
+        "enunciado": "A indústria é uma atividade que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transforma matérias-primas em produtos",
+          "serve apenas para escrever textos",
+          "substitui totalmente a agricultura",
+          "elimina a necessidade de transporte"
+        ],
+        "respostaCorreta": "transforma matérias-primas em produtos",
+        "explicacao": "A função básica da indústria é transformar matérias-primas em bens diversos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-02",
+        "enunciado": "Um fator importante para a localização de indústrias é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "acesso a transporte",
+          "somente a cor das construções",
+          "o formato das nuvens",
+          "a quantidade de poemas da cidade"
+        ],
+        "respostaCorreta": "acesso a transporte",
+        "explicacao": "O transporte facilita a chegada de matérias-primas e a distribuição dos produtos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-03",
+        "enunciado": "A atividade industrial influencia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o trabalho e a organização do espaço",
+          "somente a pontuação dos textos",
+          "apenas o clima do planeta",
+          "exclusivamente a ordem alfabética"
+        ],
+        "respostaCorreta": "o trabalho e a organização do espaço",
+        "explicacao": "A indústria interfere na economia, no emprego, nos transportes e na ocupação do território.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-04",
+        "enunciado": "Qual alternativa explica melhor a importância do mercado consumidor para a indústria?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele favorece a venda dos produtos fabricados.",
+          "Ele impede a circulação de mercadorias.",
+          "Ele elimina a necessidade de trabalhadores.",
+          "Ele substitui a produção industrial."
+        ],
+        "respostaCorreta": "Ele favorece a venda dos produtos fabricados.",
+        "explicacao": "A proximidade de consumidores pode tornar a atividade industrial mais vantajosa economicamente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-05",
+        "enunciado": "O trabalho industrial mudou ao longo do tempo principalmente por causa de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "avanços tecnológicos e novas formas de produção",
+          "mudanças na ordem do alfabeto",
+          "desaparecimento das cidades",
+          "eliminação de todas as máquinas"
+        ],
+        "respostaCorreta": "avanços tecnológicos e novas formas de produção",
+        "explicacao": "A tecnologia transformou o ritmo, os processos e a organização do trabalho industrial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-ex-06",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A indústria se relaciona com redes de transporte, energia e trabalho.",
+          "A indústria não interfere no espaço geográfico.",
+          "Toda indústria pode funcionar sem infraestrutura.",
+          "A localização industrial não depende de nenhum fator."
+        ],
+        "respostaCorreta": "A indústria se relaciona com redes de transporte, energia e trabalho.",
+        "explicacao": "A atividade industrial depende de vários elementos do espaço geográfico para funcionar.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo7-industria-trabalho-espaco-sim-01",
+        "enunciado": "Ao estudar fábricas, transporte de mercadorias e emprego urbano, o aluno está analisando a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indústria, trabalho e espaço geográfico",
+          "somente gêneros textuais",
+          "apenas figuras de linguagem",
+          "unicamente cadeias alimentares"
+        ],
+        "respostaCorreta": "indústria, trabalho e espaço geográfico",
+        "explicacao": "Esses elementos mostram como a produção industrial influencia a organização espacial e econômica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-industria-trabalho-espaco-sim-02",
+        "enunciado": "A principal compreensão desse tema é que a atividade industrial:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transforma matérias-primas e também reorganiza o espaço",
+          "não depende de transporte nem energia",
+          "ocorre sem relação com o trabalho humano",
+          "não interfere na economia"
+        ],
+        "respostaCorreta": "transforma matérias-primas e também reorganiza o espaço",
+        "explicacao": "A indústria afeta produção, emprego, circulação e formas de ocupação do território.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

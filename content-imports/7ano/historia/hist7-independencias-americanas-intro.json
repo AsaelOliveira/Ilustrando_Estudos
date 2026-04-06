@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hist7-independencias-americanas-intro",
+    "titulo": "IndependÃªncias americanas",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "TransformaÃ§Ãµes polÃ­ticas",
+    "resumo": [
+      "As independÃªncias americanas envolveram disputas polÃ­ticas, interesses econÃ´micos e novas ideias de governo.",
+      "Esses processos ocorreram de formas diferentes em cada regiÃ£o das AmÃ©ricas.",
+      "Estudar esse tema ajuda a compreender mudanÃ§as na organizaÃ§Ã£o polÃ­tica do continente."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Crises e mudanÃ§as polÃ­ticas",
+        "texto": "Os movimentos de independÃªncia nas AmÃ©ricas se relacionaram a insatisfaÃ§Ãµes com o domÃ­nio colonial, a transformaÃ§Ãµes econÃ´micas e Ã  circulaÃ§Ã£o de ideias sobre liberdade e autonomia. Esses elementos favoreceram mudanÃ§as importantes na organizaÃ§Ã£o do poder.",
+        "dica": "Observe que as independÃªncias nÃ£o aconteceram da mesma maneira em todos os territÃ³rios."
+      },
+      {
+        "subtitulo": "Diversidade dos processos histÃ³ricos",
+        "texto": "Cada processo de independÃªncia teve participantes, conflitos e resultados especÃ­ficos. Por isso, estudar o tema exige comparar contextos e perceber semelhanÃ§as e diferenÃ§as entre os movimentos ocorridos no continente americano.",
+        "dica": "Compare causas, grupos envolvidos e consequÃªncias de diferentes independÃªncias."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma colÃ´nia em que grupos locais passam a questionar o controle da metrÃ³pole e defendem maior autonomia.",
+        "passos": [
+          "Observe a crÃ­tica ao domÃ­nio colonial.",
+          "Perceba os interesses polÃ­ticos e econÃ´micos do movimento.",
+          "Relacione a situaÃ§Ã£o Ã s independÃªncias americanas."
+        ],
+        "resposta": "Esse exemplo mostra que a independÃªncia envolve conflitos, interesses e reorganizaÃ§Ã£o do poder."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist7-independencias-americanas-intro-ex-01","enunciado":"As independÃªncias americanas estiveram ligadas a:","tipo":"multipla_escolha","alternativas":["crÃ­ticas ao domÃ­nio colonial e busca de autonomia","ausÃªncia total de conflitos polÃ­ticos","manutenÃ§Ã£o de todo controle colonial sem questionamento","nenhuma mudanÃ§a nas relaÃ§Ãµes de poder"],"respostaCorreta":"crÃ­ticas ao domÃ­nio colonial e busca de autonomia","explicacao":"Esses movimentos se relacionaram a disputas polÃ­ticas e interesses de mudanÃ§a no poder colonial.","dificuldade":"facil"},
+      {"id":"hist7-independencias-americanas-intro-ex-02","enunciado":"Os processos de independÃªncia nas AmÃ©ricas ocorreram:","tipo":"multipla_escolha","alternativas":["de formas diferentes em cada regiÃ£o","de maneira exatamente igual em todo o continente","sem participaÃ§Ã£o de grupos locais","sem relaÃ§Ã£o com ideias de liberdade"],"respostaCorreta":"de formas diferentes em cada regiÃ£o","explicacao":"Cada processo histÃ³rico teve causas, participantes e resultados especÃ­ficos.","dificuldade":"facil"},
+      {"id":"hist7-independencias-americanas-intro-ex-03","enunciado":"Qual afirmaÃ§Ã£o estÃ¡ correta?","tipo":"multipla_escolha","alternativas":["As independÃªncias americanas ajudam a compreender mudanÃ§as na polÃ­tica do continente.","Esses movimentos nÃ£o tiveram impacto histÃ³rico relevante.","Autonomia e liberdade nÃ£o apareceram nesses debates.","As colÃ´nias permaneceram sem alteraÃ§Ãµes apÃ³s esses processos."],"respostaCorreta":"As independÃªncias americanas ajudam a compreender mudanÃ§as na polÃ­tica do continente.","explicacao":"O tema permite analisar transformaÃ§Ãµes nas relaÃ§Ãµes de poder e na organizaÃ§Ã£o polÃ­tica das AmÃ©ricas.","dificuldade":"medio"},
+      {"id":"hist7-independencias-americanas-intro-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["comparar processos histÃ³ricos e entender mudanÃ§as polÃ­ticas nas AmÃ©ricas","ignorar diferenÃ§as entre os movimentos de independÃªncia","tratar todas as independÃªncias como idÃªnticas","separar polÃ­tica e economia dos processos histÃ³ricos"],"respostaCorreta":"comparar processos histÃ³ricos e entender mudanÃ§as polÃ­ticas nas AmÃ©ricas","explicacao":"O conteÃºdo amplia a anÃ¡lise das independÃªncias como processos diversos e historicamente significativos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist7-independencias-americanas-intro-sim-01","enunciado":"A principal ideia do tema Ã©:","tipo":"multipla_escolha","alternativas":["as independÃªncias americanas transformaram relaÃ§Ãµes polÃ­ticas e ocorreram de formas variadas","todos os processos de independÃªncia foram iguais","o domÃ­nio colonial permaneceu sem questionamento","as independÃªncias nÃ£o alteraram a organizaÃ§Ã£o do continente"],"respostaCorreta":"as independÃªncias americanas transformaram relaÃ§Ãµes polÃ­ticas e ocorreram de formas variadas","explicacao":"O conteÃºdo destaca a diversidade e a importÃ¢ncia histÃ³rica desses movimentos no continente americano.","dificuldade":"medio"}
+    ]
+  }
+]

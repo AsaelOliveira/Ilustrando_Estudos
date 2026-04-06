@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hist7-iluminismo-revolucoes",
+    "titulo": "Iluminismo e revoluções",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Ideias e transformações",
+    "resumo": [
+      "O Iluminismo valorizou razão, crítica e debate sobre política e sociedade.",
+      "Essas ideias influenciaram movimentos de transformação em diferentes contextos históricos.",
+      "Estudar esse tema ajuda a compreender mudanças no mundo moderno."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideias iluministas",
+        "texto": "Os pensadores iluministas defendiam o uso da razão para compreender e transformar a vida social. Questionavam privilégios tradicionais e discutiam liberdade, direitos, governo e participação política.",
+        "dica": "Observe como o Iluminismo se ligou à crítica de estruturas políticas consideradas injustas ou ultrapassadas."
+      },
+      {
+        "subtitulo": "Influência histórica",
+        "texto": "As ideias iluministas influenciaram revoluções e mudanças políticas importantes. Seu impacto pode ser percebido em debates sobre cidadania, direitos e formas de organização do poder no mundo moderno.",
+        "dica": "Relacione ideias e acontecimentos, observando como pensamento e ação histórica podem se conectar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um contexto em que grupos defendem liberdade política e contestam privilégios tradicionais.",
+        "passos": [
+          "Identifique a crítica feita ao antigo poder.",
+          "Observe a valorização da razão e dos direitos.",
+          "Relacione essa situação às ideias iluministas."
+        ],
+        "resposta": "Esse exemplo mostra como o Iluminismo influenciou processos de transformação histórica."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist7-iluminismo-revolucoes-ex-01","enunciado":"O Iluminismo valorizava principalmente:","tipo":"multipla_escolha","alternativas":["a razão e a crítica social","o silêncio político absoluto","a manutenção de todos os privilégios","a rejeição completa do pensamento"],"respostaCorreta":"a razão e a crítica social","explicacao":"Os iluministas defendiam o uso da razão para compreender e transformar a sociedade.","dificuldade":"facil"},
+      {"id":"hist7-iluminismo-revolucoes-ex-02","enunciado":"As ideias iluministas influenciaram:","tipo":"multipla_escolha","alternativas":["revoluções e mudanças políticas","somente a culinária europeia","apenas técnicas agrícolas","nenhum processo histórico relevante"],"respostaCorreta":"revoluções e mudanças políticas","explicacao":"O Iluminismo teve forte impacto em debates sobre direitos, cidadania e organização do poder.","dificuldade":"facil"},
+      {"id":"hist7-iluminismo-revolucoes-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O Iluminismo contribuiu para questionar privilégios e formas tradicionais de poder.","Os iluministas defendiam a ausência de liberdade política.","Razão e crítica não tinham importância nesse movimento.","As ideias iluministas não influenciaram mudanças históricas."],"respostaCorreta":"O Iluminismo contribuiu para questionar privilégios e formas tradicionais de poder.","explicacao":"O movimento esteve ligado a debates sobre liberdade, direitos e transformação social.","dificuldade":"medio"},
+      {"id":"hist7-iluminismo-revolucoes-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a relação entre ideias e transformações históricas","separar totalmente pensamento e ação política","ignorar debates sobre cidadania e direitos","reduzir a história moderna a fatos sem contexto"],"respostaCorreta":"compreender melhor a relação entre ideias e transformações históricas","explicacao":"O tema mostra como correntes de pensamento podem influenciar mudanças políticas e sociais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist7-iluminismo-revolucoes-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["o Iluminismo influenciou mudanças políticas e sociais ao valorizar razão e direitos","as ideias iluministas não tiveram impacto histórico","o movimento defendia a ausência de crítica ao poder","razão e liberdade não se relacionavam ao Iluminismo"],"respostaCorreta":"o Iluminismo influenciou mudanças políticas e sociais ao valorizar razão e direitos","explicacao":"O conteúdo destaca a importância do Iluminismo na formação de debates modernos sobre política e sociedade.","dificuldade":"medio"}
+    ]
+  }
+]

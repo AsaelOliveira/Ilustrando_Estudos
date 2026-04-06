@@ -1,0 +1,45 @@
+[
+  {
+    "id": "edf8-saude-atividade-fisica-qualidade-vida",
+    "titulo": "Atividade física, saúde e qualidade de vida",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Saúde e movimento",
+    "resumo": [
+      "A prática regular de atividade física pode contribuir para a saúde e o bem-estar.",
+      "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida.",
+      "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Movimento e bem-estar",
+        "texto": "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais.",
+        "dica": "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde."
+      },
+      {
+        "subtitulo": "Qualidade de vida e equilíbrio",
+        "texto": "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa.",
+        "dica": "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados.",
+        "passos": [
+          "Observe a relação entre movimento e disposição física.",
+          "Perceba que a atividade se integra a outros hábitos de cuidado."
+        ],
+        "resposta": "Esse exemplo mostra como atividade física e qualidade de vida podem caminhar juntas."
+      }
+    ],
+    "exercicios": [
+      {"id":"edf8-saude-atividade-fisica-qualidade-vida-ex-01","enunciado":"A atividade física regular pode contribuir para:","tipo":"multipla_escolha","alternativas":["saúde e bem-estar","sedentarismo consciente","eliminação do descanso","abandono de hábitos saudáveis"],"respostaCorreta":"saúde e bem-estar","explicacao":"A prática regular e orientada de atividade física pode favorecer o bem-estar e a qualidade de vida.","dificuldade":"facil"},
+      {"id":"edf8-saude-atividade-fisica-qualidade-vida-ex-02","enunciado":"Pensar em qualidade de vida envolve:","tipo":"multipla_escolha","alternativas":["hábitos equilibrados de cuidado com o corpo","apenas competição esportiva intensa","somente descanso sem movimento","ignorar alimentação e rotina"],"respostaCorreta":"hábitos equilibrados de cuidado com o corpo","explicacao":"Qualidade de vida envolve movimento, alimentação, descanso e cuidado contínuo com a saúde.","dificuldade":"facil"},
+      {"id":"edf8-saude-atividade-fisica-qualidade-vida-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Atividade física não se limita ao esporte competitivo.","Só atletas profissionais se beneficiam do movimento corporal.","Qualidade de vida não tem relação com hábitos diários.","Movimento e saúde não se relacionam."],"respostaCorreta":"Atividade física não se limita ao esporte competitivo.","explicacao":"Práticas corporais variadas também fazem parte de uma vida ativa e saudável.","dificuldade":"medio"},
+      {"id":"edf8-saude-atividade-fisica-qualidade-vida-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["cuidar do corpo com mais consciência","reduzir a saúde apenas à aparência","ignorar os efeitos do sedentarismo","achar que hábitos não interferem na qualidade de vida"],"respostaCorreta":"cuidar do corpo com mais consciência","explicacao":"O conteúdo fortalece uma visão mais ampla sobre saúde, movimento e bem-estar.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"edf8-saude-atividade-fisica-qualidade-vida-sim-01","enunciado":"A principal ideia desse tema é perceber que:","tipo":"multipla_escolha","alternativas":["atividade física e hábitos saudáveis contribuem para a qualidade de vida","saúde depende apenas de sorte","movimento corporal não interfere no bem-estar","qualidade de vida se resume ao desempenho esportivo"],"respostaCorreta":"atividade física e hábitos saudáveis contribuem para a qualidade de vida","explicacao":"A vida saudável envolve prática corporal consciente e outros cuidados integrados com o bem-estar.","dificuldade":"medio"}
+    ]
+  }
+]

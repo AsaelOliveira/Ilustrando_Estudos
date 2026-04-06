@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-colonizacao-portuguesa-brasil",
+    "titulo": "Colonização portuguesa no Brasil",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "América portuguesa",
+    "resumo": [
+      "A colonização portuguesa no Brasil envolveu ocupação, exploração e organização do território.",
+      "Os interesses econômicos tiveram papel importante nesse processo.",
+      "A colonização afetou profundamente os povos indígenas e a formação da sociedade colonial.",
+      "A produção agrícola e a administração colonial marcaram esse período.",
+      "Estudar o tema ajuda a compreender a formação histórica do Brasil."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Objetivos da colonização",
+        "texto": "A colonização portuguesa no Brasil esteve ligada ao interesse de ocupar o território, explorar riquezas e organizar a produção econômica. Portugal buscava fortalecer sua presença e ampliar seus ganhos no contexto colonial.",
+        "dica": "A colonização não foi apenas ocupação territorial; também foi um projeto econômico e político."
+      },
+      {
+        "subtitulo": "Sociedade e conflitos",
+        "texto": "A colonização provocou intensas transformações sociais e afetou profundamente os povos indígenas, que enfrentaram violência, perda de terras e imposições culturais. Ao mesmo tempo, foi se formando uma sociedade marcada por desigualdades e dominação.",
+        "dica": "Ao estudar a colonização, considere os impactos sobre diferentes grupos sociais."
+      },
+      {
+        "subtitulo": "Produção e administração",
+        "texto": "A organização da colônia envolveu produção agrícola, formas de administração e relações de trabalho voltadas aos interesses da metrópole. Esses elementos marcaram a economia e a vida social na América portuguesa.",
+        "dica": "Produção e controle político caminharam juntos na colonização."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a colonização portuguesa esteve ligada à economia.",
+        "passos": [
+          "Portugal buscava obter riquezas e ampliar sua influência.",
+          "A produção colonial atendia interesses da metrópole.",
+          "Isso mostra a ligação entre colonização e exploração econômica."
+        ],
+        "resposta": "A colonização portuguesa esteve ligada à economia porque visava explorar recursos e organizar a produção em benefício da metrópole."
+      },
+      {
+        "enunciado": "Relacione colonização e povos indígenas.",
+        "passos": [
+          "Os povos indígenas já ocupavam o território antes da colonização.",
+          "A chegada dos colonizadores gerou conflitos e imposições.",
+          "Esse processo afetou profundamente suas vidas e territórios."
+        ],
+        "resposta": "A colonização afetou os povos indígenas por meio de conflitos, violência e perda de autonomia."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-01",
+        "enunciado": "A colonização portuguesa no Brasil esteve ligada à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ocupação e exploração do território",
+          "eliminação de toda atividade econômica",
+          "ausência de interesses políticos",
+          "falta de organização da produção"
+        ],
+        "respostaCorreta": "ocupação e exploração do território",
+        "explicacao": "A colonização envolveu domínio territorial e exploração econômica da colônia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-02",
+        "enunciado": "Um objetivo importante da colonização era:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atender interesses econômicos da metrópole",
+          "acabar com toda produção agrícola",
+          "eliminar a presença portuguesa",
+          "criar igualdade social imediata"
+        ],
+        "respostaCorreta": "atender interesses econômicos da metrópole",
+        "explicacao": "Portugal organizou a colônia buscando ampliar seus ganhos econômicos e políticos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-03",
+        "enunciado": "A colonização afetou os povos indígenas porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "provocou conflitos, dominação e perda de territórios",
+          "garantiu autonomia total a todos os grupos",
+          "eliminou qualquer disputa de terra",
+          "não alterou a vida das populações nativas"
+        ],
+        "respostaCorreta": "provocou conflitos, dominação e perda de territórios",
+        "explicacao": "Os povos indígenas sofreram diferentes formas de violência e imposição durante a colonização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A colonização envolveu economia, administração e relações de poder.",
+          "A colonização foi apenas um contato pacífico sem conflitos.",
+          "A produção colonial não se relacionava com Portugal.",
+          "A sociedade colonial não tinha desigualdades."
+        ],
+        "respostaCorreta": "A colonização envolveu economia, administração e relações de poder.",
+        "explicacao": "O processo colonial articulou interesses econômicos, controle político e dominação social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-05",
+        "enunciado": "Estudar a colonização portuguesa ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a formação histórica do Brasil",
+          "somente a geometria plana",
+          "apenas o sistema digestório",
+          "unicamente o clima europeu"
+        ],
+        "respostaCorreta": "a formação histórica do Brasil",
+        "explicacao": "A colonização está na base de muitos processos históricos ligados ao Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-ex-06",
+        "enunciado": "A sociedade colonial se formou em um contexto de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desigualdades e dominação",
+          "equilíbrio social completo",
+          "ausência de trabalho econômico",
+          "falta de administração"
+        ],
+        "respostaCorreta": "desigualdades e dominação",
+        "explicacao": "A sociedade colonial foi marcada por hierarquias e relações desiguais de poder.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-sim-01",
+        "enunciado": "Ao estudar produção colonial, controle político e impactos sobre povos indígenas, o aluno está analisando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a colonização portuguesa no Brasil",
+          "a classificação dos minerais",
+          "a divisão silábica",
+          "a cartografia temática"
+        ],
+        "respostaCorreta": "a colonização portuguesa no Brasil",
+        "explicacao": "Esses elementos fazem parte do processo de colonização e da formação da sociedade colonial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-colonizacao-portuguesa-brasil-sim-02",
+        "enunciado": "A principal compreensão desse tema é que a colonização portuguesa no Brasil:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "foi um processo de ocupação, exploração e profundas transformações sociais",
+          "ocorreu sem objetivos econômicos",
+          "não afetou os povos indígenas",
+          "se limitou a uma simples visita ao território"
+        ],
+        "respostaCorreta": "foi um processo de ocupação, exploração e profundas transformações sociais",
+        "explicacao": "O tema destaca a complexidade da colonização e seus impactos econômicos, políticos e sociais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

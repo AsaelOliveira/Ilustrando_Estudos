@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat7-geometria-planos-areas",
+    "titulo": "Figuras planas e área",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Figuras planas possuem propriedades que ajudam a descrever formas e superfícies.",
+      "A área mede a superfície ocupada por uma figura.",
+      "Estudar esse tema amplia a compreensão geométrica e a resolução de problemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Identificação de figuras planas",
+        "texto": "Quadrados, retângulos, triângulos e outras figuras planas aparecem em várias situações do cotidiano. Reconhecer lados, ângulos e forma geral ajuda a analisar melhor essas figuras.",
+        "dica": "Observe características como quantidade de lados, medidas e organização da figura."
+      },
+      {
+        "subtitulo": "Ideia de área",
+        "texto": "A área corresponde à medida da superfície interna de uma figura. Esse conceito é usado em pisos, terrenos, espaços geométricos e diversas situações práticas que envolvem ocupação de superfície.",
+        "dica": "Diferencie área de perímetro: a área mede a superfície; o perímetro mede o contorno."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um retângulo desenhado em uma malha quadriculada.",
+        "passos": [
+          "Conte quantos quadradinhos ocupam sua superfície.",
+          "Relacione essa contagem à ideia de área.",
+          "Compare com o contorno da figura."
+        ],
+        "resposta": "Esse exemplo ajuda a compreender a diferença entre superfície ocupada e contorno da figura."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat7-geometria-planos-areas-ex-01","enunciado":"A área de uma figura indica:","tipo":"multipla_escolha","alternativas":["a superfície ocupada por ela","o nome da figura","a cor do desenho","o número de letras da palavra"],"respostaCorreta":"a superfície ocupada por ela","explicacao":"Área é a medida da superfície interna de uma figura plana.","dificuldade":"facil"},
+      {"id":"mat7-geometria-planos-areas-ex-02","enunciado":"Qual ideia está relacionada ao perímetro?","tipo":"multipla_escolha","alternativas":["medida do contorno","medida da superfície interna","classificação do ângulo","valor de uma fração"],"respostaCorreta":"medida do contorno","explicacao":"Perímetro mede o contorno da figura, enquanto a área mede a superfície.","dificuldade":"facil"},
+      {"id":"mat7-geometria-planos-areas-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Estudar área ajuda a resolver problemas práticos com superfícies.","Área e perímetro são sempre a mesma coisa.","Figuras planas não aparecem no cotidiano.","A geometria plana não envolve medidas."],"respostaCorreta":"Estudar área ajuda a resolver problemas práticos com superfícies.","explicacao":"Esse conteúdo é útil em várias situações ligadas a espaço e medida.","dificuldade":"medio"},
+      {"id":"mat7-geometria-planos-areas-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender formas planas e suas medidas","ignorar a diferença entre contorno e superfície","separar geometria de situações reais","desconsiderar medidas em figuras"],"respostaCorreta":"compreender formas planas e suas medidas","explicacao":"O tema fortalece a leitura geométrica e a aplicação de medidas em problemas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat7-geometria-planos-areas-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["figuras planas podem ser analisadas por suas propriedades e pela medida de sua superfície","área e perímetro representam sempre a mesma grandeza","geometria plana não se relaciona a medidas","superfície e contorno têm o mesmo significado"],"respostaCorreta":"figuras planas podem ser analisadas por suas propriedades e pela medida de sua superfície","explicacao":"O conteúdo destaca características das figuras e a compreensão da área como medida de superfície.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "red9-texto-dissertativo-argumentativo",
+    "titulo": "Texto dissertativo-argumentativo",
+    "disciplinaId": "red9",
+    "turmaId": "9ano",
+    "unidade": "Produção de texto",
+    "resumo": [
+      "O texto dissertativo-argumentativo apresenta um ponto de vista e o desenvolve com argumentos.",
+      "Sua estrutura costuma envolver introdução, desenvolvimento e conclusão.",
+      "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Estrutura do texto",
+        "texto": "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias.",
+        "dica": "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la."
+      },
+      {
+        "subtitulo": "Argumentar com consistência",
+        "texto": "Um bom texto argumentativo precisa apresentar justificativas coerentes, exemplos, comparações ou dados que reforcem a opinião defendida. A escolha dos argumentos influencia diretamente a força do texto.",
+        "dica": "Evite repetir a mesma ideia de formas diferentes; prefira desenvolver argumentos complementares."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um tema de redação sobre uso consciente das redes sociais.",
+        "passos": [
+          "Defina uma tese sobre o tema.",
+          "Liste argumentos que sustentem sua posição.",
+          "Organize essas ideias em introdução, desenvolvimento e conclusão."
+        ],
+        "resposta": "Esse processo mostra como a redação argumentativa exige planejamento e organização das ideias."
+      }
+    ],
+    "exercicios": [
+      {"id":"red9-texto-dissertativo-argumentativo-ex-01","enunciado":"A função principal do texto dissertativo-argumentativo é:","tipo":"multipla_escolha","alternativas":["apresentar e defender um ponto de vista","contar apenas uma história ficcional","descrever somente objetos e lugares","listar palavras sem relação entre si"],"respostaCorreta":"apresentar e defender um ponto de vista","explicacao":"Esse gênero textual se organiza em torno da defesa de uma tese por meio de argumentos.","dificuldade":"facil"},
+      {"id":"red9-texto-dissertativo-argumentativo-ex-02","enunciado":"Uma estrutura comum desse gênero inclui:","tipo":"multipla_escolha","alternativas":["introdução, desenvolvimento e conclusão","apenas título e assinatura","somente perguntas sem resposta","lista de palavras em ordem alfabética"],"respostaCorreta":"introdução, desenvolvimento e conclusão","explicacao":"Essa organização ajuda a apresentar, sustentar e concluir o raciocínio do texto.","dificuldade":"facil"},
+      {"id":"red9-texto-dissertativo-argumentativo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Argumentos coerentes fortalecem a tese defendida no texto.","Um texto argumentativo dispensa planejamento.","A conclusão não tem função no gênero.","Defender opinião significa repetir a mesma frase várias vezes."],"respostaCorreta":"Argumentos coerentes fortalecem a tese defendida no texto.","explicacao":"A qualidade da argumentação depende da consistência e da organização das justificativas apresentadas.","dificuldade":"medio"},
+      {"id":"red9-texto-dissertativo-argumentativo-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["organizar ideias e defender opiniões com mais clareza","escrever sem objetivo definido","eliminar a necessidade de revisar a escrita","reduzir a redação a frases soltas"],"respostaCorreta":"organizar ideias e defender opiniões com mais clareza","explicacao":"O gênero desenvolve planejamento, argumentação e organização textual.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"red9-texto-dissertativo-argumentativo-sim-01","enunciado":"A principal característica do texto dissertativo-argumentativo é:","tipo":"multipla_escolha","alternativas":["defender uma tese com argumentos bem organizados","narrar fatos sem ponto de vista","apresentar apenas descrições sem análise","reunir palavras aleatórias em parágrafos"],"respostaCorreta":"defender uma tese com argumentos bem organizados","explicacao":"Esse gênero exige organização estrutural e clareza na defesa de ideias.","dificuldade":"medio"}
+    ]
+  }
+]

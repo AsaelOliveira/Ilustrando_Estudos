@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien7-materia-transformacoes",
+    "titulo": "Matéria e transformações",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Matéria",
+    "resumo": [
+      "A matéria pode passar por transformações físicas e químicas.",
+      "Observar características dos materiais ajuda a compreender como eles se comportam.",
+      "Estudar esse tema fortalece a leitura científica de fenômenos do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Transformações da matéria",
+        "texto": "Os materiais podem sofrer mudanças de estado, de forma e de composição. Algumas transformações não alteram a substância inicial, enquanto outras produzem novas substâncias com características diferentes.",
+        "dica": "Ao analisar uma transformação, observe se houve apenas mudança física ou formação de uma nova substância."
+      },
+      {
+        "subtitulo": "Matéria no cotidiano",
+        "texto": "Muitos fenômenos do dia a dia, como derretimento, evaporação, ferrugem e queima, podem ser compreendidos a partir do estudo da matéria. Isso ajuda a interpretar melhor situações práticas e tecnológicas.",
+        "dica": "Relacione os conceitos estudados a exemplos concretos observados em casa, na escola ou na natureza."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare o gelo derretendo com a queima de um papel.",
+        "passos": [
+          "Observe o que muda em cada situação.",
+          "Perceba se a substância continua a mesma ou não.",
+          "Relacione isso aos tipos de transformação da matéria."
+        ],
+        "resposta": "Esse contraste ajuda a diferenciar transformações físicas e químicas."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien7-materia-transformacoes-ex-01","enunciado":"A matéria pode passar por:","tipo":"multipla_escolha","alternativas":["transformações físicas e químicas","somente mudanças sem explicação","apenas transformações imaginárias","nenhuma alteração ao longo do tempo"],"respostaCorreta":"transformações físicas e químicas","explicacao":"Os materiais podem sofrer mudanças de estado, forma e composição.","dificuldade":"facil"},
+      {"id":"cien7-materia-transformacoes-ex-02","enunciado":"Qual situação representa transformação física?","tipo":"multipla_escolha","alternativas":["gelo derretendo","papel queimando","metal enferrujando","fruta apodrecendo"],"respostaCorreta":"gelo derretendo","explicacao":"Nesse caso, a substância continua a mesma, ocorrendo apenas mudança de estado físico.","dificuldade":"facil"},
+      {"id":"cien7-materia-transformacoes-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A análise da matéria ajuda a explicar fenômenos do cotidiano.","Toda transformação é igual e produz o mesmo efeito.","Matéria não se relaciona a situações observáveis.","Mudanças químicas não produzem novas substâncias."],"respostaCorreta":"A análise da matéria ajuda a explicar fenômenos do cotidiano.","explicacao":"O estudo da matéria permite compreender diferentes processos presentes no ambiente e na vida diária.","dificuldade":"medio"},
+      {"id":"cien7-materia-transformacoes-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar melhor transformações observadas no dia a dia","ignorar características dos materiais","separar ciência e cotidiano","considerar todas as mudanças como iguais"],"respostaCorreta":"interpretar melhor transformações observadas no dia a dia","explicacao":"O conteúdo fortalece a observação científica e a explicação de fenômenos ligados à matéria.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien7-materia-transformacoes-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a matéria pode sofrer diferentes transformações que ajudam a explicar fenômenos do cotidiano","todas as mudanças materiais são idênticas","matéria não se altera em nenhuma situação","fenômenos do cotidiano não têm relação com ciência"],"respostaCorreta":"a matéria pode sofrer diferentes transformações que ajudam a explicar fenômenos do cotidiano","explicacao":"O conteúdo mostra como a observação das mudanças da matéria contribui para a compreensão científica do mundo. ","dificuldade":"medio"}
+    ]
+  }
+]

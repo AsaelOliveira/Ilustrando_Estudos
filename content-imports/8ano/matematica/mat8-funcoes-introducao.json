@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat8-funcoes-introducao",
+    "titulo": "Introdução ao conceito de função",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "Uma função relaciona elementos de dois conjuntos de modo organizado.",
+      "Cada elemento de entrada corresponde a um único valor de saída.",
+      "O conceito de função é importante para representar relações matemáticas do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideia de dependência",
+        "texto": "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida.",
+        "dica": "Pense na função como uma relação em que uma grandeza varia conforme a outra."
+      },
+      {
+        "subtitulo": "Aplicações do conceito",
+        "texto": "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro.",
+        "dica": "Procure exemplos do cotidiano em que uma quantidade dependa de outra."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere que cada ingresso custa 12 reais.",
+        "passos": [
+          "Se uma pessoa compra 1 ingresso, paga 12 reais.",
+          "Se compra 2 ingressos, paga 24 reais.",
+          "O preço total depende da quantidade comprada."
+        ],
+        "resposta": "Essa situação pode ser representada por uma função entre quantidade e preço."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat8-funcoes-introducao-ex-01","enunciado":"Uma função estabelece uma relação entre:","tipo":"multipla_escolha","alternativas":["valores de entrada e valores de saída","somente figuras geométricas","apenas palavras de um texto","nomes próprios e adjetivos"],"respostaCorreta":"valores de entrada e valores de saída","explicacao":"A função relaciona dois conjuntos por uma regra definida.","dificuldade":"facil"},
+      {"id":"mat8-funcoes-introducao-ex-02","enunciado":"Em uma função, cada valor de entrada deve corresponder a:","tipo":"multipla_escolha","alternativas":["um único valor de saída","dois valores aleatórios","nenhum resultado","infinitos valores sem regra"],"respostaCorreta":"um único valor de saída","explicacao":"Essa é uma característica essencial do conceito de função.","dificuldade":"facil"},
+      {"id":"mat8-funcoes-introducao-ex-03","enunciado":"Qual situação pode ser associada ao conceito de função?","tipo":"multipla_escolha","alternativas":["preço total em função da quantidade comprada","ordem alfabética de nomes sem relação numérica","cor preferida de cada aluno sem regra definida","lista de palavras soltas"],"respostaCorreta":"preço total em função da quantidade comprada","explicacao":"O valor total depende da quantidade, seguindo uma regra de correspondência.","dificuldade":"medio"},
+      {"id":"mat8-funcoes-introducao-ex-04","enunciado":"Estudar funções ajuda o aluno a compreender:","tipo":"multipla_escolha","alternativas":["relações entre grandezas que variam","apenas fórmulas sem aplicação","somente desenhos geométricos","apenas números romanos"],"respostaCorreta":"relações entre grandezas que variam","explicacao":"As funções descrevem dependências entre quantidades em diversas situações.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-funcoes-introducao-sim-01","enunciado":"A ideia central do conceito de função é que:","tipo":"multipla_escolha","alternativas":["um valor depende de outro segundo uma regra","qualquer número pode ter infinitas saídas ao mesmo tempo","não existe relação entre as grandezas envolvidas","o tema serve apenas para tabelas sem interpretação"],"respostaCorreta":"um valor depende de outro segundo uma regra","explicacao":"A função organiza uma correspondência entre valores de entrada e saída.","dificuldade":"medio"}
+    ]
+  }
+]

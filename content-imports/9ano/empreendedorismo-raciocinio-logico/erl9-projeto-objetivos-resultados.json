@@ -1,0 +1,46 @@
+[
+  {
+    "id": "erl9-projeto-objetivos-resultados",
+    "titulo": "Projeto, objetivos e avaliação de resultados",
+    "disciplinaId": "erl9",
+    "turmaId": "9ano",
+    "unidade": "Planejamento e acompanhamento",
+    "resumo": [
+      "Projetos precisam de objetivos claros e critérios para avaliar seus resultados.",
+      "Acompanhar o desenvolvimento de uma ação ajuda a corrigir caminhos e melhorar decisões.",
+      "Estudar esse tema fortalece organização, responsabilidade e visão de processo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Definir objetivos com clareza",
+        "texto": "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada.",
+        "dica": "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar."
+      },
+      {
+        "subtitulo": "Avaliar para melhorar",
+        "texto": "Avaliar resultados não significa apenas verificar se tudo deu certo, mas também identificar dificuldades, aprendizagens e ajustes necessários. Essa prática desenvolve responsabilidade, análise crítica e melhoria contínua.",
+        "dica": "Ao final de uma ação, pergunte o que funcionou, o que pode melhorar e quais resultados foram alcançados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise um projeto escolar em que o grupo define metas e, ao final, verifica o que conseguiu realizar.",
+        "passos": [
+          "Identifique os objetivos propostos.",
+          "Observe como o andamento do projeto foi acompanhado.",
+          "Relacione a avaliação final às decisões tomadas durante o processo."
+        ],
+        "resposta": "Esse exemplo mostra que planejar e avaliar fazem parte de um mesmo processo de aprendizagem e organização."
+      }
+    ],
+    "exercicios": [
+      {"id":"erl9-projeto-objetivos-resultados-ex-01","enunciado":"Um projeto precisa de objetivos claros para:","tipo":"multipla_escolha","alternativas":["orientar ações e acompanhar resultados","funcionar sem direção alguma","evitar qualquer planejamento","dispensar critérios de avaliação"],"respostaCorreta":"orientar ações e acompanhar resultados","explicacao":"Objetivos ajudam a definir propósito e a verificar se o projeto está avançando como esperado.","dificuldade":"facil"},
+      {"id":"erl9-projeto-objetivos-resultados-ex-02","enunciado":"Avaliar um projeto significa:","tipo":"multipla_escolha","alternativas":["analisar resultados e pensar melhorias","somente declarar sucesso sem análise","ignorar dificuldades do processo","encerrar a ação sem reflexão"],"respostaCorreta":"analisar resultados e pensar melhorias","explicacao":"A avaliação ajuda a compreender resultados, identificar problemas e aperfeiçoar estratégias.","dificuldade":"facil"},
+      {"id":"erl9-projeto-objetivos-resultados-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Planejar e avaliar são partes importantes de um projeto bem conduzido.","Projetos não precisam de objetivos definidos.","Avaliação não contribui para decisões futuras.","Resultados não têm relação com o planejamento inicial."],"respostaCorreta":"Planejar e avaliar são partes importantes de um projeto bem conduzido.","explicacao":"Essas etapas ajudam a orientar, acompanhar e qualificar a realização de uma ação.","dificuldade":"medio"},
+      {"id":"erl9-projeto-objetivos-resultados-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver visão de processo e responsabilidade","tratar projetos como ações sem acompanhamento","ignorar resultados obtidos","dispensar revisão de estratégias"],"respostaCorreta":"desenvolver visão de processo e responsabilidade","explicacao":"O conteúdo fortalece planejamento, organização e análise crítica das ações realizadas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"erl9-projeto-objetivos-resultados-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos","projetos devem ser feitos sem acompanhamento","resultados não importam para o planejamento","avaliar significa apenas dar nota a uma ação"],"respostaCorreta":"objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos","explicacao":"O tema mostra que acompanhar metas e refletir sobre resultados melhora a condução de projetos.","dificuldade":"medio"}
+    ]
+  }
+]

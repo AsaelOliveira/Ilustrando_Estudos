@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port8-crase-introducao",
+    "titulo": "Introdução à crase",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'.",
+      "O acento grave marca essa ocorrência na escrita.",
+      "Entender a crase ajuda a escrever com mais precisão e correção."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é crase",
+        "texto": "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave.",
+        "dica": "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo."
+      },
+      {
+        "subtitulo": "Uso consciente",
+        "texto": "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo.",
+        "dica": "Tente substituir por um termo masculino e observe se aparece 'ao'."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Fui à biblioteca ontem.'",
+        "passos": [
+          "O verbo 'ir' pede a preposição 'a'.",
+          "A palavra 'biblioteca' admite o artigo feminino 'a'.",
+          "A união dessas duas ocorrências forma a crase."
+        ],
+        "resposta": "Em 'à biblioteca', o acento grave indica a fusão entre preposição e artigo."
+      }
+    ],
+    "exercicios": [
+      {"id":"port8-crase-introducao-ex-01","enunciado":"A crase indica, em geral, a fusão entre:","tipo":"multipla_escolha","alternativas":["preposição 'a' e artigo 'a'","duas consoantes","um verbo e um advérbio","um pronome e um numeral"],"respostaCorreta":"preposição 'a' e artigo 'a'","explicacao":"Essa é a situação mais comum em que ocorre a crase.","dificuldade":"facil"},
+      {"id":"port8-crase-introducao-ex-02","enunciado":"Qual sinal gráfico marca a crase?","tipo":"multipla_escolha","alternativas":["acento grave","til","cedilha","travessão"],"respostaCorreta":"acento grave","explicacao":"A crase é indicada graficamente pelo acento grave (`).","dificuldade":"facil"},
+      {"id":"port8-crase-introducao-ex-03","enunciado":"Em qual alternativa há indicação de crase?","tipo":"multipla_escolha","alternativas":["A turma foi à escola cedo.","A turma foi a escola cedo.","A turma foi de escola cedo.","A turma foi com escola cedo."],"respostaCorreta":"A turma foi à escola cedo.","explicacao":"O verbo pede preposição 'a' e 'escola' admite artigo feminino, formando crase.","dificuldade":"medio"},
+      {"id":"port8-crase-introducao-ex-04","enunciado":"Para verificar a ocorrência de crase, o estudante deve observar principalmente:","tipo":"multipla_escolha","alternativas":["a presença simultânea de preposição e artigo feminino","o tamanho da frase","a quantidade de vírgulas no período","a ordem alfabética das palavras"],"respostaCorreta":"a presença simultânea de preposição e artigo feminino","explicacao":"A análise da estrutura da frase mostra se realmente houve fusão entre esses dois elementos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port8-crase-introducao-sim-01","enunciado":"A ideia central do estudo da crase é compreender:","tipo":"multipla_escolha","alternativas":["quando ocorre a fusão da preposição 'a' com o artigo feminino","como contar sílabas tônicas","como identificar apenas o sujeito","quando usar exclusivamente ponto e vírgula"],"respostaCorreta":"quando ocorre a fusão da preposição 'a' com o artigo feminino","explicacao":"O uso correto da crase depende da análise dessa fusão na estrutura da frase.","dificuldade":"medio"}
+    ]
+  }
+]

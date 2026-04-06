@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo7-fontes-energia-espaco",
+    "titulo": "Fontes de energia e organização do espaço",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Recursos e circulação",
+    "resumo": [
+      "As fontes de energia são importantes para a vida cotidiana e para a produção econômica.",
+      "Existem diferentes formas de geração e uso da energia.",
+      "A disponibilidade de energia influencia atividades industriais, transportes e cidades.",
+      "O uso das fontes energéticas também provoca impactos ambientais.",
+      "Estudar esse tema ajuda a compreender a relação entre natureza, técnica e sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O papel da energia no espaço geográfico",
+        "texto": "A energia é fundamental para o funcionamento de casas, indústrias, transportes e serviços. Sua presença influencia a organização do espaço e o desenvolvimento de diferentes atividades econômicas.",
+        "dica": "Observe quantas atividades do cotidiano dependem de energia para acontecer."
+      },
+      {
+        "subtitulo": "Diversidade de fontes",
+        "texto": "Há diferentes fontes de energia, como hidrelétrica, solar, eólica e outras. Cada uma possui características próprias de produção, uso e impacto, o que torna importante analisar de onde vem a energia e como ela é utilizada.",
+        "dica": "Nem toda energia é produzida do mesmo modo nem provoca os mesmos efeitos."
+      },
+      {
+        "subtitulo": "Impactos e escolhas",
+        "texto": "A produção e o consumo de energia também podem provocar impactos ambientais e sociais. Por isso, discutir fontes energéticas envolve pensar em desenvolvimento, necessidades humanas e formas mais responsáveis de uso dos recursos.",
+        "dica": "Estudar energia também é refletir sobre consequências e escolhas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a energia é importante para a indústria.",
+        "passos": [
+          "A produção industrial depende de máquinas e sistemas em funcionamento.",
+          "Esses processos precisam de fornecimento energético.",
+          "Sem energia, muitas atividades industriais seriam interrompidas."
+        ],
+        "resposta": "A energia é importante para a indústria porque sustenta o funcionamento de máquinas e processos produtivos."
+      },
+      {
+        "enunciado": "Relacione fontes de energia e impactos ambientais.",
+        "passos": [
+          "A geração de energia depende de recursos e técnicas diferentes.",
+          "Cada fonte pode provocar impactos específicos.",
+          "Por isso, o estudo da energia envolve analisar também suas consequências."
+        ],
+        "resposta": "As fontes de energia precisam ser analisadas também pelos impactos que podem gerar no ambiente."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo7-fontes-energia-espaco-ex-01",
+        "enunciado": "As fontes de energia são importantes porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permitem o funcionamento de várias atividades humanas",
+          "substituem totalmente os alimentos",
+          "eliminam a necessidade de transporte",
+          "impedem o crescimento das cidades"
+        ],
+        "respostaCorreta": "permitem o funcionamento de várias atividades humanas",
+        "explicacao": "A energia está presente em tarefas cotidianas, serviços, produção e circulação.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-ex-02",
+        "enunciado": "Qual alternativa apresenta uma fonte de energia?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "solar",
+          "substantivo",
+          "metáfora",
+          "parágrafo"
+        ],
+        "respostaCorreta": "solar",
+        "explicacao": "A energia solar é uma das formas de obtenção de energia a partir da luz do Sol.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-ex-03",
+        "enunciado": "A disponibilidade de energia influencia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indústrias, transportes e cidades",
+          "somente a ordem alfabética",
+          "apenas a pontuação dos textos",
+          "exclusivamente a cor dos mapas"
+        ],
+        "respostaCorreta": "indústrias, transportes e cidades",
+        "explicacao": "A energia participa do funcionamento de atividades urbanas, econômicas e de circulação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diferentes fontes de energia podem causar impactos distintos.",
+          "Toda fonte de energia tem exatamente o mesmo efeito.",
+          "A energia não interfere na organização do espaço.",
+          "As fontes energéticas não têm relação com a sociedade."
+        ],
+        "respostaCorreta": "Diferentes fontes de energia podem causar impactos distintos.",
+        "explicacao": "Cada fonte possui características próprias de produção, uso e impacto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-ex-05",
+        "enunciado": "Estudar fontes de energia ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações entre natureza, técnica e sociedade",
+          "somente a classificação dos pronomes",
+          "apenas o relevo submarino",
+          "unicamente a divisão silábica"
+        ],
+        "respostaCorreta": "relações entre natureza, técnica e sociedade",
+        "explicacao": "O tema conecta produção de energia, uso de recursos e organização social e espacial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-ex-06",
+        "enunciado": "A principal ideia desse tema é que a energia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influencia a vida cotidiana e a organização do espaço",
+          "serve apenas para experimentos escolares",
+          "não tem relação com a economia",
+          "não provoca impactos de nenhum tipo"
+        ],
+        "respostaCorreta": "influencia a vida cotidiana e a organização do espaço",
+        "explicacao": "A energia é parte fundamental da produção, do transporte, da vida urbana e das escolhas sociais.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo7-fontes-energia-espaco-sim-01",
+        "enunciado": "Ao estudar usinas, transportes e consumo elétrico nas cidades, o aluno está analisando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fontes de energia e organização do espaço",
+          "somente figuras de linguagem",
+          "apenas cadeia alimentar",
+          "unicamente tempos verbais"
+        ],
+        "respostaCorreta": "fontes de energia e organização do espaço",
+        "explicacao": "Esses elementos mostram como a energia participa da organização espacial e das atividades humanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-fontes-energia-espaco-sim-02",
+        "enunciado": "A principal compreensão desse tema é que as fontes de energia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "são essenciais, mas exigem análise sobre uso e impactos",
+          "não interferem em nenhuma atividade humana",
+          "servem apenas para iluminar casas",
+          "não têm ligação com o espaço geográfico"
+        ],
+        "respostaCorreta": "são essenciais, mas exigem análise sobre uso e impactos",
+        "explicacao": "O tema destaca a importância da energia e a necessidade de refletir sobre suas consequências e formas de uso.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

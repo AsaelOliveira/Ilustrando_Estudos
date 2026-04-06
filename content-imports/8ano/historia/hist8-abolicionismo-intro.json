@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist8-abolicionismo-intro",
+    "titulo": "Introdução ao abolicionismo no Brasil",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Brasil Império",
+    "resumo": [
+      "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão.",
+      "A luta pela abolição envolveu resistência, mobilização social e disputas políticas.",
+      "Estudar esse tema é essencial para compreender a história brasileira de forma crítica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Movimento abolicionista",
+        "texto": "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial.",
+        "dica": "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo."
+      },
+      {
+        "subtitulo": "Leitura crítica do processo",
+        "texto": "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação.",
+        "dica": "Procure identificar diferentes sujeitos históricos envolvidos no processo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma campanha pública que defende o fim de uma injustiça social.",
+        "passos": [
+          "Observe a mobilização de ideias e pessoas.",
+          "Perceba que mudanças históricas importantes costumam envolver pressão social."
+        ],
+        "resposta": "Esse tipo de análise ajuda a entender a força do movimento abolicionista."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist8-abolicionismo-intro-ex-01","enunciado":"O abolicionismo defendia principalmente:","tipo":"multipla_escolha","alternativas":["o fim da escravidão","a expansão da escravidão","a volta ao período colonial","a divisão do país em pequenos reinos"],"respostaCorreta":"o fim da escravidão","explicacao":"A luta abolicionista tinha como objetivo acabar com a escravidão no Brasil.","dificuldade":"facil"},
+      {"id":"hist8-abolicionismo-intro-ex-02","enunciado":"O movimento abolicionista envolveu:","tipo":"multipla_escolha","alternativas":["mobilização social e disputas políticas","ausência de conflitos","somente ações secretas sem debate público","apenas decisões econômicas sem participação humana"],"respostaCorreta":"mobilização social e disputas políticas","explicacao":"A abolição foi resultado de pressões e lutas em diferentes esferas da sociedade.","dificuldade":"facil"},
+      {"id":"hist8-abolicionismo-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A abolição deve ser entendida como resultado de lutas históricas.","A escravidão terminou sem participação de movimentos sociais.","O abolicionismo foi um tema sem importância política.","Não houve resistência de pessoas escravizadas."],"respostaCorreta":"A abolição deve ser entendida como resultado de lutas históricas.","explicacao":"O processo abolicionista envolveu resistência, denúncia e mobilização de diversos sujeitos históricos.","dificuldade":"medio"},
+      {"id":"hist8-abolicionismo-intro-ex-04","enunciado":"Estudar o abolicionismo ajuda a compreender:","tipo":"multipla_escolha","alternativas":["aspectos fundamentais da história social e política do Brasil","somente a história da Idade Média europeia","apenas a formação do relevo brasileiro","exclusivamente o ciclo da água"],"respostaCorreta":"aspectos fundamentais da história social e política do Brasil","explicacao":"Esse tema é central para a compreensão crítica da sociedade brasileira e de suas desigualdades históricas.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist8-abolicionismo-intro-sim-01","enunciado":"Ao estudar o abolicionismo, é correto reconhecer que:","tipo":"multipla_escolha","alternativas":["o fim da escravidão resultou de pressões, lutas e mobilizações históricas","a abolição aconteceu sem conflitos sociais","o tema diz respeito apenas a uma lei isolada","não houve participação de diferentes grupos sociais"],"respostaCorreta":"o fim da escravidão resultou de pressões, lutas e mobilizações históricas","explicacao":"A leitura histórica do abolicionismo precisa considerar o protagonismo e a resistência de muitos sujeitos.","dificuldade":"medio"}
+    ]
+  }
+]

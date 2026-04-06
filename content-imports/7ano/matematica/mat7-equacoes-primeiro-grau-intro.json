@@ -1,0 +1,169 @@
+[
+  {
+    "id": "mat7-equacoes-primeiro-grau-intro",
+    "titulo": "Equações do 1º grau: introdução",
+    "disciplinaId": "mat7",
+    "turmaId": "7ano",
+    "unidade": "Álgebra inicial",
+    "resumo": [
+      "Equação é uma sentença matemática com igualdade e valor desconhecido.",
+      "A incógnita representa o número que deve ser descoberto.",
+      "Resolver uma equação é encontrar o valor que torna a igualdade verdadeira.",
+      "As equações aparecem em problemas do cotidiano e ajudam a organizar o raciocínio.",
+      "Esse estudo desenvolve estratégias de cálculo e interpretação."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é equação",
+        "texto": "Equação é uma expressão matemática que apresenta uma igualdade envolvendo um valor desconhecido. Esse valor costuma ser representado por uma letra, chamada incógnita.",
+        "dica": "A equação funciona como um desafio: descobrir qual número mantém a igualdade correta."
+      },
+      {
+        "subtitulo": "Incógnita e igualdade",
+        "texto": "A incógnita representa o número que ainda não conhecemos. Ao resolver a equação, procuramos esse valor observando a relação entre os dois lados da igualdade.",
+        "dica": "Os dois lados da equação precisam continuar equivalentes durante a resolução."
+      },
+      {
+        "subtitulo": "Resolução e sentido",
+        "texto": "Resolver uma equação exige pensar em operações inversas e em maneiras de isolar a incógnita. Esse processo ajuda a desenvolver o raciocínio algébrico e a interpretar melhor problemas matemáticos.",
+        "dica": "Sempre verifique no final se o valor encontrado realmente torna a igualdade verdadeira."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva a equação x + 5 = 12.",
+        "passos": [
+          "Precisamos descobrir qual número somado a 5 resulta em 12.",
+          "A operação inversa da adição é a subtração.",
+          "Então, fazemos 12 - 5 e encontramos 7."
+        ],
+        "resposta": "O valor de x é 7."
+      },
+      {
+        "enunciado": "Verifique a equação y - 3 = 9.",
+        "passos": [
+          "Queremos saber qual número, ao perder 3, resulta em 9.",
+          "A operação inversa da subtração é a adição.",
+          "Somando 9 e 3, obtemos 12."
+        ],
+        "resposta": "O valor de y é 12."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-01",
+        "enunciado": "Uma equação apresenta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma igualdade com valor desconhecido",
+          "apenas palavras sem números",
+          "somente figuras geométricas",
+          "uma lista de capitais"
+        ],
+        "respostaCorreta": "uma igualdade com valor desconhecido",
+        "explicacao": "A equação é uma sentença matemática com igualdade e incógnita.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-02",
+        "enunciado": "A letra em uma equação geralmente representa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um valor desconhecido",
+          "o nome do professor",
+          "a cor do caderno",
+          "um erro obrigatório"
+        ],
+        "respostaCorreta": "um valor desconhecido",
+        "explicacao": "A letra é a incógnita, isto é, o número que precisamos descobrir.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-03",
+        "enunciado": "Na equação x + 4 = 10, o valor de x é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "4",
+          "10",
+          "14"
+        ],
+        "respostaCorreta": "6",
+        "explicacao": "Para encontrar x, subtraímos 4 de 10. Assim, x = 6.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-04",
+        "enunciado": "Na equação y - 2 = 5, o valor de y é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7",
+          "3",
+          "5",
+          "10"
+        ],
+        "respostaCorreta": "7",
+        "explicacao": "Se y - 2 = 5, então y = 5 + 2, ou seja, y = 7.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-05",
+        "enunciado": "Resolver uma equação significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encontrar o valor que torna a igualdade verdadeira",
+          "apagar a letra da conta",
+          "trocar a igualdade por desigualdade",
+          "somente copiar os números"
+        ],
+        "respostaCorreta": "encontrar o valor que torna a igualdade verdadeira",
+        "explicacao": "O objetivo da resolução é descobrir a incógnita que mantém a igualdade correta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-ex-06",
+        "enunciado": "Qual afirmação está correta sobre equações?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas ajudam a organizar e resolver problemas matemáticos.",
+          "Elas servem apenas para decorar símbolos.",
+          "Elas nunca aparecem em situações reais.",
+          "Elas não usam igualdade."
+        ],
+        "respostaCorreta": "Elas ajudam a organizar e resolver problemas matemáticos.",
+        "explicacao": "As equações permitem representar e resolver muitas situações do cotidiano e da Matemática.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-sim-01",
+        "enunciado": "Se k + 8 = 15, qual é o valor de k?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "7",
+          "8",
+          "15",
+          "23"
+        ],
+        "respostaCorreta": "7",
+        "explicacao": "Basta calcular 15 - 8. O valor que torna a igualdade verdadeira é 7.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat7-equacoes-primeiro-grau-intro-sim-02",
+        "enunciado": "A principal ideia desse tema é compreender como encontrar valores desconhecidos por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "igualdades matemáticas",
+          "somente desenhos",
+          "nomes próprios",
+          "cores e formas"
+        ],
+        "respostaCorreta": "igualdades matemáticas",
+        "explicacao": "As equações usam igualdades para representar relações e descobrir valores desconhecidos.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "eti8-dialogo-mediacao-conflitos",
+    "titulo": "Diálogo e mediação de conflitos",
+    "disciplinaId": "eti8",
+    "turmaId": "8ano",
+    "unidade": "Convivência ética",
+    "resumo": [
+      "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade.",
+      "A mediação ajuda a construir soluções mais justas e respeitosas.",
+      "Estudar esse tema fortalece escuta, empatia e convivência democrática."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Conflito não é sinônimo de violência",
+        "texto": "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções.",
+        "dica": "Observe se o problema está sendo tratado com diálogo ou com imposição."
+      },
+      {
+        "subtitulo": "Mediação e construção de acordos",
+        "texto": "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados.",
+        "dica": "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine dois colegas que discordam sobre uma atividade em grupo.",
+        "passos": [
+          "Observe a origem do conflito.",
+          "Perceba como o diálogo pode ajudar a reorganizar a situação."
+        ],
+        "resposta": "Esse exemplo mostra que conflitos podem ser tratados de forma ética e construtiva."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti8-dialogo-mediacao-conflitos-ex-01","enunciado":"Um conflito pode ser enfrentado de modo ético por meio de:","tipo":"multipla_escolha","alternativas":["diálogo e busca de solução","agressividade imediata","desrespeito constante","eliminação da escuta"],"respostaCorreta":"diálogo e busca de solução","explicacao":"O tratamento ético dos conflitos depende de respeito, escuta e responsabilidade.","dificuldade":"facil"},
+      {"id":"eti8-dialogo-mediacao-conflitos-ex-02","enunciado":"A mediação de conflitos ajuda a:","tipo":"multipla_escolha","alternativas":["construir acordos mais justos","impor sempre a vontade de uma pessoa","evitar toda conversa entre os envolvidos","aumentar a tensão do problema"],"respostaCorreta":"construir acordos mais justos","explicacao":"A mediação favorece a compreensão das partes e a busca de soluções equilibradas.","dificuldade":"facil"},
+      {"id":"eti8-dialogo-mediacao-conflitos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Conflitos podem ser tratados com diálogo, escuta e responsabilidade.","Todo conflito deve terminar em agressão.","Dialogar enfraquece a convivência coletiva.","Escutar o outro não ajuda a resolver problemas."],"respostaCorreta":"Conflitos podem ser tratados com diálogo, escuta e responsabilidade.","explicacao":"A convivência ética pressupõe formas construtivas de enfrentar tensões e diferenças.","dificuldade":"medio"},
+      {"id":"eti8-dialogo-mediacao-conflitos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais empatia e equilíbrio em situações de conflito","reforçar posturas autoritárias","evitar qualquer convivência coletiva","pensar que conflitos sempre são negativos e insolúveis"],"respostaCorreta":"agir com mais empatia e equilíbrio em situações de conflito","explicacao":"O tema fortalece diálogo, convivência democrática e responsabilidade nas relações.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti8-dialogo-mediacao-conflitos-sim-01","enunciado":"A principal ideia desse tema é compreender que os conflitos:","tipo":"multipla_escolha","alternativas":["podem ser tratados com diálogo, mediação e respeito","devem ser resolvidos apenas pela força","não fazem parte da convivência humana","sempre impedem qualquer solução coletiva"],"respostaCorreta":"podem ser tratados com diálogo, mediação e respeito","explicacao":"A ética na convivência envolve enfrentar tensões de modo responsável e construtivo.","dificuldade":"medio"}
+    ]
+  }
+]

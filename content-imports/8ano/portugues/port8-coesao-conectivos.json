@@ -1,0 +1,45 @@
+[
+  {
+    "id": "port8-coesao-conectivos",
+    "titulo": "Coesão textual e conectivos",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A coesão textual ajuda a ligar ideias e partes do texto com clareza.",
+      "Os conectivos indicam relações como causa, oposição, conclusão e explicação.",
+      "Entender esses recursos melhora a leitura e a escrita de textos mais organizados."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ligação entre ideias",
+        "texto": "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos.",
+        "dica": "Observe como uma frase se conecta à anterior e prepara a seguinte."
+      },
+      {
+        "subtitulo": "Função dos conectivos",
+        "texto": "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor.",
+        "dica": "Pergunte que tipo de relação o conectivo está indicando no contexto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'",
+        "passos": [
+          "Observe que o conectivo 'portanto' aparece entre duas ideias.",
+          "Perceba que ele introduz uma conclusão."
+        ],
+        "resposta": "Nesse caso, o conectivo ajuda a construir a coesão e o sentido do período."
+      }
+    ],
+    "exercicios": [
+      {"id":"port8-coesao-conectivos-ex-01","enunciado":"A coesão textual tem a função de:","tipo":"multipla_escolha","alternativas":["ligar ideias e organizar o texto","eliminar completamente os parágrafos","substituir todos os verbos","dispensar o uso de sentido nas frases"],"respostaCorreta":"ligar ideias e organizar o texto","explicacao":"A coesão textual favorece a conexão entre partes do texto e melhora a compreensão.","dificuldade":"facil"},
+      {"id":"port8-coesao-conectivos-ex-02","enunciado":"Os conectivos servem para:","tipo":"multipla_escolha","alternativas":["indicar relações de sentido entre ideias","apenas aumentar o tamanho do texto","substituir todos os substantivos","eliminar a pontuação"],"respostaCorreta":"indicar relações de sentido entre ideias","explicacao":"Os conectivos mostram relações como causa, oposição, consequência e conclusão.","dificuldade":"facil"},
+      {"id":"port8-coesao-conectivos-ex-03","enunciado":"Qual alternativa apresenta um conectivo com valor de oposição?","tipo":"multipla_escolha","alternativas":["porém","portanto","porque","assim"],"respostaCorreta":"porém","explicacao":"'Porém' introduz uma ideia de contraste ou oposição entre duas informações.","dificuldade":"medio"},
+      {"id":"port8-coesao-conectivos-ex-04","enunciado":"Estudar coesão e conectivos ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["escrever textos mais claros e bem articulados","eliminar toda relação entre frases","dispensar a organização das ideias","trocar textos por listas sem sentido"],"respostaCorreta":"escrever textos mais claros e bem articulados","explicacao":"Esses recursos fortalecem a continuidade das ideias e a clareza da argumentação ou explicação.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port8-coesao-conectivos-sim-01","enunciado":"A ideia principal do estudo dos conectivos é compreender como eles:","tipo":"multipla_escolha","alternativas":["orientam as relações de sentido no texto","substituem o tema principal","eliminam a necessidade de parágrafos","servem apenas como enfeite"],"respostaCorreta":"orientam as relações de sentido no texto","explicacao":"Conectivos ajudam o leitor a acompanhar o raciocínio e a relação entre as partes do texto.","dificuldade":"medio"}
+    ]
+  }
+]

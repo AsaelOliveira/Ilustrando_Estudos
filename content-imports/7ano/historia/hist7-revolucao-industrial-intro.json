@@ -1,0 +1,169 @@
+[
+  {
+    "id": "hist7-revolucao-industrial-intro",
+    "titulo": "Revolução Industrial: introdução",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Transformações econômicas e sociais",
+    "resumo": [
+      "A Revolução Industrial foi um processo de grandes mudanças na produção.",
+      "Máquinas e novas formas de trabalho transformaram a economia e a sociedade.",
+      "A produção em larga escala alterou o cotidiano das cidades.",
+      "O trabalho fabril trouxe novas oportunidades e também muitos problemas sociais.",
+      "Esse tema ajuda a compreender mudanças profundas no mundo moderno."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudanças na produção",
+        "texto": "A Revolução Industrial marcou a passagem de formas mais artesanais de produção para formas mecanizadas e em maior escala. Esse processo alterou o modo de fabricar produtos e ampliou a circulação de mercadorias.",
+        "dica": "Pense na Revolução Industrial como uma grande transformação na maneira de produzir."
+      },
+      {
+        "subtitulo": "Máquinas e fábricas",
+        "texto": "O uso de máquinas e a expansão das fábricas mudaram o ritmo do trabalho e a organização econômica. A produção passou a ser concentrada em espaços industriais e a depender mais da técnica e da mecanização.",
+        "dica": "Máquinas e fábricas são elementos centrais para entender esse período."
+      },
+      {
+        "subtitulo": "Impactos sociais",
+        "texto": "A Revolução Industrial também provocou mudanças sociais importantes, como crescimento urbano, novas relações de trabalho e problemas ligados às condições dos trabalhadores. Por isso, esse processo deve ser entendido em suas várias dimensões.",
+        "dica": "Não observe apenas a tecnologia; considere também os efeitos na vida das pessoas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique por que a Revolução Industrial alterou a vida urbana.",
+        "passos": [
+          "A expansão das fábricas atraiu trabalhadores para as cidades.",
+          "O crescimento industrial aumentou a circulação de pessoas e mercadorias.",
+          "Isso modificou o espaço urbano e o cotidiano."
+        ],
+        "resposta": "A Revolução Industrial transformou as cidades ao ampliar fábricas, trabalho urbano e circulação econômica."
+      },
+      {
+        "enunciado": "Relacione máquinas e produção em larga escala.",
+        "passos": [
+          "As máquinas aceleraram o processo produtivo.",
+          "Com isso, tornou-se possível fabricar mais produtos em menos tempo.",
+          "Essa mudança favoreceu a produção em larga escala."
+        ],
+        "resposta": "O uso de máquinas ajudou a ampliar e acelerar a produção de mercadorias."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-01",
+        "enunciado": "A Revolução Industrial foi um processo de transformação principalmente ligado à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produção econômica",
+          "classificação de plantas",
+          "pontuação dos textos",
+          "formação dos oceanos"
+        ],
+        "respostaCorreta": "produção econômica",
+        "explicacao": "O tema trata da mudança nas formas de produzir mercadorias e organizar o trabalho.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-02",
+        "enunciado": "Um elemento importante da Revolução Industrial foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o uso crescente de máquinas",
+          "o desaparecimento total das cidades",
+          "o fim de toda atividade comercial",
+          "a eliminação dos transportes"
+        ],
+        "respostaCorreta": "o uso crescente de máquinas",
+        "explicacao": "As máquinas tiveram papel importante na transformação da produção industrial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-03",
+        "enunciado": "As fábricas passaram a ter maior destaque porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "concentravam a produção mecanizada",
+          "substituíam completamente qualquer forma de trabalho",
+          "impediam o crescimento urbano",
+          "eliminavam todos os conflitos sociais"
+        ],
+        "respostaCorreta": "concentravam a produção mecanizada",
+        "explicacao": "As fábricas organizaram a produção em grande escala com uso de máquinas e trabalhadores.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-04",
+        "enunciado": "Uma consequência social da Revolução Industrial foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o crescimento das cidades",
+          "o fim de toda desigualdade",
+          "a ausência de mudanças no trabalho",
+          "a paralisação da economia"
+        ],
+        "respostaCorreta": "o crescimento das cidades",
+        "explicacao": "A industrialização impulsionou o crescimento urbano e alterou o cotidiano social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-05",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Revolução Industrial trouxe avanços técnicos e também problemas sociais.",
+          "A Revolução Industrial não alterou o trabalho.",
+          "As máquinas foram irrelevantes nesse processo.",
+          "A industrialização não teve impacto urbano."
+        ],
+        "respostaCorreta": "A Revolução Industrial trouxe avanços técnicos e também problemas sociais.",
+        "explicacao": "Esse processo combinou inovação na produção com mudanças e desafios para a sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-ex-06",
+        "enunciado": "Estudar a Revolução Industrial ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças econômicas, urbanas e sociais do mundo moderno",
+          "somente regras ortográficas",
+          "apenas elementos do relevo",
+          "unicamente tipos de polígonos"
+        ],
+        "respostaCorreta": "mudanças econômicas, urbanas e sociais do mundo moderno",
+        "explicacao": "O tema está ligado a profundas transformações na produção, no trabalho e na vida urbana.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist7-revolucao-industrial-intro-sim-01",
+        "enunciado": "Ao relacionar fábricas, máquinas e crescimento urbano, o aluno está analisando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a Revolução Industrial",
+          "a formação dos rios",
+          "a classificação dos verbos",
+          "a cartografia temática"
+        ],
+        "respostaCorreta": "a Revolução Industrial",
+        "explicacao": "Esses elementos são fundamentais para compreender o processo de industrialização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist7-revolucao-industrial-intro-sim-02",
+        "enunciado": "A principal compreensão desse tema é que a Revolução Industrial:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformou a produção e provocou mudanças profundas na sociedade",
+          "foi apenas uma mudança de nomes de cidades",
+          "não teve relação com o trabalho",
+          "aconteceu sem uso de tecnologia"
+        ],
+        "respostaCorreta": "transformou a produção e provocou mudanças profundas na sociedade",
+        "explicacao": "O processo industrial alterou a economia, o trabalho, as cidades e a vida social.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

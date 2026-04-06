@@ -1,0 +1,45 @@
+[
+  {
+    "id": "eti8-responsabilidade-digital-convivencia",
+    "titulo": "Responsabilidade digital e convivência",
+    "disciplinaId": "eti8",
+    "turmaId": "8ano",
+    "unidade": "Ética e sociedade",
+    "resumo": [
+      "A convivência ética também se aplica aos espaços digitais.",
+      "Responsabilidade digital envolve respeito, cuidado com informações e uso consciente da tecnologia.",
+      "Estudar esse tema ajuda a prevenir conflitos e atitudes prejudiciais na internet."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Postura ética no ambiente digital",
+        "texto": "As interações em redes sociais, mensagens e outras plataformas exigem responsabilidade semelhante à da convivência presencial. O respeito ao outro e o cuidado com o que se publica são fundamentais nesse contexto.",
+        "dica": "Antes de compartilhar algo, pergunte se a informação é verdadeira e se a publicação respeita outras pessoas."
+      },
+      {
+        "subtitulo": "Informação e segurança",
+        "texto": "O uso ético da tecnologia também envolve proteger dados pessoais, evitar exposição desnecessária e agir com cuidado diante de conteúdos duvidosos ou agressivos. Esse aprendizado fortalece cidadania digital.",
+        "dica": "Valorize privacidade, verificação de informações e respeito nas trocas online."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine alguém que recebe uma mensagem ofensiva em um grupo virtual.",
+        "passos": [
+          "Observe que o ambiente digital também exige respeito.",
+          "Perceba que agir com responsabilidade pode evitar mais danos."
+        ],
+        "resposta": "Esse exemplo mostra como a ética também precisa orientar o comportamento na internet."
+      }
+    ],
+    "exercicios": [
+      {"id":"eti8-responsabilidade-digital-convivencia-ex-01","enunciado":"Responsabilidade digital envolve:","tipo":"multipla_escolha","alternativas":["respeito e cuidado no uso da tecnologia","compartilhar tudo sem pensar","ignorar a privacidade das pessoas","achar que a internet não tem consequências"],"respostaCorreta":"respeito e cuidado no uso da tecnologia","explicacao":"O uso responsável da tecnologia exige ética, atenção à informação e respeito aos outros.","dificuldade":"facil"},
+      {"id":"eti8-responsabilidade-digital-convivencia-ex-02","enunciado":"Uma atitude adequada no ambiente digital é:","tipo":"multipla_escolha","alternativas":["verificar informações antes de compartilhar","espalhar boatos rapidamente","publicar dados pessoais de outras pessoas","responder com agressividade a toda discordância"],"respostaCorreta":"verificar informações antes de compartilhar","explicacao":"Checar a veracidade das informações é parte importante da responsabilidade digital.","dificuldade":"facil"},
+      {"id":"eti8-responsabilidade-digital-convivencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A convivência ética deve existir também nos ambientes virtuais.","Na internet, o respeito deixa de ser necessário.","O ambiente digital não traz impactos para a vida real.","Privacidade não é importante no uso da tecnologia."],"respostaCorreta":"A convivência ética deve existir também nos ambientes virtuais.","explicacao":"As relações digitais também envolvem responsabilidade, respeito e consequências concretas.","dificuldade":"medio"},
+      {"id":"eti8-responsabilidade-digital-convivencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais consciência e segurança na internet","ignorar riscos e responsabilidades online","pensar que a vida digital não exige ética","substituir diálogo por impulsividade"],"respostaCorreta":"agir com mais consciência e segurança na internet","explicacao":"O conteúdo fortalece cidadania digital, respeito e cuidado com informações e relações. ","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"eti8-responsabilidade-digital-convivencia-sim-01","enunciado":"A principal ideia da responsabilidade digital é compreender que:","tipo":"multipla_escolha","alternativas":["a ética também deve orientar o comportamento online","a internet dispensa cuidado e respeito","tudo pode ser compartilhado sem consequências","privacidade não interfere na convivência"],"respostaCorreta":"a ética também deve orientar o comportamento online","explicacao":"A convivência digital exige respeito, verificação de informações e responsabilidade com o outro.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port7-generos-opiniao",
+    "titulo": "Gêneros de opinião",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Leitura e produção",
+    "resumo": [
+      "Gêneros de opinião apresentam posicionamentos sobre temas diversos.",
+      "Esses textos combinam ponto de vista, argumentos e estratégias de convencimento.",
+      "Estudar esse tema ajuda a desenvolver leitura crítica e produção argumentativa."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que caracteriza um texto de opinião",
+        "texto": "Textos de opinião apresentam uma posição sobre determinado assunto e procuram justificá-la. Para isso, usam argumentos, exemplos, explicações e escolhas linguísticas que orientam a leitura do interlocutor.",
+        "dica": "Ao ler esse tipo de texto, identifique o tema, a opinião defendida e os argumentos usados."
+      },
+      {
+        "subtitulo": "Leitura crítica desses gêneros",
+        "texto": "Ler gêneros de opinião exige perceber intencionalidade, perspectiva do autor e recursos de argumentação. Esse exercício fortalece a capacidade de analisar ideias e de produzir textos mais consistentes.",
+        "dica": "Pergunte sempre se os argumentos apresentados realmente sustentam a opinião do autor."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um pequeno texto em que o autor defende mudanças no uso de espaços públicos da cidade.",
+        "passos": [
+          "Identifique a opinião central do texto.",
+          "Observe um argumento usado para defendê-la.",
+          "Relacione isso às características dos gêneros de opinião."
+        ],
+        "resposta": "Esse exemplo mostra como um texto de opinião combina posicionamento e justificativa."
+      }
+    ],
+    "exercicios": [
+      {"id":"port7-generos-opiniao-ex-01","enunciado":"Um gênero de opinião costuma apresentar:","tipo":"multipla_escolha","alternativas":["ponto de vista e argumentos","somente descrição sem ideia central","listas de palavras sem relação","apenas narração de fatos sem posição"],"respostaCorreta":"ponto de vista e argumentos","explicacao":"Esses textos procuram defender uma posição com justificativas e recursos argumentativos.","dificuldade":"facil"},
+      {"id":"port7-generos-opiniao-ex-02","enunciado":"Ao ler um texto de opinião, é importante identificar:","tipo":"multipla_escolha","alternativas":["a opinião e os argumentos do autor","somente o tamanho do texto","apenas as palavras difíceis","o número de linhas do parágrafo"],"respostaCorreta":"a opinião e os argumentos do autor","explicacao":"Esses elementos ajudam a compreender a intenção e a organização do gênero. ","dificuldade":"facil"},
+      {"id":"port7-generos-opiniao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Gêneros de opinião ajudam a desenvolver leitura crítica e argumentação.","Textos de opinião não têm intenção comunicativa.","Opinião e argumento não se relacionam nesses gêneros.","Esse tipo de texto dispensa análise do leitor."],"respostaCorreta":"Gêneros de opinião ajudam a desenvolver leitura crítica e argumentação.","explicacao":"Esses textos estimulam interpretação, análise e produção de posicionamentos com justificativa.","dificuldade":"medio"},
+      {"id":"port7-generos-opiniao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender e produzir melhor textos argumentativos","ignorar a intenção dos textos","separar opinião e leitura crítica","ler sem observar justificativas"],"respostaCorreta":"compreender e produzir melhor textos argumentativos","explicacao":"O tema fortalece a leitura analítica e a construção de pontos de vista bem sustentados.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port7-generos-opiniao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["gêneros de opinião articulam ponto de vista e argumentação","todo texto de opinião apresenta apenas fatos neutros","opinião não pode ser justificada em texto","esses gêneros não exigem leitura crítica"],"respostaCorreta":"gêneros de opinião articulam ponto de vista e argumentação","explicacao":"O conteúdo mostra como esses gêneros se organizam e por que são importantes para leitura e escrita.","dificuldade":"medio"}
+    ]
+  }
+]

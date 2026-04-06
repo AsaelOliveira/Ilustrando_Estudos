@@ -1,0 +1,169 @@
+[
+  {
+    "id": "geo7-agropecuaria-campo-modernizacao",
+    "titulo": "Agropecuária, campo e modernização",
+    "disciplinaId": "geo7",
+    "turmaId": "7ano",
+    "unidade": "Espaço rural",
+    "resumo": [
+      "A agropecuária reúne atividades agrícolas e pecuárias.",
+      "O espaço rural está ligado à produção de alimentos e matérias-primas.",
+      "A modernização do campo trouxe novas técnicas e equipamentos.",
+      "Essas mudanças influenciam o trabalho, a paisagem e a economia.",
+      "O tema ajuda a compreender transformações do espaço rural."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é agropecuária",
+        "texto": "Agropecuária é o conjunto das atividades de agricultura e pecuária. Essas práticas são importantes para o abastecimento alimentar e para diferentes setores da economia.",
+        "dica": "Agricultura e pecuária formam um conjunto importante no espaço rural."
+      },
+      {
+        "subtitulo": "Espaço rural e produção",
+        "texto": "O espaço rural é marcado por atividades produtivas ligadas ao cultivo da terra, à criação de animais e ao uso de recursos naturais. Ele se relaciona diretamente com a cidade por meio do abastecimento e da circulação de mercadorias.",
+        "dica": "Campo e cidade se conectam por trocas econômicas e sociais."
+      },
+      {
+        "subtitulo": "Modernização do campo",
+        "texto": "A modernização do campo envolve o uso de máquinas, técnicas, insumos e novas formas de organização da produção. Essas mudanças podem aumentar a produtividade, mas também transformam o trabalho e a paisagem rural.",
+        "dica": "Nem toda modernização afeta apenas a produção; ela também altera relações sociais e o espaço."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Explique como o uso de máquinas pode modificar o espaço rural.",
+        "passos": [
+          "As máquinas alteram a forma de realizar o trabalho.",
+          "Elas podem aumentar a produtividade e mudar a paisagem.",
+          "Isso faz parte da modernização do campo."
+        ],
+        "resposta": "O uso de máquinas modifica o espaço rural ao transformar o trabalho e a organização da produção."
+      },
+      {
+        "enunciado": "Relacione agropecuária e abastecimento das cidades.",
+        "passos": [
+          "A agropecuária produz alimentos e matérias-primas.",
+          "Esses produtos circulam até os centros urbanos.",
+          "Por isso, campo e cidade mantêm relação de interdependência."
+        ],
+        "resposta": "A agropecuária contribui para o abastecimento urbano, mostrando a conexão entre campo e cidade."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-01",
+        "enunciado": "A agropecuária reúne atividades de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agricultura e pecuária",
+          "cartografia e climatologia",
+          "indústria e mineração apenas",
+          "transporte e comunicação apenas"
+        ],
+        "respostaCorreta": "agricultura e pecuária",
+        "explicacao": "Agropecuária é o conjunto das atividades agrícolas e pecuárias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-02",
+        "enunciado": "O espaço rural se relaciona com as cidades porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "contribui para o abastecimento e a circulação de mercadorias",
+          "existe sem nenhuma troca com o espaço urbano",
+          "elimina a necessidade de comércio",
+          "não participa da economia"
+        ],
+        "respostaCorreta": "contribui para o abastecimento e a circulação de mercadorias",
+        "explicacao": "Campo e cidade mantêm relação importante por meio da produção e da circulação de produtos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-03",
+        "enunciado": "A modernização do campo envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uso de máquinas e novas técnicas de produção",
+          "abandono completo da produção rural",
+          "eliminação de toda atividade agrícola",
+          "fim da circulação de alimentos"
+        ],
+        "respostaCorreta": "uso de máquinas e novas técnicas de produção",
+        "explicacao": "A modernização do campo está ligada a mudanças técnicas e organizacionais na produção.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-04",
+        "enunciado": "Uma consequência da modernização do campo pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudança no trabalho e na paisagem rural",
+          "desaparecimento total da produção",
+          "fim da relação entre campo e cidade",
+          "eliminação do uso do solo"
+        ],
+        "respostaCorreta": "mudança no trabalho e na paisagem rural",
+        "explicacao": "Novas técnicas e máquinas alteram a produção, o trabalho e o espaço rural.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-05",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O espaço rural é importante para a produção de alimentos e matérias-primas.",
+          "O campo não participa da economia.",
+          "A pecuária não faz parte da agropecuária.",
+          "A modernização do campo não altera a paisagem."
+        ],
+        "respostaCorreta": "O espaço rural é importante para a produção de alimentos e matérias-primas.",
+        "explicacao": "O espaço rural tem papel fundamental no abastecimento e na produção econômica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-ex-06",
+        "enunciado": "A principal ideia desse tema é compreender que o campo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "passa por transformações ligadas à produção e à modernização",
+          "permanece sempre igual, sem mudanças",
+          "não tem relação com a sociedade urbana",
+          "serve apenas para paisagens naturais sem uso humano"
+        ],
+        "respostaCorreta": "passa por transformações ligadas à produção e à modernização",
+        "explicacao": "O tema destaca as mudanças econômicas, técnicas e espaciais do ambiente rural.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-sim-01",
+        "enunciado": "Ao estudar produção agrícola, criação de animais e uso de máquinas no campo, o aluno analisa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agropecuária e modernização do espaço rural",
+          "somente análise sintática",
+          "apenas equações do 1º grau",
+          "unicamente relevo submarino"
+        ],
+        "respostaCorreta": "agropecuária e modernização do espaço rural",
+        "explicacao": "Esses elementos fazem parte da organização produtiva e das transformações do campo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo7-agropecuaria-campo-modernizacao-sim-02",
+        "enunciado": "A principal compreensão desse tema é que o espaço rural:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se transforma com técnicas, produção e relações com a cidade",
+          "não participa do abastecimento das populações",
+          "permanece isolado de qualquer atividade econômica",
+          "não sofre influência da tecnologia"
+        ],
+        "respostaCorreta": "se transforma com técnicas, produção e relações com a cidade",
+        "explicacao": "O campo está em constante transformação e se conecta ao espaço urbano por diferentes relações econômicas e sociais.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

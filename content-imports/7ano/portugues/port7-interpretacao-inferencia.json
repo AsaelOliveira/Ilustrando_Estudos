@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port7-interpretacao-inferencia",
+    "titulo": "Interpretação e inferência",
+    "disciplinaId": "port7",
+    "turmaId": "7ano",
+    "unidade": "Leitura",
+    "resumo": [
+      "Inferir é compreender informações que não estão ditas de forma direta.",
+      "A interpretação depende da relação entre texto, contexto e pistas linguísticas.",
+      "Estudar esse tema fortalece a leitura crítica e a autonomia do leitor."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é inferência",
+        "texto": "Fazer inferências significa concluir algo a partir de pistas presentes no texto. O leitor observa palavras, ações, tom e contexto para compreender sentidos implícitos e ampliar a interpretação.",
+        "dica": "Procure sinais no texto que ajudem a entender o que não foi dito de modo explícito."
+      },
+      {
+        "subtitulo": "Leitura atenta e contexto",
+        "texto": "A interpretação textual exige atenção ao assunto, ao gênero, ao vocabulário e à situação comunicativa. Quando o leitor relaciona essas informações, compreende melhor a intenção do texto e seus sentidos possíveis.",
+        "dica": "Leia o texto como um todo antes de focar em uma frase isolada."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia uma cena em que uma personagem fecha a janela, pega um casaco e sai rapidamente.",
+        "passos": [
+          "Observe as ações descritas.",
+          "Perceba o que elas sugerem sobre a situação.",
+          "Relacione essas pistas a uma conclusão possível."
+        ],
+        "resposta": "Esse exemplo mostra que o leitor pode inferir informações a partir de indícios do texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"port7-interpretacao-inferencia-ex-01","enunciado":"Inferir em um texto significa:","tipo":"multipla_escolha","alternativas":["compreender informações implícitas","copiar frases do texto","contar letras de uma palavra","ignorar o contexto"],"respostaCorreta":"compreender informações implícitas","explicacao":"Inferir é perceber sentidos sugeridos pelo texto, mesmo sem afirmação direta.","dificuldade":"facil"},
+      {"id":"port7-interpretacao-inferencia-ex-02","enunciado":"Uma boa inferência depende de:","tipo":"multipla_escolha","alternativas":["pistas presentes no texto","adivinhação sem leitura","troca de assunto","apenas opinião pessoal"],"respostaCorreta":"pistas presentes no texto","explicacao":"O leitor precisa observar indícios textuais para construir inferências coerentes.","dificuldade":"facil"},
+      {"id":"port7-interpretacao-inferencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Interpretar um texto envolve observar elementos explícitos e implícitos.","Ler bem significa considerar apenas palavras isoladas.","Inferência não faz parte da leitura.","O contexto não interfere na interpretação."],"respostaCorreta":"Interpretar um texto envolve observar elementos explícitos e implícitos.","explicacao":"A compreensão textual depende do que está dito e também do que é sugerido pelo texto.","dificuldade":"medio"},
+      {"id":"port7-interpretacao-inferencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler com mais atenção e autonomia","responder sem analisar o texto","ignorar pistas linguísticas","separar leitura e contexto"],"respostaCorreta":"ler com mais atenção e autonomia","explicacao":"A prática de inferência fortalece a compreensão e a leitura crítica.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port7-interpretacao-inferencia-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["o leitor pode construir sentidos a partir de pistas do texto","ler é apenas decodificar palavras","inferência dispensa contexto","todo sentido está sempre escrito de forma direta"],"respostaCorreta":"o leitor pode construir sentidos a partir de pistas do texto","explicacao":"A leitura inferencial amplia a compreensão e torna o leitor mais ativo diante do texto.","dificuldade":"medio"}
+    ]
+  }
+]

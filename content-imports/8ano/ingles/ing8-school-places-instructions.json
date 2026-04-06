@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ing8-school-places-instructions",
+    "titulo": "School places and simple instructions",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about school places helps students describe spaces from everyday life in English.",
+      "Simple instructions support communication in routines and classroom situations.",
+      "This topic makes language use more practical and contextualized."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Vocabulary for school spaces",
+        "texto": "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication.",
+        "dica": "Connect the words to the real places you know in your school."
+      },
+      {
+        "subtitulo": "Simple instructions",
+        "texto": "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction.",
+        "dica": "Practice short instructions together with place vocabulary."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'Go to the library and wait near the door.'",
+        "passos": [
+          "Identify the place mentioned in the sentence.",
+          "Observe the simple instruction being given."
+        ],
+        "resposta": "This is an example of practical communication using place vocabulary and instructions."
+      }
+    ],
+    "exercicios": [
+      {"id":"ing8-school-places-instructions-ex-01","enunciado":"Place vocabulary helps students:","tipo":"multipla_escolha","alternativas":["talk about familiar spaces in English","avoid all classroom communication","replace language with gestures only","ignore everyday contexts"],"respostaCorreta":"talk about familiar spaces in English","explicacao":"Knowing place vocabulary supports simple and useful communication about everyday environments.","dificuldade":"facil"},
+      {"id":"ing8-school-places-instructions-ex-02","enunciado":"Simple instructions are important because they:","tipo":"multipla_escolha","alternativas":["help students understand and act in routine situations","eliminate the need for communication","replace all vocabulary learning","make interaction impossible"],"respostaCorreta":"help students understand and act in routine situations","explicacao":"Instructions are part of practical communication in school and daily life.","dificuldade":"facil"},
+      {"id":"ing8-school-places-instructions-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Place words and simple instructions make communication more practical.","This topic has no relation to everyday life.","Students cannot understand simple directions in English.","School vocabulary is not useful in real situations."],"respostaCorreta":"Place words and simple instructions make communication more practical.","explicacao":"This content connects language learning to real and familiar contexts.","dificuldade":"medio"},
+      {"id":"ing8-school-places-instructions-ex-04","enunciado":"Studying this topic helps the student:","tipo":"multipla_escolha","alternativas":["use English in routine spaces and actions with more confidence","avoid all communication in school contexts","ignore place vocabulary","replace interaction with memorization only"],"respostaCorreta":"use English in routine spaces and actions with more confidence","explicacao":"The topic supports functional language use in familiar environments.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"ing8-school-places-instructions-sim-01","enunciado":"The main idea of this topic is that students can:","tipo":"multipla_escolha","alternativas":["communicate more clearly about places and simple actions in English","stop using complete sentences","avoid school-related vocabulary","replace all instructions with silence"],"respostaCorreta":"communicate more clearly about places and simple actions in English","explicacao":"This content helps students use English in practical, familiar situations. ","dificuldade":"medio"}
+    ]
+  }
+]

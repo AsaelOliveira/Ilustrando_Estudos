@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hist7-colonizacao-economias-coloniais",
+    "titulo": "Colonização e economias coloniais",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "História moderna",
+    "resumo": [
+      "A colonização envolveu ocupação territorial, exploração econômica e relações de poder.",
+      "As economias coloniais foram organizadas segundo interesses das metrópoles europeias.",
+      "Estudar esse tema ajuda a compreender desigualdades e heranças históricas do período."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Colonização e controle",
+        "texto": "A colonização foi marcada pela ocupação de territórios, imposição de sistemas políticos e uso do trabalho para atender interesses econômicos da metrópole. Esse processo afetou profundamente populações indígenas, africanas e colonos.",
+        "dica": "Observe quem se beneficiava economicamente do sistema colonial e quais grupos eram explorados."
+      },
+      {
+        "subtitulo": "Economia voltada para a exportação",
+        "texto": "Em muitos territórios coloniais, a produção se organizou em função do mercado externo. Produtos agrícolas e minerais foram explorados em larga escala, articulando trabalho forçado, concentração de terras e dependência econômica.",
+        "dica": "Relacione a organização econômica colonial às estruturas de poder e desigualdade formadas nesse período."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma colônia em que a produção agrícola é controlada por grandes proprietários e voltada para exportação.",
+        "passos": [
+          "Observe a finalidade da produção.",
+          "Identifique quem controla a terra e o trabalho.",
+          "Relacione a situação às características das economias coloniais."
+        ],
+        "resposta": "Esse exemplo ajuda a perceber como a colonização organizou a economia segundo interesses externos."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist7-colonizacao-economias-coloniais-ex-01","enunciado":"A colonização esteve ligada a:","tipo":"multipla_escolha","alternativas":["ocupação territorial e exploração econômica","apenas trocas culturais equilibradas","ausência de controle político","igualdade entre todos os grupos sociais"],"respostaCorreta":"ocupação territorial e exploração econômica","explicacao":"O processo colonial combinou domínio político, apropriação de terras e exploração de recursos.","dificuldade":"facil"},
+      {"id":"hist7-colonizacao-economias-coloniais-ex-02","enunciado":"As economias coloniais eram, em muitos casos, organizadas para:","tipo":"multipla_escolha","alternativas":["atender interesses da metrópole e do mercado externo","beneficiar igualmente toda a população local","eliminar desigualdades sociais","produzir apenas para consumo interno"],"respostaCorreta":"atender interesses da metrópole e do mercado externo","explicacao":"A produção colonial frequentemente se destinava à exportação e ao lucro metropolitano.","dificuldade":"facil"},
+      {"id":"hist7-colonizacao-economias-coloniais-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A colonização deixou marcas sociais e econômicas importantes na história.","A economia colonial não gerou nenhuma desigualdade.","Território e trabalho não tinham relação com o colonialismo.","O sistema colonial não favorecia as metrópoles."],"respostaCorreta":"A colonização deixou marcas sociais e econômicas importantes na história.","explicacao":"O período colonial influenciou estruturas de poder, trabalho e desigualdade que tiveram longa duração.","dificuldade":"medio"},
+      {"id":"hist7-colonizacao-economias-coloniais-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender relações entre economia, poder e colonização","ignorar os efeitos históricos da exploração colonial","separar totalmente passado e presente","considerar a colonização um processo sem conflitos"],"respostaCorreta":"compreender relações entre economia, poder e colonização","explicacao":"O tema amplia a compreensão das bases econômicas e sociais do sistema colonial.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist7-colonizacao-economias-coloniais-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a colonização organizou economias e sociedades segundo interesses de poder e exploração","o colonialismo não interferiu na vida social e econômica dos territórios","as colônias existiam sem relação com as metrópoles","a economia colonial se baseava na igualdade entre grupos"],"respostaCorreta":"a colonização organizou economias e sociedades segundo interesses de poder e exploração","explicacao":"O conteúdo mostra como colonização e economia colonial estavam ligadas a controle, trabalho e desigualdade.","dificuldade":"medio"}
+    ]
+  }
+]

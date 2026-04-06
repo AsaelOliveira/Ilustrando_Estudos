@@ -1,0 +1,46 @@
+[
+  {
+    "id": "port8-texto-dissertativo-intro",
+    "titulo": "Introdução ao texto dissertativo",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "O texto dissertativo apresenta ideias, explicações e pontos de vista sobre um tema.",
+      "Esse tipo de texto valoriza clareza, organização e argumentação.",
+      "Compreender sua estrutura ajuda na leitura crítica e na escrita escolar."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Apresentação de ideias",
+        "texto": "No texto dissertativo, o autor desenvolve um tema por meio de explicações, análises e argumentos. A intenção principal é expor ou defender uma ideia com organização e coerência.",
+        "dica": "Observe como o texto apresenta um tema e desenvolve raciocínios sobre ele."
+      },
+      {
+        "subtitulo": "Estrutura e clareza",
+        "texto": "Esse gênero costuma organizar as ideias em introdução, desenvolvimento e conclusão. Essa divisão ajuda o leitor a acompanhar o raciocínio e compreender melhor a mensagem.",
+        "dica": "Pergunte qual é a ideia principal e como ela é desenvolvida ao longo do texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que discute a importância da leitura na escola.",
+        "passos": [
+          "Identifique o tema central.",
+          "Observe os argumentos ou explicações usados para desenvolver a ideia.",
+          "Perceba se o texto apresenta uma conclusão coerente."
+        ],
+        "resposta": "Esse é um exemplo de organização típica do texto dissertativo."
+      }
+    ],
+    "exercicios": [
+      {"id":"port8-texto-dissertativo-intro-ex-01","enunciado":"O texto dissertativo se caracteriza por:","tipo":"multipla_escolha","alternativas":["apresentar ideias e explicações sobre um tema","narrar somente aventuras imaginárias","listar palavras sem relação entre si","mostrar apenas diálogos curtos"],"respostaCorreta":"apresentar ideias e explicações sobre um tema","explicacao":"A dissertação organiza reflexões, explicações e, muitas vezes, argumentos sobre um assunto.","dificuldade":"facil"},
+      {"id":"port8-texto-dissertativo-intro-ex-02","enunciado":"Uma qualidade importante no texto dissertativo é a:","tipo":"multipla_escolha","alternativas":["clareza na organização das ideias","ausência completa de tema","falta de coerência","troca aleatória de assuntos"],"respostaCorreta":"clareza na organização das ideias","explicacao":"A estrutura clara ajuda o leitor a compreender o raciocínio apresentado no texto.","dificuldade":"facil"},
+      {"id":"port8-texto-dissertativo-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O texto dissertativo pode expor e desenvolver um ponto de vista.","O texto dissertativo não apresenta ideias centrais.","Esse gênero dispensa qualquer organização lógica.","A dissertação nunca trata de temas do cotidiano."],"respostaCorreta":"O texto dissertativo pode expor e desenvolver um ponto de vista.","explicacao":"A dissertação pode explicar um tema ou defender uma posição, sempre com organização e coerência.","dificuldade":"medio"},
+      {"id":"port8-texto-dissertativo-intro-ex-04","enunciado":"Estudar o texto dissertativo ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler e escrever com mais criticidade e organização","evitar toda forma de argumentação","substituir textos por listas soltas","eliminar a necessidade de conclusão"],"respostaCorreta":"ler e escrever com mais criticidade e organização","explicacao":"Esse gênero fortalece a capacidade de organizar ideias e refletir sobre temas relevantes.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"port8-texto-dissertativo-intro-sim-01","enunciado":"A principal função do texto dissertativo é:","tipo":"multipla_escolha","alternativas":["desenvolver ideias com clareza sobre um tema","apenas contar fatos fictícios","substituir argumentos por imagens","eliminar qualquer conclusão"],"respostaCorreta":"desenvolver ideias com clareza sobre um tema","explicacao":"Esse gênero organiza explicações e argumentos em torno de um assunto central.","dificuldade":"medio"}
+    ]
+  }
+]

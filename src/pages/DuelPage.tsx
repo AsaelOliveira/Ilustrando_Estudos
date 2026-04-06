@@ -1,8 +1,7 @@
-import { useState, useEffect, useRef, useCallback, useMemo } from "react";
+﻿import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { useSearchParams } from "react-router-dom";
 import {
-  PencilLine,
+  Sword,
   Clock,
   Trophy,
   Plus,
@@ -33,16 +32,20 @@ import {
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Confetti from "@/components/Confetti";
-import SimpleProfileAvatar from "@/components/SimpleProfileAvatar";
 import { useAuth } from "@/hooks/useAuth";
-import { useStudyContent } from "@/hooks/useStudyContent";
 import { supabase } from "@/integrations/supabase/client";
 import { turmas, disciplinas } from "@/data/catalog";
-import type { Questao, Tema } from "@/data/content-types";
+import type { Questao } from "@/data/content-types";
 import { toast } from "@/hooks/use-toast";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
-import { DUEL_STATUS_EVENT, getDuelStatusMeta, getStoredDuelStatus, type DuelPresenceStatus } from "@/lib/duel-status";
-import { pickRandomItem, pickRandomItems } from "@/lib/random";
+import {
+  getQuestionsByIds as fetchQuestionsByIds,
+  getQuestionsForMission,
+  getReplacementQuestion as fetchReplacementQuestion,
+  listAllThemeSummaries,
+  type ContentQuestion,
+  type ThemeSummary,
+} from "@/lib/content-store";
 
 // ============================================================
 // Tipos
@@ -60,7 +63,6 @@ type Duel = {
   status: DuelStatus;
   challenger_display_name: string;
   challenger_display_turma: string | null;
-  challenger_avatar_url?: string | null;
   question_ids: string[];
   turma_id: string;
   discipline_id: string | null;
@@ -99,7 +101,6 @@ type DuelConfig = {
   targetType: "publico" | "privado";
   targetUserId: string | null;
   targetUserName: string | null;
-  targetUserAvatar: string | null;
 };
 
 type RankingEntry = {
@@ -108,18 +109,6 @@ type RankingEntry = {
   turma_id: string;
   points: number;
   avatar_url: string | null;
-};
-
-type DuelTarget = {
-  user_id: string;
-  nome: string;
-  turma_id: string | null;
-  avatar_url?: string | null;
-};
-
-type OnlineDuelUser = DuelTarget & {
-  isOnline: boolean;
-  duelStatus: DuelPresenceStatus;
 };
 
 // ============================================================
@@ -133,67 +122,10 @@ const TIME_OPTIONS = [
   { value: 180, label: "3 minutos" },
   { value: 300, label: "5 minutos" },
 ];
-const QUESTION_LEVELS = [
-  { id: "easy", label: "Fácil", defaultCount: 3, interclassCount: 5 },
-  { id: "medium", label: "Médio", defaultCount: 5, interclassCount: 10 },
-  { id: "hard", label: "Difícil", defaultCount: 7, interclassCount: 15 },
-] as const;
+const QUESTION_OPTIONS = [3, 5, 7];
 // ============================================================
 // Utilidades
 // ============================================================
-
-function getQuestionsByIds(temas: Tema[], ids: string[]): Questao[] {
-  const all = temas.flatMap((t) => [...t.exercicios, ...t.simulado]);
-  const map = new Map(all.map(q => [q.id, q]));
-  return ids.map(id => map.get(id)).filter(Boolean) as Questao[];
-}
-
-function selectQuestions(cfg: {
-  temas: Tema[];
-  turmaId: string;
-  disciplineId: string | null;
-  interclass: boolean;
-  num: number;
-}): Questao[] {
-  let filtered = cfg.temas;
-  if (!cfg.interclass) filtered = filtered.filter(t => t.turmaId === cfg.turmaId);
-  if (cfg.disciplineId) filtered = filtered.filter(t => t.disciplinaId === cfg.disciplineId);
-  const pool = filtered.flatMap(t => [...t.exercicios, ...t.simulado]);
-  return pickRandomItems(pool, cfg.num);
-}
-
-/** Busca uma questão substituta do mesmo tema/disciplina, evitando IDs já usados */
-function getReplacementQuestion(temas: Tema[], currentQuestion: Questao, usedIds: Set<string>): Questao | null {
-  // Encontrar o tema da questão atual
-  const parentTema = temas.find(t =>
-    t.exercicios.some(q => q.id === currentQuestion.id) ||
-    t.simulado.some(q => q.id === currentQuestion.id)
-  );
-  if (!parentTema) return null;
-
-  // Pool: mesma disciplina primeiro, depois qualquer tema da mesma turma
-  const sameDiscipline = temas
-    .filter(t => t.disciplinaId === parentTema.disciplinaId)
-    .flatMap(t => [...t.exercicios, ...t.simulado])
-    .filter(q => !usedIds.has(q.id));
-
-  if (sameDiscipline.length > 0) {
-    return pickRandomItem(sameDiscipline);
-  }
-
-  // Fallback: mesma turma
-  const sameTurma = temas
-    .filter(t => t.turmaId === parentTema.turmaId)
-    .flatMap(t => [...t.exercicios, ...t.simulado])
-    .filter(q => !usedIds.has(q.id));
-
-  if (sameTurma.length > 0) {
-    return pickRandomItem(sameTurma);
-  }
-
-  return null;
-}
-
 function calcScore(questions: Questao[], answers: (string | null)[]): number {
   return questions.filter((q, i) => answers[i] === q.respostaCorreta).length;
 }
@@ -216,25 +148,17 @@ function timeAgo(dateStr: string) {
   const diff = Date.now() - new Date(dateStr).getTime();
   const mins = Math.floor(diff / 60000);
   if (mins < 1) return "agora mesmo";
-  if (mins < 60) return `${mins} min atrás`;
+  if (mins < 60) return `${mins} min atrÃ¡s`;
   const hrs = Math.floor(mins / 60);
-  if (hrs < 24) return `${hrs}h atrás`;
-  return `${Math.floor(hrs / 24)}d atrás`;
+  if (hrs < 24) return `${hrs}h atrÃ¡s`;
+  return `${Math.floor(hrs / 24)}d atrÃ¡s`;
 }
 
 // ============================================================
-// Mini Ranking — Sidebar compacta
+// Mini Ranking â€” Sidebar compacta
 // ============================================================
 
-function MiniRanking({
-  userTurma,
-  userId,
-  onChallenge,
-}: {
-  userTurma: string;
-  userId: string;
-  onChallenge: (target: DuelTarget) => void;
-}) {
+function MiniRanking({ userTurma, userId }: { userTurma: string; userId: string }) {
   const [turmaTop, setTurmaTop] = useState<RankingEntry[]>([]);
   const [escolaTop, setEscolaTop] = useState<RankingEntry[]>([]);
   const [loading, setLoading] = useState(true);
@@ -281,26 +205,21 @@ function MiniRanking({
         <div className="space-y-1">
           {entries.map((e, i) => {
             const isMe = e.user_id === userId;
-            const medal = i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `${i + 1}.`;
+            const medal = i === 0 ? "ðŸ¥‡" : i === 1 ? "ðŸ¥ˆ" : i === 2 ? "ðŸ¥‰" : `${i + 1}.`;
             return (
-              <button
-                type="button"
+              <div
                 key={e.user_id}
-                onClick={() => {
-                  if (!isMe) onChallenge(e);
-                }}
-                className={`flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-[11px] transition-colors ${
+                className={`flex items-center gap-2 rounded-lg px-2 py-1.5 text-[11px] transition-colors ${
                   isMe ? "bg-primary/10 font-semibold" : "hover:bg-secondary/50"
                 }`}
               >
                 <span className="w-5 flex-shrink-0 text-center">{medal}</span>
-                <SimpleProfileAvatar size="sm" src={e.avatar_url} showBadge={false} />
-                <span className={`min-w-0 flex-1 truncate text-left font-body ${isMe ? "text-primary" : "text-foreground"}`}>
+                <span className={`min-w-0 flex-1 truncate font-body ${isMe ? "text-primary" : "text-foreground"}`}>
                   {e.nome.split(" ")[0]}
-                  {isMe && <span className="ml-1 text-[9px] text-primary/70">(você)</span>}
+                  {isMe && <span className="ml-1 text-[9px] text-primary/70">(vocÃª)</span>}
                 </span>
                 <span className="flex-shrink-0 font-heading font-bold text-accent">{e.points}</span>
-              </button>
+              </div>
             );
           })}
         </div>
@@ -317,7 +236,7 @@ function MiniRanking({
 }
 
 // ============================================================
-// Hook anti-trapaça
+// Hook anti-trapaÃ§a
 // ============================================================
 
 function useAntiCheat(active: boolean, onTabSwitch?: () => void) {
@@ -383,58 +302,49 @@ function useAntiCheat(active: boolean, onTabSwitch?: () => void) {
 
 export default function DuelPage() {
   const { user, profile, role } = useAuth();
-  const { temas, loading: contentLoading } = useStudyContent();
-  const [searchParams, setSearchParams] = useSearchParams();
   const [view, setView] = useState<PageView>({ kind: "lobby" });
   const [showConfetti, setShowConfetti] = useState(false);
   const [loading, setLoading] = useState(true);
-  const initialTarget = useMemo(() => {
-    const userId = searchParams.get("targetUserId");
-    const nome = searchParams.get("targetName");
-    if (!userId || !nome) return null;
-    return {
-      user_id: userId,
-      nome,
-      turma_id: searchParams.get("targetTurma"),
-    } satisfies DuelTarget;
-  }, [searchParams]);
 
-  // Ao abrir, verificar se já há duelo ativo
+  // Ao abrir, verificar se jÃ¡ hÃ¡ duelo ativo
   useEffect(() => {
     if (!user) { setLoading(false); return; }
     (async () => {
-      // Duelo onde sou desafiante e estou respondendo (aberto)
-      const { data: active } = await supabase
-        .from("duels")
-        .select("id")
-        .eq("challenger_id", user.id)
-        .eq("status", "aberto")
-        .maybeSingle();
+      const nowIso = new Date().toISOString();
+      const [activeRes, battlingRes, waitingRes] = await Promise.all([
+        supabase
+          .from("duels")
+          .select("id")
+          .eq("challenger_id", user.id)
+          .eq("status", "aberto")
+          .maybeSingle(),
+        supabase
+          .from("duels")
+          .select("id")
+          .eq("challenged_id", user.id)
+          .eq("status", "em_batalha")
+          .maybeSingle(),
+        supabase
+          .from("duels")
+          .select("id")
+          .eq("challenger_id", user.id)
+          .eq("status", "aguardando")
+          .gt("expires_at", nowIso)
+          .maybeSingle(),
+      ]);
+      const active = activeRes.data;
       if (active) {
         setView({ kind: "battle", duelId: active.id, role: "challenger" });
         setLoading(false);
         return;
       }
-      // Duelo onde sou desafiado e estou respondendo (em_batalha)
-      const { data: battling } = await supabase
-        .from("duels")
-        .select("id")
-        .eq("challenged_id", user.id)
-        .eq("status", "em_batalha")
-        .maybeSingle();
+      const battling = battlingRes.data;
       if (battling) {
         setView({ kind: "battle", duelId: battling.id, role: "challenged" });
         setLoading(false);
         return;
       }
-      // Duelo onde sou desafiante e aguardo adversário
-      const { data: waiting } = await supabase
-        .from("duels")
-        .select("id")
-        .eq("challenger_id", user.id)
-        .eq("status", "aguardando")
-        .gt("expires_at", new Date().toISOString())
-        .maybeSingle();
+      const waiting = waitingRes.data;
       if (waiting) {
         setView({ kind: "waiting", duelId: waiting.id });
         setLoading(false);
@@ -463,15 +373,15 @@ export default function DuelPage() {
       {showConfetti && <Confetti show />}
       <Breadcrumbs items={[{ label: "Duelo" }]} />
       <section className="container mx-auto max-w-5xl px-4 py-8">
-        {/* Cabeçalho animado */}
+        {/* CabeÃ§alho animado */}
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-8">
           <div className="flex items-center gap-3">
             <motion.div
-              animate={{ rotate: [0, -10, 10, 0] }}
+              animate={{ rotate: [0, -12, 12, 0] }}
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
               className="text-4xl"
             >
-              ✏️
+              âš”ï¸
             </motion.div>
             <div>
               <h1 className="font-heading text-3xl font-extrabold text-foreground md:text-4xl">
@@ -484,8 +394,8 @@ export default function DuelPage() {
           </div>
         </motion.div>
 
-        <div className={`flex flex-col gap-6 lg:flex-row ${showSidebar ? "" : ""}`}>
-          {/* Conteúdo principal */}
+        <div className={`flex gap-6 ${showSidebar ? "" : ""}`}>
+          {/* ConteÃºdo principal */}
           <div className="min-w-0 flex-1">
             <AnimatePresence mode="wait">
               <motion.div
@@ -499,17 +409,8 @@ export default function DuelPage() {
                   <LobbyView
                     user={user}
                     profile={profile}
-                    userTurma={userTurma}
                     adminRole={role}
                     onCreateDuel={() => setView({ kind: "config" })}
-                    onChallengeTarget={(target) => {
-                      setSearchParams({
-                        targetUserId: target.user_id,
-                        targetName: target.nome,
-                        targetTurma: target.turma_id ?? "",
-                      });
-                      setView({ kind: "config" });
-                    }}
                     onBattle={(duelId, r) => setView({ kind: "battle", duelId, role: r })}
                     onResults={(duel) => setView({ kind: "results", duel })}
                     onHistory={() => setView({ kind: "history" })}
@@ -519,12 +420,8 @@ export default function DuelPage() {
                   <ConfigView
                     user={user}
                     profile={profile}
-                    initialTarget={initialTarget}
                     onCreated={(duelId) => setView({ kind: "battle", duelId, role: "challenger" })}
-                    onCancel={() => {
-                      setSearchParams({});
-                      setView({ kind: "lobby" });
-                    }}
+                    onCancel={() => setView({ kind: "lobby" })}
                   />
                 )}
                 {view.kind === "battle" && (
@@ -585,18 +482,7 @@ export default function DuelPage() {
                   <Trophy className="h-3.5 w-3.5" />
                   Ranking
                 </h3>
-                <MiniRanking
-                  userTurma={userTurma}
-                  userId={user.id}
-                  onChallenge={(target) => {
-                    setSearchParams({
-                      targetUserId: target.user_id,
-                      targetName: target.nome,
-                      targetTurma: target.turma_id ?? "",
-                    });
-                    setView({ kind: "config" });
-                  }}
-                />
+                <MiniRanking userTurma={userTurma} userId={user.id} />
               </div>
             </motion.aside>
           )}
@@ -611,29 +497,23 @@ export default function DuelPage() {
 // ============================================================
 
 function LobbyView({
-  user, profile, userTurma, adminRole, onCreateDuel, onChallengeTarget, onBattle, onResults, onHistory,
+  user, profile, adminRole, onCreateDuel, onBattle, onResults, onHistory,
 }: {
   user: { id: string } | null;
   profile: { nome: string; turma_id: string | null } | null;
-  userTurma: string;
   adminRole: string | null;
   onCreateDuel: () => void;
-  onChallengeTarget: (target: DuelTarget) => void;
   onBattle: (id: string, role: "challenger" | "challenged") => void;
   onResults: (d: Duel) => void;
   onHistory: () => void;
 }) {
-  const lobbyTurmaId = profile?.turma_id ?? userTurma;
   const [challenges, setChallenges] = useState<Duel[]>([]);
-  const [myPendingChallenges, setMyPendingChallenges] = useState<Duel[]>([]);
-  const [onlinePlayers, setOnlinePlayers] = useState<OnlineDuelUser[]>([]);
   const [loadingList, setLoadingList] = useState(true);
   const [accepting, setAccepting] = useState<string | null>(null);
-  const [rejecting, setRejecting] = useState<string | null>(null);
 
   const load = useCallback(async () => {
     if (!user) return;
-    // Desafios públicos abertos + desafios privados dirigidos a mim
+    // Desafios pÃºblicos abertos + desafios privados dirigidos a mim
     const { data: publicDuels } = await supabase
       .from("duels")
       .select("*")
@@ -652,32 +532,8 @@ function LobbyView({
       .gt("expires_at", new Date().toISOString())
       .order("created_at", { ascending: false })
       .limit(10);
-    const { data: myWaitingDuels } = await supabase
-      .from("duels")
-      .select("*")
-      .eq("status", "aguardando")
-      .eq("challenger_id", user.id)
-      .gt("expires_at", new Date().toISOString())
-      .order("created_at", { ascending: false })
-      .limit(10);
     const all = [...(privateDuels as Duel[] || []), ...(publicDuels as Duel[] || [])];
-    const challengerIds = Array.from(new Set(all.map((duel) => duel.challenger_id).filter(Boolean)));
-    let avatarMap = new Map<string, string | null>();
-    if (challengerIds.length > 0) {
-      const { data: challengerProfiles } = await supabase
-        .from("profiles")
-        .select("user_id, avatar_url")
-        .in("user_id", challengerIds);
-      avatarMap = new Map((challengerProfiles || []).map((profile) => [profile.user_id, profile.avatar_url ?? null]));
-    }
-
-    setChallenges(
-      all.map((duel) => ({
-        ...duel,
-        challenger_avatar_url: avatarMap.get(duel.challenger_id) ?? null,
-      })),
-    );
-    setMyPendingChallenges((myWaitingDuels as Duel[] || []));
+    setChallenges(all);
     setLoadingList(false);
   }, [user]);
 
@@ -692,90 +548,13 @@ function LobbyView({
     return () => { supabase.removeChannel(ch); };
   }, [load]);
 
-  useEffect(() => {
-    if (!user) return;
-
-    let mounted = true;
-
-    const presenceChannel = supabase.channel(`duel-presence:${lobbyTurmaId}`, {
-      config: { presence: { key: user.id } },
-    });
-
-    const syncPlayers = async () => {
-      if (!mounted) return;
-      const state = presenceChannel.presenceState<Record<string, unknown>[]>();
-      const statusMap = new Map<string, DuelPresenceStatus>();
-      Object.entries(state).forEach(([presenceId, entries]) => {
-        const firstEntry = entries?.[0] as { duel_status?: DuelPresenceStatus } | undefined;
-        statusMap.set(presenceId, firstEntry?.duel_status === "studying" ? "studying" : "accepting");
-      });
-
-      const onlineIds = Array.from(statusMap.keys()).filter((id) => id !== user.id);
-      if (onlineIds.length === 0) {
-        setOnlinePlayers([]);
-        return;
-      }
-
-      const { data } = await supabase
-        .from("profiles")
-        .select("user_id, nome, turma_id, avatar_url")
-        .in("user_id", onlineIds)
-        .limit(18);
-
-      setOnlinePlayers(
-        ((data || []) as OnlineDuelUser[])
-          .map((player) => ({
-            ...player,
-            isOnline: statusMap.has(player.user_id),
-            duelStatus: statusMap.get(player.user_id) ?? "accepting",
-          }))
-          .filter((player) => player.isOnline),
-      );
-    };
-
-    presenceChannel
-      .on("presence", { event: "sync" }, syncPlayers)
-      .subscribe(async (status) => {
-        if (status !== "SUBSCRIBED") return;
-        await presenceChannel.track({
-          user_id: user.id,
-          nome: profile?.nome ?? "Aluno",
-          turma_id: lobbyTurmaId,
-          duel_status: getStoredDuelStatus(),
-          online_at: new Date().toISOString(),
-        });
-        await syncPlayers();
-      });
-
-    const handleStatusChange = async () => {
-      await presenceChannel.track({
-        user_id: user.id,
-        nome: profile?.nome ?? "Aluno",
-        turma_id: lobbyTurmaId,
-        duel_status: getStoredDuelStatus(),
-        online_at: new Date().toISOString(),
-      });
-      await syncPlayers();
-    };
-
-    window.addEventListener(DUEL_STATUS_EVENT, handleStatusChange);
-    window.addEventListener("storage", handleStatusChange);
-
-    return () => {
-      mounted = false;
-      window.removeEventListener(DUEL_STATUS_EVENT, handleStatusChange);
-      window.removeEventListener("storage", handleStatusChange);
-      void supabase.removeChannel(presenceChannel);
-    };
-  }, [user, profile?.nome, lobbyTurmaId]);
-
   const accept = async (duel: Duel) => {
     if (!user) return;
     setAccepting(duel.id);
     // Verificar disponibilidade
     const { data: fresh } = await supabase.from("duels").select("status").eq("id", duel.id).single();
     if (fresh?.status !== "aguardando") {
-      toast({ title: "Desafio indisponível", description: "Outro aluno já aceitou este desafio.", variant: "destructive" });
+      toast({ title: "Desafio indisponÃ­vel", description: "Outro aluno jÃ¡ aceitou este desafio.", variant: "destructive" });
       setAccepting(null);
       load();
       return;
@@ -787,83 +566,24 @@ function LobbyView({
     }).eq("id", duel.id);
     setAccepting(null);
     if (error) {
-      toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
+      toast({ title: "Erro", description: "NÃ£o foi possÃ­vel aceitar o desafio.", variant: "destructive" });
       return;
     }
     onBattle(duel.id, "challenged");
   };
 
-  const reject = async (duel: Duel) => {
-    if (!user) return;
-    setRejecting(duel.id);
-
-    const { data: fresh } = await supabase.from("duels").select("status").eq("id", duel.id).single();
-    if (fresh?.status !== "aguardando") {
-      toast({ title: "Desafio indisponível", description: "Esse desafio já não está mais aberto.", variant: "destructive" });
-      setRejecting(null);
-      load();
-      return;
-    }
-
-    const { error: duelError } = await supabase
-      .from("duels")
-      .update({
-        status: "expirado",
-        challenged_finished_at: new Date().toISOString(),
-      })
-      .eq("id", duel.id)
-      .eq("status", "aguardando");
-
-    if (duelError) {
-      setRejecting(null);
-      toast({ title: "Erro", description: "Não foi possível recusar o desafio.", variant: "destructive" });
-      return;
-    }
-
-    const { data: existingScore } = await supabase
-      .from("student_scores")
-      .select("points, missions_completed, streak_days, turma_id, last_mission_date")
-      .eq("user_id", duel.challenger_id)
-      .maybeSingle();
-
-    if (existingScore) {
-      await supabase
-        .from("student_scores")
-        .update({
-          points: (existingScore.points ?? 0) + 1,
-        })
-        .eq("user_id", duel.challenger_id);
-    } else {
-      await supabase.from("student_scores").insert({
-        user_id: duel.challenger_id,
-        turma_id: duel.turma_id,
-        points: 1,
-        missions_completed: 0,
-        streak_days: 0,
-        last_mission_date: null,
-      });
-    }
-
-    setRejecting(null);
-    toast({
-      title: "Desafio recusado",
-      description: "O desafiante recebeu +1 ponto de iniciativa.",
-    });
-    load();
-  };
-
   if (!user) {
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
-        <PencilLine className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
-        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para duelar!</h2>
+        <Sword className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
+        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">FaÃ§a login para duelar!</h2>
       </div>
     );
   }
 
   return (
     <div className="space-y-5">
-      {/* Ações */}
+      {/* AÃ§Ãµes */}
       <div className="flex flex-wrap items-center gap-3">
         <button
           onClick={onCreateDuel}
@@ -877,134 +597,9 @@ function LobbyView({
           className="btn-tap flex items-center gap-2 rounded-xl border-2 border-border px-4 py-2.5 font-heading text-sm font-semibold text-foreground hover:bg-secondary"
         >
           <History className="h-4 w-4" />
-          Histórico
+          HistÃ³rico
         </button>
       </div>
-
-      <div className="glass-card overflow-hidden rounded-3xl border border-primary/10 p-5">
-          <div className="mb-4 flex items-center justify-between gap-3">
-            <div>
-              <h2 className="flex items-center gap-2 font-heading text-lg font-bold text-foreground">
-                <Users className="h-5 w-5 text-primary" />
-                Agora online
-              </h2>
-              <p className="font-body text-xs text-muted-foreground">
-                Toque em um avatar para abrir um desafio em tempo real.
-              </p>
-            </div>
-            <span className="rounded-full bg-emerald-500/10 px-3 py-1 text-[11px] font-heading font-bold text-emerald-600">
-              {onlinePlayers.length} na arena
-            </span>
-          </div>
-
-          {!lobbyTurmaId ? (
-            <div className="rounded-2xl border border-dashed border-border bg-card/50 px-4 py-8 text-center">
-              <p className="font-heading text-sm font-bold text-foreground">Defina a turma do perfil</p>
-              <p className="mt-2 text-xs font-body text-muted-foreground">
-                O lobby online só aparece corretamente quando a conta tem turma vinculada.
-              </p>
-            </div>
-          ) : onlinePlayers.length > 0 ? (
-          <div className="grid grid-cols-1 gap-3 min-[420px]:grid-cols-2 sm:grid-cols-3 lg:flex lg:flex-wrap lg:gap-4">
-            {onlinePlayers.map((player, index) => (
-              (() => {
-                const statusMeta = getDuelStatusMeta(player.duelStatus);
-                return (
-              <motion.button
-                key={player.user_id}
-                type="button"
-                initial={{ opacity: 0, y: 14, scale: 0.95 }}
-                animate={{ opacity: 1, y: [0, -10, 0], scale: 1 }}
-                transition={{
-                  opacity: { delay: index * 0.04 },
-                  y: { duration: 3 + (index % 3) * 0.45, repeat: Infinity, ease: "easeInOut" },
-                }}
-                onClick={() => {
-                  if (player.duelStatus === "accepting") onChallengeTarget(player);
-                }}
-                className={`group w-full rounded-[28px] border border-border bg-card/90 p-3 text-center transition-all hover:-translate-y-1 hover:shadow-lg sm:w-[132px] lg:w-[132px] ${
-                  player.duelStatus === "accepting"
-                    ? "hover:border-primary/30"
-                    : "opacity-90 hover:border-amber-200"
-                }`}
-              >
-                <div className="mb-2 flex justify-center">
-                  <SimpleProfileAvatar size="lg" src={player.avatar_url ?? null} />
-                </div>
-                <div className="mb-2 flex justify-center">
-                  <span
-                    className={`inline-flex items-center gap-1 rounded-full px-2 py-1 text-[10px] font-heading font-bold ${
-                      player.duelStatus === "accepting"
-                        ? "bg-emerald-500/10 text-emerald-700"
-                        : "bg-amber-500/10 text-amber-700"
-                    }`}
-                  >
-                    <span>{statusMeta.emoji}</span>
-                    {statusMeta.shortLabel}
-                  </span>
-                </div>
-                <p className="truncate font-heading text-sm font-bold text-foreground">{player.nome}</p>
-                <p className="mt-1 text-[11px] font-body text-muted-foreground">{turmaLabel(player.turma_id)}</p>
-                <div
-                  className={`mt-3 rounded-xl px-3 py-2 text-center text-[11px] font-heading font-bold transition-all ${
-                    player.duelStatus === "accepting"
-                      ? "bg-primary/10 text-primary group-hover:bg-primary group-hover:text-primary-foreground"
-                      : "bg-amber-500/10 text-amber-700"
-                  }`}
-                >
-                  {player.duelStatus === "accepting" ? "Desafiar agora" : "Só estudando"}
-                </div>
-              </motion.button>
-                );
-              })()
-            ))}
-          </div>
-          ) : (
-            <div className="rounded-2xl border border-dashed border-border bg-card/50 px-4 py-8 text-center">
-              <p className="font-heading text-sm font-bold text-foreground">Nenhum colega online agora</p>
-              <p className="mt-2 text-xs font-body text-muted-foreground">
-                Quando alguém abrir a arena de duelos, os avatares vão aparecer flutuando aqui.
-              </p>
-            </div>
-          )}
-        </div>
-
-      {myPendingChallenges.length > 0 ? (
-        <div className="glass-card rounded-3xl border border-accent/15 p-5">
-          <h2 className="mb-3 flex items-center gap-2 font-heading text-lg font-bold text-foreground">
-            <Clock className="h-5 w-5 text-accent" />
-            Aguardando adversário
-          </h2>
-          <div className="space-y-3">
-            {myPendingChallenges.map((duel) => (
-              <div
-                key={duel.id}
-                className="flex flex-col gap-4 rounded-2xl border border-border bg-card/80 px-4 py-4 sm:flex-row sm:items-center sm:justify-between"
-              >
-                <div className="min-w-0 flex-1">
-                  <p className="font-heading text-sm font-bold text-foreground">
-                    {duel.visibility === "privado" ? "Desafio privado enviado" : "Desafio público aberto"}
-                  </p>
-                  <div className="mt-1 flex flex-wrap items-center gap-2 text-xs font-body text-muted-foreground">
-                    <span>{duel.num_questions} perguntas</span>
-                    <span>•</span>
-                    <span>{Math.floor(duel.time_limit / 60)} min</span>
-                    {duel.discipline_id ? (
-                      <>
-                        <span>•</span>
-                        <span>{disciplineLabel(duel.discipline_id)}</span>
-                      </>
-                    ) : null}
-                  </div>
-                </div>
-                <span className="rounded-full bg-accent/10 px-3 py-1 text-[11px] font-heading font-bold text-accent">
-                  {timeAgo(duel.created_at)}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
-      ) : null}
 
       {/* Lista de desafios */}
       <div>
@@ -1019,9 +614,9 @@ function LobbyView({
           </div>
         ) : challenges.length === 0 ? (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
-            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 text-5xl">✏️</motion.div>
+            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 text-5xl">âš”ï¸</motion.div>
             <h3 className="mb-1 font-heading text-lg font-bold text-foreground">Nenhum desafio por enquanto</h3>
-            <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversário.</p>
+            <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversÃ¡rio.</p>
           </motion.div>
         ) : (
           <div className="space-y-3">
@@ -1032,78 +627,46 @@ function LobbyView({
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: i * 0.06 }}
                 whileHover={{ scale: 1.01 }}
-                className="group flex flex-col gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md md:flex-row md:items-center"
+                className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
-                <div className="flex shrink-0 items-center gap-4">
-                  {c.mode === "anonimo" ? (
-                    <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-full bg-slate-950 ring-2 ring-slate-700/40 shadow-lg shadow-slate-900/20">
-                      <img
-                        src="/Knigth.svg"
-                        alt="Cavaleiro negro"
-                        className="h-full w-full object-cover"
-                      />
-                    </div>
-                  ) : (
-                    <div className="rounded-full ring-2 ring-primary/10 shadow-sm">
-                      <SimpleProfileAvatar
-                        size="md"
-                        src={c.challenger_avatar_url ?? null}
-                        showBadge={false}
-                      />
-                    </div>
-                  )}
+                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
+                  {c.visibility === "privado" ? "ðŸ“©" : c.mode === "anonimo" ? "ðŸŽ­" : "âš”ï¸"}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
-                    {c.mode === "anonimo" ? "Desafiante anônimo" : c.challenger_display_name}
+                    {c.challenger_display_name}
                   </p>
-                  {c.mode === "anonimo" ? (
-                    <p className="mt-1 text-[10px] font-heading font-semibold uppercase tracking-[0.22em] text-slate-500">
-                      Identidade oculta • Cavaleiro negro
-                    </p>
-                  ) : null}
                   <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 font-body text-xs text-muted-foreground">
-                    {c.mode !== "anonimo" && c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
-                    {c.mode !== "anonimo" && c.challenger_display_turma ? <span>•</span> : null}
-                    <span>{c.num_questions} questões</span>
-                    <span>•</span>
+                    {c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
+                    <span>Â·</span>
+                    <span>{c.num_questions} questÃµes</span>
+                    <span>Â·</span>
                     <span>{Math.floor(c.time_limit / 60)} min</span>
                     {c.discipline_id && (
                       <>
-                        <span>•</span>
+                        <span>Â·</span>
                         <span className="text-primary">{disciplineLabel(c.discipline_id)}</span>
                       </>
                     )}
                     {c.interclass && <span className="rounded-full bg-accent/10 px-1.5 text-accent">Interclasse</span>}
-                    {c.visibility === "privado" && <span className="rounded-full bg-accent/20 px-1.5 font-semibold text-accent">Para você!</span>}
+                    {c.visibility === "privado" && <span className="rounded-full bg-accent/20 px-1.5 font-semibold text-accent">Para vocÃª!</span>}
                   </div>
                   <p className="mt-0.5 font-body text-[10px] text-muted-foreground/60">{timeAgo(c.created_at)}</p>
                 </div>
-                <div className="flex w-full shrink-0 flex-col gap-2 md:w-auto md:min-w-[156px]">
                 <button
                   onClick={() => accept(c)}
-                  disabled={accepting === c.id || rejecting === c.id}
-                  className="btn-tap rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
+                  disabled={accepting === c.id}
+                  className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
-                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️"}
+                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar âš”ï¸"}
                 </button>
-                {c.visibility === "privado" ? (
-                  <button
-                    onClick={() => reject(c)}
-                    disabled={accepting === c.id || rejecting === c.id}
-                    className="btn-tap rounded-xl border border-destructive/25 bg-destructive/5 px-4 py-2.5 font-heading text-xs font-bold text-destructive transition-all hover:bg-destructive/10 disabled:opacity-60"
-                  >
-                    {rejecting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Recusar"}
-                  </button>
-                ) : null}
-                </div>
               </motion.div>
             ))}
           </div>
         )}
       </div>
 
-      {/* Pontuação */}
+      {/* PontuaÃ§Ã£o */}
       <div className="glass-card rounded-2xl p-5">
         <h3 className="mb-3 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Zap className="h-4 w-4 text-primary" /> Como funciona
@@ -1119,15 +682,11 @@ function LobbyView({
           </div>
           <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
             <Timer className="mt-0.5 h-3.5 w-3.5 flex-shrink-0" />
-            <span>Responda no seu tempo: não precisa estar online junto</span>
+            <span>Responda no seu tempo: nÃ£o precisa estar online junto</span>
           </div>
           <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
             <Shield className="mt-0.5 h-3.5 w-3.5 text-destructive flex-shrink-0" />
-            <span>Anti-trapaça: sair da aba troca a pergunta por outra!</span>
-          </div>
-          <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
-            <Plus className="mt-0.5 h-3.5 w-3.5 text-primary flex-shrink-0" />
-            <span>Se um desafio privado for recusado, o desafiante recebe <strong className="text-primary">+1 pt</strong> de iniciativa.</span>
+            <span>Anti-trapaÃ§a: sair da aba troca a pergunta por outra!</span>
           </div>
         </div>
       </div>
@@ -1136,19 +695,17 @@ function LobbyView({
 }
 
 // ============================================================
-// ConfigView — Configurações do duelo
+// ConfigView â€” ConfiguraÃ§Ãµes do duelo
 // ============================================================
 
 function ConfigView({
-  user, profile, initialTarget, onCreated, onCancel,
+  user, profile, onCreated, onCancel,
 }: {
   user: { id: string } | null;
   profile: { nome: string; turma_id: string | null } | null;
-  initialTarget: DuelTarget | null;
   onCreated: (duelId: string) => void;
   onCancel: () => void;
 }) {
-  const { temas, loading: contentLoading } = useStudyContent();
   const userTurma = profile?.turma_id || "6ano";
   const [cfg, setCfg] = useState<DuelConfig>({
     mode: "aberto",
@@ -1159,29 +716,36 @@ function ConfigView({
     targetType: "publico",
     targetUserId: null,
     targetUserName: null,
-    targetUserAvatar: null,
   });
   const [creating, setCreating] = useState(false);
+  const [themeSummaries, setThemeSummaries] = useState<ThemeSummary[]>([]);
 
   // Busca de aluno para desafio direto
   const [searchQuery, setSearchQuery] = useState("");
-  const [searchResults, setSearchResults] = useState<DuelTarget[]>([]);
+  const [searchResults, setSearchResults] = useState<{ user_id: string; nome: string; turma_id: string | null }[]>([]);
   const [searching, setSearching] = useState(false);
   const searchTimeoutRef = useRef<ReturnType<typeof setTimeout>>();
 
-  // Código do duelo para convite
+  // CÃ³digo do duelo para convite
   const [inviteCode, setInviteCode] = useState("");
 
   useEffect(() => {
-    if (!initialTarget) return;
-    setCfg((current) => ({
-      ...current,
-      targetType: "privado",
-      targetUserId: initialTarget.user_id,
-      targetUserName: initialTarget.nome,
-      targetUserAvatar: initialTarget.avatar_url ?? null,
-    }));
-  }, [initialTarget]);
+    let active = true;
+
+    (async () => {
+      try {
+        const summaries = await listAllThemeSummaries();
+        if (active) setThemeSummaries(summaries);
+      } catch (error) {
+        console.error(error);
+        if (active) setThemeSummaries([]);
+      }
+    })();
+
+    return () => {
+      active = false;
+    };
+  }, []);
 
   // Busca debounced por nome
   useEffect(() => {
@@ -1191,7 +755,7 @@ function ConfigView({
       setSearching(true);
       const { data } = await supabase
         .from("profiles")
-        .select("user_id, nome, turma_id, avatar_url")
+        .select("user_id, nome, turma_id")
         .neq("user_id", user?.id || "")
         .ilike("nome", `%${searchQuery}%`)
         .limit(8);
@@ -1201,67 +765,42 @@ function ConfigView({
     return () => clearTimeout(searchTimeoutRef.current);
   }, [searchQuery, user]);
 
-  // Disciplinas disponíveis para a turma do usuário
+  // Disciplinas disponÃ­veis para a turma do usuÃ¡rio
   const availableDisciplines = useMemo(() => {
     const turmaDiscs = disciplinas.filter(d => d.turmaId === userTurma);
     return turmaDiscs.filter(d => {
-      const pool = temas
-        .filter(t => t.disciplinaId === d.id && (cfg.interclass || t.turmaId === userTurma))
-        .flatMap(t => [...t.exercicios, ...t.simulado]);
-      return pool.length >= cfg.numQuestions;
+      const total = themeSummaries
+        .filter(theme => theme.disciplinaId === d.id && (cfg.interclass || theme.turmaId === userTurma))
+        .reduce((sum, theme) => sum + theme.exerciseCount + theme.simuladoCount, 0);
+      return total >= cfg.numQuestions;
     });
-  }, [cfg.interclass, cfg.numQuestions, temas, userTurma]);
+  }, [userTurma, cfg.interclass, cfg.numQuestions, themeSummaries]);
 
   const totalAvailable = useMemo(() => {
-    let filtered = temas;
-    if (!cfg.interclass) filtered = filtered.filter(t => t.turmaId === userTurma);
-    if (cfg.disciplineId) filtered = filtered.filter(t => t.disciplinaId === cfg.disciplineId);
-    return filtered.flatMap(t => [...t.exercicios, ...t.simulado]).length;
-  }, [cfg, temas, userTurma]);
-
-  const questionOptions = useMemo(
-    () =>
-      QUESTION_LEVELS.map((level) => ({
-        ...level,
-        count: cfg.interclass ? level.interclassCount : level.defaultCount,
-      })),
-    [cfg.interclass],
-  );
-
-  useEffect(() => {
-    if (!questionOptions.some((option) => option.count === cfg.numQuestions)) {
-      setCfg((current) => ({
-        ...current,
-        numQuestions: questionOptions[1]?.count ?? questionOptions[0]?.count ?? current.numQuestions,
-      }));
-    }
-  }, [cfg.numQuestions, questionOptions]);
+    return themeSummaries
+      .filter(theme => (cfg.interclass || theme.turmaId === userTurma))
+      .filter(theme => (cfg.disciplineId ? theme.disciplinaId === cfg.disciplineId : true))
+      .reduce((sum, theme) => sum + theme.exerciseCount + theme.simuladoCount, 0);
+  }, [cfg, themeSummaries, userTurma]);
 
   const create = async () => {
     if (!user || !profile) return;
-
-    if (contentLoading) {
-      toast({ title: "Conteudo ainda carregando", description: "Espere os temas terminarem de carregar antes de criar um duelo." });
-      return;
-    }
-
     setCreating(true);
 
-    const questions = selectQuestions({
-      temas,
+    const questions = await getQuestionsForMission({
       turmaId: userTurma,
       disciplineId: cfg.disciplineId,
       interclass: cfg.interclass,
-      num: cfg.numQuestions,
+      limit: cfg.numQuestions,
     });
 
     if (questions.length < cfg.numQuestions) {
-      toast({ title: "Questões insuficientes", description: `Encontramos apenas ${questions.length} questões com esses filtros.`, variant: "destructive" });
+      toast({ title: "QuestÃµes insuficientes", description: `Encontramos apenas ${questions.length} questÃµes com esses filtros.`, variant: "destructive" });
       setCreating(false);
       return;
     }
 
-    const displayName = cfg.mode === "anonimo" ? "Anônimo" : profile.nome;
+    const displayName = cfg.mode === "anonimo" ? "AnÃ´nimo" : profile.nome;
     const displayTurma = cfg.mode === "anonimo" ? null : userTurma;
 
     const { data, error } = await supabase.from("duels").insert({
@@ -1286,22 +825,22 @@ function ConfigView({
       return;
     }
 
-    // Gerar código de convite a partir do ID (primeiros 6 caracteres)
+    // Gerar cÃ³digo de convite a partir do ID (primeiros 6 caracteres)
     if (cfg.targetType === "privado") {
       const code = data.id.replace(/-/g, "").slice(0, 6).toUpperCase();
-      toast({ title: "Convite criado!", description: `Código: ${code} — compartilhe com seu colega!` });
+      toast({ title: "Convite criado!", description: `CÃ³digo: ${code} â€” compartilhe com seu colega!` });
     }
 
     onCreated(data.id);
   };
 
-  // Aceitar por código de convite
+  // Aceitar por cÃ³digo de convite
   const joinByCode = async () => {
     if (!user || inviteCode.length < 4) return;
     setCreating(true);
     const normalized = inviteCode.trim().toUpperCase();
 
-    // Buscar duelo cujo ID começa com o código
+    // Buscar duelo cujo ID comeÃ§a com o cÃ³digo
     const { data: duels } = await supabase
       .from("duels")
       .select("id, status, challenger_id, challenged_id")
@@ -1315,13 +854,13 @@ function ConfigView({
     );
 
     if (!match) {
-      toast({ title: "Código não encontrado", description: "Verifique o código e tente novamente.", variant: "destructive" });
+      toast({ title: "CÃ³digo nÃ£o encontrado", description: "Verifique o cÃ³digo e tente novamente.", variant: "destructive" });
       setCreating(false);
       return;
     }
 
     if (match.challenged_id && match.challenged_id !== user.id) {
-      toast({ title: "Desafio indisponível", description: "Este desafio já foi aceito por outro aluno.", variant: "destructive" });
+      toast({ title: "Desafio indisponÃ­vel", description: "Este desafio jÃ¡ foi aceito por outro aluno.", variant: "destructive" });
       setCreating(false);
       return;
     }
@@ -1333,7 +872,7 @@ function ConfigView({
 
     setCreating(false);
     if (error) {
-      toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
+      toast({ title: "Erro", description: "NÃ£o foi possÃ­vel aceitar o desafio.", variant: "destructive" });
       return;
     }
     onCreated(match.id);
@@ -1342,28 +881,28 @@ function ConfigView({
   return (
     <div className="space-y-5">
       <button onClick={onCancel} className="btn-tap flex items-center gap-1 font-body text-sm text-muted-foreground hover:text-foreground">
-        ← Voltar ao lobby
+        â† Voltar ao lobby
       </button>
 
-      {/* Entrar por código */}
+      {/* Entrar por cÃ³digo */}
       <div className="glass-card rounded-2xl p-4">
         <h3 className="mb-2 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Hash className="h-4 w-4 text-accent" />
-          Tem um código de convite?
+          Tem um cÃ³digo de convite?
         </h3>
-        <div className="flex flex-col gap-2 sm:flex-row">
+        <div className="flex gap-2">
           <input
             type="text"
             value={inviteCode}
             onChange={e => setInviteCode(e.target.value.toUpperCase())}
             placeholder="Ex: A3F2B1"
             maxLength={6}
-            className="min-w-0 flex-1 rounded-xl border-2 border-border bg-background px-4 py-2.5 font-heading text-sm uppercase tracking-widest focus:border-primary focus:outline-none"
+            className="flex-1 rounded-xl border-2 border-border bg-background px-4 py-2.5 font-heading text-sm uppercase tracking-widest focus:border-primary focus:outline-none"
           />
           <button
             onClick={joinByCode}
             disabled={creating || inviteCode.length < 4}
-            className="btn-tap flex w-full items-center justify-center gap-1.5 rounded-xl bg-accent px-4 py-2.5 font-heading text-xs font-bold text-white transition-all hover:bg-accent/90 disabled:opacity-50 sm:w-auto"
+            className="btn-tap flex items-center gap-1.5 rounded-xl bg-accent px-4 py-2.5 font-heading text-xs font-bold text-white transition-all hover:bg-accent/90 disabled:opacity-50"
           >
             <Send className="h-3.5 w-3.5" />
             Entrar
@@ -1374,20 +913,20 @@ function ConfigView({
       <div className="glass-card rounded-2xl p-6">
         <h2 className="mb-1 font-heading text-xl font-bold text-foreground">Configurar Desafio</h2>
         <p className="mb-6 font-body text-xs text-muted-foreground">
-          Você responderá primeiro. Depois, o desafio ficará disponível para o adversário.
+          VocÃª responderÃ¡ primeiro. Depois, o desafio ficarÃ¡ disponÃ­vel para o adversÃ¡rio.
         </p>
 
-        {/* Tipo de adversário */}
+        {/* Tipo de adversÃ¡rio */}
         <fieldset className="mb-5">
-          <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Adversário</legend>
-          <div className="grid gap-3 sm:grid-cols-2">
+          <legend className="mb-2 font-heading text-sm font-semibold text-foreground">AdversÃ¡rio</legend>
+          <div className="grid grid-cols-2 gap-3">
             {([
-              ["publico", "Público", Users, "Qualquer um aceita"] as const,
-              ["privado", "Desafiar alguém", Target, "Escolha o adversário"] as const,
+              ["publico", "PÃºblico", Users, "Qualquer um aceita"] as const,
+              ["privado", "Desafiar alguÃ©m", Target, "Escolha o adversÃ¡rio"] as const,
             ]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
-                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null, targetUserAvatar: null }))}
+                onClick={() => setCfg(p => ({ ...p, targetType: val, targetUserId: null, targetUserName: null }))}
                 className={`btn-tap rounded-xl border-2 p-4 text-left transition-all ${cfg.targetType === val ? "border-accent bg-accent/5" : "border-border hover:border-accent/20"}`}
               >
                 <Icon className={`mb-1 h-5 w-5 ${cfg.targetType === val ? "text-accent" : "text-muted-foreground"}`} />
@@ -1402,18 +941,14 @@ function ConfigView({
         {cfg.targetType === "privado" && (
           <div className="mb-5">
             {cfg.targetUserId ? (
-              <div className="flex flex-wrap items-center gap-3 rounded-2xl border-2 border-accent/30 bg-accent/5 px-4 py-3 sm:flex-nowrap">
-                <SimpleProfileAvatar
-                  size="md"
-                  src={cfg.targetUserAvatar}
-                  showBadge={false}
-                />
-                <div className="min-w-0 flex-1">
+              <div className="flex items-center gap-3 rounded-xl border-2 border-accent/30 bg-accent/5 px-4 py-3">
+                <Target className="h-5 w-5 text-accent" />
+                <div className="flex-1">
                   <p className="font-heading text-sm font-bold text-foreground">{cfg.targetUserName}</p>
-                  <p className="font-body text-[10px] text-muted-foreground">Adversário selecionado</p>
+                  <p className="font-body text-[10px] text-muted-foreground">AdversÃ¡rio selecionado</p>
                 </div>
                 <button
-                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null, targetUserAvatar: null })); setSearchQuery(""); }}
+                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null })); setSearchQuery(""); }}
                   className="rounded-lg p-1 text-muted-foreground hover:bg-secondary hover:text-foreground"
                 >
                   <X className="h-4 w-4" />
@@ -1438,13 +973,15 @@ function ConfigView({
                       <button
                         key={r.user_id}
                         onClick={() => {
-                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome, targetUserAvatar: r.avatar_url ?? null }));
+                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome }));
                           setSearchQuery("");
                           setSearchResults([]);
                         }}
                         className="btn-tap flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left transition-all hover:bg-secondary"
                       >
-                        <SimpleProfileAvatar size="sm" src={r.avatar_url ?? null} showBadge={false} />
+                        <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary/10 font-heading text-xs font-bold text-primary">
+                          {r.nome.charAt(0).toUpperCase()}
+                        </div>
                         <div className="min-w-0 flex-1">
                           <p className="truncate font-heading text-sm font-semibold text-foreground">{r.nome}</p>
                           <p className="font-body text-[10px] text-muted-foreground">{turmaLabel(r.turma_id)}</p>
@@ -1465,8 +1002,8 @@ function ConfigView({
         {/* Modo */}
         <fieldset className="mb-5">
           <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Identidade</legend>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {([["aberto", "Aberto", Eye, "Seu nome visível"] as const, ["anonimo", "Anônimo", EyeOff, "Identidade oculta"] as const]).map(([val, label, Icon, desc]) => (
+          <div className="grid grid-cols-2 gap-3">
+            {([["aberto", "Aberto", Eye, "Seu nome visÃ­vel"] as const, ["anonimo", "AnÃ´nimo", EyeOff, "Identidade oculta"] as const]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
                 onClick={() => setCfg(p => ({ ...p, mode: val }))}
@@ -1488,28 +1025,25 @@ function ConfigView({
             onChange={e => setCfg(p => ({ ...p, disciplineId: e.target.value || null }))}
             className="w-full rounded-xl border-2 border-border bg-background px-4 py-3 font-body text-sm focus:border-primary focus:outline-none"
           >
-            <option value="">Todas as disciplinas (aleatório)</option>
+            <option value="">Todas as disciplinas (aleatÃ³rio)</option>
             {availableDisciplines.map(d => (
               <option key={d.id} value={d.id}>{d.nome}</option>
             ))}
           </select>
         </fieldset>
 
-        {/* Questões e Tempo */}
-        <div className="mb-5 grid gap-4 lg:grid-cols-2">
+        {/* QuestÃµes e Tempo */}
+        <div className="mb-5 grid grid-cols-2 gap-4">
           <fieldset>
-            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Questões</legend>
-            <div className="grid gap-2 sm:grid-cols-3">
-              {questionOptions.map((option) => (
+            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">QuestÃµes</legend>
+            <div className="flex gap-2">
+              {QUESTION_OPTIONS.map(n => (
                 <button
-                  key={option.id}
-                  onClick={() => setCfg(p => ({ ...p, numQuestions: option.count }))}
-                  className={`btn-tap rounded-xl border-2 px-3 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === option.count ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
+                  key={n}
+                  onClick={() => setCfg(p => ({ ...p, numQuestions: n }))}
+                  className={`btn-tap flex-1 rounded-xl border-2 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === n ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
                 >
-                  <span className="block">{option.label}</span>
-                  <span className="mt-0.5 block text-[11px] font-body font-medium opacity-80">
-                    {option.count} questões
-                  </span>
+                  {n}
                 </button>
               ))}
             </div>
@@ -1536,7 +1070,7 @@ function ConfigView({
           />
           <div>
             <p className="font-heading text-sm font-semibold text-foreground">Modo Interclasse</p>
-            <p className="font-body text-[11px] text-muted-foreground">Inclui questões de todas as turmas (mais difícil!)</p>
+            <p className="font-body text-[11px] text-muted-foreground">Inclui questÃµes de todas as turmas (mais difÃ­cil!)</p>
           </div>
         </label>
 
@@ -1545,14 +1079,14 @@ function ConfigView({
           <div className="mb-5 rounded-xl bg-secondary/50 p-3">
             <p className="flex items-start gap-2 font-body text-xs text-muted-foreground">
               <ShieldCheck className="mt-0.5 h-3.5 w-3.5 flex-shrink-0 text-primary" />
-              Mesmo no modo anônimo, o administrador pode ver a identidade de todos os participantes.
+              Mesmo no modo anÃ´nimo, o administrador pode ver a identidade de todos os participantes.
             </p>
           </div>
         )}
 
         {/* Info */}
         <p className="mb-4 font-body text-xs text-muted-foreground">
-          {totalAvailable} questões disponíveis com esses filtros
+          {totalAvailable} questÃµes disponÃ­veis com esses filtros
         </p>
 
         <button
@@ -1563,9 +1097,9 @@ function ConfigView({
           {creating ? (
             <span className="flex items-center justify-center gap-2"><Loader2 className="h-4 w-4 animate-spin" /> Criando...</span>
           ) : cfg.targetType === "privado" ? (
-            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ✏️`
+            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} âš”ï¸`
           ) : (
-            "Criar Desafio Público ✏️"
+            "Criar Desafio PÃºblico âš”ï¸"
           )}
         </button>
       </div>
@@ -1574,7 +1108,7 @@ function ConfigView({
 }
 
 // ============================================================
-// BattleArena — Tela de batalha com anti-trapaça
+// BattleArena â€” Tela de batalha com anti-trapaÃ§a
 // ============================================================
 
 function BattleArena({
@@ -1585,9 +1119,8 @@ function BattleArena({
   userId: string;
   onDone: (duel: Duel) => void;
 }) {
-  const { temas } = useStudyContent();
   const [duel, setDuel] = useState<Duel | null>(null);
-  const [questions, setQuestions] = useState<Questao[]>([]);
+  const [questions, setQuestions] = useState<ContentQuestion[]>([]);
   const [answers, setAnswers] = useState<(string | null)[]>([]);
   const [currentQ, setCurrentQ] = useState(0);
   const [timeLeft, setTimeLeft] = useState(180);
@@ -1598,11 +1131,11 @@ function BattleArena({
   const timerRef = useRef<ReturnType<typeof setInterval>>();
   const submitGuard = useRef(false);
   const answersRef = useRef<(string | null)[]>([]);
-  const questionsRef = useRef<Questao[]>([]);
+  const questionsRef = useRef<ContentQuestion[]>([]);
   const startTimeRef = useRef(Date.now());
 
   // Callback chamado ao detectar troca de aba/foco
-  const handleTabSwitch = useCallback(() => {
+  const handleTabSwitch = useCallback(async () => {
     const qs = questionsRef.current;
     if (qs.length === 0 || submitGuard.current) return;
 
@@ -1610,12 +1143,12 @@ function BattleArena({
     const currentQuestion = qs[idx];
     if (!currentQuestion) return;
 
-    // IDs já usados no duelo (não repetir)
+    // IDs jÃ¡ usados no duelo (nÃ£o repetir)
     const usedIds = new Set(qs.map(q => q.id));
-    const replacement = getReplacementQuestion(temas, currentQuestion, usedIds);
+    const replacement = await fetchReplacementQuestion(currentQuestion, usedIds);
 
     if (replacement) {
-      // Trocar a questão e limpar a resposta
+      // Trocar a questÃ£o e limpar a resposta
       const newQs = [...qs];
       newQs[idx] = replacement;
       questionsRef.current = newQs;
@@ -1632,7 +1165,7 @@ function BattleArena({
 
       toast({
         title: "Pergunta trocada!",
-        description: "Você saiu da aba. A pergunta foi substituída por outra.",
+        description: "VocÃª saiu da aba. A pergunta foi substituÃ­da por outra.",
         variant: "destructive",
       });
     }
@@ -1642,20 +1175,23 @@ function BattleArena({
 
   // Carregar duelo
   useEffect(() => {
-    if (temas.length === 0) return;
     (async () => {
       const { data } = await supabase.from("duels").select("*").eq("id", duelId).single();
       if (!data) return;
       const d = data as Duel;
       setDuel(d);
-      const qs = getQuestionsByIds(temas, d.question_ids);
+      const qs = await fetchQuestionsByIds(d.question_ids);
       setQuestions(qs);
       questionsRef.current = qs;
       answersRef.current = new Array(qs.length).fill(null);
       setAnswers(answersRef.current);
       setTimeLeft(d.time_limit);
+      startTimeRef.current = Date.now();
+
+      // Tela VS por 2.5 segundos
+      setTimeout(() => setShowVS(false), 2500);
     })();
-  }, [duelId, temas]);
+  }, [duelId]);
 
   // Timer
   useEffect(() => {
@@ -1708,37 +1244,15 @@ function BattleArena({
       await supabase.rpc("finalize_duel", { p_duel_id: duel.id });
     }
 
-    let fresh: Duel | null = null;
-    for (let attempt = 0; attempt < 4; attempt += 1) {
-      const { data } = await supabase.from("duels").select("*").eq("id", duel.id).single();
-      fresh = (data as Duel | null) ?? null;
-      if (playerRole !== "challenged" || fresh?.status === "concluido") break;
-      await new Promise((resolve) => window.setTimeout(resolve, 500));
-    }
-
+    // Buscar duelo atualizado
+    const { data: fresh } = await supabase.from("duels").select("*").eq("id", duel.id).single();
     setSubmitting(false);
     setSubmitted(true);
-    if (fresh) onDone(fresh);
+    if (fresh) onDone(fresh as Duel);
   }, [duel, playerRole, flagsRef, onDone]);
 
-  if (!duel || questions.length === 0) {
-    return (
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        className="flex min-h-[50vh] flex-col items-center justify-center"
-      >
-        <Loader2 className="mb-4 h-10 w-10 animate-spin text-primary" />
-        <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Preparando a arena</h2>
-        <p className="font-body text-sm text-muted-foreground">
-          Estamos montando o duelo e separando suas perguntas.
-        </p>
-      </motion.div>
-    );
-  }
-
   // Tela VS
-  if (showVS) {
+  if (showVS || !duel || questions.length === 0) {
     return (
       <motion.div
         initial={{ opacity: 0 }}
@@ -1751,7 +1265,7 @@ function BattleArena({
           transition={{ duration: 0.8, ease: "backOut" }}
           className="mb-6 text-8xl"
         >
-          ✏️
+          âš”ï¸
         </motion.div>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
@@ -1759,7 +1273,7 @@ function BattleArena({
           transition={{ delay: 0.4 }}
           className="mb-2 font-heading text-3xl font-extrabold text-foreground"
         >
-          Arena pronta
+          Preparar...
         </motion.h2>
         <motion.div
           initial={{ opacity: 0 }}
@@ -1768,7 +1282,7 @@ function BattleArena({
           className="flex items-center gap-3 text-sm font-body text-muted-foreground"
         >
           <Shield className="h-4 w-4 text-destructive" />
-          Anti-trapaça ativado — não saia desta aba!
+          Anti-trapaÃ§a ativado â€” nÃ£o saia desta aba!
         </motion.div>
         <motion.p
           initial={{ opacity: 0 }}
@@ -1778,16 +1292,6 @@ function BattleArena({
         >
           LUTAR!
         </motion.p>
-        <button
-          type="button"
-          onClick={() => {
-            startTimeRef.current = Date.now();
-            setShowVS(false);
-          }}
-          className="btn-tap mt-6 rounded-2xl bg-primary px-8 py-3 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
-        >
-          Começar duelo
-        </button>
       </motion.div>
     );
   }
@@ -1808,7 +1312,7 @@ function BattleArena({
             className="flex items-center gap-2 rounded-xl bg-destructive/15 px-4 py-3 font-body text-xs text-destructive"
           >
             <Shuffle className="h-4 w-4 flex-shrink-0" />
-            <span className="font-semibold">Pergunta trocada! Você saiu da aba e a questão foi substituída.</span>
+            <span className="font-semibold">Pergunta trocada! VocÃª saiu da aba e a questÃ£o foi substituÃ­da.</span>
           </motion.div>
         )}
       </AnimatePresence>
@@ -1821,7 +1325,7 @@ function BattleArena({
           className="flex items-center gap-2 rounded-xl bg-accent/10 px-4 py-2 font-body text-xs text-accent"
         >
           <AlertTriangle className="h-3.5 w-3.5" />
-          {flags.length} troca(s) de pergunta — não saia desta aba!
+          {flags.length} troca(s) de pergunta â€” nÃ£o saia desta aba!
         </motion.div>
       )}
 
@@ -1848,7 +1352,7 @@ function BattleArena({
         </motion.div>
       </div>
 
-      {/* Questão */}
+      {/* QuestÃ£o */}
       <AnimatePresence mode="wait">
         <motion.div
           key={`${currentQ}-${q.id}`}
@@ -1860,14 +1364,14 @@ function BattleArena({
         >
           <div className="mb-2 flex items-center gap-2">
             <span className="font-body text-xs text-muted-foreground">
-              Questão {currentQ + 1} de {questions.length}
+              QuestÃ£o {currentQ + 1} de {questions.length}
             </span>
             <span className={`rounded-full px-2 py-0.5 font-body text-[10px] ${
               q.dificuldade === "facil" ? "bg-success/10 text-success"
               : q.dificuldade === "medio" ? "bg-accent/10 text-accent"
               : "bg-destructive/10 text-destructive"
             }`}>
-              {q.dificuldade === "facil" ? "fácil" : q.dificuldade === "medio" ? "médio" : "difícil"}
+              {q.dificuldade === "facil" ? "fÃ¡cil" : q.dificuldade === "medio" ? "mÃ©dio" : "difÃ­cil"}
             </span>
           </div>
           <h3 className="mb-5 font-heading text-base font-bold leading-relaxed text-foreground">{q.enunciado}</h3>
@@ -1911,14 +1415,14 @@ function BattleArena({
         </motion.div>
       </AnimatePresence>
 
-      {/* Navegação */}
+      {/* NavegaÃ§Ã£o */}
       <div className="flex justify-between gap-3">
         <button
           onClick={() => setCurrentQ(p => Math.max(0, p - 1))}
           disabled={currentQ === 0}
           className="btn-tap rounded-xl border-2 border-border px-5 py-3 font-heading text-sm font-semibold text-foreground hover:bg-secondary disabled:opacity-40"
         >
-          ← Anterior
+          â† Anterior
         </button>
         {currentQ === questions.length - 1 ? (
           <button
@@ -1926,14 +1430,14 @@ function BattleArena({
             disabled={submitting}
             className="btn-tap rounded-xl bg-primary px-6 py-3 font-heading text-sm font-bold text-primary-foreground hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
           >
-            {submitting ? <Loader2 className="mx-2 h-4 w-4 animate-spin" /> : `Finalizar (${answered}/${questions.length}) ✓`}
+            {submitting ? <Loader2 className="mx-2 h-4 w-4 animate-spin" /> : `Finalizar (${answered}/${questions.length}) âœ“`}
           </button>
         ) : (
           <button
             onClick={() => setCurrentQ(p => Math.min(questions.length - 1, p + 1))}
             className="btn-tap rounded-xl bg-primary px-5 py-3 font-heading text-sm font-semibold text-primary-foreground hover:bg-primary/90"
           >
-            Próxima →
+            PrÃ³xima â†’
           </button>
         )}
       </div>
@@ -1947,7 +1451,7 @@ function BattleArena({
           disabled={submitting}
           className="btn-tap w-full rounded-xl border-2 border-success/30 bg-success/10 py-3 font-heading text-sm font-bold text-success hover:bg-success/20"
         >
-          ✅ Todas respondidas — Finalizar agora
+          âœ… Todas respondidas â€” Finalizar agora
         </motion.button>
       )}
     </div>
@@ -1955,7 +1459,7 @@ function BattleArena({
 }
 
 // ============================================================
-// WaitingView — Aguardando adversário aceitar e responder
+// WaitingView â€” Aguardando adversÃ¡rio aceitar e responder
 // ============================================================
 
 function WaitingView({
@@ -1978,7 +1482,7 @@ function WaitingView({
 
   useEffect(() => {
     check();
-    const interval = setInterval(check, 5000);
+    const interval = setInterval(check, 15000);
     const ch = supabase
       .channel(`wait_${duelId}`)
       .on("postgres_changes", { event: "UPDATE", schema: "public", table: "duels", filter: `id=eq.${duelId}` }, () => check())
@@ -1999,19 +1503,19 @@ function WaitingView({
         transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
         className="mb-4 text-6xl"
       >
-        🏟️
+        ðŸŸï¸
       </motion.div>
       <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Desafio Enviado!</h2>
       <p className="mb-2 font-body text-sm text-muted-foreground">
-        Suas respostas foram salvas. Agora é só esperar um adversário aceitar!
+        Suas respostas foram salvas. Agora Ã© sÃ³ esperar um adversÃ¡rio aceitar!
       </p>
       <p className="mb-6 font-body text-xs text-muted-foreground/70">
-        O desafio fica aberto por até 7 dias. Você será notificado quando alguém responder.
+        O desafio fica aberto por atÃ© 7 dias. VocÃª serÃ¡ notificado quando alguÃ©m responder.
       </p>
 
       <div className="mb-6 flex items-center justify-center gap-2 text-sm font-body text-primary">
         <Loader2 className="h-4 w-4 animate-spin" />
-        Aguardando adversário...
+        Aguardando adversÃ¡rio...
       </div>
 
       <div className="flex justify-center gap-3">
@@ -2041,8 +1545,8 @@ function ResultsView({
   userId: string;
   onBack: () => void;
 }) {
-  const { temas } = useStudyContent();
   const [names, setNames] = useState<Record<string, string>>({});
+  const [questions, setQuestions] = useState<ContentQuestion[]>([]);
 
   useEffect(() => {
     const ids = [duel.challenger_id, duel.challenged_id].filter(Boolean) as string[];
@@ -2056,11 +1560,28 @@ function ResultsView({
     });
   }, [duel]);
 
+  useEffect(() => {
+    let active = true;
+
+    (async () => {
+      try {
+        const loadedQuestions = await fetchQuestionsByIds(duel.question_ids);
+        if (active) setQuestions(loadedQuestions);
+      } catch (error) {
+        console.error(error);
+        if (active) setQuestions([]);
+      }
+    })();
+
+    return () => {
+      active = false;
+    };
+  }, [duel.question_ids]);
+
   const iAmChallenger = duel.challenger_id === userId;
   const myScore = iAmChallenger ? duel.challenger_score : duel.challenged_score;
   const oppScore = iAmChallenger ? duel.challenged_score : duel.challenger_score;
   const myAnswers = iAmChallenger ? duel.challenger_answers : duel.challenged_answers;
-  const questions = getQuestionsByIds(temas, duel.question_ids);
 
   const iWon = duel.winner_id === userId;
   const iLost = duel.winner_id !== null && duel.winner_id !== userId;
@@ -2068,19 +1589,19 @@ function ResultsView({
 
   // Nomes com anonimato respeitado
   const myName = iAmChallenger
-    ? names[duel.challenger_id] || "Você"
-    : names[duel.challenged_id || ""] || "Você";
+    ? names[duel.challenger_id] || "VocÃª"
+    : names[duel.challenged_id || ""] || "VocÃª";
   const oppName = (() => {
     if (iAmChallenger) {
-      return names[duel.challenged_id || ""] || "Adversário";
+      return names[duel.challenged_id || ""] || "AdversÃ¡rio";
     }
-    // Se sou desafiado e modo anônimo, não revelar
-    if (duel.mode === "anonimo") return "Anônimo";
-    return names[duel.challenger_id] || "Adversário";
+    // Se sou desafiado e modo anÃ´nimo, nÃ£o revelar
+    if (duel.mode === "anonimo") return "AnÃ´nimo";
+    return names[duel.challenger_id] || "AdversÃ¡rio";
   })();
 
-  const emoji = iWon ? "🏆" : tie ? "🤝" : "💪";
-  const headline = iWon ? "Você venceu!" : tie ? "Empate!" : "Boa tentativa!";
+  const emoji = iWon ? "ðŸ†" : tie ? "ðŸ¤" : "ðŸ’ª";
+  const headline = iWon ? "VocÃª venceu!" : tie ? "Empate!" : "Boa tentativa!";
   const pts = iWon ? `+${WINNER_PTS}` : tie ? `+${TIE_PTS}` : "+0";
   const ptsColor = iWon ? "text-accent" : tie ? "text-primary" : "text-muted-foreground";
 
@@ -2114,7 +1635,7 @@ function ResultsView({
         >
           <div className="text-center">
             <div className="font-heading text-3xl font-extrabold text-primary">{myScore}/{questions.length}</div>
-            <div className="font-body text-xs text-muted-foreground">{myName} (você)</div>
+            <div className="font-body text-xs text-muted-foreground">{myName} (vocÃª)</div>
           </div>
           <div className="font-heading text-2xl font-black text-muted-foreground">vs</div>
           <div className="text-center">
@@ -2173,7 +1694,7 @@ function ResultsView({
 }
 
 // ============================================================
-// HistoryView — Histórico + Admin Log
+// HistoryView â€” HistÃ³rico + Admin Log
 // ============================================================
 
 function HistoryView({
@@ -2212,7 +1733,7 @@ function HistoryView({
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
-        <button onClick={onBack} className="btn-tap font-body text-sm text-muted-foreground hover:text-foreground">← Voltar</button>
+        <button onClick={onBack} className="btn-tap font-body text-sm text-muted-foreground hover:text-foreground">â† Voltar</button>
         {adminRole === "admin" && (
           <div className="flex gap-1 rounded-xl bg-secondary/50 p-1">
             {(["meus", "admin"] as const).map(t => (
@@ -2221,7 +1742,7 @@ function HistoryView({
                 onClick={() => { setTab(t); setLoading(true); }}
                 className={`rounded-lg px-3 py-1.5 font-heading text-xs font-semibold transition-all ${tab === t ? "bg-card text-foreground shadow-sm" : "text-muted-foreground"}`}
               >
-                {t === "meus" ? "Meus Duelos" : "🔐 Todos (Admin)"}
+                {t === "meus" ? "Meus Duelos" : "ðŸ” Todos (Admin)"}
               </button>
             ))}
           </div>
@@ -2232,7 +1753,7 @@ function HistoryView({
         <div className="flex items-center gap-2 rounded-xl bg-primary/5 px-3 py-2">
           <ShieldCheck className="h-4 w-4 text-primary" />
           <p className="font-body text-xs text-muted-foreground">
-            Identidades reais visíveis, incluindo duelos anônimos
+            Identidades reais visÃ­veis, incluindo duelos anÃ´nimos
           </p>
         </div>
       )}
@@ -2246,8 +1767,8 @@ function HistoryView({
       ) : (
         <div className="space-y-2">
           {duels.map(d => {
-            const cName = profiles.get(d.challenger_id) || "—";
-            const dName = d.challenged_id ? profiles.get(d.challenged_id) || "—" : "—";
+            const cName = profiles.get(d.challenger_id) || "â€”";
+            const dName = d.challenged_id ? profiles.get(d.challenged_id) || "â€”" : "â€”";
             const winner = d.winner_id ? profiles.get(d.winner_id) : null;
             const date = new Date(d.created_at).toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
             const isClickable = d.status === "concluido" && (d.challenger_id === userId || d.challenged_id === userId || adminRole === "admin");
@@ -2263,14 +1784,14 @@ function HistoryView({
                 <div className="mb-2 flex items-center justify-between text-xs text-muted-foreground">
                   <span>{date}</span>
                   <div className="flex gap-1.5">
-                    {d.mode === "anonimo" && <span className="rounded-full bg-accent/10 px-2 py-0.5 text-[10px] text-accent">Anônimo</span>}
+                    {d.mode === "anonimo" && <span className="rounded-full bg-accent/10 px-2 py-0.5 text-[10px] text-accent">AnÃ´nimo</span>}
                     <span className={`rounded-full px-2 py-0.5 text-[10px] ${
                       d.status === "concluido" ? "bg-success/10 text-success"
                       : d.status === "aguardando" ? "bg-primary/10 text-primary"
                       : d.status === "em_batalha" ? "bg-accent/10 text-accent"
                       : "bg-secondary text-muted-foreground"
                     }`}>
-                      {d.status === "concluido" ? "Concluído" : d.status === "aguardando" ? "Aguardando" : d.status === "em_batalha" ? "Em batalha" : d.status}
+                      {d.status === "concluido" ? "ConcluÃ­do" : d.status === "aguardando" ? "Aguardando" : d.status === "em_batalha" ? "Em batalha" : d.status}
                     </span>
                   </div>
                 </div>
@@ -2279,7 +1800,7 @@ function HistoryView({
                     <p className="font-heading text-sm font-semibold">{cName}</p>
                     <p className="font-heading text-lg font-extrabold text-primary">{d.challenger_score}</p>
                   </div>
-                  <div className="font-heading text-sm font-black text-muted-foreground">×</div>
+                  <div className="font-heading text-sm font-black text-muted-foreground">Ã—</div>
                   <div className="flex-1">
                     <p className="font-heading text-sm font-semibold">{dName}</p>
                     <p className="font-heading text-lg font-extrabold text-accent">{d.challenged_score}</p>
@@ -2288,9 +1809,9 @@ function HistoryView({
                 {d.status === "concluido" && (
                   <div className="mt-2 border-t border-border pt-2 text-center text-xs">
                     {winner ? (
-                      <span className="text-success">🏆 {winner} +{WINNER_PTS} pts</span>
+                      <span className="text-success">ðŸ† {winner} +{WINNER_PTS} pts</span>
                     ) : (
-                      <span className="text-primary">🤝 Empate +{TIE_PTS} pts cada</span>
+                      <span className="text-primary">ðŸ¤ Empate +{TIE_PTS} pts cada</span>
                     )}
                   </div>
                 )}
@@ -2302,3 +1823,4 @@ function HistoryView({
     </div>
   );
 }
+

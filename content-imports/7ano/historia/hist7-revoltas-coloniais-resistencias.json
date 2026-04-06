@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hist7-revoltas-coloniais-resistencias",
+    "titulo": "Revoltas coloniais e resistências",
+    "disciplinaId": "hist7",
+    "turmaId": "7ano",
+    "unidade": "Conflitos no período colonial",
+    "resumo": [
+      "O período colonial foi marcado por conflitos, resistências e disputas de poder.",
+      "Diversos grupos reagiram a imposições econômicas, políticas e sociais.",
+      "Estudar esse tema ajuda a compreender a colonização como processo conflituoso."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Conflito e resistência",
+        "texto": "A vida colonial não foi marcada apenas pela dominação, mas também por formas de resistência e contestação. Revoltas e movimentos expressaram insatisfações com impostos, exploração, desigualdades e controles impostos pela metrópole.",
+        "dica": "Observe quais grupos sociais participaram das resistências e quais eram suas motivações."
+      },
+      {
+        "subtitulo": "Diversidade de interesses",
+        "texto": "Cada revolta tinha contexto, participantes e objetivos específicos. Analisar essas diferenças ajuda a entender que o período colonial envolveu tensões constantes e disputas por autonomia, melhores condições ou mudanças políticas.",
+        "dica": "Evite generalizações: compare causas e objetivos de diferentes movimentos."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um movimento colonial motivado por cobrança excessiva de impostos e insatisfação política.",
+        "passos": [
+          "Identifique a causa principal da revolta.",
+          "Observe quem participou do movimento.",
+          "Relacione essa situação à ideia de resistência no período colonial."
+        ],
+        "resposta": "Esse exemplo mostra que o mundo colonial também foi marcado por contestação e conflito."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist7-revoltas-coloniais-resistencias-ex-01","enunciado":"As revoltas coloniais mostram que o período colonial foi:","tipo":"multipla_escolha","alternativas":["marcado por conflitos e resistências","um tempo sem contestação alguma","um período de completa igualdade social","uma fase sem disputas políticas"],"respostaCorreta":"marcado por conflitos e resistências","explicacao":"Houve diversos movimentos de reação às imposições do sistema colonial.","dificuldade":"facil"},
+      {"id":"hist7-revoltas-coloniais-resistencias-ex-02","enunciado":"Muitas revoltas coloniais se relacionavam a:","tipo":"multipla_escolha","alternativas":["impostos, exploração e insatisfação política","apenas festas religiosas","somente mudanças climáticas","questões sem impacto social"],"respostaCorreta":"impostos, exploração e insatisfação política","explicacao":"Esses fatores ajudaram a motivar diferentes movimentos de resistência no período colonial.","dificuldade":"facil"},
+      {"id":"hist7-revoltas-coloniais-resistencias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As resistências coloniais revelam tensões e desigualdades do período.","A colonização ocorreu sem conflitos internos.","Todos os grupos tinham os mesmos interesses nas revoltas.","As revoltas não ajudam a compreender a história colonial."],"respostaCorreta":"As resistências coloniais revelam tensões e desigualdades do período.","explicacao":"Esses movimentos ajudam a entender disputas sociais, econômicas e políticas da época.","dificuldade":"medio"},
+      {"id":"hist7-revoltas-coloniais-resistencias-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["perceber a colonização como processo conflituoso e desigual","achar que o período colonial foi homogêneo e pacífico","ignorar a ação de grupos resistentes","separar totalmente economia e política da história colonial"],"respostaCorreta":"perceber a colonização como processo conflituoso e desigual","explicacao":"O tema amplia a compreensão da história colonial ao destacar resistências e tensões sociais.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist7-revoltas-coloniais-resistencias-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["o período colonial também foi marcado por resistências e disputas de poder","a colonização aconteceu sem conflitos nem contestação","as revoltas coloniais não tinham causas sociais ou políticas","o mundo colonial era totalmente estável"],"respostaCorreta":"o período colonial também foi marcado por resistências e disputas de poder","explicacao":"O conteúdo mostra que a história colonial envolveu reações, tensões e interesses diversos.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hist8-revolucao-francesa",
+    "titulo": "Revolução Francesa",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Transformações políticas",
+    "resumo": ["A Revolução Francesa provocou grandes mudanças políticas e sociais.","Ela se relacionou à crítica aos privilégios e ao absolutismo.","Esse tema ajuda a compreender o mundo contemporâneo."],
+    "explicacao": [
+      {"subtitulo":"Mudança histórica","texto":"A Revolução Francesa marcou uma ruptura importante com antigas estruturas políticas e sociais.","dica":"Observe a revolução como um processo de transformação."},
+      {"subtitulo":"Impactos","texto":"As ideias e acontecimentos do período influenciaram debates sobre direitos, cidadania e poder.","dica":"Pense nos efeitos além da França."}
+    ],
+    "exemplos": [
+      {"enunciado":"Relacione críticas aos privilégios com a Revolução Francesa.","passos":["Havia insatisfação com desigualdades.","Essas críticas estimularam mudanças políticas."],"resposta":"A revolução se conectou a questionamentos do antigo regime."}
+    ],
+    "exercicios": [
+      {"id":"hist8-revolucao-francesa-ex-01","enunciado":"A Revolução Francesa foi marcada por:","tipo":"multipla_escolha","alternativas":["mudanças políticas e sociais","ausência de conflitos","apenas transformações climáticas","somente mapas"],"respostaCorreta":"mudanças políticas e sociais","explicacao":"Esse processo alterou de forma profunda a vida política e social.","dificuldade":"facil"},
+      {"id":"hist8-revolucao-francesa-ex-02","enunciado":"A revolução se relacionou à crítica de:","tipo":"multipla_escolha","alternativas":["privilégios e absolutismo","somente relevo","cores e formas","operações algébricas"],"respostaCorreta":"privilégios e absolutismo","explicacao":"Esses elementos estavam entre os alvos das críticas do período.","dificuldade":"facil"},
+      {"id":"hist8-revolucao-francesa-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A Revolução Francesa influenciou debates sobre direitos e poder.","A revolução não teve impacto histórico.","A França não passou por mudanças.","O tema não se relaciona à cidadania."],"respostaCorreta":"A Revolução Francesa influenciou debates sobre direitos e poder.","explicacao":"O tema é central para compreender transformações políticas modernas.","dificuldade":"medio"},
+      {"id":"hist8-revolucao-francesa-ex-04","enunciado":"A principal ideia desse tema é compreender:","tipo":"multipla_escolha","alternativas":["uma grande transformação política e social","a eliminação de toda história","a ausência de direitos","somente a geografia da França"],"respostaCorreta":"uma grande transformação política e social","explicacao":"A Revolução Francesa marcou um processo histórico de forte impacto.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist8-revolucao-francesa-sim-01","enunciado":"Esse tema ajuda a entender a relação entre:","tipo":"multipla_escolha","alternativas":["revolução, direitos e mudanças políticas","pontuação e leitura","biologia e mapas","cores e contrastes"],"respostaCorreta":"revolução, direitos e mudanças políticas","explicacao":"A Revolução Francesa se liga a debates sobre cidadania e poder.","dificuldade":"medio"}
+    ]
+  }
+]

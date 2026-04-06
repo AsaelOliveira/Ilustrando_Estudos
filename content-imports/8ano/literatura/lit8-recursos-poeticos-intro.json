@@ -1,0 +1,45 @@
+[
+  {
+    "id": "lit8-recursos-poeticos-intro",
+    "titulo": "Introdução aos recursos poéticos",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários.",
+      "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo.",
+      "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressividade do poema",
+        "texto": "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos.",
+        "dica": "Leia o poema em voz alta para perceber melhor som, ritmo e repetições."
+      },
+      {
+        "subtitulo": "Leitura atenta da linguagem",
+        "texto": "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos.",
+        "dica": "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia dois versos que repetem sons semelhantes no final.",
+        "passos": [
+          "Observe a repetição sonora entre as palavras finais.",
+          "Perceba como isso contribui para a musicalidade do poema."
+        ],
+        "resposta": "Esse exemplo mostra a presença de recurso poético na construção do texto."
+      }
+    ],
+    "exercicios": [
+      {"id":"lit8-recursos-poeticos-intro-ex-01","enunciado":"Um recurso poético pode contribuir para:","tipo":"multipla_escolha","alternativas":["ritmo e expressividade do poema","eliminação do sentido literário","substituição da leitura por números","fim da subjetividade do texto"],"respostaCorreta":"ritmo e expressividade do poema","explicacao":"Os recursos poéticos ajudam a construir musicalidade, imagens e efeitos de sentido.","dificuldade":"facil"},
+      {"id":"lit8-recursos-poeticos-intro-ex-02","enunciado":"A rima está relacionada principalmente a:","tipo":"multipla_escolha","alternativas":["repetição sonora","cálculo geométrico","análise sintática","classificação dos continentes"],"respostaCorreta":"repetição sonora","explicacao":"A rima aproxima sons e contribui para a musicalidade do texto poético.","dificuldade":"facil"},
+      {"id":"lit8-recursos-poeticos-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Os recursos poéticos ajudam a produzir sentidos e efeitos estéticos.","Poemas não usam recursos expressivos específicos.","A forma do poema não interfere na leitura.","A linguagem poética dispensa atenção às palavras."],"respostaCorreta":"Os recursos poéticos ajudam a produzir sentidos e efeitos estéticos.","explicacao":"Na poesia, a escolha da linguagem é importante para criar ritmo, imagens e emoções.","dificuldade":"medio"},
+      {"id":"lit8-recursos-poeticos-intro-ex-04","enunciado":"Estudar recursos poéticos ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler poemas com mais sensibilidade e atenção","reduzir toda poesia a um significado único","ignorar a musicalidade do texto","pensar que poemas não têm intenção estética"],"respostaCorreta":"ler poemas com mais sensibilidade e atenção","explicacao":"Esse estudo amplia a percepção dos efeitos de linguagem presentes na poesia.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"lit8-recursos-poeticos-intro-sim-01","enunciado":"A principal função dos recursos poéticos é:","tipo":"multipla_escolha","alternativas":["enriquecer a linguagem e a experiência de leitura do poema","eliminar toda subjetividade da poesia","transformar o poema em texto técnico","substituir o sentido por mera repetição automática"],"respostaCorreta":"enriquecer a linguagem e a experiência de leitura do poema","explicacao":"Os recursos poéticos contribuem para ritmo, musicalidade, imagens e sentidos no texto literário.","dificuldade":"medio"}
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "edf9-autocuidado-postura-movimento",
+    "titulo": "Autocuidado, postura e movimento",
+    "disciplinaId": "edf9",
+    "turmaId": "9ano",
+    "unidade": "Corpo e consciência corporal",
+    "resumo": [
+      "A postura e o movimento adequados contribuem para saúde e bem-estar no cotidiano.",
+      "Autocuidado envolve atenção a alongamento, descanso, postura e hábitos corporais.",
+      "Estudar esse tema ajuda a prevenir desconfortos e desenvolver consciência corporal."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Consciência corporal no dia a dia",
+        "texto": "Observar a forma como sentamos, caminhamos, carregamos objetos e usamos o corpo em diferentes atividades é importante para evitar sobrecargas e melhorar o bem-estar. A consciência corporal favorece mais equilíbrio e segurança nos movimentos.",
+        "dica": "Perceba como pequenos ajustes na postura podem reduzir desconfortos ao longo do dia."
+      },
+      {
+        "subtitulo": "Autocuidado e prevenção",
+        "texto": "Cuidar do corpo envolve reconhecer limites, respeitar momentos de descanso e valorizar práticas que melhorem mobilidade e postura. Esse processo fortalece autonomia e prevenção de problemas associados ao sedentarismo e a hábitos inadequados.",
+        "dica": "Alongamentos, pausas e postura adequada podem fazer diferença na rotina escolar e fora dela."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma rotina de estudos com postura inadequada a outra com pausas, alongamento e posição mais equilibrada.",
+        "passos": [
+          "Observe diferenças no uso do corpo em cada situação.",
+          "Analise possíveis efeitos sobre o bem-estar.",
+          "Relacione as escolhas à ideia de autocuidado."
+        ],
+        "resposta": "Esse contraste mostra como hábitos corporais influenciam a saúde e a qualidade de vida."
+      }
+    ],
+    "exercicios": [
+      {"id":"edf9-autocuidado-postura-movimento-ex-01","enunciado":"Cuidar da postura é importante porque pode:","tipo":"multipla_escolha","alternativas":["reduzir desconfortos e melhorar o bem-estar","eliminar a necessidade de descanso","substituir toda prática corporal","dispensar atenção ao movimento"],"respostaCorreta":"reduzir desconfortos e melhorar o bem-estar","explicacao":"A postura adequada contribui para uso mais equilibrado do corpo no cotidiano.","dificuldade":"facil"},
+      {"id":"edf9-autocuidado-postura-movimento-ex-02","enunciado":"Uma atitude de autocuidado corporal é:","tipo":"multipla_escolha","alternativas":["fazer pausas e alongamentos durante a rotina","ignorar sinais de desconforto","manter sempre a mesma posição por horas","desconsiderar a importância do descanso"],"respostaCorreta":"fazer pausas e alongamentos durante a rotina","explicacao":"Essas práticas ajudam a cuidar do corpo e a prevenir sobrecargas.","dificuldade":"facil"},
+      {"id":"edf9-autocuidado-postura-movimento-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Consciência corporal ajuda a usar o corpo com mais equilíbrio e segurança.","Postura não interfere no bem-estar diário.","Autocuidado corporal não tem relação com prevenção.","Movimento e descanso não influenciam a saúde."],"respostaCorreta":"Consciência corporal ajuda a usar o corpo com mais equilíbrio e segurança.","explicacao":"Perceber o próprio corpo favorece escolhas mais saudáveis e conscientes.","dificuldade":"medio"},
+      {"id":"edf9-autocuidado-postura-movimento-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver hábitos corporais mais saudáveis","tratar postura como detalhe sem importância","separar corpo e rotina diária","ignorar sinais do próprio organismo"],"respostaCorreta":"desenvolver hábitos corporais mais saudáveis","explicacao":"O conteúdo incentiva atenção ao corpo, à postura e à prevenção de desconfortos.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"edf9-autocuidado-postura-movimento-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["postura, movimento e autocuidado influenciam a saúde no cotidiano","o corpo não precisa de atenção nas atividades diárias","descanso e postura não têm relação com bem-estar","autocuidado corporal depende apenas de esporte competitivo"],"respostaCorreta":"postura, movimento e autocuidado influenciam a saúde no cotidiano","explicacao":"O tema mostra que pequenas escolhas corporais têm impacto importante na qualidade de vida.","dificuldade":"medio"}
+    ]
+  }
+]

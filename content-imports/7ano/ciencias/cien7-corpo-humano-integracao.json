@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cien7-corpo-humano-integracao",
+    "titulo": "Corpo humano e integração dos sistemas",
+    "disciplinaId": "cien7",
+    "turmaId": "7ano",
+    "unidade": "Corpo humano",
+    "resumo": [
+      "O corpo humano funciona por meio da integração entre vários sistemas.",
+      "Digestão, circulação, respiração e outras funções estão conectadas.",
+      "Estudar esse tema ajuda a compreender o organismo como um conjunto articulado."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Sistemas que trabalham juntos",
+        "texto": "Os sistemas do corpo não atuam isoladamente. Respiração, circulação, digestão e excreção, por exemplo, participam de processos articulados para manter o funcionamento do organismo.",
+        "dica": "Pense no corpo como um conjunto de partes que se relacionam continuamente."
+      },
+      {
+        "subtitulo": "Equilíbrio e funcionamento do organismo",
+        "texto": "Quando os sistemas atuam de forma integrada, o corpo consegue realizar trocas, obter energia, transportar substâncias e eliminar resíduos. Essa integração é fundamental para a saúde e para a manutenção da vida.",
+        "dica": "Observe como uma função corporal pode depender do trabalho simultâneo de mais de um sistema."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere a alimentação de uma pessoa e o caminho dos nutrientes pelo corpo.",
+        "passos": [
+          "Observe a atuação do sistema digestório.",
+          "Perceba como o sistema circulatório participa do transporte das substâncias.",
+          "Relacione esse processo à integração dos sistemas."
+        ],
+        "resposta": "Esse exemplo mostra que o funcionamento do corpo depende da articulação entre diferentes sistemas."
+      }
+    ],
+    "exercicios": [
+      {"id":"cien7-corpo-humano-integracao-ex-01","enunciado":"O corpo humano funciona por meio de:","tipo":"multipla_escolha","alternativas":["integração entre sistemas","partes totalmente isoladas","apenas um único órgão","funções sem relação entre si"],"respostaCorreta":"integração entre sistemas","explicacao":"Os sistemas do corpo atuam de modo articulado para manter o organismo funcionando.","dificuldade":"facil"},
+      {"id":"cien7-corpo-humano-integracao-ex-02","enunciado":"Qual exemplo mostra integração entre sistemas?","tipo":"multipla_escolha","alternativas":["digestão e transporte de nutrientes pelo sangue","classificação de palavras","desenho de mapas","leitura de um poema"],"respostaCorreta":"digestão e transporte de nutrientes pelo sangue","explicacao":"Esse processo envolve a ação conjunta de mais de um sistema corporal.","dificuldade":"facil"},
+      {"id":"cien7-corpo-humano-integracao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A saúde do organismo depende do funcionamento articulado de seus sistemas.","Cada sistema do corpo trabalha sem qualquer relação com os demais.","O corpo humano dispensa trocas e transportes internos.","A integração dos sistemas não influencia a vida."],"respostaCorreta":"A saúde do organismo depende do funcionamento articulado de seus sistemas.","explicacao":"A manutenção do corpo depende de relações entre órgãos e sistemas com funções complementares.","dificuldade":"medio"},
+      {"id":"cien7-corpo-humano-integracao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["entender o organismo como conjunto articulado","separar totalmente cada função do corpo","ignorar relações internas do corpo humano","considerar os sistemas independentes entre si"],"respostaCorreta":"entender o organismo como conjunto articulado","explicacao":"O conteúdo amplia a compreensão do corpo humano como sistema integrado.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"cien7-corpo-humano-integracao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["os sistemas do corpo atuam juntos para manter o organismo em funcionamento","cada sistema do corpo trabalha sozinho","o organismo não depende de integração interna","funções vitais não se relacionam entre si"],"respostaCorreta":"os sistemas do corpo atuam juntos para manter o organismo em funcionamento","explicacao":"O conteúdo mostra a interdependência entre sistemas e funções corporais.","dificuldade":"medio"}
+    ]
+  }
+]

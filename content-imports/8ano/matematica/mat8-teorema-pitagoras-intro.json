@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat8-teorema-pitagoras-intro",
+    "titulo": "Introdução ao teorema de Pitágoras",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "O teorema de Pitágoras relaciona os lados de um triângulo retângulo.",
+      "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa.",
+      "Esse teorema é útil para calcular medidas desconhecidas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Triângulo retângulo",
+        "texto": "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos.",
+        "dica": "Antes de aplicar a fórmula, confirme se o triângulo é retângulo."
+      },
+      {
+        "subtitulo": "Relação entre os lados",
+        "texto": "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas.",
+        "dica": "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um triângulo retângulo com catetos 3 e 4.",
+        "passos": [
+          "Calcule 3² e 4².",
+          "Some 9 + 16 e obtenha 25.",
+          "Encontre a raiz quadrada de 25."
+        ],
+        "resposta": "A hipotenusa mede 5 unidades."
+      }
+    ],
+    "exercicios": [
+      {"id":"mat8-teorema-pitagoras-intro-ex-01","enunciado":"O teorema de Pitágoras se aplica a qual figura?","tipo":"multipla_escolha","alternativas":["triângulo retângulo","círculo","losango","trapézio"],"respostaCorreta":"triângulo retângulo","explicacao":"Esse teorema vale especificamente para triângulos que possuem ângulo reto.","dificuldade":"facil"},
+      {"id":"mat8-teorema-pitagoras-intro-ex-02","enunciado":"No triângulo retângulo, o maior lado recebe o nome de:","tipo":"multipla_escolha","alternativas":["hipotenusa","cateto menor","altura lateral","base auxiliar"],"respostaCorreta":"hipotenusa","explicacao":"A hipotenusa é o lado oposto ao ângulo reto e também o maior lado do triângulo.","dificuldade":"facil"},
+      {"id":"mat8-teorema-pitagoras-intro-ex-03","enunciado":"Qual expressão representa corretamente o teorema de Pitágoras?","tipo":"multipla_escolha","alternativas":["a² + b² = c²","a + b = c","a² - b² = c","2a + 2b = c²"],"respostaCorreta":"a² + b² = c²","explicacao":"Essa é a relação fundamental entre catetos e hipotenusa no triângulo retângulo.","dificuldade":"medio"},
+      {"id":"mat8-teorema-pitagoras-intro-ex-04","enunciado":"Ao usar o teorema de Pitágoras, um cuidado essencial é:","tipo":"multipla_escolha","alternativas":["identificar corretamente a hipotenusa","eliminar o ângulo reto","ignorar as medidas conhecidas","substituir o triângulo por um círculo"],"respostaCorreta":"identificar corretamente a hipotenusa","explicacao":"Sem distinguir a hipotenusa dos catetos, a aplicação da relação pode ficar incorreta.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"mat8-teorema-pitagoras-intro-sim-01","enunciado":"O objetivo principal do teorema de Pitágoras é permitir o cálculo de:","tipo":"multipla_escolha","alternativas":["uma medida desconhecida em triângulo retângulo","qualquer área de círculo","o número de lados de um polígono","a soma dos ângulos internos de qualquer figura"],"respostaCorreta":"uma medida desconhecida em triângulo retângulo","explicacao":"A relação entre catetos e hipotenusa ajuda a encontrar comprimentos nesse tipo de triângulo.","dificuldade":"medio"}
+    ]
+  }
+]

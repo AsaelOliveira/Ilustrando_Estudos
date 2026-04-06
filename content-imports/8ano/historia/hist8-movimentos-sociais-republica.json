@@ -1,0 +1,45 @@
+[
+  {
+    "id": "hist8-movimentos-sociais-republica",
+    "titulo": "Movimentos sociais na Primeira República",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Brasil República",
+    "resumo": [
+      "A Primeira República foi marcada por movimentos sociais e conflitos em diferentes regiões.",
+      "Esses movimentos expressavam insatisfações políticas, sociais e econômicas.",
+      "Estudar esse tema ajuda a compreender a sociedade brasileira de forma mais crítica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Conflitos e reivindicações",
+        "texto": "Os movimentos sociais da Primeira República revelam que muitos grupos não estavam satisfeitos com as condições de vida, com as relações de poder ou com a exclusão política. Esses conflitos fazem parte da história do período e ajudam a compreender suas tensões internas.",
+        "dica": "Procure identificar o que motivava cada movimento e quais grupos estavam envolvidos."
+      },
+      {
+        "subtitulo": "Leitura histórica crítica",
+        "texto": "Estudar esses movimentos permite perceber que a sociedade brasileira era marcada por desigualdades e disputas. Isso amplia a compreensão da República para além das mudanças institucionais e dos governantes.",
+        "dica": "Observe como diferentes grupos sociais reagiram às condições do período."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que um grupo protesta contra condições injustas de vida ou de poder.",
+        "passos": [
+          "Identifique a causa da insatisfação.",
+          "Observe como o movimento expressa reivindicações coletivas."
+        ],
+        "resposta": "Esse tipo de análise ajuda a compreender a importância dos movimentos sociais na história republicana."
+      }
+    ],
+    "exercicios": [
+      {"id":"hist8-movimentos-sociais-republica-ex-01","enunciado":"Os movimentos sociais da Primeira República expressavam:","tipo":"multipla_escolha","alternativas":["insatisfações e conflitos sociais","ausência total de problemas políticos","plena igualdade entre todos os grupos","o fim de toda disputa por poder"],"respostaCorreta":"insatisfações e conflitos sociais","explicacao":"Esses movimentos mostram tensões ligadas a desigualdades e exclusões do período.","dificuldade":"facil"},
+      {"id":"hist8-movimentos-sociais-republica-ex-02","enunciado":"Estudar esses movimentos é importante porque eles:","tipo":"multipla_escolha","alternativas":["revelam aspectos sociais e políticos do período","não têm relação com a história do Brasil","tratam apenas de temas sem impacto coletivo","eliminam a necessidade de analisar desigualdades"],"respostaCorreta":"revelam aspectos sociais e políticos do período","explicacao":"Os movimentos sociais ajudam a compreender conflitos, reivindicações e relações de poder na Primeira República.","dificuldade":"facil"},
+      {"id":"hist8-movimentos-sociais-republica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Os movimentos sociais ajudam a ampliar a compreensão histórica da República.","A República foi um período sem conflitos sociais relevantes.","Esses movimentos não envolviam grupos organizados.","A história política dispensa a análise de reivindicações sociais."],"respostaCorreta":"Os movimentos sociais ajudam a ampliar a compreensão histórica da República.","explicacao":"Eles mostram que a história do período inclui disputas sociais, e não apenas mudanças institucionais.","dificuldade":"medio"},
+      {"id":"hist8-movimentos-sociais-republica-ex-04","enunciado":"Estudar movimentos sociais na Primeira República ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler o período de forma mais crítica e completa","achar que todos viviam em harmonia plena","ignorar desigualdades e conflitos","reduzir a história a nomes de governantes"],"respostaCorreta":"ler o período de forma mais crítica e completa","explicacao":"O tema destaca a atuação de grupos sociais e suas reivindicações na construção da história brasileira.","dificuldade":"medio"}
+    ],
+    "simulado": [
+      {"id":"hist8-movimentos-sociais-republica-sim-01","enunciado":"A principal contribuição do estudo dos movimentos sociais na Primeira República é mostrar que:","tipo":"multipla_escolha","alternativas":["a sociedade brasileira vivia conflitos e disputas que também fazem parte da história do período","a República se limitou a mudanças formais sem qualquer tensão social","não havia insatisfação entre os grupos sociais","o tema não interfere na compreensão histórica do Brasil"],"respostaCorreta":"a sociedade brasileira vivia conflitos e disputas que também fazem parte da história do período","explicacao":"Esses movimentos revelam que a Primeira República foi marcada por tensões, reivindicações e desigualdades.","dificuldade":"medio"}
+    ]
+  }
+]
