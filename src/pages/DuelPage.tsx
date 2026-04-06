@@ -123,6 +123,11 @@ const TIME_OPTIONS = [
   { value: 300, label: "5 minutos" },
 ];
 const QUESTION_OPTIONS = [3, 5, 7];
+const INTERCLASS_PRESETS = [
+  { questions: 5, timeLimit: 600, label: "5 questões · 10 min" },
+  { questions: 10, timeLimit: 1200, label: "10 questões · 20 min" },
+  { questions: 15, timeLimit: 1800, label: "15 questões · 30 min" },
+];
 
 function CrossedPencils({
   className = "",
@@ -737,6 +742,7 @@ function ConfigView({
   });
   const [creating, setCreating] = useState(false);
   const [themeSummaries, setThemeSummaries] = useState<ThemeSummary[]>([]);
+  const [totalAvailable, setTotalAvailable] = useState(0);
 
   // Busca de aluno para desafio direto
   const [searchQuery, setSearchQuery] = useState("");
@@ -794,12 +800,52 @@ function ConfigView({
     });
   }, [userTurma, cfg.interclass, cfg.numQuestions, themeSummaries]);
 
-  const totalAvailable = useMemo(() => {
-    return themeSummaries
-      .filter(theme => (cfg.interclass || theme.turmaId === userTurma))
-      .filter(theme => (cfg.disciplineId ? theme.disciplinaId === cfg.disciplineId : true))
-      .reduce((sum, theme) => sum + theme.exerciseCount + theme.simuladoCount, 0);
-  }, [cfg, themeSummaries, userTurma]);
+  useEffect(() => {
+    let active = true;
+
+    (async () => {
+      try {
+        let themeQuery = supabase
+          .from("content_themes")
+          .select("id")
+          .eq("ativo", true);
+
+        if (!cfg.interclass) {
+          themeQuery = themeQuery.eq("turma_id", userTurma);
+        }
+
+        if (cfg.disciplineId) {
+          themeQuery = themeQuery.eq("disciplina_id", cfg.disciplineId);
+        }
+
+        const { data: themes, error: themesError } = await themeQuery;
+        if (themesError || !active) return;
+
+        const themeIds = (themes || []).map((theme) => theme.id);
+        if (themeIds.length === 0) {
+          if (active) setTotalAvailable(0);
+          return;
+        }
+
+        const { count, error: countError } = await supabase
+          .from("content_questions")
+          .select("id", { count: "exact", head: true })
+          .eq("ativo", true)
+          .in("theme_id", themeIds);
+
+        if (!countError && active) {
+          setTotalAvailable(count || 0);
+        }
+      } catch (error) {
+        console.error(error);
+        if (active) setTotalAvailable(0);
+      }
+    })();
+
+    return () => {
+      active = false;
+    };
+  }, [cfg.interclass, cfg.disciplineId, userTurma]);
 
   const create = async () => {
     if (!user || !profile) return;
@@ -1035,55 +1081,76 @@ function ConfigView({
           </div>
         </fieldset>
 
-        {/* Disciplina */}
-        <fieldset className="mb-5">
-          <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Disciplina</legend>
-          <select
-            value={cfg.disciplineId || ""}
-            onChange={e => setCfg(p => ({ ...p, disciplineId: e.target.value || null }))}
-            className="w-full rounded-xl border-2 border-border bg-background px-4 py-3 font-body text-sm focus:border-primary focus:outline-none"
-          >
-            <option value="">Todas as disciplinas (aleatório)</option>
-            {availableDisciplines.map(d => (
-              <option key={d.id} value={d.id}>{d.nome}</option>
-            ))}
-          </select>
-        </fieldset>
+        {!cfg.interclass && (
+          <>
+            {/* Disciplina */}
+            <fieldset className="mb-5">
+              <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Disciplina</legend>
+              <select
+                value={cfg.disciplineId || ""}
+                onChange={e => setCfg(p => ({ ...p, disciplineId: e.target.value || null }))}
+                className="w-full rounded-xl border-2 border-border bg-background px-4 py-3 font-body text-sm focus:border-primary focus:outline-none"
+              >
+                <option value="">Todas as disciplinas (aleatório)</option>
+                {availableDisciplines.map(d => (
+                  <option key={d.id} value={d.id}>{d.nome}</option>
+                ))}
+              </select>
+            </fieldset>
 
-        {/* QuestÃµes e Tempo */}
-        <div className="mb-5 grid grid-cols-2 gap-4">
-          <fieldset>
-            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Questões</legend>
-            <div className="flex gap-2">
-              {QUESTION_OPTIONS.map(n => (
-                <button
-                  key={n}
-                  onClick={() => setCfg(p => ({ ...p, numQuestions: n }))}
-                  className={`btn-tap flex-1 rounded-xl border-2 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === n ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
+            {/* Questões e Tempo */}
+            <div className="mb-5 grid grid-cols-2 gap-4">
+              <fieldset>
+                <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Questões</legend>
+                <div className="flex gap-2">
+                  {QUESTION_OPTIONS.map(n => (
+                    <button
+                      key={n}
+                      onClick={() => setCfg(p => ({ ...p, numQuestions: n }))}
+                      className={`btn-tap flex-1 rounded-xl border-2 py-2.5 font-heading text-sm font-bold transition-all ${cfg.numQuestions === n ? "border-primary bg-primary/10 text-primary" : "border-border text-muted-foreground hover:border-primary/20"}`}
+                    >
+                      {n}
+                    </button>
+                  ))}
+                </div>
+              </fieldset>
+              <fieldset>
+                <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Tempo</legend>
+                <select
+                  value={cfg.timeLimit}
+                  onChange={e => setCfg(p => ({ ...p, timeLimit: Number(e.target.value) }))}
+                  className="w-full rounded-xl border-2 border-border bg-background px-3 py-2.5 font-body text-sm focus:border-primary focus:outline-none"
                 >
-                  {n}
-                </button>
-              ))}
+                  {TIME_OPTIONS.map(o => <option key={o.value} value={o.value}>{o.label}</option>)}
+                </select>
+              </fieldset>
             </div>
-          </fieldset>
-          <fieldset>
-            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Tempo</legend>
-            <select
-              value={cfg.timeLimit}
-              onChange={e => setCfg(p => ({ ...p, timeLimit: Number(e.target.value) }))}
-              className="w-full rounded-xl border-2 border-border bg-background px-3 py-2.5 font-body text-sm focus:border-primary focus:outline-none"
-            >
-              {TIME_OPTIONS.map(o => <option key={o.value} value={o.value}>{o.label}</option>)}
-            </select>
-          </fieldset>
-        </div>
+          </>
+        )}
 
         {/* Interclasse */}
         <label className="mb-5 flex cursor-pointer items-center gap-3 rounded-xl border-2 border-border p-4 transition-all hover:border-primary/20">
           <input
             type="checkbox"
             checked={cfg.interclass}
-            onChange={e => setCfg(p => ({ ...p, interclass: e.target.checked }))}
+            onChange={e => setCfg(p => {
+              if (e.target.checked) {
+                return {
+                  ...p,
+                  interclass: true,
+                  disciplineId: null,
+                  numQuestions: INTERCLASS_PRESETS[0].questions,
+                  timeLimit: INTERCLASS_PRESETS[0].timeLimit,
+                };
+              }
+
+              return {
+                ...p,
+                interclass: false,
+                numQuestions: 5,
+                timeLimit: 180,
+              };
+            })}
             className="h-4 w-4 rounded border-border text-primary accent-primary"
           />
           <div>
@@ -1091,6 +1158,29 @@ function ConfigView({
             <p className="font-body text-[11px] text-muted-foreground">Inclui questões de todas as turmas (mais difícil!)</p>
           </div>
         </label>
+
+        {cfg.interclass && (
+          <fieldset className="mb-5">
+            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Pacote interclasse</legend>
+            <div className="grid gap-3 sm:grid-cols-3">
+              {INTERCLASS_PRESETS.map((preset) => {
+                const activePreset = cfg.numQuestions === preset.questions && cfg.timeLimit === preset.timeLimit;
+                return (
+                  <button
+                    key={`${preset.questions}-${preset.timeLimit}`}
+                    onClick={() => setCfg((p) => ({ ...p, numQuestions: preset.questions, timeLimit: preset.timeLimit }))}
+                    className={`btn-tap rounded-xl border-2 px-4 py-3 text-left transition-all ${activePreset ? "border-primary bg-primary/10" : "border-border hover:border-primary/20"}`}
+                  >
+                    <p className={`font-heading text-sm font-bold ${activePreset ? "text-primary" : "text-foreground"}`}>
+                      {preset.questions} questões
+                    </p>
+                    <p className="font-body text-xs text-muted-foreground">{Math.floor(preset.timeLimit / 60)} minutos</p>
+                  </button>
+                );
+              })}
+            </div>
+          </fieldset>
+        )}
 
         {/* Nota admin */}
         {cfg.mode === "anonimo" && (
