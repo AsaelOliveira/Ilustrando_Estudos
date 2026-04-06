@@ -32,6 +32,7 @@ import {
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Confetti from "@/components/Confetti";
+import SimpleProfileAvatar from "@/components/SimpleProfileAvatar";
 import { useAuth } from "@/hooks/useAuth";
 import { useStudyContent } from "@/hooks/useStudyContent";
 import { supabase } from "@/integrations/supabase/client";
@@ -103,6 +104,7 @@ type DuelConfig = {
   targetType: "publico" | "privado";
   targetUserId: string | null;
   targetUserName: string | null;
+  targetAvatarUrl: string | null;
 };
 
 type RankingEntry = {
@@ -271,6 +273,12 @@ function MiniRanking({ userTurma, userId }: { userTurma: string; userId: string 
                 }`}
               >
                 <span className="w-5 flex-shrink-0 text-center">{medal}</span>
+                <SimpleProfileAvatar
+                  size="sm"
+                  src={e.avatar_url}
+                  showBadge={false}
+                  className="shrink-0"
+                />
                 <span className={`min-w-0 flex-1 truncate font-body ${isMe ? "text-primary" : "text-foreground"}`}>
                   {e.nome.split(" ")[0]}
                   {isMe && <span className="ml-1 text-[9px] text-primary/70">(você)</span>}
@@ -776,6 +784,7 @@ function ConfigView({
     targetType: "publico",
     targetUserId: null,
     targetUserName: null,
+    targetAvatarUrl: null,
   });
   const [creating, setCreating] = useState(false);
   const [themeSummaries, setThemeSummaries] = useState<ThemeSummary[]>([]);
@@ -783,7 +792,7 @@ function ConfigView({
 
   // Busca de aluno para desafio direto
   const [searchQuery, setSearchQuery] = useState("");
-  const [searchResults, setSearchResults] = useState<{ user_id: string; nome: string; turma_id: string | null }[]>([]);
+  const [searchResults, setSearchResults] = useState<{ user_id: string; nome: string; turma_id: string | null; avatar_url: string | null }[]>([]);
   const [searching, setSearching] = useState(false);
   const searchTimeoutRef = useRef<ReturnType<typeof setTimeout>>();
 
@@ -816,7 +825,7 @@ function ConfigView({
       setSearching(true);
       const { data } = await supabase
         .from("profiles")
-        .select("user_id, nome, turma_id")
+        .select("user_id, nome, turma_id, avatar_url")
         .neq("user_id", user?.id || "")
         .ilike("nome", `%${searchQuery}%`)
         .limit(8);
@@ -1073,13 +1082,18 @@ function ConfigView({
           <div className="mb-5">
             {cfg.targetUserId ? (
               <div className="flex items-center gap-3 rounded-xl border-2 border-accent/30 bg-accent/5 px-4 py-3">
-                <Target className="h-5 w-5 text-accent" />
+                <SimpleProfileAvatar
+                  size="md"
+                  src={cfg.targetAvatarUrl}
+                  showBadge={false}
+                  className="shrink-0"
+                />
                 <div className="flex-1">
                   <p className="font-heading text-sm font-bold text-foreground">{cfg.targetUserName}</p>
                   <p className="font-body text-[10px] text-muted-foreground">Adversário selecionado</p>
                 </div>
                 <button
-                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null })); setSearchQuery(""); }}
+                  onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null, targetAvatarUrl: null })); setSearchQuery(""); }}
                   className="rounded-lg p-1 text-muted-foreground hover:bg-secondary hover:text-foreground"
                 >
                   <X className="h-4 w-4" />
@@ -1104,15 +1118,18 @@ function ConfigView({
                       <button
                         key={r.user_id}
                         onClick={() => {
-                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome }));
+                          setCfg(p => ({ ...p, targetUserId: r.user_id, targetUserName: r.nome, targetAvatarUrl: r.avatar_url }));
                           setSearchQuery("");
                           setSearchResults([]);
                         }}
                         className="btn-tap flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left transition-all hover:bg-secondary"
                       >
-                        <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary/10 font-heading text-xs font-bold text-primary">
-                          {r.nome.charAt(0).toUpperCase()}
-                        </div>
+                        <SimpleProfileAvatar
+                          size="sm"
+                          src={r.avatar_url}
+                          showBadge={false}
+                          className="shrink-0"
+                        />
                         <div className="min-w-0 flex-1">
                           <p className="truncate font-heading text-sm font-semibold text-foreground">{r.nome}</p>
                           <p className="font-body text-[10px] text-muted-foreground">{turmaLabel(r.turma_id)}</p>
