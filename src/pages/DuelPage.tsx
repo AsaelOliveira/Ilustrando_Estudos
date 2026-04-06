@@ -917,12 +917,19 @@ function ConfigView({
     if (!user || !profile) return;
     setCreating(true);
     try {
-      let questions = await getQuestionsForMission({
-        turmaId: userTurma,
-        disciplineId: cfg.disciplineId,
-        interclass: cfg.interclass,
-        limit: cfg.numQuestions,
-      });
+      let questions: (ContentQuestion | Questao)[] = [];
+
+      try {
+        questions = await getQuestionsForMission({
+          turmaId: userTurma,
+          disciplineId: cfg.disciplineId,
+          interclass: cfg.interclass,
+          limit: cfg.numQuestions,
+        });
+      } catch (error) {
+        console.error("Falha ao buscar questões do content_store para duelo:", error);
+        questions = [];
+      }
 
       if (questions.length < cfg.numQuestions) {
         questions = getTemaQuestionsForDuel({
@@ -953,7 +960,7 @@ function ConfigView({
         visibility: cfg.targetType === "privado" ? "privado" : "publico",
         challenger_display_name: displayName,
         challenger_display_turma: displayTurma,
-        question_ids: questions.map(q => q.id),
+        question_ids: questions.map((q) => q.id),
         turma_id: userTurma,
         discipline_id: cfg.disciplineId,
         interclass: cfg.interclass,
