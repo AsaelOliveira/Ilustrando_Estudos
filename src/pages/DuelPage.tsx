@@ -119,8 +119,8 @@ type RankingEntry = {
 // Constantes
 // ============================================================
 
-const WINNER_PTS = 15;
-const TIE_PTS = 7;
+const WINNER_PTS = 5;
+const TIE_PTS = 2;
 const TIME_OPTIONS = [
   { value: 120, label: "2 minutos" },
   { value: 180, label: "3 minutos" },
@@ -135,15 +135,16 @@ const INTERCLASS_PRESETS = [
 
 function CrossedPencils({
   className = "",
-  pencilClassName = "",
 }: {
   className?: string;
-  pencilClassName?: string;
 }) {
   return (
-    <span className={`relative inline-flex items-center justify-center ${className}`}>
-      <Pencil className={`absolute h-full w-full rotate-45 ${pencilClassName}`} />
-      <Pencil className={`absolute h-full w-full -rotate-45 ${pencilClassName}`} />
+    <span className={`relative inline-flex items-center justify-center ${className}`} aria-hidden="true">
+      <img
+        src="/Brasao.svg"
+        alt=""
+        className="h-full w-full scale-[1.38] object-contain drop-shadow-[0_6px_14px_rgba(15,23,42,0.16)]"
+      />
     </span>
   );
 }
@@ -446,7 +447,7 @@ export default function DuelPage() {
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
               className="text-4xl"
             >
-              <CrossedPencils className="h-10 w-10" pencilClassName="text-primary" />
+              <CrossedPencils className="h-14 w-14" pencilClassName="text-primary" />
             </motion.div>
             <div>
               <h1 className="font-heading text-3xl font-extrabold text-foreground md:text-4xl">
@@ -573,6 +574,7 @@ function LobbyView({
   onHistory: () => void;
 }) {
   const [challenges, setChallenges] = useState<Duel[]>([]);
+  const [challengerProfiles, setChallengerProfiles] = useState<Record<string, { nome: string; avatar_url: string | null }>>({});
   const [loadingList, setLoadingList] = useState(true);
   const [accepting, setAccepting] = useState<string | null>(null);
 
@@ -603,6 +605,37 @@ function LobbyView({
   }, [user]);
 
   useEffect(() => { load(); }, [load]);
+
+  useEffect(() => {
+    const ids = [...new Set(challenges.map((challenge) => challenge.challenger_id).filter(Boolean))];
+    if (ids.length === 0) {
+      setChallengerProfiles({});
+      return;
+    }
+
+    let active = true;
+    (async () => {
+      const { data } = await supabase
+        .from("profiles")
+        .select("user_id, nome, avatar_url")
+        .in("user_id", ids);
+
+      if (!active || !data) return;
+
+      const mapped: Record<string, { nome: string; avatar_url: string | null }> = {};
+      data.forEach((profile) => {
+        mapped[profile.user_id] = {
+          nome: profile.nome,
+          avatar_url: profile.avatar_url,
+        };
+      });
+      setChallengerProfiles(mapped);
+    })();
+
+    return () => {
+      active = false;
+    };
+  }, [challenges]);
 
   // Realtime lobby
   useEffect(() => {
@@ -680,7 +713,7 @@ function LobbyView({
         ) : challenges.length === 0 ? (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
             <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 flex justify-center">
-              <CrossedPencils className="h-12 w-12" pencilClassName="text-primary" />
+              <CrossedPencils className="h-20 w-20" pencilClassName="text-primary" />
             </motion.div>
             <h3 className="mb-1 font-heading text-lg font-bold text-foreground">Nenhum desafio por enquanto</h3>
             <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversário.</p>
@@ -696,8 +729,16 @@ function LobbyView({
                 whileHover={{ scale: 1.01 }}
                 className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
-                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
-                  {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🥷" : "✏️✏️"}
+                <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center overflow-hidden rounded-xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
+                  {c.mode === "anonimo" ? (
+                    <img src="/Knigth.svg" alt="" className="h-10 w-10 object-contain mix-blend-multiply" />
+                  ) : (
+                    <SimpleProfileAvatar
+                      size="md"
+                      src={challengerProfiles[c.challenger_id]?.avatar_url ?? null}
+                      showBadge={false}
+                    />
+                  )}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
@@ -1372,6 +1413,7 @@ function BattleArena({
   const [submitting, setSubmitting] = useState(false);
   const [showVS, setShowVS] = useState(true);
   const [swapFlash, setSwapFlash] = useState(false); // Flash visual ao trocar pergunta
+  const [participantProfiles, setParticipantProfiles] = useState<Record<string, { nome: string; avatar_url: string | null }>>({});
   const timerRef = useRef<ReturnType<typeof setInterval>>();
   const submitGuard = useRef(false);
   const answersRef = useRef<(string | null)[]>([]);
@@ -1489,6 +1531,37 @@ function BattleArena({
     };
   }, [duelId, temas]);
 
+  useEffect(() => {
+    if (!duel) return;
+
+    const ids = [duel.challenger_id, duel.challenged_id].filter(Boolean) as string[];
+    if (ids.length === 0) return;
+
+    let active = true;
+
+    (async () => {
+      const { data } = await supabase
+        .from("profiles")
+        .select("user_id, nome, avatar_url")
+        .in("user_id", ids);
+
+      if (!active || !data) return;
+
+      const mapped: Record<string, { nome: string; avatar_url: string | null }> = {};
+      data.forEach((profile) => {
+        mapped[profile.user_id] = {
+          nome: profile.nome,
+          avatar_url: profile.avatar_url,
+        };
+      });
+      setParticipantProfiles(mapped);
+    })();
+
+    return () => {
+      active = false;
+    };
+  }, [duel]);
+
   // Timer
   useEffect(() => {
     if (!duel || showVS || submitted) return;
@@ -1549,6 +1622,67 @@ function BattleArena({
 
   // Tela VS
   if (showVS || !duel || questions.length === 0) {
+    const myProfile = participantProfiles[userId];
+    const opponentId = duel
+      ? playerRole === "challenger"
+        ? duel.challenged_id
+        : duel.challenger_id
+      : null;
+    const opponentProfile = opponentId ? participantProfiles[opponentId] : null;
+    const isAnonymousDuel = duel?.mode === "anonimo";
+    const isPublicDuel = duel?.visibility === "publico";
+    const hasKnownOpponent = Boolean(duel?.challenged_id);
+    const hideCurrentUserIdentity = isAnonymousDuel && playerRole === "challenger";
+    const hideOpponentIdentity = isAnonymousDuel && (isPublicDuel || playerRole === "challenged");
+    const leftName = hideCurrentUserIdentity ? "Anônimo" : myProfile?.nome?.split(" ")[0] || "Você";
+    const rightName = isPublicDuel && !hasKnownOpponent
+      ? "Aguardando"
+      : hideOpponentIdentity
+        ? "Anônimo"
+        : opponentProfile?.nome?.split(" ")[0] || (duel?.challenged_id ? "Adversário" : "Oponente");
+
+    const KnightAvatar = ({ flipped = false }: { flipped?: boolean }) => (
+      <div className="flex h-24 w-24 items-center justify-center sm:h-32 sm:w-32">
+        <img
+          src="/Knigth.svg"
+          alt=""
+          className={`h-20 w-20 object-contain mix-blend-multiply drop-shadow-md sm:h-24 sm:w-24 ${flipped ? "-scale-x-100" : ""}`}
+        />
+      </div>
+    );
+
+    const ProfileAvatar = ({
+      avatarUrl,
+      flipped = false,
+      loading = false,
+      hidden = false,
+      placeholder = null,
+    }: {
+      avatarUrl: string | null;
+      flipped?: boolean;
+      loading?: boolean;
+      hidden?: boolean;
+      placeholder?: React.ReactNode;
+    }) => (
+      <div className={flipped ? "-scale-x-100" : ""}>
+        {hidden ? (
+          <div className="flex h-24 w-24 items-center justify-center overflow-hidden rounded-full border border-dashed border-border bg-secondary/20 shadow-sm sm:h-32 sm:w-32">
+            {placeholder ?? <EyeOff className="h-7 w-7 text-muted-foreground" />}
+          </div>
+        ) : loading ? (
+          <div className="flex h-24 w-24 items-center justify-center rounded-full border border-border bg-secondary/30 shadow-sm sm:h-32 sm:w-32">
+            <Loader2 className="h-7 w-7 animate-spin text-muted-foreground" />
+          </div>
+        ) : (
+          <SimpleProfileAvatar
+            size="xl"
+            src={avatarUrl}
+            showBadge={false}
+          />
+        )}
+      </div>
+    );
+
     return (
       <motion.div
         initial={{ opacity: 0 }}
@@ -1556,12 +1690,52 @@ function BattleArena({
         className="flex min-h-[50vh] flex-col items-center justify-center"
       >
         <motion.div
-          initial={{ scale: 0 }}
-          animate={{ scale: [0, 1.3, 1] }}
-          transition={{ duration: 0.8, ease: "backOut" }}
-          className="mb-6 text-8xl"
+          initial={{ opacity: 0, y: 18 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.45 }}
+          className="mb-8 grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-3 sm:gap-8"
         >
-          ✏️✏️
+          <div className="flex min-w-0 flex-col items-center gap-3">
+            {hideCurrentUserIdentity ? (
+              <KnightAvatar />
+            ) : (
+              <ProfileAvatar
+                avatarUrl={myProfile?.avatar_url ?? null}
+                loading={!myProfile}
+              />
+            )}
+            <p className="max-w-[10rem] text-center font-heading text-lg font-bold text-foreground break-words">{leftName}</p>
+          </div>
+
+          <div className="flex flex-col items-center gap-2 sm:gap-3">
+            <div className="relative flex h-14 w-14 items-center justify-center rounded-full border border-primary/20 bg-gradient-to-br from-primary/15 via-background to-primary/5 shadow-sm sm:h-20 sm:w-20">
+              <div className="absolute inset-2 rounded-full border border-primary/15" />
+              <span className="relative font-heading text-xl font-extrabold tracking-[0.14em] text-primary sm:text-3xl">
+                VS
+              </span>
+            </div>
+            <div className="h-px w-10 bg-gradient-to-r from-transparent via-primary/35 to-transparent sm:w-20" />
+          </div>
+
+          <div className="flex min-w-0 flex-col items-center gap-3">
+            {hideOpponentIdentity ? (
+              <KnightAvatar flipped />
+            ) : isPublicDuel && !hasKnownOpponent ? (
+              <ProfileAvatar
+                avatarUrl={null}
+                flipped
+                hidden
+                placeholder={<img src="/Knigth.svg" alt="" className="h-20 w-20 object-contain mix-blend-multiply sm:h-24 sm:w-24" />}
+              />
+            ) : (
+              <ProfileAvatar
+                avatarUrl={opponentProfile?.avatar_url ?? null}
+                flipped
+                loading={Boolean(opponentId) && !opponentProfile}
+              />
+            )}
+            <p className="max-w-[10rem] text-center font-heading text-lg font-bold text-foreground break-words">{rightName}</p>
+          </div>
         </motion.div>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
