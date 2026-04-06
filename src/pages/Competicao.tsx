@@ -465,30 +465,35 @@ export default function Competicao() {
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
-          className="mt-10 overflow-hidden rounded-[1.8rem] border border-primary/10 bg-[linear-gradient(135deg,rgba(255,255,255,0.95)_0%,rgba(240,253,250,0.95)_100%)] p-5 shadow-sm"
+          className="mt-10 overflow-hidden rounded-[1.8rem] border border-amber-300/70 bg-[linear-gradient(135deg,rgba(255,248,235,0.98)_0%,rgba(255,243,214,0.98)_100%)] shadow-sm"
         >
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <div className="border-b border-amber-300/60 bg-[repeating-linear-gradient(-45deg,rgba(217,119,6,0.16)_0px,rgba(217,119,6,0.16)_18px,rgba(120,53,15,0.10)_18px,rgba(120,53,15,0.10)_36px)] px-5 py-3">
+            <p className="text-center font-heading text-sm font-extrabold uppercase tracking-[0.35em] text-amber-950/90">
+              Em Construção
+            </p>
+          </div>
+          <div className="flex flex-col gap-3 p-5 sm:flex-row sm:items-center sm:justify-between">
             <div className="min-w-0">
-              <p className="inline-flex items-center gap-2 rounded-full bg-primary/8 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-primary/80">
+              <p className="inline-flex items-center gap-2 rounded-full bg-amber-100 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-800">
                 <Shield className="h-3.5 w-3.5" />
-                Em breve
+                Área reservada
               </p>
-              <h2 className="mt-3 font-heading text-lg font-bold text-foreground">
+              <h2 className="mt-3 font-heading text-lg font-bold text-amber-950">
                 Próximas fases da competição
               </h2>
-              <p className="mt-1 max-w-2xl text-sm font-body text-muted-foreground">
-                Este ano a competição está focada na fase online. As etapas interclasses e presenciais serão liberadas no momento certo.
+              <p className="mt-1 max-w-2xl text-sm font-body text-amber-900/75">
+                Este espaço ainda não será usado agora. Quando as próximas fases estiverem prontas, ele será liberado para a competição completa.
               </p>
             </div>
-            <div className="rounded-2xl border border-primary/10 bg-white/80 px-4 py-3 text-left shadow-sm sm:min-w-[210px]">
-              <p className="text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-primary/70">
-                Status
+            <div className="rounded-2xl border border-amber-300/70 bg-white/80 px-4 py-3 text-left shadow-sm sm:min-w-[220px]">
+              <p className="text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-700">
+                Status atual
               </p>
-              <p className="mt-1 font-heading text-base font-bold text-foreground">
-                Planejamento futuro
+              <p className="mt-1 font-heading text-base font-bold text-amber-950">
+                Em construção
               </p>
-              <p className="mt-1 text-xs font-body text-muted-foreground">
-                Sem impacto no ranking atual.
+              <p className="mt-1 text-xs font-body text-amber-900/70">
+                Sem impacto no ranking e nas missões de hoje.
               </p>
             </div>
           </div>
