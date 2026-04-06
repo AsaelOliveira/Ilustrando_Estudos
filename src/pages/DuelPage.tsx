@@ -148,10 +148,10 @@ function timeAgo(dateStr: string) {
   const diff = Date.now() - new Date(dateStr).getTime();
   const mins = Math.floor(diff / 60000);
   if (mins < 1) return "agora mesmo";
-  if (mins < 60) return `${mins} min atrÃ¡s`;
+  if (mins < 60) return `${mins} min atrás`;
   const hrs = Math.floor(mins / 60);
-  if (hrs < 24) return `${hrs}h atrÃ¡s`;
-  return `${Math.floor(hrs / 24)}d atrÃ¡s`;
+  if (hrs < 24) return `${hrs}h atrás`;
+  return `${Math.floor(hrs / 24)}d atrás`;
 }
 
 // ============================================================
@@ -205,7 +205,7 @@ function MiniRanking({ userTurma, userId }: { userTurma: string; userId: string 
         <div className="space-y-1">
           {entries.map((e, i) => {
             const isMe = e.user_id === userId;
-            const medal = i === 0 ? "ðŸ¥‡" : i === 1 ? "ðŸ¥ˆ" : i === 2 ? "ðŸ¥‰" : `${i + 1}.`;
+            const medal = i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `${i + 1}.`;
             return (
               <div
                 key={e.user_id}
@@ -216,7 +216,7 @@ function MiniRanking({ userTurma, userId }: { userTurma: string; userId: string 
                 <span className="w-5 flex-shrink-0 text-center">{medal}</span>
                 <span className={`min-w-0 flex-1 truncate font-body ${isMe ? "text-primary" : "text-foreground"}`}>
                   {e.nome.split(" ")[0]}
-                  {isMe && <span className="ml-1 text-[9px] text-primary/70">(vocÃª)</span>}
+                  {isMe && <span className="ml-1 text-[9px] text-primary/70">(você)</span>}
                 </span>
                 <span className="flex-shrink-0 font-heading font-bold text-accent">{e.points}</span>
               </div>
@@ -306,7 +306,7 @@ export default function DuelPage() {
   const [showConfetti, setShowConfetti] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  // Ao abrir, verificar se jÃ¡ hÃ¡ duelo ativo
+  // Ao abrir, verificar se já há duelo ativo
   useEffect(() => {
     if (!user) { setLoading(false); return; }
     (async () => {
@@ -373,7 +373,7 @@ export default function DuelPage() {
       {showConfetti && <Confetti show />}
       <Breadcrumbs items={[{ label: "Duelo" }]} />
       <section className="container mx-auto max-w-5xl px-4 py-8">
-        {/* CabeÃ§alho animado */}
+        {/* Cabecalho animado */}
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-8">
           <div className="flex items-center gap-3">
             <motion.div
@@ -381,7 +381,7 @@ export default function DuelPage() {
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
               className="text-4xl"
             >
-              âš”ï¸
+              <BookOpen className="h-10 w-10 text-primary" />
             </motion.div>
             <div>
               <h1 className="font-heading text-3xl font-extrabold text-foreground md:text-4xl">
@@ -513,7 +513,7 @@ function LobbyView({
 
   const load = useCallback(async () => {
     if (!user) return;
-    // Desafios pÃºblicos abertos + desafios privados dirigidos a mim
+    // Desafios públicos abertos + desafios privados dirigidos a mim
     const { data: publicDuels } = await supabase
       .from("duels")
       .select("*")
@@ -554,7 +554,7 @@ function LobbyView({
     // Verificar disponibilidade
     const { data: fresh } = await supabase.from("duels").select("status").eq("id", duel.id).single();
     if (fresh?.status !== "aguardando") {
-      toast({ title: "Desafio indisponÃ­vel", description: "Outro aluno jÃ¡ aceitou este desafio.", variant: "destructive" });
+      toast({ title: "Desafio indisponível", description: "Outro aluno já aceitou este desafio.", variant: "destructive" });
       setAccepting(null);
       load();
       return;
@@ -566,7 +566,7 @@ function LobbyView({
     }).eq("id", duel.id);
     setAccepting(null);
     if (error) {
-      toast({ title: "Erro", description: "NÃ£o foi possÃ­vel aceitar o desafio.", variant: "destructive" });
+      toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
       return;
     }
     onBattle(duel.id, "challenged");
@@ -576,14 +576,14 @@ function LobbyView({
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
         <Sword className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
-        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">FaÃ§a login para duelar!</h2>
+        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para duelar!</h2>
       </div>
     );
   }
 
   return (
     <div className="space-y-5">
-      {/* AÃ§Ãµes */}
+      {/* Ações */}
       <div className="flex flex-wrap items-center gap-3">
         <button
           onClick={onCreateDuel}
@@ -597,7 +597,7 @@ function LobbyView({
           className="btn-tap flex items-center gap-2 rounded-xl border-2 border-border px-4 py-2.5 font-heading text-sm font-semibold text-foreground hover:bg-secondary"
         >
           <History className="h-4 w-4" />
-          HistÃ³rico
+          Histórico
         </button>
       </div>
 
@@ -614,9 +614,11 @@ function LobbyView({
           </div>
         ) : challenges.length === 0 ? (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
-            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 text-5xl">âš”ï¸</motion.div>
+            <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 flex justify-center">
+              <BookOpen className="h-12 w-12 text-primary" />
+            </motion.div>
             <h3 className="mb-1 font-heading text-lg font-bold text-foreground">Nenhum desafio por enquanto</h3>
-            <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversÃ¡rio.</p>
+            <p className="font-body text-sm text-muted-foreground">Seja o primeiro! Crie um desafio e aguarde um adversário.</p>
           </motion.div>
         ) : (
           <div className="space-y-3">
@@ -630,7 +632,7 @@ function LobbyView({
                 className="group flex items-center gap-4 rounded-2xl border-2 border-border bg-card px-4 py-4 transition-all hover:border-primary/30 hover:shadow-md"
               >
                 <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl text-2xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
-                  {c.visibility === "privado" ? "ðŸ“©" : c.mode === "anonimo" ? "ðŸŽ­" : "âš”ï¸"}
+                  {c.visibility === "privado" ? "📩" : c.mode === "anonimo" ? "🥷" : "✏️"}
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-heading text-sm font-bold text-foreground">
@@ -638,18 +640,18 @@ function LobbyView({
                   </p>
                   <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 font-body text-xs text-muted-foreground">
                     {c.challenger_display_turma && <span>{turmaLabel(c.challenger_display_turma)}</span>}
-                    <span>Â·</span>
-                    <span>{c.num_questions} questÃµes</span>
-                    <span>Â·</span>
+                    <span>·</span>
+                    <span>{c.num_questions} questões</span>
+                    <span>·</span>
                     <span>{Math.floor(c.time_limit / 60)} min</span>
                     {c.discipline_id && (
                       <>
-                        <span>Â·</span>
+                        <span>·</span>
                         <span className="text-primary">{disciplineLabel(c.discipline_id)}</span>
                       </>
                     )}
                     {c.interclass && <span className="rounded-full bg-accent/10 px-1.5 text-accent">Interclasse</span>}
-                    {c.visibility === "privado" && <span className="rounded-full bg-accent/20 px-1.5 font-semibold text-accent">Para vocÃª!</span>}
+                    {c.visibility === "privado" && <span className="rounded-full bg-accent/20 px-1.5 font-semibold text-accent">Para você!</span>}
                   </div>
                   <p className="mt-0.5 font-body text-[10px] text-muted-foreground/60">{timeAgo(c.created_at)}</p>
                 </div>
@@ -658,7 +660,7 @@ function LobbyView({
                   disabled={accepting === c.id}
                   className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
                 >
-                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar âš”ï¸"}
+                  {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️"}
                 </button>
               </motion.div>
             ))}
@@ -666,7 +668,7 @@ function LobbyView({
         )}
       </div>
 
-      {/* PontuaÃ§Ã£o */}
+      {/* Pontuação */}
       <div className="glass-card rounded-2xl p-5">
         <h3 className="mb-3 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Zap className="h-4 w-4 text-primary" /> Como funciona
@@ -682,11 +684,11 @@ function LobbyView({
           </div>
           <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
             <Timer className="mt-0.5 h-3.5 w-3.5 flex-shrink-0" />
-            <span>Responda no seu tempo: nÃ£o precisa estar online junto</span>
+            <span>Responda no seu tempo: não precisa estar online junto</span>
           </div>
           <div className="flex items-start gap-2 rounded-xl bg-secondary/50 p-3">
             <Shield className="mt-0.5 h-3.5 w-3.5 text-destructive flex-shrink-0" />
-            <span>Anti-trapaÃ§a: sair da aba troca a pergunta por outra!</span>
+            <span>Anti-trapaça: sair da aba troca a pergunta por outra!</span>
           </div>
         </div>
       </div>
@@ -795,12 +797,12 @@ function ConfigView({
     });
 
     if (questions.length < cfg.numQuestions) {
-      toast({ title: "QuestÃµes insuficientes", description: `Encontramos apenas ${questions.length} questÃµes com esses filtros.`, variant: "destructive" });
+      toast({ title: "Questões insuficientes", description: `Encontramos apenas ${questions.length} questões com esses filtros.`, variant: "destructive" });
       setCreating(false);
       return;
     }
 
-    const displayName = cfg.mode === "anonimo" ? "AnÃ´nimo" : profile.nome;
+    const displayName = cfg.mode === "anonimo" ? "Anônimo" : profile.nome;
     const displayTurma = cfg.mode === "anonimo" ? null : userTurma;
 
     const { data, error } = await supabase.from("duels").insert({
@@ -828,7 +830,7 @@ function ConfigView({
     // Gerar cÃ³digo de convite a partir do ID (primeiros 6 caracteres)
     if (cfg.targetType === "privado") {
       const code = data.id.replace(/-/g, "").slice(0, 6).toUpperCase();
-      toast({ title: "Convite criado!", description: `CÃ³digo: ${code} â€” compartilhe com seu colega!` });
+      toast({ title: "Convite criado!", description: `Código: ${code} — compartilhe com seu colega!` });
     }
 
     onCreated(data.id);
@@ -854,13 +856,13 @@ function ConfigView({
     );
 
     if (!match) {
-      toast({ title: "CÃ³digo nÃ£o encontrado", description: "Verifique o cÃ³digo e tente novamente.", variant: "destructive" });
+      toast({ title: "Código não encontrado", description: "Verifique o código e tente novamente.", variant: "destructive" });
       setCreating(false);
       return;
     }
 
     if (match.challenged_id && match.challenged_id !== user.id) {
-      toast({ title: "Desafio indisponÃ­vel", description: "Este desafio jÃ¡ foi aceito por outro aluno.", variant: "destructive" });
+      toast({ title: "Desafio indisponível", description: "Este desafio já foi aceito por outro aluno.", variant: "destructive" });
       setCreating(false);
       return;
     }
@@ -872,7 +874,7 @@ function ConfigView({
 
     setCreating(false);
     if (error) {
-      toast({ title: "Erro", description: "NÃ£o foi possÃ­vel aceitar o desafio.", variant: "destructive" });
+      toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
       return;
     }
     onCreated(match.id);
@@ -881,14 +883,14 @@ function ConfigView({
   return (
     <div className="space-y-5">
       <button onClick={onCancel} className="btn-tap flex items-center gap-1 font-body text-sm text-muted-foreground hover:text-foreground">
-        â† Voltar ao lobby
+        ← Voltar ao lobby
       </button>
 
       {/* Entrar por cÃ³digo */}
       <div className="glass-card rounded-2xl p-4">
         <h3 className="mb-2 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Hash className="h-4 w-4 text-accent" />
-          Tem um cÃ³digo de convite?
+          Tem um código de convite?
         </h3>
         <div className="flex gap-2">
           <input
@@ -913,16 +915,16 @@ function ConfigView({
       <div className="glass-card rounded-2xl p-6">
         <h2 className="mb-1 font-heading text-xl font-bold text-foreground">Configurar Desafio</h2>
         <p className="mb-6 font-body text-xs text-muted-foreground">
-          VocÃª responderÃ¡ primeiro. Depois, o desafio ficarÃ¡ disponÃ­vel para o adversÃ¡rio.
+          Você responderá primeiro. Depois, o desafio ficará disponível para o adversário.
         </p>
 
         {/* Tipo de adversÃ¡rio */}
         <fieldset className="mb-5">
-          <legend className="mb-2 font-heading text-sm font-semibold text-foreground">AdversÃ¡rio</legend>
+          <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Adversário</legend>
           <div className="grid grid-cols-2 gap-3">
             {([
-              ["publico", "PÃºblico", Users, "Qualquer um aceita"] as const,
-              ["privado", "Desafiar alguÃ©m", Target, "Escolha o adversÃ¡rio"] as const,
+              ["publico", "Público", Users, "Qualquer um aceita"] as const,
+              ["privado", "Desafiar alguém", Target, "Escolha o adversário"] as const,
             ]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
@@ -945,7 +947,7 @@ function ConfigView({
                 <Target className="h-5 w-5 text-accent" />
                 <div className="flex-1">
                   <p className="font-heading text-sm font-bold text-foreground">{cfg.targetUserName}</p>
-                  <p className="font-body text-[10px] text-muted-foreground">AdversÃ¡rio selecionado</p>
+                  <p className="font-body text-[10px] text-muted-foreground">Adversário selecionado</p>
                 </div>
                 <button
                   onClick={() => { setCfg(p => ({ ...p, targetUserId: null, targetUserName: null })); setSearchQuery(""); }}
@@ -1003,7 +1005,7 @@ function ConfigView({
         <fieldset className="mb-5">
           <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Identidade</legend>
           <div className="grid grid-cols-2 gap-3">
-            {([["aberto", "Aberto", Eye, "Seu nome visÃ­vel"] as const, ["anonimo", "AnÃ´nimo", EyeOff, "Identidade oculta"] as const]).map(([val, label, Icon, desc]) => (
+            {([["aberto", "Aberto", Eye, "Seu nome visível"] as const, ["anonimo", "Anônimo", EyeOff, "Identidade oculta"] as const]).map(([val, label, Icon, desc]) => (
               <button
                 key={val}
                 onClick={() => setCfg(p => ({ ...p, mode: val }))}
@@ -1025,7 +1027,7 @@ function ConfigView({
             onChange={e => setCfg(p => ({ ...p, disciplineId: e.target.value || null }))}
             className="w-full rounded-xl border-2 border-border bg-background px-4 py-3 font-body text-sm focus:border-primary focus:outline-none"
           >
-            <option value="">Todas as disciplinas (aleatÃ³rio)</option>
+            <option value="">Todas as disciplinas (aleatório)</option>
             {availableDisciplines.map(d => (
               <option key={d.id} value={d.id}>{d.nome}</option>
             ))}
@@ -1035,7 +1037,7 @@ function ConfigView({
         {/* QuestÃµes e Tempo */}
         <div className="mb-5 grid grid-cols-2 gap-4">
           <fieldset>
-            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">QuestÃµes</legend>
+            <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Questões</legend>
             <div className="flex gap-2">
               {QUESTION_OPTIONS.map(n => (
                 <button
@@ -1070,7 +1072,7 @@ function ConfigView({
           />
           <div>
             <p className="font-heading text-sm font-semibold text-foreground">Modo Interclasse</p>
-            <p className="font-body text-[11px] text-muted-foreground">Inclui questÃµes de todas as turmas (mais difÃ­cil!)</p>
+            <p className="font-body text-[11px] text-muted-foreground">Inclui questões de todas as turmas (mais difícil!)</p>
           </div>
         </label>
 
@@ -1079,14 +1081,14 @@ function ConfigView({
           <div className="mb-5 rounded-xl bg-secondary/50 p-3">
             <p className="flex items-start gap-2 font-body text-xs text-muted-foreground">
               <ShieldCheck className="mt-0.5 h-3.5 w-3.5 flex-shrink-0 text-primary" />
-              Mesmo no modo anÃ´nimo, o administrador pode ver a identidade de todos os participantes.
+              Mesmo no modo anônimo, o administrador pode ver a identidade de todos os participantes.
             </p>
           </div>
         )}
 
         {/* Info */}
         <p className="mb-4 font-body text-xs text-muted-foreground">
-          {totalAvailable} questÃµes disponÃ­veis com esses filtros
+          {totalAvailable} questões disponíveis com esses filtros
         </p>
 
         <button
@@ -1097,9 +1099,9 @@ function ConfigView({
           {creating ? (
             <span className="flex items-center justify-center gap-2"><Loader2 className="h-4 w-4 animate-spin" /> Criando...</span>
           ) : cfg.targetType === "privado" ? (
-            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} âš”ï¸`
+            `Desafiar ${cfg.targetUserName?.split(" ")[0] || "colega"} ✏️`
           ) : (
-            "Criar Desafio PÃºblico âš”ï¸"
+            "Criar Desafio Público ✏️"
           )}
         </button>
       </div>
@@ -1165,7 +1167,7 @@ function BattleArena({
 
       toast({
         title: "Pergunta trocada!",
-        description: "VocÃª saiu da aba. A pergunta foi substituÃ­da por outra.",
+        description: "Você saiu da aba. A pergunta foi substituída por outra.",
         variant: "destructive",
       });
     }
@@ -1265,7 +1267,7 @@ function BattleArena({
           transition={{ duration: 0.8, ease: "backOut" }}
           className="mb-6 text-8xl"
         >
-          âš”ï¸
+          ✏️
         </motion.div>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
@@ -1282,7 +1284,7 @@ function BattleArena({
           className="flex items-center gap-3 text-sm font-body text-muted-foreground"
         >
           <Shield className="h-4 w-4 text-destructive" />
-          Anti-trapaÃ§a ativado â€” nÃ£o saia desta aba!
+          Anti-trapaça ativado — não saia desta aba!
         </motion.div>
         <motion.p
           initial={{ opacity: 0 }}
@@ -1312,7 +1314,7 @@ function BattleArena({
             className="flex items-center gap-2 rounded-xl bg-destructive/15 px-4 py-3 font-body text-xs text-destructive"
           >
             <Shuffle className="h-4 w-4 flex-shrink-0" />
-            <span className="font-semibold">Pergunta trocada! VocÃª saiu da aba e a questÃ£o foi substituÃ­da.</span>
+            <span className="font-semibold">Pergunta trocada! Você saiu da aba e a questão foi substituída.</span>
           </motion.div>
         )}
       </AnimatePresence>
@@ -1325,7 +1327,7 @@ function BattleArena({
           className="flex items-center gap-2 rounded-xl bg-accent/10 px-4 py-2 font-body text-xs text-accent"
         >
           <AlertTriangle className="h-3.5 w-3.5" />
-          {flags.length} troca(s) de pergunta â€” nÃ£o saia desta aba!
+          {flags.length} troca(s) de pergunta — não saia desta aba!
         </motion.div>
       )}
 
@@ -1364,14 +1366,14 @@ function BattleArena({
         >
           <div className="mb-2 flex items-center gap-2">
             <span className="font-body text-xs text-muted-foreground">
-              QuestÃ£o {currentQ + 1} de {questions.length}
+              Questão {currentQ + 1} de {questions.length}
             </span>
             <span className={`rounded-full px-2 py-0.5 font-body text-[10px] ${
               q.dificuldade === "facil" ? "bg-success/10 text-success"
               : q.dificuldade === "medio" ? "bg-accent/10 text-accent"
               : "bg-destructive/10 text-destructive"
             }`}>
-              {q.dificuldade === "facil" ? "fÃ¡cil" : q.dificuldade === "medio" ? "mÃ©dio" : "difÃ­cil"}
+              {q.dificuldade === "facil" ? "fácil" : q.dificuldade === "medio" ? "médio" : "difícil"}
             </span>
           </div>
           <h3 className="mb-5 font-heading text-base font-bold leading-relaxed text-foreground">{q.enunciado}</h3>
@@ -1422,7 +1424,7 @@ function BattleArena({
           disabled={currentQ === 0}
           className="btn-tap rounded-xl border-2 border-border px-5 py-3 font-heading text-sm font-semibold text-foreground hover:bg-secondary disabled:opacity-40"
         >
-          â† Anterior
+          ← Anterior
         </button>
         {currentQ === questions.length - 1 ? (
           <button
@@ -1430,14 +1432,14 @@ function BattleArena({
             disabled={submitting}
             className="btn-tap rounded-xl bg-primary px-6 py-3 font-heading text-sm font-bold text-primary-foreground hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
           >
-            {submitting ? <Loader2 className="mx-2 h-4 w-4 animate-spin" /> : `Finalizar (${answered}/${questions.length}) âœ“`}
+            {submitting ? <Loader2 className="mx-2 h-4 w-4 animate-spin" /> : `Finalizar (${answered}/${questions.length}) ✓`}
           </button>
         ) : (
           <button
             onClick={() => setCurrentQ(p => Math.min(questions.length - 1, p + 1))}
             className="btn-tap rounded-xl bg-primary px-5 py-3 font-heading text-sm font-semibold text-primary-foreground hover:bg-primary/90"
           >
-            PrÃ³xima â†’
+            Próxima →
           </button>
         )}
       </div>
@@ -1451,7 +1453,7 @@ function BattleArena({
           disabled={submitting}
           className="btn-tap w-full rounded-xl border-2 border-success/30 bg-success/10 py-3 font-heading text-sm font-bold text-success hover:bg-success/20"
         >
-          âœ… Todas respondidas â€” Finalizar agora
+          ✅ Todas respondidas — Finalizar agora
         </motion.button>
       )}
     </div>
@@ -1503,19 +1505,19 @@ function WaitingView({
         transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
         className="mb-4 text-6xl"
       >
-        ðŸŸï¸
+        🏟️
       </motion.div>
       <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Desafio Enviado!</h2>
       <p className="mb-2 font-body text-sm text-muted-foreground">
-        Suas respostas foram salvas. Agora Ã© sÃ³ esperar um adversÃ¡rio aceitar!
+        Suas respostas foram salvas. Agora é só esperar um adversário aceitar!
       </p>
       <p className="mb-6 font-body text-xs text-muted-foreground/70">
-        O desafio fica aberto por atÃ© 7 dias. VocÃª serÃ¡ notificado quando alguÃ©m responder.
+        O desafio fica aberto por até 7 dias. Você será notificado quando alguém responder.
       </p>
 
       <div className="mb-6 flex items-center justify-center gap-2 text-sm font-body text-primary">
         <Loader2 className="h-4 w-4 animate-spin" />
-        Aguardando adversÃ¡rio...
+        Aguardando adversário...
       </div>
 
       <div className="flex justify-center gap-3">
@@ -1589,19 +1591,19 @@ function ResultsView({
 
   // Nomes com anonimato respeitado
   const myName = iAmChallenger
-    ? names[duel.challenger_id] || "VocÃª"
-    : names[duel.challenged_id || ""] || "VocÃª";
+    ? names[duel.challenger_id] || "Você"
+    : names[duel.challenged_id || ""] || "Você";
   const oppName = (() => {
     if (iAmChallenger) {
-      return names[duel.challenged_id || ""] || "AdversÃ¡rio";
+      return names[duel.challenged_id || ""] || "Adversário";
     }
-    // Se sou desafiado e modo anÃ´nimo, nÃ£o revelar
-    if (duel.mode === "anonimo") return "AnÃ´nimo";
-    return names[duel.challenger_id] || "AdversÃ¡rio";
+    // Se sou desafiado e modo anônimo, não revelar
+    if (duel.mode === "anonimo") return "Anônimo";
+    return names[duel.challenger_id] || "Adversário";
   })();
 
-  const emoji = iWon ? "ðŸ†" : tie ? "ðŸ¤" : "ðŸ’ª";
-  const headline = iWon ? "VocÃª venceu!" : tie ? "Empate!" : "Boa tentativa!";
+  const emoji = iWon ? "🏆" : tie ? "🤝" : "💪";
+  const headline = iWon ? "Você venceu!" : tie ? "Empate!" : "Boa tentativa!";
   const pts = iWon ? `+${WINNER_PTS}` : tie ? `+${TIE_PTS}` : "+0";
   const ptsColor = iWon ? "text-accent" : tie ? "text-primary" : "text-muted-foreground";
 
@@ -1635,7 +1637,7 @@ function ResultsView({
         >
           <div className="text-center">
             <div className="font-heading text-3xl font-extrabold text-primary">{myScore}/{questions.length}</div>
-            <div className="font-body text-xs text-muted-foreground">{myName} (vocÃª)</div>
+            <div className="font-body text-xs text-muted-foreground">{myName} (você)</div>
           </div>
           <div className="font-heading text-2xl font-black text-muted-foreground">vs</div>
           <div className="text-center">
@@ -1733,7 +1735,7 @@ function HistoryView({
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
-        <button onClick={onBack} className="btn-tap font-body text-sm text-muted-foreground hover:text-foreground">â† Voltar</button>
+        <button onClick={onBack} className="btn-tap font-body text-sm text-muted-foreground hover:text-foreground">← Voltar</button>
         {adminRole === "admin" && (
           <div className="flex gap-1 rounded-xl bg-secondary/50 p-1">
             {(["meus", "admin"] as const).map(t => (
@@ -1742,7 +1744,7 @@ function HistoryView({
                 onClick={() => { setTab(t); setLoading(true); }}
                 className={`rounded-lg px-3 py-1.5 font-heading text-xs font-semibold transition-all ${tab === t ? "bg-card text-foreground shadow-sm" : "text-muted-foreground"}`}
               >
-                {t === "meus" ? "Meus Duelos" : "ðŸ” Todos (Admin)"}
+                {t === "meus" ? "Meus Duelos" : "🔐 Todos (Admin)"}
               </button>
             ))}
           </div>
@@ -1753,7 +1755,7 @@ function HistoryView({
         <div className="flex items-center gap-2 rounded-xl bg-primary/5 px-3 py-2">
           <ShieldCheck className="h-4 w-4 text-primary" />
           <p className="font-body text-xs text-muted-foreground">
-            Identidades reais visÃ­veis, incluindo duelos anÃ´nimos
+            Identidades reais visíveis, incluindo duelos anônimos
           </p>
         </div>
       )}
@@ -1767,8 +1769,8 @@ function HistoryView({
       ) : (
         <div className="space-y-2">
           {duels.map(d => {
-            const cName = profiles.get(d.challenger_id) || "â€”";
-            const dName = d.challenged_id ? profiles.get(d.challenged_id) || "â€”" : "â€”";
+            const cName = profiles.get(d.challenger_id) || "—";
+            const dName = d.challenged_id ? profiles.get(d.challenged_id) || "—" : "—";
             const winner = d.winner_id ? profiles.get(d.winner_id) : null;
             const date = new Date(d.created_at).toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
             const isClickable = d.status === "concluido" && (d.challenger_id === userId || d.challenged_id === userId || adminRole === "admin");
@@ -1784,14 +1786,14 @@ function HistoryView({
                 <div className="mb-2 flex items-center justify-between text-xs text-muted-foreground">
                   <span>{date}</span>
                   <div className="flex gap-1.5">
-                    {d.mode === "anonimo" && <span className="rounded-full bg-accent/10 px-2 py-0.5 text-[10px] text-accent">AnÃ´nimo</span>}
+                    {d.mode === "anonimo" && <span className="rounded-full bg-accent/10 px-2 py-0.5 text-[10px] text-accent">Anônimo</span>}
                     <span className={`rounded-full px-2 py-0.5 text-[10px] ${
                       d.status === "concluido" ? "bg-success/10 text-success"
                       : d.status === "aguardando" ? "bg-primary/10 text-primary"
                       : d.status === "em_batalha" ? "bg-accent/10 text-accent"
                       : "bg-secondary text-muted-foreground"
                     }`}>
-                      {d.status === "concluido" ? "ConcluÃ­do" : d.status === "aguardando" ? "Aguardando" : d.status === "em_batalha" ? "Em batalha" : d.status}
+                      {d.status === "concluido" ? "Concluído" : d.status === "aguardando" ? "Aguardando" : d.status === "em_batalha" ? "Em batalha" : d.status}
                     </span>
                   </div>
                 </div>
@@ -1800,7 +1802,7 @@ function HistoryView({
                     <p className="font-heading text-sm font-semibold">{cName}</p>
                     <p className="font-heading text-lg font-extrabold text-primary">{d.challenger_score}</p>
                   </div>
-                  <div className="font-heading text-sm font-black text-muted-foreground">Ã—</div>
+                  <div className="font-heading text-sm font-black text-muted-foreground">×</div>
                   <div className="flex-1">
                     <p className="font-heading text-sm font-semibold">{dName}</p>
                     <p className="font-heading text-lg font-extrabold text-accent">{d.challenged_score}</p>
@@ -1809,9 +1811,9 @@ function HistoryView({
                 {d.status === "concluido" && (
                   <div className="mt-2 border-t border-border pt-2 text-center text-xs">
                     {winner ? (
-                      <span className="text-success">ðŸ† {winner} +{WINNER_PTS} pts</span>
+                      <span className="text-success">🏆 {winner} +{WINNER_PTS} pts</span>
                     ) : (
-                      <span className="text-primary">ðŸ¤ Empate +{TIE_PTS} pts cada</span>
+                      <span className="text-primary">🤝 Empate +{TIE_PTS} pts cada</span>
                     )}
                   </div>
                 )}
