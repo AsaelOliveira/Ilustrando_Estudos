@@ -33,11 +33,13 @@ import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Confetti from "@/components/Confetti";
 import { useAuth } from "@/hooks/useAuth";
+import { useStudyContent } from "@/hooks/useStudyContent";
 import { supabase } from "@/integrations/supabase/client";
 import { turmas, disciplinas } from "@/data/catalog";
-import type { Questao } from "@/data/content-types";
+import type { Questao, Tema } from "@/data/content-types";
 import { toast } from "@/hooks/use-toast";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
+import { pickRandomItems } from "@/lib/random";
 import {
   getQuestionsByIds as fetchQuestionsByIds,
   getQuestionsForMission,
@@ -142,6 +144,40 @@ function CrossedPencils({
       <Pencil className={`absolute h-full w-full -rotate-45 ${pencilClassName}`} />
     </span>
   );
+}
+
+function getTemaQuestionsByIds(temas: Tema[], ids: string[]): Questao[] {
+  if (ids.length === 0) return [];
+
+  const questionMap = new Map<string, Questao>();
+  for (const tema of temas) {
+    [...tema.exercicios, ...tema.simulado].forEach((question) => {
+      questionMap.set(question.id, question);
+    });
+  }
+
+  return ids.map((id) => questionMap.get(id)).filter((question): question is Questao => Boolean(question));
+}
+
+function getTemaQuestionsForDuel({
+  temas,
+  turmaId,
+  disciplineId,
+  interclass,
+  limit,
+}: {
+  temas: Tema[];
+  turmaId: string;
+  disciplineId: string | null;
+  interclass: boolean;
+  limit: number;
+}): Questao[] {
+  const pool = temas
+    .filter((tema) => (interclass || tema.turmaId === turmaId))
+    .filter((tema) => (disciplineId ? tema.disciplinaId === disciplineId : true))
+    .flatMap((tema) => [...tema.exercicios, ...tema.simulado]);
+
+  return pickRandomItems(pool, limit);
 }
 
 // ============================================================
@@ -730,6 +766,7 @@ function ConfigView({
   onCancel: () => void;
 }) {
   const userTurma = profile?.turma_id || "6ano";
+  const { temas } = useStudyContent();
   const [cfg, setCfg] = useState<DuelConfig>({
     mode: "aberto",
     disciplineId: null,
@@ -800,6 +837,22 @@ function ConfigView({
     });
   }, [userTurma, cfg.interclass, cfg.numQuestions, themeSummaries]);
 
+  const summaryAvailable = useMemo(() => {
+    return themeSummaries
+      .filter((theme) => (cfg.interclass || theme.turmaId === userTurma))
+      .filter((theme) => (cfg.disciplineId ? theme.disciplinaId === cfg.disciplineId : true))
+      .reduce((sum, theme) => sum + theme.exerciseCount + theme.simuladoCount, 0);
+  }, [cfg.interclass, cfg.disciplineId, themeSummaries, userTurma]);
+
+  const localAvailable = useMemo(() => {
+    return temas
+      .filter((tema) => (cfg.interclass || tema.turmaId === userTurma))
+      .filter((tema) => (cfg.disciplineId ? tema.disciplinaId === cfg.disciplineId : true))
+      .reduce((sum, tema) => sum + tema.exercicios.length + tema.simulado.length, 0);
+  }, [cfg.interclass, cfg.disciplineId, temas, userTurma]);
+
+  const effectiveAvailable = Math.max(totalAvailable, summaryAvailable, localAvailable);
+
   useEffect(() => {
     let active = true;
 
@@ -819,11 +872,14 @@ function ConfigView({
         }
 
         const { data: themes, error: themesError } = await themeQuery;
-        if (themesError || !active) return;
+        if (themesError || !active) {
+          if (active) setTotalAvailable(summaryAvailable);
+          return;
+        }
 
         const themeIds = (themes || []).map((theme) => theme.id);
         if (themeIds.length === 0) {
-          if (active) setTotalAvailable(0);
+          if (active) setTotalAvailable(summaryAvailable);
           return;
         }
 
@@ -834,29 +890,40 @@ function ConfigView({
           .in("theme_id", themeIds);
 
         if (!countError && active) {
-          setTotalAvailable(count || 0);
+          const resolvedCount = count || 0;
+          setTotalAvailable(resolvedCount > 0 ? resolvedCount : summaryAvailable);
         }
       } catch (error) {
         console.error(error);
-        if (active) setTotalAvailable(0);
+        if (active) setTotalAvailable(summaryAvailable);
       }
     })();
 
     return () => {
       active = false;
     };
-  }, [cfg.interclass, cfg.disciplineId, userTurma]);
+  }, [cfg.interclass, cfg.disciplineId, summaryAvailable, userTurma]);
 
   const create = async () => {
     if (!user || !profile) return;
     setCreating(true);
 
-    const questions = await getQuestionsForMission({
+    let questions = await getQuestionsForMission({
       turmaId: userTurma,
       disciplineId: cfg.disciplineId,
       interclass: cfg.interclass,
       limit: cfg.numQuestions,
     });
+
+    if (questions.length < cfg.numQuestions) {
+      questions = getTemaQuestionsForDuel({
+        temas,
+        turmaId: userTurma,
+        disciplineId: cfg.disciplineId,
+        interclass: cfg.interclass,
+        limit: cfg.numQuestions,
+      });
+    }
 
     if (questions.length < cfg.numQuestions) {
       toast({ title: "Questões insuficientes", description: `Encontramos apenas ${questions.length} questões com esses filtros.`, variant: "destructive" });
@@ -1194,12 +1261,12 @@ function ConfigView({
 
         {/* Info */}
         <p className="mb-4 font-body text-xs text-muted-foreground">
-          {totalAvailable} questões disponíveis com esses filtros
+          {effectiveAvailable} questões disponíveis com esses filtros
         </p>
 
         <button
           onClick={create}
-          disabled={creating || totalAvailable < cfg.numQuestions || (cfg.targetType === "privado" && !cfg.targetUserId)}
+          disabled={creating || effectiveAvailable < cfg.numQuestions || (cfg.targetType === "privado" && !cfg.targetUserId)}
           className="btn-tap w-full rounded-xl bg-primary py-3.5 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:cursor-not-allowed disabled:opacity-50"
         >
           {creating ? (
@@ -1227,6 +1294,7 @@ function BattleArena({
   userId: string;
   onDone: (duel: Duel) => void;
 }) {
+  const { temas } = useStudyContent();
   const [duel, setDuel] = useState<Duel | null>(null);
   const [questions, setQuestions] = useState<ContentQuestion[]>([]);
   const [answers, setAnswers] = useState<(string | null)[]>([]);
@@ -1253,7 +1321,17 @@ function BattleArena({
 
     // IDs jÃ¡ usados no duelo (nÃ£o repetir)
     const usedIds = new Set(qs.map(q => q.id));
-    const replacement = await fetchReplacementQuestion(currentQuestion, usedIds);
+    let replacement = await fetchReplacementQuestion(currentQuestion, usedIds);
+
+    if (!replacement) {
+      const localPool = temas
+        .filter((tema) => tema.turmaId === currentQuestion.turmaId)
+        .filter((tema) => tema.disciplinaId === currentQuestion.disciplinaId)
+        .flatMap((tema) => [...tema.exercicios, ...tema.simulado])
+        .filter((question) => !usedIds.has(question.id));
+
+      replacement = pickRandomItems(localPool, 1)[0] as ContentQuestion | undefined;
+    }
 
     if (replacement) {
       // Trocar a questÃ£o e limpar a resposta
@@ -1288,7 +1366,10 @@ function BattleArena({
       if (!data) return;
       const d = data as Duel;
       setDuel(d);
-      const qs = await fetchQuestionsByIds(d.question_ids);
+      let qs = await fetchQuestionsByIds(d.question_ids);
+      if (qs.length === 0) {
+        qs = getTemaQuestionsByIds(temas, d.question_ids) as ContentQuestion[];
+      }
       setQuestions(qs);
       questionsRef.current = qs;
       answersRef.current = new Array(qs.length).fill(null);
@@ -1299,7 +1380,7 @@ function BattleArena({
       // Tela VS por 2.5 segundos
       setTimeout(() => setShowVS(false), 2500);
     })();
-  }, [duelId]);
+  }, [duelId, temas]);
 
   // Timer
   useEffect(() => {
