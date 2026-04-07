@@ -16,6 +16,11 @@ import type {
 import { disciplinas, turmas } from "@/data/catalog";
 import { supabase } from "@/integrations/supabase/client";
 import { getStudyTips } from "@/data/study-content";
+import {
+  deleteThemeContent,
+  listAllThemeSummaries,
+  replaceThemeContentBatch,
+} from "@/lib/content-store";
 
 const STUDY_CONTENT_KEY = "study_content";
 const STUDY_CONTENT_CACHE_KEY = "study_content_cache_v1";
@@ -287,6 +292,22 @@ async function persistTemas(temas: Tema[]) {
   );
 }
 
+async function syncStructuredThemeStore(temas: Tema[]) {
+  const existingSummaries = await listAllThemeSummaries();
+  const nextThemeIds = new Set(temas.map((tema) => tema.id));
+  const themeIdsToDelete = existingSummaries
+    .map((summary) => summary.id)
+    .filter((themeId) => !nextThemeIds.has(themeId));
+
+  if (themeIdsToDelete.length > 0) {
+    for (const themeId of themeIdsToDelete) {
+      await deleteThemeContent(themeId);
+    }
+  }
+
+  await replaceThemeContentBatch(temas);
+}
+
 export function StudyContentProvider({ children }: { children: ReactNode }) {
   const [temas, setTemas] = useState<Tema[]>([]);
   const [loading, setLoading] = useState(true);
@@ -313,13 +334,29 @@ export function StudyContentProvider({ children }: { children: ReactNode }) {
     setSaving(true);
     const { error } = await persistTemas(normalized);
 
-    if (!error) {
+    if (error) {
+      setSaving(false);
+      return {
+        error: error.message,
+      };
+    }
+
+    try {
+      await syncStructuredThemeStore(normalized);
       setTemas(normalized);
+    } catch (syncError) {
+      setSaving(false);
+      return {
+        error:
+          syncError instanceof Error
+            ? syncError.message
+            : "Nao foi possivel sincronizar o conteudo estruturado.",
+      };
     }
 
     setSaving(false);
     return {
-      error: error ? error.message : null,
+      error: null,
     };
   }, []);
 
