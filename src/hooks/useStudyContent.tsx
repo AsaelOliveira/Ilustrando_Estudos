@@ -177,7 +177,7 @@ export function normalizeTemasInput(value: unknown): Tema[] {
     };
 
     if (temaIds.has(tema.id)) {
-      fail(`tema[${index}].id`, `o id '${tema.id}' esta duplicado.`);
+      fail(`tema[${index}].id`, `o id '${tema.id}' está duplicado.`);
     }
     temaIds.add(tema.id);
 
@@ -205,7 +205,7 @@ export function normalizeTemasInput(value: unknown): Tema[] {
       if (questionIds.has(question.id)) {
         fail(
           `tema[${index}].questao[${questionIndex}].id`,
-          `o id '${question.id}' esta duplicado entre as questoes.`,
+          `o id '${question.id}' está duplicado entre as questões.`,
         );
       }
       questionIds.add(question.id);
@@ -275,7 +275,7 @@ async function fetchTemas(): Promise<Tema[]> {
     writeCachedTemas(normalizedTemas);
     return normalizedTemas;
   } catch (loadError) {
-    console.error("Nao foi possivel carregar o conteudo salvo:", loadError);
+    console.error("Não foi possível carregar o conteúdo salvo:", loadError);
     return [];
   }
 }
@@ -285,7 +285,7 @@ async function persistTemas(temas: Tema[]) {
   return supabase.from("app_settings").upsert(
     {
       key: STUDY_CONTENT_KEY,
-      description: "Conteudo pedagogico importado pelo painel admin",
+      description: "Conteúdo pedagógico importado pelo painel admin",
       value: temas,
     },
     { onConflict: "key" },
@@ -327,7 +327,7 @@ export function StudyContentProvider({ children }: { children: ReactNode }) {
       normalized = normalizeTemasInput(nextTemas);
     } catch (error) {
       return {
-        error: error instanceof Error ? error.message : "Conteudo invalido.",
+        error: error instanceof Error ? error.message : "Conteúdo inválido.",
       };
     }
 
@@ -350,7 +350,7 @@ export function StudyContentProvider({ children }: { children: ReactNode }) {
         error:
           syncError instanceof Error
             ? syncError.message
-            : "Nao foi possivel sincronizar o conteudo estruturado.",
+            : "Não foi possível sincronizar o conteúdo estruturado.",
       };
     }
 

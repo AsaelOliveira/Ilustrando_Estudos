@@ -15,13 +15,13 @@ type SelfRegisterResponse = {
 };
 
 function getSignupFunctionErrorMessage(rawMessage?: string | null) {
-  if (!rawMessage) return "Nao foi possivel concluir o cadastro. Confira seu nome com o admin.";
+  if (!rawMessage) return "Não foi possível concluir o cadastro. Confira seu nome com o admin.";
 
   if (
     rawMessage.includes("Failed to send a request to the Edge Function") ||
     rawMessage.includes("Edge Function returned a non-2xx status code")
   ) {
-    return "O auto cadastro ainda nao esta disponivel neste ambiente. Falta publicar a function de cadastro.";
+    return "O autocadastro ainda não está disponível neste ambiente. Falta publicar a function de cadastro.";
   }
 
   return rawMessage;
@@ -90,7 +90,7 @@ export default function LoginPage() {
     }
 
     if (!signupLookupDone || !signupResolvedTurma) {
-      setError(signupNameConflict ? "Existe mais de um cadastro com esse nome. Procure o admin." : "Esse nome nao foi encontrado na lista autorizada.");
+      setError(signupNameConflict ? "Existe mais de um cadastro com esse nome. Procure o admin." : "Esse nome não foi encontrado na lista autorizada.");
       return;
     }
 
@@ -100,7 +100,7 @@ export default function LoginPage() {
     }
 
     if (signupPassword !== signupPasswordConfirm) {
-      setError("As senhas nao conferem.");
+      setError("As senhas não conferem.");
       return;
     }
 
@@ -120,7 +120,7 @@ export default function LoginPage() {
           (typeof data === "object" && data && "error" in data && typeof (data as { error?: unknown }).error === "string"
             ? (data as { error: string }).error
             : null) ||
-          "Nao foi possivel concluir o cadastro. Confira seu nome com o admin.";
+          "Não foi possível concluir o cadastro. Confira seu nome com o admin.";
         setError(nextError);
         return;
       }
@@ -152,7 +152,7 @@ export default function LoginPage() {
     setLoading(false);
 
     if (result.error) {
-      setError("Nao foi possivel entrar automaticamente com o acesso criado.");
+      setError("Não foi possível entrar automaticamente com o acesso criado.");
       return;
     }
 
@@ -192,7 +192,7 @@ export default function LoginPage() {
           getSignupFunctionErrorMessage(previewError?.message) ||
             (previewError?.message?.includes("mais de um cadastro")
               ? "Existe mais de um cadastro com esse nome. Procure o admin."
-              : "Esse nome nao foi encontrado na lista autorizada."),
+              : "Esse nome não foi encontrado na lista autorizada."),
         );
         return;
       }
@@ -250,7 +250,7 @@ export default function LoginPage() {
                 Entrar na <span className="text-primary">Arena</span>
               </h1>
               <p className="mt-3 font-body text-base font-medium text-muted-foreground">
-                Sua trilha de estudos esta esperando.
+                Sua trilha de estudos est? esperando.
               </p>
             </div>
 
@@ -433,7 +433,7 @@ export default function LoginPage() {
                           Seu acesso para entrar
                         </p>
                         <p className="mt-2 text-sm text-muted-foreground">
-                          Guarde este email. Ele sera usado junto com a senha que voce criar abaixo.
+                          Guarde este e-mail. Ele ser? usado junto com a senha que voc? criar abaixo.
                         </p>
                         <div className="mt-3 flex flex-col gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3 sm:flex-row sm:items-center">
                           <span className="font-heading text-sm font-bold text-primary">Email de acesso</span>

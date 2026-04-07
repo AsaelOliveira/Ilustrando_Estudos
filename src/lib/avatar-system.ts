@@ -51,44 +51,44 @@ export const adminStyle: AvatarStyle = {
 };
 
 export const avatarItems: AvatarItem[] = [
-  { id: "skin-aurora", slot: "skin", label: "Tom Aurora", description: "Visual vibrante para comecar sua jornada.", rarity: "starter", cost: 0, source: "starter" },
+  { id: "skin-aurora", slot: "skin", label: "Tom Aurora", description: "Visual vibrante para come?ar sua jornada.", rarity: "starter", cost: 0, source: "starter" },
   { id: "skin-amber", slot: "skin", label: "Tom Amber", description: "Calor e energia de arena.", rarity: "rare", cost: 180, source: "shop" },
-  { id: "skin-gold", slot: "skin", label: "Tom Dourado", description: "Aparencia de campeao lendario.", rarity: "legendary", cost: 0, source: "pass", passLevel: 20 },
+  { id: "skin-gold", slot: "skin", label: "Tom Dourado", description: "Aparência de campeão lendário.", rarity: "legendary", cost: 0, source: "pass", passLevel: 20 },
 
   { id: "hair-neo", slot: "hair", label: "Corte Neo", description: "Limpo, moderno e pronto para o desafio.", rarity: "starter", cost: 0, source: "starter" },
   { id: "hair-wave", slot: "hair", label: "Ondas Orbitais", description: "Um corte com atitude e movimento.", rarity: "rare", cost: 220, source: "shop" },
-  { id: "hair-phoenix", slot: "hair", label: "Fenix Plasma", description: "O penteado de quem ja zerou o mapa.", rarity: "legendary", cost: 0, source: "pass", passLevel: 12 },
+  { id: "hair-phoenix", slot: "hair", label: "F?nix Plasma", description: "O penteado de quem ja zerou o mapa.", rarity: "legendary", cost: 0, source: "pass", passLevel: 12 },
 
   { id: "eyes-spark", slot: "eyes", label: "Olhar Spark", description: "Brilho leve de explorador.", rarity: "starter", cost: 0, source: "starter" },
-  { id: "eyes-focus", slot: "eyes", label: "Olhar Focus", description: "Concentracao maxima antes da missao.", rarity: "rare", cost: 140, source: "shop" },
-  { id: "eyes-cosmic", slot: "eyes", label: "Olhar Cosmico", description: "Energia de quem enxerga o proximo nivel.", rarity: "epic", cost: 0, source: "pass", passLevel: 8 },
+  { id: "eyes-focus", slot: "eyes", label: "Olhar Focus", description: "Concentração máxima antes da missão.", rarity: "rare", cost: 140, source: "shop" },
+  { id: "eyes-cosmic", slot: "eyes", label: "Olhar Cósmico", description: "Energia de quem enxerga o próximo nível.", rarity: "epic", cost: 0, source: "pass", passLevel: 8 },
 
   { id: "outfit-campus", slot: "outfit", label: "Jaqueta Campus", description: "Uniforme premium de treino escolar.", rarity: "starter", cost: 0, source: "starter" },
-  { id: "outfit-stellar", slot: "outfit", label: "Armadura Stellar", description: "Camadas metalicas com brilho futurista.", rarity: "epic", cost: 520, source: "shop" },
-  { id: "outfit-headmaster", slot: "outfit", label: "Manto do Curador", description: "Traje maximo do admin com tudo liberado.", rarity: "legendary", cost: 0, source: "pass", passLevel: 24 },
+  { id: "outfit-stellar", slot: "outfit", label: "Armadura Stellar", description: "Camadas met?licas com brilho futurista.", rarity: "epic", cost: 520, source: "shop" },
+  { id: "outfit-headmaster", slot: "outfit", label: "Manto do Curador", description: "Traje máximo do admin com tudo liberado.", rarity: "legendary", cost: 0, source: "pass", passLevel: 24 },
 
-  { id: "boots-dash", slot: "boots", label: "Dash One", description: "Passos firmes para o comeco da temporada.", rarity: "starter", cost: 0, source: "starter" },
+  { id: "boots-dash", slot: "boots", label: "Dash One", description: "Passos firmes para o começo da temporada.", rarity: "starter", cost: 0, source: "starter" },
   { id: "boots-comet", slot: "boots", label: "Comet Run", description: "Botas com sola de impulso neon.", rarity: "rare", cost: 190, source: "shop" },
-  { id: "boots-thunder", slot: "boots", label: "Thunder Mk II", description: "Pegada eletrica de maratona academica.", rarity: "epic", cost: 0, source: "pass", passLevel: 16 },
+  { id: "boots-thunder", slot: "boots", label: "Thunder Mk II", description: "Pegada el?trica de maratona acad?mica.", rarity: "epic", cost: 0, source: "pass", passLevel: 16 },
 
-  { id: "accessory-pin", slot: "accessory", label: "Pin da Arena", description: "O simbolo oficial dos desafiantes.", rarity: "starter", cost: 0, source: "starter" },
-  { id: "accessory-visor", slot: "accessory", label: "Visor Tatico", description: "Interface de leitura rapida e estilo.", rarity: "rare", cost: 260, source: "shop" },
-  { id: "accessory-crown", slot: "accessory", label: "Coroa Prismatica", description: "Reservada para figuras lendarias.", rarity: "legendary", cost: 0, source: "pass", passLevel: 28 },
+  { id: "accessory-pin", slot: "accessory", label: "Pin da Arena", description: "O s?mbolo oficial dos desafiantes.", rarity: "starter", cost: 0, source: "starter" },
+  { id: "accessory-visor", slot: "accessory", label: "Visor T?tico", description: "Interface de leitura r?pida e estilo.", rarity: "rare", cost: 260, source: "shop" },
+  { id: "accessory-crown", slot: "accessory", label: "Coroa Prismática", description: "Reservada para figuras lendárias.", rarity: "legendary", cost: 0, source: "pass", passLevel: 28 },
 
   { id: "aura-none", slot: "aura", label: "Sem Aura", description: "Visual limpo e direto.", rarity: "starter", cost: 0, source: "starter" },
   { id: "aura-rift", slot: "aura", label: "Aura Rift", description: "Pulso de energia azul-violeta.", rarity: "epic", cost: 480, source: "shop" },
-  { id: "aura-solar", slot: "aura", label: "Aura Solar", description: "Halo dourado com calor de trofeu.", rarity: "legendary", cost: 0, source: "pass", passLevel: 30 },
+  { id: "aura-solar", slot: "aura", label: "Aura Solar", description: "Halo dourado com calor de trof?u.", rarity: "legendary", cost: 0, source: "pass", passLevel: 30 },
 ];
 
 export const battlePassRewards: BattlePassReward[] = [
-  { level: 2, title: "Passe N2", reward: "Olhar Cosmico", itemId: "eyes-cosmic" },
+  { level: 2, title: "Passe N2", reward: "Olhar C?smico", itemId: "eyes-cosmic" },
   { level: 5, title: "Passe N5", reward: "Pacote de brilho premium" },
-  { level: 8, title: "Passe N8", reward: "Fenix Plasma", itemId: "hair-phoenix" },
+  { level: 8, title: "Passe N8", reward: "F?nix Plasma", itemId: "hair-phoenix" },
   { level: 12, title: "Passe N12", reward: "Banner de lenda" },
   { level: 16, title: "Passe N16", reward: "Thunder Mk II", itemId: "boots-thunder" },
   { level: 20, title: "Passe N20", reward: "Tom Dourado", itemId: "skin-gold" },
   { level: 24, title: "Passe N24", reward: "Manto do Curador", itemId: "outfit-headmaster" },
-  { level: 28, title: "Passe N28", reward: "Coroa Prismatica", itemId: "accessory-crown" },
+  { level: 28, title: "Passe N28", reward: "Coroa Prism?tica", itemId: "accessory-crown" },
   { level: 30, title: "Passe N30", reward: "Aura Solar", itemId: "aura-solar" },
 ];
 
@@ -197,16 +197,16 @@ export function getAvatarGoals(points: number, missionsCompleted: number, streak
   return [
     {
       id: "goal-missions-1",
-      label: "Missao de Rotina",
-      hint: "Complete desafios para liberar o proximo bloco de itens.",
+      label: "Missão de rotina",
+      hint: "Complete desafios para liberar o próximo bloco de itens.",
       current: missionsCompleted,
       target: 12,
       reward: "240 moedas + visual raro",
     },
     {
       id: "goal-streak-1",
-      label: "Sequencia de Fogo",
-      hint: "Mantenha consistencia por varios dias.",
+      label: "Sequência de Fogo",
+      hint: "Mantenha consistência por vários dias.",
       current: streakDays,
       target: 7,
       reward: "Aura exclusiva",
@@ -217,7 +217,7 @@ export function getAvatarGoals(points: number, missionsCompleted: number, streak
       hint: "Acumule pontos para subir no passe.",
       current: points,
       target: 1800,
-      reward: "2 niveis fortes do passe",
+      reward: "2 n?veis fortes do passe",
     },
   ];
 }

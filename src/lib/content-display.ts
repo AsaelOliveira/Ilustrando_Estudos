@@ -37,7 +37,7 @@ export async function saveContentDisplayConfig(config: ContentDisplayConfig) {
   return supabase.from("app_settings").upsert(
     {
       key: "content_display",
-      description: "Configuracao de exibicao de conteudo para alunos",
+      description: "Configuração de exibição de conteúdo para alunos",
       value: normalizeContentDisplayConfig(config),
     },
     { onConflict: "key" },

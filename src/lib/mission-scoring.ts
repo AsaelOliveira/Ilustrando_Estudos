@@ -19,7 +19,7 @@ export interface MissionScoreBreakdown {
   totalPoints: number;
 }
 
-/** Calcula bÃ´nus de sequÃªncia (streak) */
+/** Calcula bônus de sequência (streak) */
 export function getStreakBonus(streakDays: number): { bonus: number; label: string } {
   if (streakDays >= 7) return { bonus: 5, label: "7+ dias: +5 pts" };
   if (streakDays >= 5) return { bonus: 3, label: "5+ dias: +3 pts" };
@@ -104,7 +104,7 @@ export async function saveMissionScoringConfig(config: MissionScoringConfig) {
   return supabase.from("app_settings").upsert(
     {
       key: "mission_scoring",
-      description: "Configuracao de pontuacao da missao diaria",
+      description: "Configuração de pontuação da missão diária",
       value: config,
     },
     { onConflict: "key" },

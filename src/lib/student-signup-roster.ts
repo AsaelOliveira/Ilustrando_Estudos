@@ -125,7 +125,7 @@ export async function saveSignupRoster(entries: StudentSignupRosterEntry[]) {
   for (const entry of entries) {
     const normalizedName = normalizeRosterName(entry.nome);
     if (seenNames.has(normalizedName)) {
-      throw new Error("Nao e permitido repetir o mesmo nome na lista autorizada.");
+      throw new Error("Não é permitido repetir o mesmo nome na lista autorizada.");
     }
     seenNames.add(normalizedName);
   }
@@ -159,7 +159,7 @@ export async function saveSignupRoster(entries: StudentSignupRosterEntry[]) {
   const { error } = await supabase.from("app_settings").upsert(
     {
       key: STUDENT_SIGNUP_ROSTER_KEY,
-      description: "Lista autorizada para auto cadastro dos alunos.",
+      description: "Lista autorizada para autocadastro dos alunos.",
       value: mergedEntries,
       updated_at: new Date().toISOString(),
     },

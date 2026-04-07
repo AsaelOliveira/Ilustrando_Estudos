@@ -6,19 +6,19 @@ import Layout from "@/components/Layout";
 const publicHighlights = [
   {
     title: "Estude por Turma",
-    description: "Entre na sua serie, veja so o que faz sentido para voce e siga por disciplinas e temas.",
+    description: "Entre na sua s?rie, veja s? o que faz sentido para voc? e siga por disciplinas e temas.",
     icon: LayoutGrid,
     accent: "from-primary/20 via-primary/5 to-transparent",
   },
   {
-    title: "Resumos + Exercicios",
-    description: "Cada tema combina revisao rapida, explicacao clara e pratica para fixar o conteudo.",
+    title: "Resumos + Exerc?cios",
+    description: "Cada tema combina revisão rápida, explicação clara e prática para fixar o conteúdo.",
     icon: BookOpen,
     accent: "from-accent/20 via-accent/5 to-transparent",
   },
   {
     title: "Modo Prova",
-    description: "Quando quiser treinar com mais foco, entre no fluxo de simulados dentro da area privada.",
+    description: "Quando quiser treinar com mais foco, entre no fluxo de simulados dentro da ?rea privada.",
     icon: FileCheck,
     accent: "from-emerald-500/20 via-emerald-500/5 to-transparent",
   },

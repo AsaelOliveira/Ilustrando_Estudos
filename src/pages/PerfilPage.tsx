@@ -600,8 +600,8 @@ export default function PerfilPage() {
     const { error } = await saveAvatarCatalogVisibilityConfig(nextConfig);
     if (error) {
       toast({
-        title: "Nao foi possivel atualizar",
-        description: "A visibilidade da loja nao foi salva.",
+        title: "Não foi possível atualizar",
+        description: "A visibilidade da loja não foi salva.",
         variant: "destructive",
       });
       setUpdatingCatalogId(null);
@@ -618,8 +618,8 @@ export default function PerfilPage() {
 
     if (error) {
       toast({
-        title: "Nao foi possivel salvar",
-        description: "O catalogo enviado nao foi salvo.",
+        title: "Não foi possível salvar",
+        description: "O catálogo enviado não foi salvo.",
         variant: "destructive",
       });
       setSavingCustomCatalog(false);
@@ -638,7 +638,7 @@ export default function PerfilPage() {
     setUploadingCatalog(true);
 
     const collectionId = `colecao-${Date.now()}`;
-    const collectionName = `Colecao ${customCatalog.collections.length + 1}`;
+    const collectionName = `Coleção ${customCatalog.collections.length + 1}`;
     const uploadedItems: CustomAvatarCatalogConfig["collections"][number]["items"] = [];
 
     for (const [index, file] of files.entries()) {
@@ -658,7 +658,7 @@ export default function PerfilPage() {
 
       if (uploadError) {
         toast({
-          title: "Nao foi possivel enviar",
+          title: "Não foi possível enviar",
           description: `Falha ao enviar ${file.name}.`,
           variant: "destructive",
         });

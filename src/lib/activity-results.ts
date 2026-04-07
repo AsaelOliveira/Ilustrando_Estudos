@@ -28,6 +28,6 @@ export async function recordActivityResult(input: RecordActivityResultInput) {
   });
 
   if (error) {
-    console.error("Nao foi possivel salvar o resultado pedagogico:", error);
+    console.error("Não foi possível salvar o resultado pedagógico:", error);
   }
 }

@@ -302,7 +302,7 @@ function MiniRanking({ userTurma, userId }: { userTurma: string; userId: string 
 }
 
 // ============================================================
-// Hook anti-trapaÃ§a
+// Hook anti-trapaça
 // ============================================================
 
 function useAntiCheat(active: boolean, onTabSwitch?: () => void) {
@@ -461,7 +461,7 @@ export default function DuelPage() {
         </motion.div>
 
         <div className={`flex gap-6 ${showSidebar ? "" : ""}`}>
-          {/* ConteÃºdo principal */}
+          {/* Conteúdo principal */}
           <div className="min-w-0 flex-1">
             <AnimatePresence mode="wait">
               <motion.div
@@ -803,7 +803,7 @@ function LobbyView({
 }
 
 // ============================================================
-// ConfigView â€” ConfiguraÃ§Ãµes do duelo
+// ConfigView — Configurações do duelo
 // ============================================================
 
 function ConfigView({
@@ -837,7 +837,7 @@ function ConfigView({
   const [searching, setSearching] = useState(false);
   const searchTimeoutRef = useRef<ReturnType<typeof setTimeout>>();
 
-  // CÃ³digo do duelo para convite
+  // Código do duelo para convite
   const [inviteCode, setInviteCode] = useState("");
 
   useEffect(() => {
@@ -876,7 +876,7 @@ function ConfigView({
     return () => clearTimeout(searchTimeoutRef.current);
   }, [searchQuery, user]);
 
-  // Disciplinas disponÃ­veis para a turma do usuÃ¡rio
+  // Disciplinas disponíveis para a turma do usuário
   const availableDisciplines = useMemo(() => {
     const turmaDiscs = disciplinas.filter(d => d.turmaId === userTurma);
     return turmaDiscs.filter(d => {
@@ -1037,7 +1037,7 @@ function ConfigView({
     }
   };
 
-  // Aceitar por cÃ³digo de convite
+  // Aceitar por código de convite
   const joinByCode = async () => {
     if (!user || inviteCode.length < 4) return;
     setCreating(true);
@@ -1094,7 +1094,7 @@ function ConfigView({
         ← Voltar ao lobby
       </button>
 
-      {/* Entrar por cÃ³digo */}
+      {/* Entrar por código */}
       <div className="glass-card rounded-2xl p-4">
         <h3 className="mb-2 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Hash className="h-4 w-4 text-accent" />
@@ -1126,7 +1126,7 @@ function ConfigView({
           Você responderá primeiro. Depois, o desafio ficará disponível para o adversário.
         </p>
 
-        {/* Tipo de adversÃ¡rio */}
+        {/* Tipo de adversário */}
         <fieldset className="mb-5">
           <legend className="mb-2 font-heading text-sm font-semibold text-foreground">Adversário</legend>
           <div className="grid grid-cols-2 gap-3">
@@ -1392,7 +1392,7 @@ function ConfigView({
 }
 
 // ============================================================
-// BattleArena â€” Tela de batalha com anti-trapaÃ§a
+// BattleArena — Tela de batalha com anti-trapaça
 // ============================================================
 
 function BattleArena({
@@ -1429,7 +1429,7 @@ function BattleArena({
     const currentQuestion = qs[idx];
     if (!currentQuestion) return;
 
-    // IDs jÃ¡ usados no duelo (nÃ£o repetir)
+    // IDs já usados no duelo (não repetir)
     const usedIds = new Set(qs.map(q => q.id));
     let replacement = await fetchReplacementQuestion(currentQuestion, usedIds);
 
@@ -1444,7 +1444,7 @@ function BattleArena({
     }
 
     if (replacement) {
-      // Trocar a questÃ£o e limpar a resposta
+      // Trocar a questão e limpar a resposta
       const newQs = [...qs];
       newQs[idx] = replacement;
       questionsRef.current = newQs;
@@ -1822,7 +1822,7 @@ function BattleArena({
         </motion.div>
       </div>
 
-      {/* QuestÃ£o */}
+      {/* Questão */}
       <AnimatePresence mode="wait">
         <motion.div
           key={`${currentQ}-${q.id}`}
@@ -1885,7 +1885,7 @@ function BattleArena({
         </motion.div>
       </AnimatePresence>
 
-      {/* NavegaÃ§Ã£o */}
+      {/* Navegação */}
       <div className="flex justify-between gap-3">
         <button
           onClick={() => setCurrentQ(p => Math.max(0, p - 1))}
@@ -1929,7 +1929,7 @@ function BattleArena({
 }
 
 // ============================================================
-// WaitingView â€” Aguardando adversÃ¡rio aceitar e responder
+// WaitingView — Aguardando adversário aceitar e responder
 // ============================================================
 
 function WaitingView({
@@ -2164,7 +2164,7 @@ function ResultsView({
 }
 
 // ============================================================
-// HistoryView â€” HistÃ³rico + Admin Log
+// HistoryView — Histórico + Admin Log
 // ============================================================
 
 function HistoryView({

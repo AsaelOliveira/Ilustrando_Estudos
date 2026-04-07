@@ -172,11 +172,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       });
 
       if (resolveError) {
-        return { error: resolveError.message ?? "Nao foi possivel localizar esse acesso." };
+        return { error: resolveError.message ?? "Não foi possível localizar esse acesso." };
       }
 
       if (!data) {
-        return { error: "Nao foi possivel localizar esse acesso." };
+        return { error: "Não foi possível localizar esse acesso." };
       }
 
       emailToUse = data;

@@ -164,16 +164,16 @@ export default function Competicao() {
   const startMission = () => {
     if (contentLoading) {
       toast({
-        title: "Conteudo ainda carregando",
-        description: "Espere alguns segundos e tente iniciar a missao novamente.",
+        title: "Conteúdo ainda carregando",
+        description: "Espere alguns segundos e tente iniciar a missão novamente.",
       });
       return;
     }
 
     if (todayDone || missionSaving) {
       toast({
-        title: "Missao ja encerrada",
-        description: "A missao diaria ja foi concluida hoje. Volte amanha para somar novos pontos.",
+        title: "Missão já encerrada",
+        description: "A missão diária já foi concluída hoje. Volte amanhã para somar novos pontos.",
       });
       return;
     }
@@ -186,8 +186,8 @@ export default function Competicao() {
     const shuffled = pickRandomItems(turmaQuestions, 5);
     if (shuffled.length === 0) {
       toast({
-        title: "Sem questoes disponiveis",
-        description: "Importe e salve temas para liberar a missao diaria da turma.",
+        title: "Sem questões disponíveis",
+        description: "Importe e salve temas para liberar a missão diária da turma.",
         variant: "destructive",
       });
       return;
@@ -257,17 +257,17 @@ export default function Competicao() {
 
     if (attemptError) {
       if (attemptError.code === "23505") {
-        setMissionNotice("Sua missao de hoje ja estava registrada. Os pontos nao foram somados novamente.");
+        setMissionNotice("Sua missão de hoje já estava registrada. Os pontos não foram somados novamente.");
         toast({
-          title: "Missao ja registrada",
-          description: "Sua pontuacao de hoje nao foi duplicada.",
+          title: "Missão já registrada",
+          description: "Sua pontuação de hoje não foi duplicada.",
         });
       } else {
         setTodayDone(false);
-        setMissionNotice("Nao foi possivel registrar a missao agora. Tente novamente em instantes.");
+        setMissionNotice("Não foi possível registrar a missão agora. Tente novamente em instantes.");
         toast({
-          title: "Erro ao salvar a missao",
-          description: "A tentativa nao foi registrada. Tente novamente.",
+          title: "Erro ao salvar a missão",
+          description: "A tentativa não foi registrada. Tente novamente.",
           variant: "destructive",
         });
       }
@@ -295,14 +295,14 @@ export default function Competicao() {
       }).eq("user_id", user.id);
 
       if (updateError) {
-        setMissionNotice("A tentativa foi salva, mas o ranking nao atualizou agora.");
+        setMissionNotice("A tentativa foi salva, mas o ranking não atualizou agora.");
         toast({
           title: "Ranking pendente",
-          description: "A missao foi registrada, mas houve erro ao atualizar os pontos.",
+          description: "A missão foi registrada, mas houve erro ao atualizar os pontos.",
           variant: "destructive",
         });
       } else {
-        setMissionNotice("Pontuacao registrada com sucesso no ranking.");
+        setMissionNotice("Pontuação registrada com sucesso no ranking.");
       }
     } else {
       const { error: insertScoreError } = await supabase.from("student_scores").insert({
@@ -315,14 +315,14 @@ export default function Competicao() {
       });
 
       if (insertScoreError) {
-        setMissionNotice("A tentativa foi salva, mas o ranking nao atualizou agora.");
+        setMissionNotice("A tentativa foi salva, mas o ranking não atualizou agora.");
         toast({
           title: "Ranking pendente",
-          description: "A missao foi registrada, mas houve erro ao criar a pontuacao.",
+          description: "A missão foi registrada, mas houve erro ao criar a pontuação.",
           variant: "destructive",
         });
       } else {
-        setMissionNotice("Pontuacao registrada com sucesso no ranking.");
+        setMissionNotice("Pontuação registrada com sucesso no ranking.");
       }
     }
 
@@ -370,8 +370,8 @@ export default function Competicao() {
 
   const tabs = [
     { key: "missao" as const, label: "Missão", icon: "🎯" },
-    { key: "turma" as const, label: "Minha Turma", icon: "🏫" },
-    { key: "geral" as const, label: "Interclasse", icon: "🏆" },
+    { key: "turma" as const, label: "Minha Turma", icon: "??" },
+    { key: "geral" as const, label: "Interclasse", icon: "??" },
   ];
 
   return (
@@ -381,7 +381,7 @@ export default function Competicao() {
       <section className="container mx-auto px-4 py-8 max-w-2xl">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }}>
           <h1 className="font-heading font-extrabold text-3xl md:text-4xl text-foreground mb-1">
-            🏆 Arena
+            ?? Arena
           </h1>
           <p className="text-muted-foreground font-body mb-8">Missões diárias e ranking. Mostre quem manda!</p>
         </motion.div>
@@ -440,7 +440,7 @@ export default function Competicao() {
             )}
             {tab === "turma" && (
               <RankingTab
-                title={`Top 5 — ${turmas.find(t => t.id === userTurma)?.nome || userTurma}`}
+                title={`Top 5 ? ${turmas.find(t => t.id === userTurma)?.nome || userTurma}`}
                 entries={turmaRanking}
                 loading={loading}
                 currentUserId={user?.id}
@@ -449,7 +449,7 @@ export default function Competicao() {
             )}
             {tab === "geral" && (
               <RankingTab
-                title="Top 10 — Interclasse 🔥"
+                title="Top 10 ? Interclasse ??"
                 entries={geralRanking}
                 loading={loading}
                 currentUserId={user?.id}
@@ -476,7 +476,7 @@ export default function Competicao() {
             <div className="min-w-0">
               <p className="inline-flex items-center gap-2 rounded-full bg-amber-100 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-800">
                 <Shield className="h-3.5 w-3.5" />
-                Área reservada
+                ?rea reservada
               </p>
               <h2 className="mt-3 font-heading text-lg font-bold text-amber-950">
                 Próximas fases da competição
@@ -502,9 +502,9 @@ export default function Competicao() {
           </h2>
           <div className="hidden space-y-3">
             {[
-              { n: 1, title: "Fase Online", desc: "Missões diárias. Acumule pontos!", color: "bg-primary/10 text-primary" },
+              { n: 1, title: "Fase online", desc: "Missões diárias. Acumule pontos!", color: "bg-primary/10 text-primary" },
               { n: 2, title: "Semifinal Interclasse", desc: "Os melhores de cada turma se enfrentam.", color: "bg-accent/10 text-accent" },
-              { n: 3, title: "Final Presencial", desc: "Prova ao vivo na escola. Quem será o campeão?", color: "bg-success/10 text-success" },
+              { n: 3, title: "Final presencial", desc: "Prova ao vivo na escola. Quem será o campeão?", color: "bg-success/10 text-success" },
             ].map((step) => (
               <div key={step.n} className="flex items-start gap-3">
                 <div className={`h-8 w-8 rounded-xl ${step.color} flex items-center justify-center font-heading font-bold text-sm flex-shrink-0`}>
@@ -532,7 +532,7 @@ function MissaoTab({
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
         <Target className="h-12 w-12 text-primary mx-auto mb-4 opacity-50" />
-        <h2 className="font-heading font-bold text-xl text-foreground mb-2">Faça login para jogar!</h2>
+        <h2 className="font-heading font-bold text-xl text-foreground mb-2">Fa?a login para jogar!</h2>
         <p className="text-muted-foreground font-body text-sm">Entre na sua conta para participar das missões diárias.</p>
       </div>
     );
@@ -546,7 +546,7 @@ function MissaoTab({
         animate={{ opacity: 1, scale: 1 }}
         className="glass-card rounded-2xl p-8 text-center"
       >
-        <div className="text-6xl mb-4">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👍" : "💪"}</div>
+        <div className="text-6xl mb-4">{correct >= 4 ? "??" : correct >= 3 ? "??" : correct >= 2 ? "??" : "??"}</div>
         <h2 className="font-heading font-extrabold text-2xl text-foreground mb-2">Missão Completa!</h2>
         <div className="flex items-center justify-center gap-6 my-6">
           <div className="text-center">
@@ -562,7 +562,7 @@ function MissaoTab({
         {antiCheatFlags.length > 0 && (
           <div className="flex items-center justify-center gap-2 text-accent text-xs font-body mb-4">
             <AlertTriangle className="h-3.5 w-3.5" />
-            Detectamos saída da aba ({antiCheatFlags.length}x) — sem bônus de fair play
+            Detectamos sa?da da aba ({antiCheatFlags.length}x) ? sem b?nus de fair play
           </div>
         )}
         {/* Show answers */}
@@ -612,7 +612,7 @@ function MissaoTab({
 
         <div className="glass-card rounded-2xl p-6">
           <div className="flex items-center gap-2 mb-1">
-            <span className="text-xs font-body text-muted-foreground">Questão {currentQ + 1} de {missionQuestions.length}</span>
+              <span className="text-xs font-body text-muted-foreground">Questão {currentQ + 1} de {missionQuestions.length}</span>
             <span className={`text-[10px] font-body px-2 py-0.5 rounded-full ${
               q.dificuldade === "facil" ? "bg-success/10 text-success" : q.dificuldade === "medio" ? "bg-accent/10 text-accent" : "bg-destructive/10 text-destructive"
             }`}>
@@ -655,21 +655,21 @@ function MissaoTab({
             disabled={currentQ === 0}
             className="btn-tap px-5 py-3 rounded-xl border-2 border-border text-foreground font-heading font-semibold text-sm hover:bg-secondary transition-all disabled:opacity-40"
           >
-            ← Anterior
+            ? Anterior
           </button>
           {currentQ === missionQuestions.length - 1 ? (
             <button
               onClick={onFinish}
               className="btn-tap px-6 py-3 rounded-xl bg-primary text-primary-foreground font-heading font-bold text-sm hover:bg-primary/90 transition-all hover:shadow-glow"
             >
-              Finalizar ✅
+              Finalizar ?
             </button>
           ) : (
             <button
               onClick={onNext}
               className="btn-tap px-5 py-3 rounded-xl bg-primary text-primary-foreground font-heading font-semibold text-sm hover:bg-primary/90 transition-all"
             >
-              Próxima →
+              Pr?xima ?
             </button>
           )}
         </div>
@@ -689,7 +689,7 @@ function MissaoTab({
         transition={{ duration: 2, repeat: Infinity }}
         className="text-6xl mb-4"
       >
-        🎯
+        ??
       </motion.div>
       <h2 className="font-heading font-extrabold text-2xl text-foreground mb-2">Missão Diária</h2>
       <p className="text-muted-foreground font-body text-sm mb-6">5 questões da sua turma • 5 minutos</p>
@@ -747,9 +747,9 @@ function MissaoTabAtualizada({
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
         <Target className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
-        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faca login para jogar!</h2>
+        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Fa?a login para jogar!</h2>
         <p className="font-body text-sm text-muted-foreground">
-          Entre na sua conta para participar das missoes diarias.
+          Entre na sua conta para participar das missões diárias.
         </p>
       </div>
     );
@@ -764,8 +764,8 @@ function MissaoTabAtualizada({
         animate={{ opacity: 1, scale: 1 }}
         className="glass-card rounded-2xl p-8 text-center"
       >
-        <div className="mb-4 text-6xl">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👍" : "💪"}</div>
-        <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missao completa!</h2>
+        <div className="mb-4 text-6xl">{correct >= 4 ? "??" : correct >= 3 ? "??" : correct >= 2 ? "??" : "??"}</div>
+        <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missão completa!</h2>
 
         <div className="my-6 flex items-center justify-center gap-6">
           <div className="text-center">
@@ -782,19 +782,19 @@ function MissaoTabAtualizada({
         {scoreBreakdown && (
           <div className="grid gap-2 rounded-2xl border border-border bg-background/70 p-4 text-left text-sm sm:grid-cols-2">
             <ScoreRuleCard
-              label="Faceis"
+              label="F?ceis"
               count={scoreBreakdown.easyCorrect}
               points={scoringConfig.easyPoints}
               total={scoreBreakdown.easyCorrect * scoringConfig.easyPoints}
             />
             <ScoreRuleCard
-              label="Medias"
+              label="M?dias"
               count={scoreBreakdown.mediumCorrect}
               points={scoringConfig.mediumPoints}
               total={scoreBreakdown.mediumCorrect * scoringConfig.mediumPoints}
             />
             <ScoreRuleCard
-              label="Dificeis"
+              label="Dif?ceis"
               count={scoreBreakdown.hardCorrect}
               points={scoringConfig.hardPoints}
               total={scoreBreakdown.hardCorrect * scoringConfig.hardPoints}
@@ -805,7 +805,7 @@ function MissaoTabAtualizada({
             </div>
             {scoreBreakdown.streakBonus > 0 && (
               <div className="rounded-xl bg-destructive/10 px-4 py-3">
-                <p className="font-heading text-xs uppercase tracking-[0.18em] text-destructive">Retorno diário</p>
+                <p className="font-heading text-xs uppercase tracking-[0.18em] text-destructive">Retorno di?rio</p>
                 <p className="mt-1 font-body text-destructive font-semibold">+{scoreBreakdown.streakBonus}</p>
               </div>
             )}
@@ -815,7 +815,7 @@ function MissaoTabAtualizada({
         {antiCheatFlags.length > 0 && (
           <div className="mb-4 mt-4 flex items-center justify-center gap-2 text-xs text-accent">
             <AlertTriangle className="h-3.5 w-3.5" />
-            Detectamos saida da aba ({antiCheatFlags.length}x) - sem bonus de fair play
+            Detectamos sa?da da aba ({antiCheatFlags.length}x) ? sem b?nus de fair play
           </div>
         )}
 
@@ -887,7 +887,7 @@ function MissaoTabAtualizada({
         <div className="glass-card rounded-2xl p-6">
           <div className="mb-1 flex items-center gap-2">
             <span className="font-body text-xs text-muted-foreground">
-              Questao {currentQ + 1} de {missionQuestions.length}
+              Questão {currentQ + 1} de {missionQuestions.length}
             </span>
             <span
               className={`rounded-full px-2 py-0.5 text-[10px] font-body ${
@@ -937,21 +937,21 @@ function MissaoTabAtualizada({
             disabled={currentQ === 0}
             className="btn-tap rounded-xl border-2 border-border px-5 py-3 font-heading text-sm font-semibold text-foreground transition-all hover:bg-secondary disabled:opacity-40"
           >
-            ← Anterior
+            ? Anterior
           </button>
           {currentQ === missionQuestions.length - 1 ? (
             <button
               onClick={onFinish}
               className="btn-tap rounded-xl bg-primary px-6 py-3 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
             >
-              Finalizar ✓
+              Finalizar ?
             </button>
           ) : (
             <button
               onClick={onNext}
               className="btn-tap rounded-xl bg-primary px-5 py-3 font-heading text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90"
             >
-              Proxima →
+              Pr?xima ?
             </button>
           )}
         </div>
@@ -970,20 +970,20 @@ function MissaoTabAtualizada({
         transition={{ duration: 2, repeat: Infinity }}
         className="mb-4 text-6xl"
       >
-        🎯
+        ??
       </motion.div>
-      <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missao diaria</h2>
-      <p className="mb-6 font-body text-sm text-muted-foreground">5 questoes da sua turma - 5 minutos</p>
+      <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missão diária</h2>
+      <p className="mb-6 font-body text-sm text-muted-foreground">5 questões da sua turma • 5 minutos</p>
 
       <div className="mb-6 flex flex-wrap items-center justify-center gap-3 text-sm">
         <div className="flex items-center gap-1.5 font-body text-primary">
-          <Zap className="h-4 w-4" /> Facil +{scoringConfig.easyPoints}
+          <Zap className="h-4 w-4" /> F?cil +{scoringConfig.easyPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-accent">
-          <Target className="h-4 w-4" /> Medio +{scoringConfig.mediumPoints}
+          <Target className="h-4 w-4" /> M?dio +{scoringConfig.mediumPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-destructive">
-          <AlertTriangle className="h-4 w-4" /> Dificil +{scoringConfig.hardPoints}
+          <AlertTriangle className="h-4 w-4" /> Dif?cil +{scoringConfig.hardPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-success">
           <Star className="h-4 w-4" /> Fair play +{scoringConfig.fairPlayBonus}
@@ -1007,14 +1007,14 @@ function MissaoTabAtualizada({
 
       {todayDone ? (
         <div className="inline-flex items-center gap-2 rounded-xl bg-success/10 px-6 py-3 font-body font-medium text-success">
-          <CheckCircle className="h-4 w-4" /> Missao de hoje concluida! Volte amanha.
+          <CheckCircle className="h-4 w-4" /> Missão de hoje concluída! Volte amanhã.
         </div>
       ) : (
         <button
           onClick={onStart}
           className="btn-tap interactive-pulse rounded-2xl bg-primary px-8 py-4 font-heading text-base font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
         >
-          🚀 Iniciar missao
+          🚀 Iniciar missão
         </button>
       )}
     </motion.div>

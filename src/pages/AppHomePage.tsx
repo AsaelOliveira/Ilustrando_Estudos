@@ -199,7 +199,7 @@ export default function AppHomePage() {
         <Breadcrumbs items={[{ label: "Dashboard" }]} />
         <section className="container mx-auto max-w-6xl px-4 py-12">
           <div className="rounded-[2rem] border border-border bg-card px-6 py-10 text-center shadow-card">
-            <p className="font-heading text-xl font-bold text-foreground">Carregando conteudo...</p>
+            <p className="font-heading text-xl font-bold text-foreground">Carregando conteúdo...</p>
             <p className="mt-2 font-body text-sm text-muted-foreground">
               Estamos buscando os temas salvos para montar sua trilha.
             </p>

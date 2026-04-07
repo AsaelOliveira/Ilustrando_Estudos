@@ -134,14 +134,14 @@ const ADMIN_TAB_DETAILS: Record<AdminTab, { title: string; description: string }
   },
   modelo: {
     title: "Modelo JSON",
-    description: "Use esse formato como base para criar ou revisar os arquivos de importacao.",
+    description: "Use esse formato como base para criar ou revisar os arquivos de importação.",
   },
   alunos: {
     title: "Alunos e contas",
     description: "Cadastre contas, redefina senha, zere progresso e remova acessos com mais clareza.",
   },
   fotos: {
-    title: "Solicitacoes de foto",
+    title: "Solicitações de foto",
     description: "Revise as trocas de avatar pendentes e aprove ou recuse pelo painel.",
   },
   pontuacao: {
@@ -228,7 +228,7 @@ export default function AdminPage() {
     new Promise<string>((resolve, reject) => {
       const reader = new FileReader();
       reader.onload = (event) => resolve(String(event.target?.result ?? ""));
-      reader.onerror = () => reject(new Error(`Nao foi possivel ler o arquivo ${file.name}.`));
+      reader.onerror = () => reject(new Error(`Não foi possível ler o arquivo ${file.name}.`));
       reader.readAsText(file);
     });
 
@@ -273,8 +273,8 @@ export default function AdminPage() {
 
       if (successCount === 0) {
         toast({
-          title: "Importacao interrompida",
-          description: "Nenhum arquivo JSON valido foi importado.",
+          title: "Importação interrompida",
+          description: "Nenhum arquivo JSON v?lido foi importado.",
           variant: "destructive",
         });
         return;
@@ -283,7 +283,7 @@ export default function AdminPage() {
       const { error } = await saveTemas(queueTemas);
       if (error) {
         toast({
-          title: "Nao foi possivel salvar",
+          title: "Não foi possível salvar",
           description: error,
           variant: "destructive",
         });
@@ -294,7 +294,7 @@ export default function AdminPage() {
         failedFiles.length > 0 ? ` ${failedFiles.length} arquivo(s) foram ignorados.` : "";
 
       toast({
-        title: "Importacao em lote concluida",
+        title: "Importação em lote concluída",
         description: `${successCount} arquivo(s) processado(s), ${totalAdded} tema(s) novo(s) e ${totalReplaced} atualizado(s) por ID.${failedSuffix}`,
       });
     };
@@ -348,8 +348,8 @@ export default function AdminPage() {
 
     if (error) {
       toast({
-        title: "Nao foi possivel salvar",
-        description: "A configuracao de exibicao nao foi atualizada.",
+        title: "Não foi possível salvar",
+        description: "A configuração de exibição não foi atualizada.",
         variant: "destructive",
       });
       setContentDisplaySaving(false);
@@ -359,8 +359,8 @@ export default function AdminPage() {
     setContentDisplay(normalizedConfig);
     setContentDisplaySaving(false);
     toast({
-      title: "Exibicao atualizada",
-      description: "A nova quantidade de exercicios ja vale para os alunos.",
+      title: "Exibição atualizada",
+      description: "A nova quantidade de exerc?cios j? vale para os alunos.",
     });
   };
 
@@ -371,8 +371,8 @@ export default function AdminPage() {
 
     if (error) {
       toast({
-        title: "Nao foi possivel salvar",
-        description: "A configuracao de pontuacao nao foi atualizada.",
+        title: "Não foi possível salvar",
+        description: "A configuração de pontuação não foi atualizada.",
         variant: "destructive",
       });
       setMissionScoringSaving(false);
@@ -382,8 +382,8 @@ export default function AdminPage() {
     setMissionScoring(normalizedConfig);
     setMissionScoringSaving(false);
     toast({
-      title: "Pontuacao atualizada",
-      description: "A regra da missao diaria ja esta valendo no sistema.",
+      title: "Pontuação atualizada",
+      description: "A regra da missão diária já está valendo no sistema.",
     });
   };
 
@@ -392,7 +392,7 @@ export default function AdminPage() {
     if (!tema) return;
 
     const shouldDelete = window.confirm(
-      `Apagar o tema "${tema.titulo}"? Essa acao remove o conteudo salvo do sistema.`,
+      `Apagar o tema "${tema.titulo}"? Essa ação remove o conteúdo salvo do sistema.`,
     );
     if (!shouldDelete) return;
 
@@ -401,7 +401,7 @@ export default function AdminPage() {
 
     if (error) {
       toast({
-        title: "Nao foi possivel apagar",
+        title: "Não foi possível apagar",
         description: error,
         variant: "destructive",
       });
@@ -426,7 +426,7 @@ export default function AdminPage() {
 
     if (error) {
       toast({
-        title: "Nao foi possivel apagar",
+        title: "Não foi possível apagar",
         description: error,
         variant: "destructive",
       });
@@ -434,14 +434,14 @@ export default function AdminPage() {
     }
 
     toast({
-      title: "Conteudo removido",
+      title: "Conteúdo removido",
       description: "Todos os temas foram apagados do sistema.",
     });
   };
 
   const tabs = [
     { key: "temas" as const, label: "Temas", icon: BookOpen },
-    { key: "questoes" as const, label: "Questoes", icon: FileQuestion },
+    { key: "questoes" as const, label: "Questões", icon: FileQuestion },
     { key: "modelo" as const, label: "Modelo", icon: FileJson },
     { key: "alunos" as const, label: "Alunos", icon: Users },
     { key: "fotos" as const, label: "Fotos", icon: ImageIcon },
@@ -481,7 +481,7 @@ export default function AdminPage() {
               </span>
               <h1 className="mb-1 font-heading text-3xl font-bold text-foreground">Painel Admin</h1>
               <p className="max-w-2xl font-body text-sm text-muted-foreground">
-                Organize conteudo, contas e configuracoes do sistema em um fluxo mais direto e com leitura mais clara.
+                Organize conteúdo, contas e configurações do sistema em um fluxo mais direto e com leitura mais clara.
               </p>
             </div>
 
@@ -514,7 +514,7 @@ export default function AdminPage() {
 
           <div className="relative z-10 mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
             <AdminMetricCard label="Temas salvos" value={String(localTemas.length)} icon={BookOpen} tone="emerald" />
-            <AdminMetricCard label="Questoes totais" value={String(totalQuestions)} icon={FileQuestion} tone="sky" />
+            <AdminMetricCard label="Questões totais" value={String(totalQuestions)} icon={FileQuestion} tone="sky" />
             <AdminMetricCard label="Disciplinas ativas" value={String(disciplinasComConteudo)} icon={SlidersHorizontal} tone="amber" />
             <AdminMetricCard label="Turmas ativas" value={String(turmasComConteudo)} icon={Users} tone="violet" />
           </div>
@@ -896,7 +896,7 @@ function TemasTab({
           <div className="flex-1">
             <p className="font-heading text-lg font-semibold text-foreground">CRUD de temas</p>
             <p className="mt-1 font-body text-sm text-muted-foreground">
-              Importe novos JSONs, exporte o conteudo atual e abra o modelo base sem sair da area de temas.
+              Importe novos JSONs, exporte o conteúdo atual e abra o modelo base sem sair da área de temas.
             </p>
           </div>
         </div>
@@ -931,9 +931,9 @@ function TemasTab({
       <div className="rounded-[1.7rem] border border-sky-200/70 bg-gradient-to-br from-sky-50 via-white to-white p-5 shadow-sm">
         <div className="flex flex-wrap items-start justify-between gap-4">
           <div>
-            <p className="font-heading text-lg font-semibold text-foreground">Exibicao dos exercicios</p>
+            <p className="font-heading text-lg font-semibold text-foreground">Exibição dos exercícios</p>
             <p className="mt-1 font-body text-sm text-muted-foreground">
-              Defina quantos exercicios cada tema mostra para o aluno.
+              Defina quantos exerc?cios cada tema mostra para o aluno.
             </p>
           </div>
           <div className="min-w-[220px] flex-1 sm:max-w-xs">
@@ -955,7 +955,7 @@ function TemasTab({
                   className="btn-tap inline-flex items-center gap-2 rounded-xl bg-primary px-4 py-2.5 font-heading text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90 disabled:opacity-60"
                 >
                   <Save className="h-4 w-4" />
-                  {contentDisplaySaving ? "Salvando..." : "Salvar exibicao"}
+                  {contentDisplaySaving ? "Salvando..." : "Salvar exibição"}
                 </button>
               </div>
             )}
@@ -971,7 +971,7 @@ function TemasTab({
           <div className="flex-1">
             <p className="font-heading text-lg font-semibold text-foreground">Limpar temas</p>
             <p className="mt-1 font-body text-sm text-muted-foreground">
-              Remova um tema especifico pela lista abaixo ou apague todo o conteudo salvo de uma vez.
+              Remova um tema específico pela lista abaixo ou apague todo o conteúdo salvo de uma vez.
             </p>
           </div>
         </div>
@@ -982,7 +982,7 @@ function TemasTab({
               {localTemas.length} tema(s) salvo(s)
             </p>
             <p className="font-body text-xs text-muted-foreground">
-              Essa acao remove os temas do app e do painel.
+              Essa ação remove os temas do app e do painel.
             </p>
           </div>
           <button
@@ -1014,7 +1014,7 @@ function TemasTab({
         <div className="rounded-2xl border border-dashed border-border bg-card/60 px-6 py-10 text-center">
           <p className="font-heading text-lg font-semibold text-foreground">Nenhum tema salvo</p>
           <p className="mt-2 font-body text-sm text-muted-foreground">
-            Importe um arquivo JSON para publicar o conteudo no app.
+            Importe um arquivo JSON para publicar o conteúdo no app.
           </p>
         </div>
       </div>
@@ -1243,7 +1243,7 @@ function QuestoesTab({ localTemas, loading }: { localTemas: Tema[]; loading: boo
       <div className="rounded-2xl border border-dashed border-border bg-card/60 px-6 py-10 text-center">
         <p className="font-heading text-lg font-semibold text-foreground">Nenhuma questao salva</p>
         <p className="mt-2 font-body text-sm text-muted-foreground">
-          As questoes vao aparecer aqui assim que o conteudo for importado.
+          As questões vão aparecer aqui assim que o conteúdo for importado.
         </p>
       </div>
     );
@@ -1291,10 +1291,10 @@ function ModeloTab({ templateJson, copied, onCopy, onDownload }: {
       <div className="bg-primary/5 border border-primary/15 rounded-xl p-5 flex gap-4">
         <Info className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
         <div>
-          <h3 className="font-heading font-semibold text-foreground mb-1">Como importar conteudo</h3>
+          <h3 className="font-heading font-semibold text-foreground mb-1">Como importar conteúdo</h3>
           <ol className="font-body text-sm text-muted-foreground space-y-1.5 list-decimal list-inside">
             <li>Copie ou baixe o modelo JSON abaixo</li>
-            <li>Edite os campos com os dados do seu conteudo</li>
+            <li>Edite os campos com os dados do seu conteúdo</li>
             <li>Para varios temas, adicione mais objetos ao array</li>
             <li>Use o botao <strong>"Importar"</strong> no topo para carregar o arquivo</li>
           </ol>
@@ -1418,7 +1418,7 @@ function PontuacaoTab({
     {
       key: "fairPlayBonus",
       label: "Bonus fair play",
-      description: "Bonus extra quando o aluno nao sai da aba durante a missao.",
+      description: "Bônus extra quando o aluno não sai da aba durante a missão.",
     },
   ];
 
@@ -1434,9 +1434,9 @@ function PontuacaoTab({
             <SlidersHorizontal className="h-6 w-6 text-primary" />
           </div>
           <div>
-            <h3 className="font-heading text-2xl font-bold text-foreground">Pontuacao da missao diaria</h3>
+            <h3 className="font-heading text-2xl font-bold text-foreground">Pontuação da missão diária</h3>
             <p className="mt-2 max-w-2xl font-body text-sm leading-relaxed text-muted-foreground">
-              Inspirado em apps de estudo por XP: pontuacao por dificuldade, bonus por fair play e regra centralizada
+              Inspirado em apps de estudo por XP: pontuação por dificuldade, bônus por fair play e regra centralizada
               para o sistema inteiro.
             </p>
           </div>
@@ -1482,7 +1482,7 @@ function PontuacaoTab({
       <div className="rounded-3xl border border-border bg-card p-6 shadow-card">
         <p className="font-heading text-lg font-bold text-foreground">Preview da regra</p>
         <p className="mt-2 font-body text-sm text-muted-foreground">
-          Exemplo atual de pontuacao configurada no sistema.
+          Exemplo atual de pontuação configurada no sistema.
         </p>
 
         <div className="mt-6 space-y-3">
@@ -1505,7 +1505,7 @@ function PontuacaoTab({
         </div>
 
         <div className="mt-6 rounded-2xl border border-primary/20 bg-primary/5 p-4">
-          <p className="font-heading text-sm font-semibold text-primary">Exemplo de missao</p>
+          <p className="font-heading text-sm font-semibold text-primary">Exemplo de missão</p>
           <p className="mt-2 font-body text-sm text-foreground">
             2 faceis + 1 media + 1 dificil + fair play =
             {" "}
@@ -1703,7 +1703,7 @@ function AlunosTab() {
       setRosterCount(savedEntries.length);
       toast({
         title: "Lista autorizada salva",
-        description: `${savedEntries.length} aluno(s) liberados para auto cadastro.`,
+        description: `${savedEntries.length} aluno(s) liberados para autocadastro.`,
       });
     } catch (error) {
       setAdminError(error instanceof Error ? error.message : "Erro ao salvar lista autorizada.");
@@ -2138,7 +2138,7 @@ function AlunosTab() {
 
     if (scoreLoadError) {
       setGrantingPoints(false);
-      setAdminError("Nao foi possivel carregar a pontuacao atual do aluno.");
+      setAdminError("Não foi possível carregar a pontuação atual do aluno.");
       return;
     }
 
@@ -2154,7 +2154,7 @@ function AlunosTab() {
 
     if (grantError) {
       setGrantingPoints(false);
-      setAdminError("Nao foi possivel adicionar Sinapses ao aluno.");
+      setAdminError("Não foi possível adicionar Sinapses ao aluno.");
       return;
     }
 
@@ -2455,15 +2455,15 @@ function AlunosTab() {
             <div className="bg-card border border-border rounded-xl p-6 space-y-4">
               <div className="rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
                 <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">
-                  Area nova de auto cadastro
+                  ?rea nova de autocadastro
                 </p>
                 <p className="mt-1 text-sm font-medium text-amber-900">
-                  Essa lista alimenta o botao "Quero me cadastrar" da tela de login.
+                  Essa lista alimenta o botão "Quero me cadastrar" da tela de login.
                 </p>
               </div>
               <div className="flex flex-col gap-3 lg:flex-row lg:items-start lg:justify-between">
                 <div>
-                  <h3 className="font-heading font-semibold text-foreground">Lista autorizada para auto cadastro</h3>
+                  <h3 className="font-heading font-semibold text-foreground">Lista autorizada para autocadastro</h3>
                   <p className="mt-1 text-sm text-muted-foreground">
                     Cole no formato CSV: <code className="rounded bg-secondary px-1.5 py-0.5 text-xs">nome,turmaId,email</code>
                   </p>
@@ -2853,7 +2853,7 @@ function FotosTab() {
   if (loading) {
     return (
       <div className="text-center py-12 text-muted-foreground font-body">
-        Carregando solicitacoes...
+        Carregando solicitações...
       </div>
     );
   }
@@ -2863,7 +2863,7 @@ function FotosTab() {
       <div className="text-center py-12">
         <ImageIcon className="mx-auto mb-4 h-10 w-10 text-muted-foreground" />
         <p className="font-heading font-semibold text-foreground">Nenhuma solicitacao pendente</p>
-        <p className="font-body text-sm text-muted-foreground mt-1">Todas as solicitacoes de troca de foto foram processadas.</p>
+        <p className="font-body text-sm text-muted-foreground mt-1">Todas as solicitações de troca de foto foram processadas.</p>
       </div>
     );
   }
@@ -2884,7 +2884,7 @@ function FotosTab() {
             </div>
             <div>
               <p className="font-heading font-semibold text-foreground text-sm">{req.profiles?.nome || "Aluno"}</p>
-              <p className="font-body text-xs text-muted-foreground">Solicita troca de foto</p>
+              <p className="font-body text-xs text-muted-foreground">Solicitou troca de foto</p>
             </div>
           </div>
           <div className="ml-auto flex gap-2">
