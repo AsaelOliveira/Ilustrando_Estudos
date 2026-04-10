@@ -139,12 +139,9 @@ function CrossedPencils({
   className?: string;
 }) {
   return (
-    <span className={`inline-flex items-center justify-center overflow-hidden ${className}`} aria-hidden="true">
-      <img
-        src="/Brasao.svg"
-        alt=""
-        className="h-full w-full object-cover"
-      />
+    <span className={`relative inline-flex items-center justify-center ${className}`} aria-hidden="true">
+      <Pencil className="absolute h-[78%] w-[78%] rotate-[-42deg] text-amber-500 drop-shadow-sm" strokeWidth={2.6} />
+      <Pencil className="absolute h-[78%] w-[78%] rotate-[42deg] text-yellow-500 drop-shadow-sm" strokeWidth={2.6} />
     </span>
   );
 }
