@@ -449,7 +449,7 @@ export default function Competicao() {
             )}
             {tab === "geral" && (
               <RankingTab
-                title="Top 10 ? Interclasse"
+                title="Top 10 • Interclasse"
                 entries={geralRanking}
                 loading={loading}
                 currentUserId={user?.id}
@@ -476,7 +476,7 @@ export default function Competicao() {
             <div className="min-w-0">
               <p className="inline-flex items-center gap-2 rounded-full bg-amber-100 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-800">
                 <Shield className="h-3.5 w-3.5" />
-                ?rea reservada
+                Área reservada
               </p>
               <h2 className="mt-3 font-heading text-lg font-bold text-amber-950">
                 Próximas fases da competição
@@ -532,7 +532,7 @@ function MissaoTab({
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
         <Target className="h-12 w-12 text-primary mx-auto mb-4 opacity-50" />
-        <h2 className="font-heading font-bold text-xl text-foreground mb-2">Fa?a login para jogar!</h2>
+        <h2 className="font-heading font-bold text-xl text-foreground mb-2">Faça login para jogar!</h2>
         <p className="text-muted-foreground font-body text-sm">Entre na sua conta para participar das missões diárias.</p>
       </div>
     );
@@ -546,7 +546,7 @@ function MissaoTab({
         animate={{ opacity: 1, scale: 1 }}
         className="glass-card rounded-2xl p-8 text-center"
       >
-        <div className="text-6xl mb-4">{correct >= 4 ? "??" : correct >= 3 ? "??" : correct >= 2 ? "??" : "??"}</div>
+        <div className="text-6xl mb-4">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👏" : "📘"}</div>
         <h2 className="font-heading font-extrabold text-2xl text-foreground mb-2">Missão Completa!</h2>
         <div className="flex items-center justify-center gap-6 my-6">
           <div className="text-center">
@@ -562,7 +562,7 @@ function MissaoTab({
         {antiCheatFlags.length > 0 && (
           <div className="flex items-center justify-center gap-2 text-accent text-xs font-body mb-4">
             <AlertTriangle className="h-3.5 w-3.5" />
-            Detectamos sa?da da aba ({antiCheatFlags.length}x) ? sem b?nus de fair play
+            Detectamos saída da aba ({antiCheatFlags.length}x) • sem bônus de fair play
           </div>
         )}
         {/* Show answers */}
@@ -669,7 +669,7 @@ function MissaoTab({
               onClick={onNext}
               className="btn-tap px-5 py-3 rounded-xl bg-primary text-primary-foreground font-heading font-semibold text-sm hover:bg-primary/90 transition-all"
             >
-              Pr?xima ?
+              Próxima →
             </button>
           )}
         </div>
@@ -747,7 +747,7 @@ function MissaoTabAtualizada({
     return (
       <div className="glass-card rounded-2xl p-8 text-center">
         <Target className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
-        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Fa?a login para jogar!</h2>
+        <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para jogar!</h2>
         <p className="font-body text-sm text-muted-foreground">
           Entre na sua conta para participar das missões diárias.
         </p>
@@ -764,7 +764,7 @@ function MissaoTabAtualizada({
         animate={{ opacity: 1, scale: 1 }}
         className="glass-card rounded-2xl p-8 text-center"
       >
-        <div className="mb-4 text-6xl">{correct >= 4 ? "??" : correct >= 3 ? "??" : correct >= 2 ? "??" : "??"}</div>
+        <div className="mb-4 text-6xl">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👏" : "📘"}</div>
         <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missão completa!</h2>
 
         <div className="my-6 flex items-center justify-center gap-6">
@@ -788,7 +788,7 @@ function MissaoTabAtualizada({
               total={scoreBreakdown.easyCorrect * scoringConfig.easyPoints}
             />
             <ScoreRuleCard
-              label="M?dias"
+              label="Médias"
               count={scoreBreakdown.mediumCorrect}
               points={scoringConfig.mediumPoints}
               total={scoreBreakdown.mediumCorrect * scoringConfig.mediumPoints}
@@ -805,7 +805,7 @@ function MissaoTabAtualizada({
             </div>
             {scoreBreakdown.streakBonus > 0 && (
               <div className="rounded-xl bg-destructive/10 px-4 py-3">
-                <p className="font-heading text-xs uppercase tracking-[0.18em] text-destructive">Retorno di?rio</p>
+                <p className="font-heading text-xs uppercase tracking-[0.18em] text-destructive">Retorno diário</p>
                 <p className="mt-1 font-body text-destructive font-semibold">+{scoreBreakdown.streakBonus}</p>
               </div>
             )}
@@ -815,7 +815,7 @@ function MissaoTabAtualizada({
         {antiCheatFlags.length > 0 && (
           <div className="mb-4 mt-4 flex items-center justify-center gap-2 text-xs text-accent">
             <AlertTriangle className="h-3.5 w-3.5" />
-            Detectamos sa?da da aba ({antiCheatFlags.length}x) ? sem b?nus de fair play
+            Detectamos saída da aba ({antiCheatFlags.length}x) • sem bônus de fair play
           </div>
         )}
 
@@ -951,7 +951,7 @@ function MissaoTabAtualizada({
               onClick={onNext}
               className="btn-tap rounded-xl bg-primary px-5 py-3 font-heading text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90"
             >
-              Pr?xima ?
+              Próxima →
             </button>
           )}
         </div>
@@ -980,7 +980,7 @@ function MissaoTabAtualizada({
           <Zap className="h-4 w-4" /> F?cil +{scoringConfig.easyPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-accent">
-          <Target className="h-4 w-4" /> M?dio +{scoringConfig.mediumPoints}
+          <Target className="h-4 w-4" /> Médio +{scoringConfig.mediumPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-destructive">
           <AlertTriangle className="h-4 w-4" /> Dif?cil +{scoringConfig.hardPoints}
