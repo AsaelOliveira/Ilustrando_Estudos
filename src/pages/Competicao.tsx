@@ -370,8 +370,8 @@ export default function Competicao() {
 
   const tabs = [
     { key: "missao" as const, label: "Missão", icon: "🎯" },
-    { key: "turma" as const, label: "Minha Turma", icon: "??" },
-    { key: "geral" as const, label: "Interclasse", icon: "??" },
+    { key: "turma" as const, label: "Minha Turma", icon: <Medal className="h-4 w-4" /> },
+    { key: "geral" as const, label: "Interclasse", icon: <Trophy className="h-4 w-4" /> },
   ];
 
   return (
@@ -381,7 +381,7 @@ export default function Competicao() {
       <section className="container mx-auto px-4 py-8 max-w-2xl">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }}>
           <h1 className="font-heading font-extrabold text-3xl md:text-4xl text-foreground mb-1">
-            ?? Arena
+            <Trophy className="mr-2 inline-flex h-8 w-8 align-[-0.15em] text-primary" />Arena
           </h1>
           <p className="text-muted-foreground font-body mb-8">Missões diárias e ranking. Mostre quem manda!</p>
         </motion.div>
@@ -398,7 +398,7 @@ export default function Competicao() {
                   : "text-muted-foreground hover:text-foreground"
               }`}
             >
-              <span>{t.icon}</span>
+              <span className="inline-flex items-center justify-center">{t.icon}</span>
               <span className="hidden sm:inline">{t.label}</span>
             </button>
           ))}
@@ -449,7 +449,7 @@ export default function Competicao() {
             )}
             {tab === "geral" && (
               <RankingTab
-                title="Top 10 ? Interclasse ??"
+                title="Top 10 ? Interclasse"
                 entries={geralRanking}
                 loading={loading}
                 currentUserId={user?.id}
@@ -662,7 +662,7 @@ function MissaoTab({
               onClick={onFinish}
               className="btn-tap px-6 py-3 rounded-xl bg-primary text-primary-foreground font-heading font-bold text-sm hover:bg-primary/90 transition-all hover:shadow-glow"
             >
-              Finalizar ?
+              Finalizar
             </button>
           ) : (
             <button
@@ -689,7 +689,7 @@ function MissaoTab({
         transition={{ duration: 2, repeat: Infinity }}
         className="text-6xl mb-4"
       >
-        ??
+        <Target className="h-16 w-16 text-primary" />
       </motion.div>
       <h2 className="font-heading font-extrabold text-2xl text-foreground mb-2">Missão Diária</h2>
       <p className="text-muted-foreground font-body text-sm mb-6">5 questões da sua turma • 5 minutos</p>
@@ -944,7 +944,7 @@ function MissaoTabAtualizada({
               onClick={onFinish}
               className="btn-tap rounded-xl bg-primary px-6 py-3 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
             >
-              Finalizar ?
+              Finalizar
             </button>
           ) : (
             <button
@@ -970,7 +970,7 @@ function MissaoTabAtualizada({
         transition={{ duration: 2, repeat: Infinity }}
         className="mb-4 text-6xl"
       >
-        ??
+        <Target className="h-16 w-16 text-primary" />
       </motion.div>
       <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missão diária</h2>
       <p className="mb-6 font-body text-sm text-muted-foreground">5 questões da sua turma • 5 minutos</p>
