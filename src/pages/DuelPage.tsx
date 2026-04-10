@@ -139,11 +139,11 @@ function CrossedPencils({
   className?: string;
 }) {
   return (
-    <span className={`relative inline-flex items-center justify-center ${className}`} aria-hidden="true">
+    <span className={`inline-flex items-center justify-center overflow-hidden ${className}`} aria-hidden="true">
       <img
         src="/Brasao.svg"
         alt=""
-        className="h-full w-full scale-[1.38] object-contain drop-shadow-[0_6px_14px_rgba(15,23,42,0.16)]"
+        className="h-full w-full object-cover"
       />
     </span>
   );
