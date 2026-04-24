@@ -360,7 +360,7 @@ export default function AdminPage() {
     setContentDisplaySaving(false);
     toast({
       title: "Exibição atualizada",
-      description: "A nova quantidade de exerc?cios j? vale para os alunos.",
+      description: "A nova quantidade de exercícios já vale para os alunos.",
     });
   };
 
@@ -2455,7 +2455,7 @@ function AlunosTab() {
             <div className="bg-card border border-border rounded-xl p-6 space-y-4">
               <div className="rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
                 <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">
-                  ?rea nova de autocadastro
+                  Área nova de autocadastro
                 </p>
                 <p className="mt-1 text-sm font-medium text-amber-900">
                   Essa lista alimenta o botão "Quero me cadastrar" da tela de login.

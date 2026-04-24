@@ -31,16 +31,397 @@
           "Relaciona el contenido con experiencias cercanas a tu realidad."
         ],
         "resposta": "Este ejemplo muestra que la lengua se aprende mejor cuando dialoga con situaciones significativas del cotidiano."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Cultura, juventud y vida cotidiana\".",
+        "passos": [
+          "La lengua española permite hablar de hábitos, intereses y experiencias de la vida cotidiana",
+          "El estudio de temas culturales amplía el contacto con usos reales del idioma",
+          "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante"
+        ],
+        "resposta": "Esse exemplo mostra como Cultura, juventud y vida cotidiana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Cultura, juventud y vida cotidiana\".",
+        "passos": [
+          "El estudio de temas culturales amplía el contacto con usos reales del idioma",
+          "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+          "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad"
+        ],
+        "resposta": "Esse exemplo mostra como Cultura, juventud y vida cotidiana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Cultura, juventud y vida cotidiana\".",
+        "passos": [
+          "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+          "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad",
+          "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre"
+        ],
+        "resposta": "Esse exemplo mostra como Cultura, juventud y vida cotidiana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Cultura, juventud y vida cotidiana\".",
+        "passos": [
+          "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad",
+          "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre",
+          "Lengua y experiencias juveniles"
+        ],
+        "resposta": "Esse exemplo mostra como Cultura, juventud y vida cotidiana pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-01","enunciado":"Estudiar la vida cotidiana en español ayuda a:","tipo":"multipla_escolha","alternativas":["usar la lengua en contextos más significativos","memorizar palabras sin contexto","evitar cualquier comunicación real","separar idioma y cultura"],"respostaCorreta":"usar la lengua en contextos más significativos","explicacao":"El aprendizaje gana sentido cuando se conecta con experiencias cercanas al estudiante.","dificuldade":"facil"},
-      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-02","enunciado":"La cultura en el aprendizaje de una lengua permite:","tipo":"multipla_escolha","alternativas":["comprender usos y referencias del idioma en la sociedad","eliminar el valor de la comunicación","estudiar palabras sin sentido","ignorar hábitos y costumbres"],"respostaCorreta":"comprender usos y referencias del idioma en la sociedad","explicacao":"La lengua se relaciona con modos de vida, costumbres y experiencias culturales.","dificuldade":"facil"},
-      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.","La vida cotidiana no tiene valor para el aprendizaje de la lengua.","Idioma y cultura no se relacionan.","Solo textos muy formales permiten aprender español."],"respostaCorreta":"Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.","explicacao":"Los temas cotidianos favorecen la comprensión y el uso comunicativo del idioma.","dificuldade":"medio"},
-      {"id":"esp9-cultura-juventud-vida-cotidiana-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["la lengua y la cultura se aprenden mejor en contextos vivos y cercanos","el español debe estudiarse sin relación con la experiencia","la cultura no influye en la comunicación","la rutina no puede ser tema de aprendizaje"],"respostaCorreta":"la lengua y la cultura se aprenden mejor en contextos vivos y cercanos","explicacao":"El tema aproxima el idioma a situaciones reales y significativas para el estudiante.","dificuldade":"medio"}
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-ex-01",
+        "enunciado": "Estudiar la vida cotidiana en español ayuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar la lengua en contextos más significativos",
+          "memorizar palabras sin contexto",
+          "evitar cualquier comunicación real",
+          "separar idioma y cultura"
+        ],
+        "respostaCorreta": "usar la lengua en contextos más significativos",
+        "explicacao": "El aprendizaje gana sentido cuando se conecta con experiencias cercanas al estudiante.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-ex-02",
+        "enunciado": "La cultura en el aprendizaje de una lengua permite:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comprender usos y referencias del idioma en la sociedad",
+          "eliminar el valor de la comunicación",
+          "estudiar palabras sin sentido",
+          "ignorar hábitos y costumbres"
+        ],
+        "respostaCorreta": "comprender usos y referencias del idioma en la sociedad",
+        "explicacao": "La lengua se relaciona con modos de vida, costumbres y experiencias culturales.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-ex-03",
+        "enunciado": "¿Cuál afirmación es correcta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.",
+          "La vida cotidiana no tiene valor para el aprendizaje de la lengua.",
+          "Idioma y cultura no se relacionan.",
+          "Solo textos muy formales permiten aprender español."
+        ],
+        "respostaCorreta": "Hablar de la rutina y de intereses ayuda a practicar el idioma en situaciones reales.",
+        "explicacao": "Los temas cotidianos favorecen la comprensión y el uso comunicativo del idioma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-ex-04",
+        "enunciado": "La idea principal del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "la lengua y la cultura se aprenden mejor en contextos vivos y cercanos",
+          "el español debe estudiarse sin relación con la experiencia",
+          "la cultura no influye en la comunicación",
+          "la rutina no puede ser tema de aprendizaje"
+        ],
+        "respostaCorreta": "la lengua y la cultura se aprenden mejor en contextos vivos y cercanos",
+        "explicacao": "El tema aproxima el idioma a situaciones reales y significativas para el estudiante.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Cultura, juventud y vida cotidiana\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La lengua española permite hablar de hábitos, intereses y experiencias de la vida cotidiana",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "La lengua española permite hablar de hábitos, intereses y experiencias de la vida cotidiana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-02",
+        "enunciado": "Ao estudar \"Cultura, juventud y vida cotidiana\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "El estudio de temas culturales amplía el contacto con usos reales del idioma"
+        ],
+        "respostaCorreta": "El estudio de temas culturales amplía el contacto con usos reales del idioma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-05",
+        "enunciado": "No contexto de \"Cultura, juventud y vida cotidiana\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-06",
+        "enunciado": "O estudo de \"Cultura, juventud y vida cotidiana\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender lengua y experiencias juveniles"
+        ],
+        "respostaCorreta": "compreender lengua y experiencias juveniles",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Aprender una lengua también implica entrar en contacto con modos de vida, costumbres y referencias culturales de distintos grupos. Eso amplía la comprensión del idioma como forma de interacción y de conocimiento del mundo",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Aprender una lengua también implica entrar en contacto con modos de vida, costumbres y referencias culturales de distintos grupos. Eso amplía la comprensión del idioma como forma de interacción y de conocimiento del mundo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observa cómo expresiones y temas del cotidiano pueden variar según el contexto cultural",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observa cómo expresiones y temas del cotidiano pueden variar según el contexto cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender cultura y comunicación",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender cultura y comunicación",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lee un pequeño texto sobre actividades de jóvenes en su rutina diaria"
+        ],
+        "respostaCorreta": "Lee un pequeño texto sobre actividades de jóvenes en su rutina diaria",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Cultura, juventud y vida cotidiana\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Este ejemplo muestra que la lengua se aprende mejor cuando dialoga con situaciones significativas del cotidiano",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Este ejemplo muestra que la lengua se aprende mejor cuando dialoga con situaciones significativas del cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-12",
+        "enunciado": "Ao estudar \"Cultura, juventud y vida cotidiana\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifica palabras relacionadas con hábitos y tiempo libre",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifica palabras relacionadas con hábitos y tiempo libre",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa cómo se describen acciones cotidianas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observa cómo se describen acciones cotidianas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona el contenido con experiencias cercanas a tu realidad"
+        ],
+        "respostaCorreta": "Relaciona el contenido con experiencias cercanas a tu realidad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"esp9-cultura-juventud-vida-cotidiana-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["aprender español también implica comprender cultura, rutina y experiencias cotidianas","el idioma debe estudiarse sin contexto social","la cultura no forma parte de la comunicación","solo listas de vocabulario permiten aprender"],"respostaCorreta":"aprender español también implica comprender cultura, rutina y experiencias cotidianas","explicacao":"El contenido integra lengua, vida cotidiana y referencias culturales en el aprendizaje del español.","dificuldade":"medio"}
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-sim-01",
+        "enunciado": "La mejor síntesis del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aprender español también implica comprender cultura, rutina y experiencias cotidianas",
+          "el idioma debe estudiarse sin contexto social",
+          "la cultura no forma parte de la comunicación",
+          "solo listas de vocabulario permiten aprender"
+        ],
+        "respostaCorreta": "aprender español también implica comprender cultura, rutina y experiencias cotidianas",
+        "explicacao": "El contenido integra lengua, vida cotidiana y referencias culturales en el aprendizaje del español.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Cultura, juventud y vida cotidiana\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Este contenido fortalece comprensión, vocabulario y expresión en contextos cercanos al estudiante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Cultura, juventud y vida cotidiana\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad"
+        ],
+        "respostaCorreta": "Hablar de rutina, gustos, relaciones y actividades cotidianas ayuda al estudiante a usar el español en situaciones más significativas. Esa aproximación favorece la construcción de frases con sentido y más conexión con la realidad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Relaciona el vocabulario aprendido con situaciones de la escuela, la familia y el tiempo libre",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Cultura, juventud y vida cotidiana\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender lengua y experiencias juveniles",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender lengua y experiencias juveniles",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Aprender una lengua también implica entrar en contacto con modos de vida, costumbres y referencias culturales de distintos grupos. Eso amplía la comprensión del idioma como forma de interacción y de conocimiento del mundo",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Aprender una lengua también implica entrar en contacto con modos de vida, costumbres y referencias culturales de distintos grupos. Eso amplía la comprensión del idioma como forma de interacción y de conocimiento del mundo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-cultura-juventud-vida-cotidiana-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observa cómo expresiones y temas del cotidiano pueden variar según el contexto cultural"
+        ],
+        "respostaCorreta": "Observa cómo expresiones y temas del cotidiano pueden variar según el contexto cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cultura, juventud y vida cotidiana apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

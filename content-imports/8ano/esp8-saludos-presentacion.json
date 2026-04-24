@@ -1,0 +1,426 @@
+[
+  {
+    "id": "esp8-saludos-presentacion",
+    "titulo": "Saludos y presentación personal",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación inicial",
+    "resumo": [
+      "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol.",
+      "Esse conteúdo ajuda a iniciar interações simples com clareza e educação.",
+      "Aprender estruturas básicas favorece a confiança no uso do idioma."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Saudações básicas",
+        "texto": "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada.",
+        "dica": "Observe em que momento do dia cada saudação costuma ser usada."
+      },
+      {
+        "subtitulo": "Apresentação pessoal",
+        "texto": "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica.",
+        "dica": "Pratique frases curtas e claras para ganhar segurança ao falar."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Hola, me llamo Ana y soy de Brasil.'",
+        "passos": [
+          "Identifique a saudação no início da frase.",
+          "Observe a estrutura usada para dizer o nome e a origem."
+        ],
+        "resposta": "Esse é um exemplo simples de apresentação pessoal em espanhol."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Saludos y presentación personal\".",
+        "passos": [
+          "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol",
+          "Esse conteúdo ajuda a iniciar interações simples com clareza e educação",
+          "Aprender estruturas básicas favorece a confiança no uso do idioma"
+        ],
+        "resposta": "Esse exemplo mostra como Saludos y presentación personal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Saludos y presentación personal\".",
+        "passos": [
+          "Esse conteúdo ajuda a iniciar interações simples com clareza e educação",
+          "Aprender estruturas básicas favorece a confiança no uso do idioma",
+          "Saudações básicas"
+        ],
+        "resposta": "Esse exemplo mostra como Saludos y presentación personal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Saludos y presentación personal\".",
+        "passos": [
+          "Aprender estruturas básicas favorece a confiança no uso do idioma",
+          "Saudações básicas",
+          "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada"
+        ],
+        "resposta": "Esse exemplo mostra como Saludos y presentación personal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Saludos y presentación personal\".",
+        "passos": [
+          "Saudações básicas",
+          "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada",
+          "Observe em que momento do dia cada saudação costuma ser usada"
+        ],
+        "resposta": "Esse exemplo mostra como Saludos y presentación personal pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "esp8-saludos-presentacion-ex-01",
+        "enunciado": "Qual expressão é uma saudação em espanhol?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hola",
+          "bonjour",
+          "hello there only",
+          "ciao bella sempre"
+        ],
+        "respostaCorreta": "hola",
+        "explicacao": "'Hola' é uma forma básica e frequente de cumprimento em espanhol.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-ex-02",
+        "enunciado": "A expressão 'me llamo' é usada para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dizer o próprio nome",
+          "despedir-se",
+          "perguntar as horas",
+          "falar sobre comida"
+        ],
+        "respostaCorreta": "dizer o próprio nome",
+        "explicacao": "'Me llamo' significa 'eu me chamo' e é usada na apresentação pessoal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saudações e apresentação pessoal ajudam a iniciar a comunicação em espanhol.",
+          "Esse conteúdo não tem utilidade em interações básicas.",
+          "Não existem formas simples de se apresentar no idioma.",
+          "Os cumprimentos não mudam conforme o contexto."
+        ],
+        "respostaCorreta": "Saudações e apresentação pessoal ajudam a iniciar a comunicação em espanhol.",
+        "explicacao": "Essas estruturas são fundamentais para interações iniciais no idioma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comunicar informações pessoais básicas com mais segurança",
+          "eliminar todo contato oral no idioma",
+          "falar apenas em frases aleatórias",
+          "ignorar o contexto de uso das saudações"
+        ],
+        "respostaCorreta": "comunicar informações pessoais básicas com mais segurança",
+        "explicacao": "O conteúdo desenvolve repertório inicial para apresentações e cumprimentos em espanhol.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse conteúdo ajuda a iniciar interações simples com clareza e educação"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a iniciar interações simples com clareza e educação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender estruturas básicas favorece a confiança no uso do idioma",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Aprender estruturas básicas favorece a confiança no uso do idioma",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe em que momento do dia cada saudação costuma ser usada",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe em que momento do dia cada saudação costuma ser usada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica"
+        ],
+        "respostaCorreta": "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pratique frases curtas e claras para ganhar segurança ao falar",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pratique frases curtas e claras para ganhar segurança ao falar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Hola, me llamo Ana y soy de Brasil.'",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Hola, me llamo Ana y soy de Brasil.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo simples de apresentação pessoal em espanhol",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo simples de apresentação pessoal em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique a saudação no início da frase"
+        ],
+        "respostaCorreta": "Identifique a saudação no início da frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a estrutura usada para dizer o nome e a origem",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a estrutura usada para dizer o nome e a origem",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os cumprimentos e a apresentação pessoal são parte importante da comunicação em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo ajuda a iniciar interações simples com clareza e educação",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a iniciar interações simples com clareza e educação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender estruturas básicas favorece a confiança no uso do idioma"
+        ],
+        "respostaCorreta": "Aprender estruturas básicas favorece a confiança no uso do idioma",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "esp8-saludos-presentacion-sim-01",
+        "enunciado": "A principal função das saudações e da apresentação pessoal em espanhol é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "iniciar interações de forma educada e compreensível",
+          "substituir todo o estudo do idioma",
+          "servir apenas para leitura silenciosa",
+          "dispensar o uso de frases completas"
+        ],
+        "respostaCorreta": "iniciar interações de forma educada e compreensível",
+        "explicacao": "Essas estruturas básicas sustentam os primeiros contatos comunicativos no idioma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Aprender estruturas básicas favorece a confiança no uso do idioma",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Aprender estruturas básicas favorece a confiança no uso do idioma",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada"
+        ],
+        "respostaCorreta": "Expressões como 'hola', 'buenos días', 'buenas tardes' e 'buenas noches' são usadas em situações diferentes de comunicação. Conhecer essas formas ajuda a estabelecer contato de maneira adequada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe em que momento do dia cada saudação costuma ser usada",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe em que momento do dia cada saudação costuma ser usada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao se apresentar em espanhol, o estudante pode dizer o nome, a idade, a origem e outras informações simples. Essas estruturas iniciais são importantes para a comunicação básica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pratique frases curtas e claras para ganhar segurança ao falar",
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pratique frases curtas e claras para ganhar segurança ao falar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-saludos-presentacion-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saludos y presentación personal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saludos y presentación personal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saludos y presentación personal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Hola, me llamo Ana y soy de Brasil.'"
+        ],
+        "respostaCorreta": "Leia: 'Hola, me llamo Ana y soy de Brasil.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saludos y presentación personal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

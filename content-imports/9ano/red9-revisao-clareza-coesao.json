@@ -31,16 +31,397 @@
           "Reescreva o trecho com mais clareza e coesão."
         ],
         "resposta": "Esse exercício mostra que a revisão pode melhorar bastante a fluidez e a compreensão do texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Revisão, clareza e coesão textual\".",
+        "passos": [
+          "Revisar o texto ajuda a melhorar clareza, coesão e precisão na escrita",
+          "A coesão organiza as ligações entre frases e parágrafos",
+          "Estudar esse tema fortalece a qualidade final da redação"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão, clareza e coesão textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Revisão, clareza e coesão textual\".",
+        "passos": [
+          "A coesão organiza as ligações entre frases e parágrafos",
+          "Estudar esse tema fortalece a qualidade final da redação",
+          "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão, clareza e coesão textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Revisão, clareza e coesão textual\".",
+        "passos": [
+          "Estudar esse tema fortalece a qualidade final da redação",
+          "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação",
+          "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão, clareza e coesão textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Revisão, clareza e coesão textual\".",
+        "passos": [
+          "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação",
+          "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada",
+          "Clareza na construção das ideias"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão, clareza e coesão textual pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"red9-revisao-clareza-coesao-ex-01","enunciado":"A revisão de um texto ajuda a:","tipo":"multipla_escolha","alternativas":["melhorar clareza e organização das ideias","eliminar a necessidade de sentido","dispensar qualquer leitura final","manter todos os problemas da primeira versão"],"respostaCorreta":"melhorar clareza e organização das ideias","explicacao":"Revisar permite perceber falhas e aprimorar a escrita em vários aspectos.","dificuldade":"facil"},
-      {"id":"red9-revisao-clareza-coesao-ex-02","enunciado":"A coesão textual está relacionada a:","tipo":"multipla_escolha","alternativas":["ligações entre partes do texto","somente tamanho dos parágrafos","apenas correção ortográfica","uso de letras maiúsculas"],"respostaCorreta":"ligações entre partes do texto","explicacao":"A coesão organiza as relações entre frases e parágrafos para dar continuidade ao texto.","dificuldade":"facil"},
-      {"id":"red9-revisao-clareza-coesao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um texto claro e coeso facilita a compreensão do leitor.","Coesão não interfere na leitura de um texto.","Revisão serve apenas para contar palavras.","Conectivos não têm função na organização das ideias."],"respostaCorreta":"Um texto claro e coeso facilita a compreensão do leitor.","explicacao":"Clareza e coesão são fundamentais para a boa comunicação escrita.","dificuldade":"medio"},
-      {"id":"red9-revisao-clareza-coesao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["aperfeiçoar a qualidade final da redação","escrever sem revisar o texto","ignorar relações entre as ideias","considerar desnecessária a organização textual"],"respostaCorreta":"aperfeiçoar a qualidade final da redação","explicacao":"O tema fortalece revisão, articulação de ideias e clareza na escrita.","dificuldade":"medio"}
+      {
+        "id": "red9-revisao-clareza-coesao-ex-01",
+        "enunciado": "A revisão de um texto ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "melhorar clareza e organização das ideias",
+          "eliminar a necessidade de sentido",
+          "dispensar qualquer leitura final",
+          "manter todos os problemas da primeira versão"
+        ],
+        "respostaCorreta": "melhorar clareza e organização das ideias",
+        "explicacao": "Revisar permite perceber falhas e aprimorar a escrita em vários aspectos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-ex-02",
+        "enunciado": "A coesão textual está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligações entre partes do texto",
+          "somente tamanho dos parágrafos",
+          "apenas correção ortográfica",
+          "uso de letras maiúsculas"
+        ],
+        "respostaCorreta": "ligações entre partes do texto",
+        "explicacao": "A coesão organiza as relações entre frases e parágrafos para dar continuidade ao texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um texto claro e coeso facilita a compreensão do leitor.",
+          "Coesão não interfere na leitura de um texto.",
+          "Revisão serve apenas para contar palavras.",
+          "Conectivos não têm função na organização das ideias."
+        ],
+        "respostaCorreta": "Um texto claro e coeso facilita a compreensão do leitor.",
+        "explicacao": "Clareza e coesão são fundamentais para a boa comunicação escrita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aperfeiçoar a qualidade final da redação",
+          "escrever sem revisar o texto",
+          "ignorar relações entre as ideias",
+          "considerar desnecessária a organização textual"
+        ],
+        "respostaCorreta": "aperfeiçoar a qualidade final da redação",
+        "explicacao": "O tema fortalece revisão, articulação de ideias e clareza na escrita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Revisão, clareza e coesão textual\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisar o texto ajuda a melhorar clareza, coesão e precisão na escrita",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Revisar o texto ajuda a melhorar clareza, coesão e precisão na escrita",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-02",
+        "enunciado": "Ao estudar \"Revisão, clareza e coesão textual\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A coesão organiza as ligações entre frases e parágrafos"
+        ],
+        "respostaCorreta": "A coesão organiza as ligações entre frases e parágrafos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece a qualidade final da redação",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a qualidade final da redação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-05",
+        "enunciado": "No contexto de \"Revisão, clareza e coesão textual\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-06",
+        "enunciado": "O estudo de \"Revisão, clareza e coesão textual\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender clareza na construção das ideias"
+        ],
+        "respostaCorreta": "compreender clareza na construção das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A coesão aparece nas conexões entre frases, períodos e parágrafos, por meio de pronomes, conectivos e retomadas adequadas. Um texto coeso conduz melhor o leitor e fortalece a argumentação",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A coesão aparece nas conexões entre frases, períodos e parágrafos, por meio de pronomes, conectivos e retomadas adequadas. Um texto coeso conduz melhor o leitor e fortalece a argumentação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe como as ideias se ligam e evite saltos bruscos entre um trecho e outro",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe como as ideias se ligam e evite saltos bruscos entre um trecho e outro",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender coesão entre partes do texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender coesão entre partes do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise um parágrafo com repetições excessivas e ligações pouco claras entre as frases"
+        ],
+        "respostaCorreta": "Analise um parágrafo com repetições excessivas e ligações pouco claras entre as frases",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Revisão, clareza e coesão textual\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exercício mostra que a revisão pode melhorar bastante a fluidez e a compreensão do texto",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exercício mostra que a revisão pode melhorar bastante a fluidez e a compreensão do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-12",
+        "enunciado": "Ao estudar \"Revisão, clareza e coesão textual\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique palavras ou ideias repetidas sem necessidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique palavras ou ideias repetidas sem necessidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe onde faltam conectivos ou retomadas adequadas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe onde faltam conectivos ou retomadas adequadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Reescreva o trecho com mais clareza e coesão"
+        ],
+        "respostaCorreta": "Reescreva o trecho com mais clareza e coesão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"red9-revisao-clareza-coesao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["revisão e coesão tornam o texto mais claro e melhor organizado","um texto bom dispensa releitura","clareza não depende da organização das ideias","conectivos não influenciam o sentido"],"respostaCorreta":"revisão e coesão tornam o texto mais claro e melhor organizado","explicacao":"O conteúdo mostra como a releitura e a ligação entre ideias fortalecem a escrita final.","dificuldade":"medio"}
+      {
+        "id": "red9-revisao-clareza-coesao-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "revisão e coesão tornam o texto mais claro e melhor organizado",
+          "um texto bom dispensa releitura",
+          "clareza não depende da organização das ideias",
+          "conectivos não influenciam o sentido"
+        ],
+        "respostaCorreta": "revisão e coesão tornam o texto mais claro e melhor organizado",
+        "explicacao": "O conteúdo mostra como a releitura e a ligação entre ideias fortalecem a escrita final.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Revisão, clareza e coesão textual\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece a qualidade final da redação",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a qualidade final da redação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Revisão, clareza e coesão textual\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação"
+        ],
+        "respostaCorreta": "Um texto claro apresenta informações de maneira compreensível, com frases bem organizadas e desenvolvimento coerente. A revisão permite perceber trechos confusos, repetições e problemas de formulação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao reler, pergunte se outra pessoa entenderia facilmente a sequência de ideias apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Revisão, clareza e coesão textual\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender clareza na construção das ideias",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender clareza na construção das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A coesão aparece nas conexões entre frases, períodos e parágrafos, por meio de pronomes, conectivos e retomadas adequadas. Um texto coeso conduz melhor o leitor e fortalece a argumentação",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A coesão aparece nas conexões entre frases, períodos e parágrafos, por meio de pronomes, conectivos e retomadas adequadas. Um texto coeso conduz melhor o leitor e fortalece a argumentação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-revisao-clareza-coesao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como as ideias se ligam e evite saltos bruscos entre um trecho e outro"
+        ],
+        "respostaCorreta": "Observe como as ideias se ligam e evite saltos bruscos entre um trecho e outro",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Revisão, clareza e coesão textual apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

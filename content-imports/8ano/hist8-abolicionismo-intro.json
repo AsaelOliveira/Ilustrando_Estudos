@@ -1,0 +1,426 @@
+[
+  {
+    "id": "hist8-abolicionismo-intro",
+    "titulo": "Introdução ao abolicionismo no Brasil",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Brasil Império",
+    "resumo": [
+      "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão.",
+      "A luta pela abolição envolveu resistência, mobilização social e disputas políticas.",
+      "Estudar esse tema é essencial para compreender a história brasileira de forma crítica."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Movimento abolicionista",
+        "texto": "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial.",
+        "dica": "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo."
+      },
+      {
+        "subtitulo": "Leitura crítica do processo",
+        "texto": "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação.",
+        "dica": "Procure identificar diferentes sujeitos históricos envolvidos no processo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma campanha pública que defende o fim de uma injustiça social.",
+        "passos": [
+          "Observe a mobilização de ideias e pessoas.",
+          "Perceba que mudanças históricas importantes costumam envolver pressão social."
+        ],
+        "resposta": "Esse tipo de análise ajuda a entender a força do movimento abolicionista."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução ao abolicionismo no Brasil\".",
+        "passos": [
+          "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão",
+          "A luta pela abolição envolveu resistência, mobilização social e disputas políticas",
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao abolicionismo no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução ao abolicionismo no Brasil\".",
+        "passos": [
+          "A luta pela abolição envolveu resistência, mobilização social e disputas políticas",
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+          "Movimento abolicionista"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao abolicionismo no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução ao abolicionismo no Brasil\".",
+        "passos": [
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+          "Movimento abolicionista",
+          "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao abolicionismo no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução ao abolicionismo no Brasil\".",
+        "passos": [
+          "Movimento abolicionista",
+          "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial",
+          "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao abolicionismo no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist8-abolicionismo-intro-ex-01",
+        "enunciado": "O abolicionismo defendia principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o fim da escravidão",
+          "a expansão da escravidão",
+          "a volta ao período colonial",
+          "a divisão do país em pequenos reinos"
+        ],
+        "respostaCorreta": "o fim da escravidão",
+        "explicacao": "A luta abolicionista tinha como objetivo acabar com a escravidão no Brasil.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-ex-02",
+        "enunciado": "O movimento abolicionista envolveu:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mobilização social e disputas políticas",
+          "ausência de conflitos",
+          "somente ações secretas sem debate público",
+          "apenas decisões econômicas sem participação humana"
+        ],
+        "respostaCorreta": "mobilização social e disputas políticas",
+        "explicacao": "A abolição foi resultado de pressões e lutas em diferentes esferas da sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A abolição deve ser entendida como resultado de lutas históricas.",
+          "A escravidão terminou sem participação de movimentos sociais.",
+          "O abolicionismo foi um tema sem importância política.",
+          "Não houve resistência de pessoas escravizadas."
+        ],
+        "respostaCorreta": "A abolição deve ser entendida como resultado de lutas históricas.",
+        "explicacao": "O processo abolicionista envolveu resistência, denúncia e mobilização de diversos sujeitos históricos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-ex-04",
+        "enunciado": "Estudar o abolicionismo ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aspectos fundamentais da história social e política do Brasil",
+          "somente a história da Idade Média europeia",
+          "apenas a formação do relevo brasileiro",
+          "exclusivamente o ciclo da água"
+        ],
+        "respostaCorreta": "aspectos fundamentais da história social e política do Brasil",
+        "explicacao": "Esse tema é central para a compreensão crítica da sociedade brasileira e de suas desigualdades históricas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A luta pela abolição envolveu resistência, mobilização social e disputas políticas"
+        ],
+        "respostaCorreta": "A luta pela abolição envolveu resistência, mobilização social e disputas políticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação"
+        ],
+        "respostaCorreta": "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Procure identificar diferentes sujeitos históricos envolvidos no processo",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Procure identificar diferentes sujeitos históricos envolvidos no processo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise uma campanha pública que defende o fim de uma injustiça social",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Analise uma campanha pública que defende o fim de uma injustiça social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tipo de análise ajuda a entender a força do movimento abolicionista",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tipo de análise ajuda a entender a força do movimento abolicionista",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a mobilização de ideias e pessoas"
+        ],
+        "respostaCorreta": "Observe a mobilização de ideias e pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que mudanças históricas importantes costumam envolver pressão social",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que mudanças históricas importantes costumam envolver pressão social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O abolicionismo reuniu ideias, ações e movimentos em defesa do fim da escravidão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A luta pela abolição envolveu resistência, mobilização social e disputas políticas",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A luta pela abolição envolveu resistência, mobilização social e disputas políticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica"
+        ],
+        "respostaCorreta": "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist8-abolicionismo-intro-sim-01",
+        "enunciado": "Ao estudar o abolicionismo, é correto reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o fim da escravidão resultou de pressões, lutas e mobilizações históricas",
+          "a abolição aconteceu sem conflitos sociais",
+          "o tema diz respeito apenas a uma lei isolada",
+          "não houve participação de diferentes grupos sociais"
+        ],
+        "respostaCorreta": "o fim da escravidão resultou de pressões, lutas e mobilizações históricas",
+        "explicacao": "A leitura histórica do abolicionismo precisa considerar o protagonismo e a resistência de muitos sujeitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema é essencial para compreender a história brasileira de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial"
+        ],
+        "respostaCorreta": "O abolicionismo foi um movimento formado por diferentes grupos e estratégias de luta contra a escravidão. Ele não surgiu de forma isolada, mas em meio a conflitos sociais e políticos do período imperial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que a abolição foi resultado de lutas e pressões, e não de um gesto simples ou espontâneo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Compreender o abolicionismo exige reconhecer a atuação de pessoas escravizadas, intelectuais, jornalistas, ativistas e outros grupos que denunciaram a violência da escravidão e defenderam sua superação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Procure identificar diferentes sujeitos históricos envolvidos no processo",
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Procure identificar diferentes sujeitos históricos envolvidos no processo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-abolicionismo-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao abolicionismo no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao abolicionismo no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao abolicionismo no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise uma campanha pública que defende o fim de uma injustiça social"
+        ],
+        "respostaCorreta": "Analise uma campanha pública que defende o fim de uma injustiça social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao abolicionismo no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

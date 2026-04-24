@@ -31,16 +31,397 @@
           "Relacione essas medidas à ideia de sustentabilidade."
         ],
         "resposta": "Esse exemplo mostra que sustentabilidade depende de práticas concretas e planejamento coletivo."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Meio ambiente e sustentabilidade global\".",
+        "passos": [
+          "Questões ambientais atuais envolvem consumo, produção, recursos naturais e desigualdades",
+          "A sustentabilidade propõe formas de desenvolvimento que considerem sociedade, economia e ambiente",
+          "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais"
+        ],
+        "resposta": "Esse exemplo mostra como Meio ambiente e sustentabilidade global pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Meio ambiente e sustentabilidade global\".",
+        "passos": [
+          "A sustentabilidade propõe formas de desenvolvimento que considerem sociedade, economia e ambiente",
+          "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+          "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço"
+        ],
+        "resposta": "Esse exemplo mostra como Meio ambiente e sustentabilidade global pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Meio ambiente e sustentabilidade global\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+          "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço",
+          "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos"
+        ],
+        "resposta": "Esse exemplo mostra como Meio ambiente e sustentabilidade global pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Meio ambiente e sustentabilidade global\".",
+        "passos": [
+          "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço",
+          "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos",
+          "Problemas ambientais no mundo atual"
+        ],
+        "resposta": "Esse exemplo mostra como Meio ambiente e sustentabilidade global pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-01","enunciado":"A sustentabilidade procura:","tipo":"multipla_escolha","alternativas":["equilibrar desenvolvimento, sociedade e ambiente","aumentar o desperdício de recursos","separar economia de qualquer questão ambiental","ignorar impactos das ações humanas"],"respostaCorreta":"equilibrar desenvolvimento, sociedade e ambiente","explicacao":"A sustentabilidade propõe conciliar necessidades humanas com preservação ambiental e responsabilidade social.","dificuldade":"facil"},
-      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-02","enunciado":"Um problema ambiental contemporâneo é:","tipo":"multipla_escolha","alternativas":["desmatamento","ordem alfabética de palavras","pontuação de frases","classificação de sílabas"],"respostaCorreta":"desmatamento","explicacao":"O desmatamento é um exemplo de problema ambiental com impactos locais e globais.","dificuldade":"facil"},
-      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Questões ambientais se relacionam a formas de produção e consumo.","Os problemas ambientais não têm ligação com a ação humana.","Sustentabilidade significa explorar recursos sem limites.","Planejamento não interfere na gestão ambiental."],"respostaCorreta":"Questões ambientais se relacionam a formas de produção e consumo.","explicacao":"Muitos problemas ambientais decorrem de escolhas econômicas, sociais e espaciais feitas pela sociedade.","dificuldade":"medio"},
-      {"id":"geo9-meio-ambiente-sustentabilidade-global-ex-04","enunciado":"Pensar globalmente e agir localmente significa:","tipo":"multipla_escolha","alternativas":["reconhecer que atitudes locais também afetam questões amplas","considerar que problemas globais não têm solução","acreditar que ações individuais nunca fazem diferença","separar ambiente e sociedade como temas independentes"],"respostaCorreta":"reconhecer que atitudes locais também afetam questões amplas","explicacao":"A relação entre escalas locais e globais é central para compreender a sustentabilidade.","dificuldade":"medio"}
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-ex-01",
+        "enunciado": "A sustentabilidade procura:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "equilibrar desenvolvimento, sociedade e ambiente",
+          "aumentar o desperdício de recursos",
+          "separar economia de qualquer questão ambiental",
+          "ignorar impactos das ações humanas"
+        ],
+        "respostaCorreta": "equilibrar desenvolvimento, sociedade e ambiente",
+        "explicacao": "A sustentabilidade propõe conciliar necessidades humanas com preservação ambiental e responsabilidade social.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-ex-02",
+        "enunciado": "Um problema ambiental contemporâneo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desmatamento",
+          "ordem alfabética de palavras",
+          "pontuação de frases",
+          "classificação de sílabas"
+        ],
+        "respostaCorreta": "desmatamento",
+        "explicacao": "O desmatamento é um exemplo de problema ambiental com impactos locais e globais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questões ambientais se relacionam a formas de produção e consumo.",
+          "Os problemas ambientais não têm ligação com a ação humana.",
+          "Sustentabilidade significa explorar recursos sem limites.",
+          "Planejamento não interfere na gestão ambiental."
+        ],
+        "respostaCorreta": "Questões ambientais se relacionam a formas de produção e consumo.",
+        "explicacao": "Muitos problemas ambientais decorrem de escolhas econômicas, sociais e espaciais feitas pela sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-ex-04",
+        "enunciado": "Pensar globalmente e agir localmente significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reconhecer que atitudes locais também afetam questões amplas",
+          "considerar que problemas globais não têm solução",
+          "acreditar que ações individuais nunca fazem diferença",
+          "separar ambiente e sociedade como temas independentes"
+        ],
+        "respostaCorreta": "reconhecer que atitudes locais também afetam questões amplas",
+        "explicacao": "A relação entre escalas locais e globais é central para compreender a sustentabilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Meio ambiente e sustentabilidade global\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questões ambientais atuais envolvem consumo, produção, recursos naturais e desigualdades",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Questões ambientais atuais envolvem consumo, produção, recursos naturais e desigualdades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-02",
+        "enunciado": "Ao estudar \"Meio ambiente e sustentabilidade global\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A sustentabilidade propõe formas de desenvolvimento que considerem sociedade, economia e ambiente"
+        ],
+        "respostaCorreta": "A sustentabilidade propõe formas de desenvolvimento que considerem sociedade, economia e ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-05",
+        "enunciado": "No contexto de \"Meio ambiente e sustentabilidade global\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-06",
+        "enunciado": "O estudo de \"Meio ambiente e sustentabilidade global\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender problemas ambientais no mundo atual"
+        ],
+        "respostaCorreta": "compreender problemas ambientais no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A sustentabilidade busca conciliar preservação ambiental, justiça social e desenvolvimento econômico. Isso exige planejamento, responsabilidade coletiva e mudanças em hábitos individuais e políticas públicas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A sustentabilidade busca conciliar preservação ambiental, justiça social e desenvolvimento econômico. Isso exige planejamento, responsabilidade coletiva e mudanças em hábitos individuais e políticas públicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em como decisões locais podem contribuir para problemas ou soluções em escala global",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em como decisões locais podem contribuir para problemas ou soluções em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender sustentabilidade como perspectiva de ação",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender sustentabilidade como perspectiva de ação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma cidade que amplia a coleta seletiva e reduz desperdícios de água e energia"
+        ],
+        "respostaCorreta": "Considere uma cidade que amplia a coleta seletiva e reduz desperdícios de água e energia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Meio ambiente e sustentabilidade global\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que sustentabilidade depende de práticas concretas e planejamento coletivo",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que sustentabilidade depende de práticas concretas e planejamento coletivo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-12",
+        "enunciado": "Ao estudar \"Meio ambiente e sustentabilidade global\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique quais ações favorecem o uso responsável de recursos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique quais ações favorecem o uso responsável de recursos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os benefícios para a população e para o ambiente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os benefícios para a população e para o ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione essas medidas à ideia de sustentabilidade"
+        ],
+        "respostaCorreta": "Relacione essas medidas à ideia de sustentabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-meio-ambiente-sustentabilidade-global-sim-01","enunciado":"A principal ideia do tema é que:","tipo":"multipla_escolha","alternativas":["a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas","problemas ambientais são sempre isolados e locais","desenvolvimento e meio ambiente nunca podem ser pensados juntos","a ação humana não interfere no espaço geográfico"],"respostaCorreta":"a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas","explicacao":"O tema mostra que ambiente, economia e sociedade precisam ser analisados de forma integrada.","dificuldade":"medio"}
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-sim-01",
+        "enunciado": "A principal ideia do tema é que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas",
+          "problemas ambientais são sempre isolados e locais",
+          "desenvolvimento e meio ambiente nunca podem ser pensados juntos",
+          "a ação humana não interfere no espaço geográfico"
+        ],
+        "respostaCorreta": "a sustentabilidade depende de escolhas sociais, econômicas e ambientais articuladas",
+        "explicacao": "O tema mostra que ambiente, economia e sociedade precisam ser analisados de forma integrada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Meio ambiente e sustentabilidade global\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desafios globais e responsabilidades locais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Meio ambiente e sustentabilidade global\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço"
+        ],
+        "respostaCorreta": "Poluição, desmatamento, mudanças climáticas e uso excessivo de recursos são exemplos de problemas ambientais que afetam diferentes regiões. Essas questões se relacionam a modos de produção, consumo e ocupação do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao analisar um problema ambiental, observe causas, consequências e grupos sociais envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Meio ambiente e sustentabilidade global\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender problemas ambientais no mundo atual",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender problemas ambientais no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A sustentabilidade busca conciliar preservação ambiental, justiça social e desenvolvimento econômico. Isso exige planejamento, responsabilidade coletiva e mudanças em hábitos individuais e políticas públicas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A sustentabilidade busca conciliar preservação ambiental, justiça social e desenvolvimento econômico. Isso exige planejamento, responsabilidade coletiva e mudanças em hábitos individuais e políticas públicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-meio-ambiente-sustentabilidade-global-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como decisões locais podem contribuir para problemas ou soluções em escala global"
+        ],
+        "respostaCorreta": "Pense em como decisões locais podem contribuir para problemas ou soluções em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Meio ambiente e sustentabilidade global apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

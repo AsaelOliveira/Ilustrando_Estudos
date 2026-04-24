@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lit8-narrador-foco-narrativo",
+    "titulo": "Narrador e foco narrativo",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "O narrador é a voz que conta a história em um texto narrativo.",
+      "O foco narrativo influencia o modo como os fatos são apresentados ao leitor.",
+      "Estudar esse tema ajuda a compreender melhor a construção das narrativas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Quem conta a história",
+        "texto": "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração.",
+        "dica": "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador."
+      },
+      {
+        "subtitulo": "Efeitos do foco narrativo",
+        "texto": "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária.",
+        "dica": "Pergunte como a escolha do narrador altera a experiência de leitura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um trecho narrado em primeira pessoa.",
+        "passos": [
+          "Observe a presença de palavras como 'eu' e 'meu'.",
+          "Perceba que a história é contada a partir da perspectiva de quem narra."
+        ],
+        "resposta": "Esse exemplo mostra como o foco narrativo interfere na leitura do texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Narrador e foco narrativo\".",
+        "passos": [
+          "O narrador é a voz que conta a história em um texto narrativo",
+          "O foco narrativo influencia o modo como os fatos são apresentados ao leitor",
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas"
+        ],
+        "resposta": "Esse exemplo mostra como Narrador e foco narrativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Narrador e foco narrativo\".",
+        "passos": [
+          "O foco narrativo influencia o modo como os fatos são apresentados ao leitor",
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+          "Quem conta a história"
+        ],
+        "resposta": "Esse exemplo mostra como Narrador e foco narrativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Narrador e foco narrativo\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+          "Quem conta a história",
+          "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração"
+        ],
+        "resposta": "Esse exemplo mostra como Narrador e foco narrativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Narrador e foco narrativo\".",
+        "passos": [
+          "Quem conta a história",
+          "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração",
+          "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador"
+        ],
+        "resposta": "Esse exemplo mostra como Narrador e foco narrativo pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "lit8-narrador-foco-narrativo-ex-01",
+        "enunciado": "O narrador é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a voz que conta a história",
+          "o título do texto",
+          "a capa do livro",
+          "o cenário da narrativa"
+        ],
+        "respostaCorreta": "a voz que conta a história",
+        "explicacao": "O narrador é responsável por apresentar os acontecimentos ao leitor.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-ex-02",
+        "enunciado": "O foco narrativo influencia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a forma como a história é apresentada",
+          "apenas a quantidade de páginas do texto",
+          "somente a ortografia dos personagens",
+          "o tipo de papel do livro"
+        ],
+        "respostaCorreta": "a forma como a história é apresentada",
+        "explicacao": "A escolha do foco narrativo interfere na perspectiva e nas informações da narrativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A escolha do narrador interfere na experiência de leitura.",
+          "Toda narrativa apresenta a história da mesma forma.",
+          "O narrador não tem importância para a interpretação do texto.",
+          "Primeira e terceira pessoa produzem exatamente o mesmo efeito sempre."
+        ],
+        "respostaCorreta": "A escolha do narrador interfere na experiência de leitura.",
+        "explicacao": "O foco narrativo modifica proximidade, perspectiva e acesso às informações da história.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-ex-04",
+        "enunciado": "Estudar narrador e foco narrativo ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor a construção das narrativas",
+          "reduzir toda leitura a resumo de enredo",
+          "ignorar a perspectiva do texto",
+          "pensar que toda história é neutra"
+        ],
+        "respostaCorreta": "compreender melhor a construção das narrativas",
+        "explicacao": "Esse tema amplia a leitura crítica de como a história é organizada e contada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O narrador é a voz que conta a história em um texto narrativo",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O narrador é a voz que conta a história em um texto narrativo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O foco narrativo influencia o modo como os fatos são apresentados ao leitor"
+        ],
+        "respostaCorreta": "O foco narrativo influencia o modo como os fatos são apresentados ao leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária"
+        ],
+        "respostaCorreta": "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte como a escolha do narrador altera a experiência de leitura",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte como a escolha do narrador altera a experiência de leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um trecho narrado em primeira pessoa",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia um trecho narrado em primeira pessoa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como o foco narrativo interfere na leitura do texto",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como o foco narrativo interfere na leitura do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a presença de palavras como 'eu' e 'meu'"
+        ],
+        "respostaCorreta": "Observe a presença de palavras como 'eu' e 'meu'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a história é contada a partir da perspectiva de quem narra",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a história é contada a partir da perspectiva de quem narra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O narrador é a voz que conta a história em um texto narrativo",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O narrador é a voz que conta a história em um texto narrativo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O foco narrativo influencia o modo como os fatos são apresentados ao leitor",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O foco narrativo influencia o modo como os fatos são apresentados ao leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "lit8-narrador-foco-narrativo-sim-01",
+        "enunciado": "A principal utilidade desse tema é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a narrativa muda conforme a voz e a perspectiva escolhidas para contar a história",
+          "toda história é contada do mesmo modo",
+          "o narrador não interfere no texto literário",
+          "o foco narrativo se resume ao título da obra"
+        ],
+        "respostaCorreta": "a narrativa muda conforme a voz e a perspectiva escolhidas para contar a história",
+        "explicacao": "Narrador e foco narrativo influenciam a forma de leitura e interpretação do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor a construção das narrativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração"
+        ],
+        "respostaCorreta": "Em um texto narrativo, o narrador é a instância que apresenta os acontecimentos. Ele pode participar da história, observar os fatos de fora ou assumir outras posições na narração",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se a narrativa usa primeira pessoa ou terceira pessoa e o que isso revela sobre o narrador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O foco narrativo interfere na quantidade de informações oferecidas ao leitor, na proximidade com os personagens e na forma como a história é percebida. Por isso, esse elemento é importante para a interpretação literária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte como a escolha do narrador altera a experiência de leitura",
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte como a escolha do narrador altera a experiência de leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-narrador-foco-narrativo-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de narrador e foco narrativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Narrador e foco narrativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com narrador e foco narrativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um trecho narrado em primeira pessoa"
+        ],
+        "respostaCorreta": "Leia um trecho narrado em primeira pessoa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Narrador e foco narrativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

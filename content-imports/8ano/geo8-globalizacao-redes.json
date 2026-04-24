@@ -1,0 +1,427 @@
+[
+  {
+    "id": "geo8-globalizacao-redes",
+    "titulo": "Globalização e redes",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço geográfico contemporâneo",
+    "resumo": [
+      "A globalização intensifica as conexões entre diferentes partes do mundo.",
+      "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações.",
+      "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Integração do espaço geográfico",
+        "texto": "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes.",
+        "dica": "Observe como diferentes meios de circulação encurtam distâncias no mundo atual."
+      },
+      {
+        "subtitulo": "Desigualdades nas redes",
+        "texto": "Embora as conexões globais tenham se intensificado, o acesso às redes e aos benefícios da globalização não ocorre de forma igual. Algumas regiões concentram mais infraestrutura, tecnologia e oportunidades do que outras.",
+        "dica": "Pergunte quem participa mais e quem participa menos dessas redes."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma compra feita pela internet e entregue em outra cidade.",
+        "passos": [
+          "Há circulação de informação no ambiente digital.",
+          "Há circulação de mercadoria por redes de transporte.",
+          "O processo depende de integração entre diferentes espaços."
+        ],
+        "resposta": "Esse exemplo mostra como a globalização se apoia em redes técnicas e econômicas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Globalização e redes\".",
+        "passos": [
+          "A globalização intensifica as conexões entre diferentes partes do mundo",
+          "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações",
+          "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e redes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Globalização e redes\".",
+        "passos": [
+          "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações",
+          "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+          "Integração do espaço geográfico"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e redes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Globalização e redes\".",
+        "passos": [
+          "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+          "Integração do espaço geográfico",
+          "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e redes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Globalização e redes\".",
+        "passos": [
+          "Integração do espaço geográfico",
+          "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes",
+          "Observe como diferentes meios de circulação encurtam distâncias no mundo atual"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e redes pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-globalizacao-redes-ex-01",
+        "enunciado": "A globalização é caracterizada principalmente pela:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "intensificação das conexões entre diferentes lugares",
+          "eliminação de todas as diferenças regionais",
+          "redução completa dos meios de transporte",
+          "interrupção do fluxo de informações"
+        ],
+        "respostaCorreta": "intensificação das conexões entre diferentes lugares",
+        "explicacao": "A globalização amplia as relações econômicas, culturais e informacionais entre diferentes partes do mundo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-ex-02",
+        "enunciado": "Um exemplo de rede importante na globalização é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "internet",
+          "isolamento total",
+          "ausência de transporte",
+          "fechamento das comunicações"
+        ],
+        "respostaCorreta": "internet",
+        "explicacao": "A internet é uma rede fundamental para a circulação rápida de informações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os efeitos da globalização são desiguais entre regiões e grupos sociais.",
+          "Todas as regiões recebem os mesmos benefícios da globalização.",
+          "A globalização depende apenas de fatores naturais.",
+          "As redes técnicas não interferem no espaço geográfico."
+        ],
+        "respostaCorreta": "Os efeitos da globalização são desiguais entre regiões e grupos sociais.",
+        "explicacao": "O acesso à infraestrutura e às oportunidades é distribuído de forma desigual no espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-ex-04",
+        "enunciado": "As redes de transporte e comunicação contribuem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "articular fluxos de pessoas, mercadorias e informações",
+          "impedir qualquer circulação",
+          "eliminar a necessidade de infraestrutura",
+          "isolar completamente os territórios"
+        ],
+        "respostaCorreta": "articular fluxos de pessoas, mercadorias e informações",
+        "explicacao": "Essas redes sustentam a integração espacial típica da globalização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A globalização intensifica as conexões entre diferentes partes do mundo",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A globalização intensifica as conexões entre diferentes partes do mundo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações"
+        ],
+        "respostaCorreta": "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como diferentes meios de circulação encurtam distâncias no mundo atual",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como diferentes meios de circulação encurtam distâncias no mundo atual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Embora as conexões globais tenham se intensificado, o acesso às redes e aos benefícios da globalização não ocorre de forma igual. Algumas regiões concentram mais infraestrutura, tecnologia e oportunidades do que outras"
+        ],
+        "respostaCorreta": "Embora as conexões globais tenham se intensificado, o acesso às redes e aos benefícios da globalização não ocorre de forma igual. Algumas regiões concentram mais infraestrutura, tecnologia e oportunidades do que outras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte quem participa mais e quem participa menos dessas redes",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte quem participa mais e quem participa menos dessas redes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma compra feita pela internet e entregue em outra cidade",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma compra feita pela internet e entregue em outra cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como a globalização se apoia em redes técnicas e econômicas",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a globalização se apoia em redes técnicas e econômicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Há circulação de informação no ambiente digital"
+        ],
+        "respostaCorreta": "Há circulação de informação no ambiente digital",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Há circulação de mercadoria por redes de transporte",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Há circulação de mercadoria por redes de transporte",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O processo depende de integração entre diferentes espaços",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O processo depende de integração entre diferentes espaços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A globalização intensifica as conexões entre diferentes partes do mundo",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A globalização intensifica as conexões entre diferentes partes do mundo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações"
+        ],
+        "respostaCorreta": "As redes de transporte, comunicação e comércio articulam pessoas, mercadorias e informações",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-globalizacao-redes-sim-01",
+        "enunciado": "Ao estudar globalização, é importante compreender que as redes:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligam territórios, mas também revelam desigualdades",
+          "apagam todas as diferenças entre os lugares",
+          "substituem completamente o espaço geográfico",
+          "funcionam da mesma forma em todos os contextos"
+        ],
+        "respostaCorreta": "ligam territórios, mas também revelam desigualdades",
+        "explicacao": "As redes integram o espaço, mas a participação nelas é desigual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os efeitos da globalização não são iguais para todos os lugares e grupos sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes"
+        ],
+        "respostaCorreta": "A globalização amplia a circulação de produtos, capitais, informações e pessoas. As redes técnicas, como internet, rodovias, portos e aeroportos, ajudam a conectar regiões distantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como diferentes meios de circulação encurtam distâncias no mundo atual",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como diferentes meios de circulação encurtam distâncias no mundo atual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Embora as conexões globais tenham se intensificado, o acesso às redes e aos benefícios da globalização não ocorre de forma igual. Algumas regiões concentram mais infraestrutura, tecnologia e oportunidades do que outras",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Embora as conexões globais tenham se intensificado, o acesso às redes e aos benefícios da globalização não ocorre de forma igual. Algumas regiões concentram mais infraestrutura, tecnologia e oportunidades do que outras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte quem participa mais e quem participa menos dessas redes",
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte quem participa mais e quem participa menos dessas redes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-globalizacao-redes-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de globalização e redes se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Globalização e redes pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com globalização e redes dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma compra feita pela internet e entregue em outra cidade"
+        ],
+        "respostaCorreta": "Pense em uma compra feita pela internet e entregue em outra cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Globalização e redes, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

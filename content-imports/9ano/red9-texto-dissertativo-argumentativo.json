@@ -31,16 +31,397 @@
           "Organize essas ideias em introdução, desenvolvimento e conclusão."
         ],
         "resposta": "Esse processo mostra como a redação argumentativa exige planejamento e organização das ideias."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Texto dissertativo-argumentativo\".",
+        "passos": [
+          "O texto dissertativo-argumentativo apresenta um ponto de vista e o desenvolve com argumentos",
+          "Sua estrutura costuma envolver introdução, desenvolvimento e conclusão",
+          "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza"
+        ],
+        "resposta": "Esse exemplo mostra como Texto dissertativo-argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Texto dissertativo-argumentativo\".",
+        "passos": [
+          "Sua estrutura costuma envolver introdução, desenvolvimento e conclusão",
+          "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+          "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias"
+        ],
+        "resposta": "Esse exemplo mostra como Texto dissertativo-argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Texto dissertativo-argumentativo\".",
+        "passos": [
+          "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+          "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias",
+          "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la"
+        ],
+        "resposta": "Esse exemplo mostra como Texto dissertativo-argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Texto dissertativo-argumentativo\".",
+        "passos": [
+          "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias",
+          "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la",
+          "Estrutura do texto"
+        ],
+        "resposta": "Esse exemplo mostra como Texto dissertativo-argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"red9-texto-dissertativo-argumentativo-ex-01","enunciado":"A função principal do texto dissertativo-argumentativo é:","tipo":"multipla_escolha","alternativas":["apresentar e defender um ponto de vista","contar apenas uma história ficcional","descrever somente objetos e lugares","listar palavras sem relação entre si"],"respostaCorreta":"apresentar e defender um ponto de vista","explicacao":"Esse gênero textual se organiza em torno da defesa de uma tese por meio de argumentos.","dificuldade":"facil"},
-      {"id":"red9-texto-dissertativo-argumentativo-ex-02","enunciado":"Uma estrutura comum desse gênero inclui:","tipo":"multipla_escolha","alternativas":["introdução, desenvolvimento e conclusão","apenas título e assinatura","somente perguntas sem resposta","lista de palavras em ordem alfabética"],"respostaCorreta":"introdução, desenvolvimento e conclusão","explicacao":"Essa organização ajuda a apresentar, sustentar e concluir o raciocínio do texto.","dificuldade":"facil"},
-      {"id":"red9-texto-dissertativo-argumentativo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Argumentos coerentes fortalecem a tese defendida no texto.","Um texto argumentativo dispensa planejamento.","A conclusão não tem função no gênero.","Defender opinião significa repetir a mesma frase várias vezes."],"respostaCorreta":"Argumentos coerentes fortalecem a tese defendida no texto.","explicacao":"A qualidade da argumentação depende da consistência e da organização das justificativas apresentadas.","dificuldade":"medio"},
-      {"id":"red9-texto-dissertativo-argumentativo-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["organizar ideias e defender opiniões com mais clareza","escrever sem objetivo definido","eliminar a necessidade de revisar a escrita","reduzir a redação a frases soltas"],"respostaCorreta":"organizar ideias e defender opiniões com mais clareza","explicacao":"O gênero desenvolve planejamento, argumentação e organização textual.","dificuldade":"medio"}
+      {
+        "id": "red9-texto-dissertativo-argumentativo-ex-01",
+        "enunciado": "A função principal do texto dissertativo-argumentativo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresentar e defender um ponto de vista",
+          "contar apenas uma história ficcional",
+          "descrever somente objetos e lugares",
+          "listar palavras sem relação entre si"
+        ],
+        "respostaCorreta": "apresentar e defender um ponto de vista",
+        "explicacao": "Esse gênero textual se organiza em torno da defesa de uma tese por meio de argumentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-ex-02",
+        "enunciado": "Uma estrutura comum desse gênero inclui:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "introdução, desenvolvimento e conclusão",
+          "apenas título e assinatura",
+          "somente perguntas sem resposta",
+          "lista de palavras em ordem alfabética"
+        ],
+        "respostaCorreta": "introdução, desenvolvimento e conclusão",
+        "explicacao": "Essa organização ajuda a apresentar, sustentar e concluir o raciocínio do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Argumentos coerentes fortalecem a tese defendida no texto.",
+          "Um texto argumentativo dispensa planejamento.",
+          "A conclusão não tem função no gênero.",
+          "Defender opinião significa repetir a mesma frase várias vezes."
+        ],
+        "respostaCorreta": "Argumentos coerentes fortalecem a tese defendida no texto.",
+        "explicacao": "A qualidade da argumentação depende da consistência e da organização das justificativas apresentadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar ideias e defender opiniões com mais clareza",
+          "escrever sem objetivo definido",
+          "eliminar a necessidade de revisar a escrita",
+          "reduzir a redação a frases soltas"
+        ],
+        "respostaCorreta": "organizar ideias e defender opiniões com mais clareza",
+        "explicacao": "O gênero desenvolve planejamento, argumentação e organização textual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Texto dissertativo-argumentativo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O texto dissertativo-argumentativo apresenta um ponto de vista e o desenvolve com argumentos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O texto dissertativo-argumentativo apresenta um ponto de vista e o desenvolve com argumentos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-02",
+        "enunciado": "Ao estudar \"Texto dissertativo-argumentativo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Sua estrutura costuma envolver introdução, desenvolvimento e conclusão"
+        ],
+        "respostaCorreta": "Sua estrutura costuma envolver introdução, desenvolvimento e conclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-05",
+        "enunciado": "No contexto de \"Texto dissertativo-argumentativo\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-06",
+        "enunciado": "O estudo de \"Texto dissertativo-argumentativo\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender estrutura do texto"
+        ],
+        "respostaCorreta": "compreender estrutura do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Um bom texto argumentativo precisa apresentar justificativas coerentes, exemplos, comparações ou dados que reforcem a opinião defendida. A escolha dos argumentos influencia diretamente a força do texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Um bom texto argumentativo precisa apresentar justificativas coerentes, exemplos, comparações ou dados que reforcem a opinião defendida. A escolha dos argumentos influencia diretamente a força do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Evite repetir a mesma ideia de formas diferentes; prefira desenvolver argumentos complementares",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Evite repetir a mesma ideia de formas diferentes; prefira desenvolver argumentos complementares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender argumentar com consistência",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender argumentar com consistência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe um tema de redação sobre uso consciente das redes sociais"
+        ],
+        "respostaCorreta": "Observe um tema de redação sobre uso consciente das redes sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Texto dissertativo-argumentativo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse processo mostra como a redação argumentativa exige planejamento e organização das ideias",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse processo mostra como a redação argumentativa exige planejamento e organização das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-12",
+        "enunciado": "Ao estudar \"Texto dissertativo-argumentativo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Defina uma tese sobre o tema",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Defina uma tese sobre o tema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Liste argumentos que sustentem sua posição",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Liste argumentos que sustentem sua posição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Organize essas ideias em introdução, desenvolvimento e conclusão"
+        ],
+        "respostaCorreta": "Organize essas ideias em introdução, desenvolvimento e conclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"red9-texto-dissertativo-argumentativo-sim-01","enunciado":"A principal característica do texto dissertativo-argumentativo é:","tipo":"multipla_escolha","alternativas":["defender uma tese com argumentos bem organizados","narrar fatos sem ponto de vista","apresentar apenas descrições sem análise","reunir palavras aleatórias em parágrafos"],"respostaCorreta":"defender uma tese com argumentos bem organizados","explicacao":"Esse gênero exige organização estrutural e clareza na defesa de ideias.","dificuldade":"medio"}
+      {
+        "id": "red9-texto-dissertativo-argumentativo-sim-01",
+        "enunciado": "A principal característica do texto dissertativo-argumentativo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender uma tese com argumentos bem organizados",
+          "narrar fatos sem ponto de vista",
+          "apresentar apenas descrições sem análise",
+          "reunir palavras aleatórias em parágrafos"
+        ],
+        "respostaCorreta": "defender uma tese com argumentos bem organizados",
+        "explicacao": "Esse gênero exige organização estrutural e clareza na defesa de ideias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Texto dissertativo-argumentativo\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse gênero ajuda a organizar ideias e defender opiniões com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Texto dissertativo-argumentativo\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias"
+        ],
+        "respostaCorreta": "No texto dissertativo-argumentativo, a introdução apresenta o tema e a tese, o desenvolvimento reúne argumentos e a conclusão retoma o ponto de vista com síntese ou proposta. Essa organização favorece a clareza e a progressão das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao planejar o texto, defina antes a tese e os argumentos que irão sustentá-la",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Texto dissertativo-argumentativo\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender estrutura do texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender estrutura do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um bom texto argumentativo precisa apresentar justificativas coerentes, exemplos, comparações ou dados que reforcem a opinião defendida. A escolha dos argumentos influencia diretamente a força do texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Um bom texto argumentativo precisa apresentar justificativas coerentes, exemplos, comparações ou dados que reforcem a opinião defendida. A escolha dos argumentos influencia diretamente a força do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-texto-dissertativo-argumentativo-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Evite repetir a mesma ideia de formas diferentes; prefira desenvolver argumentos complementares"
+        ],
+        "respostaCorreta": "Evite repetir a mesma ideia de formas diferentes; prefira desenvolver argumentos complementares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Texto dissertativo-argumentativo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -31,16 +31,397 @@
           "Find one reason that supports the idea."
         ],
         "resposta": "This example shows how reading in English can involve interpretation of argument and point of view."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Reading and argumentation in texts\".",
+        "passos": [
+          "Reading in English can involve identifying opinions, arguments and main ideas",
+          "Short argumentative texts help students practice interpretation in meaningful contexts",
+          "This topic strengthens language comprehension and critical reading"
+        ],
+        "resposta": "Esse exemplo mostra como Reading and argumentation in texts pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Reading and argumentation in texts\".",
+        "passos": [
+          "Short argumentative texts help students practice interpretation in meaningful contexts",
+          "This topic strengthens language comprehension and critical reading",
+          "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context"
+        ],
+        "resposta": "Esse exemplo mostra como Reading and argumentation in texts pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Reading and argumentation in texts\".",
+        "passos": [
+          "This topic strengthens language comprehension and critical reading",
+          "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context",
+          "Pay attention to repeated words, connectors and expressions that introduce opinions"
+        ],
+        "resposta": "Esse exemplo mostra como Reading and argumentation in texts pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Reading and argumentation in texts\".",
+        "passos": [
+          "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context",
+          "Pay attention to repeated words, connectors and expressions that introduce opinions",
+          "Reading for main ideas"
+        ],
+        "resposta": "Esse exemplo mostra como Reading and argumentation in texts pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"ing9-reading-argumentation-texts-ex-01","enunciado":"A main idea in a text is:","tipo":"multipla_escolha","alternativas":["the central point of the message","the color of the paper","the last letter of every word","a random detail without importance"],"respostaCorreta":"the central point of the message","explicacao":"The main idea is the central message developed in the text.","dificuldade":"facil"},
-      {"id":"ing9-reading-argumentation-texts-ex-02","enunciado":"An argument in a text is used to:","tipo":"multipla_escolha","alternativas":["support an opinion or idea","name a country","change the alphabet","describe only numbers"],"respostaCorreta":"support an opinion or idea","explicacao":"Arguments help explain or justify the point of view presented in the text.","dificuldade":"facil"},
-      {"id":"ing9-reading-argumentation-texts-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Reading short argumentative texts helps students develop critical comprehension.","Texts never include points of view.","Reading in English should ignore context.","Arguments are not part of communication."],"respostaCorreta":"Reading short argumentative texts helps students develop critical comprehension.","explicacao":"This topic connects language learning with interpretation and critical reading.","dificuldade":"medio"},
-      {"id":"ing9-reading-argumentation-texts-ex-04","enunciado":"Studying this topic helps students:","tipo":"multipla_escolha","alternativas":["identify opinions and reasons in English texts","avoid reading complete messages","focus only on isolated words","ignore meaning in context"],"respostaCorreta":"identify opinions and reasons in English texts","explicacao":"The topic strengthens interpretation of ideas and arguments in short texts.","dificuldade":"medio"}
+      {
+        "id": "ing9-reading-argumentation-texts-ex-01",
+        "enunciado": "A main idea in a text is:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "the central point of the message",
+          "the color of the paper",
+          "the last letter of every word",
+          "a random detail without importance"
+        ],
+        "respostaCorreta": "the central point of the message",
+        "explicacao": "The main idea is the central message developed in the text.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-ex-02",
+        "enunciado": "An argument in a text is used to:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "support an opinion or idea",
+          "name a country",
+          "change the alphabet",
+          "describe only numbers"
+        ],
+        "respostaCorreta": "support an opinion or idea",
+        "explicacao": "Arguments help explain or justify the point of view presented in the text.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Reading short argumentative texts helps students develop critical comprehension.",
+          "Texts never include points of view.",
+          "Reading in English should ignore context.",
+          "Arguments are not part of communication."
+        ],
+        "respostaCorreta": "Reading short argumentative texts helps students develop critical comprehension.",
+        "explicacao": "This topic connects language learning with interpretation and critical reading.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-ex-04",
+        "enunciado": "Studying this topic helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "identify opinions and reasons in English texts",
+          "avoid reading complete messages",
+          "focus only on isolated words",
+          "ignore meaning in context"
+        ],
+        "respostaCorreta": "identify opinions and reasons in English texts",
+        "explicacao": "The topic strengthens interpretation of ideas and arguments in short texts.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Reading and argumentation in texts\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Reading in English can involve identifying opinions, arguments and main ideas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Reading in English can involve identifying opinions, arguments and main ideas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-02",
+        "enunciado": "Ao estudar \"Reading and argumentation in texts\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Short argumentative texts help students practice interpretation in meaningful contexts"
+        ],
+        "respostaCorreta": "Short argumentative texts help students practice interpretation in meaningful contexts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "This topic strengthens language comprehension and critical reading",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "This topic strengthens language comprehension and critical reading",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-05",
+        "enunciado": "No contexto de \"Reading and argumentation in texts\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pay attention to repeated words, connectors and expressions that introduce opinions",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pay attention to repeated words, connectors and expressions that introduce opinions",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-06",
+        "enunciado": "O estudo de \"Reading and argumentation in texts\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender reading for main ideas"
+        ],
+        "respostaCorreta": "compreender reading for main ideas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Even short texts may present a point of view and reasons to support it. Learning to recognize these elements helps students read more critically and respond with more confidence in English",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Even short texts may present a point of view and reasons to support it. Learning to recognize these elements helps students read more critically and respond with more confidence in English",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Ask what the author thinks and which idea supports that position",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Ask what the author thinks and which idea supports that position",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender argumentation in simple texts",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender argumentation in simple texts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Read a short text in English defending an opinion about environmental care at school"
+        ],
+        "respostaCorreta": "Read a short text in English defending an opinion about environmental care at school",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Reading and argumentation in texts\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "This example shows how reading in English can involve interpretation of argument and point of view",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "This example shows how reading in English can involve interpretation of argument and point of view",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-12",
+        "enunciado": "Ao estudar \"Reading and argumentation in texts\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identify the main topic",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identify the main topic",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe the opinion expressed by the author",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe the opinion expressed by the author",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Find one reason that supports the idea"
+        ],
+        "respostaCorreta": "Find one reason that supports the idea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"ing9-reading-argumentation-texts-sim-01","enunciado":"The main purpose of this topic is:","tipo":"multipla_escolha","alternativas":["to improve reading of ideas and arguments in English texts","to study English without reading any text","to separate language from meaning","to avoid critical thinking in reading"],"respostaCorreta":"to improve reading of ideas and arguments in English texts","explicacao":"The content helps students interpret points of view and supporting information in meaningful texts.","dificuldade":"medio"}
+      {
+        "id": "ing9-reading-argumentation-texts-sim-01",
+        "enunciado": "The main purpose of this topic is:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "to improve reading of ideas and arguments in English texts",
+          "to study English without reading any text",
+          "to separate language from meaning",
+          "to avoid critical thinking in reading"
+        ],
+        "respostaCorreta": "to improve reading of ideas and arguments in English texts",
+        "explicacao": "The content helps students interpret points of view and supporting information in meaningful texts.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Reading and argumentation in texts\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic strengthens language comprehension and critical reading",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "This topic strengthens language comprehension and critical reading",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Reading and argumentation in texts\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context"
+        ],
+        "respostaCorreta": "When students read short texts in English, they can identify the subject, the main point and supporting information. This kind of reading helps them understand not only words, but also how meaning is built in context",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pay attention to repeated words, connectors and expressions that introduce opinions",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pay attention to repeated words, connectors and expressions that introduce opinions",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Reading and argumentation in texts\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender reading for main ideas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender reading for main ideas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Even short texts may present a point of view and reasons to support it. Learning to recognize these elements helps students read more critically and respond with more confidence in English",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Even short texts may present a point of view and reasons to support it. Learning to recognize these elements helps students read more critically and respond with more confidence in English",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-reading-argumentation-texts-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ask what the author thinks and which idea supports that position"
+        ],
+        "respostaCorreta": "Ask what the author thinks and which idea supports that position",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reading and argumentation in texts apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

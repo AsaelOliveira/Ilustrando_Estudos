@@ -31,16 +31,397 @@
           "Extraia a raiz quadrada do valor encontrado."
         ],
         "resposta": "A hipotenusa mede 10 unidades."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Teorema de Pitágoras e aplicações\".",
+        "passos": [
+          "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+          "Esse conteúdo permite calcular medidas desconhecidas em diferentes situações geométricas",
+          "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos"
+        ],
+        "resposta": "Esse exemplo mostra como Teorema de Pitágoras e aplicações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Teorema de Pitágoras e aplicações\".",
+        "passos": [
+          "Esse conteúdo permite calcular medidas desconhecidas em diferentes situações geométricas",
+          "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+          "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos"
+        ],
+        "resposta": "Esse exemplo mostra como Teorema de Pitágoras e aplicações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Teorema de Pitágoras e aplicações\".",
+        "passos": [
+          "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+          "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos",
+          "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa"
+        ],
+        "resposta": "Esse exemplo mostra como Teorema de Pitágoras e aplicações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Teorema de Pitágoras e aplicações\".",
+        "passos": [
+          "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos",
+          "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa",
+          "Relação entre catetos e hipotenusa"
+        ],
+        "resposta": "Esse exemplo mostra como Teorema de Pitágoras e aplicações pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-pitagoras-aplicacoes-ex-01","enunciado":"O teorema de Pitágoras se aplica a:","tipo":"multipla_escolha","alternativas":["triângulos retângulos","círculos","trapézios sem ângulo reto","qualquer figura sem medida"],"respostaCorreta":"triângulos retângulos","explicacao":"O teorema é válido especificamente para triângulos que possuem um ângulo de 90 graus.","dificuldade":"facil"},
-      {"id":"mat9-pitagoras-aplicacoes-ex-02","enunciado":"A hipotenusa é:","tipo":"multipla_escolha","alternativas":["o lado oposto ao ângulo reto","qualquer lado menor do triângulo","o lado que sempre mede 1","um ponto do plano cartesiano"],"respostaCorreta":"o lado oposto ao ângulo reto","explicacao":"No triângulo retângulo, a hipotenusa é o maior lado e fica oposta ao ângulo de 90 graus.","dificuldade":"facil"},
-      {"id":"mat9-pitagoras-aplicacoes-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O teorema de Pitágoras ajuda a calcular medidas desconhecidas em triângulos retângulos.","O teorema serve para qualquer figura geométrica sem condição alguma.","A relação de Pitágoras não envolve quadrados das medidas.","O conteúdo não tem aplicação em problemas concretos."],"respostaCorreta":"O teorema de Pitágoras ajuda a calcular medidas desconhecidas em triângulos retângulos.","explicacao":"Esse teorema é um recurso importante para resolver situações geométricas com ângulo reto.","dificuldade":"medio"},
-      {"id":"mat9-pitagoras-aplicacoes-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["aplicar relações geométricas em problemas de medida","ignorar a identificação da hipotenusa","substituir toda geometria por tentativa aleatória","pensar que o teorema não tem ligação com o cotidiano"],"respostaCorreta":"aplicar relações geométricas em problemas de medida","explicacao":"O teorema fortalece a articulação entre fórmula, figura geométrica e situação prática.","dificuldade":"medio"}
+      {
+        "id": "mat9-pitagoras-aplicacoes-ex-01",
+        "enunciado": "O teorema de Pitágoras se aplica a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulos retângulos",
+          "círculos",
+          "trapézios sem ângulo reto",
+          "qualquer figura sem medida"
+        ],
+        "respostaCorreta": "triângulos retângulos",
+        "explicacao": "O teorema é válido especificamente para triângulos que possuem um ângulo de 90 graus.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-ex-02",
+        "enunciado": "A hipotenusa é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o lado oposto ao ângulo reto",
+          "qualquer lado menor do triângulo",
+          "o lado que sempre mede 1",
+          "um ponto do plano cartesiano"
+        ],
+        "respostaCorreta": "o lado oposto ao ângulo reto",
+        "explicacao": "No triângulo retângulo, a hipotenusa é o maior lado e fica oposta ao ângulo de 90 graus.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O teorema de Pitágoras ajuda a calcular medidas desconhecidas em triângulos retângulos.",
+          "O teorema serve para qualquer figura geométrica sem condição alguma.",
+          "A relação de Pitágoras não envolve quadrados das medidas.",
+          "O conteúdo não tem aplicação em problemas concretos."
+        ],
+        "respostaCorreta": "O teorema de Pitágoras ajuda a calcular medidas desconhecidas em triângulos retângulos.",
+        "explicacao": "Esse teorema é um recurso importante para resolver situações geométricas com ângulo reto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aplicar relações geométricas em problemas de medida",
+          "ignorar a identificação da hipotenusa",
+          "substituir toda geometria por tentativa aleatória",
+          "pensar que o teorema não tem ligação com o cotidiano"
+        ],
+        "respostaCorreta": "aplicar relações geométricas em problemas de medida",
+        "explicacao": "O teorema fortalece a articulação entre fórmula, figura geométrica e situação prática.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Teorema de Pitágoras e aplicações\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-02",
+        "enunciado": "Ao estudar \"Teorema de Pitágoras e aplicações\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse conteúdo permite calcular medidas desconhecidas em diferentes situações geométricas"
+        ],
+        "respostaCorreta": "Esse conteúdo permite calcular medidas desconhecidas em diferentes situações geométricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-05",
+        "enunciado": "No contexto de \"Teorema de Pitágoras e aplicações\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-06",
+        "enunciado": "O estudo de \"Teorema de Pitágoras e aplicações\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender relação entre catetos e hipotenusa"
+        ],
+        "respostaCorreta": "compreender relação entre catetos e hipotenusa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "O teorema de Pitágoras pode ser aplicado em problemas de distância, construções, representações geométricas e outras situações que envolvem medidas em ângulo reto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras pode ser aplicado em problemas de distância, construções, representações geométricas e outras situações que envolvem medidas em ângulo reto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe se o problema envolve uma relação de perpendicularidade ou triângulo retângulo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe se o problema envolve uma relação de perpendicularidade ou triângulo retângulo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender uso em situações práticas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender uso em situações práticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um triângulo retângulo com catetos de 6 e 8 unidades"
+        ],
+        "respostaCorreta": "Considere um triângulo retângulo com catetos de 6 e 8 unidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Teorema de Pitágoras e aplicações\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A hipotenusa mede 10 unidades",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "A hipotenusa mede 10 unidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-12",
+        "enunciado": "Ao estudar \"Teorema de Pitágoras e aplicações\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Calcule 6² e 8²",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Calcule 6² e 8²",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Some os resultados",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Some os resultados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Extraia a raiz quadrada do valor encontrado"
+        ],
+        "respostaCorreta": "Extraia a raiz quadrada do valor encontrado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-pitagoras-aplicacoes-sim-01","enunciado":"A principal ideia desse tema é compreender que o teorema de Pitágoras:","tipo":"multipla_escolha","alternativas":["relaciona os lados do triângulo retângulo e permite resolver medidas desconhecidas","se aplica a qualquer figura sem condição específica","dispensa a identificação da hipotenusa","não tem uso em situações práticas"],"respostaCorreta":"relaciona os lados do triângulo retângulo e permite resolver medidas desconhecidas","explicacao":"Esse conteúdo mostra como uma relação geométrica pode ser usada para interpretar e resolver problemas com precisão.","dificuldade":"medio"}
+      {
+        "id": "mat9-pitagoras-aplicacoes-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o teorema de Pitágoras:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relaciona os lados do triângulo retângulo e permite resolver medidas desconhecidas",
+          "se aplica a qualquer figura sem condição específica",
+          "dispensa a identificação da hipotenusa",
+          "não tem uso em situações práticas"
+        ],
+        "respostaCorreta": "relaciona os lados do triângulo retângulo e permite resolver medidas desconhecidas",
+        "explicacao": "Esse conteúdo mostra como uma relação geométrica pode ser usada para interpretar e resolver problemas com precisão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Teorema de Pitágoras e aplicações\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a aplicar relações matemáticas em problemas concretos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Teorema de Pitágoras e aplicações\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos"
+        ],
+        "respostaCorreta": "No triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Essa relação permite descobrir um lado desconhecido quando os outros dois são conhecidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de aplicar o teorema, confirme se o triângulo é retângulo e identifique corretamente a hipotenusa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Teorema de Pitágoras e aplicações\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender relação entre catetos e hipotenusa",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender relação entre catetos e hipotenusa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O teorema de Pitágoras pode ser aplicado em problemas de distância, construções, representações geométricas e outras situações que envolvem medidas em ângulo reto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras pode ser aplicado em problemas de distância, construções, representações geométricas e outras situações que envolvem medidas em ângulo reto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-pitagoras-aplicacoes-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se o problema envolve uma relação de perpendicularidade ou triângulo retângulo"
+        ],
+        "respostaCorreta": "Observe se o problema envolve uma relação de perpendicularidade ou triângulo retângulo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Teorema de Pitágoras e aplicações apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

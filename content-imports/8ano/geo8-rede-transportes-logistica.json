@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-rede-transportes-logistica",
+    "titulo": "Rede de transportes e logística",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Circulação e integração do território",
+    "resumo": [
+      "As redes de transporte conectam lugares, pessoas e mercadorias.",
+      "A logística organiza fluxos e contribui para o funcionamento da economia.",
+      "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Circulação no espaço geográfico",
+        "texto": "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões.",
+        "dica": "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores."
+      },
+      {
+        "subtitulo": "Função da logística",
+        "texto": "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura.",
+        "dica": "Relacione transporte e logística à ideia de integração territorial."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades.",
+        "passos": [
+          "Pense no uso de rodovias, centros de distribuição e pontos de venda.",
+          "Perceba que o percurso depende de planejamento e infraestrutura."
+        ],
+        "resposta": "Esse processo mostra a importância das redes de transporte e da logística na economia."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Rede de transportes e logística\".",
+        "passos": [
+          "As redes de transporte conectam lugares, pessoas e mercadorias",
+          "A logística organiza fluxos e contribui para o funcionamento da economia",
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro"
+        ],
+        "resposta": "Esse exemplo mostra como Rede de transportes e logística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Rede de transportes e logística\".",
+        "passos": [
+          "A logística organiza fluxos e contribui para o funcionamento da economia",
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+          "Circulação no espaço geográfico"
+        ],
+        "resposta": "Esse exemplo mostra como Rede de transportes e logística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Rede de transportes e logística\".",
+        "passos": [
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+          "Circulação no espaço geográfico",
+          "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões"
+        ],
+        "resposta": "Esse exemplo mostra como Rede de transportes e logística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Rede de transportes e logística\".",
+        "passos": [
+          "Circulação no espaço geográfico",
+          "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões",
+          "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores"
+        ],
+        "resposta": "Esse exemplo mostra como Rede de transportes e logística pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-rede-transportes-logistica-ex-01",
+        "enunciado": "As redes de transporte servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conectar lugares e permitir circulação",
+          "eliminar todas as distâncias do mundo",
+          "substituir completamente a produção econômica",
+          "impedir o deslocamento de mercadorias"
+        ],
+        "respostaCorreta": "conectar lugares e permitir circulação",
+        "explicacao": "O transporte articula diferentes áreas do território por meio dos fluxos de pessoas e produtos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-ex-02",
+        "enunciado": "A logística está relacionada à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organização e distribuição de mercadorias",
+          "classificação de espécies vegetais",
+          "divisão silábica das palavras",
+          "formação das nuvens"
+        ],
+        "respostaCorreta": "organização e distribuição de mercadorias",
+        "explicacao": "A logística planeja o fluxo de produtos e recursos em diferentes etapas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem todas as regiões possuem a mesma infraestrutura de transporte.",
+          "Todas as regiões brasileiras têm exatamente a mesma integração logística.",
+          "A rede de transportes não interfere na economia.",
+          "Logística e circulação territorial não têm relação."
+        ],
+        "respostaCorreta": "Nem todas as regiões possuem a mesma infraestrutura de transporte.",
+        "explicacao": "A infraestrutura é desigual e isso afeta a circulação e o desenvolvimento regional.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-ex-04",
+        "enunciado": "Estudar transportes e logística ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a integração e as desigualdades do território",
+          "apenas regras gramaticais",
+          "somente os planetas do sistema solar",
+          "exclusivamente o ciclo da água"
+        ],
+        "respostaCorreta": "a integração e as desigualdades do território",
+        "explicacao": "O tema mostra como infraestrutura e circulação influenciam a organização espacial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As redes de transporte conectam lugares, pessoas e mercadorias",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As redes de transporte conectam lugares, pessoas e mercadorias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A logística organiza fluxos e contribui para o funcionamento da economia"
+        ],
+        "respostaCorreta": "A logística organiza fluxos e contribui para o funcionamento da economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura"
+        ],
+        "respostaCorreta": "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione transporte e logística à ideia de integração territorial",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Relacione transporte e logística à ideia de integração territorial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse processo mostra a importância das redes de transporte e da logística na economia",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse processo mostra a importância das redes de transporte e da logística na economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense no uso de rodovias, centros de distribuição e pontos de venda"
+        ],
+        "respostaCorreta": "Pense no uso de rodovias, centros de distribuição e pontos de venda",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que o percurso depende de planejamento e infraestrutura",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que o percurso depende de planejamento e infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As redes de transporte conectam lugares, pessoas e mercadorias",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As redes de transporte conectam lugares, pessoas e mercadorias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A logística organiza fluxos e contribui para o funcionamento da economia",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A logística organiza fluxos e contribui para o funcionamento da economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro"
+        ],
+        "respostaCorreta": "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-rede-transportes-logistica-sim-01",
+        "enunciado": "Ao analisar redes de transporte, o estudante deve perceber que elas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "articulam fluxos e revelam desigualdades regionais",
+          "existem sem relação com a economia",
+          "funcionam igualmente em todos os lugares",
+          "servem apenas para o turismo"
+        ],
+        "respostaCorreta": "articulam fluxos e revelam desigualdades regionais",
+        "explicacao": "As redes ajudam a integrar o território, mas também evidenciam contrastes de infraestrutura e acesso.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda a entender a integração e as desigualdades do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões"
+        ],
+        "respostaCorreta": "Rodovias, ferrovias, hidrovias, portos e aeroportos fazem parte da rede de transportes. Esses elementos permitem a circulação de pessoas e produtos entre diferentes regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como os meios de transporte ajudam a ligar áreas produtoras, cidades e mercados consumidores",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A logística envolve planejamento, organização e distribuição de mercadorias. Quando esse sistema funciona bem, a circulação tende a ser mais eficiente, mas nem todas as regiões contam com a mesma infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione transporte e logística à ideia de integração territorial",
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Relacione transporte e logística à ideia de integração territorial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-rede-transportes-logistica-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de rede de transportes e logística se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Rede de transportes e logística pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com rede de transportes e logística dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades"
+        ],
+        "respostaCorreta": "Imagine produtos saindo de uma fábrica e sendo distribuídos para várias cidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Rede de transportes e logística, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

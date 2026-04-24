@@ -1,0 +1,427 @@
+[
+  {
+    "id": "geo8-regionalizacao-brasil",
+    "titulo": "Regionalização do Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Brasil e organização do espaço",
+    "resumo": [
+      "Regionalizar é dividir um território em partes com características comuns.",
+      "O Brasil pode ser regionalizado segundo diferentes critérios.",
+      "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Critérios de regionalização",
+        "texto": "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes.",
+        "dica": "Pergunte qual foi o critério usado para formar cada região."
+      },
+      {
+        "subtitulo": "Leitura do território brasileiro",
+        "texto": "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território.",
+        "dica": "Relacione cada divisão regional às características que ela destaca."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um mapa do Brasil dividido em regiões.",
+        "passos": [
+          "Identifique que o território foi organizado em partes.",
+          "Perceba que essa divisão facilita a análise do espaço.",
+          "Relacione cada região a suas características predominantes."
+        ],
+        "resposta": "A regionalização é um recurso para compreender melhor a diversidade do território brasileiro."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Regionalização do Brasil\".",
+        "passos": [
+          "Regionalizar é dividir um território em partes com características comuns",
+          "O Brasil pode ser regionalizado segundo diferentes critérios",
+          "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro"
+        ],
+        "resposta": "Esse exemplo mostra como Regionalização do Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Regionalização do Brasil\".",
+        "passos": [
+          "O Brasil pode ser regionalizado segundo diferentes critérios",
+          "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+          "Critérios de regionalização"
+        ],
+        "resposta": "Esse exemplo mostra como Regionalização do Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Regionalização do Brasil\".",
+        "passos": [
+          "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+          "Critérios de regionalização",
+          "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes"
+        ],
+        "resposta": "Esse exemplo mostra como Regionalização do Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Regionalização do Brasil\".",
+        "passos": [
+          "Critérios de regionalização",
+          "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes",
+          "Pergunte qual foi o critério usado para formar cada região"
+        ],
+        "resposta": "Esse exemplo mostra como Regionalização do Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-regionalizacao-brasil-ex-01",
+        "enunciado": "Regionalizar um território significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dividi-lo em partes com características comuns",
+          "eliminar suas diferenças internas",
+          "transformá-lo em um único espaço sem contrastes",
+          "substituir o mapa por texto"
+        ],
+        "respostaCorreta": "dividi-lo em partes com características comuns",
+        "explicacao": "A regionalização organiza o espaço segundo critérios que facilitam sua análise.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-ex-02",
+        "enunciado": "Uma regionalização pode considerar aspectos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "naturais, sociais e econômicos",
+          "somente musicais",
+          "apenas literários",
+          "exclusivamente esportivos"
+        ],
+        "respostaCorreta": "naturais, sociais e econômicos",
+        "explicacao": "Os critérios de regionalização variam conforme o objetivo do estudo geográfico.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regionalização ajuda a interpretar diferenças e semelhanças do território.",
+          "Regionalizar significa apagar a diversidade do espaço.",
+          "Toda regionalização usa exatamente o mesmo critério.",
+          "As regiões existem sem relação com qualquer análise humana."
+        ],
+        "respostaCorreta": "A regionalização ajuda a interpretar diferenças e semelhanças do território.",
+        "explicacao": "Esse procedimento organiza a leitura do espaço e evidencia características importantes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-ex-04",
+        "enunciado": "No estudo do Brasil, a regionalização é útil porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facilita a compreensão da diversidade territorial",
+          "dispensa o uso de mapas",
+          "elimina as atividades econômicas",
+          "substitui a observação das paisagens"
+        ],
+        "respostaCorreta": "facilita a compreensão da diversidade territorial",
+        "explicacao": "Ela permite analisar contrastes e relações entre diferentes partes do país.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalizar é dividir um território em partes com características comuns",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Regionalizar é dividir um território em partes com características comuns",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O Brasil pode ser regionalizado segundo diferentes critérios"
+        ],
+        "respostaCorreta": "O Brasil pode ser regionalizado segundo diferentes critérios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte qual foi o critério usado para formar cada região",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte qual foi o critério usado para formar cada região",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território"
+        ],
+        "respostaCorreta": "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione cada divisão regional às características que ela destaca",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Relacione cada divisão regional às características que ela destaca",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um mapa do Brasil dividido em regiões",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe um mapa do Brasil dividido em regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regionalização é um recurso para compreender melhor a diversidade do território brasileiro",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A regionalização é um recurso para compreender melhor a diversidade do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique que o território foi organizado em partes"
+        ],
+        "respostaCorreta": "Identifique que o território foi organizado em partes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que essa divisão facilita a análise do espaço",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que essa divisão facilita a análise do espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione cada região a suas características predominantes",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Relacione cada região a suas características predominantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalizar é dividir um território em partes com características comuns",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Regionalizar é dividir um território em partes com características comuns",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O Brasil pode ser regionalizado segundo diferentes critérios"
+        ],
+        "respostaCorreta": "O Brasil pode ser regionalizado segundo diferentes critérios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-regionalizacao-brasil-sim-01",
+        "enunciado": "Ao estudar regionalização, o aluno precisa entender principalmente que as divisões do território:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dependem dos critérios adotados para a análise",
+          "são sempre naturais e imutáveis",
+          "eliminam qualquer diferença espacial",
+          "não têm função no estudo geográfico"
+        ],
+        "respostaCorreta": "dependem dos critérios adotados para a análise",
+        "explicacao": "As regionalizações variam conforme o objetivo e o critério usado para organizar o espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A regionalização ajuda a compreender melhor contrastes e semelhanças do território brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes"
+        ],
+        "respostaCorreta": "Uma regionalização considera aspectos naturais, econômicos, sociais, históricos ou culturais. Dependendo do objetivo do estudo, o território pode ser dividido de modos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte qual foi o critério usado para formar cada região",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte qual foi o critério usado para formar cada região",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "No Brasil, as divisões regionais ajudam a analisar desigualdades, paisagens, atividades econômicas e formas de ocupação do espaço. Elas não servem apenas para memorizar mapas, mas para interpretar o território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione cada divisão regional às características que ela destaca",
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Relacione cada divisão regional às características que ela destaca",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-regionalizacao-brasil-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regionalização do brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regionalização do brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regionalização do brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um mapa do Brasil dividido em regiões"
+        ],
+        "respostaCorreta": "Observe um mapa do Brasil dividido em regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regionalização do Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

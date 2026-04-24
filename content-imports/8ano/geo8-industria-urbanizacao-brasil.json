@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-industria-urbanizacao-brasil",
+    "titulo": "Indústria e urbanização no Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço econômico e urbano",
+    "resumo": [
+      "A industrialização contribuiu para transformar cidades e regiões brasileiras.",
+      "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura.",
+      "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expansão industrial",
+        "texto": "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos.",
+        "dica": "Observe como a localização das atividades industriais afeta outras dinâmicas do território."
+      },
+      {
+        "subtitulo": "Crescimento das cidades",
+        "texto": "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos.",
+        "dica": "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas.",
+        "passos": [
+          "A indústria atrai trabalhadores e investimentos.",
+          "Com isso, a cidade se expande e precisa de mais serviços e infraestrutura."
+        ],
+        "resposta": "Esse é um exemplo de relação entre industrialização e urbanização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Indústria e urbanização no Brasil\".",
+        "passos": [
+          "A industrialização contribuiu para transformar cidades e regiões brasileiras",
+          "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura",
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria e urbanização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Indústria e urbanização no Brasil\".",
+        "passos": [
+          "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura",
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+          "Expansão industrial"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria e urbanização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Indústria e urbanização no Brasil\".",
+        "passos": [
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+          "Expansão industrial",
+          "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria e urbanização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Indústria e urbanização no Brasil\".",
+        "passos": [
+          "Expansão industrial",
+          "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos",
+          "Observe como a localização das atividades industriais afeta outras dinâmicas do território"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria e urbanização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-industria-urbanizacao-brasil-ex-01",
+        "enunciado": "A industrialização pode provocar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescimento de cidades e transformação do espaço",
+          "eliminação do trabalho urbano",
+          "desaparecimento dos serviços",
+          "fim da circulação de pessoas"
+        ],
+        "respostaCorreta": "crescimento de cidades e transformação do espaço",
+        "explicacao": "A expansão industrial influencia a dinâmica econômica e urbana do território.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-ex-02",
+        "enunciado": "A urbanização está relacionada ao aumento da:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "população urbana",
+          "produção agrícola exclusivamente",
+          "temperatura do planeta",
+          "quantidade de oceanos"
+        ],
+        "respostaCorreta": "população urbana",
+        "explicacao": "Urbanização envolve crescimento das cidades e concentração populacional em áreas urbanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrialização e urbanização podem gerar oportunidades e também desafios sociais.",
+          "O crescimento urbano elimina automaticamente as desigualdades.",
+          "A indústria não interfere na organização do território.",
+          "Urbanização significa redução das cidades."
+        ],
+        "respostaCorreta": "Industrialização e urbanização podem gerar oportunidades e também desafios sociais.",
+        "explicacao": "Esses processos trazem transformações econômicas, mas também criam problemas e contrastes no espaço urbano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-ex-04",
+        "enunciado": "Estudar indústria e urbanização ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças na organização econômica e urbana do Brasil",
+          "somente a formação das estrelas",
+          "apenas regras ortográficas",
+          "exclusivamente a classificação dos animais"
+        ],
+        "respostaCorreta": "mudanças na organização econômica e urbana do Brasil",
+        "explicacao": "Esse tema explica transformações importantes no espaço geográfico brasileiro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A industrialização contribuiu para transformar cidades e regiões brasileiras",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A industrialização contribuiu para transformar cidades e regiões brasileiras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura"
+        ],
+        "respostaCorreta": "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a localização das atividades industriais afeta outras dinâmicas do território",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como a localização das atividades industriais afeta outras dinâmicas do território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos"
+        ],
+        "respostaCorreta": "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de relação entre industrialização e urbanização",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de relação entre industrialização e urbanização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A indústria atrai trabalhadores e investimentos"
+        ],
+        "respostaCorreta": "A indústria atrai trabalhadores e investimentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Com isso, a cidade se expande e precisa de mais serviços e infraestrutura",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Com isso, a cidade se expande e precisa de mais serviços e infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A industrialização contribuiu para transformar cidades e regiões brasileiras",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A industrialização contribuiu para transformar cidades e regiões brasileiras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O crescimento urbano está ligado à concentração de trabalho, serviços e infraestrutura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico"
+        ],
+        "respostaCorreta": "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-industria-urbanizacao-brasil-sim-01",
+        "enunciado": "Ao relacionar indústria e urbanização, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a expansão industrial influencia o crescimento e os desafios das cidades",
+          "as cidades crescem sem relação com a economia",
+          "a indústria reduz necessariamente a população urbana",
+          "urbanização e trabalho não têm ligação"
+        ],
+        "respostaCorreta": "a expansão industrial influencia o crescimento e os desafios das cidades",
+        "explicacao": "A atividade industrial altera fluxos populacionais, infraestrutura e organização urbana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Entender essa relação ajuda a explicar desigualdades e mudanças no espaço geográfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos"
+        ],
+        "respostaCorreta": "A indústria alterou a organização do espaço brasileiro ao concentrar produção, empregos e investimentos em determinadas áreas. Isso influenciou fluxos migratórios e o crescimento de centros urbanos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como a localização das atividades industriais afeta outras dinâmicas do território",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como a localização das atividades industriais afeta outras dinâmicas do território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A urbanização está ligada ao aumento da população urbana e à expansão das cidades. Esse processo traz oportunidades, mas também desafios, como desigualdade socioespacial, mobilidade e demanda por serviços públicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida",
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Relacione crescimento urbano a infraestrutura, trabalho e qualidade de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industria-urbanizacao-brasil-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de indústria e urbanização no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Indústria e urbanização no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com indústria e urbanização no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas"
+        ],
+        "respostaCorreta": "Imagine uma cidade que cresce rapidamente por causa da instalação de fábricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Indústria e urbanização no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

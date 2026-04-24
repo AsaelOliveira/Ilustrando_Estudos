@@ -14,7 +14,6 @@ import { supabase } from "@/integrations/supabase/client";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
 import { pickRandomItems } from "@/lib/random";
 import {
-  calculateMissionScore,
   getStreakBonus,
   DEFAULT_MISSION_SCORING,
   loadMissionScoringConfig,
@@ -32,6 +31,21 @@ type LeaderboardEntry = {
   missions_completed: number;
   streak_days: number;
   avatar_url: string | null;
+};
+
+type MissionSubmissionResult = {
+  alreadyRecorded: boolean;
+  message: string;
+  score: number;
+  correctAnswers: number;
+  totalQuestions: number;
+  easyCorrect?: number;
+  mediumCorrect?: number;
+  hardCorrect?: number;
+  basePoints?: number;
+  fairPlayBonus?: number;
+  streakBonus?: number;
+  streakDaysAfter?: number;
 };
 
 type MissionTabProps = {
@@ -60,10 +74,12 @@ type MissionTabProps = {
 };
 
 function getLocalDateStamp(date = new Date()) {
-  const year = date.getFullYear();
-  const month = String(date.getMonth() + 1).padStart(2, "0");
-  const day = String(date.getDate()).padStart(2, "0");
-  return `${year}-${month}-${day}`;
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/Sao_Paulo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
 }
 
 function getPreviousLocalDateStamp() {
@@ -219,116 +235,66 @@ export default function Competicao() {
     clearInterval(timerRef.current);
     setMissionComplete(true);
     setMissionSaving(true);
-
-    const breakdown = calculateMissionScore(
-      missionQuestionsRef.current,
-      answersRef.current,
-      antiCheatFlagsRef.current,
-      scoringConfig,
-      currentStreak,
-    );
-    const earnedPoints = breakdown.totalPoints;
-    const correct = breakdown.correctAnswers;
-
-    setScoreBreakdown(breakdown);
-    setScore(earnedPoints);
+    setScoreBreakdown(null);
+    setScore(0);
     setMissionNotice("");
-
-    if (correct >= 3) setShowConfetti(true);
 
     if (!user) {
       setMissionSaving(false);
       return;
     }
 
-    const today = getLocalDateStamp();
-    setTodayDone(true);
-
-    const { error: attemptError } = await supabase.from("mission_attempts").insert({
-      user_id: user.id,
-      mission_date: today,
-      turma_id: userTurma,
-      score: earnedPoints,
-      total_questions: missionQuestionsRef.current.length,
-      correct_answers: correct,
-      time_spent_seconds: 300 - timeLeftRef.current,
-      anti_cheat_flags: { flags: antiCheatFlagsRef.current },
+    const { data, error } = await supabase.rpc("submit_daily_mission", {
+      p_turma_id: userTurma,
+      p_question_ids: missionQuestionsRef.current.map((question) => question.id),
+      p_answers: answersRef.current.map((answer) => answer ?? ""),
+      p_time_spent_seconds: 300 - timeLeftRef.current,
+      p_anti_cheat_flags: { flags: antiCheatFlagsRef.current },
     });
 
-    if (attemptError) {
-      if (attemptError.code === "23505") {
-        setMissionNotice("Sua missão de hoje já estava registrada. Os pontos não foram somados novamente.");
-        toast({
-          title: "Missão já registrada",
-          description: "Sua pontuação de hoje não foi duplicada.",
-        });
-      } else {
-        setTodayDone(false);
-        setMissionNotice("Não foi possível registrar a missão agora. Tente novamente em instantes.");
-        toast({
-          title: "Erro ao salvar a missão",
-          description: "A tentativa não foi registrada. Tente novamente.",
-          variant: "destructive",
-        });
-      }
-
+    if (error) {
+      setTodayDone(false);
+      setMissionNotice("Não foi possível registrar a missão agora. Tente novamente em instantes.");
+      toast({
+        title: "Erro ao salvar a missão",
+        description: "A tentativa não foi registrada. Tente novamente.",
+        variant: "destructive",
+      });
       setMissionSaving(false);
       fetchRankings();
       return;
     }
 
-    const { data: existing } = await supabase
-      .from("student_scores")
-      .select("points, missions_completed, streak_days, last_mission_date")
-      .eq("user_id", user.id)
-      .maybeSingle();
+    const result = data as MissionSubmissionResult;
 
-    if (existing) {
-      const lastDate = existing.last_mission_date;
-      const isStreak = lastDate === getPreviousLocalDateStamp();
+    setTodayDone(true);
+    setMissionNotice(result.message);
+    setScore(result.score);
+    setCurrentStreak(result.streakDaysAfter ?? currentStreak);
 
-      const { error: updateError } = await supabase.from("student_scores").update({
-        points: existing.points + earnedPoints,
-        missions_completed: existing.missions_completed + 1,
-        streak_days: isStreak ? existing.streak_days + 1 : 1,
-        last_mission_date: today,
-      }).eq("user_id", user.id);
-
-      if (updateError) {
-        setMissionNotice("A tentativa foi salva, mas o ranking não atualizou agora.");
-        toast({
-          title: "Ranking pendente",
-          description: "A missão foi registrada, mas houve erro ao atualizar os pontos.",
-          variant: "destructive",
-        });
-      } else {
-        setMissionNotice("Pontuação registrada com sucesso no ranking.");
-      }
-    } else {
-      const { error: insertScoreError } = await supabase.from("student_scores").insert({
-        user_id: user.id,
-        turma_id: userTurma,
-        points: earnedPoints,
-        missions_completed: 1,
-        streak_days: 1,
-        last_mission_date: today,
+    if (!result.alreadyRecorded) {
+      setScoreBreakdown({
+        correctAnswers: result.correctAnswers,
+        easyCorrect: result.easyCorrect ?? 0,
+        mediumCorrect: result.mediumCorrect ?? 0,
+        hardCorrect: result.hardCorrect ?? 0,
+        basePoints: result.basePoints ?? 0,
+        fairPlayBonus: result.fairPlayBonus ?? 0,
+        streakBonus: result.streakBonus ?? 0,
+        totalPoints: result.score,
       });
-
-      if (insertScoreError) {
-        setMissionNotice("A tentativa foi salva, mas o ranking não atualizou agora.");
-        toast({
-          title: "Ranking pendente",
-          description: "A missão foi registrada, mas houve erro ao criar a pontuação.",
-          variant: "destructive",
-        });
-      } else {
-        setMissionNotice("Pontuação registrada com sucesso no ranking.");
-      }
     }
+
+    if (result.correctAnswers >= 3) setShowConfetti(true);
+
+    toast({
+      title: result.alreadyRecorded ? "Missão já registrada" : "Missão registrada",
+      description: result.message,
+    });
 
     setMissionSaving(false);
     fetchRankings();
-  }, [fetchRankings, scoringConfig, user, userTurma]);
+  }, [currentStreak, fetchRankings, user, userTurma]);
 
   useEffect(() => {
     if (!missionActive || missionComplete) return;
@@ -440,7 +406,7 @@ export default function Competicao() {
             )}
             {tab === "turma" && (
               <RankingTab
-                title={`Top 5 ? ${turmas.find(t => t.id === userTurma)?.nome || userTurma}`}
+                title={`Top 5 • ${turmas.find(t => t.id === userTurma)?.nome || userTurma}`}
                 entries={turmaRanking}
                 loading={loading}
                 currentUserId={user?.id}
@@ -522,7 +488,6 @@ export default function Competicao() {
     </Layout>
   );
 }
-
 // ============ Mission Tab ============
 function MissaoTab({
   user, todayDone, missionActive, missionComplete, missionQuestions, currentQ, answers,
@@ -977,13 +942,13 @@ function MissaoTabAtualizada({
 
       <div className="mb-6 flex flex-wrap items-center justify-center gap-3 text-sm">
         <div className="flex items-center gap-1.5 font-body text-primary">
-          <Zap className="h-4 w-4" /> F?cil +{scoringConfig.easyPoints}
+          <Zap className="h-4 w-4" /> Fácil +{scoringConfig.easyPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-accent">
           <Target className="h-4 w-4" /> Médio +{scoringConfig.mediumPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-destructive">
-          <AlertTriangle className="h-4 w-4" /> Dif?cil +{scoringConfig.hardPoints}
+          <AlertTriangle className="h-4 w-4" /> Difícil +{scoringConfig.hardPoints}
         </div>
         <div className="flex items-center gap-1.5 font-body text-success">
           <Star className="h-4 w-4" /> Fair play +{scoringConfig.fairPlayBonus}
@@ -1041,6 +1006,16 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
   maxEntries: number;
   showTurma?: boolean;
 }) {
+  const getDisplayName = (fullName: string) => {
+    const ignoredParts = new Set(["da", "de", "do", "das", "dos", "e"]);
+    const parts = fullName
+      .trim()
+      .split(/\s+/)
+      .filter((part) => !ignoredParts.has(part.toLowerCase()));
+
+    return parts.slice(0, 2).join(" ");
+  };
+
   const getMedalEmoji = (pos: number) => {
     if (pos === 0) return "🥇";
     if (pos === 1) return "🥈";
@@ -1106,7 +1081,7 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
                   <span className={`font-heading font-semibold text-sm truncate ${isMe ? "text-primary" : "text-foreground"}`}>
-                    {entry.nome}
+                    {getDisplayName(entry.nome)}
                     {isMe && <span className="text-xs ml-1">(você)</span>}
                   </span>
                 </div>

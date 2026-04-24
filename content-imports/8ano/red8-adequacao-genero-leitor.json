@@ -1,0 +1,426 @@
+[
+  {
+    "id": "red8-adequacao-genero-leitor",
+    "titulo": "Adequação ao gênero e ao leitor",
+    "disciplinaId": "red8",
+    "turmaId": "8ano",
+    "unidade": "Produção textual",
+    "resumo": [
+      "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige.",
+      "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias.",
+      "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Escrever para uma situação específica",
+        "texto": "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto.",
+        "dica": "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?"
+      },
+      {
+        "subtitulo": "Linguagem e organização",
+        "texto": "A adequação textual envolve escolher palavras, exemplos, estrutura e tom compatíveis com a proposta. Um texto bem adequado facilita a comunicação e atende melhor às expectativas do leitor.",
+        "dica": "Observe se o modo de escrever combina com o gênero e com o interlocutor imaginado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Compare uma carta de opinião e um aviso escolar.",
+        "passos": [
+          "Observe que cada texto tem objetivo e organização próprios.",
+          "Perceba que a linguagem também muda conforme o gênero e o leitor."
+        ],
+        "resposta": "Esse contraste mostra a importância da adequação na produção textual."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Adequação ao gênero e ao leitor\".",
+        "passos": [
+          "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige",
+          "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias",
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação ao gênero e ao leitor pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Adequação ao gênero e ao leitor\".",
+        "passos": [
+          "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias",
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+          "Escrever para uma situação específica"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação ao gênero e ao leitor pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Adequação ao gênero e ao leitor\".",
+        "passos": [
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+          "Escrever para uma situação específica",
+          "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação ao gênero e ao leitor pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Adequação ao gênero e ao leitor\".",
+        "passos": [
+          "Escrever para uma situação específica",
+          "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto",
+          "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação ao gênero e ao leitor pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red8-adequacao-genero-leitor-ex-01",
+        "enunciado": "Adequar um texto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar gênero, objetivo e leitor",
+          "escrever sempre do mesmo jeito",
+          "ignorar a proposta apresentada",
+          "usar qualquer linguagem sem critério"
+        ],
+        "respostaCorreta": "considerar gênero, objetivo e leitor",
+        "explicacao": "A adequação textual depende do contexto de produção e do público a que o texto se dirige.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-ex-02",
+        "enunciado": "O leitor previsto interfere em aspectos como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "linguagem e organização do texto",
+          "apenas a cor do papel",
+          "somente a quantidade de letras",
+          "exclusivamente a assinatura final"
+        ],
+        "respostaCorreta": "linguagem e organização do texto",
+        "explicacao": "A forma de escrever muda conforme o gênero, o objetivo e o interlocutor do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um texto adequado atende melhor à proposta e facilita a comunicação.",
+          "Todo gênero textual usa a mesma linguagem.",
+          "Pensar no leitor não interfere na escrita.",
+          "A adequação não tem relação com o objetivo do texto."
+        ],
+        "respostaCorreta": "Um texto adequado atende melhor à proposta e facilita a comunicação.",
+        "explicacao": "A adequação fortalece clareza, coerência e pertinência na produção textual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever de forma mais consciente e apropriada ao contexto",
+          "usar sempre o mesmo modelo de texto",
+          "ignorar o destinatário da mensagem",
+          "separar totalmente linguagem e situação de comunicação"
+        ],
+        "respostaCorreta": "escrever de forma mais consciente e apropriada ao contexto",
+        "explicacao": "O conteúdo amplia a percepção de que cada texto responde a um gênero, a um objetivo e a um leitor. ",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias"
+        ],
+        "respostaCorreta": "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A adequação textual envolve escolher palavras, exemplos, estrutura e tom compatíveis com a proposta. Um texto bem adequado facilita a comunicação e atende melhor às expectativas do leitor"
+        ],
+        "respostaCorreta": "A adequação textual envolve escolher palavras, exemplos, estrutura e tom compatíveis com a proposta. Um texto bem adequado facilita a comunicação e atende melhor às expectativas do leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se o modo de escrever combina com o gênero e com o interlocutor imaginado",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se o modo de escrever combina com o gênero e com o interlocutor imaginado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare uma carta de opinião e um aviso escolar",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Compare uma carta de opinião e um aviso escolar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse contraste mostra a importância da adequação na produção textual",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse contraste mostra a importância da adequação na produção textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que cada texto tem objetivo e organização próprios"
+        ],
+        "respostaCorreta": "Observe que cada texto tem objetivo e organização próprios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a linguagem também muda conforme o gênero e o leitor",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a linguagem também muda conforme o gênero e o leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Todo texto precisa considerar o gênero proposto e o leitor a quem se dirige",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A adequação interfere na linguagem, na organização e no modo de apresentar as ideias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red8-adequacao-genero-leitor-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que um bom texto:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considera a proposta, o gênero e o leitor a quem se dirige",
+          "deve ser escrito sempre da mesma forma",
+          "não precisa observar o contexto de comunicação",
+          "dispensa qualquer adaptação de linguagem"
+        ],
+        "respostaCorreta": "considera a proposta, o gênero e o leitor a quem se dirige",
+        "explicacao": "A adequação textual é essencial para a escrita cumprir sua função comunicativa com clareza e pertinência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a escrever de forma mais consciente e eficaz",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto"
+        ],
+        "respostaCorreta": "Um texto escolar não é produzido no vazio. Ele responde a uma proposta, a um gênero e a um possível leitor. Por isso, a escrita precisa considerar objetivo, linguagem e forma adequados ao contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de escrever, pergunte: para quem é esse texto e com qual finalidade ele será lido?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A adequação textual envolve escolher palavras, exemplos, estrutura e tom compatíveis com a proposta. Um texto bem adequado facilita a comunicação e atende melhor às expectativas do leitor",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A adequação textual envolve escolher palavras, exemplos, estrutura e tom compatíveis com a proposta. Um texto bem adequado facilita a comunicação e atende melhor às expectativas do leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o modo de escrever combina com o gênero e com o interlocutor imaginado",
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se o modo de escrever combina com o gênero e com o interlocutor imaginado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-adequacao-genero-leitor-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de adequação ao gênero e ao leitor se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Adequação ao gênero e ao leitor pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com adequação ao gênero e ao leitor dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare uma carta de opinião e um aviso escolar"
+        ],
+        "respostaCorreta": "Compare uma carta de opinião e um aviso escolar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Adequação ao gênero e ao leitor, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

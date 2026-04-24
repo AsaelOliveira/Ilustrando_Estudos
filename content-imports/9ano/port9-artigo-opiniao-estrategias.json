@@ -30,16 +30,397 @@
           "Observe os argumentos e exemplos usados para sustentá-la."
         ],
         "resposta": "Esse é um exemplo de texto opinativo organizado com estratégias argumentativas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Artigo de opinião e estratégias argumentativas\".",
+        "passos": [
+          "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social",
+          "As estratégias argumentativas fortalecem a defesa do ponto de vista do autor",
+          "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão"
+        ],
+        "resposta": "Esse exemplo mostra como Artigo de opinião e estratégias argumentativas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Artigo de opinião e estratégias argumentativas\".",
+        "passos": [
+          "As estratégias argumentativas fortalecem a defesa do ponto de vista do autor",
+          "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+          "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias"
+        ],
+        "resposta": "Esse exemplo mostra como Artigo de opinião e estratégias argumentativas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Artigo de opinião e estratégias argumentativas\".",
+        "passos": [
+          "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+          "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias",
+          "Observe qual posição o autor assume e para quem o texto parece ser dirigido"
+        ],
+        "resposta": "Esse exemplo mostra como Artigo de opinião e estratégias argumentativas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Artigo de opinião e estratégias argumentativas\".",
+        "passos": [
+          "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias",
+          "Observe qual posição o autor assume e para quem o texto parece ser dirigido",
+          "Posicionamento e propósito"
+        ],
+        "resposta": "Esse exemplo mostra como Artigo de opinião e estratégias argumentativas pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-artigo-opiniao-estrategias-ex-01","enunciado":"O artigo de opinião se caracteriza por:","tipo":"multipla_escolha","alternativas":["defender um ponto de vista sobre um tema","narrar apenas fatos ficcionais","apresentar somente regras gramaticais","listar informações sem organização"],"respostaCorreta":"defender um ponto de vista sobre um tema","explicacao":"Esse gênero se organiza em torno de uma opinião sustentada por argumentos.","dificuldade":"facil"},
-      {"id":"port9-artigo-opiniao-estrategias-ex-02","enunciado":"Uma estratégia argumentativa pode ser:","tipo":"multipla_escolha","alternativas":["uso de exemplos e dados","eliminação do tema central","ausência de justificativas","troca constante de assunto"],"respostaCorreta":"uso de exemplos e dados","explicacao":"Exemplos e dados podem fortalecer a defesa da tese em um texto opinativo.","dificuldade":"facil"},
-      {"id":"port9-artigo-opiniao-estrategias-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um artigo de opinião exige posicionamento claro e argumentos coerentes.","Esse gênero dispensa justificativas e desenvolvimento.","Argumentar é apenas repetir a mesma ideia sem exemplos.","A opinião do autor não interfere no texto."],"respostaCorreta":"Um artigo de opinião exige posicionamento claro e argumentos coerentes.","explicacao":"A força do gênero depende da relação entre tese, argumentos e organização do texto.","dificuldade":"medio"},
-      {"id":"port9-artigo-opiniao-estrategias-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["produzir e interpretar textos opinativos com mais criticidade","eliminar a necessidade de argumentar","substituir a leitura por frases isoladas","dispensar a organização do texto"],"respostaCorreta":"produzir e interpretar textos opinativos com mais criticidade","explicacao":"O conteúdo fortalece leitura crítica, posicionamento e construção textual mais consistente.","dificuldade":"medio"}
+      {
+        "id": "port9-artigo-opiniao-estrategias-ex-01",
+        "enunciado": "O artigo de opinião se caracteriza por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender um ponto de vista sobre um tema",
+          "narrar apenas fatos ficcionais",
+          "apresentar somente regras gramaticais",
+          "listar informações sem organização"
+        ],
+        "respostaCorreta": "defender um ponto de vista sobre um tema",
+        "explicacao": "Esse gênero se organiza em torno de uma opinião sustentada por argumentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-ex-02",
+        "enunciado": "Uma estratégia argumentativa pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uso de exemplos e dados",
+          "eliminação do tema central",
+          "ausência de justificativas",
+          "troca constante de assunto"
+        ],
+        "respostaCorreta": "uso de exemplos e dados",
+        "explicacao": "Exemplos e dados podem fortalecer a defesa da tese em um texto opinativo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um artigo de opinião exige posicionamento claro e argumentos coerentes.",
+          "Esse gênero dispensa justificativas e desenvolvimento.",
+          "Argumentar é apenas repetir a mesma ideia sem exemplos.",
+          "A opinião do autor não interfere no texto."
+        ],
+        "respostaCorreta": "Um artigo de opinião exige posicionamento claro e argumentos coerentes.",
+        "explicacao": "A força do gênero depende da relação entre tese, argumentos e organização do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir e interpretar textos opinativos com mais criticidade",
+          "eliminar a necessidade de argumentar",
+          "substituir a leitura por frases isoladas",
+          "dispensar a organização do texto"
+        ],
+        "respostaCorreta": "produzir e interpretar textos opinativos com mais criticidade",
+        "explicacao": "O conteúdo fortalece leitura crítica, posicionamento e construção textual mais consistente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Artigo de opinião e estratégias argumentativas\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-02",
+        "enunciado": "Ao estudar \"Artigo de opinião e estratégias argumentativas\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "As estratégias argumentativas fortalecem a defesa do ponto de vista do autor"
+        ],
+        "respostaCorreta": "As estratégias argumentativas fortalecem a defesa do ponto de vista do autor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-05",
+        "enunciado": "No contexto de \"Artigo de opinião e estratégias argumentativas\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe qual posição o autor assume e para quem o texto parece ser dirigido",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe qual posição o autor assume e para quem o texto parece ser dirigido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-06",
+        "enunciado": "O estudo de \"Artigo de opinião e estratégias argumentativas\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender posicionamento e propósito"
+        ],
+        "respostaCorreta": "compreender posicionamento e propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Para sustentar o ponto de vista, o autor pode usar exemplos, comparações, dados, perguntas, explicações e refutações. Essas estratégias dão força à argumentação e tornam o texto mais convincente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Para sustentar o ponto de vista, o autor pode usar exemplos, comparações, dados, perguntas, explicações e refutações. Essas estratégias dão força à argumentação e tornam o texto mais convincente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como cada argumento contribui para defender a opinião apresentada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como cada argumento contribui para defender a opinião apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender estratégias argumentativas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender estratégias argumentativas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia um artigo que defende a ampliação de espaços culturais para os jovens"
+        ],
+        "respostaCorreta": "Leia um artigo que defende a ampliação de espaços culturais para os jovens",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Artigo de opinião e estratégias argumentativas\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse é um exemplo de texto opinativo organizado com estratégias argumentativas",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse é um exemplo de texto opinativo organizado com estratégias argumentativas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-12",
+        "enunciado": "Ao estudar \"Artigo de opinião e estratégias argumentativas\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique a opinião principal do autor",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique a opinião principal do autor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os argumentos e exemplos usados para sustentá-la",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os argumentos e exemplos usados para sustentá-la",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social"
+        ],
+        "respostaCorreta": "O artigo de opinião apresenta um posicionamento sobre tema relevante da vida social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-artigo-opiniao-estrategias-sim-01","enunciado":"A principal ideia desse tema é compreender que o artigo de opinião:","tipo":"multipla_escolha","alternativas":["se apoia em estratégias para defender um ponto de vista","não apresenta tese nem argumentação","serve apenas para relatar fatos sem análise","não considera o leitor em sua construção"],"respostaCorreta":"se apoia em estratégias para defender um ponto de vista","explicacao":"O artigo de opinião organiza argumentos para sustentar uma posição diante de um tema relevante.","dificuldade":"medio"}
+      {
+        "id": "port9-artigo-opiniao-estrategias-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o artigo de opinião:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se apoia em estratégias para defender um ponto de vista",
+          "não apresenta tese nem argumentação",
+          "serve apenas para relatar fatos sem análise",
+          "não considera o leitor em sua construção"
+        ],
+        "respostaCorreta": "se apoia em estratégias para defender um ponto de vista",
+        "explicacao": "O artigo de opinião organiza argumentos para sustentar uma posição diante de um tema relevante.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Artigo de opinião e estratégias argumentativas\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a escrever e interpretar textos opinativos com mais precisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Artigo de opinião e estratégias argumentativas\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias"
+        ],
+        "respostaCorreta": "No artigo de opinião, o autor defende uma tese sobre determinado assunto e organiza o texto para convencer o leitor. Esse gênero exige clareza no posicionamento e coerência no desenvolvimento das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe qual posição o autor assume e para quem o texto parece ser dirigido",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe qual posição o autor assume e para quem o texto parece ser dirigido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Artigo de opinião e estratégias argumentativas\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender posicionamento e propósito",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender posicionamento e propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Para sustentar o ponto de vista, o autor pode usar exemplos, comparações, dados, perguntas, explicações e refutações. Essas estratégias dão força à argumentação e tornam o texto mais convincente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Para sustentar o ponto de vista, o autor pode usar exemplos, comparações, dados, perguntas, explicações e refutações. Essas estratégias dão força à argumentação e tornam o texto mais convincente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-artigo-opiniao-estrategias-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como cada argumento contribui para defender a opinião apresentada"
+        ],
+        "respostaCorreta": "Pergunte como cada argumento contribui para defender a opinião apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Artigo de opinião e estratégias argumentativas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

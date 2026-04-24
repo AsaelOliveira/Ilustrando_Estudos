@@ -1,0 +1,427 @@
+[
+  {
+    "id": "mat8-teorema-pitagoras-intro",
+    "titulo": "Introdução ao teorema de Pitágoras",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "O teorema de Pitágoras relaciona os lados de um triângulo retângulo.",
+      "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa.",
+      "Esse teorema é útil para calcular medidas desconhecidas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Triângulo retângulo",
+        "texto": "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos.",
+        "dica": "Antes de aplicar a fórmula, confirme se o triângulo é retângulo."
+      },
+      {
+        "subtitulo": "Relação entre os lados",
+        "texto": "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas.",
+        "dica": "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um triângulo retângulo com catetos 3 e 4.",
+        "passos": [
+          "Calcule 3² e 4².",
+          "Some 9 + 16 e obtenha 25.",
+          "Encontre a raiz quadrada de 25."
+        ],
+        "resposta": "A hipotenusa mede 5 unidades."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução ao teorema de Pitágoras\".",
+        "passos": [
+          "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+          "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa",
+          "Esse teorema é útil para calcular medidas desconhecidas"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao teorema de Pitágoras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução ao teorema de Pitágoras\".",
+        "passos": [
+          "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa",
+          "Esse teorema é útil para calcular medidas desconhecidas",
+          "Triângulo retângulo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao teorema de Pitágoras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução ao teorema de Pitágoras\".",
+        "passos": [
+          "Esse teorema é útil para calcular medidas desconhecidas",
+          "Triângulo retângulo",
+          "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao teorema de Pitágoras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução ao teorema de Pitágoras\".",
+        "passos": [
+          "Triângulo retângulo",
+          "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos",
+          "Antes de aplicar a fórmula, confirme se o triângulo é retângulo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao teorema de Pitágoras pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-teorema-pitagoras-intro-ex-01",
+        "enunciado": "O teorema de Pitágoras se aplica a qual figura?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulo retângulo",
+          "círculo",
+          "losango",
+          "trapézio"
+        ],
+        "respostaCorreta": "triângulo retângulo",
+        "explicacao": "Esse teorema vale especificamente para triângulos que possuem ângulo reto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-ex-02",
+        "enunciado": "No triângulo retângulo, o maior lado recebe o nome de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hipotenusa",
+          "cateto menor",
+          "altura lateral",
+          "base auxiliar"
+        ],
+        "respostaCorreta": "hipotenusa",
+        "explicacao": "A hipotenusa é o lado oposto ao ângulo reto e também o maior lado do triângulo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-ex-03",
+        "enunciado": "Qual expressão representa corretamente o teorema de Pitágoras?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a² + b² = c²",
+          "a + b = c",
+          "a² - b² = c",
+          "2a + 2b = c²"
+        ],
+        "respostaCorreta": "a² + b² = c²",
+        "explicacao": "Essa é a relação fundamental entre catetos e hipotenusa no triângulo retângulo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-ex-04",
+        "enunciado": "Ao usar o teorema de Pitágoras, um cuidado essencial é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "identificar corretamente a hipotenusa",
+          "eliminar o ângulo reto",
+          "ignorar as medidas conhecidas",
+          "substituir o triângulo por um círculo"
+        ],
+        "respostaCorreta": "identificar corretamente a hipotenusa",
+        "explicacao": "Sem distinguir a hipotenusa dos catetos, a aplicação da relação pode ficar incorreta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa"
+        ],
+        "respostaCorreta": "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse teorema é útil para calcular medidas desconhecidas",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse teorema é útil para calcular medidas desconhecidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de aplicar a fórmula, confirme se o triângulo é retângulo",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de aplicar a fórmula, confirme se o triângulo é retângulo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas"
+        ],
+        "respostaCorreta": "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um triângulo retângulo com catetos 3 e 4",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere um triângulo retângulo com catetos 3 e 4",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A hipotenusa mede 5 unidades",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A hipotenusa mede 5 unidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Encontre a raiz quadrada de 25"
+        ],
+        "respostaCorreta": "Encontre a raiz quadrada de 25",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras relaciona os lados de um triângulo retângulo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse teorema é útil para calcular medidas desconhecidas",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse teorema é útil para calcular medidas desconhecidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-teorema-pitagoras-intro-sim-01",
+        "enunciado": "O objetivo principal do teorema de Pitágoras é permitir o cálculo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma medida desconhecida em triângulo retângulo",
+          "qualquer área de círculo",
+          "o número de lados de um polígono",
+          "a soma dos ângulos internos de qualquer figura"
+        ],
+        "respostaCorreta": "uma medida desconhecida em triângulo retângulo",
+        "explicacao": "A relação entre catetos e hipotenusa ajuda a encontrar comprimentos nesse tipo de triângulo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse teorema é útil para calcular medidas desconhecidas",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse teorema é útil para calcular medidas desconhecidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos"
+        ],
+        "respostaCorreta": "O teorema de Pitágoras só se aplica ao triângulo retângulo, que possui um ângulo de 90 graus. Nesse triângulo, o maior lado é a hipotenusa, e os outros dois são os catetos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de aplicar a fórmula, confirme se o triângulo é retângulo",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de aplicar a fórmula, confirme se o triângulo é retângulo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Se chamarmos os catetos de a e b, e a hipotenusa de c, então vale a relação a² + b² = c². Essa expressão permite descobrir uma medida quando as outras duas são conhecidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto",
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Identifique corretamente a hipotenusa, pois ela sempre fica oposta ao ângulo reto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-teorema-pitagoras-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao teorema de pitágoras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao teorema de pitágoras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao teorema de pitágoras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um triângulo retângulo com catetos 3 e 4"
+        ],
+        "respostaCorreta": "Considere um triângulo retângulo com catetos 3 e 4",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao teorema de Pitágoras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

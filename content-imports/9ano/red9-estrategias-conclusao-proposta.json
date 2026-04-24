@@ -31,16 +31,397 @@
           "Avalie se o encerramento fortalece o texto como um todo."
         ],
         "resposta": "Esse exemplo mostra que a conclusão é decisiva para o efeito final de uma boa redação."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Estratégias de conclusão e proposta\".",
+        "passos": [
+          "A conclusão retoma a tese e encerra o texto com coerência",
+          "Em alguns textos argumentativos, também pode aparecer proposta ou encaminhamento de solução",
+          "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito"
+        ],
+        "resposta": "Esse exemplo mostra como Estratégias de conclusão e proposta pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Estratégias de conclusão e proposta\".",
+        "passos": [
+          "Em alguns textos argumentativos, também pode aparecer proposta ou encaminhamento de solução",
+          "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+          "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada"
+        ],
+        "resposta": "Esse exemplo mostra como Estratégias de conclusão e proposta pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Estratégias de conclusão e proposta\".",
+        "passos": [
+          "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+          "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada",
+          "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto"
+        ],
+        "resposta": "Esse exemplo mostra como Estratégias de conclusão e proposta pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Estratégias de conclusão e proposta\".",
+        "passos": [
+          "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada",
+          "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto",
+          "Função da conclusão"
+        ],
+        "resposta": "Esse exemplo mostra como Estratégias de conclusão e proposta pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"red9-estrategias-conclusao-proposta-ex-01","enunciado":"A conclusão de um texto argumentativo deve:","tipo":"multipla_escolha","alternativas":["retomar a tese e encerrar o raciocínio com coerência","apresentar ideias sem relação com o texto","contradizer totalmente os argumentos anteriores","repetir o desenvolvimento sem organização"],"respostaCorreta":"retomar a tese e encerrar o raciocínio com coerência","explicacao":"A conclusão sintetiza o texto e finaliza a argumentação de modo articulado.","dificuldade":"facil"},
-      {"id":"red9-estrategias-conclusao-proposta-ex-02","enunciado":"Uma proposta de intervenção ou encaminhamento precisa:","tipo":"multipla_escolha","alternativas":["ter relação com o tema e com os argumentos apresentados","surgir de forma aleatória no final do texto","dispensar ligação com a discussão feita","substituir toda a argumentação anterior"],"respostaCorreta":"ter relação com o tema e com os argumentos apresentados","explicacao":"A proposta deve ser coerente com a tese e com o desenvolvimento do texto.","dificuldade":"facil"},
-      {"id":"red9-estrategias-conclusao-proposta-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Uma boa conclusão fortalece o sentido global da redação.","A conclusão não interfere na qualidade final do texto.","Toda proposta pode ser vaga e desconectada do tema.","Encerrar um texto não exige clareza nem objetivo."],"respostaCorreta":"Uma boa conclusão fortalece o sentido global da redação.","explicacao":"O fechamento do texto influencia a consistência e o efeito argumentativo da redação.","dificuldade":"medio"},
-      {"id":"red9-estrategias-conclusao-proposta-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["finalizar a redação com mais clareza e propósito","encerrar o texto de forma improvisada","separar conclusão e argumentos construídos","considerar desnecessário revisar o encerramento"],"respostaCorreta":"finalizar a redação com mais clareza e propósito","explicacao":"O tema aprimora a conclusão e a articulação final do texto argumentativo.","dificuldade":"medio"}
+      {
+        "id": "red9-estrategias-conclusao-proposta-ex-01",
+        "enunciado": "A conclusão de um texto argumentativo deve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "retomar a tese e encerrar o raciocínio com coerência",
+          "apresentar ideias sem relação com o texto",
+          "contradizer totalmente os argumentos anteriores",
+          "repetir o desenvolvimento sem organização"
+        ],
+        "respostaCorreta": "retomar a tese e encerrar o raciocínio com coerência",
+        "explicacao": "A conclusão sintetiza o texto e finaliza a argumentação de modo articulado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-ex-02",
+        "enunciado": "Uma proposta de intervenção ou encaminhamento precisa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ter relação com o tema e com os argumentos apresentados",
+          "surgir de forma aleatória no final do texto",
+          "dispensar ligação com a discussão feita",
+          "substituir toda a argumentação anterior"
+        ],
+        "respostaCorreta": "ter relação com o tema e com os argumentos apresentados",
+        "explicacao": "A proposta deve ser coerente com a tese e com o desenvolvimento do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma boa conclusão fortalece o sentido global da redação.",
+          "A conclusão não interfere na qualidade final do texto.",
+          "Toda proposta pode ser vaga e desconectada do tema.",
+          "Encerrar um texto não exige clareza nem objetivo."
+        ],
+        "respostaCorreta": "Uma boa conclusão fortalece o sentido global da redação.",
+        "explicacao": "O fechamento do texto influencia a consistência e o efeito argumentativo da redação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "finalizar a redação com mais clareza e propósito",
+          "encerrar o texto de forma improvisada",
+          "separar conclusão e argumentos construídos",
+          "considerar desnecessário revisar o encerramento"
+        ],
+        "respostaCorreta": "finalizar a redação com mais clareza e propósito",
+        "explicacao": "O tema aprimora a conclusão e a articulação final do texto argumentativo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Estratégias de conclusão e proposta\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A conclusão retoma a tese e encerra o texto com coerência",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A conclusão retoma a tese e encerra o texto com coerência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-02",
+        "enunciado": "Ao estudar \"Estratégias de conclusão e proposta\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Em alguns textos argumentativos, também pode aparecer proposta ou encaminhamento de solução"
+        ],
+        "respostaCorreta": "Em alguns textos argumentativos, também pode aparecer proposta ou encaminhamento de solução",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-05",
+        "enunciado": "No contexto de \"Estratégias de conclusão e proposta\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-06",
+        "enunciado": "O estudo de \"Estratégias de conclusão e proposta\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender função da conclusão"
+        ],
+        "respostaCorreta": "compreender função da conclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Em algumas produções argumentativas, a conclusão pode incluir sugestões, soluções ou encaminhamentos relacionados ao problema discutido. Para isso, a proposta deve dialogar com os argumentos apresentados e com o tema do texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Em algumas produções argumentativas, a conclusão pode incluir sugestões, soluções ou encaminhamentos relacionados ao problema discutido. Para isso, a proposta deve dialogar com os argumentos apresentados e com o tema do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Evite propostas genéricas; procure relacioná-las à discussão construída ao longo da redação",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Evite propostas genéricas; procure relacioná-las à discussão construída ao longo da redação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender proposta e encaminhamento",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender proposta e encaminhamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma redação em que a conclusão retoma a tese e apresenta um encaminhamento coerente com os argumentos anteriores"
+        ],
+        "respostaCorreta": "Analise uma redação em que a conclusão retoma a tese e apresenta um encaminhamento coerente com os argumentos anteriores",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Estratégias de conclusão e proposta\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que a conclusão é decisiva para o efeito final de uma boa redação",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que a conclusão é decisiva para o efeito final de uma boa redação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-12",
+        "enunciado": "Ao estudar \"Estratégias de conclusão e proposta\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe como a tese é retomada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe como a tese é retomada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba se a proposta dialoga com o problema debatido",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba se a proposta dialoga com o problema debatido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Avalie se o encerramento fortalece o texto como um todo"
+        ],
+        "respostaCorreta": "Avalie se o encerramento fortalece o texto como um todo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"red9-estrategias-conclusao-proposta-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["uma boa conclusão retoma a tese e encerra o texto de forma coerente","o final da redação não precisa de relação com o restante do texto","qualquer proposta serve, mesmo sem ligação com o tema","encerrar o texto não exige planejamento"],"respostaCorreta":"uma boa conclusão retoma a tese e encerra o texto de forma coerente","explicacao":"O conteúdo mostra como a conclusão e a proposta final influenciam a qualidade da redação.","dificuldade":"medio"}
+      {
+        "id": "red9-estrategias-conclusao-proposta-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma boa conclusão retoma a tese e encerra o texto de forma coerente",
+          "o final da redação não precisa de relação com o restante do texto",
+          "qualquer proposta serve, mesmo sem ligação com o tema",
+          "encerrar o texto não exige planejamento"
+        ],
+        "respostaCorreta": "uma boa conclusão retoma a tese e encerra o texto de forma coerente",
+        "explicacao": "O conteúdo mostra como a conclusão e a proposta final influenciam a qualidade da redação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Estratégias de conclusão e proposta\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a finalizar a redação com mais consistência e propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Estratégias de conclusão e proposta\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada"
+        ],
+        "respostaCorreta": "A conclusão não deve apenas repetir o que já foi dito. Ela precisa sintetizar o percurso argumentativo, retomar o ponto de vista principal e encerrar o texto de forma clara e articulada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Retome a tese com outras palavras e mostre o resultado do raciocínio desenvolvido no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Estratégias de conclusão e proposta\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender função da conclusão",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender função da conclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Em algumas produções argumentativas, a conclusão pode incluir sugestões, soluções ou encaminhamentos relacionados ao problema discutido. Para isso, a proposta deve dialogar com os argumentos apresentados e com o tema do texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Em algumas produções argumentativas, a conclusão pode incluir sugestões, soluções ou encaminhamentos relacionados ao problema discutido. Para isso, a proposta deve dialogar com os argumentos apresentados e com o tema do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-estrategias-conclusao-proposta-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Evite propostas genéricas; procure relacioná-las à discussão construída ao longo da redação"
+        ],
+        "respostaCorreta": "Evite propostas genéricas; procure relacioná-las à discussão construída ao longo da redação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estratégias de conclusão e proposta apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

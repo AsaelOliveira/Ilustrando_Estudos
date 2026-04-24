@@ -1,0 +1,426 @@
+[
+  {
+    "id": "hist8-revolucao-francesa",
+    "titulo": "Revolu��o Francesa",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Transforma��es pol�ticas",
+    "resumo": [
+      "A Revolu��o Francesa provocou grandes mudan�as pol�ticas e sociais.",
+      "Ela se relacionou � cr�tica aos privil�gios e ao absolutismo.",
+      "Esse tema ajuda a compreender o mundo contempor�neo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudan�a hist�rica",
+        "texto": "A Revolu��o Francesa marcou uma ruptura importante com antigas estruturas pol�ticas e sociais.",
+        "dica": "Observe a revolu��o como um processo de transforma��o."
+      },
+      {
+        "subtitulo": "Impactos",
+        "texto": "As ideias e acontecimentos do per�odo influenciaram debates sobre direitos, cidadania e poder.",
+        "dica": "Pense nos efeitos al�m da Fran�a."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Relacione cr�ticas aos privil�gios com a Revolu��o Francesa.",
+        "passos": [
+          "Havia insatisfa��o com desigualdades.",
+          "Essas cr�ticas estimularam mudan�as pol�ticas."
+        ],
+        "resposta": "A revolu��o se conectou a questionamentos do antigo regime."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Revoluo Francesa\".",
+        "passos": [
+          "A Revoluo Francesa provocou grandes mudanas polticas e sociais",
+          "Ela se relacionou crtica aos privilgios e ao absolutismo",
+          "Esse tema ajuda a compreender o mundo contemporneo"
+        ],
+        "resposta": "Esse exemplo mostra como Revoluo Francesa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Revoluo Francesa\".",
+        "passos": [
+          "Ela se relacionou crtica aos privilgios e ao absolutismo",
+          "Esse tema ajuda a compreender o mundo contemporneo",
+          "Mudana histrica"
+        ],
+        "resposta": "Esse exemplo mostra como Revoluo Francesa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Revoluo Francesa\".",
+        "passos": [
+          "Esse tema ajuda a compreender o mundo contemporneo",
+          "Mudana histrica",
+          "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais"
+        ],
+        "resposta": "Esse exemplo mostra como Revoluo Francesa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Revoluo Francesa\".",
+        "passos": [
+          "Mudana histrica",
+          "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais",
+          "Observe a revoluo como um processo de transformao"
+        ],
+        "resposta": "Esse exemplo mostra como Revoluo Francesa pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist8-revolucao-francesa-ex-01",
+        "enunciado": "A Revolu��o Francesa foi marcada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudan�as pol�ticas e sociais",
+          "aus�ncia de conflitos",
+          "apenas transforma��es clim�ticas",
+          "somente mapas"
+        ],
+        "respostaCorreta": "mudan�as pol�ticas e sociais",
+        "explicacao": "Esse processo alterou de forma profunda a vida pol�tica e social.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-ex-02",
+        "enunciado": "A revolu��o se relacionou � cr�tica de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "privil�gios e absolutismo",
+          "somente relevo",
+          "cores e formas",
+          "opera��es alg�bricas"
+        ],
+        "respostaCorreta": "privil�gios e absolutismo",
+        "explicacao": "Esses elementos estavam entre os alvos das cr�ticas do per�odo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-ex-03",
+        "enunciado": "Qual afirma��o est� correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Revolu��o Francesa influenciou debates sobre direitos e poder.",
+          "A revolu��o n�o teve impacto hist�rico.",
+          "A Fran�a n�o passou por mudan�as.",
+          "O tema n�o se relaciona � cidadania."
+        ],
+        "respostaCorreta": "A Revolu��o Francesa influenciou debates sobre direitos e poder.",
+        "explicacao": "O tema � central para compreender transforma��es pol�ticas modernas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-ex-04",
+        "enunciado": "A principal ideia desse tema � compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma grande transforma��o pol�tica e social",
+          "a elimina��o de toda hist�ria",
+          "a aus�ncia de direitos",
+          "somente a geografia da Fran�a"
+        ],
+        "respostaCorreta": "uma grande transforma��o pol�tica e social",
+        "explicacao": "A Revolu��o Francesa marcou um processo hist�rico de forte impacto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Revoluo Francesa provocou grandes mudanas polticas e sociais",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A Revoluo Francesa provocou grandes mudanas polticas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ela se relacionou crtica aos privilgios e ao absolutismo"
+        ],
+        "respostaCorreta": "Ela se relacionou crtica aos privilgios e ao absolutismo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a compreender o mundo contemporneo",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender o mundo contemporneo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe a revoluo como um processo de transformao",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe a revoluo como um processo de transformao",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As ideias e acontecimentos do perodo influenciaram debates sobre direitos, cidadania e poder"
+        ],
+        "respostaCorreta": "As ideias e acontecimentos do perodo influenciaram debates sobre direitos, cidadania e poder",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense nos efeitos alm da Frana",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense nos efeitos alm da Frana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione crticas aos privilgios com a Revoluo Francesa",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Relacione crticas aos privilgios com a Revoluo Francesa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A revoluo se conectou a questionamentos do antigo regime",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A revoluo se conectou a questionamentos do antigo regime",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Havia insatisfao com desigualdades"
+        ],
+        "respostaCorreta": "Havia insatisfao com desigualdades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Essas crticas estimularam mudanas polticas",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Essas crticas estimularam mudanas polticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Revoluo Francesa provocou grandes mudanas polticas e sociais",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Revoluo Francesa provocou grandes mudanas polticas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela se relacionou crtica aos privilgios e ao absolutismo",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Ela se relacionou crtica aos privilgios e ao absolutismo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a compreender o mundo contemporneo"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender o mundo contemporneo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist8-revolucao-francesa-sim-01",
+        "enunciado": "Esse tema ajuda a entender a rela��o entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "revolu��o, direitos e mudan�as pol�ticas",
+          "pontua��o e leitura",
+          "biologia e mapas",
+          "cores e contrastes"
+        ],
+        "respostaCorreta": "revolu��o, direitos e mudan�as pol�ticas",
+        "explicacao": "A Revolu��o Francesa se liga a debates sobre cidadania e poder.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda a compreender o mundo contemporneo",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender o mundo contemporneo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais"
+        ],
+        "respostaCorreta": "A Revoluo Francesa marcou uma ruptura importante com antigas estruturas polticas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a revoluo como um processo de transformao",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a revoluo como um processo de transformao",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As ideias e acontecimentos do perodo influenciaram debates sobre direitos, cidadania e poder",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As ideias e acontecimentos do perodo influenciaram debates sobre direitos, cidadania e poder",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense nos efeitos alm da Frana",
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense nos efeitos alm da Frana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-revolucao-francesa-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revoluo francesa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revoluo francesa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revoluo francesa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione crticas aos privilgios com a Revoluo Francesa"
+        ],
+        "respostaCorreta": "Relacione crticas aos privilgios com a Revoluo Francesa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revoluo Francesa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

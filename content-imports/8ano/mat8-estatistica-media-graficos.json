@@ -1,0 +1,426 @@
+[
+  {
+    "id": "mat8-estatistica-media-graficos",
+    "titulo": "Média e interpretação de gráficos",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Tratamento da informação",
+    "resumo": [
+      "A média é uma medida usada para representar um conjunto de valores.",
+      "Gráficos ajudam a organizar e visualizar informações de forma clara.",
+      "Esse tema é importante para interpretar dados do cotidiano com mais segurança."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Leitura de dados",
+        "texto": "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões.",
+        "dica": "Leia título, eixos, legendas e unidades antes de interpretar um gráfico."
+      },
+      {
+        "subtitulo": "Cálculo da média",
+        "texto": "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto.",
+        "dica": "Some todos os valores antes de dividir pela quantidade de dados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere as notas 6, 8 e 10.",
+        "passos": [
+          "Some os valores: 6 + 8 + 10 = 24.",
+          "Divida por 3, que é a quantidade de notas."
+        ],
+        "resposta": "A média é 8."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Média e interpretação de gráficos\".",
+        "passos": [
+          "A média é uma medida usada para representar um conjunto de valores",
+          "Gráficos ajudam a organizar e visualizar informações de forma clara",
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança"
+        ],
+        "resposta": "Esse exemplo mostra como Média e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Média e interpretação de gráficos\".",
+        "passos": [
+          "Gráficos ajudam a organizar e visualizar informações de forma clara",
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+          "Leitura de dados"
+        ],
+        "resposta": "Esse exemplo mostra como Média e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Média e interpretação de gráficos\".",
+        "passos": [
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+          "Leitura de dados",
+          "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões"
+        ],
+        "resposta": "Esse exemplo mostra como Média e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Média e interpretação de gráficos\".",
+        "passos": [
+          "Leitura de dados",
+          "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões",
+          "Leia título, eixos, legendas e unidades antes de interpretar um gráfico"
+        ],
+        "resposta": "Esse exemplo mostra como Média e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-estatistica-media-graficos-ex-01",
+        "enunciado": "A média aritmética é calculada por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "soma dos valores dividida pela quantidade de dados",
+          "subtração entre o maior e o menor valor",
+          "multiplicação dos extremos",
+          "divisão do menor valor pelo maior"
+        ],
+        "respostaCorreta": "soma dos valores dividida pela quantidade de dados",
+        "explicacao": "Esse é o procedimento básico para calcular a média aritmética simples.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-ex-02",
+        "enunciado": "Os gráficos são úteis porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "facilitam a visualização e a comparação de dados",
+          "substituem todos os cálculos matemáticos",
+          "eliminam a necessidade de leitura",
+          "servem apenas para decoração"
+        ],
+        "respostaCorreta": "facilitam a visualização e a comparação de dados",
+        "explicacao": "Os gráficos organizam informações de forma mais clara e comparável.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-ex-03",
+        "enunciado": "Para interpretar um gráfico corretamente, é importante observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "título, legendas e unidades",
+          "apenas as cores usadas",
+          "somente o maior número",
+          "a ordem alfabética dos dados"
+        ],
+        "respostaCorreta": "título, legendas e unidades",
+        "explicacao": "Esses elementos ajudam a entender o que está sendo representado e como os dados devem ser lidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-ex-04",
+        "enunciado": "Estudar média e gráficos ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar informações quantitativas do cotidiano",
+          "evitar qualquer leitura de dados",
+          "substituir problemas por desenhos aleatórios",
+          "dispensar o raciocínio matemático"
+        ],
+        "respostaCorreta": "interpretar informações quantitativas do cotidiano",
+        "explicacao": "Esse conteúdo é essencial para a leitura crítica de tabelas, gráficos e conjuntos numéricos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A média é uma medida usada para representar um conjunto de valores",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A média é uma medida usada para representar um conjunto de valores",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Gráficos ajudam a organizar e visualizar informações de forma clara"
+        ],
+        "respostaCorreta": "Gráficos ajudam a organizar e visualizar informações de forma clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leia título, eixos, legendas e unidades antes de interpretar um gráfico",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Leia título, eixos, legendas e unidades antes de interpretar um gráfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto"
+        ],
+        "respostaCorreta": "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Some todos os valores antes de dividir pela quantidade de dados",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Some todos os valores antes de dividir pela quantidade de dados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere as notas 6, 8 e 10",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere as notas 6, 8 e 10",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Some os valores: 6 + 8 + 10 = 24",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Some os valores: 6 + 8 + 10 = 24",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Divida por 3, que é a quantidade de notas"
+        ],
+        "respostaCorreta": "Divida por 3, que é a quantidade de notas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A média é uma medida usada para representar um conjunto de valores",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A média é uma medida usada para representar um conjunto de valores",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Gráficos ajudam a organizar e visualizar informações de forma clara",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Gráficos ajudam a organizar e visualizar informações de forma clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões"
+        ],
+        "respostaCorreta": "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-estatistica-media-graficos-sim-01",
+        "enunciado": "A principal utilidade da média e dos gráficos é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar, resumir e interpretar dados",
+          "eliminar toda análise matemática",
+          "servir apenas a exercícios escolares sem aplicação",
+          "substituir completamente textos e tabelas"
+        ],
+        "respostaCorreta": "organizar, resumir e interpretar dados",
+        "explicacao": "Esses recursos ajudam a compreender informações quantitativas em diferentes contextos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema é importante para interpretar dados do cotidiano com mais segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões"
+        ],
+        "respostaCorreta": "Na estatística, os dados podem ser organizados em tabelas e gráficos para facilitar a compreensão. Essa organização permite comparar valores, observar tendências e tirar conclusões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia título, eixos, legendas e unidades antes de interpretar um gráfico",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Leia título, eixos, legendas e unidades antes de interpretar um gráfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A média aritmética é obtida pela soma dos valores dividida pela quantidade de dados. Ela oferece uma visão geral do conjunto, mas deve ser analisada com atenção ao contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Some todos os valores antes de dividir pela quantidade de dados",
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Some todos os valores antes de dividir pela quantidade de dados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-estatistica-media-graficos-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de média e interpretação de gráficos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Média e interpretação de gráficos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com média e interpretação de gráficos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere as notas 6, 8 e 10"
+        ],
+        "respostaCorreta": "Considere as notas 6, 8 e 10",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Média e interpretação de gráficos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

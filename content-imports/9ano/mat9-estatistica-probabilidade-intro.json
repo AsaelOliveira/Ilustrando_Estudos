@@ -30,16 +30,397 @@
           "Perceba que cada número representa uma possibilidade do experimento."
         ],
         "resposta": "Esse exemplo ajuda a introduzir a ideia de probabilidade em uma situação simples."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Estatística e probabilidade introdutórias\".",
+        "passos": [
+          "Estatística e probabilidade ajudam a interpretar dados e analisar possibilidades",
+          "Esses conteúdos aparecem em pesquisas, gráficos, jogos e situações do cotidiano",
+          "Estudar o tema fortalece leitura crítica de informações quantitativas"
+        ],
+        "resposta": "Esse exemplo mostra como Estatística e probabilidade introdutórias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Estatística e probabilidade introdutórias\".",
+        "passos": [
+          "Esses conteúdos aparecem em pesquisas, gráficos, jogos e situações do cotidiano",
+          "Estudar o tema fortalece leitura crítica de informações quantitativas",
+          "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais"
+        ],
+        "resposta": "Esse exemplo mostra como Estatística e probabilidade introdutórias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Estatística e probabilidade introdutórias\".",
+        "passos": [
+          "Estudar o tema fortalece leitura crítica de informações quantitativas",
+          "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais",
+          "Observe se os dados estão organizados de modo claro e o que eles realmente mostram"
+        ],
+        "resposta": "Esse exemplo mostra como Estatística e probabilidade introdutórias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Estatística e probabilidade introdutórias\".",
+        "passos": [
+          "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais",
+          "Observe se os dados estão organizados de modo claro e o que eles realmente mostram",
+          "Leitura e organização de dados"
+        ],
+        "resposta": "Esse exemplo mostra como Estatística e probabilidade introdutórias pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-estatistica-probabilidade-intro-ex-01","enunciado":"A estatística ajuda principalmente a:","tipo":"multipla_escolha","alternativas":["organizar e interpretar dados","eliminar toda informação numérica","substituir gráficos por opiniões soltas","evitar comparações entre valores"],"respostaCorreta":"organizar e interpretar dados","explicacao":"A estatística é uma ferramenta importante para leitura e análise de informações quantitativas.","dificuldade":"facil"},
-      {"id":"mat9-estatistica-probabilidade-intro-ex-02","enunciado":"A probabilidade está relacionada a:","tipo":"multipla_escolha","alternativas":["chance de um evento ocorrer","classificação de palavras em frases","tipo de narrador em um conto","medida do perímetro de um polígono"],"respostaCorreta":"chance de um evento ocorrer","explicacao":"A probabilidade analisa possibilidades e estimativas de ocorrência em diferentes situações.","dificuldade":"facil"},
-      {"id":"mat9-estatistica-probabilidade-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Estatística e probabilidade ajudam a interpretar situações reais envolvendo dados e possibilidades.","Esses conteúdos não aparecem no cotidiano.","Probabilidade não tem relação com análise de resultados possíveis.","Estatística serve apenas para decorar números sem interpretação."],"respostaCorreta":"Estatística e probabilidade ajudam a interpretar situações reais envolvendo dados e possibilidades.","explicacao":"Essas áreas fortalecem o raciocínio quantitativo e a leitura crítica de informações numéricas.","dificuldade":"medio"},
-      {"id":"mat9-estatistica-probabilidade-intro-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["avaliar dados e possibilidades com mais consciência","ignorar resultados numéricos apresentados em gráficos","substituir análise por palpite sem critério","pensar que números não comunicam informações"],"respostaCorreta":"avaliar dados e possibilidades com mais consciência","explicacao":"O conteúdo amplia a capacidade de interpretar informações e pensar sobre resultados possíveis em diferentes contextos.","dificuldade":"medio"}
+      {
+        "id": "mat9-estatistica-probabilidade-intro-ex-01",
+        "enunciado": "A estatística ajuda principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar e interpretar dados",
+          "eliminar toda informação numérica",
+          "substituir gráficos por opiniões soltas",
+          "evitar comparações entre valores"
+        ],
+        "respostaCorreta": "organizar e interpretar dados",
+        "explicacao": "A estatística é uma ferramenta importante para leitura e análise de informações quantitativas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-ex-02",
+        "enunciado": "A probabilidade está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "chance de um evento ocorrer",
+          "classificação de palavras em frases",
+          "tipo de narrador em um conto",
+          "medida do perímetro de um polígono"
+        ],
+        "respostaCorreta": "chance de um evento ocorrer",
+        "explicacao": "A probabilidade analisa possibilidades e estimativas de ocorrência em diferentes situações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estatística e probabilidade ajudam a interpretar situações reais envolvendo dados e possibilidades.",
+          "Esses conteúdos não aparecem no cotidiano.",
+          "Probabilidade não tem relação com análise de resultados possíveis.",
+          "Estatística serve apenas para decorar números sem interpretação."
+        ],
+        "respostaCorreta": "Estatística e probabilidade ajudam a interpretar situações reais envolvendo dados e possibilidades.",
+        "explicacao": "Essas áreas fortalecem o raciocínio quantitativo e a leitura crítica de informações numéricas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "avaliar dados e possibilidades com mais consciência",
+          "ignorar resultados numéricos apresentados em gráficos",
+          "substituir análise por palpite sem critério",
+          "pensar que números não comunicam informações"
+        ],
+        "respostaCorreta": "avaliar dados e possibilidades com mais consciência",
+        "explicacao": "O conteúdo amplia a capacidade de interpretar informações e pensar sobre resultados possíveis em diferentes contextos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Estatística e probabilidade introdutórias\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estatística e probabilidade ajudam a interpretar dados e analisar possibilidades",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Estatística e probabilidade ajudam a interpretar dados e analisar possibilidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-02",
+        "enunciado": "Ao estudar \"Estatística e probabilidade introdutórias\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esses conteúdos aparecem em pesquisas, gráficos, jogos e situações do cotidiano"
+        ],
+        "respostaCorreta": "Esses conteúdos aparecem em pesquisas, gráficos, jogos e situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema fortalece leitura crítica de informações quantitativas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema fortalece leitura crítica de informações quantitativas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-05",
+        "enunciado": "No contexto de \"Estatística e probabilidade introdutórias\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se os dados estão organizados de modo claro e o que eles realmente mostram",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe se os dados estão organizados de modo claro e o que eles realmente mostram",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-06",
+        "enunciado": "O estudo de \"Estatística e probabilidade introdutórias\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender leitura e organização de dados"
+        ],
+        "respostaCorreta": "compreender leitura e organização de dados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A probabilidade está ligada à análise de chances de determinado evento ocorrer. Mesmo em uma abordagem introdutória, esse conteúdo ajuda a pensar possibilidades e comparar resultados esperados em diferentes situações",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A probabilidade está ligada à análise de chances de determinado evento ocorrer. Mesmo em uma abordagem introdutória, esse conteúdo ajuda a pensar possibilidades e comparar resultados esperados em diferentes situações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte quais resultados são possíveis e quais parecem mais ou menos prováveis",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte quais resultados são possíveis e quais parecem mais ou menos prováveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender ideia de probabilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender ideia de probabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um dado comum com seis faces numeradas"
+        ],
+        "respostaCorreta": "Considere um dado comum com seis faces numeradas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Estatística e probabilidade introdutórias\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a introduzir a ideia de probabilidade em uma situação simples",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a introduzir a ideia de probabilidade em uma situação simples",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-12",
+        "enunciado": "Ao estudar \"Estatística e probabilidade introdutórias\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os resultados possíveis ao lançar o dado",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os resultados possíveis ao lançar o dado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que cada número representa uma possibilidade do experimento",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que cada número representa uma possibilidade do experimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Estatística e probabilidade ajudam a interpretar dados e analisar possibilidades"
+        ],
+        "respostaCorreta": "Estatística e probabilidade ajudam a interpretar dados e analisar possibilidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-estatistica-probabilidade-intro-sim-01","enunciado":"A principal ideia desse tema é compreender que dados e chances:","tipo":"multipla_escolha","alternativas":["podem ser analisados para interpretar situações e tomar decisões melhores","não têm relação com a vida cotidiana","servem apenas para decorar números","dispensam qualquer leitura crítica"],"respostaCorreta":"podem ser analisados para interpretar situações e tomar decisões melhores","explicacao":"Estatística e probabilidade ajudam a pensar informações numéricas e possibilidades de maneira mais crítica e organizada.","dificuldade":"medio"}
+      {
+        "id": "mat9-estatistica-probabilidade-intro-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que dados e chances:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem ser analisados para interpretar situações e tomar decisões melhores",
+          "não têm relação com a vida cotidiana",
+          "servem apenas para decorar números",
+          "dispensam qualquer leitura crítica"
+        ],
+        "respostaCorreta": "podem ser analisados para interpretar situações e tomar decisões melhores",
+        "explicacao": "Estatística e probabilidade ajudam a pensar informações numéricas e possibilidades de maneira mais crítica e organizada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Estatística e probabilidade introdutórias\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema fortalece leitura crítica de informações quantitativas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema fortalece leitura crítica de informações quantitativas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Estatística e probabilidade introdutórias\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais"
+        ],
+        "respostaCorreta": "A estatística ajuda a coletar, organizar e interpretar informações numéricas. Esse estudo é importante para compreender tabelas, gráficos e resultados apresentados em diferentes contextos sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se os dados estão organizados de modo claro e o que eles realmente mostram",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe se os dados estão organizados de modo claro e o que eles realmente mostram",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Estatística e probabilidade introdutórias\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender leitura e organização de dados",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender leitura e organização de dados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A probabilidade está ligada à análise de chances de determinado evento ocorrer. Mesmo em uma abordagem introdutória, esse conteúdo ajuda a pensar possibilidades e comparar resultados esperados em diferentes situações",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A probabilidade está ligada à análise de chances de determinado evento ocorrer. Mesmo em uma abordagem introdutória, esse conteúdo ajuda a pensar possibilidades e comparar resultados esperados em diferentes situações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-estatistica-probabilidade-intro-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quais resultados são possíveis e quais parecem mais ou menos prováveis"
+        ],
+        "respostaCorreta": "Pergunte quais resultados são possíveis e quais parecem mais ou menos prováveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Estatística e probabilidade introdutórias apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

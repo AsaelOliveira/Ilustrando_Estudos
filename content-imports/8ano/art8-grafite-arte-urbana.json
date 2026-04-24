@@ -1,0 +1,426 @@
+[
+  {
+    "id": "art8-grafite-arte-urbana",
+    "titulo": "Grafite e arte urbana",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Arte e cidade",
+    "resumo": [
+      "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva.",
+      "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas.",
+      "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Arte no espaço público",
+        "texto": "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais.",
+        "dica": "Observe como a obra dialoga com o lugar onde foi produzida."
+      },
+      {
+        "subtitulo": "Leitura crítica da cidade",
+        "texto": "A arte urbana amplia a percepção sobre o espaço público e mostra que a cidade também pode ser lugar de criação e expressão. Esse olhar ajuda a compreender a relação entre arte, território e sociedade.",
+        "dica": "Pergunte que mensagem a obra transmite para quem circula por aquele espaço."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um mural colorido feito em uma parede de bairro.",
+        "passos": [
+          "Identifique elementos visuais que chamam atenção.",
+          "Perceba como a obra se relaciona com o espaço urbano e com as pessoas que passam por ali."
+        ],
+        "resposta": "Esse exemplo mostra o grafite como expressão artística e social na cidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Grafite e arte urbana\".",
+        "passos": [
+          "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva",
+          "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas",
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano"
+        ],
+        "resposta": "Esse exemplo mostra como Grafite e arte urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Grafite e arte urbana\".",
+        "passos": [
+          "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas",
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+          "Arte no espaço público"
+        ],
+        "resposta": "Esse exemplo mostra como Grafite e arte urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Grafite e arte urbana\".",
+        "passos": [
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+          "Arte no espaço público",
+          "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais"
+        ],
+        "resposta": "Esse exemplo mostra como Grafite e arte urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Grafite e arte urbana\".",
+        "passos": [
+          "Arte no espaço público",
+          "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais",
+          "Observe como a obra dialoga com o lugar onde foi produzida"
+        ],
+        "resposta": "Esse exemplo mostra como Grafite e arte urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "art8-grafite-arte-urbana-ex-01",
+        "enunciado": "O grafite pode ser entendido como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "forma de expressão artística no espaço urbano",
+          "apenas rabisco sem sentido artístico",
+          "substituição da arte por propaganda",
+          "tipo de cálculo geométrico"
+        ],
+        "respostaCorreta": "forma de expressão artística no espaço urbano",
+        "explicacao": "O grafite pode comunicar ideias e sentidos por meio da linguagem visual na cidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-ex-02",
+        "enunciado": "A arte urbana dialoga com:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o espaço público e a vida coletiva",
+          "apenas espaços fechados de museu",
+          "somente livros didáticos",
+          "exclusivamente ambientes naturais"
+        ],
+        "respostaCorreta": "o espaço público e a vida coletiva",
+        "explicacao": "A arte urbana se relaciona com a cidade, com os sujeitos e com o cotidiano social. ",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O grafite pode expressar identidade, crítica e pertencimento cultural.",
+          "A cidade não pode ser espaço de criação artística.",
+          "Toda arte urbana é idêntica e sem contexto.",
+          "O grafite não produz leitura visual nem reflexão."
+        ],
+        "respostaCorreta": "O grafite pode expressar identidade, crítica e pertencimento cultural.",
+        "explicacao": "Essa forma de arte pode comunicar valores, memórias e debates presentes na vida urbana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler a cidade também como espaço de arte e expressão",
+          "pensar que arte existe apenas em galerias",
+          "ignorar o contexto social das imagens urbanas",
+          "reduzir o olhar sobre a produção visual"
+        ],
+        "respostaCorreta": "ler a cidade também como espaço de arte e expressão",
+        "explicacao": "O tema amplia a percepção da arte no cotidiano e de sua relação com o território.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas"
+        ],
+        "respostaCorreta": "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a obra dialoga com o lugar onde foi produzida",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como a obra dialoga com o lugar onde foi produzida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A arte urbana amplia a percepção sobre o espaço público e mostra que a cidade também pode ser lugar de criação e expressão. Esse olhar ajuda a compreender a relação entre arte, território e sociedade"
+        ],
+        "respostaCorreta": "A arte urbana amplia a percepção sobre o espaço público e mostra que a cidade também pode ser lugar de criação e expressão. Esse olhar ajuda a compreender a relação entre arte, território e sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte que mensagem a obra transmite para quem circula por aquele espaço",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte que mensagem a obra transmite para quem circula por aquele espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um mural colorido feito em uma parede de bairro",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe um mural colorido feito em uma parede de bairro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra o grafite como expressão artística e social na cidade",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra o grafite como expressão artística e social na cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique elementos visuais que chamam atenção"
+        ],
+        "respostaCorreta": "Identifique elementos visuais que chamam atenção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como a obra se relaciona com o espaço urbano e com as pessoas que passam por ali",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como a obra se relaciona com o espaço urbano e com as pessoas que passam por ali",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A arte urbana dialoga com a cidade, com seus espaços e com a vida coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O grafite é uma forma de expressão visual que pode comunicar ideias, identidades e críticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "art8-grafite-arte-urbana-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a arte urbana:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "também produz sentido e expressão no espaço público",
+          "não tem relação com cultura e cidade",
+          "serve apenas de decoração sem mensagem",
+          "existe sem diálogo com as pessoas"
+        ],
+        "respostaCorreta": "também produz sentido e expressão no espaço público",
+        "explicacao": "O grafite e outras formas de arte urbana mostram a cidade como lugar de criação e comunicação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a observar a arte presente no cotidiano urbano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais"
+        ],
+        "respostaCorreta": "O grafite faz parte de práticas artísticas que ocupam muros, paredes e outros espaços da cidade. Ele pode valorizar identidades, contar histórias locais e provocar reflexões sobre temas sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como a obra dialoga com o lugar onde foi produzida",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como a obra dialoga com o lugar onde foi produzida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A arte urbana amplia a percepção sobre o espaço público e mostra que a cidade também pode ser lugar de criação e expressão. Esse olhar ajuda a compreender a relação entre arte, território e sociedade",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A arte urbana amplia a percepção sobre o espaço público e mostra que a cidade também pode ser lugar de criação e expressão. Esse olhar ajuda a compreender a relação entre arte, território e sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte que mensagem a obra transmite para quem circula por aquele espaço",
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte que mensagem a obra transmite para quem circula por aquele espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-grafite-arte-urbana-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de grafite e arte urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Grafite e arte urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com grafite e arte urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um mural colorido feito em uma parede de bairro"
+        ],
+        "respostaCorreta": "Observe um mural colorido feito em uma parede de bairro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Grafite e arte urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

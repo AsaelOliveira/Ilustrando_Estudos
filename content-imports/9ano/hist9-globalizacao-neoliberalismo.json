@@ -30,16 +30,397 @@
           "Perceba que essa dinâmica afeta trabalho, consumo e relações entre territórios."
         ],
         "resposta": "Esse exemplo ajuda a compreender transformações econômicas recentes ligadas à globalização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Globalização e transformações econômicas contemporâneas\".",
+        "passos": [
+          "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados",
+          "Essas transformações influenciaram trabalho, consumo e relações entre países",
+          "Estudar o tema ajuda a compreender processos históricos recentes em escala global"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e transformações econômicas contemporâneas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Globalização e transformações econômicas contemporâneas\".",
+        "passos": [
+          "Essas transformações influenciaram trabalho, consumo e relações entre países",
+          "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+          "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e transformações econômicas contemporâneas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Globalização e transformações econômicas contemporâneas\".",
+        "passos": [
+          "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+          "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial",
+          "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e transformações econômicas contemporâneas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Globalização e transformações econômicas contemporâneas\".",
+        "passos": [
+          "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial",
+          "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações",
+          "Mudanças econômicas em escala global"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização e transformações econômicas contemporâneas pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-globalizacao-neoliberalismo-ex-01","enunciado":"As transformações econômicas contemporâneas se relacionam à:","tipo":"multipla_escolha","alternativas":["circulação ampliada de capitais, mercadorias e informações","redução total das trocas entre países","eliminação de mudanças no trabalho","ausência de integração econômica"],"respostaCorreta":"circulação ampliada de capitais, mercadorias e informações","explicacao":"O mundo contemporâneo passou por intensa ampliação de fluxos econômicos e informacionais em escala global.","dificuldade":"facil"},
-      {"id":"hist9-globalizacao-neoliberalismo-ex-02","enunciado":"Essas mudanças influenciaram especialmente:","tipo":"multipla_escolha","alternativas":["trabalho, consumo e relações entre países","somente regras gramaticais","apenas a rotação da Terra","exclusivamente a formação do relevo"],"respostaCorreta":"trabalho, consumo e relações entre países","explicacao":"O processo alterou formas de produção, circulação e organização econômica internacional.","dificuldade":"facil"},
-      {"id":"hist9-globalizacao-neoliberalismo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.","Todos os países vivenciam as mudanças globais do mesmo modo.","A economia mundial recente não interfere na vida cotidiana das populações.","O tema não tem importância histórica."],"respostaCorreta":"As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.","explicacao":"O estudo histórico desse processo exige observar contrastes sociais, econômicos e regionais.","dificuldade":"medio"},
-      {"id":"hist9-globalizacao-neoliberalismo-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender mudanças recentes no funcionamento da economia mundial","ignorar relações entre economia e sociedade","separar totalmente história e globalização","pensar que os processos econômicos não afetam o trabalho"],"respostaCorreta":"compreender mudanças recentes no funcionamento da economia mundial","explicacao":"O conteúdo amplia a leitura histórica das transformações econômicas do mundo contemporâneo.","dificuldade":"medio"}
+      {
+        "id": "hist9-globalizacao-neoliberalismo-ex-01",
+        "enunciado": "As transformações econômicas contemporâneas se relacionam à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "circulação ampliada de capitais, mercadorias e informações",
+          "redução total das trocas entre países",
+          "eliminação de mudanças no trabalho",
+          "ausência de integração econômica"
+        ],
+        "respostaCorreta": "circulação ampliada de capitais, mercadorias e informações",
+        "explicacao": "O mundo contemporâneo passou por intensa ampliação de fluxos econômicos e informacionais em escala global.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-ex-02",
+        "enunciado": "Essas mudanças influenciaram especialmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "trabalho, consumo e relações entre países",
+          "somente regras gramaticais",
+          "apenas a rotação da Terra",
+          "exclusivamente a formação do relevo"
+        ],
+        "respostaCorreta": "trabalho, consumo e relações entre países",
+        "explicacao": "O processo alterou formas de produção, circulação e organização econômica internacional.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.",
+          "Todos os países vivenciam as mudanças globais do mesmo modo.",
+          "A economia mundial recente não interfere na vida cotidiana das populações.",
+          "O tema não tem importância histórica."
+        ],
+        "respostaCorreta": "As transformações econômicas recentes devem ser analisadas considerando desigualdades e efeitos sociais distintos.",
+        "explicacao": "O estudo histórico desse processo exige observar contrastes sociais, econômicos e regionais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender mudanças recentes no funcionamento da economia mundial",
+          "ignorar relações entre economia e sociedade",
+          "separar totalmente história e globalização",
+          "pensar que os processos econômicos não afetam o trabalho"
+        ],
+        "respostaCorreta": "compreender mudanças recentes no funcionamento da economia mundial",
+        "explicacao": "O conteúdo amplia a leitura histórica das transformações econômicas do mundo contemporâneo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Globalização e transformações econômicas contemporâneas\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-02",
+        "enunciado": "Ao estudar \"Globalização e transformações econômicas contemporâneas\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Essas transformações influenciaram trabalho, consumo e relações entre países"
+        ],
+        "respostaCorreta": "Essas transformações influenciaram trabalho, consumo e relações entre países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-05",
+        "enunciado": "No contexto de \"Globalização e transformações econômicas contemporâneas\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-06",
+        "enunciado": "O estudo de \"Globalização e transformações econômicas contemporâneas\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender mudanças econômicas em escala global"
+        ],
+        "respostaCorreta": "compreender mudanças econômicas em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "As transformações econômicas contemporâneas produziram efeitos diferentes entre regiões e grupos sociais. Por isso, o estudo histórico desse tema exige atenção a contrastes, desigualdades e novas formas de integração mundial",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "As transformações econômicas contemporâneas produziram efeitos diferentes entre regiões e grupos sociais. Por isso, o estudo histórico desse tema exige atenção a contrastes, desigualdades e novas formas de integração mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte quem se beneficia mais e quem enfrenta maiores dificuldades nesses processos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte quem se beneficia mais e quem enfrenta maiores dificuldades nesses processos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender impactos históricos e sociais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender impactos históricos e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um contexto em que empresas passam a produzir em vários países ao mesmo tempo"
+        ],
+        "respostaCorreta": "Considere um contexto em que empresas passam a produzir em vários países ao mesmo tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Globalização e transformações econômicas contemporâneas\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender transformações econômicas recentes ligadas à globalização",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender transformações econômicas recentes ligadas à globalização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-12",
+        "enunciado": "Ao estudar \"Globalização e transformações econômicas contemporâneas\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a ampliação das conexões econômicas globais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a ampliação das conexões econômicas globais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que essa dinâmica afeta trabalho, consumo e relações entre territórios",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que essa dinâmica afeta trabalho, consumo e relações entre territórios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados"
+        ],
+        "respostaCorreta": "O mundo contemporâneo passou por mudanças econômicas intensas ligadas à globalização e à reorganização dos mercados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-globalizacao-neoliberalismo-sim-01","enunciado":"A principal ideia desse tema é compreender que o mundo contemporâneo:","tipo":"multipla_escolha","alternativas":["passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais","deixou de ter relações econômicas entre países","não sofreu mudanças recentes na produção e no consumo","não apresenta impacto das conexões globais na vida social"],"respostaCorreta":"passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais","explicacao":"O estudo histórico da globalização econômica exige observar tanto integração quanto desigualdades produzidas nesse processo.","dificuldade":"medio"}
+      {
+        "id": "hist9-globalizacao-neoliberalismo-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o mundo contemporâneo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais",
+          "deixou de ter relações econômicas entre países",
+          "não sofreu mudanças recentes na produção e no consumo",
+          "não apresenta impacto das conexões globais na vida social"
+        ],
+        "respostaCorreta": "passou por transformações econômicas amplas, com efeitos sociais e territoriais desiguais",
+        "explicacao": "O estudo histórico da globalização econômica exige observar tanto integração quanto desigualdades produzidas nesse processo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Globalização e transformações econômicas contemporâneas\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender processos históricos recentes em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Globalização e transformações econômicas contemporâneas\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial"
+        ],
+        "respostaCorreta": "Nas últimas décadas, a circulação de capitais, mercadorias e informações ganhou velocidade e amplitude. Esse processo alterou formas de produção, relações de trabalho e o papel dos países na economia mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como mudanças econômicas afetam não só empresas, mas também o cotidiano das populações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Globalização e transformações econômicas contemporâneas\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender mudanças econômicas em escala global",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender mudanças econômicas em escala global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As transformações econômicas contemporâneas produziram efeitos diferentes entre regiões e grupos sociais. Por isso, o estudo histórico desse tema exige atenção a contrastes, desigualdades e novas formas de integração mundial",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "As transformações econômicas contemporâneas produziram efeitos diferentes entre regiões e grupos sociais. Por isso, o estudo histórico desse tema exige atenção a contrastes, desigualdades e novas formas de integração mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-globalizacao-neoliberalismo-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quem se beneficia mais e quem enfrenta maiores dificuldades nesses processos"
+        ],
+        "respostaCorreta": "Pergunte quem se beneficia mais e quem enfrenta maiores dificuldades nesses processos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização e transformações econômicas contemporâneas apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

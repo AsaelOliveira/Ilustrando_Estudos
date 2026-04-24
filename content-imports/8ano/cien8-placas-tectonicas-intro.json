@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-placas-tectonicas-intro",
+    "titulo": "Introdução às placas tectônicas",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Terra e Universo",
+    "resumo": [
+      "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas.",
+      "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo.",
+      "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Movimento das placas",
+        "texto": "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre.",
+        "dica": "Pense nas placas como partes de um quebra-cabeça em movimento lento."
+      },
+      {
+        "subtitulo": "Consequências geológicas",
+        "texto": "O encontro, o afastamento ou o deslizamento entre placas pode gerar terremotos, atividade vulcânica e transformações no relevo. Por isso, esse estudo é importante para entender a dinâmica do planeta.",
+        "dica": "Relacione os movimentos das placas aos fenômenos observados na crosta terrestre."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere duas placas que se movem e pressionam uma contra a outra.",
+        "passos": [
+          "Observe que há acúmulo de força nessa região.",
+          "Perceba que esse processo pode provocar abalos na superfície."
+        ],
+        "resposta": "Esse é um exemplo de relação entre o movimento das placas e fenômenos geológicos."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução às placas tectônicas\".",
+        "passos": [
+          "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas",
+          "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo",
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às placas tectônicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução às placas tectônicas\".",
+        "passos": [
+          "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo",
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+          "Movimento das placas"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às placas tectônicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução às placas tectônicas\".",
+        "passos": [
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+          "Movimento das placas",
+          "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às placas tectônicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução às placas tectônicas\".",
+        "passos": [
+          "Movimento das placas",
+          "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre",
+          "Pense nas placas como partes de um quebra-cabeça em movimento lento"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às placas tectônicas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-placas-tectonicas-intro-ex-01",
+        "enunciado": "As placas tectônicas são:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grandes blocos da superfície terrestre",
+          "camadas de nuvens do planeta",
+          "tipos de plantas marinhas",
+          "somente correntes de ar"
+        ],
+        "respostaCorreta": "grandes blocos da superfície terrestre",
+        "explicacao": "A litosfera terrestre está dividida em grandes placas que se movimentam.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-ex-02",
+        "enunciado": "O movimento das placas tectônicas pode provocar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "terremotos e vulcões",
+          "classificação gramatical",
+          "ciclos de leitura",
+          "pontuação de frases"
+        ],
+        "respostaCorreta": "terremotos e vulcões",
+        "explicacao": "Esses fenômenos estão ligados à dinâmica das placas na crosta terrestre.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As placas tectônicas se movimentam lentamente ao longo do tempo.",
+          "As placas tectônicas nunca se movem.",
+          "Os terremotos não têm relação com as placas.",
+          "A superfície terrestre é totalmente imóvel."
+        ],
+        "respostaCorreta": "As placas tectônicas se movimentam lentamente ao longo do tempo.",
+        "explicacao": "O deslocamento das placas é lento, mas produz efeitos importantes no planeta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-ex-04",
+        "enunciado": "Estudar placas tectônicas ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a dinâmica geológica da Terra",
+          "somente a formação das estrelas",
+          "apenas a estrutura do texto narrativo",
+          "exclusivamente a divisão silábica"
+        ],
+        "respostaCorreta": "a dinâmica geológica da Terra",
+        "explicacao": "O tema explica processos ligados ao relevo e a fenômenos como terremotos e vulcanismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo"
+        ],
+        "respostaCorreta": "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense nas placas como partes de um quebra-cabeça em movimento lento",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense nas placas como partes de um quebra-cabeça em movimento lento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O encontro, o afastamento ou o deslizamento entre placas pode gerar terremotos, atividade vulcânica e transformações no relevo. Por isso, esse estudo é importante para entender a dinâmica do planeta"
+        ],
+        "respostaCorreta": "O encontro, o afastamento ou o deslizamento entre placas pode gerar terremotos, atividade vulcânica e transformações no relevo. Por isso, esse estudo é importante para entender a dinâmica do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione os movimentos das placas aos fenômenos observados na crosta terrestre",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Relacione os movimentos das placas aos fenômenos observados na crosta terrestre",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere duas placas que se movem e pressionam uma contra a outra",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere duas placas que se movem e pressionam uma contra a outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de relação entre o movimento das placas e fenômenos geológicos",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de relação entre o movimento das placas e fenômenos geológicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que há acúmulo de força nessa região"
+        ],
+        "respostaCorreta": "Observe que há acúmulo de força nessa região",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que esse processo pode provocar abalos na superfície",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que esse processo pode provocar abalos na superfície",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A superfície terrestre está dividida em grandes blocos chamados placas tectônicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O movimento dessas placas está relacionado a terremotos, vulcões e formação do relevo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-placas-tectonicas-intro-sim-01",
+        "enunciado": "A principal ideia do estudo das placas tectônicas é compreender que a Terra:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta uma superfície dinâmica, sujeita a movimentos e transformações",
+          "é totalmente imóvel em sua estrutura externa",
+          "não apresenta fenômenos geológicos relevantes",
+          "funciona sempre da mesma maneira em todas as regiões"
+        ],
+        "respostaCorreta": "apresenta uma superfície dinâmica, sujeita a movimentos e transformações",
+        "explicacao": "O movimento das placas mostra que o planeta está em constante dinâmica geológica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda a compreender fenômenos geológicos importantes do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre"
+        ],
+        "respostaCorreta": "As placas tectônicas não ficam totalmente paradas. Elas se movimentam lentamente sobre camadas internas da Terra, e esse deslocamento pode provocar alterações na superfície terrestre",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense nas placas como partes de um quebra-cabeça em movimento lento",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense nas placas como partes de um quebra-cabeça em movimento lento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O encontro, o afastamento ou o deslizamento entre placas pode gerar terremotos, atividade vulcânica e transformações no relevo. Por isso, esse estudo é importante para entender a dinâmica do planeta",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O encontro, o afastamento ou o deslizamento entre placas pode gerar terremotos, atividade vulcânica e transformações no relevo. Por isso, esse estudo é importante para entender a dinâmica do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione os movimentos das placas aos fenômenos observados na crosta terrestre",
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Relacione os movimentos das placas aos fenômenos observados na crosta terrestre",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-placas-tectonicas-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às placas tectônicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às placas tectônicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às placas tectônicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere duas placas que se movem e pressionam uma contra a outra"
+        ],
+        "respostaCorreta": "Considere duas placas que se movem e pressionam uma contra a outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às placas tectônicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

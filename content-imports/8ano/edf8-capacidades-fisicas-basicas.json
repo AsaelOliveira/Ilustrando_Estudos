@@ -1,0 +1,426 @@
+[
+  {
+    "id": "edf8-capacidades-fisicas-basicas",
+    "titulo": "Capacidades físicas básicas",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Corpo e movimento",
+    "resumo": [
+      "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação.",
+      "Elas participam de diferentes práticas corporais e esportivas.",
+      "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Desenvolvimento corporal",
+        "texto": "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço.",
+        "dica": "Observe qual capacidade aparece com mais destaque em cada prática corporal."
+      },
+      {
+        "subtitulo": "Saúde e desempenho",
+        "texto": "Trabalhar capacidades físicas de forma orientada contribui para saúde, condicionamento e melhor participação nas aulas e atividades. O importante é respeitar limites e evoluir com consciência corporal.",
+        "dica": "Valorize o desenvolvimento gradual, sem comparações desrespeitosas com outras pessoas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma atividade que exige correr por mais tempo.",
+        "passos": [
+          "Observe que o corpo precisa sustentar o esforço durante a prática.",
+          "Perceba que a resistência física tem papel importante nessa situação."
+        ],
+        "resposta": "Esse exemplo mostra a participação das capacidades físicas nas práticas corporais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Capacidades físicas básicas\".",
+        "passos": [
+          "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação",
+          "Elas participam de diferentes práticas corporais e esportivas",
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor"
+        ],
+        "resposta": "Esse exemplo mostra como Capacidades físicas básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Capacidades físicas básicas\".",
+        "passos": [
+          "Elas participam de diferentes práticas corporais e esportivas",
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+          "Desenvolvimento corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Capacidades físicas básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Capacidades físicas básicas\".",
+        "passos": [
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+          "Desenvolvimento corporal",
+          "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço"
+        ],
+        "resposta": "Esse exemplo mostra como Capacidades físicas básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Capacidades físicas básicas\".",
+        "passos": [
+          "Desenvolvimento corporal",
+          "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço",
+          "Observe qual capacidade aparece com mais destaque em cada prática corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Capacidades físicas básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf8-capacidades-fisicas-basicas-ex-01",
+        "enunciado": "Uma capacidade física básica é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "resistência",
+          "pontuação",
+          "substantivo",
+          "latitude"
+        ],
+        "respostaCorreta": "resistência",
+        "explicacao": "Resistência é uma das capacidades físicas importantes para o movimento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-ex-02",
+        "enunciado": "As capacidades físicas estão relacionadas a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "movimento, saúde e desempenho corporal",
+          "apenas escrita de textos",
+          "somente cálculo geométrico",
+          "exclusivamente observação de mapas"
+        ],
+        "respostaCorreta": "movimento, saúde e desempenho corporal",
+        "explicacao": "Essas capacidades influenciam a execução de atividades corporais e esportivas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As capacidades físicas podem ser desenvolvidas com prática orientada e respeito aos limites do corpo.",
+          "Elas não têm relação com a saúde.",
+          "Só aparecem em atletas profissionais.",
+          "Não participam das aulas de Educação Física."
+        ],
+        "respostaCorreta": "As capacidades físicas podem ser desenvolvidas com prática orientada e respeito aos limites do corpo.",
+        "explicacao": "O desenvolvimento corporal precisa considerar orientação adequada e consciência dos próprios limites.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-ex-04",
+        "enunciado": "Estudar capacidades físicas ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor o próprio corpo em movimento",
+          "evitar qualquer atividade corporal",
+          "substituir movimento por teoria apenas",
+          "ignorar limites e cuidados físicos"
+        ],
+        "respostaCorreta": "compreender melhor o próprio corpo em movimento",
+        "explicacao": "O tema contribui para uma participação mais consciente e saudável nas práticas corporais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Elas participam de diferentes práticas corporais e esportivas"
+        ],
+        "respostaCorreta": "Elas participam de diferentes práticas corporais e esportivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe qual capacidade aparece com mais destaque em cada prática corporal",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe qual capacidade aparece com mais destaque em cada prática corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Trabalhar capacidades físicas de forma orientada contribui para saúde, condicionamento e melhor participação nas aulas e atividades. O importante é respeitar limites e evoluir com consciência corporal"
+        ],
+        "respostaCorreta": "Trabalhar capacidades físicas de forma orientada contribui para saúde, condicionamento e melhor participação nas aulas e atividades. O importante é respeitar limites e evoluir com consciência corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Valorize o desenvolvimento gradual, sem comparações desrespeitosas com outras pessoas",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Valorize o desenvolvimento gradual, sem comparações desrespeitosas com outras pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma atividade que exige correr por mais tempo",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma atividade que exige correr por mais tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra a participação das capacidades físicas nas práticas corporais",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a participação das capacidades físicas nas práticas corporais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que o corpo precisa sustentar o esforço durante a prática"
+        ],
+        "respostaCorreta": "Observe que o corpo precisa sustentar o esforço durante a prática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a resistência física tem papel importante nessa situação",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a resistência física tem papel importante nessa situação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As capacidades físicas básicas incluem força, resistência, flexibilidade, velocidade e coordenação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas participam de diferentes práticas corporais e esportivas",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Elas participam de diferentes práticas corporais e esportivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor"
+        ],
+        "respostaCorreta": "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf8-capacidades-fisicas-basicas-sim-01",
+        "enunciado": "A principal contribuição do estudo das capacidades físicas é entender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o corpo responde e se desenvolve nas práticas de movimento",
+          "a Educação Física se resume a competição",
+          "o movimento não interfere na saúde",
+          "o corpo não precisa de cuidados durante as atividades"
+        ],
+        "respostaCorreta": "o corpo responde e se desenvolve nas práticas de movimento",
+        "explicacao": "Esse conteúdo relaciona movimento, saúde, condicionamento e consciência corporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Conhecer esse tema ajuda a cuidar melhor do corpo e do desempenho motor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço"
+        ],
+        "respostaCorreta": "As capacidades físicas fazem parte do funcionamento do corpo em atividades cotidianas e esportivas. Cada uma contribui de modo diferente para movimentos, equilíbrio, agilidade e resistência ao esforço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe qual capacidade aparece com mais destaque em cada prática corporal",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe qual capacidade aparece com mais destaque em cada prática corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Trabalhar capacidades físicas de forma orientada contribui para saúde, condicionamento e melhor participação nas aulas e atividades. O importante é respeitar limites e evoluir com consciência corporal",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Trabalhar capacidades físicas de forma orientada contribui para saúde, condicionamento e melhor participação nas aulas e atividades. O importante é respeitar limites e evoluir com consciência corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Valorize o desenvolvimento gradual, sem comparações desrespeitosas com outras pessoas",
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Valorize o desenvolvimento gradual, sem comparações desrespeitosas com outras pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-capacidades-fisicas-basicas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de capacidades físicas básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Capacidades físicas básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com capacidades físicas básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma atividade que exige correr por mais tempo"
+        ],
+        "respostaCorreta": "Pense em uma atividade que exige correr por mais tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Capacidades físicas básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

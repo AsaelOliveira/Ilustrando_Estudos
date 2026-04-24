@@ -1,0 +1,427 @@
+[
+  {
+    "id": "hist8-brasil-joanino-independencia",
+    "titulo": "Brasil joanino e Independência",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Brasil entre Colônia e Império",
+    "resumo": [
+      "A vinda da corte portuguesa alterou a organização política e econômica do Brasil.",
+      "A abertura dos portos e outras medidas modificaram a relação com a metrópole.",
+      "O processo de Independência foi resultado de tensões políticas e interesses diversos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudanças com a corte no Brasil",
+        "texto": "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português.",
+        "dica": "Observe como a presença da corte modificou a posição do Brasil."
+      },
+      {
+        "subtitulo": "Caminho para a Independência",
+        "texto": "A Independência do Brasil não surgiu de um único fato isolado. Ela se relaciona a disputas de poder, interesses econômicos e mudanças no cenário político do período.",
+        "dica": "Procure relacionar causas, contexto e consequências históricas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise a abertura dos portos no contexto do Brasil joanino.",
+        "passos": [
+          "Perceba que a medida alterou a dinâmica comercial.",
+          "Observe que ela reduziu a exclusividade antes exercida por Portugal.",
+          "Relacione essa mudança ao processo de autonomia política."
+        ],
+        "resposta": "A abertura dos portos foi uma das transformações que contribuíram para mudar a posição do Brasil no império português."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Brasil joanino e Independência\".",
+        "passos": [
+          "A vinda da corte portuguesa alterou a organização política e econômica do Brasil",
+          "A abertura dos portos e outras medidas modificaram a relação com a metrópole",
+          "O processo de Independência foi resultado de tensões políticas e interesses diversos"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil joanino e Independência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Brasil joanino e Independência\".",
+        "passos": [
+          "A abertura dos portos e outras medidas modificaram a relação com a metrópole",
+          "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+          "Mudanças com a corte no Brasil"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil joanino e Independência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Brasil joanino e Independência\".",
+        "passos": [
+          "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+          "Mudanças com a corte no Brasil",
+          "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil joanino e Independência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Brasil joanino e Independência\".",
+        "passos": [
+          "Mudanças com a corte no Brasil",
+          "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português",
+          "Observe como a presença da corte modificou a posição do Brasil"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil joanino e Independência pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist8-brasil-joanino-independencia-ex-01",
+        "enunciado": "A presença da corte portuguesa no Brasil provocou:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças políticas e econômicas importantes",
+          "a interrupção total da vida administrativa",
+          "o fim imediato de todos os conflitos",
+          "a volta do Brasil à condição anterior sem alterações"
+        ],
+        "respostaCorreta": "mudanças políticas e econômicas importantes",
+        "explicacao": "A instalação da corte trouxe novas medidas e reorganizou o funcionamento do território.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-ex-02",
+        "enunciado": "A abertura dos portos foi significativa porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alterou as relações comerciais do Brasil",
+          "eliminou a produção agrícola",
+          "encerrou toda a administração portuguesa",
+          "substituiu a política por atividades religiosas"
+        ],
+        "respostaCorreta": "alterou as relações comerciais do Brasil",
+        "explicacao": "A medida modificou a dinâmica do comércio e reduziu restrições anteriores.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-ex-03",
+        "enunciado": "Qual afirmação está correta sobre a Independência do Brasil?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Foi resultado de um processo com tensões políticas e interesses diversos.",
+          "Aconteceu sem relação com o contexto do período.",
+          "Foi causada por um único acontecimento isolado.",
+          "Eliminou imediatamente todos os conflitos sociais."
+        ],
+        "respostaCorreta": "Foi resultado de um processo com tensões políticas e interesses diversos.",
+        "explicacao": "A Independência deve ser entendida como parte de um processo histórico mais amplo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-ex-04",
+        "enunciado": "Estudar o Brasil joanino ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o contexto que antecedeu a Independência",
+          "apenas a história da Roma Antiga",
+          "somente a formação dos planetas",
+          "exclusivamente o relevo brasileiro"
+        ],
+        "respostaCorreta": "o contexto que antecedeu a Independência",
+        "explicacao": "As mudanças do período joanino são fundamentais para entender o processo de emancipação política.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A vinda da corte portuguesa alterou a organização política e econômica do Brasil",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A vinda da corte portuguesa alterou a organização política e econômica do Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A abertura dos portos e outras medidas modificaram a relação com a metrópole"
+        ],
+        "respostaCorreta": "A abertura dos portos e outras medidas modificaram a relação com a metrópole",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a presença da corte modificou a posição do Brasil",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como a presença da corte modificou a posição do Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Independência do Brasil não surgiu de um único fato isolado. Ela se relaciona a disputas de poder, interesses econômicos e mudanças no cenário político do período"
+        ],
+        "respostaCorreta": "A Independência do Brasil não surgiu de um único fato isolado. Ela se relaciona a disputas de poder, interesses econômicos e mudanças no cenário político do período",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Procure relacionar causas, contexto e consequências históricas",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Procure relacionar causas, contexto e consequências históricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise a abertura dos portos no contexto do Brasil joanino",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Analise a abertura dos portos no contexto do Brasil joanino",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A abertura dos portos foi uma das transformações que contribuíram para mudar a posição do Brasil no império português",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A abertura dos portos foi uma das transformações que contribuíram para mudar a posição do Brasil no império português",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a medida alterou a dinâmica comercial"
+        ],
+        "respostaCorreta": "Perceba que a medida alterou a dinâmica comercial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que ela reduziu a exclusividade antes exercida por Portugal",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que ela reduziu a exclusividade antes exercida por Portugal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione essa mudança ao processo de autonomia política",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Relacione essa mudança ao processo de autonomia política",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A vinda da corte portuguesa alterou a organização política e econômica do Brasil",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A vinda da corte portuguesa alterou a organização política e econômica do Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A abertura dos portos e outras medidas modificaram a relação com a metrópole"
+        ],
+        "respostaCorreta": "A abertura dos portos e outras medidas modificaram a relação com a metrópole",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist8-brasil-joanino-independencia-sim-01",
+        "enunciado": "Ao relacionar Brasil joanino e Independência, é correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as transformações do período ajudaram a preparar o caminho para a emancipação política",
+          "não existe ligação entre esses acontecimentos",
+          "a presença da corte não alterou o Brasil",
+          "a Independência ocorreu sem contexto histórico"
+        ],
+        "respostaCorreta": "as transformações do período ajudaram a preparar o caminho para a emancipação política",
+        "explicacao": "O período joanino trouxe mudanças que influenciaram o processo de Independência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O processo de Independência foi resultado de tensões políticas e interesses diversos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português"
+        ],
+        "respostaCorreta": "Com a transferência da corte portuguesa para o Brasil, ocorreram transformações importantes na administração, no comércio e na vida política. O território passou a ter maior centralidade no império português",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como a presença da corte modificou a posição do Brasil",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como a presença da corte modificou a posição do Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Independência do Brasil não surgiu de um único fato isolado. Ela se relaciona a disputas de poder, interesses econômicos e mudanças no cenário político do período",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Independência do Brasil não surgiu de um único fato isolado. Ela se relaciona a disputas de poder, interesses econômicos e mudanças no cenário político do período",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Procure relacionar causas, contexto e consequências históricas",
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Procure relacionar causas, contexto e consequências históricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-brasil-joanino-independencia-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de brasil joanino e independência se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Brasil joanino e independência pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com brasil joanino e independência dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise a abertura dos portos no contexto do Brasil joanino"
+        ],
+        "respostaCorreta": "Analise a abertura dos portos no contexto do Brasil joanino",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Brasil joanino e Independência, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

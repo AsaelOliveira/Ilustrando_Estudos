@@ -30,16 +30,397 @@
           "Perceba também que a forma do artigo e do substantivo muda conforme o gênero."
         ],
         "resposta": "Essas frases mostram como a concordância ajuda a organizar a relação entre as palavras."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Concordância e regência em uso\".",
+        "passos": [
+          "A concordância verbal e nominal organiza a relação entre as palavras na frase",
+          "A regência mostra como verbos e nomes se ligam a seus complementos",
+          "Compreender esses aspectos ajuda a escrever com mais clareza e correção"
+        ],
+        "resposta": "Esse exemplo mostra como Concordância e regência em uso pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Concordância e regência em uso\".",
+        "passos": [
+          "A regência mostra como verbos e nomes se ligam a seus complementos",
+          "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+          "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão"
+        ],
+        "resposta": "Esse exemplo mostra como Concordância e regência em uso pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Concordância e regência em uso\".",
+        "passos": [
+          "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+          "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão",
+          "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente"
+        ],
+        "resposta": "Esse exemplo mostra como Concordância e regência em uso pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Concordância e regência em uso\".",
+        "passos": [
+          "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão",
+          "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente",
+          "Concordância na construção do sentido"
+        ],
+        "resposta": "Esse exemplo mostra como Concordância e regência em uso pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-concordancia-regencia-ex-01","enunciado":"A concordância verbal acontece entre:","tipo":"multipla_escolha","alternativas":["o sujeito e o verbo","o verbo e o ponto final","o título e a margem","a vírgula e o adjetivo"],"respostaCorreta":"o sujeito e o verbo","explicacao":"A concordância verbal ajusta o verbo ao sujeito da oração.","dificuldade":"facil"},
-      {"id":"port9-concordancia-regencia-ex-02","enunciado":"A regência verbal está relacionada:","tipo":"multipla_escolha","alternativas":["à ligação entre o verbo e seu complemento","ao número de parágrafos do texto","à mudança de fonte na página","ao tamanho das palavras"],"respostaCorreta":"à ligação entre o verbo e seu complemento","explicacao":"A regência verbal mostra como o verbo se conecta ao complemento, com ou sem preposição.","dificuldade":"facil"},
-      {"id":"port9-concordancia-regencia-ex-03","enunciado":"Em qual alternativa a explicação está correta?","tipo":"multipla_escolha","alternativas":["Conhecer concordância e regência contribui para escrever com mais precisão.","Concordância serve apenas para decorar regras isoladas.","Regência não interfere na clareza do texto.","Esses conteúdos não aparecem em situações de uso real da língua."],"respostaCorreta":"Conhecer concordância e regência contribui para escrever com mais precisão.","explicacao":"Esses conhecimentos ajudam a produzir frases mais claras, corretas e adequadas ao contexto.","dificuldade":"medio"},
-      {"id":"port9-concordancia-regencia-ex-04","enunciado":"Ao revisar uma frase, um bom cuidado é:","tipo":"multipla_escolha","alternativas":["verificar se verbo, sujeito e complementos se relacionam adequadamente","ignorar o sentido global da oração","trocar todas as palavras por sinônimos","retirar preposições sem analisar o verbo"],"respostaCorreta":"verificar se verbo, sujeito e complementos se relacionam adequadamente","explicacao":"A revisão linguística pede atenção à concordância e à regência, que estruturam a frase.","dificuldade":"medio"}
+      {
+        "id": "port9-concordancia-regencia-ex-01",
+        "enunciado": "A concordância verbal acontece entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o sujeito e o verbo",
+          "o verbo e o ponto final",
+          "o título e a margem",
+          "a vírgula e o adjetivo"
+        ],
+        "respostaCorreta": "o sujeito e o verbo",
+        "explicacao": "A concordância verbal ajusta o verbo ao sujeito da oração.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-ex-02",
+        "enunciado": "A regência verbal está relacionada:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "à ligação entre o verbo e seu complemento",
+          "ao número de parágrafos do texto",
+          "à mudança de fonte na página",
+          "ao tamanho das palavras"
+        ],
+        "respostaCorreta": "à ligação entre o verbo e seu complemento",
+        "explicacao": "A regência verbal mostra como o verbo se conecta ao complemento, com ou sem preposição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-ex-03",
+        "enunciado": "Em qual alternativa a explicação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conhecer concordância e regência contribui para escrever com mais precisão.",
+          "Concordância serve apenas para decorar regras isoladas.",
+          "Regência não interfere na clareza do texto.",
+          "Esses conteúdos não aparecem em situações de uso real da língua."
+        ],
+        "respostaCorreta": "Conhecer concordância e regência contribui para escrever com mais precisão.",
+        "explicacao": "Esses conhecimentos ajudam a produzir frases mais claras, corretas e adequadas ao contexto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-ex-04",
+        "enunciado": "Ao revisar uma frase, um bom cuidado é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "verificar se verbo, sujeito e complementos se relacionam adequadamente",
+          "ignorar o sentido global da oração",
+          "trocar todas as palavras por sinônimos",
+          "retirar preposições sem analisar o verbo"
+        ],
+        "respostaCorreta": "verificar se verbo, sujeito e complementos se relacionam adequadamente",
+        "explicacao": "A revisão linguística pede atenção à concordância e à regência, que estruturam a frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Concordância e regência em uso\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A concordância verbal e nominal organiza a relação entre as palavras na frase",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A concordância verbal e nominal organiza a relação entre as palavras na frase",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-02",
+        "enunciado": "Ao estudar \"Concordância e regência em uso\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A regência mostra como verbos e nomes se ligam a seus complementos"
+        ],
+        "respostaCorreta": "A regência mostra como verbos e nomes se ligam a seus complementos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-05",
+        "enunciado": "No contexto de \"Concordância e regência em uso\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-06",
+        "enunciado": "O estudo de \"Concordância e regência em uso\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender concordância na construção do sentido"
+        ],
+        "respostaCorreta": "compreender concordância na construção do sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A regência indica de que modo verbos e nomes exigem complementos, com ou sem preposição. Saber como essas ligações funcionam evita construções inadequadas e melhora a organização das ideias no texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A regência indica de que modo verbos e nomes exigem complementos, com ou sem preposição. Saber como essas ligações funcionam evita construções inadequadas e melhora a organização das ideias no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Preste atenção aos verbos que pedem preposição, como 'gostar de', 'assistir a' e 'precisar de'",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Preste atenção aos verbos que pedem preposição, como 'gostar de', 'assistir a' e 'precisar de'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender regência verbal e nominal",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender regência verbal e nominal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare as frases 'Os alunos chegaram cedo' e 'As alunas chegaram cedo'"
+        ],
+        "respostaCorreta": "Compare as frases 'Os alunos chegaram cedo' e 'As alunas chegaram cedo'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Concordância e regência em uso\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Essas frases mostram como a concordância ajuda a organizar a relação entre as palavras",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Essas frases mostram como a concordância ajuda a organizar a relação entre as palavras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-12",
+        "enunciado": "Ao estudar \"Concordância e regência em uso\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe que o verbo se mantém no plural porque concorda com o sujeito em ambos os casos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe que o verbo se mantém no plural porque concorda com o sujeito em ambos os casos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba também que a forma do artigo e do substantivo muda conforme o gênero",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba também que a forma do artigo e do substantivo muda conforme o gênero",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A concordância verbal e nominal organiza a relação entre as palavras na frase"
+        ],
+        "respostaCorreta": "A concordância verbal e nominal organiza a relação entre as palavras na frase",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-concordancia-regencia-sim-01","enunciado":"Por que estudar concordância e regência é importante no 9º ano?","tipo":"multipla_escolha","alternativas":["Porque esses conteúdos ajudam na leitura crítica e na escrita mais correta.","Porque servem apenas para preencher tabelas sem uso prático.","Porque eliminam a necessidade de revisão textual.","Porque substituem todos os outros conteúdos de língua portuguesa."],"respostaCorreta":"Porque esses conteúdos ajudam na leitura crítica e na escrita mais correta.","explicacao":"Esses conhecimentos fortalecem a produção de textos mais claros e adequados às situações de comunicação.","dificuldade":"medio"}
+      {
+        "id": "port9-concordancia-regencia-sim-01",
+        "enunciado": "Por que estudar concordância e regência é importante no 9º ano?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porque esses conteúdos ajudam na leitura crítica e na escrita mais correta.",
+          "Porque servem apenas para preencher tabelas sem uso prático.",
+          "Porque eliminam a necessidade de revisão textual.",
+          "Porque substituem todos os outros conteúdos de língua portuguesa."
+        ],
+        "respostaCorreta": "Porque esses conteúdos ajudam na leitura crítica e na escrita mais correta.",
+        "explicacao": "Esses conhecimentos fortalecem a produção de textos mais claros e adequados às situações de comunicação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Concordância e regência em uso\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Compreender esses aspectos ajuda a escrever com mais clareza e correção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Concordância e regência em uso\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão"
+        ],
+        "respostaCorreta": "A concordância verbal ajusta o verbo ao sujeito, enquanto a concordância nominal relaciona artigos, adjetivos e substantivos. Quando essas relações são respeitadas, a frase fica mais clara e adequada à norma-padrão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe se o verbo combina com o núcleo do sujeito e se os modificadores acompanham o substantivo corretamente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Concordância e regência em uso\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender concordância na construção do sentido",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender concordância na construção do sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regência indica de que modo verbos e nomes exigem complementos, com ou sem preposição. Saber como essas ligações funcionam evita construções inadequadas e melhora a organização das ideias no texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A regência indica de que modo verbos e nomes exigem complementos, com ou sem preposição. Saber como essas ligações funcionam evita construções inadequadas e melhora a organização das ideias no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-concordancia-regencia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Preste atenção aos verbos que pedem preposição, como 'gostar de', 'assistir a' e 'precisar de'"
+        ],
+        "respostaCorreta": "Preste atenção aos verbos que pedem preposição, como 'gostar de', 'assistir a' e 'precisar de'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Concordância e regência em uso apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

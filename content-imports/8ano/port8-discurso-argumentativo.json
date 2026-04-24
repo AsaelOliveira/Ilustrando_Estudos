@@ -1,0 +1,426 @@
+[
+  {
+    "id": "port8-discurso-argumentativo",
+    "titulo": "Discurso argumentativo",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produ��o textual",
+    "resumo": [
+      "O discurso argumentativo busca defender um ponto de vista.",
+      "Ele usa raz�es, exemplos e justificativas.",
+      "Esse tema fortalece leitura cr�tica e escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ponto de vista",
+        "texto": "Em textos argumentativos, o autor apresenta uma opini�o e procura sustent�-la com argumentos.",
+        "dica": "Observe qual ideia o autor quer defender."
+      },
+      {
+        "subtitulo": "Justificativas",
+        "texto": "Os argumentos ajudam a convencer o leitor por meio de raz�es, exemplos ou explica��es bem organizadas.",
+        "dica": "Pergunte como o autor justifica sua posi��o."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que defende mais leitura na escola.",
+        "passos": [
+          "Identifique a opini�o principal.",
+          "Observe os argumentos usados para sustent�-la."
+        ],
+        "resposta": "Esse � um exemplo de constru��o argumentativa."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Discurso argumentativo\".",
+        "passos": [
+          "O discurso argumentativo busca defender um ponto de vista",
+          "Ele usa razes, exemplos e justificativas",
+          "Esse tema fortalece leitura crtica e escrita"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Discurso argumentativo\".",
+        "passos": [
+          "Ele usa razes, exemplos e justificativas",
+          "Esse tema fortalece leitura crtica e escrita",
+          "Ponto de vista"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Discurso argumentativo\".",
+        "passos": [
+          "Esse tema fortalece leitura crtica e escrita",
+          "Ponto de vista",
+          "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Discurso argumentativo\".",
+        "passos": [
+          "Ponto de vista",
+          "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos",
+          "Observe qual ideia o autor quer defender"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso argumentativo pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-discurso-argumentativo-ex-01",
+        "enunciado": "Um texto argumentativo procura:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender um ponto de vista",
+          "apenas listar palavras",
+          "eliminar opini�es",
+          "contar s�labas"
+        ],
+        "respostaCorreta": "defender um ponto de vista",
+        "explicacao": "A argumenta��o organiza ideias para sustentar uma posi��o.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-ex-02",
+        "enunciado": "Os argumentos servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "justificar uma opini�o",
+          "eliminar o tema",
+          "substituir a leitura",
+          "apagar o texto"
+        ],
+        "respostaCorreta": "justificar uma opini�o",
+        "explicacao": "Argumentos ajudam a sustentar a posi��o do autor.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-ex-03",
+        "enunciado": "Qual afirma��o est� correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O discurso argumentativo usa raz�es e justificativas.",
+          "Argumentar � o mesmo que listar palavras soltas.",
+          "Todo texto argumentativo dispensa opini�o.",
+          "Argumentos n�o interferem no sentido do texto."
+        ],
+        "respostaCorreta": "O discurso argumentativo usa raz�es e justificativas.",
+        "explicacao": "A argumenta��o se organiza por meio de justificativas e estrat�gias de convencimento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-ex-04",
+        "enunciado": "A principal ideia desse tema � compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como uma opini�o pode ser defendida no texto",
+          "como eliminar argumentos",
+          "como evitar leitura cr�tica",
+          "como substituir ideias por imagens"
+        ],
+        "respostaCorreta": "como uma opini�o pode ser defendida no texto",
+        "explicacao": "O tema trabalha a organiza��o de pontos de vista e argumentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O discurso argumentativo busca defender um ponto de vista",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O discurso argumentativo busca defender um ponto de vista",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ele usa razes, exemplos e justificativas"
+        ],
+        "respostaCorreta": "Ele usa razes, exemplos e justificativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema fortalece leitura crtica e escrita",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema fortalece leitura crtica e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe qual ideia o autor quer defender",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe qual ideia o autor quer defender",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os argumentos ajudam a convencer o leitor por meio de razes, exemplos ou explicaes bem organizadas"
+        ],
+        "respostaCorreta": "Os argumentos ajudam a convencer o leitor por meio de razes, exemplos ou explicaes bem organizadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte como o autor justifica sua posio",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte como o autor justifica sua posio",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que defende mais leitura na escola",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia um texto que defende mais leitura na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse um exemplo de construo argumentativa",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse um exemplo de construo argumentativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique a opinio principal"
+        ],
+        "respostaCorreta": "Identifique a opinio principal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe os argumentos usados para sustent-la",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe os argumentos usados para sustent-la",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O discurso argumentativo busca defender um ponto de vista",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O discurso argumentativo busca defender um ponto de vista",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele usa razes, exemplos e justificativas",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Ele usa razes, exemplos e justificativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema fortalece leitura crtica e escrita"
+        ],
+        "respostaCorreta": "Esse tema fortalece leitura crtica e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-discurso-argumentativo-sim-01",
+        "enunciado": "Esse tema ajuda o aluno a perceber principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como o autor constr�i defesa de uma ideia",
+          "como apagar o tema do texto",
+          "como evitar justificativas",
+          "como eliminar opini�es"
+        ],
+        "respostaCorreta": "como o autor constr�i defesa de uma ideia",
+        "explicacao": "A argumenta��o organiza a defesa de um ponto de vista.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema fortalece leitura crtica e escrita",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema fortalece leitura crtica e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos"
+        ],
+        "respostaCorreta": "Em textos argumentativos, o autor apresenta uma opinio e procura sustent-la com argumentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe qual ideia o autor quer defender",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe qual ideia o autor quer defender",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os argumentos ajudam a convencer o leitor por meio de razes, exemplos ou explicaes bem organizadas",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os argumentos ajudam a convencer o leitor por meio de razes, exemplos ou explicaes bem organizadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte como o autor justifica sua posio",
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte como o autor justifica sua posio",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-discurso-argumentativo-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de discurso argumentativo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Discurso argumentativo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com discurso argumentativo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que defende mais leitura na escola"
+        ],
+        "respostaCorreta": "Leia um texto que defende mais leitura na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Discurso argumentativo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "edf8-esportes-coletivos-estrategias",
+    "titulo": "Esportes coletivos e estratégias de jogo",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Práticas esportivas",
+    "resumo": [
+      "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo.",
+      "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas.",
+      "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Jogo coletivo e cooperação",
+        "texto": "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe.",
+        "dica": "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo."
+      },
+      {
+        "subtitulo": "Leitura tática do jogo",
+        "texto": "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora.",
+        "dica": "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma equipe que troca passes para avançar até o gol ou a cesta.",
+        "passos": [
+          "Observe que a ação depende de cooperação entre os jogadores.",
+          "Perceba que a circulação da bola segue uma estratégia para criar espaço."
+        ],
+        "resposta": "Esse exemplo mostra a importância das estratégias nos esportes coletivos."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Esportes coletivos e estratégias de jogo\".",
+        "passos": [
+          "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo",
+          "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas",
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes coletivos e estratégias de jogo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Esportes coletivos e estratégias de jogo\".",
+        "passos": [
+          "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas",
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+          "Jogo coletivo e cooperação"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes coletivos e estratégias de jogo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Esportes coletivos e estratégias de jogo\".",
+        "passos": [
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+          "Jogo coletivo e cooperação",
+          "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes coletivos e estratégias de jogo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Esportes coletivos e estratégias de jogo\".",
+        "passos": [
+          "Jogo coletivo e cooperação",
+          "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe",
+          "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes coletivos e estratégias de jogo pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf8-esportes-coletivos-estrategias-ex-01",
+        "enunciado": "Nos esportes coletivos, uma habilidade importante é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cooperar com a equipe",
+          "agir isoladamente o tempo todo",
+          "ignorar as regras do jogo",
+          "evitar qualquer comunicação"
+        ],
+        "respostaCorreta": "cooperar com a equipe",
+        "explicacao": "A cooperação é fundamental para o funcionamento da equipe e para o desenvolvimento do jogo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-ex-02",
+        "enunciado": "As estratégias de jogo ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar ações ofensivas e defensivas",
+          "eliminar o trabalho em equipe",
+          "substituir toda a prática corporal",
+          "ignorar o espaço de jogo"
+        ],
+        "respostaCorreta": "organizar ações ofensivas e defensivas",
+        "explicacao": "A estratégia orienta decisões táticas para melhorar o desempenho coletivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A leitura tática do jogo amplia a compreensão das práticas esportivas.",
+          "Esportes coletivos dependem apenas de força física.",
+          "Toda estratégia atrapalha a participação do grupo.",
+          "O espaço de jogo não interfere nas decisões da equipe."
+        ],
+        "respostaCorreta": "A leitura tática do jogo amplia a compreensão das práticas esportivas.",
+        "explicacao": "Entender o jogo envolve observar posições, decisões, cooperação e uso do espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participar com mais consciência, respeito e estratégia",
+          "reduzir o esporte a ações sem organização",
+          "ignorar o papel do grupo",
+          "pensar que regras não são necessárias"
+        ],
+        "respostaCorreta": "participar com mais consciência, respeito e estratégia",
+        "explicacao": "O conteúdo fortalece compreensão tática, convivência e participação qualificada nas práticas esportivas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas"
+        ],
+        "respostaCorreta": "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora"
+        ],
+        "respostaCorreta": "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma equipe que troca passes para avançar até o gol ou a cesta",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma equipe que troca passes para avançar até o gol ou a cesta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra a importância das estratégias nos esportes coletivos",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a importância das estratégias nos esportes coletivos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que a ação depende de cooperação entre os jogadores"
+        ],
+        "respostaCorreta": "Observe que a ação depende de cooperação entre os jogadores",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a circulação da bola segue uma estratégia para criar espaço",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a circulação da bola segue uma estratégia para criar espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os esportes coletivos envolvem cooperação, regras e tomada de decisão em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As estratégias de jogo ajudam a organizar ações ofensivas e defensivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe"
+        ],
+        "respostaCorreta": "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf8-esportes-coletivos-estrategias-sim-01",
+        "enunciado": "A principal ideia do estudo dos esportes coletivos é perceber que eles exigem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cooperação, regras e tomada de decisão em grupo",
+          "somente velocidade individual",
+          "ausência de organização tática",
+          "ação totalmente isolada dos participantes"
+        ],
+        "respostaCorreta": "cooperação, regras e tomada de decisão em grupo",
+        "explicacao": "Os esportes coletivos articulam técnica, estratégia, respeito e trabalho em equipe.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema desenvolve raciocínio tático, respeito e trabalho em equipe",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe"
+        ],
+        "respostaCorreta": "Nos esportes coletivos, o desempenho depende da ação conjunta dos participantes. Por isso, além da técnica, é importante compreender posicionamento, comunicação e cooperação dentro da equipe",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como as decisões individuais influenciam o funcionamento do grupo durante o jogo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Estratégias de jogo ajudam a equipe a ocupar espaços, defender melhor, atacar com mais organização e adaptar decisões durante a partida. Esse olhar tático amplia a compreensão do esporte para além da execução motora",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo",
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte o que a equipe tenta fazer para criar vantagens durante o jogo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-esportes-coletivos-estrategias-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de esportes coletivos e estratégias de jogo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Esportes coletivos e estratégias de jogo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com esportes coletivos e estratégias de jogo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma equipe que troca passes para avançar até o gol ou a cesta"
+        ],
+        "respostaCorreta": "Pense em uma equipe que troca passes para avançar até o gol ou a cesta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Esportes coletivos e estratégias de jogo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

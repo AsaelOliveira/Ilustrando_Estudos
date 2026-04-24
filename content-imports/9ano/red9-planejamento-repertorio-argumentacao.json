@@ -31,16 +31,397 @@
           "Escolha repertórios que contribuam para sustentar essas ideias."
         ],
         "resposta": "Esse processo mostra que o planejamento e o repertório ajudam a construir um texto mais sólido."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Planejamento, repertório e argumentação\".",
+        "passos": [
+          "Escrever bem envolve planejamento prévio, seleção de repertório e organização dos argumentos",
+          "O repertório pode incluir conhecimentos, exemplos, referências culturais e fatos relevantes",
+          "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, repertório e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Planejamento, repertório e argumentação\".",
+        "passos": [
+          "O repertório pode incluir conhecimentos, exemplos, referências culturais e fatos relevantes",
+          "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+          "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, repertório e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Planejamento, repertório e argumentação\".",
+        "passos": [
+          "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+          "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente",
+          "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, repertório e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Planejamento, repertório e argumentação\".",
+        "passos": [
+          "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente",
+          "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto",
+          "Planejar antes de escrever"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, repertório e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"red9-planejamento-repertorio-argumentacao-ex-01","enunciado":"Planejar um texto antes de escrever ajuda a:","tipo":"multipla_escolha","alternativas":["organizar tese, argumentos e estrutura","escrever sem objetivo definido","eliminar a coerência do texto","reduzir a redação a frases soltas"],"respostaCorreta":"organizar tese, argumentos e estrutura","explicacao":"O planejamento torna a escrita mais clara e bem organizada.","dificuldade":"facil"},
-      {"id":"red9-planejamento-repertorio-argumentacao-ex-02","enunciado":"O repertório em um texto argumentativo pode incluir:","tipo":"multipla_escolha","alternativas":["exemplos, conhecimentos e referências culturais","apenas palavras aleatórias","somente títulos sem explicação","nomes sem relação com o tema"],"respostaCorreta":"exemplos, conhecimentos e referências culturais","explicacao":"O repertório amplia a sustentação da tese quando está ligado ao assunto debatido.","dificuldade":"facil"},
-      {"id":"red9-planejamento-repertorio-argumentacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O repertório precisa dialogar com a tese para fortalecer a argumentação.","Qualquer referência serve, mesmo sem relação com o tema.","Planejamento enfraquece a criatividade do texto.","Argumentar dispensa organização de ideias."],"respostaCorreta":"O repertório precisa dialogar com a tese para fortalecer a argumentação.","explicacao":"A qualidade do repertório depende de sua pertinência e de sua integração ao texto.","dificuldade":"medio"},
-      {"id":"red9-planejamento-repertorio-argumentacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["escrever textos argumentativos mais consistentes","dispensar planejamento e revisão","substituir argumentos por frases prontas","usar repertório sem análise crítica"],"respostaCorreta":"escrever textos argumentativos mais consistentes","explicacao":"O conteúdo melhora a organização e a força argumentativa da redação.","dificuldade":"medio"}
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-ex-01",
+        "enunciado": "Planejar um texto antes de escrever ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar tese, argumentos e estrutura",
+          "escrever sem objetivo definido",
+          "eliminar a coerência do texto",
+          "reduzir a redação a frases soltas"
+        ],
+        "respostaCorreta": "organizar tese, argumentos e estrutura",
+        "explicacao": "O planejamento torna a escrita mais clara e bem organizada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-ex-02",
+        "enunciado": "O repertório em um texto argumentativo pode incluir:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "exemplos, conhecimentos e referências culturais",
+          "apenas palavras aleatórias",
+          "somente títulos sem explicação",
+          "nomes sem relação com o tema"
+        ],
+        "respostaCorreta": "exemplos, conhecimentos e referências culturais",
+        "explicacao": "O repertório amplia a sustentação da tese quando está ligado ao assunto debatido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O repertório precisa dialogar com a tese para fortalecer a argumentação.",
+          "Qualquer referência serve, mesmo sem relação com o tema.",
+          "Planejamento enfraquece a criatividade do texto.",
+          "Argumentar dispensa organização de ideias."
+        ],
+        "respostaCorreta": "O repertório precisa dialogar com a tese para fortalecer a argumentação.",
+        "explicacao": "A qualidade do repertório depende de sua pertinência e de sua integração ao texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever textos argumentativos mais consistentes",
+          "dispensar planejamento e revisão",
+          "substituir argumentos por frases prontas",
+          "usar repertório sem análise crítica"
+        ],
+        "respostaCorreta": "escrever textos argumentativos mais consistentes",
+        "explicacao": "O conteúdo melhora a organização e a força argumentativa da redação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Planejamento, repertório e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Escrever bem envolve planejamento prévio, seleção de repertório e organização dos argumentos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Escrever bem envolve planejamento prévio, seleção de repertório e organização dos argumentos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Planejamento, repertório e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O repertório pode incluir conhecimentos, exemplos, referências culturais e fatos relevantes"
+        ],
+        "respostaCorreta": "O repertório pode incluir conhecimentos, exemplos, referências culturais e fatos relevantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-05",
+        "enunciado": "No contexto de \"Planejamento, repertório e argumentação\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-06",
+        "enunciado": "O estudo de \"Planejamento, repertório e argumentação\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender planejar antes de escrever"
+        ],
+        "respostaCorreta": "compreender planejar antes de escrever",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Um repertório bem escolhido fortalece a argumentação porque amplia a base do texto e mostra domínio do tema. Contudo, o repertório só é útil quando se relaciona de modo claro ao ponto de vista defendido",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Um repertório bem escolhido fortalece a argumentação porque amplia a base do texto e mostra domínio do tema. Contudo, o repertório só é útil quando se relaciona de modo claro ao ponto de vista defendido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Use exemplos e referências que realmente dialoguem com o tema e com a tese apresentada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Use exemplos e referências que realmente dialoguem com o tema e com a tese apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender repertório e sustentação da tese",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender repertório e sustentação da tese",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma proposta de redação sobre uso ético da tecnologia"
+        ],
+        "respostaCorreta": "Considere uma proposta de redação sobre uso ético da tecnologia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Planejamento, repertório e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse processo mostra que o planejamento e o repertório ajudam a construir um texto mais sólido",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse processo mostra que o planejamento e o repertório ajudam a construir um texto mais sólido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Planejamento, repertório e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Defina a tese que será defendida",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Defina a tese que será defendida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Selecione dois argumentos consistentes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Selecione dois argumentos consistentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Escolha repertórios que contribuam para sustentar essas ideias"
+        ],
+        "respostaCorreta": "Escolha repertórios que contribuam para sustentar essas ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"red9-planejamento-repertorio-argumentacao-sim-01","enunciado":"A principal importância do tema é:","tipo":"multipla_escolha","alternativas":["mostrar que planejamento e repertório fortalecem a argumentação","defender que o texto deve ser escrito sem preparação","reduzir a redação a improviso","eliminar a relação entre ideia e exemplo"],"respostaCorreta":"mostrar que planejamento e repertório fortalecem a argumentação","explicacao":"O tema evidencia como escrever melhor depende de organização prévia e seleção adequada de referências.","dificuldade":"medio"}
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-sim-01",
+        "enunciado": "A principal importância do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mostrar que planejamento e repertório fortalecem a argumentação",
+          "defender que o texto deve ser escrito sem preparação",
+          "reduzir a redação a improviso",
+          "eliminar a relação entre ideia e exemplo"
+        ],
+        "respostaCorreta": "mostrar que planejamento e repertório fortalecem a argumentação",
+        "explicacao": "O tema evidencia como escrever melhor depende de organização prévia e seleção adequada de referências.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Planejamento, repertório e argumentação\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a qualidade e a consistência da redação argumentativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Planejamento, repertório e argumentação\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente"
+        ],
+        "respostaCorreta": "O planejamento ajuda o estudante a definir tese, organizar argumentos e prever a estrutura do texto. Isso evita repetições, melhora a progressão das ideias e torna a escrita mais objetiva e coerente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de redigir, organize anotações com tese, argumentos e exemplos que possam ser usados no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Planejamento, repertório e argumentação\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender planejar antes de escrever",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender planejar antes de escrever",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um repertório bem escolhido fortalece a argumentação porque amplia a base do texto e mostra domínio do tema. Contudo, o repertório só é útil quando se relaciona de modo claro ao ponto de vista defendido",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Um repertório bem escolhido fortalece a argumentação porque amplia a base do texto e mostra domínio do tema. Contudo, o repertório só é útil quando se relaciona de modo claro ao ponto de vista defendido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-planejamento-repertorio-argumentacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Use exemplos e referências que realmente dialoguem com o tema e com a tese apresentada"
+        ],
+        "respostaCorreta": "Use exemplos e referências que realmente dialoguem com o tema e com a tese apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, repertório e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

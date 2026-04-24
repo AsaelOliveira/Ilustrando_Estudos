@@ -31,6 +31,42 @@
           "Perceba como isso afeta a vida pública e cultural."
         ],
         "resposta": "Esse exemplo ajuda a compreender características básicas de um regime autoritário."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à ditadura militar no Brasil\".",
+        "passos": [
+          "A ditadura militar foi um período de restrição política e autoritarismo no Brasil",
+          "Esse contexto envolveu censura, repressão e limitação de direitos",
+          "Estudar o tema ajuda a refletir sobre democracia, memória e participação política"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à ditadura militar no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à ditadura militar no Brasil\".",
+        "passos": [
+          "Esse contexto envolveu censura, repressão e limitação de direitos",
+          "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+          "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à ditadura militar no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à ditadura militar no Brasil\".",
+        "passos": [
+          "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+          "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país",
+          "Observe como a restrição de direitos interfere na vida coletiva e na democracia"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à ditadura militar no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à ditadura militar no Brasil\".",
+        "passos": [
+          "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país",
+          "Observe como a restrição de direitos interfere na vida coletiva e na democracia",
+          "Características do período"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à ditadura militar no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
@@ -89,6 +125,202 @@
         "respostaCorreta": "compreender os efeitos do autoritarismo na sociedade",
         "explicacao": "Esse conteúdo mostra como a limitação de direitos afeta instituições, cultura e vida coletiva.",
         "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Introdução à ditadura militar no Brasil\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A ditadura militar foi um período de restrição política e autoritarismo no Brasil",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A ditadura militar foi um período de restrição política e autoritarismo no Brasil",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-02",
+        "enunciado": "Ao estudar \"Introdução à ditadura militar no Brasil\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse contexto envolveu censura, repressão e limitação de direitos"
+        ],
+        "respostaCorreta": "Esse contexto envolveu censura, repressão e limitação de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-05",
+        "enunciado": "No contexto de \"Introdução à ditadura militar no Brasil\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a restrição de direitos interfere na vida coletiva e na democracia",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como a restrição de direitos interfere na vida coletiva e na democracia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-06",
+        "enunciado": "O estudo de \"Introdução à ditadura militar no Brasil\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender características do período"
+        ],
+        "respostaCorreta": "compreender características do período",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Estudar esse período ajuda a compreender a importância da democracia, da liberdade de expressão e da preservação da memória histórica. Essa análise é fundamental para evitar simplificações e fortalecer a cidadania",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Estudar esse período ajuda a compreender a importância da democracia, da liberdade de expressão e da preservação da memória histórica. Essa análise é fundamental para evitar simplificações e fortalecer a cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte quais valores democráticos ficam mais visíveis quando analisamos períodos autoritários",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte quais valores democráticos ficam mais visíveis quando analisamos períodos autoritários",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender memória e reflexão histórica",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender memória e reflexão histórica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um período em que críticas ao governo passam a ser controladas e direitos políticos são restringidos"
+        ],
+        "respostaCorreta": "Considere um período em que críticas ao governo passam a ser controladas e direitos políticos são restringidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Introdução à ditadura militar no Brasil\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender características básicas de um regime autoritário",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender características básicas de um regime autoritário",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-12",
+        "enunciado": "Ao estudar \"Introdução à ditadura militar no Brasil\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique sinais de autoritarismo no contexto descrito",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique sinais de autoritarismo no contexto descrito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe a redução da participação democrática",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe a redução da participação democrática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Perceba como isso afeta a vida pública e cultural"
+        ],
+        "respostaCorreta": "Perceba como isso afeta a vida pública e cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
       }
     ],
     "simulado": [
@@ -105,6 +337,90 @@
         "respostaCorreta": "afetam direitos, participação política e vida social",
         "explicacao": "O estudo da ditadura militar ajuda a refletir sobre democracia, autoritarismo e memória histórica.",
         "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Introdução à ditadura militar no Brasil\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a refletir sobre democracia, memória e participação política",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Introdução à ditadura militar no Brasil\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país"
+        ],
+        "respostaCorreta": "A ditadura militar foi marcada pela concentração de poder, pela limitação da participação política e por mecanismos de controle sobre a sociedade. Esse contexto afetou a vida institucional, cultural e social do país",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como a restrição de direitos interfere na vida coletiva e na democracia",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como a restrição de direitos interfere na vida coletiva e na democracia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Introdução à ditadura militar no Brasil\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender características do período",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender características do período",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse período ajuda a compreender a importância da democracia, da liberdade de expressão e da preservação da memória histórica. Essa análise é fundamental para evitar simplificações e fortalecer a cidadania",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Estudar esse período ajuda a compreender a importância da democracia, da liberdade de expressão e da preservação da memória histórica. Essa análise é fundamental para evitar simplificações e fortalecer a cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-ditadura-militar-introducao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quais valores democráticos ficam mais visíveis quando analisamos períodos autoritários"
+        ],
+        "respostaCorreta": "Pergunte quais valores democráticos ficam mais visíveis quando analisamos períodos autoritários",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à ditadura militar no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
       }
     ]
   }

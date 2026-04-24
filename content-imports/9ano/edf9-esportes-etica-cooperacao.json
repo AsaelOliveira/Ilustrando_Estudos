@@ -31,16 +31,397 @@
           "Relacione a situação à ética esportiva."
         ],
         "resposta": "Esse exemplo mostra que o esporte também educa para a convivência e para o autocontrole."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Esportes, ética e cooperação\".",
+        "passos": [
+          "O esporte envolve regras, estratégias, cooperação e respeito entre participantes",
+          "A ética nas práticas esportivas favorece convivência, responsabilidade e fair play",
+          "Estudar esse tema ajuda a compreender o esporte para além da competição"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes, ética e cooperação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Esportes, ética e cooperação\".",
+        "passos": [
+          "A ética nas práticas esportivas favorece convivência, responsabilidade e fair play",
+          "Estudar esse tema ajuda a compreender o esporte para além da competição",
+          "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes, ética e cooperação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Esportes, ética e cooperação\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender o esporte para além da competição",
+          "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal",
+          "Observe como a atitude dos participantes influencia a qualidade da prática esportiva"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes, ética e cooperação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Esportes, ética e cooperação\".",
+        "passos": [
+          "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal",
+          "Observe como a atitude dos participantes influencia a qualidade da prática esportiva",
+          "Valores presentes no esporte"
+        ],
+        "resposta": "Esse exemplo mostra como Esportes, ética e cooperação pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"edf9-esportes-etica-cooperacao-ex-01","enunciado":"A ética no esporte envolve:","tipo":"multipla_escolha","alternativas":["respeito às regras e aos participantes","apenas vencer a qualquer custo","desconsiderar o adversário","ignorar a cooperação em equipe"],"respostaCorreta":"respeito às regras e aos participantes","explicacao":"A ética esportiva valoriza respeito, responsabilidade e convivência justa.","dificuldade":"facil"},
-      {"id":"edf9-esportes-etica-cooperacao-ex-02","enunciado":"O fair play está relacionado a:","tipo":"multipla_escolha","alternativas":["honestidade e atitude correta no jogo","uso de qualquer estratégia desleal","desobediência às regras","competição sem respeito"],"respostaCorreta":"honestidade e atitude correta no jogo","explicacao":"Fair play significa jogar com justiça, respeito e espírito esportivo.","dificuldade":"facil"},
-      {"id":"edf9-esportes-etica-cooperacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O esporte pode desenvolver cooperação, disciplina e respeito.","Práticas esportivas não ensinam nada sobre convivência.","Esporte é importante apenas pelo resultado final.","Regras atrapalham qualquer prática coletiva."],"respostaCorreta":"O esporte pode desenvolver cooperação, disciplina e respeito.","explicacao":"As práticas esportivas também favorecem aprendizagens sociais e éticas.","dificuldade":"medio"},
-      {"id":"edf9-esportes-etica-cooperacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["entender o esporte como prática corporal e social","reduzir o esporte a disputa sem valores","ignorar a importância das regras","separar movimento de convivência"],"respostaCorreta":"entender o esporte como prática corporal e social","explicacao":"O tema amplia a compreensão do esporte como espaço de saúde, respeito e cooperação.","dificuldade":"medio"}
+      {
+        "id": "edf9-esportes-etica-cooperacao-ex-01",
+        "enunciado": "A ética no esporte envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respeito às regras e aos participantes",
+          "apenas vencer a qualquer custo",
+          "desconsiderar o adversário",
+          "ignorar a cooperação em equipe"
+        ],
+        "respostaCorreta": "respeito às regras e aos participantes",
+        "explicacao": "A ética esportiva valoriza respeito, responsabilidade e convivência justa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-ex-02",
+        "enunciado": "O fair play está relacionado a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "honestidade e atitude correta no jogo",
+          "uso de qualquer estratégia desleal",
+          "desobediência às regras",
+          "competição sem respeito"
+        ],
+        "respostaCorreta": "honestidade e atitude correta no jogo",
+        "explicacao": "Fair play significa jogar com justiça, respeito e espírito esportivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O esporte pode desenvolver cooperação, disciplina e respeito.",
+          "Práticas esportivas não ensinam nada sobre convivência.",
+          "Esporte é importante apenas pelo resultado final.",
+          "Regras atrapalham qualquer prática coletiva."
+        ],
+        "respostaCorreta": "O esporte pode desenvolver cooperação, disciplina e respeito.",
+        "explicacao": "As práticas esportivas também favorecem aprendizagens sociais e éticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "entender o esporte como prática corporal e social",
+          "reduzir o esporte a disputa sem valores",
+          "ignorar a importância das regras",
+          "separar movimento de convivência"
+        ],
+        "respostaCorreta": "entender o esporte como prática corporal e social",
+        "explicacao": "O tema amplia a compreensão do esporte como espaço de saúde, respeito e cooperação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Esportes, ética e cooperação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O esporte envolve regras, estratégias, cooperação e respeito entre participantes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O esporte envolve regras, estratégias, cooperação e respeito entre participantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Esportes, ética e cooperação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A ética nas práticas esportivas favorece convivência, responsabilidade e fair play"
+        ],
+        "respostaCorreta": "A ética nas práticas esportivas favorece convivência, responsabilidade e fair play",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender o esporte para além da competição",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender o esporte para além da competição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-05",
+        "enunciado": "No contexto de \"Esportes, ética e cooperação\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a atitude dos participantes influencia a qualidade da prática esportiva",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como a atitude dos participantes influencia a qualidade da prática esportiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-06",
+        "enunciado": "O estudo de \"Esportes, ética e cooperação\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender valores presentes no esporte"
+        ],
+        "respostaCorreta": "compreender valores presentes no esporte",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Agir com ética no esporte significa respeitar adversários, colegas, árbitros e regras do jogo. O fair play valoriza honestidade, autocontrole e cooperação, mesmo em contextos competitivos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Agir com ética no esporte significa respeitar adversários, colegas, árbitros e regras do jogo. O fair play valoriza honestidade, autocontrole e cooperação, mesmo em contextos competitivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense no esporte como prática de convivência, e não apenas como disputa por resultado",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense no esporte como prática de convivência, e não apenas como disputa por resultado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender ética e fair play",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender ética e fair play",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação em que uma equipe mantém o respeito ao adversário mesmo após um resultado negativo"
+        ],
+        "respostaCorreta": "Analise uma situação em que uma equipe mantém o respeito ao adversário mesmo após um resultado negativo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Esportes, ética e cooperação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que o esporte também educa para a convivência e para o autocontrole",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que o esporte também educa para a convivência e para o autocontrole",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Esportes, ética e cooperação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe as atitudes dos participantes",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe as atitudes dos participantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como o respeito aparece durante e após o jogo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como o respeito aparece durante e após o jogo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a situação à ética esportiva"
+        ],
+        "respostaCorreta": "Relacione a situação à ética esportiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"edf9-esportes-etica-cooperacao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["o esporte também educa para a ética, a cooperação e o respeito","competir dispensa qualquer valor coletivo","regras não têm função nas práticas esportivas","vencer sempre é mais importante que agir com respeito"],"respostaCorreta":"o esporte também educa para a ética, a cooperação e o respeito","explicacao":"O conteúdo mostra que o esporte envolve valores sociais importantes além do desempenho. ","dificuldade":"medio"}
+      {
+        "id": "edf9-esportes-etica-cooperacao-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o esporte também educa para a ética, a cooperação e o respeito",
+          "competir dispensa qualquer valor coletivo",
+          "regras não têm função nas práticas esportivas",
+          "vencer sempre é mais importante que agir com respeito"
+        ],
+        "respostaCorreta": "o esporte também educa para a ética, a cooperação e o respeito",
+        "explicacao": "O conteúdo mostra que o esporte envolve valores sociais importantes além do desempenho. ",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Esportes, ética e cooperação\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender o esporte para além da competição",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender o esporte para além da competição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Esportes, ética e cooperação\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal"
+        ],
+        "respostaCorreta": "As práticas esportivas podem desenvolver disciplina, trabalho em equipe, respeito às regras e reconhecimento do outro. Esses aspectos tornam o esporte um espaço importante de aprendizagem social e corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como a atitude dos participantes influencia a qualidade da prática esportiva",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como a atitude dos participantes influencia a qualidade da prática esportiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Esportes, ética e cooperação\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender valores presentes no esporte",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender valores presentes no esporte",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Agir com ética no esporte significa respeitar adversários, colegas, árbitros e regras do jogo. O fair play valoriza honestidade, autocontrole e cooperação, mesmo em contextos competitivos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Agir com ética no esporte significa respeitar adversários, colegas, árbitros e regras do jogo. O fair play valoriza honestidade, autocontrole e cooperação, mesmo em contextos competitivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-esportes-etica-cooperacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense no esporte como prática de convivência, e não apenas como disputa por resultado"
+        ],
+        "respostaCorreta": "Pense no esporte como prática de convivência, e não apenas como disputa por resultado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Esportes, ética e cooperação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

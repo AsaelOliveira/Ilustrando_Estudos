@@ -1,0 +1,427 @@
+[
+  {
+    "id": "port8-crase-introducao",
+    "titulo": "Introdução à crase",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'.",
+      "O acento grave marca essa ocorrência na escrita.",
+      "Entender a crase ajuda a escrever com mais precisão e correção."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é crase",
+        "texto": "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave.",
+        "dica": "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo."
+      },
+      {
+        "subtitulo": "Uso consciente",
+        "texto": "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo.",
+        "dica": "Tente substituir por um termo masculino e observe se aparece 'ao'."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Fui à biblioteca ontem.'",
+        "passos": [
+          "O verbo 'ir' pede a preposição 'a'.",
+          "A palavra 'biblioteca' admite o artigo feminino 'a'.",
+          "A união dessas duas ocorrências forma a crase."
+        ],
+        "resposta": "Em 'à biblioteca', o acento grave indica a fusão entre preposição e artigo."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à crase\".",
+        "passos": [
+          "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'",
+          "O acento grave marca essa ocorrência na escrita",
+          "Entender a crase ajuda a escrever com mais precisão e correção"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à crase pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à crase\".",
+        "passos": [
+          "O acento grave marca essa ocorrência na escrita",
+          "Entender a crase ajuda a escrever com mais precisão e correção",
+          "O que é crase"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à crase pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à crase\".",
+        "passos": [
+          "Entender a crase ajuda a escrever com mais precisão e correção",
+          "O que é crase",
+          "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à crase pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à crase\".",
+        "passos": [
+          "O que é crase",
+          "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave",
+          "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à crase pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-crase-introducao-ex-01",
+        "enunciado": "A crase indica, em geral, a fusão entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "preposição 'a' e artigo 'a'",
+          "duas consoantes",
+          "um verbo e um advérbio",
+          "um pronome e um numeral"
+        ],
+        "respostaCorreta": "preposição 'a' e artigo 'a'",
+        "explicacao": "Essa é a situação mais comum em que ocorre a crase.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-ex-02",
+        "enunciado": "Qual sinal gráfico marca a crase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "acento grave",
+          "til",
+          "cedilha",
+          "travessão"
+        ],
+        "respostaCorreta": "acento grave",
+        "explicacao": "A crase é indicada graficamente pelo acento grave (`).",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-ex-03",
+        "enunciado": "Em qual alternativa há indicação de crase?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A turma foi à escola cedo.",
+          "A turma foi a escola cedo.",
+          "A turma foi de escola cedo.",
+          "A turma foi com escola cedo."
+        ],
+        "respostaCorreta": "A turma foi à escola cedo.",
+        "explicacao": "O verbo pede preposição 'a' e 'escola' admite artigo feminino, formando crase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-ex-04",
+        "enunciado": "Para verificar a ocorrência de crase, o estudante deve observar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a presença simultânea de preposição e artigo feminino",
+          "o tamanho da frase",
+          "a quantidade de vírgulas no período",
+          "a ordem alfabética das palavras"
+        ],
+        "respostaCorreta": "a presença simultânea de preposição e artigo feminino",
+        "explicacao": "A análise da estrutura da frase mostra se realmente houve fusão entre esses dois elementos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O acento grave marca essa ocorrência na escrita"
+        ],
+        "respostaCorreta": "O acento grave marca essa ocorrência na escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender a crase ajuda a escrever com mais precisão e correção",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Entender a crase ajuda a escrever com mais precisão e correção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo"
+        ],
+        "respostaCorreta": "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Tente substituir por um termo masculino e observe se aparece 'ao'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Tente substituir por um termo masculino e observe se aparece 'ao'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Fui à biblioteca ontem.'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Fui à biblioteca ontem.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Em 'à biblioteca', o acento grave indica a fusão entre preposição e artigo",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Em 'à biblioteca', o acento grave indica a fusão entre preposição e artigo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O verbo 'ir' pede a preposição 'a'"
+        ],
+        "respostaCorreta": "O verbo 'ir' pede a preposição 'a'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A palavra 'biblioteca' admite o artigo feminino 'a'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A palavra 'biblioteca' admite o artigo feminino 'a'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A união dessas duas ocorrências forma a crase",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A união dessas duas ocorrências forma a crase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A crase indica a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo 'a'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O acento grave marca essa ocorrência na escrita"
+        ],
+        "respostaCorreta": "O acento grave marca essa ocorrência na escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-crase-introducao-sim-01",
+        "enunciado": "A ideia central do estudo da crase é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "quando ocorre a fusão da preposição 'a' com o artigo feminino",
+          "como contar sílabas tônicas",
+          "como identificar apenas o sujeito",
+          "quando usar exclusivamente ponto e vírgula"
+        ],
+        "respostaCorreta": "quando ocorre a fusão da preposição 'a' com o artigo feminino",
+        "explicacao": "O uso correto da crase depende da análise dessa fusão na estrutura da frase.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Entender a crase ajuda a escrever com mais precisão e correção",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Entender a crase ajuda a escrever com mais precisão e correção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave"
+        ],
+        "respostaCorreta": "A crase acontece quando a preposição 'a', exigida por um termo anterior, se une ao artigo feminino 'a' ou 'as'. Na escrita, essa fusão é representada pelo acento grave",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Verifique se há exigência de preposição e presença de artigo feminino ao mesmo tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nem toda palavra feminina recebe crase. É preciso analisar a estrutura da frase para saber se realmente houve fusão entre preposição e artigo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tente substituir por um termo masculino e observe se aparece 'ao'",
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Tente substituir por um termo masculino e observe se aparece 'ao'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-crase-introducao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à crase se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à crase pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à crase dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Fui à biblioteca ontem.'"
+        ],
+        "respostaCorreta": "Leia: 'Fui à biblioteca ontem.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à crase, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

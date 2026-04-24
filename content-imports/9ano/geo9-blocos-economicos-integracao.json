@@ -31,16 +31,397 @@
           "Perceba como essa articulação influencia a economia e o território."
         ],
         "resposta": "Esse tipo de análise mostra que os blocos econômicos participam da dinâmica da globalização e da organização regional."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Blocos econômicos e integração regional\".",
+        "passos": [
+          "Blocos econômicos reúnem países com interesses de cooperação comercial e política",
+          "A integração regional pode facilitar trocas, circulação e articulação entre territórios",
+          "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea"
+        ],
+        "resposta": "Esse exemplo mostra como Blocos econômicos e integração regional pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Blocos econômicos e integração regional\".",
+        "passos": [
+          "A integração regional pode facilitar trocas, circulação e articulação entre territórios",
+          "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+          "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação"
+        ],
+        "resposta": "Esse exemplo mostra como Blocos econômicos e integração regional pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Blocos econômicos e integração regional\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+          "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação",
+          "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham"
+        ],
+        "resposta": "Esse exemplo mostra como Blocos econômicos e integração regional pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Blocos econômicos e integração regional\".",
+        "passos": [
+          "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação",
+          "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham",
+          "O que são blocos econômicos"
+        ],
+        "resposta": "Esse exemplo mostra como Blocos econômicos e integração regional pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-blocos-economicos-integracao-ex-01","enunciado":"Os blocos econômicos são formados por países que buscam:","tipo":"multipla_escolha","alternativas":["cooperação comercial e integração regional","apenas trocar nomes de capitais","organizar calendários escolares","eliminar toda relação internacional"],"respostaCorreta":"cooperação comercial e integração regional","explicacao":"Esses blocos procuram fortalecer relações econômicas e políticas entre países participantes.","dificuldade":"facil"},
-      {"id":"geo9-blocos-economicos-integracao-ex-02","enunciado":"A integração regional pode influenciar:","tipo":"multipla_escolha","alternativas":["a circulação de mercadorias e investimentos","somente a cor das bandeiras","apenas a escrita dos mapas","exclusivamente a divisão de sílabas"],"respostaCorreta":"a circulação de mercadorias e investimentos","explicacao":"Blocos econômicos interferem em fluxos e conexões entre territórios.","dificuldade":"facil"},
-      {"id":"geo9-blocos-economicos-integracao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Blocos econômicos ajudam a compreender a organização da economia mundial.","Integração regional não tem impacto no espaço geográfico.","Todos os blocos econômicos funcionam exatamente do mesmo modo.","A economia global independe de alianças e acordos entre países."],"respostaCorreta":"Blocos econômicos ajudam a compreender a organização da economia mundial.","explicacao":"Esses agrupamentos revelam como países constroem estratégias e vínculos no cenário internacional.","dificuldade":"medio"},
-      {"id":"geo9-blocos-economicos-integracao-ex-04","enunciado":"Estudar esse tema é importante porque permite:","tipo":"multipla_escolha","alternativas":["interpretar relações econômicas e políticas entre regiões do mundo","reduzir a geografia a nomes soltos de países","ignorar a circulação de mercadorias e capitais","separar completamente economia e território"],"respostaCorreta":"interpretar relações econômicas e políticas entre regiões do mundo","explicacao":"A integração regional faz parte das dinâmicas da globalização e da geografia econômica contemporânea.","dificuldade":"medio"}
+      {
+        "id": "geo9-blocos-economicos-integracao-ex-01",
+        "enunciado": "Os blocos econômicos são formados por países que buscam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cooperação comercial e integração regional",
+          "apenas trocar nomes de capitais",
+          "organizar calendários escolares",
+          "eliminar toda relação internacional"
+        ],
+        "respostaCorreta": "cooperação comercial e integração regional",
+        "explicacao": "Esses blocos procuram fortalecer relações econômicas e políticas entre países participantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-ex-02",
+        "enunciado": "A integração regional pode influenciar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a circulação de mercadorias e investimentos",
+          "somente a cor das bandeiras",
+          "apenas a escrita dos mapas",
+          "exclusivamente a divisão de sílabas"
+        ],
+        "respostaCorreta": "a circulação de mercadorias e investimentos",
+        "explicacao": "Blocos econômicos interferem em fluxos e conexões entre territórios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Blocos econômicos ajudam a compreender a organização da economia mundial.",
+          "Integração regional não tem impacto no espaço geográfico.",
+          "Todos os blocos econômicos funcionam exatamente do mesmo modo.",
+          "A economia global independe de alianças e acordos entre países."
+        ],
+        "respostaCorreta": "Blocos econômicos ajudam a compreender a organização da economia mundial.",
+        "explicacao": "Esses agrupamentos revelam como países constroem estratégias e vínculos no cenário internacional.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-ex-04",
+        "enunciado": "Estudar esse tema é importante porque permite:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar relações econômicas e políticas entre regiões do mundo",
+          "reduzir a geografia a nomes soltos de países",
+          "ignorar a circulação de mercadorias e capitais",
+          "separar completamente economia e território"
+        ],
+        "respostaCorreta": "interpretar relações econômicas e políticas entre regiões do mundo",
+        "explicacao": "A integração regional faz parte das dinâmicas da globalização e da geografia econômica contemporânea.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Blocos econômicos e integração regional\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Blocos econômicos reúnem países com interesses de cooperação comercial e política",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Blocos econômicos reúnem países com interesses de cooperação comercial e política",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-02",
+        "enunciado": "Ao estudar \"Blocos econômicos e integração regional\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A integração regional pode facilitar trocas, circulação e articulação entre territórios"
+        ],
+        "respostaCorreta": "A integração regional pode facilitar trocas, circulação e articulação entre territórios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-05",
+        "enunciado": "No contexto de \"Blocos econômicos e integração regional\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-06",
+        "enunciado": "O estudo de \"Blocos econômicos e integração regional\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender o que são blocos econômicos"
+        ],
+        "respostaCorreta": "compreender o que são blocos econômicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A formação de blocos modifica fluxos de mercadorias, investimentos, pessoas e informações. Isso interfere na organização do espaço geográfico e nas relações entre países em diferentes escalas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A formação de blocos modifica fluxos de mercadorias, investimentos, pessoas e informações. Isso interfere na organização do espaço geográfico e nas relações entre países em diferentes escalas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em como a integração regional pode gerar oportunidades, mas também disputas e desigualdades",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em como a integração regional pode gerar oportunidades, mas também disputas e desigualdades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender integração regional e espaço geográfico",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender integração regional e espaço geográfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise um bloco econômico e observe como seus países estabelecem cooperação comercial"
+        ],
+        "respostaCorreta": "Analise um bloco econômico e observe como seus países estabelecem cooperação comercial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Blocos econômicos e integração regional\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de análise mostra que os blocos econômicos participam da dinâmica da globalização e da organização regional",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de análise mostra que os blocos econômicos participam da dinâmica da globalização e da organização regional",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-12",
+        "enunciado": "Ao estudar \"Blocos econômicos e integração regional\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique os países participantes",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique os países participantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os objetivos da integração",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os objetivos da integração",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Perceba como essa articulação influencia a economia e o território"
+        ],
+        "respostaCorreta": "Perceba como essa articulação influencia a economia e o território",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-blocos-economicos-integracao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["países podem se articular em blocos para ampliar integração e fortalecer sua atuação econômica","a economia mundial funciona sem cooperação entre territórios","blocos econômicos não alteram fluxos nem relações internacionais","integração regional não tem importância geográfica"],"respostaCorreta":"países podem se articular em blocos para ampliar integração e fortalecer sua atuação econômica","explicacao":"Os blocos econômicos mostram como a articulação entre países modifica o espaço e a economia em escala regional e global.","dificuldade":"medio"}
+      {
+        "id": "geo9-blocos-economicos-integracao-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "países podem se articular em blocos para ampliar integração e fortalecer sua atuação econômica",
+          "a economia mundial funciona sem cooperação entre territórios",
+          "blocos econômicos não alteram fluxos nem relações internacionais",
+          "integração regional não tem importância geográfica"
+        ],
+        "respostaCorreta": "países podem se articular em blocos para ampliar integração e fortalecer sua atuação econômica",
+        "explicacao": "Os blocos econômicos mostram como a articulação entre países modifica o espaço e a economia em escala regional e global.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Blocos econômicos e integração regional\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender a organização da economia mundial contemporânea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Blocos econômicos e integração regional\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação"
+        ],
+        "respostaCorreta": "Blocos econômicos são associações entre países que buscam ampliar relações comerciais, reduzir barreiras e fortalecer posições regionais. Eles podem variar em grau de integração, desde acordos mais simples até estruturas mais complexas de cooperação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao estudar um bloco econômico, observe quais países o compõem e quais interesses compartilham",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Blocos econômicos e integração regional\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender o que são blocos econômicos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender o que são blocos econômicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A formação de blocos modifica fluxos de mercadorias, investimentos, pessoas e informações. Isso interfere na organização do espaço geográfico e nas relações entre países em diferentes escalas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A formação de blocos modifica fluxos de mercadorias, investimentos, pessoas e informações. Isso interfere na organização do espaço geográfico e nas relações entre países em diferentes escalas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-blocos-economicos-integracao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como a integração regional pode gerar oportunidades, mas também disputas e desigualdades"
+        ],
+        "respostaCorreta": "Pense em como a integração regional pode gerar oportunidades, mas também disputas e desigualdades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Blocos econômicos e integração regional apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

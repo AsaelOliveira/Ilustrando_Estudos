@@ -1,0 +1,426 @@
+[
+  {
+    "id": "edf8-saude-atividade-fisica-qualidade-vida",
+    "titulo": "Atividade física, saúde e qualidade de vida",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Saúde e movimento",
+    "resumo": [
+      "A prática regular de atividade física pode contribuir para a saúde e o bem-estar.",
+      "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida.",
+      "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Movimento e bem-estar",
+        "texto": "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais.",
+        "dica": "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde."
+      },
+      {
+        "subtitulo": "Qualidade de vida e equilíbrio",
+        "texto": "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa.",
+        "dica": "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados.",
+        "passos": [
+          "Observe a relação entre movimento e disposição física.",
+          "Perceba que a atividade se integra a outros hábitos de cuidado."
+        ],
+        "resposta": "Esse exemplo mostra como atividade física e qualidade de vida podem caminhar juntas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Atividade física, saúde e qualidade de vida\".",
+        "passos": [
+          "A prática regular de atividade física pode contribuir para a saúde e o bem-estar",
+          "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida",
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo"
+        ],
+        "resposta": "Esse exemplo mostra como Atividade física, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Atividade física, saúde e qualidade de vida\".",
+        "passos": [
+          "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida",
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+          "Movimento e bem-estar"
+        ],
+        "resposta": "Esse exemplo mostra como Atividade física, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Atividade física, saúde e qualidade de vida\".",
+        "passos": [
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+          "Movimento e bem-estar",
+          "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais"
+        ],
+        "resposta": "Esse exemplo mostra como Atividade física, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Atividade física, saúde e qualidade de vida\".",
+        "passos": [
+          "Movimento e bem-estar",
+          "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais",
+          "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde"
+        ],
+        "resposta": "Esse exemplo mostra como Atividade física, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-ex-01",
+        "enunciado": "A atividade física regular pode contribuir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "saúde e bem-estar",
+          "sedentarismo consciente",
+          "eliminação do descanso",
+          "abandono de hábitos saudáveis"
+        ],
+        "respostaCorreta": "saúde e bem-estar",
+        "explicacao": "A prática regular e orientada de atividade física pode favorecer o bem-estar e a qualidade de vida.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-ex-02",
+        "enunciado": "Pensar em qualidade de vida envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hábitos equilibrados de cuidado com o corpo",
+          "apenas competição esportiva intensa",
+          "somente descanso sem movimento",
+          "ignorar alimentação e rotina"
+        ],
+        "respostaCorreta": "hábitos equilibrados de cuidado com o corpo",
+        "explicacao": "Qualidade de vida envolve movimento, alimentação, descanso e cuidado contínuo com a saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividade física não se limita ao esporte competitivo.",
+          "Só atletas profissionais se beneficiam do movimento corporal.",
+          "Qualidade de vida não tem relação com hábitos diários.",
+          "Movimento e saúde não se relacionam."
+        ],
+        "respostaCorreta": "Atividade física não se limita ao esporte competitivo.",
+        "explicacao": "Práticas corporais variadas também fazem parte de uma vida ativa e saudável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cuidar do corpo com mais consciência",
+          "reduzir a saúde apenas à aparência",
+          "ignorar os efeitos do sedentarismo",
+          "achar que hábitos não interferem na qualidade de vida"
+        ],
+        "respostaCorreta": "cuidar do corpo com mais consciência",
+        "explicacao": "O conteúdo fortalece uma visão mais ampla sobre saúde, movimento e bem-estar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A prática regular de atividade física pode contribuir para a saúde e o bem-estar",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A prática regular de atividade física pode contribuir para a saúde e o bem-estar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida"
+        ],
+        "respostaCorreta": "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa"
+        ],
+        "respostaCorreta": "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como atividade física e qualidade de vida podem caminhar juntas",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como atividade física e qualidade de vida podem caminhar juntas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a relação entre movimento e disposição física"
+        ],
+        "respostaCorreta": "Observe a relação entre movimento e disposição física",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a atividade se integra a outros hábitos de cuidado",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a atividade se integra a outros hábitos de cuidado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A prática regular de atividade física pode contribuir para a saúde e o bem-estar",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A prática regular de atividade física pode contribuir para a saúde e o bem-estar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Hábitos corporais saudáveis influenciam disposição, condicionamento e qualidade de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-sim-01",
+        "enunciado": "A principal ideia desse tema é perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atividade física e hábitos saudáveis contribuem para a qualidade de vida",
+          "saúde depende apenas de sorte",
+          "movimento corporal não interfere no bem-estar",
+          "qualidade de vida se resume ao desempenho esportivo"
+        ],
+        "respostaCorreta": "atividade física e hábitos saudáveis contribuem para a qualidade de vida",
+        "explicacao": "A vida saudável envolve prática corporal consciente e outros cuidados integrados com o bem-estar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a tomar decisões mais conscientes sobre o cuidado com o corpo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais"
+        ],
+        "respostaCorreta": "A atividade física está relacionada à melhora do condicionamento, da disposição e da saúde geral quando praticada com orientação e regularidade. Ela não se resume ao esporte competitivo, podendo aparecer em diversas práticas corporais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que movimentar o corpo de forma regular também faz parte do cuidado com a saúde",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pensar em qualidade de vida envolve hábitos saudáveis, descanso, alimentação adequada e prática corporal consciente. O equilíbrio entre esses fatores contribui para uma vida mais saudável e ativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo",
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe atividade física a uma rotina equilibrada, e não apenas ao desempenho esportivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-saude-atividade-fisica-qualidade-vida-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de atividade física, saúde e qualidade de vida se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Atividade física, saúde e qualidade de vida pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com atividade física, saúde e qualidade de vida dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados"
+        ],
+        "respostaCorreta": "Considere uma pessoa que pratica caminhada regularmente e organiza melhor sua rotina de cuidados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Atividade física, saúde e qualidade de vida, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

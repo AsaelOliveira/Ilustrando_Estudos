@@ -1,0 +1,427 @@
+[
+  {
+    "id": "red8-revisao-reescrita-textual",
+    "titulo": "Revisão e reescrita textual",
+    "disciplinaId": "red8",
+    "turmaId": "8ano",
+    "unidade": "Produção textual",
+    "resumo": [
+      "Revisar um texto é observar clareza, coerência, organização e correção da escrita.",
+      "Reescrever faz parte do processo de aprimoramento da produção textual.",
+      "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Importância da revisão",
+        "texto": "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor.",
+        "dica": "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto."
+      },
+      {
+        "subtitulo": "Reescrita como aprimoramento",
+        "texto": "Reescrever permite melhorar palavras, frases, argumentos e organização geral do texto. Ao revisar e reescrever, o estudante aprende a aperfeiçoar a própria produção de modo mais consciente.",
+        "dica": "Não tenha receio de alterar trechos; reescrever também é parte importante da escrita."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma redação com ideias boas, mas repetitivas e pouco organizadas.",
+        "passos": [
+          "Revise a ordem dos parágrafos e das frases.",
+          "Elimine repetições desnecessárias.",
+          "Reescreva os trechos para deixar o texto mais claro."
+        ],
+        "resposta": "Esse processo mostra como a revisão e a reescrita fortalecem a qualidade do texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Revisão e reescrita textual\".",
+        "passos": [
+          "Revisar um texto é observar clareza, coerência, organização e correção da escrita",
+          "Reescrever faz parte do processo de aprimoramento da produção textual",
+          "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão e reescrita textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Revisão e reescrita textual\".",
+        "passos": [
+          "Reescrever faz parte do processo de aprimoramento da produção textual",
+          "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+          "Importância da revisão"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão e reescrita textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Revisão e reescrita textual\".",
+        "passos": [
+          "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+          "Importância da revisão",
+          "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão e reescrita textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Revisão e reescrita textual\".",
+        "passos": [
+          "Importância da revisão",
+          "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor",
+          "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto"
+        ],
+        "resposta": "Esse exemplo mostra como Revisão e reescrita textual pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red8-revisao-reescrita-textual-ex-01",
+        "enunciado": "Revisar um texto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar clareza, organização e correção da escrita",
+          "copiar o texto sem reler",
+          "mudar tudo sem critério",
+          "escrever sem voltar ao que já foi feito"
+        ],
+        "respostaCorreta": "analisar clareza, organização e correção da escrita",
+        "explicacao": "A revisão envolve observar diferentes aspectos do texto para melhorá-lo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-ex-02",
+        "enunciado": "A reescrita é importante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permite aprimorar o texto",
+          "elimina a necessidade de planejamento",
+          "substitui a leitura da proposta",
+          "dispensa toda reflexão sobre a escrita"
+        ],
+        "respostaCorreta": "permite aprimorar o texto",
+        "explicacao": "Reescrever ajuda a ajustar ideias, estrutura e linguagem para melhorar a produção final.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita fazem parte do processo de escrever melhor.",
+          "Um bom texto nasce pronto e nunca precisa de revisão.",
+          "Reescrever é sinal de erro sem valor pedagógico.",
+          "A revisão serve apenas para trocar palavras ao acaso."
+        ],
+        "respostaCorreta": "Revisão e reescrita fazem parte do processo de escrever melhor.",
+        "explicacao": "Escrever bem envolve releitura, ajuste e aprimoramento do texto produzido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver mais autonomia e cuidado com a escrita",
+          "achar que o primeiro rascunho sempre é definitivo",
+          "evitar qualquer releitura do texto",
+          "pensar que revisar é perda de tempo"
+        ],
+        "respostaCorreta": "desenvolver mais autonomia e cuidado com a escrita",
+        "explicacao": "A revisão e a reescrita fortalecem consciência linguística e qualidade textual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisar um texto é observar clareza, coerência, organização e correção da escrita",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Revisar um texto é observar clareza, coerência, organização e correção da escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Reescrever faz parte do processo de aprimoramento da produção textual"
+        ],
+        "respostaCorreta": "Reescrever faz parte do processo de aprimoramento da produção textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Reescrever permite melhorar palavras, frases, argumentos e organização geral do texto. Ao revisar e reescrever, o estudante aprende a aperfeiçoar a própria produção de modo mais consciente"
+        ],
+        "respostaCorreta": "Reescrever permite melhorar palavras, frases, argumentos e organização geral do texto. Ao revisar e reescrever, o estudante aprende a aperfeiçoar a própria produção de modo mais consciente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Não tenha receio de alterar trechos; reescrever também é parte importante da escrita",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Não tenha receio de alterar trechos; reescrever também é parte importante da escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma redação com ideias boas, mas repetitivas e pouco organizadas",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma redação com ideias boas, mas repetitivas e pouco organizadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse processo mostra como a revisão e a reescrita fortalecem a qualidade do texto",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse processo mostra como a revisão e a reescrita fortalecem a qualidade do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Revise a ordem dos parágrafos e das frases"
+        ],
+        "respostaCorreta": "Revise a ordem dos parágrafos e das frases",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Elimine repetições desnecessárias",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Elimine repetições desnecessárias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Reescreva os trechos para deixar o texto mais claro",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Reescreva os trechos para deixar o texto mais claro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisar um texto é observar clareza, coerência, organização e correção da escrita",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Revisar um texto é observar clareza, coerência, organização e correção da escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Reescrever faz parte do processo de aprimoramento da produção textual"
+        ],
+        "respostaCorreta": "Reescrever faz parte do processo de aprimoramento da produção textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red8-revisao-reescrita-textual-sim-01",
+        "enunciado": "A principal ideia do estudo da revisão textual é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um texto pode ser melhorado por meio de releitura e reescrita conscientes",
+          "revisar significa apenas procurar acentos",
+          "a escrita termina no primeiro rascunho",
+          "reescrever prejudica a originalidade"
+        ],
+        "respostaCorreta": "um texto pode ser melhorado por meio de releitura e reescrita conscientes",
+        "explicacao": "Revisar e reescrever são etapas importantes para aperfeiçoar clareza, organização e correção do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda o estudante a desenvolver mais autonomia e cuidado com o próprio texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor"
+        ],
+        "respostaCorreta": "Revisar não é apenas procurar erros ortográficos. Essa etapa também envolve verificar se as ideias estão bem organizadas, se o texto atende à proposta e se a leitura ficou clara para o interlocutor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Leia o texto com calma e pergunte se cada parte cumpre uma função no conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Reescrever permite melhorar palavras, frases, argumentos e organização geral do texto. Ao revisar e reescrever, o estudante aprende a aperfeiçoar a própria produção de modo mais consciente",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Reescrever permite melhorar palavras, frases, argumentos e organização geral do texto. Ao revisar e reescrever, o estudante aprende a aperfeiçoar a própria produção de modo mais consciente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não tenha receio de alterar trechos; reescrever também é parte importante da escrita",
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Não tenha receio de alterar trechos; reescrever também é parte importante da escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-revisao-reescrita-textual-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de revisão e reescrita textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Revisão e reescrita textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com revisão e reescrita textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma redação com ideias boas, mas repetitivas e pouco organizadas"
+        ],
+        "respostaCorreta": "Considere uma redação com ideias boas, mas repetitivas e pouco organizadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Revisão e reescrita textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

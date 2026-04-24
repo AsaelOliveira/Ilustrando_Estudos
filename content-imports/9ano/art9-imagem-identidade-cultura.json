@@ -31,16 +31,397 @@
           "Relacione a produção artística à ideia de identidade cultural."
         ],
         "resposta": "Esse tipo de análise mostra que a arte pode expressar pertencimento e memória coletiva."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Imagem, identidade e cultura\".",
+        "passos": [
+          "As imagens podem expressar identidades, valores e experiências culturais",
+          "A arte dialoga com memória, pertencimento e diversidade social",
+          "Estudar esse tema fortalece a leitura crítica de produções visuais"
+        ],
+        "resposta": "Esse exemplo mostra como Imagem, identidade e cultura pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Imagem, identidade e cultura\".",
+        "passos": [
+          "A arte dialoga com memória, pertencimento e diversidade social",
+          "Estudar esse tema fortalece a leitura crítica de produções visuais",
+          "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos"
+        ],
+        "resposta": "Esse exemplo mostra como Imagem, identidade e cultura pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Imagem, identidade e cultura\".",
+        "passos": [
+          "Estudar esse tema fortalece a leitura crítica de produções visuais",
+          "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos",
+          "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra"
+        ],
+        "resposta": "Esse exemplo mostra como Imagem, identidade e cultura pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Imagem, identidade e cultura\".",
+        "passos": [
+          "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos",
+          "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra",
+          "Imagem como linguagem cultural"
+        ],
+        "resposta": "Esse exemplo mostra como Imagem, identidade e cultura pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"art9-imagem-identidade-cultura-ex-01","enunciado":"As imagens podem comunicar:","tipo":"multipla_escolha","alternativas":["valores, identidades e referências culturais","apenas medidas matemáticas","somente regras gramaticais","unicamente nomes de lugares"],"respostaCorreta":"valores, identidades e referências culturais","explicacao":"A linguagem visual pode expressar experiências e sentidos ligados à vida social e cultural.","dificuldade":"facil"},
-      {"id":"art9-imagem-identidade-cultura-ex-02","enunciado":"Ao relacionar arte e identidade, analisamos:","tipo":"multipla_escolha","alternativas":["como obras podem expressar pertencimento e memória","somente o tamanho da moldura","apenas o preço de materiais artísticos","unicamente a data de impressão de um cartaz"],"respostaCorreta":"como obras podem expressar pertencimento e memória","explicacao":"A arte pode representar experiências coletivas e afirmar identidades culturais.","dificuldade":"facil"},
-      {"id":"art9-imagem-identidade-cultura-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A arte pode contribuir para refletir sobre diversidade cultural.","Toda imagem artística é neutra e sem contexto.","Identidade não tem relação com produção visual.","A leitura de imagens dispensa interpretação."],"respostaCorreta":"A arte pode contribuir para refletir sobre diversidade cultural.","explicacao":"Muitas produções visuais ajudam a discutir experiências, diferenças e pertencimentos sociais.","dificuldade":"medio"},
-      {"id":"art9-imagem-identidade-cultura-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver leitura crítica de imagens e culturas","reduzir a arte a decoração sem sentido","ignorar a diversidade social nas obras","analisar produções visuais sem observar contexto"],"respostaCorreta":"desenvolver leitura crítica de imagens e culturas","explicacao":"O conteúdo amplia a compreensão da arte como linguagem ligada à sociedade e à identidade.","dificuldade":"medio"}
+      {
+        "id": "art9-imagem-identidade-cultura-ex-01",
+        "enunciado": "As imagens podem comunicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valores, identidades e referências culturais",
+          "apenas medidas matemáticas",
+          "somente regras gramaticais",
+          "unicamente nomes de lugares"
+        ],
+        "respostaCorreta": "valores, identidades e referências culturais",
+        "explicacao": "A linguagem visual pode expressar experiências e sentidos ligados à vida social e cultural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-ex-02",
+        "enunciado": "Ao relacionar arte e identidade, analisamos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como obras podem expressar pertencimento e memória",
+          "somente o tamanho da moldura",
+          "apenas o preço de materiais artísticos",
+          "unicamente a data de impressão de um cartaz"
+        ],
+        "respostaCorreta": "como obras podem expressar pertencimento e memória",
+        "explicacao": "A arte pode representar experiências coletivas e afirmar identidades culturais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A arte pode contribuir para refletir sobre diversidade cultural.",
+          "Toda imagem artística é neutra e sem contexto.",
+          "Identidade não tem relação com produção visual.",
+          "A leitura de imagens dispensa interpretação."
+        ],
+        "respostaCorreta": "A arte pode contribuir para refletir sobre diversidade cultural.",
+        "explicacao": "Muitas produções visuais ajudam a discutir experiências, diferenças e pertencimentos sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver leitura crítica de imagens e culturas",
+          "reduzir a arte a decoração sem sentido",
+          "ignorar a diversidade social nas obras",
+          "analisar produções visuais sem observar contexto"
+        ],
+        "respostaCorreta": "desenvolver leitura crítica de imagens e culturas",
+        "explicacao": "O conteúdo amplia a compreensão da arte como linguagem ligada à sociedade e à identidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Imagem, identidade e cultura\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As imagens podem expressar identidades, valores e experiências culturais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "As imagens podem expressar identidades, valores e experiências culturais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-02",
+        "enunciado": "Ao estudar \"Imagem, identidade e cultura\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A arte dialoga com memória, pertencimento e diversidade social"
+        ],
+        "respostaCorreta": "A arte dialoga com memória, pertencimento e diversidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece a leitura crítica de produções visuais",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a leitura crítica de produções visuais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-05",
+        "enunciado": "No contexto de \"Imagem, identidade e cultura\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-06",
+        "enunciado": "O estudo de \"Imagem, identidade e cultura\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender imagem como linguagem cultural"
+        ],
+        "respostaCorreta": "compreender imagem como linguagem cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A produção artística também pode afirmar identidades individuais e coletivas. Ao analisar obras ligadas a território, memória e diversidade, o estudante percebe como a arte participa da construção de pertencimento e expressão cultural",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A produção artística também pode afirmar identidades individuais e coletivas. Ao analisar obras ligadas a território, memória e diversidade, o estudante percebe como a arte participa da construção de pertencimento e expressão cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como a obra se relaciona com a experiência de um grupo, de uma comunidade ou de um período",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como a obra se relaciona com a experiência de um grupo, de uma comunidade ou de um período",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender arte e identidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender arte e identidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma obra visual que represente costumes, símbolos ou histórias de uma comunidade"
+        ],
+        "respostaCorreta": "Observe uma obra visual que represente costumes, símbolos ou histórias de uma comunidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Imagem, identidade e cultura\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de análise mostra que a arte pode expressar pertencimento e memória coletiva",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de análise mostra que a arte pode expressar pertencimento e memória coletiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-12",
+        "enunciado": "Ao estudar \"Imagem, identidade e cultura\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique elementos culturais presentes na imagem",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique elementos culturais presentes na imagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como esses elementos constroem significados",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como esses elementos constroem significados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a produção artística à ideia de identidade cultural"
+        ],
+        "respostaCorreta": "Relacione a produção artística à ideia de identidade cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"art9-imagem-identidade-cultura-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["imagens e obras podem expressar identidade, cultura e memória","arte existe apenas para enfeitar ambientes","produção visual não tem relação com sociedade","identidade cultural não aparece em manifestações artísticas"],"respostaCorreta":"imagens e obras podem expressar identidade, cultura e memória","explicacao":"O tema mostra que a arte participa da construção e da expressão de sentidos culturais. ","dificuldade":"medio"}
+      {
+        "id": "art9-imagem-identidade-cultura-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "imagens e obras podem expressar identidade, cultura e memória",
+          "arte existe apenas para enfeitar ambientes",
+          "produção visual não tem relação com sociedade",
+          "identidade cultural não aparece em manifestações artísticas"
+        ],
+        "respostaCorreta": "imagens e obras podem expressar identidade, cultura e memória",
+        "explicacao": "O tema mostra que a arte participa da construção e da expressão de sentidos culturais. ",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Imagem, identidade e cultura\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece a leitura crítica de produções visuais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a leitura crítica de produções visuais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Imagem, identidade e cultura\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos"
+        ],
+        "respostaCorreta": "Imagens artísticas e visuais comunicam ideias, sentimentos e referências sociais. Elas podem representar modos de vida, tradições, conflitos e visões de mundo presentes em diferentes grupos e contextos históricos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe quais símbolos, cores e escolhas visuais ajudam a construir sentidos culturais na obra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Imagem, identidade e cultura\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender imagem como linguagem cultural",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender imagem como linguagem cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A produção artística também pode afirmar identidades individuais e coletivas. Ao analisar obras ligadas a território, memória e diversidade, o estudante percebe como a arte participa da construção de pertencimento e expressão cultural",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A produção artística também pode afirmar identidades individuais e coletivas. Ao analisar obras ligadas a território, memória e diversidade, o estudante percebe como a arte participa da construção de pertencimento e expressão cultural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-imagem-identidade-cultura-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como a obra se relaciona com a experiência de um grupo, de uma comunidade ou de um período"
+        ],
+        "respostaCorreta": "Pergunte como a obra se relaciona com a experiência de um grupo, de uma comunidade ou de um período",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Imagem, identidade e cultura apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

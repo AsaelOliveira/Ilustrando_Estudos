@@ -1,0 +1,426 @@
+[
+  {
+    "id": "red8-coesao-clareza-organizacao",
+    "titulo": "Coesão, clareza e organização textual",
+    "disciplinaId": "red8",
+    "turmaId": "8ano",
+    "unidade": "Produção textual",
+    "resumo": [
+      "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza.",
+      "A coesão ajuda a ligar partes do texto e a orientar a leitura.",
+      "Estudar esse tema melhora a qualidade da escrita e da comunicação textual."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Clareza na expressão das ideias",
+        "texto": "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado.",
+        "dica": "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade."
+      },
+      {
+        "subtitulo": "Coesão e sequência textual",
+        "texto": "A coesão contribui para ligar partes do texto por meio de conectivos, retomadas e relações de sentido. Sem essa articulação, o texto pode parecer fragmentado e difícil de acompanhar.",
+        "dica": "Observe se as frases e os parágrafos se conectam de modo lógico."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um texto com boas ideias, mas sem ligação entre os parágrafos.",
+        "passos": [
+          "Observe que falta continuidade entre as partes.",
+          "Perceba como conectivos e reorganização podem melhorar a leitura."
+        ],
+        "resposta": "Esse exemplo mostra por que coesão e organização são importantes na redação."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Coesão, clareza e organização textual\".",
+        "passos": [
+          "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza",
+          "A coesão ajuda a ligar partes do texto e a orientar a leitura",
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão, clareza e organização textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Coesão, clareza e organização textual\".",
+        "passos": [
+          "A coesão ajuda a ligar partes do texto e a orientar a leitura",
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+          "Clareza na expressão das ideias"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão, clareza e organização textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Coesão, clareza e organização textual\".",
+        "passos": [
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+          "Clareza na expressão das ideias",
+          "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão, clareza e organização textual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Coesão, clareza e organização textual\".",
+        "passos": [
+          "Clareza na expressão das ideias",
+          "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado",
+          "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão, clareza e organização textual pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red8-coesao-clareza-organizacao-ex-01",
+        "enunciado": "Um texto claro é aquele que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "permite ao leitor compreender bem as ideias",
+          "apresenta frases sem relação entre si",
+          "evita qualquer organização lógica",
+          "dispensa o uso de parágrafos"
+        ],
+        "respostaCorreta": "permite ao leitor compreender bem as ideias",
+        "explicacao": "Clareza textual envolve estrutura compreensível e apresentação organizada do conteúdo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-ex-02",
+        "enunciado": "A coesão textual ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligar partes do texto com sentido",
+          "eliminar toda relação entre frases",
+          "trocar texto por lista de palavras",
+          "substituir a revisão da escrita"
+        ],
+        "respostaCorreta": "ligar partes do texto com sentido",
+        "explicacao": "A coesão organiza a passagem entre ideias e melhora a continuidade da leitura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão, clareza e organização tornam o texto mais eficiente na comunicação.",
+          "Um texto bem escrito não precisa de articulação entre as partes.",
+          "A organização não interfere na compreensão do leitor.",
+          "Clareza textual significa usar frases confusas e longas."
+        ],
+        "respostaCorreta": "Coesão, clareza e organização tornam o texto mais eficiente na comunicação.",
+        "explicacao": "Esses elementos ajudam o leitor a acompanhar melhor o raciocínio apresentado no texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir textos mais compreensíveis e organizados",
+          "reduzir a escrita a frases desconectadas",
+          "dispensar o planejamento da redação",
+          "trocar ideias por repetições sem sentido"
+        ],
+        "respostaCorreta": "produzir textos mais compreensíveis e organizados",
+        "explicacao": "O conteúdo fortalece a capacidade de estruturar e articular melhor a escrita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão ajuda a ligar partes do texto e a orientar a leitura"
+        ],
+        "respostaCorreta": "A coesão ajuda a ligar partes do texto e a orientar a leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão contribui para ligar partes do texto por meio de conectivos, retomadas e relações de sentido. Sem essa articulação, o texto pode parecer fragmentado e difícil de acompanhar"
+        ],
+        "respostaCorreta": "A coesão contribui para ligar partes do texto por meio de conectivos, retomadas e relações de sentido. Sem essa articulação, o texto pode parecer fragmentado e difícil de acompanhar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se as frases e os parágrafos se conectam de modo lógico",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se as frases e os parágrafos se conectam de modo lógico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um texto com boas ideias, mas sem ligação entre os parágrafos",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere um texto com boas ideias, mas sem ligação entre os parágrafos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra por que coesão e organização são importantes na redação",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra por que coesão e organização são importantes na redação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que falta continuidade entre as partes"
+        ],
+        "respostaCorreta": "Observe que falta continuidade entre as partes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como conectivos e reorganização podem melhorar a leitura",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como conectivos e reorganização podem melhorar a leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Um bom texto precisa apresentar ideias conectadas e organizadas com clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A coesão ajuda a ligar partes do texto e a orientar a leitura",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A coesão ajuda a ligar partes do texto e a orientar a leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual"
+        ],
+        "respostaCorreta": "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red8-coesao-clareza-organizacao-sim-01",
+        "enunciado": "A principal contribuição do estudo da coesão e da clareza é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um texto bem organizado facilita a compreensão do leitor",
+          "organização e sentido não têm relação",
+          "escrever bem é apenas evitar erros ortográficos",
+          "coesão substitui totalmente a necessidade de revisão"
+        ],
+        "respostaCorreta": "um texto bem organizado facilita a compreensão do leitor",
+        "explicacao": "A redação se fortalece quando as ideias estão articuladas com clareza e sequência lógica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema melhora a qualidade da escrita e da comunicação textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado"
+        ],
+        "respostaCorreta": "Escrever com clareza significa construir frases e parágrafos compreensíveis, evitando ambiguidades e desorganização. Quando o texto está claro, o leitor acompanha melhor o raciocínio apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte se alguém que não escreveu o texto conseguiria entender a ideia principal com facilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão contribui para ligar partes do texto por meio de conectivos, retomadas e relações de sentido. Sem essa articulação, o texto pode parecer fragmentado e difícil de acompanhar",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A coesão contribui para ligar partes do texto por meio de conectivos, retomadas e relações de sentido. Sem essa articulação, o texto pode parecer fragmentado e difícil de acompanhar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se as frases e os parágrafos se conectam de modo lógico",
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se as frases e os parágrafos se conectam de modo lógico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-coesao-clareza-organizacao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão, clareza e organização textual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão, clareza e organização textual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão, clareza e organização textual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um texto com boas ideias, mas sem ligação entre os parágrafos"
+        ],
+        "respostaCorreta": "Considere um texto com boas ideias, mas sem ligação entre os parágrafos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão, clareza e organização textual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

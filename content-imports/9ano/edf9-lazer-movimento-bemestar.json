@@ -31,16 +31,397 @@
           "Relacione essas situações ao papel do lazer na qualidade de vida."
         ],
         "resposta": "Esse contraste mostra que lazer e movimento também podem fazer parte do cuidado com a saúde."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Lazer, movimento e bem-estar\".",
+        "passos": [
+          "O lazer pode incluir práticas corporais que contribuem para saúde e bem-estar",
+          "Movimento, recreação e convívio social fazem parte da qualidade de vida",
+          "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas"
+        ],
+        "resposta": "Esse exemplo mostra como Lazer, movimento e bem-estar pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Lazer, movimento e bem-estar\".",
+        "passos": [
+          "Movimento, recreação e convívio social fazem parte da qualidade de vida",
+          "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+          "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras"
+        ],
+        "resposta": "Esse exemplo mostra como Lazer, movimento e bem-estar pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Lazer, movimento e bem-estar\".",
+        "passos": [
+          "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+          "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras",
+          "Pense no lazer como espaço de cuidado, convivência e expressão corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Lazer, movimento e bem-estar pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Lazer, movimento e bem-estar\".",
+        "passos": [
+          "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras",
+          "Pense no lazer como espaço de cuidado, convivência e expressão corporal",
+          "Lazer como dimensão da vida"
+        ],
+        "resposta": "Esse exemplo mostra como Lazer, movimento e bem-estar pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"edf9-lazer-movimento-bemestar-ex-01","enunciado":"O lazer pode contribuir para:","tipo":"multipla_escolha","alternativas":["bem-estar e qualidade de vida","apenas cansaço e isolamento","eliminação do convívio social","ausência completa de movimento"],"respostaCorreta":"bem-estar e qualidade de vida","explicacao":"O lazer pode envolver descanso, socialização e práticas corporais saudáveis.","dificuldade":"facil"},
-      {"id":"edf9-lazer-movimento-bemestar-ex-02","enunciado":"Uma prática corporal ligada ao lazer pode ser:","tipo":"multipla_escolha","alternativas":["uma caminhada recreativa","apenas cálculo algébrico","classificação de palavras","memorização de datas"],"respostaCorreta":"uma caminhada recreativa","explicacao":"Atividades recreativas com movimento também fazem parte das práticas corporais de lazer.","dificuldade":"facil"},
-      {"id":"edf9-lazer-movimento-bemestar-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Práticas corporais de lazer também favorecem saúde e convivência.","Somente atividades competitivas têm valor corporal.","Lazer não se relaciona ao bem-estar.","Movimento no tempo livre não traz benefícios."],"respostaCorreta":"Práticas corporais de lazer também favorecem saúde e convivência.","explicacao":"O corpo pode ser cuidado também em experiências prazerosas e não competitivas.","dificuldade":"medio"},
-      {"id":"edf9-lazer-movimento-bemestar-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["valorizar o movimento em diferentes experiências de vida","reduzir atividade corporal a treino rígido","ignorar a relação entre lazer e saúde","separar bem-estar de convivência"],"respostaCorreta":"valorizar o movimento em diferentes experiências de vida","explicacao":"O conteúdo amplia a compreensão do corpo, do lazer e da qualidade de vida.","dificuldade":"medio"}
+      {
+        "id": "edf9-lazer-movimento-bemestar-ex-01",
+        "enunciado": "O lazer pode contribuir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "bem-estar e qualidade de vida",
+          "apenas cansaço e isolamento",
+          "eliminação do convívio social",
+          "ausência completa de movimento"
+        ],
+        "respostaCorreta": "bem-estar e qualidade de vida",
+        "explicacao": "O lazer pode envolver descanso, socialização e práticas corporais saudáveis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-ex-02",
+        "enunciado": "Uma prática corporal ligada ao lazer pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma caminhada recreativa",
+          "apenas cálculo algébrico",
+          "classificação de palavras",
+          "memorização de datas"
+        ],
+        "respostaCorreta": "uma caminhada recreativa",
+        "explicacao": "Atividades recreativas com movimento também fazem parte das práticas corporais de lazer.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Práticas corporais de lazer também favorecem saúde e convivência.",
+          "Somente atividades competitivas têm valor corporal.",
+          "Lazer não se relaciona ao bem-estar.",
+          "Movimento no tempo livre não traz benefícios."
+        ],
+        "respostaCorreta": "Práticas corporais de lazer também favorecem saúde e convivência.",
+        "explicacao": "O corpo pode ser cuidado também em experiências prazerosas e não competitivas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valorizar o movimento em diferentes experiências de vida",
+          "reduzir atividade corporal a treino rígido",
+          "ignorar a relação entre lazer e saúde",
+          "separar bem-estar de convivência"
+        ],
+        "respostaCorreta": "valorizar o movimento em diferentes experiências de vida",
+        "explicacao": "O conteúdo amplia a compreensão do corpo, do lazer e da qualidade de vida.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Lazer, movimento e bem-estar\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O lazer pode incluir práticas corporais que contribuem para saúde e bem-estar",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O lazer pode incluir práticas corporais que contribuem para saúde e bem-estar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-02",
+        "enunciado": "Ao estudar \"Lazer, movimento e bem-estar\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Movimento, recreação e convívio social fazem parte da qualidade de vida"
+        ],
+        "respostaCorreta": "Movimento, recreação e convívio social fazem parte da qualidade de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-05",
+        "enunciado": "No contexto de \"Lazer, movimento e bem-estar\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense no lazer como espaço de cuidado, convivência e expressão corporal",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pense no lazer como espaço de cuidado, convivência e expressão corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-06",
+        "enunciado": "O estudo de \"Lazer, movimento e bem-estar\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender lazer como dimensão da vida"
+        ],
+        "respostaCorreta": "compreender lazer como dimensão da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Nem toda prática corporal precisa estar ligada ao rendimento ou à competição. Atividades físicas voltadas ao lazer também contribuem para bem-estar, socialização e equilíbrio na rotina",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Nem toda prática corporal precisa estar ligada ao rendimento ou à competição. Atividades físicas voltadas ao lazer também contribuem para bem-estar, socialização e equilíbrio na rotina",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe como diferentes formas de movimento podem trazer benefícios físicos e emocionais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe como diferentes formas de movimento podem trazer benefícios físicos e emocionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender bem-estar e práticas corporais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender bem-estar e práticas corporais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare uma rotina em que a pessoa tem momentos de lazer ativo com outra em que o dia é totalmente sedentário"
+        ],
+        "respostaCorreta": "Compare uma rotina em que a pessoa tem momentos de lazer ativo com outra em que o dia é totalmente sedentário",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Lazer, movimento e bem-estar\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse contraste mostra que lazer e movimento também podem fazer parte do cuidado com a saúde",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse contraste mostra que lazer e movimento também podem fazer parte do cuidado com a saúde",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-12",
+        "enunciado": "Ao estudar \"Lazer, movimento e bem-estar\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe diferenças nas oportunidades de movimento",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe diferenças nas oportunidades de movimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise os possíveis efeitos no bem-estar",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Analise os possíveis efeitos no bem-estar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione essas situações ao papel do lazer na qualidade de vida"
+        ],
+        "respostaCorreta": "Relacione essas situações ao papel do lazer na qualidade de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"edf9-lazer-movimento-bemestar-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["lazer e movimento também são importantes para o bem-estar e a qualidade de vida","atividade corporal só tem valor quando há competição","o tempo livre não se relaciona à saúde","bem-estar dispensa práticas corporais"],"respostaCorreta":"lazer e movimento também são importantes para o bem-estar e a qualidade de vida","explicacao":"O tema valoriza o corpo em práticas prazerosas, sociais e saudáveis.","dificuldade":"medio"}
+      {
+        "id": "edf9-lazer-movimento-bemestar-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "lazer e movimento também são importantes para o bem-estar e a qualidade de vida",
+          "atividade corporal só tem valor quando há competição",
+          "o tempo livre não se relaciona à saúde",
+          "bem-estar dispensa práticas corporais"
+        ],
+        "respostaCorreta": "lazer e movimento também são importantes para o bem-estar e a qualidade de vida",
+        "explicacao": "O tema valoriza o corpo em práticas prazerosas, sociais e saudáveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Lazer, movimento e bem-estar\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a valorizar o corpo também em experiências prazerosas e não competitivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Lazer, movimento e bem-estar\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras"
+        ],
+        "respostaCorreta": "As atividades de lazer fazem parte da vida social e podem envolver descanso, prazer, encontro e movimento. Em muitos casos, o corpo participa dessas experiências por meio de jogos, caminhadas, danças, esportes e brincadeiras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense no lazer como espaço de cuidado, convivência e expressão corporal",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pense no lazer como espaço de cuidado, convivência e expressão corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Lazer, movimento e bem-estar\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender lazer como dimensão da vida",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender lazer como dimensão da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem toda prática corporal precisa estar ligada ao rendimento ou à competição. Atividades físicas voltadas ao lazer também contribuem para bem-estar, socialização e equilíbrio na rotina",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Nem toda prática corporal precisa estar ligada ao rendimento ou à competição. Atividades físicas voltadas ao lazer também contribuem para bem-estar, socialização e equilíbrio na rotina",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-lazer-movimento-bemestar-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como diferentes formas de movimento podem trazer benefícios físicos e emocionais"
+        ],
+        "respostaCorreta": "Observe como diferentes formas de movimento podem trazer benefícios físicos e emocionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lazer, movimento e bem-estar apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lit8-recursos-poeticos-intro",
+    "titulo": "Introdução aos recursos poéticos",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários.",
+      "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo.",
+      "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressividade do poema",
+        "texto": "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos.",
+        "dica": "Leia o poema em voz alta para perceber melhor som, ritmo e repetições."
+      },
+      {
+        "subtitulo": "Leitura atenta da linguagem",
+        "texto": "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos.",
+        "dica": "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia dois versos que repetem sons semelhantes no final.",
+        "passos": [
+          "Observe a repetição sonora entre as palavras finais.",
+          "Perceba como isso contribui para a musicalidade do poema."
+        ],
+        "resposta": "Esse exemplo mostra a presença de recurso poético na construção do texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução aos recursos poéticos\".",
+        "passos": [
+          "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários",
+          "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo",
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos recursos poéticos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução aos recursos poéticos\".",
+        "passos": [
+          "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo",
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+          "Expressividade do poema"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos recursos poéticos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução aos recursos poéticos\".",
+        "passos": [
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+          "Expressividade do poema",
+          "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos recursos poéticos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução aos recursos poéticos\".",
+        "passos": [
+          "Expressividade do poema",
+          "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos",
+          "Leia o poema em voz alta para perceber melhor som, ritmo e repetições"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos recursos poéticos pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "lit8-recursos-poeticos-intro-ex-01",
+        "enunciado": "Um recurso poético pode contribuir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ritmo e expressividade do poema",
+          "eliminação do sentido literário",
+          "substituição da leitura por números",
+          "fim da subjetividade do texto"
+        ],
+        "respostaCorreta": "ritmo e expressividade do poema",
+        "explicacao": "Os recursos poéticos ajudam a construir musicalidade, imagens e efeitos de sentido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-ex-02",
+        "enunciado": "A rima está relacionada principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "repetição sonora",
+          "cálculo geométrico",
+          "análise sintática",
+          "classificação dos continentes"
+        ],
+        "respostaCorreta": "repetição sonora",
+        "explicacao": "A rima aproxima sons e contribui para a musicalidade do texto poético.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os recursos poéticos ajudam a produzir sentidos e efeitos estéticos.",
+          "Poemas não usam recursos expressivos específicos.",
+          "A forma do poema não interfere na leitura.",
+          "A linguagem poética dispensa atenção às palavras."
+        ],
+        "respostaCorreta": "Os recursos poéticos ajudam a produzir sentidos e efeitos estéticos.",
+        "explicacao": "Na poesia, a escolha da linguagem é importante para criar ritmo, imagens e emoções.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-ex-04",
+        "enunciado": "Estudar recursos poéticos ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler poemas com mais sensibilidade e atenção",
+          "reduzir toda poesia a um significado único",
+          "ignorar a musicalidade do texto",
+          "pensar que poemas não têm intenção estética"
+        ],
+        "respostaCorreta": "ler poemas com mais sensibilidade e atenção",
+        "explicacao": "Esse estudo amplia a percepção dos efeitos de linguagem presentes na poesia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo"
+        ],
+        "respostaCorreta": "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leia o poema em voz alta para perceber melhor som, ritmo e repetições",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Leia o poema em voz alta para perceber melhor som, ritmo e repetições",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos"
+        ],
+        "respostaCorreta": "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia dois versos que repetem sons semelhantes no final",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia dois versos que repetem sons semelhantes no final",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra a presença de recurso poético na construção do texto",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a presença de recurso poético na construção do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a repetição sonora entre as palavras finais"
+        ],
+        "respostaCorreta": "Observe a repetição sonora entre as palavras finais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como isso contribui para a musicalidade do poema",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como isso contribui para a musicalidade do poema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os recursos poéticos ajudam a construir ritmo, sonoridade e expressividade nos textos literários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Rima, repetição, metáfora e musicalidade são exemplos importantes nesse estudo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas"
+        ],
+        "respostaCorreta": "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "lit8-recursos-poeticos-intro-sim-01",
+        "enunciado": "A principal função dos recursos poéticos é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "enriquecer a linguagem e a experiência de leitura do poema",
+          "eliminar toda subjetividade da poesia",
+          "transformar o poema em texto técnico",
+          "substituir o sentido por mera repetição automática"
+        ],
+        "respostaCorreta": "enriquecer a linguagem e a experiência de leitura do poema",
+        "explicacao": "Os recursos poéticos contribuem para ritmo, musicalidade, imagens e sentidos no texto literário.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender esses recursos fortalece a leitura sensível e interpretativa dos poemas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos"
+        ],
+        "respostaCorreta": "Os poemas trabalham a linguagem de modo especial para criar imagens, sensações e ritmos. Por isso, recursos poéticos não servem apenas à forma, mas também à produção de sentidos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia o poema em voz alta para perceber melhor som, ritmo e repetições",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Leia o poema em voz alta para perceber melhor som, ritmo e repetições",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao identificar recursos poéticos, o estudante percebe que a escolha das palavras é intencional. Essa observação amplia a compreensão do texto literário e de seus efeitos estéticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto",
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte como o recurso usado modifica a maneira de sentir ou imaginar o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-recursos-poeticos-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos recursos poéticos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos recursos poéticos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos recursos poéticos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia dois versos que repetem sons semelhantes no final"
+        ],
+        "respostaCorreta": "Leia dois versos que repetem sons semelhantes no final",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos recursos poéticos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

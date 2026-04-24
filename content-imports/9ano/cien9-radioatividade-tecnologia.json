@@ -31,16 +31,397 @@
           "Reconheça a necessidade de controle e segurança nesse processo."
         ],
         "resposta": "Esse exemplo mostra que a radioatividade pode ter aplicações importantes quando utilizada com responsabilidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Radioatividade, tecnologia e sociedade\".",
+        "passos": [
+          "A radioatividade está relacionada à emissão de partículas e energia por certos materiais",
+          "Esse fenômeno tem aplicações em áreas como medicina, indústria e produção de energia",
+          "Estudar o tema exige considerar benefícios, riscos e responsabilidade social"
+        ],
+        "resposta": "Esse exemplo mostra como Radioatividade, tecnologia e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Radioatividade, tecnologia e sociedade\".",
+        "passos": [
+          "Esse fenômeno tem aplicações em áreas como medicina, indústria e produção de energia",
+          "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+          "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas"
+        ],
+        "resposta": "Esse exemplo mostra como Radioatividade, tecnologia e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Radioatividade, tecnologia e sociedade\".",
+        "passos": [
+          "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+          "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas",
+          "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos"
+        ],
+        "resposta": "Esse exemplo mostra como Radioatividade, tecnologia e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Radioatividade, tecnologia e sociedade\".",
+        "passos": [
+          "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas",
+          "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos",
+          "O que é radioatividade"
+        ],
+        "resposta": "Esse exemplo mostra como Radioatividade, tecnologia e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-radioatividade-tecnologia-ex-01","enunciado":"A radioatividade está relacionada à:","tipo":"multipla_escolha","alternativas":["emissão de partículas e energia por certos materiais","troca de letras em uma palavra","mudança de cor em um desenho","organização de dados em tabela"],"respostaCorreta":"emissão de partículas e energia por certos materiais","explicacao":"Esse é o fenômeno físico básico associado à radioatividade.","dificuldade":"facil"},
-      {"id":"cien9-radioatividade-tecnologia-ex-02","enunciado":"Uma aplicação da radioatividade pode ocorrer em:","tipo":"multipla_escolha","alternativas":["exames médicos","classificação de sílabas","análise de rimas poéticas","pontuação de frases"],"respostaCorreta":"exames médicos","explicacao":"A radioatividade pode ser usada em diagnósticos e tratamentos na área da saúde.","dificuldade":"facil"},
-      {"id":"cien9-radioatividade-tecnologia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O uso da radioatividade exige cuidados e controle rigoroso.","Radioatividade não tem nenhuma aplicação positiva.","Esse fenômeno não se relaciona à tecnologia.","Toda radioatividade é sempre inofensiva."],"respostaCorreta":"O uso da radioatividade exige cuidados e controle rigoroso.","explicacao":"Embora possa ter benefícios, o uso desse fenômeno precisa ser acompanhado de medidas de segurança.","dificuldade":"medio"},
-      {"id":"cien9-radioatividade-tecnologia-ex-04","enunciado":"Estudar esse tema ajuda a:","tipo":"multipla_escolha","alternativas":["analisar relações entre ciência, tecnologia, riscos e benefícios","reduzir a ciência a opiniões sem base","ignorar impactos sociais das tecnologias","considerar toda aplicação científica como neutra"],"respostaCorreta":"analisar relações entre ciência, tecnologia, riscos e benefícios","explicacao":"O tema aproxima o conhecimento científico das decisões sociais e éticas ligadas à tecnologia.","dificuldade":"medio"}
+      {
+        "id": "cien9-radioatividade-tecnologia-ex-01",
+        "enunciado": "A radioatividade está relacionada à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "emissão de partículas e energia por certos materiais",
+          "troca de letras em uma palavra",
+          "mudança de cor em um desenho",
+          "organização de dados em tabela"
+        ],
+        "respostaCorreta": "emissão de partículas e energia por certos materiais",
+        "explicacao": "Esse é o fenômeno físico básico associado à radioatividade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-ex-02",
+        "enunciado": "Uma aplicação da radioatividade pode ocorrer em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "exames médicos",
+          "classificação de sílabas",
+          "análise de rimas poéticas",
+          "pontuação de frases"
+        ],
+        "respostaCorreta": "exames médicos",
+        "explicacao": "A radioatividade pode ser usada em diagnósticos e tratamentos na área da saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O uso da radioatividade exige cuidados e controle rigoroso.",
+          "Radioatividade não tem nenhuma aplicação positiva.",
+          "Esse fenômeno não se relaciona à tecnologia.",
+          "Toda radioatividade é sempre inofensiva."
+        ],
+        "respostaCorreta": "O uso da radioatividade exige cuidados e controle rigoroso.",
+        "explicacao": "Embora possa ter benefícios, o uso desse fenômeno precisa ser acompanhado de medidas de segurança.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-ex-04",
+        "enunciado": "Estudar esse tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar relações entre ciência, tecnologia, riscos e benefícios",
+          "reduzir a ciência a opiniões sem base",
+          "ignorar impactos sociais das tecnologias",
+          "considerar toda aplicação científica como neutra"
+        ],
+        "respostaCorreta": "analisar relações entre ciência, tecnologia, riscos e benefícios",
+        "explicacao": "O tema aproxima o conhecimento científico das decisões sociais e éticas ligadas à tecnologia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Radioatividade, tecnologia e sociedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A radioatividade está relacionada à emissão de partículas e energia por certos materiais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A radioatividade está relacionada à emissão de partículas e energia por certos materiais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-02",
+        "enunciado": "Ao estudar \"Radioatividade, tecnologia e sociedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse fenômeno tem aplicações em áreas como medicina, indústria e produção de energia"
+        ],
+        "respostaCorreta": "Esse fenômeno tem aplicações em áreas como medicina, indústria e produção de energia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-05",
+        "enunciado": "No contexto de \"Radioatividade, tecnologia e sociedade\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-06",
+        "enunciado": "O estudo de \"Radioatividade, tecnologia e sociedade\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender o que é radioatividade"
+        ],
+        "respostaCorreta": "compreender o que é radioatividade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A radioatividade pode ser utilizada em exames médicos, tratamentos, produção de energia e pesquisa científica. Ao mesmo tempo, exige controle rigoroso, pois o uso inadequado pode trazer riscos à saúde e ao ambiente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A radioatividade pode ser utilizada em exames médicos, tratamentos, produção de energia e pesquisa científica. Ao mesmo tempo, exige controle rigoroso, pois o uso inadequado pode trazer riscos à saúde e ao ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Procure sempre analisar vantagens e riscos de forma equilibrada e informada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Procure sempre analisar vantagens e riscos de forma equilibrada e informada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender aplicações e cuidados",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender aplicações e cuidados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma situação em que a radioatividade é usada em exames de diagnóstico por imagem"
+        ],
+        "respostaCorreta": "Considere uma situação em que a radioatividade é usada em exames de diagnóstico por imagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Radioatividade, tecnologia e sociedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que a radioatividade pode ter aplicações importantes quando utilizada com responsabilidade",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que a radioatividade pode ter aplicações importantes quando utilizada com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-12",
+        "enunciado": "Ao estudar \"Radioatividade, tecnologia e sociedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique qual é a finalidade do uso da tecnologia",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique qual é a finalidade do uso da tecnologia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os benefícios para a saúde",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os benefícios para a saúde",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Reconheça a necessidade de controle e segurança nesse processo"
+        ],
+        "respostaCorreta": "Reconheça a necessidade de controle e segurança nesse processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-radioatividade-tecnologia-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["a radioatividade pode ter usos importantes, mas exige responsabilidade e controle","a radioatividade não possui relação com a sociedade","o fenômeno só deve ser estudado como curiosidade sem aplicação","toda tecnologia nuclear é sempre simples e sem riscos"],"respostaCorreta":"a radioatividade pode ter usos importantes, mas exige responsabilidade e controle","explicacao":"O conteúdo destaca a ligação entre conhecimento científico, aplicações práticas e cuidados necessários.","dificuldade":"medio"}
+      {
+        "id": "cien9-radioatividade-tecnologia-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a radioatividade pode ter usos importantes, mas exige responsabilidade e controle",
+          "a radioatividade não possui relação com a sociedade",
+          "o fenômeno só deve ser estudado como curiosidade sem aplicação",
+          "toda tecnologia nuclear é sempre simples e sem riscos"
+        ],
+        "respostaCorreta": "a radioatividade pode ter usos importantes, mas exige responsabilidade e controle",
+        "explicacao": "O conteúdo destaca a ligação entre conhecimento científico, aplicações práticas e cuidados necessários.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Radioatividade, tecnologia e sociedade\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema exige considerar benefícios, riscos e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Radioatividade, tecnologia e sociedade\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas"
+        ],
+        "respostaCorreta": "A radioatividade é um fenômeno no qual certos núcleos atômicos emitem partículas e energia. Esse processo pode ocorrer naturalmente ou ser controlado em aplicações científicas e tecnológicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao estudar o tema, diferencie o fenômeno físico de seus usos sociais e tecnológicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Radioatividade, tecnologia e sociedade\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender o que é radioatividade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender o que é radioatividade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A radioatividade pode ser utilizada em exames médicos, tratamentos, produção de energia e pesquisa científica. Ao mesmo tempo, exige controle rigoroso, pois o uso inadequado pode trazer riscos à saúde e ao ambiente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A radioatividade pode ser utilizada em exames médicos, tratamentos, produção de energia e pesquisa científica. Ao mesmo tempo, exige controle rigoroso, pois o uso inadequado pode trazer riscos à saúde e ao ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-radioatividade-tecnologia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Procure sempre analisar vantagens e riscos de forma equilibrada e informada"
+        ],
+        "respostaCorreta": "Procure sempre analisar vantagens e riscos de forma equilibrada e informada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Radioatividade, tecnologia e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -31,16 +31,397 @@
           "Relacione a ação à ideia de iniciativa coletiva."
         ],
         "resposta": "Esse exemplo mostra que empreender também envolve cooperação e compromisso com o grupo."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Empreendedorismo e iniciativa coletiva\".",
+        "passos": [
+          "Empreender também pode significar criar soluções com impacto coletivo",
+          "Iniciativa, colaboração e responsabilidade são importantes na construção de projetos",
+          "Estudar esse tema ajuda a pensar ideias com organização e propósito social"
+        ],
+        "resposta": "Esse exemplo mostra como Empreendedorismo e iniciativa coletiva pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Empreendedorismo e iniciativa coletiva\".",
+        "passos": [
+          "Iniciativa, colaboração e responsabilidade são importantes na construção de projetos",
+          "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+          "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive"
+        ],
+        "resposta": "Esse exemplo mostra como Empreendedorismo e iniciativa coletiva pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Empreendedorismo e iniciativa coletiva\".",
+        "passos": [
+          "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+          "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive",
+          "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade"
+        ],
+        "resposta": "Esse exemplo mostra como Empreendedorismo e iniciativa coletiva pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Empreendedorismo e iniciativa coletiva\".",
+        "passos": [
+          "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive",
+          "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade",
+          "Iniciativa com propósito"
+        ],
+        "resposta": "Esse exemplo mostra como Empreendedorismo e iniciativa coletiva pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-01","enunciado":"Empreender, nesse contexto, pode significar:","tipo":"multipla_escolha","alternativas":["criar soluções com organização e propósito","agir sem planejamento","esperar sempre que outros resolvam tudo","ignorar problemas do entorno"],"respostaCorreta":"criar soluções com organização e propósito","explicacao":"O empreendedorismo pode envolver iniciativa, planejamento e busca de soluções para necessidades reais.","dificuldade":"facil"},
-      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-02","enunciado":"A iniciativa coletiva depende de:","tipo":"multipla_escolha","alternativas":["cooperação e divisão de responsabilidades","isolamento de cada participante","falta de objetivos comuns","desorganização das tarefas"],"respostaCorreta":"cooperação e divisão de responsabilidades","explicacao":"Projetos coletivos funcionam melhor quando há participação articulada do grupo.","dificuldade":"facil"},
-      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.","Ter iniciativa significa agir sempre sozinho.","Projetos não precisam de organização para acontecer.","Colaboração atrapalha a execução de boas ideias."],"respostaCorreta":"Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.","explicacao":"Esse tema aproxima iniciativa e responsabilidade social em ações concretas.","dificuldade":"medio"},
-      {"id":"erl9-empreendedorismo-iniciativa-coletiva-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["pensar soluções com planejamento e colaboração","tratar ideias como algo sem execução possível","dispensar responsabilidade em projetos","reduzir iniciativas a improviso"],"respostaCorreta":"pensar soluções com planejamento e colaboração","explicacao":"O conteúdo fortalece organização, iniciativa e compromisso com o coletivo.","dificuldade":"medio"}
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-ex-01",
+        "enunciado": "Empreender, nesse contexto, pode significar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "criar soluções com organização e propósito",
+          "agir sem planejamento",
+          "esperar sempre que outros resolvam tudo",
+          "ignorar problemas do entorno"
+        ],
+        "respostaCorreta": "criar soluções com organização e propósito",
+        "explicacao": "O empreendedorismo pode envolver iniciativa, planejamento e busca de soluções para necessidades reais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-ex-02",
+        "enunciado": "A iniciativa coletiva depende de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cooperação e divisão de responsabilidades",
+          "isolamento de cada participante",
+          "falta de objetivos comuns",
+          "desorganização das tarefas"
+        ],
+        "respostaCorreta": "cooperação e divisão de responsabilidades",
+        "explicacao": "Projetos coletivos funcionam melhor quando há participação articulada do grupo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.",
+          "Ter iniciativa significa agir sempre sozinho.",
+          "Projetos não precisam de organização para acontecer.",
+          "Colaboração atrapalha a execução de boas ideias."
+        ],
+        "respostaCorreta": "Empreendedorismo pode estar ligado à melhoria da escola ou da comunidade.",
+        "explicacao": "Esse tema aproxima iniciativa e responsabilidade social em ações concretas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pensar soluções com planejamento e colaboração",
+          "tratar ideias como algo sem execução possível",
+          "dispensar responsabilidade em projetos",
+          "reduzir iniciativas a improviso"
+        ],
+        "respostaCorreta": "pensar soluções com planejamento e colaboração",
+        "explicacao": "O conteúdo fortalece organização, iniciativa e compromisso com o coletivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Empreendedorismo e iniciativa coletiva\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Empreender também pode significar criar soluções com impacto coletivo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Empreender também pode significar criar soluções com impacto coletivo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-02",
+        "enunciado": "Ao estudar \"Empreendedorismo e iniciativa coletiva\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Iniciativa, colaboração e responsabilidade são importantes na construção de projetos"
+        ],
+        "respostaCorreta": "Iniciativa, colaboração e responsabilidade são importantes na construção de projetos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-05",
+        "enunciado": "No contexto de \"Empreendedorismo e iniciativa coletiva\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-06",
+        "enunciado": "O estudo de \"Empreendedorismo e iniciativa coletiva\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender iniciativa com propósito"
+        ],
+        "respostaCorreta": "compreender iniciativa com propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Empreendedorismo não depende apenas de criar ideias, mas também de organizar ações, dividir responsabilidades e acompanhar resultados. Quando o trabalho é coletivo, cooperação e escuta fazem diferença para o projeto avançar",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Empreendedorismo não depende apenas de criar ideias, mas também de organizar ações, dividir responsabilidades e acompanhar resultados. Quando o trabalho é coletivo, cooperação e escuta fazem diferença para o projeto avançar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Uma proposta ganha força quando o grupo compartilha tarefas e objetivos com clareza",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Uma proposta ganha força quando o grupo compartilha tarefas e objetivos com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender colaboração e execução",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender colaboração e execução",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Imagine uma equipe que identifica um problema na escola e cria uma campanha para melhorar a situação"
+        ],
+        "respostaCorreta": "Imagine uma equipe que identifica um problema na escola e cria uma campanha para melhorar a situação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Empreendedorismo e iniciativa coletiva\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que empreender também envolve cooperação e compromisso com o grupo",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que empreender também envolve cooperação e compromisso com o grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-12",
+        "enunciado": "Ao estudar \"Empreendedorismo e iniciativa coletiva\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Defina qual necessidade foi percebida",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Defina qual necessidade foi percebida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a solução foi planejada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe como a solução foi planejada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a ação à ideia de iniciativa coletiva"
+        ],
+        "respostaCorreta": "Relacione a ação à ideia de iniciativa coletiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"erl9-empreendedorismo-iniciativa-coletiva-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["iniciativa e colaboração podem gerar soluções com impacto positivo","empreender significa agir sem planejamento","projetos coletivos não precisam de organização","boas ideias não dependem de responsabilidade social"],"respostaCorreta":"iniciativa e colaboração podem gerar soluções com impacto positivo","explicacao":"O tema mostra que empreender também envolve propósito, cooperação e ação organizada.","dificuldade":"medio"}
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "iniciativa e colaboração podem gerar soluções com impacto positivo",
+          "empreender significa agir sem planejamento",
+          "projetos coletivos não precisam de organização",
+          "boas ideias não dependem de responsabilidade social"
+        ],
+        "respostaCorreta": "iniciativa e colaboração podem gerar soluções com impacto positivo",
+        "explicacao": "O tema mostra que empreender também envolve propósito, cooperação e ação organizada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Empreendedorismo e iniciativa coletiva\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a pensar ideias com organização e propósito social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Empreendedorismo e iniciativa coletiva\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive"
+        ],
+        "respostaCorreta": "Ter iniciativa significa perceber necessidades, propor caminhos e agir de forma responsável. Em projetos coletivos, esse movimento pode contribuir para resolver problemas reais e melhorar o ambiente em que se vive",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pense em como uma boa ideia pode nascer da observação de necessidades da escola ou da comunidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Empreendedorismo e iniciativa coletiva\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender iniciativa com propósito",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender iniciativa com propósito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Empreendedorismo não depende apenas de criar ideias, mas também de organizar ações, dividir responsabilidades e acompanhar resultados. Quando o trabalho é coletivo, cooperação e escuta fazem diferença para o projeto avançar",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Empreendedorismo não depende apenas de criar ideias, mas também de organizar ações, dividir responsabilidades e acompanhar resultados. Quando o trabalho é coletivo, cooperação e escuta fazem diferença para o projeto avançar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-empreendedorismo-iniciativa-coletiva-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Uma proposta ganha força quando o grupo compartilha tarefas e objetivos com clareza"
+        ],
+        "respostaCorreta": "Uma proposta ganha força quando o grupo compartilha tarefas e objetivos com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empreendedorismo e iniciativa coletiva apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

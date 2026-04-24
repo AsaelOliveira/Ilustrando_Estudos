@@ -1,0 +1,426 @@
+[
+  {
+    "id": "art8-elementos-linguagem-visual",
+    "titulo": "Elementos da linguagem visual",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Artes visuais",
+    "resumo": [
+      "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura.",
+      "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas.",
+      "Estudar esse tema amplia o olhar crítico sobre imagens e obras."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Construção da imagem",
+        "texto": "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado.",
+        "dica": "Observe quais elementos aparecem com mais destaque na imagem analisada."
+      },
+      {
+        "subtitulo": "Leitura visual",
+        "texto": "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos.",
+        "dica": "Pergunte como a combinação de elementos visuais interfere no que a obra comunica."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma pintura com cores fortes e linhas marcadas.",
+        "passos": [
+          "Identifique a presença de linhas e cores na composição.",
+          "Perceba como esses elementos tornam a imagem mais expressiva."
+        ],
+        "resposta": "A análise mostra como a linguagem visual é formada por diferentes elementos combinados."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Elementos da linguagem visual\".",
+        "passos": [
+          "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura",
+          "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas",
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras"
+        ],
+        "resposta": "Esse exemplo mostra como Elementos da linguagem visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Elementos da linguagem visual\".",
+        "passos": [
+          "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas",
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+          "Construção da imagem"
+        ],
+        "resposta": "Esse exemplo mostra como Elementos da linguagem visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Elementos da linguagem visual\".",
+        "passos": [
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+          "Construção da imagem",
+          "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado"
+        ],
+        "resposta": "Esse exemplo mostra como Elementos da linguagem visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Elementos da linguagem visual\".",
+        "passos": [
+          "Construção da imagem",
+          "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado",
+          "Observe quais elementos aparecem com mais destaque na imagem analisada"
+        ],
+        "resposta": "Esse exemplo mostra como Elementos da linguagem visual pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "art8-elementos-linguagem-visual-ex-01",
+        "enunciado": "Um elemento da linguagem visual é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cor",
+          "sílaba tônica",
+          "equação",
+          "tempo verbal"
+        ],
+        "respostaCorreta": "cor",
+        "explicacao": "Cor é um dos elementos básicos da linguagem visual.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-ex-02",
+        "enunciado": "Os elementos visuais ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compor e dar sentido às imagens",
+          "eliminar toda interpretação da obra",
+          "substituir o desenho por texto",
+          "impedir a expressão artística"
+        ],
+        "respostaCorreta": "compor e dar sentido às imagens",
+        "explicacao": "Eles organizam a composição e influenciam a leitura da imagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-ex-03",
+        "enunciado": "Estudar linguagem visual ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "observar e interpretar imagens com mais atenção",
+          "decorar apenas nomes de artistas",
+          "evitar toda análise de obras",
+          "trocar arte por cálculo matemático"
+        ],
+        "respostaCorreta": "observar e interpretar imagens com mais atenção",
+        "explicacao": "O tema fortalece a leitura crítica de produções visuais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Linhas, formas e cores participam da construção de imagens.",
+          "Uma obra visual não utiliza elementos básicos.",
+          "Toda imagem depende apenas de texto escrito.",
+          "A linguagem visual não comunica ideias."
+        ],
+        "respostaCorreta": "Linhas, formas e cores participam da construção de imagens.",
+        "explicacao": "Esses elementos estruturam a composição visual e contribuem para seu significado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas"
+        ],
+        "respostaCorreta": "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quais elementos aparecem com mais destaque na imagem analisada",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe quais elementos aparecem com mais destaque na imagem analisada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos"
+        ],
+        "respostaCorreta": "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte como a combinação de elementos visuais interfere no que a obra comunica",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte como a combinação de elementos visuais interfere no que a obra comunica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma pintura com cores fortes e linhas marcadas",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe uma pintura com cores fortes e linhas marcadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A análise mostra como a linguagem visual é formada por diferentes elementos combinados",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A análise mostra como a linguagem visual é formada por diferentes elementos combinados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique a presença de linhas e cores na composição"
+        ],
+        "respostaCorreta": "Identifique a presença de linhas e cores na composição",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como esses elementos tornam a imagem mais expressiva",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como esses elementos tornam a imagem mais expressiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A linguagem visual é construída por elementos como ponto, linha, forma, cor e textura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esses elementos ajudam a criar sentidos e expressões nas produções artísticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "art8-elementos-linguagem-visual-sim-01",
+        "enunciado": "A principal ideia do estudo da linguagem visual é compreender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "os elementos da imagem produzem sentido e expressão",
+          "a arte elimina toda interpretação",
+          "as obras visuais dependem apenas de palavras",
+          "a observação não interfere na leitura da obra"
+        ],
+        "respostaCorreta": "os elementos da imagem produzem sentido e expressão",
+        "explicacao": "A análise visual mostra como os elementos básicos organizam e comunicam a obra.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o olhar crítico sobre imagens e obras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado"
+        ],
+        "respostaCorreta": "Toda produção visual se organiza a partir de elementos básicos que ajudam a compor a imagem. Mesmo obras muito diferentes utilizam combinações de formas, cores, linhas e outros recursos para produzir significado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe quais elementos aparecem com mais destaque na imagem analisada",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe quais elementos aparecem com mais destaque na imagem analisada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Aprender a identificar esses elementos ajuda o estudante a interpretar imagens com mais atenção. Assim, ele percebe como escolhas visuais influenciam sensações, mensagens e estilos artísticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte como a combinação de elementos visuais interfere no que a obra comunica",
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte como a combinação de elementos visuais interfere no que a obra comunica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-elementos-linguagem-visual-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de elementos da linguagem visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Elementos da linguagem visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com elementos da linguagem visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma pintura com cores fortes e linhas marcadas"
+        ],
+        "respostaCorreta": "Observe uma pintura com cores fortes e linhas marcadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Elementos da linguagem visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -31,16 +31,397 @@
           "Relaciona esas estructuras con tu propia experiencia."
         ],
         "resposta": "Este ejemplo muestra cómo la lengua puede usarse para presentarse y expresar opiniones simples."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Presentación personal y expresión de opinión\".",
+        "passos": [
+          "La lengua española permite presentarse, describirse y expresar opiniones en situaciones cotidianas",
+          "Aprender estructuras básicas favorece la comunicación oral y escrita",
+          "Este tema amplía el repertorio lingüístico y cultural del estudiante"
+        ],
+        "resposta": "Esse exemplo mostra como Presentación personal y expresión de opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Presentación personal y expresión de opinión\".",
+        "passos": [
+          "Aprender estructuras básicas favorece la comunicación oral y escrita",
+          "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+          "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas"
+        ],
+        "resposta": "Esse exemplo mostra como Presentación personal y expresión de opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Presentación personal y expresión de opinión\".",
+        "passos": [
+          "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+          "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas",
+          "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'"
+        ],
+        "resposta": "Esse exemplo mostra como Presentación personal y expresión de opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Presentación personal y expresión de opinión\".",
+        "passos": [
+          "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas",
+          "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'",
+          "Presentarse con claridad"
+        ],
+        "resposta": "Esse exemplo mostra como Presentación personal y expresión de opinión pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"esp9-presentacion-opinion-ex-01","enunciado":"La expresión 'me llamo' se usa para:","tipo":"multipla_escolha","alternativas":["decir el nombre","hablar del clima","describir una ciudad","explicar un experimento"],"respostaCorreta":"decir el nombre","explicacao":"'Me llamo' es una expresión básica para presentarse en español.","dificuldade":"facil"},
-      {"id":"esp9-presentacion-opinion-ex-02","enunciado":"La expresión 'me gusta' sirve para:","tipo":"multipla_escolha","alternativas":["expresar gustos u opiniones sencillas","indicar una cuenta matemática","nombrar continentes","clasificar sílabas"],"respostaCorreta":"expresar gustos u opiniones sencillas","explicacao":"'Me gusta' se usa para decir lo que a una persona le agrada.","dificuldade":"facil"},
-      {"id":"esp9-presentacion-opinion-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Presentarse y opinar son habilidades básicas de comunicación en español.","El español no permite hablar de gustos personales.","Una presentación no incluye información personal.","Las opiniones simples no tienen valor comunicativo."],"respostaCorreta":"Presentarse y opinar son habilidades básicas de comunicación en español.","explicacao":"Esas funciones ayudan a establecer interacciones iniciales en la lengua.","dificuldade":"medio"},
-      {"id":"esp9-presentacion-opinion-ex-04","enunciado":"Estudiar este tema ayuda al estudiante a:","tipo":"multipla_escolha","alternativas":["comunicarse mejor en situaciones cotidianas","ignorar el uso real de la lengua","reducir el aprendizaje a palabras sueltas","evitar la interacción oral"],"respostaCorreta":"comunicarse mejor en situaciones cotidianas","explicacao":"El contenido fortalece la expresión básica y la comprensión del idioma en contextos reales.","dificuldade":"medio"}
+      {
+        "id": "esp9-presentacion-opinion-ex-01",
+        "enunciado": "La expresión 'me llamo' se usa para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decir el nombre",
+          "hablar del clima",
+          "describir una ciudad",
+          "explicar un experimento"
+        ],
+        "respostaCorreta": "decir el nombre",
+        "explicacao": "'Me llamo' es una expresión básica para presentarse en español.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-ex-02",
+        "enunciado": "La expresión 'me gusta' sirve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "expresar gustos u opiniones sencillas",
+          "indicar una cuenta matemática",
+          "nombrar continentes",
+          "clasificar sílabas"
+        ],
+        "respostaCorreta": "expresar gustos u opiniones sencillas",
+        "explicacao": "'Me gusta' se usa para decir lo que a una persona le agrada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-ex-03",
+        "enunciado": "¿Cuál afirmación es correcta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Presentarse y opinar son habilidades básicas de comunicación en español.",
+          "El español no permite hablar de gustos personales.",
+          "Una presentación no incluye información personal.",
+          "Las opiniones simples no tienen valor comunicativo."
+        ],
+        "respostaCorreta": "Presentarse y opinar son habilidades básicas de comunicación en español.",
+        "explicacao": "Esas funciones ayudan a establecer interacciones iniciales en la lengua.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-ex-04",
+        "enunciado": "Estudiar este tema ayuda al estudiante a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comunicarse mejor en situaciones cotidianas",
+          "ignorar el uso real de la lengua",
+          "reducir el aprendizaje a palabras sueltas",
+          "evitar la interacción oral"
+        ],
+        "respostaCorreta": "comunicarse mejor en situaciones cotidianas",
+        "explicacao": "El contenido fortalece la expresión básica y la comprensión del idioma en contextos reales.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Presentación personal y expresión de opinión\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La lengua española permite presentarse, describirse y expresar opiniones en situaciones cotidianas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "La lengua española permite presentarse, describirse y expresar opiniones en situaciones cotidianas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-02",
+        "enunciado": "Ao estudar \"Presentación personal y expresión de opinión\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Aprender estructuras básicas favorece la comunicación oral y escrita"
+        ],
+        "respostaCorreta": "Aprender estructuras básicas favorece la comunicación oral y escrita",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-05",
+        "enunciado": "No contexto de \"Presentación personal y expresión de opinión\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-06",
+        "enunciado": "O estudo de \"Presentación personal y expresión de opinión\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender presentarse con claridad"
+        ],
+        "respostaCorreta": "compreender presentarse con claridad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Además de presentarse, el estudiante puede aprender a manifestar opiniones simples sobre temas cercanos, usando frases claras y vocabulario básico. Eso fortalece la confianza para comunicar ideas en otro idioma",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Además de presentarse, el estudiante puede aprender a manifestar opiniones simples sobre temas cercanos, usando frases claras y vocabulario básico. Eso fortalece la confianza para comunicar ideas en otro idioma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona palabras conocidas con frases cortas y bien organizadas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Relaciona palabras conocidas con frases cortas y bien organizadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender expresar opiniones sencillas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender expresar opiniones sencillas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lee un pequeño diálogo en el que una persona se presenta y dice qué le gusta hacer"
+        ],
+        "respostaCorreta": "Lee un pequeño diálogo en el que una persona se presenta y dice qué le gusta hacer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Presentación personal y expresión de opinión\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Este ejemplo muestra cómo la lengua puede usarse para presentarse y expresar opiniones simples",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Este ejemplo muestra cómo la lengua puede usarse para presentarse y expresar opiniones simples",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-12",
+        "enunciado": "Ao estudar \"Presentación personal y expresión de opinión\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifica la información personal presentada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifica la información personal presentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa las expresiones usadas para hablar de gustos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observa las expresiones usadas para hablar de gustos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona esas estructuras con tu propia experiencia"
+        ],
+        "respostaCorreta": "Relaciona esas estructuras con tu propia experiencia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"esp9-presentacion-opinion-sim-01","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar expresiones básicas para presentarse y expresar opiniones","estudiar solo listas de palabras sin contexto","evitar cualquier interacción en español","aprender el idioma sin hablar de la vida cotidiana"],"respostaCorreta":"usar expresiones básicas para presentarse y expresar opiniones","explicacao":"El tema se centra en la comunicación inicial y en el uso práctico de la lengua.","dificuldade":"medio"}
+      {
+        "id": "esp9-presentacion-opinion-sim-01",
+        "enunciado": "La idea principal del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar expresiones básicas para presentarse y expresar opiniones",
+          "estudiar solo listas de palabras sin contexto",
+          "evitar cualquier interacción en español",
+          "aprender el idioma sin hablar de la vida cotidiana"
+        ],
+        "respostaCorreta": "usar expresiones básicas para presentarse y expresar opiniones",
+        "explicacao": "El tema se centra en la comunicación inicial y en el uso práctico de la lengua.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Presentación personal y expresión de opinión\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Este tema amplía el repertorio lingüístico y cultural del estudiante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Presentación personal y expresión de opinión\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas"
+        ],
+        "respostaCorreta": "En español, las presentaciones personales incluyen nombre, edad, origen, gustos e información básica sobre la vida cotidiana. Estas estructuras ayudan a iniciar conversaciones y construir interacción con otras personas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observa expresiones frecuentes como 'me llamo', 'soy de' y 'me gusta'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Presentación personal y expresión de opinión\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender presentarse con claridad",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender presentarse con claridad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Además de presentarse, el estudiante puede aprender a manifestar opiniones simples sobre temas cercanos, usando frases claras y vocabulario básico. Eso fortalece la confianza para comunicar ideas en otro idioma",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Además de presentarse, el estudiante puede aprender a manifestar opiniones simples sobre temas cercanos, usando frases claras y vocabulario básico. Eso fortalece la confianza para comunicar ideas en otro idioma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-presentacion-opinion-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relaciona palabras conocidas con frases cortas y bien organizadas"
+        ],
+        "respostaCorreta": "Relaciona palabras conocidas con frases cortas y bien organizadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Presentación personal y expresión de opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

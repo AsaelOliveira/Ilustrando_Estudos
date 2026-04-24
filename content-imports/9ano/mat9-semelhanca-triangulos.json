@@ -30,16 +30,397 @@
           "Compare os lados para verificar se as medidas são proporcionais."
         ],
         "resposta": "Se os lados forem proporcionais, os triângulos são semelhantes."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Semelhança de triângulos\".",
+        "passos": [
+          "Triângulos semelhantes mantêm a mesma forma, com medidas proporcionais entre lados correspondentes",
+          "A semelhança permite resolver problemas de medida e proporcionalidade em figuras geométricas",
+          "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático"
+        ],
+        "resposta": "Esse exemplo mostra como Semelhança de triângulos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Semelhança de triângulos\".",
+        "passos": [
+          "A semelhança permite resolver problemas de medida e proporcionalidade em figuras geométricas",
+          "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+          "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma"
+        ],
+        "resposta": "Esse exemplo mostra como Semelhança de triângulos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Semelhança de triângulos\".",
+        "passos": [
+          "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+          "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma",
+          "Compare sempre os lados correspondentes e observe se as proporções se mantêm"
+        ],
+        "resposta": "Esse exemplo mostra como Semelhança de triângulos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Semelhança de triângulos\".",
+        "passos": [
+          "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma",
+          "Compare sempre os lados correspondentes e observe se as proporções se mantêm",
+          "Forma e proporcionalidade"
+        ],
+        "resposta": "Esse exemplo mostra como Semelhança de triângulos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-semelhanca-triangulos-ex-01","enunciado":"Triângulos semelhantes apresentam:","tipo":"multipla_escolha","alternativas":["mesma forma e lados proporcionais","lados sem relação entre si","apenas o mesmo perímetro","ângulos totalmente diferentes"],"respostaCorreta":"mesma forma e lados proporcionais","explicacao":"A semelhança geométrica depende da conservação da forma e da proporcionalidade entre medidas correspondentes.","dificuldade":"facil"},
-      {"id":"mat9-semelhanca-triangulos-ex-02","enunciado":"A semelhança de triângulos ajuda a resolver problemas de:","tipo":"multipla_escolha","alternativas":["proporcionalidade e medidas","acentuação gráfica","classificação de verbos","pontuação textual"],"respostaCorreta":"proporcionalidade e medidas","explicacao":"Esse conteúdo é importante para cálculos geométricos e interpretação de escalas e relações proporcionais.","dificuldade":"facil"},
-      {"id":"mat9-semelhanca-triangulos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Triângulos semelhantes podem ter tamanhos diferentes, mas conservam a forma.","Triângulos semelhantes precisam ter exatamente as mesmas medidas.","Semelhança não tem relação com proporcionalidade.","Ângulos correspondentes não interferem na semelhança."],"respostaCorreta":"Triângulos semelhantes podem ter tamanhos diferentes, mas conservam a forma.","explicacao":"A semelhança permite ampliação ou redução mantendo a estrutura geométrica da figura.","dificuldade":"medio"},
-      {"id":"mat9-semelhanca-triangulos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["relacionar geometria e proporcionalidade com mais precisão","ignorar correspondência entre lados","substituir análise geométrica por tentativa aleatória","pensar que toda figura semelhante é obrigatoriamente igual"],"respostaCorreta":"relacionar geometria e proporcionalidade com mais precisão","explicacao":"O conteúdo fortalece o raciocínio geométrico e a leitura matemática de escalas e medidas.","dificuldade":"medio"}
+      {
+        "id": "mat9-semelhanca-triangulos-ex-01",
+        "enunciado": "Triângulos semelhantes apresentam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mesma forma e lados proporcionais",
+          "lados sem relação entre si",
+          "apenas o mesmo perímetro",
+          "ângulos totalmente diferentes"
+        ],
+        "respostaCorreta": "mesma forma e lados proporcionais",
+        "explicacao": "A semelhança geométrica depende da conservação da forma e da proporcionalidade entre medidas correspondentes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-ex-02",
+        "enunciado": "A semelhança de triângulos ajuda a resolver problemas de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "proporcionalidade e medidas",
+          "acentuação gráfica",
+          "classificação de verbos",
+          "pontuação textual"
+        ],
+        "respostaCorreta": "proporcionalidade e medidas",
+        "explicacao": "Esse conteúdo é importante para cálculos geométricos e interpretação de escalas e relações proporcionais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Triângulos semelhantes podem ter tamanhos diferentes, mas conservam a forma.",
+          "Triângulos semelhantes precisam ter exatamente as mesmas medidas.",
+          "Semelhança não tem relação com proporcionalidade.",
+          "Ângulos correspondentes não interferem na semelhança."
+        ],
+        "respostaCorreta": "Triângulos semelhantes podem ter tamanhos diferentes, mas conservam a forma.",
+        "explicacao": "A semelhança permite ampliação ou redução mantendo a estrutura geométrica da figura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar geometria e proporcionalidade com mais precisão",
+          "ignorar correspondência entre lados",
+          "substituir análise geométrica por tentativa aleatória",
+          "pensar que toda figura semelhante é obrigatoriamente igual"
+        ],
+        "respostaCorreta": "relacionar geometria e proporcionalidade com mais precisão",
+        "explicacao": "O conteúdo fortalece o raciocínio geométrico e a leitura matemática de escalas e medidas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Semelhança de triângulos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Triângulos semelhantes mantêm a mesma forma, com medidas proporcionais entre lados correspondentes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Triângulos semelhantes mantêm a mesma forma, com medidas proporcionais entre lados correspondentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-02",
+        "enunciado": "Ao estudar \"Semelhança de triângulos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A semelhança permite resolver problemas de medida e proporcionalidade em figuras geométricas"
+        ],
+        "respostaCorreta": "A semelhança permite resolver problemas de medida e proporcionalidade em figuras geométricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-05",
+        "enunciado": "No contexto de \"Semelhança de triângulos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare sempre os lados correspondentes e observe se as proporções se mantêm",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Compare sempre os lados correspondentes e observe se as proporções se mantêm",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-06",
+        "enunciado": "O estudo de \"Semelhança de triângulos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender forma e proporcionalidade"
+        ],
+        "respostaCorreta": "compreender forma e proporcionalidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A semelhança de triângulos é útil para calcular medidas desconhecidas, interpretar escalas e resolver situações geométricas em que a proporção é essencial. Esse conteúdo aparece em muitos problemas de construção e representação",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A semelhança de triângulos é útil para calcular medidas desconhecidas, interpretar escalas e resolver situações geométricas em que a proporção é essencial. Esse conteúdo aparece em muitos problemas de construção e representação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Antes de calcular, identifique quais lados correspondem entre os triângulos analisados",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Antes de calcular, identifique quais lados correspondem entre os triângulos analisados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender aplicação em problemas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender aplicação em problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere dois triângulos com a mesma forma, mas tamanhos diferentes"
+        ],
+        "respostaCorreta": "Considere dois triângulos com a mesma forma, mas tamanhos diferentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Semelhança de triângulos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Se os lados forem proporcionais, os triângulos são semelhantes",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Se os lados forem proporcionais, os triângulos são semelhantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-12",
+        "enunciado": "Ao estudar \"Semelhança de triângulos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os ângulos correspondentes",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os ângulos correspondentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare os lados para verificar se as medidas são proporcionais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Compare os lados para verificar se as medidas são proporcionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Triângulos semelhantes mantêm a mesma forma, com medidas proporcionais entre lados correspondentes"
+        ],
+        "respostaCorreta": "Triângulos semelhantes mantêm a mesma forma, com medidas proporcionais entre lados correspondentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-semelhanca-triangulos-sim-01","enunciado":"A principal ideia desse tema é compreender que triângulos semelhantes:","tipo":"multipla_escolha","alternativas":["mantêm a forma e permitem analisar proporções entre medidas","precisam ter sempre as mesmas medidas exatas","não têm relação com escala ou cálculo","existem sem comparação entre lados correspondentes"],"respostaCorreta":"mantêm a forma e permitem analisar proporções entre medidas","explicacao":"A semelhança de triângulos é um recurso importante para interpretar proporções e resolver problemas geométricos.","dificuldade":"medio"}
+      {
+        "id": "mat9-semelhanca-triangulos-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que triângulos semelhantes:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mantêm a forma e permitem analisar proporções entre medidas",
+          "precisam ter sempre as mesmas medidas exatas",
+          "não têm relação com escala ou cálculo",
+          "existem sem comparação entre lados correspondentes"
+        ],
+        "respostaCorreta": "mantêm a forma e permitem analisar proporções entre medidas",
+        "explicacao": "A semelhança de triângulos é um recurso importante para interpretar proporções e resolver problemas geométricos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Semelhança de triângulos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a relacionar geometria, escala e raciocínio matemático",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Semelhança de triângulos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma"
+        ],
+        "respostaCorreta": "Dois triângulos são semelhantes quando apresentam ângulos correspondentes iguais e lados proporcionais. Isso significa que um pode ser entendido como ampliação ou redução do outro, sem deformação da forma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare sempre os lados correspondentes e observe se as proporções se mantêm",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Compare sempre os lados correspondentes e observe se as proporções se mantêm",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Semelhança de triângulos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender forma e proporcionalidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender forma e proporcionalidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A semelhança de triângulos é útil para calcular medidas desconhecidas, interpretar escalas e resolver situações geométricas em que a proporção é essencial. Esse conteúdo aparece em muitos problemas de construção e representação",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A semelhança de triângulos é útil para calcular medidas desconhecidas, interpretar escalas e resolver situações geométricas em que a proporção é essencial. Esse conteúdo aparece em muitos problemas de construção e representação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-semelhanca-triangulos-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de calcular, identifique quais lados correspondem entre os triângulos analisados"
+        ],
+        "respostaCorreta": "Antes de calcular, identifique quais lados correspondem entre os triângulos analisados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Semelhança de triângulos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

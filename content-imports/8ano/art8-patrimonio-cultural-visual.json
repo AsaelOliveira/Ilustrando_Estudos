@@ -1,0 +1,426 @@
+[
+  {
+    "id": "art8-patrimonio-cultural-visual",
+    "titulo": "Patrimônio cultural e produção visual",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Arte e cultura",
+    "resumo": [
+      "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo.",
+      "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio.",
+      "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Memória e identidade",
+        "texto": "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo.",
+        "dica": "Observe como arte e cultura se relacionam à memória coletiva de um grupo."
+      },
+      {
+        "subtitulo": "Arte como valorização cultural",
+        "texto": "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica.",
+        "dica": "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma pintura ou fotografia que represente uma festa popular brasileira.",
+        "passos": [
+          "Identifique elementos culturais presentes na imagem.",
+          "Perceba como a produção visual ajuda a valorizar essa manifestação."
+        ],
+        "resposta": "Esse exemplo mostra como a arte pode dialogar com o patrimônio cultural."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Patrimônio cultural e produção visual\".",
+        "passos": [
+          "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo",
+          "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio",
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural"
+        ],
+        "resposta": "Esse exemplo mostra como Patrimônio cultural e produção visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Patrimônio cultural e produção visual\".",
+        "passos": [
+          "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio",
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+          "Memória e identidade"
+        ],
+        "resposta": "Esse exemplo mostra como Patrimônio cultural e produção visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Patrimônio cultural e produção visual\".",
+        "passos": [
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+          "Memória e identidade",
+          "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo"
+        ],
+        "resposta": "Esse exemplo mostra como Patrimônio cultural e produção visual pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Patrimônio cultural e produção visual\".",
+        "passos": [
+          "Memória e identidade",
+          "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo",
+          "Observe como arte e cultura se relacionam à memória coletiva de um grupo"
+        ],
+        "resposta": "Esse exemplo mostra como Patrimônio cultural e produção visual pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "art8-patrimonio-cultural-visual-ex-01",
+        "enunciado": "O patrimônio cultural está relacionado a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memória e identidade de um povo",
+          "apenas objetos sem significado histórico",
+          "somente fórmulas matemáticas",
+          "apenas paisagens naturais sem presença humana"
+        ],
+        "respostaCorreta": "memória e identidade de um povo",
+        "explicacao": "O patrimônio cultural reúne referências importantes para a história e a identidade coletiva.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-ex-02",
+        "enunciado": "A produção visual pode contribuir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valorizar manifestações culturais",
+          "eliminar a memória coletiva",
+          "substituir toda tradição por repetição mecânica",
+          "impedir a leitura de imagens"
+        ],
+        "respostaCorreta": "valorizar manifestações culturais",
+        "explicacao": "A arte pode representar, registrar e reinterpretar elementos importantes da cultura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Arte e patrimônio cultural podem se relacionar na construção da memória coletiva.",
+          "A arte não tem ligação com a cultura de um povo.",
+          "Patrimônio cultural se limita apenas a prédios antigos.",
+          "Imagens não podem representar tradições ou costumes."
+        ],
+        "respostaCorreta": "Arte e patrimônio cultural podem se relacionar na construção da memória coletiva.",
+        "explicacao": "A arte participa da valorização e da interpretação de referências culturais importantes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reconhecer a arte como parte da identidade cultural",
+          "separar totalmente arte e sociedade",
+          "ignorar manifestações culturais locais",
+          "pensar a produção visual como algo sem contexto"
+        ],
+        "respostaCorreta": "reconhecer a arte como parte da identidade cultural",
+        "explicacao": "O conteúdo aproxima arte, memória e pertencimento cultural.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio"
+        ],
+        "respostaCorreta": "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como arte e cultura se relacionam à memória coletiva de um grupo",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como arte e cultura se relacionam à memória coletiva de um grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica"
+        ],
+        "respostaCorreta": "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma pintura ou fotografia que represente uma festa popular brasileira",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe uma pintura ou fotografia que represente uma festa popular brasileira",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como a arte pode dialogar com o patrimônio cultural",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a arte pode dialogar com o patrimônio cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique elementos culturais presentes na imagem"
+        ],
+        "respostaCorreta": "Identifique elementos culturais presentes na imagem",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como a produção visual ajuda a valorizar essa manifestação",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como a produção visual ajuda a valorizar essa manifestação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O patrimônio cultural reúne bens e práticas importantes para a memória de um povo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A produção visual também pode registrar, valorizar e reinterpretar esse patrimônio",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "art8-patrimonio-cultural-visual-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a arte pode valorizar e reinterpretar o patrimônio cultural",
+          "o patrimônio cultural não tem relação com imagens",
+          "identidade cultural não se relaciona à memória coletiva",
+          "a produção visual existe sem contexto social"
+        ],
+        "respostaCorreta": "a arte pode valorizar e reinterpretar o patrimônio cultural",
+        "explicacao": "A linguagem visual participa da preservação e da ressignificação de referências culturais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a reconhecer a arte como parte da identidade cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo"
+        ],
+        "respostaCorreta": "O patrimônio cultural está ligado às referências materiais e imateriais que ajudam a construir a identidade de uma comunidade. Obras, monumentos, festas, modos de fazer e expressões artísticas fazem parte desse universo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como arte e cultura se relacionam à memória coletiva de um grupo",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como arte e cultura se relacionam à memória coletiva de um grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A produção visual pode registrar tradições, representar espaços importantes e reinterpretar elementos da cultura local. Esse olhar amplia a compreensão da arte como linguagem social e histórica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais",
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte de que maneira a imagem dialoga com costumes, lugares ou referências culturais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-patrimonio-cultural-visual-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de patrimônio cultural e produção visual se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Patrimônio cultural e produção visual pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com patrimônio cultural e produção visual dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma pintura ou fotografia que represente uma festa popular brasileira"
+        ],
+        "respostaCorreta": "Observe uma pintura ou fotografia que represente uma festa popular brasileira",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Patrimônio cultural e produção visual, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -21,6 +21,7 @@ import {
 } from "lucide-react";
 import BackgroundBlobs from "./BackgroundBlobs";
 import BrandMark from "./BrandMark";
+import { ModeToggle } from "./mode-toggle";
 import SimpleProfileAvatar from "./SimpleProfileAvatar";
 import { type AuthProfile, type AuthRole, useAuth } from "@/hooks/useAuth";
 import { useAppAlerts } from "@/hooks/useAppAlerts";
@@ -185,6 +186,7 @@ export default function Layout({ children }: { children: ReactNode }) {
 
             {user ? (
               <div className="ml-3 flex items-center gap-2">
+                <ModeToggle />
                 <Link
                   to="/app/configuracoes"
                   className="flex items-center gap-2 rounded-xl border border-border px-3 py-2 text-xs font-medium transition-all hover:bg-secondary"
@@ -201,13 +203,16 @@ export default function Layout({ children }: { children: ReactNode }) {
                 </button>
               </div>
             ) : (
-              <Link
-                to="/login"
-                className="btn-tap ml-3 flex items-center gap-2 rounded-xl bg-primary px-5 py-2.5 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
-              >
-                <LogIn className="h-4 w-4" />
-                Entrar
-              </Link>
+              <div className="ml-3 flex items-center gap-2">
+                <ModeToggle />
+                <Link
+                  to="/login"
+                  className="btn-tap flex items-center gap-2 rounded-xl bg-primary px-5 py-2.5 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
+                >
+                  <LogIn className="h-4 w-4" />
+                  Entrar
+                </Link>
+              </div>
             )}
           </nav>
 
@@ -347,6 +352,12 @@ function MobileNav({
             <span className="font-semibold">{points}</span>
           </div>
         ) : null}
+
+        <div className="my-2 h-px bg-border/50" />
+
+        <div className="px-4 py-2">
+          <ModeToggle />
+        </div>
 
         <div className="my-2 h-px bg-border/50" />
 

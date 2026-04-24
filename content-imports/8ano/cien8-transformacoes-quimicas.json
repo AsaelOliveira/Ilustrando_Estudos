@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-transformacoes-quimicas",
+    "titulo": "Transformações químicas",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Matéria e energia",
+    "resumo": [
+      "Transformações químicas produzem novas substâncias.",
+      "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química.",
+      "Nem toda mudança observada é química; algumas são apenas físicas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que caracteriza uma transformação química",
+        "texto": "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência.",
+        "dica": "Pergunte se surgiu uma nova substância com características próprias."
+      },
+      {
+        "subtitulo": "Evidências da reação",
+        "texto": "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção.",
+        "dica": "Observe o processo inteiro, e não apenas o resultado visual."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere o enferrujamento de um portão de ferro.",
+        "passos": [
+          "O ferro reage com substâncias presentes no ambiente.",
+          "Forma-se a ferrugem, que possui características diferentes do metal original."
+        ],
+        "resposta": "O enferrujamento é um exemplo de transformação química."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Transformações químicas\".",
+        "passos": [
+          "Transformações químicas produzem novas substâncias",
+          "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química",
+          "Nem toda mudança observada é química; algumas são apenas físicas"
+        ],
+        "resposta": "Esse exemplo mostra como Transformações químicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Transformações químicas\".",
+        "passos": [
+          "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química",
+          "Nem toda mudança observada é química; algumas são apenas físicas",
+          "O que caracteriza uma transformação química"
+        ],
+        "resposta": "Esse exemplo mostra como Transformações químicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Transformações químicas\".",
+        "passos": [
+          "Nem toda mudança observada é química; algumas são apenas físicas",
+          "O que caracteriza uma transformação química",
+          "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência"
+        ],
+        "resposta": "Esse exemplo mostra como Transformações químicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Transformações químicas\".",
+        "passos": [
+          "O que caracteriza uma transformação química",
+          "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência",
+          "Pergunte se surgiu uma nova substância com características próprias"
+        ],
+        "resposta": "Esse exemplo mostra como Transformações químicas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-transformacoes-quimicas-ex-01",
+        "enunciado": "Uma transformação química ocorre quando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "novas substâncias são formadas",
+          "a matéria apenas muda de lugar",
+          "o objeto é observado à distância",
+          "a cor do ambiente permanece a mesma"
+        ],
+        "respostaCorreta": "novas substâncias são formadas",
+        "explicacao": "A formação de novas substâncias é a principal característica de uma transformação química.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-ex-02",
+        "enunciado": "Qual situação representa uma transformação química?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "queima de papel",
+          "derretimento do gelo",
+          "quebra de um copo",
+          "corte de uma folha"
+        ],
+        "respostaCorreta": "queima de papel",
+        "explicacao": "Na queima, surgem novas substâncias, como cinzas e gases.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-ex-03",
+        "enunciado": "Um possível indício de reação química é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formação de gás",
+          "mudança de endereço",
+          "troca de caderno",
+          "redução do silêncio"
+        ],
+        "respostaCorreta": "formação de gás",
+        "explicacao": "A liberação de gás é um dos sinais que podem indicar transformação química.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem toda mudança observada é química.",
+          "Toda mudança de tamanho é química.",
+          "Toda transformação física cria novas substâncias.",
+          "Mudanças químicas não alteram propriedades."
+        ],
+        "respostaCorreta": "Nem toda mudança observada é química.",
+        "explicacao": "Algumas mudanças são apenas físicas, como derretimento e evaporação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformações químicas produzem novas substâncias",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Transformações químicas produzem novas substâncias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química"
+        ],
+        "respostaCorreta": "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda mudança observada é química; algumas são apenas físicas",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Nem toda mudança observada é química; algumas são apenas físicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte se surgiu uma nova substância com características próprias",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte se surgiu uma nova substância com características próprias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção"
+        ],
+        "respostaCorreta": "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe o processo inteiro, e não apenas o resultado visual",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe o processo inteiro, e não apenas o resultado visual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere o enferrujamento de um portão de ferro",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere o enferrujamento de um portão de ferro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O enferrujamento é um exemplo de transformação química",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O enferrujamento é um exemplo de transformação química",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O ferro reage com substâncias presentes no ambiente"
+        ],
+        "respostaCorreta": "O ferro reage com substâncias presentes no ambiente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Forma-se a ferrugem, que possui características diferentes do metal original",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Forma-se a ferrugem, que possui características diferentes do metal original",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Transformações químicas produzem novas substâncias",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Transformações químicas produzem novas substâncias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Mudanças de cor, formação de gás e liberação de calor podem indicar reação química",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda mudança observada é química; algumas são apenas físicas"
+        ],
+        "respostaCorreta": "Nem toda mudança observada é química; algumas são apenas físicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-transformacoes-quimicas-sim-01",
+        "enunciado": "Ao analisar uma reação, o principal critério para identificar transformação química é verificar se:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "houve formação de novas substâncias",
+          "o recipiente mudou de posição",
+          "o material ficou maior",
+          "a experiência foi rápida"
+        ],
+        "respostaCorreta": "houve formação de novas substâncias",
+        "explicacao": "A presença de substâncias novas diferencia a transformação química da transformação física.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem toda mudança observada é química; algumas são apenas físicas",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nem toda mudança observada é química; algumas são apenas físicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência"
+        ],
+        "respostaCorreta": "Numa transformação química, as substâncias iniciais se reorganizam e formam outras substâncias com propriedades diferentes. Por isso, o resultado final não é apenas uma mudança de aparência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte se surgiu uma nova substância com características próprias",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte se surgiu uma nova substância com características próprias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Mudança de cor, formação de bolhas, produção de cheiro característico e liberação de energia podem indicar que ocorreu uma reação química. Esses sinais precisam ser analisados com atenção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe o processo inteiro, e não apenas o resultado visual",
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe o processo inteiro, e não apenas o resultado visual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-transformacoes-quimicas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de transformações químicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Transformações químicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com transformações químicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere o enferrujamento de um portão de ferro"
+        ],
+        "respostaCorreta": "Considere o enferrujamento de um portão de ferro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Transformações químicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

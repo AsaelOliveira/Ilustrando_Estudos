@@ -31,16 +31,397 @@
           "Relacione a avaliação final às decisões tomadas durante o processo."
         ],
         "resposta": "Esse exemplo mostra que planejar e avaliar fazem parte de um mesmo processo de aprendizagem e organização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Projeto, objetivos e avaliação de resultados\".",
+        "passos": [
+          "Projetos precisam de objetivos claros e critérios para avaliar seus resultados",
+          "Acompanhar o desenvolvimento de uma ação ajuda a corrigir caminhos e melhorar decisões",
+          "Estudar esse tema fortalece organização, responsabilidade e visão de processo"
+        ],
+        "resposta": "Esse exemplo mostra como Projeto, objetivos e avaliação de resultados pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Projeto, objetivos e avaliação de resultados\".",
+        "passos": [
+          "Acompanhar o desenvolvimento de uma ação ajuda a corrigir caminhos e melhorar decisões",
+          "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+          "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada"
+        ],
+        "resposta": "Esse exemplo mostra como Projeto, objetivos e avaliação de resultados pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Projeto, objetivos e avaliação de resultados\".",
+        "passos": [
+          "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+          "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada",
+          "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar"
+        ],
+        "resposta": "Esse exemplo mostra como Projeto, objetivos e avaliação de resultados pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Projeto, objetivos e avaliação de resultados\".",
+        "passos": [
+          "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada",
+          "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar",
+          "Definir objetivos com clareza"
+        ],
+        "resposta": "Esse exemplo mostra como Projeto, objetivos e avaliação de resultados pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"erl9-projeto-objetivos-resultados-ex-01","enunciado":"Um projeto precisa de objetivos claros para:","tipo":"multipla_escolha","alternativas":["orientar ações e acompanhar resultados","funcionar sem direção alguma","evitar qualquer planejamento","dispensar critérios de avaliação"],"respostaCorreta":"orientar ações e acompanhar resultados","explicacao":"Objetivos ajudam a definir propósito e a verificar se o projeto está avançando como esperado.","dificuldade":"facil"},
-      {"id":"erl9-projeto-objetivos-resultados-ex-02","enunciado":"Avaliar um projeto significa:","tipo":"multipla_escolha","alternativas":["analisar resultados e pensar melhorias","somente declarar sucesso sem análise","ignorar dificuldades do processo","encerrar a ação sem reflexão"],"respostaCorreta":"analisar resultados e pensar melhorias","explicacao":"A avaliação ajuda a compreender resultados, identificar problemas e aperfeiçoar estratégias.","dificuldade":"facil"},
-      {"id":"erl9-projeto-objetivos-resultados-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Planejar e avaliar são partes importantes de um projeto bem conduzido.","Projetos não precisam de objetivos definidos.","Avaliação não contribui para decisões futuras.","Resultados não têm relação com o planejamento inicial."],"respostaCorreta":"Planejar e avaliar são partes importantes de um projeto bem conduzido.","explicacao":"Essas etapas ajudam a orientar, acompanhar e qualificar a realização de uma ação.","dificuldade":"medio"},
-      {"id":"erl9-projeto-objetivos-resultados-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver visão de processo e responsabilidade","tratar projetos como ações sem acompanhamento","ignorar resultados obtidos","dispensar revisão de estratégias"],"respostaCorreta":"desenvolver visão de processo e responsabilidade","explicacao":"O conteúdo fortalece planejamento, organização e análise crítica das ações realizadas.","dificuldade":"medio"}
+      {
+        "id": "erl9-projeto-objetivos-resultados-ex-01",
+        "enunciado": "Um projeto precisa de objetivos claros para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "orientar ações e acompanhar resultados",
+          "funcionar sem direção alguma",
+          "evitar qualquer planejamento",
+          "dispensar critérios de avaliação"
+        ],
+        "respostaCorreta": "orientar ações e acompanhar resultados",
+        "explicacao": "Objetivos ajudam a definir propósito e a verificar se o projeto está avançando como esperado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-ex-02",
+        "enunciado": "Avaliar um projeto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar resultados e pensar melhorias",
+          "somente declarar sucesso sem análise",
+          "ignorar dificuldades do processo",
+          "encerrar a ação sem reflexão"
+        ],
+        "respostaCorreta": "analisar resultados e pensar melhorias",
+        "explicacao": "A avaliação ajuda a compreender resultados, identificar problemas e aperfeiçoar estratégias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar e avaliar são partes importantes de um projeto bem conduzido.",
+          "Projetos não precisam de objetivos definidos.",
+          "Avaliação não contribui para decisões futuras.",
+          "Resultados não têm relação com o planejamento inicial."
+        ],
+        "respostaCorreta": "Planejar e avaliar são partes importantes de um projeto bem conduzido.",
+        "explicacao": "Essas etapas ajudam a orientar, acompanhar e qualificar a realização de uma ação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver visão de processo e responsabilidade",
+          "tratar projetos como ações sem acompanhamento",
+          "ignorar resultados obtidos",
+          "dispensar revisão de estratégias"
+        ],
+        "respostaCorreta": "desenvolver visão de processo e responsabilidade",
+        "explicacao": "O conteúdo fortalece planejamento, organização e análise crítica das ações realizadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Projeto, objetivos e avaliação de resultados\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos precisam de objetivos claros e critérios para avaliar seus resultados",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Projetos precisam de objetivos claros e critérios para avaliar seus resultados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-02",
+        "enunciado": "Ao estudar \"Projeto, objetivos e avaliação de resultados\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Acompanhar o desenvolvimento de uma ação ajuda a corrigir caminhos e melhorar decisões"
+        ],
+        "respostaCorreta": "Acompanhar o desenvolvimento de uma ação ajuda a corrigir caminhos e melhorar decisões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-05",
+        "enunciado": "No contexto de \"Projeto, objetivos e avaliação de resultados\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-06",
+        "enunciado": "O estudo de \"Projeto, objetivos e avaliação de resultados\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender definir objetivos com clareza"
+        ],
+        "respostaCorreta": "compreender definir objetivos com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Avaliar resultados não significa apenas verificar se tudo deu certo, mas também identificar dificuldades, aprendizagens e ajustes necessários. Essa prática desenvolve responsabilidade, análise crítica e melhoria contínua",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Avaliar resultados não significa apenas verificar se tudo deu certo, mas também identificar dificuldades, aprendizagens e ajustes necessários. Essa prática desenvolve responsabilidade, análise crítica e melhoria contínua",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Ao final de uma ação, pergunte o que funcionou, o que pode melhorar e quais resultados foram alcançados",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Ao final de uma ação, pergunte o que funcionou, o que pode melhorar e quais resultados foram alcançados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender avaliar para melhorar",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender avaliar para melhorar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise um projeto escolar em que o grupo define metas e, ao final, verifica o que conseguiu realizar"
+        ],
+        "respostaCorreta": "Analise um projeto escolar em que o grupo define metas e, ao final, verifica o que conseguiu realizar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Projeto, objetivos e avaliação de resultados\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que planejar e avaliar fazem parte de um mesmo processo de aprendizagem e organização",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que planejar e avaliar fazem parte de um mesmo processo de aprendizagem e organização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-12",
+        "enunciado": "Ao estudar \"Projeto, objetivos e avaliação de resultados\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique os objetivos propostos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique os objetivos propostos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o andamento do projeto foi acompanhado",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe como o andamento do projeto foi acompanhado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a avaliação final às decisões tomadas durante o processo"
+        ],
+        "respostaCorreta": "Relacione a avaliação final às decisões tomadas durante o processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"erl9-projeto-objetivos-resultados-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos","projetos devem ser feitos sem acompanhamento","resultados não importam para o planejamento","avaliar significa apenas dar nota a uma ação"],"respostaCorreta":"objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos","explicacao":"O tema mostra que acompanhar metas e refletir sobre resultados melhora a condução de projetos.","dificuldade":"medio"}
+      {
+        "id": "erl9-projeto-objetivos-resultados-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos",
+          "projetos devem ser feitos sem acompanhamento",
+          "resultados não importam para o planejamento",
+          "avaliar significa apenas dar nota a uma ação"
+        ],
+        "respostaCorreta": "objetivos claros e avaliação de resultados fortalecem a qualidade dos projetos",
+        "explicacao": "O tema mostra que acompanhar metas e refletir sobre resultados melhora a condução de projetos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Projeto, objetivos e avaliação de resultados\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece organização, responsabilidade e visão de processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Projeto, objetivos e avaliação de resultados\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada"
+        ],
+        "respostaCorreta": "Quando um projeto tem objetivos bem definidos, fica mais fácil organizar etapas, distribuir tarefas e compreender o que se espera alcançar. Isso torna a ação mais coerente e menos improvisada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Um bom objetivo deve ser claro, possível de acompanhar e relacionado ao problema que se quer enfrentar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Projeto, objetivos e avaliação de resultados\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender definir objetivos com clareza",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender definir objetivos com clareza",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Avaliar resultados não significa apenas verificar se tudo deu certo, mas também identificar dificuldades, aprendizagens e ajustes necessários. Essa prática desenvolve responsabilidade, análise crítica e melhoria contínua",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Avaliar resultados não significa apenas verificar se tudo deu certo, mas também identificar dificuldades, aprendizagens e ajustes necessários. Essa prática desenvolve responsabilidade, análise crítica e melhoria contínua",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-projeto-objetivos-resultados-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao final de uma ação, pergunte o que funcionou, o que pode melhorar e quais resultados foram alcançados"
+        ],
+        "respostaCorreta": "Ao final de uma ação, pergunte o que funcionou, o que pode melhorar e quais resultados foram alcançados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projeto, objetivos e avaliação de resultados apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

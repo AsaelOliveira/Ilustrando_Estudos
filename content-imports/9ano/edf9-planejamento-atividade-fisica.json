@@ -31,16 +31,397 @@
           "Relacione a situação à ideia de prática corporal consciente."
         ],
         "resposta": "Esse contraste mostra que planejar a atividade física ajuda a proteger a saúde e a melhorar a qualidade da prática."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Planejamento de atividade física\".",
+        "passos": [
+          "Planejar atividades físicas ajuda a tornar a prática mais segura e adequada aos objetivos",
+          "Intensidade, frequência, descanso e regularidade influenciam os resultados do movimento corporal",
+          "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento de atividade física pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Planejamento de atividade física\".",
+        "passos": [
+          "Intensidade, frequência, descanso e regularidade influenciam os resultados do movimento corporal",
+          "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+          "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento de atividade física pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Planejamento de atividade física\".",
+        "passos": [
+          "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+          "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos",
+          "Ao planejar uma atividade, considere seus objetivos e seus limites físicos"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento de atividade física pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Planejamento de atividade física\".",
+        "passos": [
+          "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos",
+          "Ao planejar uma atividade, considere seus objetivos e seus limites físicos",
+          "Organização da prática corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento de atividade física pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"edf9-planejamento-atividade-fisica-ex-01","enunciado":"Planejar atividade física ajuda a:","tipo":"multipla_escolha","alternativas":["organizar a prática com mais segurança","dispensar qualquer cuidado com o corpo","eliminar a importância do descanso","reduzir atividade a improviso"],"respostaCorreta":"organizar a prática com mais segurança","explicacao":"O planejamento contribui para uma prática mais equilibrada e adequada aos objetivos.","dificuldade":"facil"},
-      {"id":"edf9-planejamento-atividade-fisica-ex-02","enunciado":"Um elemento importante no planejamento é:","tipo":"multipla_escolha","alternativas":["considerar esforço e descanso","ignorar limites físicos","fazer tudo de forma aleatória","evitar regularidade"],"respostaCorreta":"considerar esforço e descanso","explicacao":"A prática física equilibrada envolve atividade e recuperação corporal.","dificuldade":"facil"},
-      {"id":"edf9-planejamento-atividade-fisica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Regularidade e equilíbrio são importantes para práticas corporais saudáveis.","Descanso não interfere na qualidade da prática.","Toda atividade deve ser intensa em qualquer situação.","Planejamento não tem relação com saúde."],"respostaCorreta":"Regularidade e equilíbrio são importantes para práticas corporais saudáveis.","explicacao":"O cuidado com o corpo envolve frequência, adaptação e respeito aos limites.","dificuldade":"medio"},
-      {"id":"edf9-planejamento-atividade-fisica-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["fazer escolhas mais conscientes sobre atividade física","considerar a prática corporal sem nenhum critério","ignorar o próprio corpo durante o exercício","pensar apenas em desempenho competitivo"],"respostaCorreta":"fazer escolhas mais conscientes sobre atividade física","explicacao":"O conteúdo fortalece autonomia e responsabilidade no cuidado com o corpo.","dificuldade":"medio"}
+      {
+        "id": "edf9-planejamento-atividade-fisica-ex-01",
+        "enunciado": "Planejar atividade física ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar a prática com mais segurança",
+          "dispensar qualquer cuidado com o corpo",
+          "eliminar a importância do descanso",
+          "reduzir atividade a improviso"
+        ],
+        "respostaCorreta": "organizar a prática com mais segurança",
+        "explicacao": "O planejamento contribui para uma prática mais equilibrada e adequada aos objetivos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-ex-02",
+        "enunciado": "Um elemento importante no planejamento é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar esforço e descanso",
+          "ignorar limites físicos",
+          "fazer tudo de forma aleatória",
+          "evitar regularidade"
+        ],
+        "respostaCorreta": "considerar esforço e descanso",
+        "explicacao": "A prática física equilibrada envolve atividade e recuperação corporal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regularidade e equilíbrio são importantes para práticas corporais saudáveis.",
+          "Descanso não interfere na qualidade da prática.",
+          "Toda atividade deve ser intensa em qualquer situação.",
+          "Planejamento não tem relação com saúde."
+        ],
+        "respostaCorreta": "Regularidade e equilíbrio são importantes para práticas corporais saudáveis.",
+        "explicacao": "O cuidado com o corpo envolve frequência, adaptação e respeito aos limites.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fazer escolhas mais conscientes sobre atividade física",
+          "considerar a prática corporal sem nenhum critério",
+          "ignorar o próprio corpo durante o exercício",
+          "pensar apenas em desempenho competitivo"
+        ],
+        "respostaCorreta": "fazer escolhas mais conscientes sobre atividade física",
+        "explicacao": "O conteúdo fortalece autonomia e responsabilidade no cuidado com o corpo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Planejamento de atividade física\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar atividades físicas ajuda a tornar a prática mais segura e adequada aos objetivos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Planejar atividades físicas ajuda a tornar a prática mais segura e adequada aos objetivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-02",
+        "enunciado": "Ao estudar \"Planejamento de atividade física\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Intensidade, frequência, descanso e regularidade influenciam os resultados do movimento corporal"
+        ],
+        "respostaCorreta": "Intensidade, frequência, descanso e regularidade influenciam os resultados do movimento corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-05",
+        "enunciado": "No contexto de \"Planejamento de atividade física\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao planejar uma atividade, considere seus objetivos e seus limites físicos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao planejar uma atividade, considere seus objetivos e seus limites físicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-06",
+        "enunciado": "O estudo de \"Planejamento de atividade física\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender organização da prática corporal"
+        ],
+        "respostaCorreta": "compreender organização da prática corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ter regularidade e respeitar intervalos de descanso é importante para manter benefícios à saúde. O equilíbrio entre esforço, recuperação e adaptação corporal torna a prática mais consciente e segura",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ter regularidade e respeitar intervalos de descanso é importante para manter benefícios à saúde. O equilíbrio entre esforço, recuperação e adaptação corporal torna a prática mais consciente e segura",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Nem sempre fazer mais significa cuidar melhor do corpo; equilíbrio também é parte do processo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Nem sempre fazer mais significa cuidar melhor do corpo; equilíbrio também é parte do processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender regularidade e equilíbrio",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender regularidade e equilíbrio",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare uma rotina de atividade física organizada com outra feita sem planejamento nem descanso adequado"
+        ],
+        "respostaCorreta": "Compare uma rotina de atividade física organizada com outra feita sem planejamento nem descanso adequado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Planejamento de atividade física\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse contraste mostra que planejar a atividade física ajuda a proteger a saúde e a melhorar a qualidade da prática",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse contraste mostra que planejar a atividade física ajuda a proteger a saúde e a melhorar a qualidade da prática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-12",
+        "enunciado": "Ao estudar \"Planejamento de atividade física\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe diferenças na frequência e na intensidade das práticas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe diferenças na frequência e na intensidade das práticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como o descanso aparece em cada caso",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como o descanso aparece em cada caso",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a situação à ideia de prática corporal consciente"
+        ],
+        "respostaCorreta": "Relacione a situação à ideia de prática corporal consciente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"edf9-planejamento-atividade-fisica-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["atividade física planejada tende a ser mais segura e adequada aos objetivos","qualquer prática corporal deve ser feita sem organização","descanso não faz parte do cuidado com o corpo","movimento e saúde não precisam de regularidade"],"respostaCorreta":"atividade física planejada tende a ser mais segura e adequada aos objetivos","explicacao":"O planejamento ajuda a tornar a prática mais consciente, equilibrada e saudável.","dificuldade":"medio"}
+      {
+        "id": "edf9-planejamento-atividade-fisica-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atividade física planejada tende a ser mais segura e adequada aos objetivos",
+          "qualquer prática corporal deve ser feita sem organização",
+          "descanso não faz parte do cuidado com o corpo",
+          "movimento e saúde não precisam de regularidade"
+        ],
+        "respostaCorreta": "atividade física planejada tende a ser mais segura e adequada aos objetivos",
+        "explicacao": "O planejamento ajuda a tornar a prática mais consciente, equilibrada e saudável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Planejamento de atividade física\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema desenvolve consciência sobre escolhas saudáveis de prática física",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Planejamento de atividade física\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos"
+        ],
+        "respostaCorreta": "Atividades físicas não precisam ser feitas de modo improvisado. Pensar objetivos, tempo disponível, necessidade de descanso e características do próprio corpo ajuda a organizar melhor a prática e a prevenir excessos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao planejar uma atividade, considere seus objetivos e seus limites físicos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao planejar uma atividade, considere seus objetivos e seus limites físicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Planejamento de atividade física\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender organização da prática corporal",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender organização da prática corporal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ter regularidade e respeitar intervalos de descanso é importante para manter benefícios à saúde. O equilíbrio entre esforço, recuperação e adaptação corporal torna a prática mais consciente e segura",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Ter regularidade e respeitar intervalos de descanso é importante para manter benefícios à saúde. O equilíbrio entre esforço, recuperação e adaptação corporal torna a prática mais consciente e segura",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-planejamento-atividade-fisica-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Nem sempre fazer mais significa cuidar melhor do corpo; equilíbrio também é parte do processo"
+        ],
+        "respostaCorreta": "Nem sempre fazer mais significa cuidar melhor do corpo; equilíbrio também é parte do processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento de atividade física apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

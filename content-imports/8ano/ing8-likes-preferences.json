@@ -1,0 +1,426 @@
+[
+  {
+    "id": "ing8-likes-preferences",
+    "titulo": "Likes and preferences",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about likes and preferences helps students express personal choices in English.",
+      "This topic expands vocabulary related to activities, food, music and interests.",
+      "Learning these structures improves participation in simple dialogues."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressing preferences",
+        "texto": "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life.",
+        "dica": "Practice talking about real preferences to make the language more useful."
+      },
+      {
+        "subtitulo": "From words to interaction",
+        "texto": "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way.",
+        "dica": "Try to combine preference expressions with short reasons or examples."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'I like music because it helps me relax.'",
+        "passos": [
+          "Identify the expression of preference in the sentence.",
+          "Observe how the speaker gives a simple reason."
+        ],
+        "resposta": "This is a simple example of expressing likes in English."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Likes and preferences\".",
+        "passos": [
+          "Talking about likes and preferences helps students express personal choices in English",
+          "This topic expands vocabulary related to activities, food, music and interests",
+          "Learning these structures improves participation in simple dialogues"
+        ],
+        "resposta": "Esse exemplo mostra como Likes and preferences pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Likes and preferences\".",
+        "passos": [
+          "This topic expands vocabulary related to activities, food, music and interests",
+          "Learning these structures improves participation in simple dialogues",
+          "Expressing preferences"
+        ],
+        "resposta": "Esse exemplo mostra como Likes and preferences pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Likes and preferences\".",
+        "passos": [
+          "Learning these structures improves participation in simple dialogues",
+          "Expressing preferences",
+          "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life"
+        ],
+        "resposta": "Esse exemplo mostra como Likes and preferences pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Likes and preferences\".",
+        "passos": [
+          "Expressing preferences",
+          "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life",
+          "Practice talking about real preferences to make the language more useful"
+        ],
+        "resposta": "Esse exemplo mostra como Likes and preferences pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "ing8-likes-preferences-ex-01",
+        "enunciado": "Talking about likes helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "express personal choices in English",
+          "avoid all communication",
+          "replace language with isolated lists",
+          "ignore everyday situations"
+        ],
+        "respostaCorreta": "express personal choices in English",
+        "explicacao": "This topic supports basic communication about interests and preferences.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-ex-02",
+        "enunciado": "A simple reason in a sentence makes communication:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "clearer and more meaningful",
+          "impossible to understand",
+          "less personal",
+          "unrelated to the topic"
+        ],
+        "respostaCorreta": "clearer and more meaningful",
+        "explicacao": "Adding a short reason helps the listener understand the preference better.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Talking about preferences helps students participate in simple dialogues.",
+          "Preferences cannot be expressed with short English sentences.",
+          "This topic has no practical use.",
+          "Personal choices are not part of communication."
+        ],
+        "respostaCorreta": "Talking about preferences helps students participate in simple dialogues.",
+        "explicacao": "This content helps students interact more naturally in familiar conversations.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-ex-04",
+        "enunciado": "Studying this topic helps the student:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talk about interests with more confidence",
+          "avoid all personal communication",
+          "replace meaning with repetition only",
+          "ignore preference vocabulary"
+        ],
+        "respostaCorreta": "talk about interests with more confidence",
+        "explicacao": "The topic expands vocabulary and supports communication about everyday choices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Talking about likes and preferences helps students express personal choices in English",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Talking about likes and preferences helps students express personal choices in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "This topic expands vocabulary related to activities, food, music and interests"
+        ],
+        "respostaCorreta": "This topic expands vocabulary related to activities, food, music and interests",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Learning these structures improves participation in simple dialogues",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Learning these structures improves participation in simple dialogues",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Practice talking about real preferences to make the language more useful",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Practice talking about real preferences to make the language more useful",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way"
+        ],
+        "respostaCorreta": "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Try to combine preference expressions with short reasons or examples",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Try to combine preference expressions with short reasons or examples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'I like music because it helps me relax.'",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Read: 'I like music because it helps me relax.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This is a simple example of expressing likes in English",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This is a simple example of expressing likes in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identify the expression of preference in the sentence"
+        ],
+        "respostaCorreta": "Identify the expression of preference in the sentence",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe how the speaker gives a simple reason",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe how the speaker gives a simple reason",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Talking about likes and preferences helps students express personal choices in English",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Talking about likes and preferences helps students express personal choices in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic expands vocabulary related to activities, food, music and interests",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This topic expands vocabulary related to activities, food, music and interests",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Learning these structures improves participation in simple dialogues"
+        ],
+        "respostaCorreta": "Learning these structures improves participation in simple dialogues",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "ing8-likes-preferences-sim-01",
+        "enunciado": "The main idea of this topic is that students can:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "express likes and preferences in everyday English",
+          "stop using complete sentences",
+          "avoid interaction with others",
+          "replace speech with isolated words only"
+        ],
+        "respostaCorreta": "express likes and preferences in everyday English",
+        "explicacao": "This topic helps students communicate personal choices in simple and useful ways.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Learning these structures improves participation in simple dialogues",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Learning these structures improves participation in simple dialogues",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life"
+        ],
+        "respostaCorreta": "Students use simple structures to say what they like, dislike or prefer in different situations. This makes communication more personal, meaningful and connected to everyday life",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Practice talking about real preferences to make the language more useful",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Practice talking about real preferences to make the language more useful",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Talking about likes is more than memorizing vocabulary. It helps students take part in conversations, answer questions and justify simple opinions in a clear way",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Try to combine preference expressions with short reasons or examples",
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Try to combine preference expressions with short reasons or examples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-likes-preferences-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de likes and preferences se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Likes and preferences pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com likes and preferences dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'I like music because it helps me relax.'"
+        ],
+        "respostaCorreta": "Read: 'I like music because it helps me relax.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Likes and preferences, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

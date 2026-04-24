@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-sexualidade-puberdade-respeito",
+    "titulo": "Puberdade, sexualidade e respeito",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "A puberdade é uma fase de mudanças físicas, emocionais e sociais.",
+      "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito.",
+      "Informação confiável e diálogo respeitoso são essenciais nesse tema."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudanças da puberdade",
+        "texto": "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural.",
+        "dica": "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas."
+      },
+      {
+        "subtitulo": "Respeito e responsabilidade",
+        "texto": "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras.",
+        "dica": "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma conversa em sala sobre mudanças da puberdade.",
+        "passos": [
+          "Perceba que cada pessoa pode viver essa fase de modo diferente.",
+          "Observe a importância de escutar com respeito e sem julgamentos."
+        ],
+        "resposta": "O tema deve ser tratado com informação correta, acolhimento e responsabilidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Puberdade, sexualidade e respeito\".",
+        "passos": [
+          "A puberdade é uma fase de mudanças físicas, emocionais e sociais",
+          "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito",
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema"
+        ],
+        "resposta": "Esse exemplo mostra como Puberdade, sexualidade e respeito pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Puberdade, sexualidade e respeito\".",
+        "passos": [
+          "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito",
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+          "Mudanças da puberdade"
+        ],
+        "resposta": "Esse exemplo mostra como Puberdade, sexualidade e respeito pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Puberdade, sexualidade e respeito\".",
+        "passos": [
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+          "Mudanças da puberdade",
+          "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural"
+        ],
+        "resposta": "Esse exemplo mostra como Puberdade, sexualidade e respeito pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Puberdade, sexualidade e respeito\".",
+        "passos": [
+          "Mudanças da puberdade",
+          "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural",
+          "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas"
+        ],
+        "resposta": "Esse exemplo mostra como Puberdade, sexualidade e respeito pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-ex-01",
+        "enunciado": "A puberdade é caracterizada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças físicas, emocionais e sociais",
+          "fim do crescimento humano",
+          "ausência completa de transformações",
+          "alterações que ocorrem do mesmo modo para todos"
+        ],
+        "respostaCorreta": "mudanças físicas, emocionais e sociais",
+        "explicacao": "Essa fase envolve transformações importantes no desenvolvimento humano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-ex-02",
+        "enunciado": "Qual atitude é adequada ao tratar esse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respeitar as diferenças e buscar informação confiável",
+          "rir das dúvidas dos colegas",
+          "espalhar informações sem verificar",
+          "tratar o assunto com desrespeito"
+        ],
+        "respostaCorreta": "respeitar as diferenças e buscar informação confiável",
+        "explicacao": "Esse conteúdo exige responsabilidade, cuidado e respeito na convivência.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem todas as pessoas passam pela puberdade no mesmo ritmo.",
+          "Todas as mudanças da puberdade acontecem no mesmo momento para todos.",
+          "A sexualidade se resume apenas às mudanças do corpo.",
+          "Esse tema não exige diálogo nem responsabilidade."
+        ],
+        "respostaCorreta": "Nem todas as pessoas passam pela puberdade no mesmo ritmo.",
+        "explicacao": "O desenvolvimento humano apresenta variações individuais, e isso precisa ser respeitado.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-ex-04",
+        "enunciado": "O estudo desse tema contribui para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "autocuidado, respeito e convivência ética",
+          "aumento de preconceitos",
+          "substituição de informações científicas por boatos",
+          "eliminação do diálogo"
+        ],
+        "respostaCorreta": "autocuidado, respeito e convivência ética",
+        "explicacao": "Esse conteúdo fortalece atitudes responsáveis em relação ao corpo e ao outro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A puberdade é uma fase de mudanças físicas, emocionais e sociais",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A puberdade é uma fase de mudanças físicas, emocionais e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito"
+        ],
+        "respostaCorreta": "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras"
+        ],
+        "respostaCorreta": "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma conversa em sala sobre mudanças da puberdade",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma conversa em sala sobre mudanças da puberdade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O tema deve ser tratado com informação correta, acolhimento e responsabilidade",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O tema deve ser tratado com informação correta, acolhimento e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que cada pessoa pode viver essa fase de modo diferente"
+        ],
+        "respostaCorreta": "Perceba que cada pessoa pode viver essa fase de modo diferente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a importância de escutar com respeito e sem julgamentos",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a importância de escutar com respeito e sem julgamentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A puberdade é uma fase de mudanças físicas, emocionais e sociais",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A puberdade é uma fase de mudanças físicas, emocionais e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A sexualidade envolve corpo, sentimentos, identidade, responsabilidade e respeito",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema"
+        ],
+        "respostaCorreta": "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-sim-01",
+        "enunciado": "Ao estudar puberdade e sexualidade, o ponto mais importante é compreender que esse tema envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "informação correta, respeito e responsabilidade",
+          "apenas mudanças sem impacto social",
+          "somente conteúdos biológicos isolados",
+          "nenhuma necessidade de diálogo"
+        ],
+        "respostaCorreta": "informação correta, respeito e responsabilidade",
+        "explicacao": "A abordagem desse conteúdo precisa unir conhecimento, cuidado e ética nas relações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Informação confiável e diálogo respeitoso são essenciais nesse tema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural"
+        ],
+        "respostaCorreta": "Na puberdade, o corpo passa por transformações que fazem parte do desenvolvimento humano. Essas mudanças não ocorrem exatamente no mesmo ritmo para todas as pessoas, e isso é natural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Respeite o próprio corpo e também o ritmo de desenvolvimento das outras pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Falar sobre sexualidade exige responsabilidade, escuta e respeito. Esse estudo ajuda a compreender limites, autocuidado, convivência ética e a importância de buscar informações seguras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas",
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Prefira fontes confiáveis e converse com adultos de confiança quando tiver dúvidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sexualidade-puberdade-respeito-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de puberdade, sexualidade e respeito se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Puberdade, sexualidade e respeito pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com puberdade, sexualidade e respeito dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma conversa em sala sobre mudanças da puberdade"
+        ],
+        "respostaCorreta": "Considere uma conversa em sala sobre mudanças da puberdade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Puberdade, sexualidade e respeito, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

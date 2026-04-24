@@ -31,16 +31,397 @@
           "Relacione o gráfico com uma expressão funcional."
         ],
         "resposta": "Esse tipo de leitura ajuda a compreender como funções modelam situações do cotidiano."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Funções e interpretação de gráficos\".",
+        "passos": [
+          "Funções podem ser representadas por tabelas, expressões algébricas e gráficos",
+          "A interpretação de gráficos permite observar crescimento, decrescimento e variação entre grandezas",
+          "Esse conteúdo fortalece a leitura matemática de situações do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Funções e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Funções e interpretação de gráficos\".",
+        "passos": [
+          "A interpretação de gráficos permite observar crescimento, decrescimento e variação entre grandezas",
+          "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+          "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas"
+        ],
+        "resposta": "Esse exemplo mostra como Funções e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Funções e interpretação de gráficos\".",
+        "passos": [
+          "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+          "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas",
+          "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam"
+        ],
+        "resposta": "Esse exemplo mostra como Funções e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Funções e interpretação de gráficos\".",
+        "passos": [
+          "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas",
+          "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam",
+          "Ler uma função em diferentes formas"
+        ],
+        "resposta": "Esse exemplo mostra como Funções e interpretação de gráficos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-funcoes-graficos-interpretacao-ex-01","enunciado":"Um gráfico de função ajuda a mostrar:","tipo":"multipla_escolha","alternativas":["como uma grandeza varia em relação a outra","somente palavras em ordem alfabética","apenas figuras sem medida","unicamente sinais de pontuação"],"respostaCorreta":"como uma grandeza varia em relação a outra","explicacao":"O gráfico representa visualmente a relação entre variáveis.","dificuldade":"facil"},
-      {"id":"mat9-funcoes-graficos-interpretacao-ex-02","enunciado":"Para interpretar um gráfico corretamente, é importante observar:","tipo":"multipla_escolha","alternativas":["eixos, valores e relação entre as grandezas","somente as cores usadas","apenas o tamanho da folha","a ordem dos parágrafos do enunciado"],"respostaCorreta":"eixos, valores e relação entre as grandezas","explicacao":"Esses elementos são essenciais para compreender o que o gráfico representa.","dificuldade":"facil"},
-      {"id":"mat9-funcoes-graficos-interpretacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Gráficos permitem analisar crescimento e decrescimento de uma função.","Gráficos não têm relação com funções.","Uma tabela nunca pode representar uma função.","Funções só podem ser estudadas sem contexto real."],"respostaCorreta":"Gráficos permitem analisar crescimento e decrescimento de uma função.","explicacao":"Os gráficos ajudam a visualizar o comportamento das variáveis e suas mudanças.","dificuldade":"medio"},
-      {"id":"mat9-funcoes-graficos-interpretacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar relações matemáticas em problemas do cotidiano","ignorar dados visuais apresentados em gráficos","trocar toda representação por texto corrido","dispensar o uso de tabelas e expressões"],"respostaCorreta":"interpretar relações matemáticas em problemas do cotidiano","explicacao":"A leitura de gráficos aproxima a matemática de situações concretas e aplicadas.","dificuldade":"medio"}
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-ex-01",
+        "enunciado": "Um gráfico de função ajuda a mostrar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como uma grandeza varia em relação a outra",
+          "somente palavras em ordem alfabética",
+          "apenas figuras sem medida",
+          "unicamente sinais de pontuação"
+        ],
+        "respostaCorreta": "como uma grandeza varia em relação a outra",
+        "explicacao": "O gráfico representa visualmente a relação entre variáveis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-ex-02",
+        "enunciado": "Para interpretar um gráfico corretamente, é importante observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eixos, valores e relação entre as grandezas",
+          "somente as cores usadas",
+          "apenas o tamanho da folha",
+          "a ordem dos parágrafos do enunciado"
+        ],
+        "respostaCorreta": "eixos, valores e relação entre as grandezas",
+        "explicacao": "Esses elementos são essenciais para compreender o que o gráfico representa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gráficos permitem analisar crescimento e decrescimento de uma função.",
+          "Gráficos não têm relação com funções.",
+          "Uma tabela nunca pode representar uma função.",
+          "Funções só podem ser estudadas sem contexto real."
+        ],
+        "respostaCorreta": "Gráficos permitem analisar crescimento e decrescimento de uma função.",
+        "explicacao": "Os gráficos ajudam a visualizar o comportamento das variáveis e suas mudanças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar relações matemáticas em problemas do cotidiano",
+          "ignorar dados visuais apresentados em gráficos",
+          "trocar toda representação por texto corrido",
+          "dispensar o uso de tabelas e expressões"
+        ],
+        "respostaCorreta": "interpretar relações matemáticas em problemas do cotidiano",
+        "explicacao": "A leitura de gráficos aproxima a matemática de situações concretas e aplicadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Funções e interpretação de gráficos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Funções podem ser representadas por tabelas, expressões algébricas e gráficos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Funções podem ser representadas por tabelas, expressões algébricas e gráficos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Funções e interpretação de gráficos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A interpretação de gráficos permite observar crescimento, decrescimento e variação entre grandezas"
+        ],
+        "respostaCorreta": "A interpretação de gráficos permite observar crescimento, decrescimento e variação entre grandezas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-05",
+        "enunciado": "No contexto de \"Funções e interpretação de gráficos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-06",
+        "enunciado": "O estudo de \"Funções e interpretação de gráficos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender ler uma função em diferentes formas"
+        ],
+        "respostaCorreta": "compreender ler uma função em diferentes formas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A leitura de gráficos permite perceber tendências, comparar resultados e interpretar a relação entre variáveis. Esse conhecimento é importante para resolver problemas matemáticos e para compreender dados em contextos reais",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A leitura de gráficos permite perceber tendências, comparar resultados e interpretar a relação entre variáveis. Esse conhecimento é importante para resolver problemas matemáticos e para compreender dados em contextos reais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Preste atenção aos intervalos de crescimento, estabilidade e diminuição apresentados no gráfico",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Preste atenção aos intervalos de crescimento, estabilidade e diminuição apresentados no gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender interpretação de variações",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender interpretação de variações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe um gráfico que representa o valor pago por uma corrida conforme a distância percorrida"
+        ],
+        "respostaCorreta": "Observe um gráfico que representa o valor pago por uma corrida conforme a distância percorrida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Funções e interpretação de gráficos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de leitura ajuda a compreender como funções modelam situações do cotidiano",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de leitura ajuda a compreender como funções modelam situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Funções e interpretação de gráficos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique a grandeza representada em cada eixo",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique a grandeza representada em cada eixo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise como o valor varia com a distância",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Analise como o valor varia com a distância",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione o gráfico com uma expressão funcional"
+        ],
+        "respostaCorreta": "Relacione o gráfico com uma expressão funcional",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-funcoes-graficos-interpretacao-sim-01","enunciado":"A principal utilidade dos gráficos em funções é:","tipo":"multipla_escolha","alternativas":["representar visualmente a relação entre grandezas","eliminar a necessidade de raciocínio matemático","substituir todas as formas algébricas","impedir a comparação de dados"],"respostaCorreta":"representar visualmente a relação entre grandezas","explicacao":"Os gráficos tornam mais clara a análise do comportamento de uma função.","dificuldade":"medio"}
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-sim-01",
+        "enunciado": "A principal utilidade dos gráficos em funções é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "representar visualmente a relação entre grandezas",
+          "eliminar a necessidade de raciocínio matemático",
+          "substituir todas as formas algébricas",
+          "impedir a comparação de dados"
+        ],
+        "respostaCorreta": "representar visualmente a relação entre grandezas",
+        "explicacao": "Os gráficos tornam mais clara a análise do comportamento de uma função.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Funções e interpretação de gráficos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Esse conteúdo fortalece a leitura matemática de situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Funções e interpretação de gráficos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas"
+        ],
+        "respostaCorreta": "Uma função pode aparecer em uma expressão algébrica, em uma tabela de valores ou em um gráfico. Saber relacionar essas formas de representação ajuda a compreender melhor o comportamento das grandezas envolvidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao analisar um gráfico, observe o que cada eixo representa e como os valores se relacionam",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Funções e interpretação de gráficos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender ler uma função em diferentes formas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender ler uma função em diferentes formas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A leitura de gráficos permite perceber tendências, comparar resultados e interpretar a relação entre variáveis. Esse conhecimento é importante para resolver problemas matemáticos e para compreender dados em contextos reais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A leitura de gráficos permite perceber tendências, comparar resultados e interpretar a relação entre variáveis. Esse conhecimento é importante para resolver problemas matemáticos e para compreender dados em contextos reais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-funcoes-graficos-interpretacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Preste atenção aos intervalos de crescimento, estabilidade e diminuição apresentados no gráfico"
+        ],
+        "respostaCorreta": "Preste atenção aos intervalos de crescimento, estabilidade e diminuição apresentados no gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Funções e interpretação de gráficos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

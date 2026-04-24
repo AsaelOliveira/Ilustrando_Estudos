@@ -30,16 +30,397 @@
           "Perceba como a forma de apresentar o fato interfere na leitura."
         ],
         "resposta": "Esse exemplo mostra por que a leitura crítica da mídia é importante para a formação de opinião."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Leitura crítica da mídia e formação de opinião\".",
+        "passos": [
+          "A mídia influencia a circulação de informações e a formação de opiniões na sociedade",
+          "Ler criticamente implica observar linguagem, intenção, fonte e contexto da mensagem",
+          "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação"
+        ],
+        "resposta": "Esse exemplo mostra como Leitura crítica da mídia e formação de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Leitura crítica da mídia e formação de opinião\".",
+        "passos": [
+          "Ler criticamente implica observar linguagem, intenção, fonte e contexto da mensagem",
+          "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+          "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador"
+        ],
+        "resposta": "Esse exemplo mostra como Leitura crítica da mídia e formação de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Leitura crítica da mídia e formação de opinião\".",
+        "passos": [
+          "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+          "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador",
+          "Pergunte quem produz a informação e de que modo ela está sendo apresentada"
+        ],
+        "resposta": "Esse exemplo mostra como Leitura crítica da mídia e formação de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Leitura crítica da mídia e formação de opinião\".",
+        "passos": [
+          "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador",
+          "Pergunte quem produz a informação e de que modo ela está sendo apresentada",
+          "Informação e ponto de vista"
+        ],
+        "resposta": "Esse exemplo mostra como Leitura crítica da mídia e formação de opinião pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-interpretacao-midia-opiniao-ex-01","enunciado":"Ler criticamente a mídia significa:","tipo":"multipla_escolha","alternativas":["observar fonte, linguagem e intenção da mensagem","aceitar toda informação sem análise","ignorar o contexto da notícia","ler apenas o título e tirar conclusões imediatas"],"respostaCorreta":"observar fonte, linguagem e intenção da mensagem","explicacao":"A leitura crítica envolve análise da forma como a informação é construída e divulgada.","dificuldade":"facil"},
-      {"id":"port9-interpretacao-midia-opiniao-ex-02","enunciado":"A mídia pode influenciar a formação de opinião porque:","tipo":"multipla_escolha","alternativas":["seleciona linguagens, enfoques e modos de apresentar informações","sempre apresenta os fatos de maneira neutra e idêntica","não interfere na interpretação do público","dispensa qualquer análise de quem lê"],"respostaCorreta":"seleciona linguagens, enfoques e modos de apresentar informações","explicacao":"As escolhas discursivas afetam a forma como os fatos são percebidos pelo público.","dificuldade":"facil"},
-      {"id":"port9-interpretacao-midia-opiniao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.","Toda notícia deve ser aceita como verdadeira sem comparação de fontes.","A linguagem usada em textos midiáticos não interfere no sentido.","A formação de opinião não tem relação com a qualidade da informação."],"respostaCorreta":"A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.","explicacao":"O conteúdo ajuda o leitor a refletir sobre fontes, intenções e confiabilidade das mensagens recebidas.","dificuldade":"medio"},
-      {"id":"port9-interpretacao-midia-opiniao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["avaliar melhor as informações antes de formar opinião","repetir mensagens sem análise","substituir reflexão por impulso","ignorar a necessidade de verificar fontes"],"respostaCorreta":"avaliar melhor as informações antes de formar opinião","explicacao":"O conteúdo promove postura mais crítica e responsável diante da circulação de informações.","dificuldade":"medio"}
+      {
+        "id": "port9-interpretacao-midia-opiniao-ex-01",
+        "enunciado": "Ler criticamente a mídia significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "observar fonte, linguagem e intenção da mensagem",
+          "aceitar toda informação sem análise",
+          "ignorar o contexto da notícia",
+          "ler apenas o título e tirar conclusões imediatas"
+        ],
+        "respostaCorreta": "observar fonte, linguagem e intenção da mensagem",
+        "explicacao": "A leitura crítica envolve análise da forma como a informação é construída e divulgada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-ex-02",
+        "enunciado": "A mídia pode influenciar a formação de opinião porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "seleciona linguagens, enfoques e modos de apresentar informações",
+          "sempre apresenta os fatos de maneira neutra e idêntica",
+          "não interfere na interpretação do público",
+          "dispensa qualquer análise de quem lê"
+        ],
+        "respostaCorreta": "seleciona linguagens, enfoques e modos de apresentar informações",
+        "explicacao": "As escolhas discursivas afetam a forma como os fatos são percebidos pelo público.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.",
+          "Toda notícia deve ser aceita como verdadeira sem comparação de fontes.",
+          "A linguagem usada em textos midiáticos não interfere no sentido.",
+          "A formação de opinião não tem relação com a qualidade da informação."
+        ],
+        "respostaCorreta": "A leitura crítica da mídia fortalece a autonomia intelectual diante da informação.",
+        "explicacao": "O conteúdo ajuda o leitor a refletir sobre fontes, intenções e confiabilidade das mensagens recebidas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "avaliar melhor as informações antes de formar opinião",
+          "repetir mensagens sem análise",
+          "substituir reflexão por impulso",
+          "ignorar a necessidade de verificar fontes"
+        ],
+        "respostaCorreta": "avaliar melhor as informações antes de formar opinião",
+        "explicacao": "O conteúdo promove postura mais crítica e responsável diante da circulação de informações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Leitura crítica da mídia e formação de opinião\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A mídia influencia a circulação de informações e a formação de opiniões na sociedade",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A mídia influencia a circulação de informações e a formação de opiniões na sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-02",
+        "enunciado": "Ao estudar \"Leitura crítica da mídia e formação de opinião\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Ler criticamente implica observar linguagem, intenção, fonte e contexto da mensagem"
+        ],
+        "respostaCorreta": "Ler criticamente implica observar linguagem, intenção, fonte e contexto da mensagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-05",
+        "enunciado": "No contexto de \"Leitura crítica da mídia e formação de opinião\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte quem produz a informação e de que modo ela está sendo apresentada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pergunte quem produz a informação e de que modo ela está sendo apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-06",
+        "enunciado": "O estudo de \"Leitura crítica da mídia e formação de opinião\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender informação e ponto de vista"
+        ],
+        "respostaCorreta": "compreender informação e ponto de vista",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ler criticamente a mídia significa verificar fontes, comparar informações e refletir sobre possíveis interesses envolvidos na mensagem. Esse cuidado ajuda a combater desinformação e opinião pouco fundamentada",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ler criticamente a mídia significa verificar fontes, comparar informações e refletir sobre possíveis interesses envolvidos na mensagem. Esse cuidado ajuda a combater desinformação e opinião pouco fundamentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe se a mensagem apresenta dados confiáveis ou apenas apelos emocionais e afirmações soltas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe se a mensagem apresenta dados confiáveis ou apenas apelos emocionais e afirmações soltas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender leitura crítica e responsabilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender leitura crítica e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare duas notícias sobre o mesmo fato publicadas em meios diferentes"
+        ],
+        "respostaCorreta": "Compare duas notícias sobre o mesmo fato publicadas em meios diferentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Leitura crítica da mídia e formação de opinião\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra por que a leitura crítica da mídia é importante para a formação de opinião",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra por que a leitura crítica da mídia é importante para a formação de opinião",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-12",
+        "enunciado": "Ao estudar \"Leitura crítica da mídia e formação de opinião\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os títulos, o vocabulário e o recorte adotado por cada texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os títulos, o vocabulário e o recorte adotado por cada texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como a forma de apresentar o fato interfere na leitura",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como a forma de apresentar o fato interfere na leitura",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A mídia influencia a circulação de informações e a formação de opiniões na sociedade"
+        ],
+        "respostaCorreta": "A mídia influencia a circulação de informações e a formação de opiniões na sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-interpretacao-midia-opiniao-sim-01","enunciado":"A principal ideia desse tema é compreender que a informação midiática:","tipo":"multipla_escolha","alternativas":["precisa ser analisada criticamente antes de orientar opiniões","deve ser aceita automaticamente em qualquer situação","não interfere no pensamento social","dispensa verificação e comparação"],"respostaCorreta":"precisa ser analisada criticamente antes de orientar opiniões","explicacao":"A leitura crítica é fundamental para lidar com a informação de modo responsável e consciente.","dificuldade":"medio"}
+      {
+        "id": "port9-interpretacao-midia-opiniao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a informação midiática:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "precisa ser analisada criticamente antes de orientar opiniões",
+          "deve ser aceita automaticamente em qualquer situação",
+          "não interfere no pensamento social",
+          "dispensa verificação e comparação"
+        ],
+        "respostaCorreta": "precisa ser analisada criticamente antes de orientar opiniões",
+        "explicacao": "A leitura crítica é fundamental para lidar com a informação de modo responsável e consciente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Leitura crítica da mídia e formação de opinião\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece autonomia intelectual e responsabilidade diante da informação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Leitura crítica da mídia e formação de opinião\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador"
+        ],
+        "respostaCorreta": "Nem toda mensagem midiática apresenta os fatos da mesma forma. Escolhas de linguagem, recortes de informação e modos de apresentação podem influenciar a interpretação do leitor ou espectador",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quem produz a informação e de que modo ela está sendo apresentada",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pergunte quem produz a informação e de que modo ela está sendo apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Leitura crítica da mídia e formação de opinião\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender informação e ponto de vista",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender informação e ponto de vista",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ler criticamente a mídia significa verificar fontes, comparar informações e refletir sobre possíveis interesses envolvidos na mensagem. Esse cuidado ajuda a combater desinformação e opinião pouco fundamentada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Ler criticamente a mídia significa verificar fontes, comparar informações e refletir sobre possíveis interesses envolvidos na mensagem. Esse cuidado ajuda a combater desinformação e opinião pouco fundamentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-interpretacao-midia-opiniao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se a mensagem apresenta dados confiáveis ou apenas apelos emocionais e afirmações soltas"
+        ],
+        "respostaCorreta": "Observe se a mensagem apresenta dados confiáveis ou apenas apelos emocionais e afirmações soltas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Leitura crítica da mídia e formação de opinião apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

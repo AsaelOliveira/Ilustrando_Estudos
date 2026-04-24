@@ -31,16 +31,397 @@
           "Relacione a forma do texto à experiência apresentada."
         ],
         "resposta": "Esse tipo de leitura mostra como a poesia contemporânea dialoga com a vida social e com novas formas de expressão."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Poesia contemporânea e múltiplas vozes\".",
+        "passos": [
+          "A poesia contemporânea apresenta diferentes formas de linguagem, temas e perspectivas",
+          "Os poemas podem dialogar com questões sociais, afetivas, identitárias e urbanas",
+          "Estudar esse tema amplia a sensibilidade estética e a interpretação literária"
+        ],
+        "resposta": "Esse exemplo mostra como Poesia contemporânea e múltiplas vozes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Poesia contemporânea e múltiplas vozes\".",
+        "passos": [
+          "Os poemas podem dialogar com questões sociais, afetivas, identitárias e urbanas",
+          "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+          "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores"
+        ],
+        "resposta": "Esse exemplo mostra como Poesia contemporânea e múltiplas vozes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Poesia contemporânea e múltiplas vozes\".",
+        "passos": [
+          "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+          "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores",
+          "Observe como a forma do poema também participa da construção de sentido"
+        ],
+        "resposta": "Esse exemplo mostra como Poesia contemporânea e múltiplas vozes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Poesia contemporânea e múltiplas vozes\".",
+        "passos": [
+          "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores",
+          "Observe como a forma do poema também participa da construção de sentido",
+          "Diversidade de temas e formas"
+        ],
+        "resposta": "Esse exemplo mostra como Poesia contemporânea e múltiplas vozes pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"lit9-poesia-contemporanea-vozes-ex-01","enunciado":"A poesia contemporânea pode apresentar:","tipo":"multipla_escolha","alternativas":["linguagem variada e temas atuais","apenas modelos fixos e antigos","somente assuntos mitológicos","proibição de versos livres"],"respostaCorreta":"linguagem variada e temas atuais","explicacao":"A poesia contemporânea reúne diversidade formal e temática.","dificuldade":"facil"},
-      {"id":"lit9-poesia-contemporanea-vozes-ex-02","enunciado":"Uma característica possível desse tipo de poesia é:","tipo":"multipla_escolha","alternativas":["aproximação com experiências e questões do presente","repetição obrigatória de um único estilo","ausência total de subjetividade","eliminação de qualquer reflexão social"],"respostaCorreta":"aproximação com experiências e questões do presente","explicacao":"Muitos poemas contemporâneos dialogam com situações e vozes do mundo atual.","dificuldade":"facil"},
-      {"id":"lit9-poesia-contemporanea-vozes-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A leitura da poesia contemporânea amplia a interpretação literária e estética.","Poemas contemporâneos não admitem novas formas de linguagem.","Literatura e sociedade não podem se relacionar.","Poesia atual não apresenta diferentes vozes."],"respostaCorreta":"A leitura da poesia contemporânea amplia a interpretação literária e estética.","explicacao":"Esse estudo favorece sensibilidade, repertório cultural e leitura crítica.","dificuldade":"medio"},
-      {"id":"lit9-poesia-contemporanea-vozes-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender a literatura como expressão de diferentes vozes e experiências","reduzir a poesia a um único modelo fixo","ignorar temas presentes no cotidiano","ler poemas sem observar forma nem sentido"],"respostaCorreta":"compreender a literatura como expressão de diferentes vozes e experiências","explicacao":"A poesia contemporânea amplia possibilidades de leitura e de interpretação literária.","dificuldade":"medio"}
+      {
+        "id": "lit9-poesia-contemporanea-vozes-ex-01",
+        "enunciado": "A poesia contemporânea pode apresentar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "linguagem variada e temas atuais",
+          "apenas modelos fixos e antigos",
+          "somente assuntos mitológicos",
+          "proibição de versos livres"
+        ],
+        "respostaCorreta": "linguagem variada e temas atuais",
+        "explicacao": "A poesia contemporânea reúne diversidade formal e temática.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-ex-02",
+        "enunciado": "Uma característica possível desse tipo de poesia é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aproximação com experiências e questões do presente",
+          "repetição obrigatória de um único estilo",
+          "ausência total de subjetividade",
+          "eliminação de qualquer reflexão social"
+        ],
+        "respostaCorreta": "aproximação com experiências e questões do presente",
+        "explicacao": "Muitos poemas contemporâneos dialogam com situações e vozes do mundo atual.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A leitura da poesia contemporânea amplia a interpretação literária e estética.",
+          "Poemas contemporâneos não admitem novas formas de linguagem.",
+          "Literatura e sociedade não podem se relacionar.",
+          "Poesia atual não apresenta diferentes vozes."
+        ],
+        "respostaCorreta": "A leitura da poesia contemporânea amplia a interpretação literária e estética.",
+        "explicacao": "Esse estudo favorece sensibilidade, repertório cultural e leitura crítica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender a literatura como expressão de diferentes vozes e experiências",
+          "reduzir a poesia a um único modelo fixo",
+          "ignorar temas presentes no cotidiano",
+          "ler poemas sem observar forma nem sentido"
+        ],
+        "respostaCorreta": "compreender a literatura como expressão de diferentes vozes e experiências",
+        "explicacao": "A poesia contemporânea amplia possibilidades de leitura e de interpretação literária.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Poesia contemporânea e múltiplas vozes\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A poesia contemporânea apresenta diferentes formas de linguagem, temas e perspectivas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A poesia contemporânea apresenta diferentes formas de linguagem, temas e perspectivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-02",
+        "enunciado": "Ao estudar \"Poesia contemporânea e múltiplas vozes\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Os poemas podem dialogar com questões sociais, afetivas, identitárias e urbanas"
+        ],
+        "respostaCorreta": "Os poemas podem dialogar com questões sociais, afetivas, identitárias e urbanas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-05",
+        "enunciado": "No contexto de \"Poesia contemporânea e múltiplas vozes\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a forma do poema também participa da construção de sentido",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como a forma do poema também participa da construção de sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-06",
+        "enunciado": "O estudo de \"Poesia contemporânea e múltiplas vozes\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender diversidade de temas e formas"
+        ],
+        "respostaCorreta": "compreender diversidade de temas e formas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Muitos poemas contemporâneos expressam olhares sobre identidade, memória, cidade, desigualdade, afetos e transformações sociais. Ler essas vozes poéticas ajuda a compreender a literatura como espaço de expressão e reflexão",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Muitos poemas contemporâneos expressam olhares sobre identidade, memória, cidade, desigualdade, afetos e transformações sociais. Ler essas vozes poéticas ajuda a compreender a literatura como espaço de expressão e reflexão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte quem fala no poema e que visão de mundo essa voz apresenta",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte quem fala no poema e que visão de mundo essa voz apresenta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender vozes poéticas e sociedade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender vozes poéticas e sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia um poema curto com linguagem próxima do cotidiano e tema ligado à vida urbana"
+        ],
+        "respostaCorreta": "Leia um poema curto com linguagem próxima do cotidiano e tema ligado à vida urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Poesia contemporânea e múltiplas vozes\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de leitura mostra como a poesia contemporânea dialoga com a vida social e com novas formas de expressão",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de leitura mostra como a poesia contemporânea dialoga com a vida social e com novas formas de expressão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-12",
+        "enunciado": "Ao estudar \"Poesia contemporânea e múltiplas vozes\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe o vocabulário e o ritmo do texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe o vocabulário e o ritmo do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Identifique o tema central do poema",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Identifique o tema central do poema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a forma do texto à experiência apresentada"
+        ],
+        "respostaCorreta": "Relacione a forma do texto à experiência apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"lit9-poesia-contemporanea-vozes-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a poesia contemporânea reúne novas formas e vozes ligadas ao presente","todo poema contemporâneo repete apenas modelos tradicionais","a poesia atual não dialoga com a sociedade","formas poéticas não interferem no sentido do texto"],"respostaCorreta":"a poesia contemporânea reúne novas formas e vozes ligadas ao presente","explicacao":"O conteúdo destaca diversidade formal, temática e interpretativa da poesia contemporânea.","dificuldade":"medio"}
+      {
+        "id": "lit9-poesia-contemporanea-vozes-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a poesia contemporânea reúne novas formas e vozes ligadas ao presente",
+          "todo poema contemporâneo repete apenas modelos tradicionais",
+          "a poesia atual não dialoga com a sociedade",
+          "formas poéticas não interferem no sentido do texto"
+        ],
+        "respostaCorreta": "a poesia contemporânea reúne novas formas e vozes ligadas ao presente",
+        "explicacao": "O conteúdo destaca diversidade formal, temática e interpretativa da poesia contemporânea.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Poesia contemporânea e múltiplas vozes\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a sensibilidade estética e a interpretação literária",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Poesia contemporânea e múltiplas vozes\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores"
+        ],
+        "respostaCorreta": "A poesia contemporânea não segue um único modelo. Ela pode usar versos livres, recursos visuais, linguagem cotidiana e diferentes temas, aproximando a leitura literária de questões atuais e da experiência dos leitores",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como a forma do poema também participa da construção de sentido",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como a forma do poema também participa da construção de sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Poesia contemporânea e múltiplas vozes\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender diversidade de temas e formas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender diversidade de temas e formas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Muitos poemas contemporâneos expressam olhares sobre identidade, memória, cidade, desigualdade, afetos e transformações sociais. Ler essas vozes poéticas ajuda a compreender a literatura como espaço de expressão e reflexão",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Muitos poemas contemporâneos expressam olhares sobre identidade, memória, cidade, desigualdade, afetos e transformações sociais. Ler essas vozes poéticas ajuda a compreender a literatura como espaço de expressão e reflexão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-poesia-contemporanea-vozes-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quem fala no poema e que visão de mundo essa voz apresenta"
+        ],
+        "respostaCorreta": "Pergunte quem fala no poema e que visão de mundo essa voz apresenta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Poesia contemporânea e múltiplas vozes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

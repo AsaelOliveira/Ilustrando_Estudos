@@ -1,0 +1,426 @@
+[
+  {
+    "id": "eti8-dialogo-mediacao-conflitos",
+    "titulo": "Diálogo e mediação de conflitos",
+    "disciplinaId": "eti8",
+    "turmaId": "8ano",
+    "unidade": "Convivência ética",
+    "resumo": [
+      "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade.",
+      "A mediação ajuda a construir soluções mais justas e respeitosas.",
+      "Estudar esse tema fortalece escuta, empatia e convivência democrática."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Conflito não é sinônimo de violência",
+        "texto": "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções.",
+        "dica": "Observe se o problema está sendo tratado com diálogo ou com imposição."
+      },
+      {
+        "subtitulo": "Mediação e construção de acordos",
+        "texto": "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados.",
+        "dica": "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine dois colegas que discordam sobre uma atividade em grupo.",
+        "passos": [
+          "Observe a origem do conflito.",
+          "Perceba como o diálogo pode ajudar a reorganizar a situação."
+        ],
+        "resposta": "Esse exemplo mostra que conflitos podem ser tratados de forma ética e construtiva."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Diálogo e mediação de conflitos\".",
+        "passos": [
+          "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade",
+          "A mediação ajuda a construir soluções mais justas e respeitosas",
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo e mediação de conflitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Diálogo e mediação de conflitos\".",
+        "passos": [
+          "A mediação ajuda a construir soluções mais justas e respeitosas",
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+          "Conflito não é sinônimo de violência"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo e mediação de conflitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Diálogo e mediação de conflitos\".",
+        "passos": [
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+          "Conflito não é sinônimo de violência",
+          "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo e mediação de conflitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Diálogo e mediação de conflitos\".",
+        "passos": [
+          "Conflito não é sinônimo de violência",
+          "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções",
+          "Observe se o problema está sendo tratado com diálogo ou com imposição"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo e mediação de conflitos pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-ex-01",
+        "enunciado": "Um conflito pode ser enfrentado de modo ético por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diálogo e busca de solução",
+          "agressividade imediata",
+          "desrespeito constante",
+          "eliminação da escuta"
+        ],
+        "respostaCorreta": "diálogo e busca de solução",
+        "explicacao": "O tratamento ético dos conflitos depende de respeito, escuta e responsabilidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-ex-02",
+        "enunciado": "A mediação de conflitos ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "construir acordos mais justos",
+          "impor sempre a vontade de uma pessoa",
+          "evitar toda conversa entre os envolvidos",
+          "aumentar a tensão do problema"
+        ],
+        "respostaCorreta": "construir acordos mais justos",
+        "explicacao": "A mediação favorece a compreensão das partes e a busca de soluções equilibradas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conflitos podem ser tratados com diálogo, escuta e responsabilidade.",
+          "Todo conflito deve terminar em agressão.",
+          "Dialogar enfraquece a convivência coletiva.",
+          "Escutar o outro não ajuda a resolver problemas."
+        ],
+        "respostaCorreta": "Conflitos podem ser tratados com diálogo, escuta e responsabilidade.",
+        "explicacao": "A convivência ética pressupõe formas construtivas de enfrentar tensões e diferenças.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agir com mais empatia e equilíbrio em situações de conflito",
+          "reforçar posturas autoritárias",
+          "evitar qualquer convivência coletiva",
+          "pensar que conflitos sempre são negativos e insolúveis"
+        ],
+        "respostaCorreta": "agir com mais empatia e equilíbrio em situações de conflito",
+        "explicacao": "O tema fortalece diálogo, convivência democrática e responsabilidade nas relações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A mediação ajuda a construir soluções mais justas e respeitosas"
+        ],
+        "respostaCorreta": "A mediação ajuda a construir soluções mais justas e respeitosas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o problema está sendo tratado com diálogo ou com imposição",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se o problema está sendo tratado com diálogo ou com imposição",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados"
+        ],
+        "respostaCorreta": "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine dois colegas que discordam sobre uma atividade em grupo",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine dois colegas que discordam sobre uma atividade em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra que conflitos podem ser tratados de forma ética e construtiva",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que conflitos podem ser tratados de forma ética e construtiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a origem do conflito"
+        ],
+        "respostaCorreta": "Observe a origem do conflito",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba como o diálogo pode ajudar a reorganizar a situação",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba como o diálogo pode ajudar a reorganizar a situação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Conflitos fazem parte da vida em sociedade e podem ser tratados com diálogo e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A mediação ajuda a construir soluções mais justas e respeitosas",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A mediação ajuda a construir soluções mais justas e respeitosas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que os conflitos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem ser tratados com diálogo, mediação e respeito",
+          "devem ser resolvidos apenas pela força",
+          "não fazem parte da convivência humana",
+          "sempre impedem qualquer solução coletiva"
+        ],
+        "respostaCorreta": "podem ser tratados com diálogo, mediação e respeito",
+        "explicacao": "A ética na convivência envolve enfrentar tensões de modo responsável e construtivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece escuta, empatia e convivência democrática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções"
+        ],
+        "respostaCorreta": "Ter opiniões diferentes ou viver situações de tensão não significa, necessariamente, agir com agressividade. O importante é aprender a lidar com conflitos por meio da escuta, do respeito e da busca de soluções",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se o problema está sendo tratado com diálogo ou com imposição",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se o problema está sendo tratado com diálogo ou com imposição",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A mediação de conflitos busca aproximar pessoas e favorecer soluções construídas com responsabilidade. Esse processo valoriza a conversa, a compreensão mútua e a procura de caminhos mais equilibrados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis",
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense em estratégias que ajudem os envolvidos a se ouvir e a construir acordos possíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-dialogo-mediacao-conflitos-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de diálogo e mediação de conflitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Diálogo e mediação de conflitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com diálogo e mediação de conflitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine dois colegas que discordam sobre uma atividade em grupo"
+        ],
+        "respostaCorreta": "Imagine dois colegas que discordam sobre uma atividade em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Diálogo e mediação de conflitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

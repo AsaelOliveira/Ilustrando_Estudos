@@ -31,16 +31,397 @@
           "Compare a bola a uma esfera."
         ],
         "resposta": "Esse exemplo mostra como a geometria espacial ajuda a interpretar formas presentes no cotidiano."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Geometria espacial\".",
+        "passos": [
+          "A geometria espacial estuda sólidos e suas características no espaço",
+          "Prismas, pirâmides, cilindros, cones e esferas aparecem em várias situações do cotidiano",
+          "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais"
+        ],
+        "resposta": "Esse exemplo mostra como Geometria espacial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Geometria espacial\".",
+        "passos": [
+          "Prismas, pirâmides, cilindros, cones e esferas aparecem em várias situações do cotidiano",
+          "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+          "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas"
+        ],
+        "resposta": "Esse exemplo mostra como Geometria espacial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Geometria espacial\".",
+        "passos": [
+          "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+          "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas",
+          "Compare objetos do cotidiano com sólidos geométricos para identificar suas características"
+        ],
+        "resposta": "Esse exemplo mostra como Geometria espacial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Geometria espacial\".",
+        "passos": [
+          "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas",
+          "Compare objetos do cotidiano com sólidos geométricos para identificar suas características",
+          "Sólidos geométricos e suas propriedades"
+        ],
+        "resposta": "Esse exemplo mostra como Geometria espacial pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-geometria-espacial-ex-01","enunciado":"A geometria espacial estuda principalmente:","tipo":"multipla_escolha","alternativas":["figuras tridimensionais","somente retas no plano","apenas sílabas e acentos","exclusivamente gráficos estatísticos"],"respostaCorreta":"figuras tridimensionais","explicacao":"A geometria espacial analisa sólidos e formas com três dimensões.","dificuldade":"facil"},
-      {"id":"mat9-geometria-espacial-ex-02","enunciado":"Qual objeto se aproxima de um cilindro?","tipo":"multipla_escolha","alternativas":["uma lata","uma folha de papel","um triângulo desenhado","uma reta numérica"],"respostaCorreta":"uma lata","explicacao":"A lata tem bases circulares e superfície lateral curva, características do cilindro.","dificuldade":"facil"},
-      {"id":"mat9-geometria-espacial-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Volume está relacionado ao espaço ocupado por um sólido.","Volume e perímetro representam exatamente a mesma medida.","Todo sólido geométrico possui apenas uma dimensão.","Geometria espacial não tem aplicação no cotidiano."],"respostaCorreta":"Volume está relacionado ao espaço ocupado por um sólido.","explicacao":"O volume indica a capacidade ou o espaço interno ocupado pelo sólido.","dificuldade":"medio"},
-      {"id":"mat9-geometria-espacial-ex-04","enunciado":"Estudar geometria espacial ajuda a:","tipo":"multipla_escolha","alternativas":["compreender formas, medidas e ocupação do espaço","ignorar objetos tridimensionais do cotidiano","substituir toda a geometria plana","eliminar a necessidade de observação das formas"],"respostaCorreta":"compreender formas, medidas e ocupação do espaço","explicacao":"O conteúdo permite analisar sólidos, superfícies e volumes em situações reais e matemáticas.","dificuldade":"medio"}
+      {
+        "id": "mat9-geometria-espacial-ex-01",
+        "enunciado": "A geometria espacial estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "figuras tridimensionais",
+          "somente retas no plano",
+          "apenas sílabas e acentos",
+          "exclusivamente gráficos estatísticos"
+        ],
+        "respostaCorreta": "figuras tridimensionais",
+        "explicacao": "A geometria espacial analisa sólidos e formas com três dimensões.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-ex-02",
+        "enunciado": "Qual objeto se aproxima de um cilindro?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma lata",
+          "uma folha de papel",
+          "um triângulo desenhado",
+          "uma reta numérica"
+        ],
+        "respostaCorreta": "uma lata",
+        "explicacao": "A lata tem bases circulares e superfície lateral curva, características do cilindro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Volume está relacionado ao espaço ocupado por um sólido.",
+          "Volume e perímetro representam exatamente a mesma medida.",
+          "Todo sólido geométrico possui apenas uma dimensão.",
+          "Geometria espacial não tem aplicação no cotidiano."
+        ],
+        "respostaCorreta": "Volume está relacionado ao espaço ocupado por um sólido.",
+        "explicacao": "O volume indica a capacidade ou o espaço interno ocupado pelo sólido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-ex-04",
+        "enunciado": "Estudar geometria espacial ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender formas, medidas e ocupação do espaço",
+          "ignorar objetos tridimensionais do cotidiano",
+          "substituir toda a geometria plana",
+          "eliminar a necessidade de observação das formas"
+        ],
+        "respostaCorreta": "compreender formas, medidas e ocupação do espaço",
+        "explicacao": "O conteúdo permite analisar sólidos, superfícies e volumes em situações reais e matemáticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Geometria espacial\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A geometria espacial estuda sólidos e suas características no espaço",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A geometria espacial estuda sólidos e suas características no espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-02",
+        "enunciado": "Ao estudar \"Geometria espacial\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Prismas, pirâmides, cilindros, cones e esferas aparecem em várias situações do cotidiano"
+        ],
+        "respostaCorreta": "Prismas, pirâmides, cilindros, cones e esferas aparecem em várias situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-05",
+        "enunciado": "No contexto de \"Geometria espacial\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare objetos do cotidiano com sólidos geométricos para identificar suas características",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Compare objetos do cotidiano com sólidos geométricos para identificar suas características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-06",
+        "enunciado": "O estudo de \"Geometria espacial\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender sólidos geométricos e suas propriedades"
+        ],
+        "respostaCorreta": "compreender sólidos geométricos e suas propriedades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "O estudo da geometria espacial também envolve análise de área e volume. Isso permite compreender capacidade, ocupação de espaço e características das formas em problemas práticos e matemáticos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "O estudo da geometria espacial também envolve análise de área e volume. Isso permite compreender capacidade, ocupação de espaço e características das formas em problemas práticos e matemáticos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Sempre diferencie área de superfície e volume, pois cada medida representa uma ideia distinta",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Sempre diferencie área de superfície e volume, pois cada medida representa uma ideia distinta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender relação entre forma e medida",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender relação entre forma e medida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma caixa, uma lata e uma bola"
+        ],
+        "respostaCorreta": "Observe uma caixa, uma lata e uma bola",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Geometria espacial\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a geometria espacial ajuda a interpretar formas presentes no cotidiano",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a geometria espacial ajuda a interpretar formas presentes no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-12",
+        "enunciado": "Ao estudar \"Geometria espacial\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Associe a caixa a um prisma",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Associe a caixa a um prisma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione a lata a um cilindro",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Relacione a lata a um cilindro",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Compare a bola a uma esfera"
+        ],
+        "respostaCorreta": "Compare a bola a uma esfera",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-geometria-espacial-sim-01","enunciado":"A principal importância da geometria espacial é:","tipo":"multipla_escolha","alternativas":["interpretar sólidos e medidas no espaço tridimensional","estudar apenas desenhos sem medida","substituir completamente a álgebra","eliminar o uso de formas geométricas no cotidiano"],"respostaCorreta":"interpretar sólidos e medidas no espaço tridimensional","explicacao":"A geometria espacial ajuda a compreender as formas e o espaço em diferentes contextos.","dificuldade":"medio"}
+      {
+        "id": "mat9-geometria-espacial-sim-01",
+        "enunciado": "A principal importância da geometria espacial é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar sólidos e medidas no espaço tridimensional",
+          "estudar apenas desenhos sem medida",
+          "substituir completamente a álgebra",
+          "eliminar o uso de formas geométricas no cotidiano"
+        ],
+        "respostaCorreta": "interpretar sólidos e medidas no espaço tridimensional",
+        "explicacao": "A geometria espacial ajuda a compreender as formas e o espaço em diferentes contextos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Geometria espacial\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a analisar formas, áreas, volumes e relações entre figuras tridimensionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Geometria espacial\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas"
+        ],
+        "respostaCorreta": "Na geometria espacial, observamos figuras com três dimensões: comprimento, largura e altura. Cada sólido tem elementos próprios, como faces, arestas, vértices, bases e superfícies curvas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare objetos do cotidiano com sólidos geométricos para identificar suas características",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Compare objetos do cotidiano com sólidos geométricos para identificar suas características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Geometria espacial\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender sólidos geométricos e suas propriedades",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender sólidos geométricos e suas propriedades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo da geometria espacial também envolve análise de área e volume. Isso permite compreender capacidade, ocupação de espaço e características das formas em problemas práticos e matemáticos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "O estudo da geometria espacial também envolve análise de área e volume. Isso permite compreender capacidade, ocupação de espaço e características das formas em problemas práticos e matemáticos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-geometria-espacial-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Sempre diferencie área de superfície e volume, pois cada medida representa uma ideia distinta"
+        ],
+        "respostaCorreta": "Sempre diferencie área de superfície e volume, pois cada medida representa uma ideia distinta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geometria espacial apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

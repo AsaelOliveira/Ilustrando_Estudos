@@ -30,16 +30,397 @@
           "Perceba como a ironia reforça a crítica feita pelo autor."
         ],
         "resposta": "Esse exemplo mostra como a linguagem figurada pode fortalecer a argumentação."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Figuras de linguagem e efeitos argumentativos\".",
+        "passos": [
+          "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva",
+          "Recursos como ironia, metáfora e repetição podem influenciar a leitura do texto",
+          "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem"
+        ],
+        "resposta": "Esse exemplo mostra como Figuras de linguagem e efeitos argumentativos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Figuras de linguagem e efeitos argumentativos\".",
+        "passos": [
+          "Recursos como ironia, metáfora e repetição podem influenciar a leitura do texto",
+          "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+          "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento"
+        ],
+        "resposta": "Esse exemplo mostra como Figuras de linguagem e efeitos argumentativos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Figuras de linguagem e efeitos argumentativos\".",
+        "passos": [
+          "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+          "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento",
+          "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação"
+        ],
+        "resposta": "Esse exemplo mostra como Figuras de linguagem e efeitos argumentativos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Figuras de linguagem e efeitos argumentativos\".",
+        "passos": [
+          "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento",
+          "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação",
+          "Expressividade e intenção"
+        ],
+        "resposta": "Esse exemplo mostra como Figuras de linguagem e efeitos argumentativos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-figuras-argumentativas-linguagem-ex-01","enunciado":"As figuras de linguagem podem ajudar a:","tipo":"multipla_escolha","alternativas":["intensificar sentidos e fortalecer argumentos","eliminar toda expressividade do texto","substituir completamente a tese","impedir a interpretação do leitor"],"respostaCorreta":"intensificar sentidos e fortalecer argumentos","explicacao":"Em muitos textos, as figuras de linguagem contribuem para reforçar ideias e efeitos argumentativos.","dificuldade":"facil"},
-      {"id":"port9-figuras-argumentativas-linguagem-ex-02","enunciado":"Um recurso de linguagem pode ser importante na argumentação porque:","tipo":"multipla_escolha","alternativas":["influencia o modo como o leitor percebe a mensagem","serve apenas para decorar o texto","não interfere no sentido do que está escrito","substitui a necessidade de justificar opiniões"],"respostaCorreta":"influencia o modo como o leitor percebe a mensagem","explicacao":"A linguagem participa da construção dos sentidos e da força persuasiva do texto.","dificuldade":"facil"},
-      {"id":"port9-figuras-argumentativas-linguagem-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.","A linguagem figurada não tem efeito sobre a argumentação.","Toda figura de linguagem torna o texto neutro.","O sentido literal é suficiente para entender qualquer texto argumentativo."],"respostaCorreta":"Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.","explicacao":"A leitura crítica depende da percepção dos efeitos de sentido produzidos pela escolha das palavras.","dificuldade":"medio"},
-      {"id":"port9-figuras-argumentativas-linguagem-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar melhor a expressividade e a força dos argumentos","reduzir o texto apenas ao sentido literal","ignorar a intenção do autor","pensar que a linguagem não interfere na persuasão"],"respostaCorreta":"interpretar melhor a expressividade e a força dos argumentos","explicacao":"O conteúdo amplia a percepção sobre como a linguagem atua na construção da argumentação.","dificuldade":"medio"}
+      {
+        "id": "port9-figuras-argumentativas-linguagem-ex-01",
+        "enunciado": "As figuras de linguagem podem ajudar a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "intensificar sentidos e fortalecer argumentos",
+          "eliminar toda expressividade do texto",
+          "substituir completamente a tese",
+          "impedir a interpretação do leitor"
+        ],
+        "respostaCorreta": "intensificar sentidos e fortalecer argumentos",
+        "explicacao": "Em muitos textos, as figuras de linguagem contribuem para reforçar ideias e efeitos argumentativos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-ex-02",
+        "enunciado": "Um recurso de linguagem pode ser importante na argumentação porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influencia o modo como o leitor percebe a mensagem",
+          "serve apenas para decorar o texto",
+          "não interfere no sentido do que está escrito",
+          "substitui a necessidade de justificar opiniões"
+        ],
+        "respostaCorreta": "influencia o modo como o leitor percebe a mensagem",
+        "explicacao": "A linguagem participa da construção dos sentidos e da força persuasiva do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.",
+          "A linguagem figurada não tem efeito sobre a argumentação.",
+          "Toda figura de linguagem torna o texto neutro.",
+          "O sentido literal é suficiente para entender qualquer texto argumentativo."
+        ],
+        "respostaCorreta": "Reconhecer figuras de linguagem ajuda a compreender melhor o tom e a intenção do texto.",
+        "explicacao": "A leitura crítica depende da percepção dos efeitos de sentido produzidos pela escolha das palavras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar melhor a expressividade e a força dos argumentos",
+          "reduzir o texto apenas ao sentido literal",
+          "ignorar a intenção do autor",
+          "pensar que a linguagem não interfere na persuasão"
+        ],
+        "respostaCorreta": "interpretar melhor a expressividade e a força dos argumentos",
+        "explicacao": "O conteúdo amplia a percepção sobre como a linguagem atua na construção da argumentação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Figuras de linguagem e efeitos argumentativos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-02",
+        "enunciado": "Ao estudar \"Figuras de linguagem e efeitos argumentativos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Recursos como ironia, metáfora e repetição podem influenciar a leitura do texto"
+        ],
+        "respostaCorreta": "Recursos como ironia, metáfora e repetição podem influenciar a leitura do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-05",
+        "enunciado": "No contexto de \"Figuras de linguagem e efeitos argumentativos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-06",
+        "enunciado": "O estudo de \"Figuras de linguagem e efeitos argumentativos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender expressividade e intenção"
+        ],
+        "respostaCorreta": "compreender expressividade e intenção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Quando o leitor reconhece figuras de linguagem, entende melhor a intenção do autor, o tom do texto e os sentidos que vão além do plano literal. Isso fortalece a leitura crítica e a interpretação mais profunda",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Quando o leitor reconhece figuras de linguagem, entende melhor a intenção do autor, o tom do texto e os sentidos que vão além do plano literal. Isso fortalece a leitura crítica e a interpretação mais profunda",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte que efeito o uso daquela expressão causa na compreensão do argumento",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte que efeito o uso daquela expressão causa na compreensão do argumento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender leitura dos efeitos de sentido",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender leitura dos efeitos de sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia uma frase argumentativa que use ironia para criticar uma situação social"
+        ],
+        "respostaCorreta": "Leia uma frase argumentativa que use ironia para criticar uma situação social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Figuras de linguagem e efeitos argumentativos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a linguagem figurada pode fortalecer a argumentação",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a linguagem figurada pode fortalecer a argumentação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-12",
+        "enunciado": "Ao estudar \"Figuras de linguagem e efeitos argumentativos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe que o sentido não está apenas nas palavras literais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe que o sentido não está apenas nas palavras literais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como a ironia reforça a crítica feita pelo autor",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como a ironia reforça a crítica feita pelo autor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva"
+        ],
+        "respostaCorreta": "As figuras de linguagem ajudam a intensificar sentidos e a tornar a argumentação mais expressiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-figuras-argumentativas-linguagem-sim-01","enunciado":"A principal ideia desse tema é compreender que a linguagem figurada:","tipo":"multipla_escolha","alternativas":["também pode atuar na defesa de ideias e na produção de efeitos argumentativos","não tem relação com textos argumentativos","serve apenas para poemas e canções","elimina a necessidade de interpretação"],"respostaCorreta":"também pode atuar na defesa de ideias e na produção de efeitos argumentativos","explicacao":"Figuras de linguagem podem reforçar o posicionamento do autor e tornar a argumentação mais expressiva.","dificuldade":"medio"}
+      {
+        "id": "port9-figuras-argumentativas-linguagem-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a linguagem figurada:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "também pode atuar na defesa de ideias e na produção de efeitos argumentativos",
+          "não tem relação com textos argumentativos",
+          "serve apenas para poemas e canções",
+          "elimina a necessidade de interpretação"
+        ],
+        "respostaCorreta": "também pode atuar na defesa de ideias e na produção de efeitos argumentativos",
+        "explicacao": "Figuras de linguagem podem reforçar o posicionamento do autor e tornar a argumentação mais expressiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Figuras de linguagem e efeitos argumentativos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a percepção dos efeitos produzidos pela linguagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Figuras de linguagem e efeitos argumentativos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento"
+        ],
+        "respostaCorreta": "Em textos argumentativos, a escolha de certas figuras de linguagem pode reforçar críticas, destacar ideias e aproximar o leitor de um ponto de vista. A linguagem, nesse caso, não apenas informa, mas também produz efeito e posicionamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe se o recurso usado apenas enfeita o texto ou se realmente fortalece a argumentação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Figuras de linguagem e efeitos argumentativos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender expressividade e intenção",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender expressividade e intenção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Quando o leitor reconhece figuras de linguagem, entende melhor a intenção do autor, o tom do texto e os sentidos que vão além do plano literal. Isso fortalece a leitura crítica e a interpretação mais profunda",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Quando o leitor reconhece figuras de linguagem, entende melhor a intenção do autor, o tom do texto e os sentidos que vão além do plano literal. Isso fortalece a leitura crítica e a interpretação mais profunda",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-figuras-argumentativas-linguagem-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte que efeito o uso daquela expressão causa na compreensão do argumento"
+        ],
+        "respostaCorreta": "Pergunte que efeito o uso daquela expressão causa na compreensão do argumento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Figuras de linguagem e efeitos argumentativos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

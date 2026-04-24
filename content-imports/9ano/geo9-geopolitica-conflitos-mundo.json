@@ -31,16 +31,397 @@
           "Perceba como o conflito afeta a população e as relações internacionais."
         ],
         "resposta": "Esse tipo de situação é estudado pela geopolítica, que analisa poder, território e interesses globais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Geopolítica e conflitos no mundo contemporâneo\".",
+        "passos": [
+          "A geopolítica analisa relações de poder entre países, territórios e blocos econômicos",
+          "Os conflitos contemporâneos envolvem interesses políticos, econômicos, culturais e estratégicos",
+          "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial"
+        ],
+        "resposta": "Esse exemplo mostra como Geopolítica e conflitos no mundo contemporâneo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Geopolítica e conflitos no mundo contemporâneo\".",
+        "passos": [
+          "Os conflitos contemporâneos envolvem interesses políticos, econômicos, culturais e estratégicos",
+          "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+          "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países"
+        ],
+        "resposta": "Esse exemplo mostra como Geopolítica e conflitos no mundo contemporâneo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Geopolítica e conflitos no mundo contemporâneo\".",
+        "passos": [
+          "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+          "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países",
+          "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos"
+        ],
+        "resposta": "Esse exemplo mostra como Geopolítica e conflitos no mundo contemporâneo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Geopolítica e conflitos no mundo contemporâneo\".",
+        "passos": [
+          "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países",
+          "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos",
+          "Relações de poder no espaço mundial"
+        ],
+        "resposta": "Esse exemplo mostra como Geopolítica e conflitos no mundo contemporâneo pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-geopolitica-conflitos-mundo-ex-01","enunciado":"A geopolítica estuda principalmente:","tipo":"multipla_escolha","alternativas":["relações de poder entre países e territórios","somente o clima de uma região","apenas o relevo local de uma cidade","a ortografia de nomes estrangeiros"],"respostaCorreta":"relações de poder entre países e territórios","explicacao":"A geopolítica envolve análise de poder, território, influência e estratégia no espaço mundial.","dificuldade":"facil"},
-      {"id":"geo9-geopolitica-conflitos-mundo-ex-02","enunciado":"Os conflitos contemporâneos podem envolver:","tipo":"multipla_escolha","alternativas":["interesses políticos, econômicos e territoriais","apenas diferenças de caligrafia","somente problemas de trânsito local","apenas variações de sotaque"],"respostaCorreta":"interesses políticos, econômicos e territoriais","explicacao":"Conflitos internacionais costumam reunir fatores múltiplos e articulados.","dificuldade":"facil"},
-      {"id":"geo9-geopolitica-conflitos-mundo-ex-03","enunciado":"Ao analisar um conflito internacional, é importante:","tipo":"multipla_escolha","alternativas":["considerar contexto, interesses e consequências","aceitar explicações simplistas sem investigação","ignorar o território envolvido","olhar apenas o título da notícia"],"respostaCorreta":"considerar contexto, interesses e consequências","explicacao":"Uma análise geopolítica exige compreensão ampla das causas e dos efeitos do conflito.","dificuldade":"medio"},
-      {"id":"geo9-geopolitica-conflitos-mundo-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A geopolítica ajuda a interpretar notícias e transformações do mundo atual.","Conflitos globais nunca se relacionam ao território.","Questões econômicas não influenciam disputas internacionais.","A geopolítica trata apenas de mapas antigos sem uso atual."],"respostaCorreta":"A geopolítica ajuda a interpretar notícias e transformações do mundo atual.","explicacao":"O tema permite compreender disputas e relações de poder presentes nas dinâmicas globais contemporâneas.","dificuldade":"medio"}
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-ex-01",
+        "enunciado": "A geopolítica estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações de poder entre países e territórios",
+          "somente o clima de uma região",
+          "apenas o relevo local de uma cidade",
+          "a ortografia de nomes estrangeiros"
+        ],
+        "respostaCorreta": "relações de poder entre países e territórios",
+        "explicacao": "A geopolítica envolve análise de poder, território, influência e estratégia no espaço mundial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-ex-02",
+        "enunciado": "Os conflitos contemporâneos podem envolver:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interesses políticos, econômicos e territoriais",
+          "apenas diferenças de caligrafia",
+          "somente problemas de trânsito local",
+          "apenas variações de sotaque"
+        ],
+        "respostaCorreta": "interesses políticos, econômicos e territoriais",
+        "explicacao": "Conflitos internacionais costumam reunir fatores múltiplos e articulados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-ex-03",
+        "enunciado": "Ao analisar um conflito internacional, é importante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar contexto, interesses e consequências",
+          "aceitar explicações simplistas sem investigação",
+          "ignorar o território envolvido",
+          "olhar apenas o título da notícia"
+        ],
+        "respostaCorreta": "considerar contexto, interesses e consequências",
+        "explicacao": "Uma análise geopolítica exige compreensão ampla das causas e dos efeitos do conflito.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A geopolítica ajuda a interpretar notícias e transformações do mundo atual.",
+          "Conflitos globais nunca se relacionam ao território.",
+          "Questões econômicas não influenciam disputas internacionais.",
+          "A geopolítica trata apenas de mapas antigos sem uso atual."
+        ],
+        "respostaCorreta": "A geopolítica ajuda a interpretar notícias e transformações do mundo atual.",
+        "explicacao": "O tema permite compreender disputas e relações de poder presentes nas dinâmicas globais contemporâneas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Geopolítica e conflitos no mundo contemporâneo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A geopolítica analisa relações de poder entre países, territórios e blocos econômicos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A geopolítica analisa relações de poder entre países, territórios e blocos econômicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-02",
+        "enunciado": "Ao estudar \"Geopolítica e conflitos no mundo contemporâneo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Os conflitos contemporâneos envolvem interesses políticos, econômicos, culturais e estratégicos"
+        ],
+        "respostaCorreta": "Os conflitos contemporâneos envolvem interesses políticos, econômicos, culturais e estratégicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-05",
+        "enunciado": "No contexto de \"Geopolítica e conflitos no mundo contemporâneo\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-06",
+        "enunciado": "O estudo de \"Geopolítica e conflitos no mundo contemporâneo\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender relações de poder no espaço mundial"
+        ],
+        "respostaCorreta": "compreender relações de poder no espaço mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Os conflitos no mundo atual podem envolver questões econômicas, históricas, religiosas, étnicas e políticas. Nem sempre há uma única causa, por isso é importante interpretar cada situação com cuidado e contexto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Os conflitos no mundo atual podem envolver questões econômicas, históricas, religiosas, étnicas e políticas. Nem sempre há uma única causa, por isso é importante interpretar cada situação com cuidado e contexto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Evite explicações simplistas; conflitos costumam ter causas diversas e efeitos amplos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Evite explicações simplistas; conflitos costumam ter causas diversas e efeitos amplos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender conflitos e suas múltiplas causas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender conflitos e suas múltiplas causas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma notícia sobre tensão entre países por recursos naturais ou por fronteiras"
+        ],
+        "respostaCorreta": "Observe uma notícia sobre tensão entre países por recursos naturais ou por fronteiras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Geopolítica e conflitos no mundo contemporâneo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de situação é estudado pela geopolítica, que analisa poder, território e interesses globais",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de situação é estudado pela geopolítica, que analisa poder, território e interesses globais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-12",
+        "enunciado": "Ao estudar \"Geopolítica e conflitos no mundo contemporâneo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique os territórios envolvidos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique os territórios envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise quais interesses estão em disputa",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Analise quais interesses estão em disputa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Perceba como o conflito afeta a população e as relações internacionais"
+        ],
+        "respostaCorreta": "Perceba como o conflito afeta a população e as relações internacionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-geopolitica-conflitos-mundo-sim-01","enunciado":"A principal importância do estudo da geopolítica no 9º ano é:","tipo":"multipla_escolha","alternativas":["entender como poder, território e interesses interferem nas relações internacionais","decorar nomes de países sem análise","eliminar a necessidade de ler notícias com atenção","substituir a interpretação do espaço por opiniões sem dados"],"respostaCorreta":"entender como poder, território e interesses interferem nas relações internacionais","explicacao":"A geopolítica permite interpretar conflitos, alianças e mudanças do espaço mundial com mais profundidade.","dificuldade":"medio"}
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-sim-01",
+        "enunciado": "A principal importância do estudo da geopolítica no 9º ano é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "entender como poder, território e interesses interferem nas relações internacionais",
+          "decorar nomes de países sem análise",
+          "eliminar a necessidade de ler notícias com atenção",
+          "substituir a interpretação do espaço por opiniões sem dados"
+        ],
+        "respostaCorreta": "entender como poder, território e interesses interferem nas relações internacionais",
+        "explicacao": "A geopolítica permite interpretar conflitos, alianças e mudanças do espaço mundial com mais profundidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Geopolítica e conflitos no mundo contemporâneo\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Compreender esse tema ajuda a interpretar notícias e transformações do espaço mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Geopolítica e conflitos no mundo contemporâneo\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países"
+        ],
+        "respostaCorreta": "A geopolítica estuda como Estados, fronteiras, recursos naturais, localização e influência internacional se relacionam. Ela ajuda a entender disputas territoriais, alianças e estratégias entre diferentes países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao analisar um conflito, observe quais interesses estão em disputa e quais territórios são envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Geopolítica e conflitos no mundo contemporâneo\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender relações de poder no espaço mundial",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender relações de poder no espaço mundial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os conflitos no mundo atual podem envolver questões econômicas, históricas, religiosas, étnicas e políticas. Nem sempre há uma única causa, por isso é importante interpretar cada situação com cuidado e contexto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Os conflitos no mundo atual podem envolver questões econômicas, históricas, religiosas, étnicas e políticas. Nem sempre há uma única causa, por isso é importante interpretar cada situação com cuidado e contexto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-geopolitica-conflitos-mundo-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Evite explicações simplistas; conflitos costumam ter causas diversas e efeitos amplos"
+        ],
+        "respostaCorreta": "Evite explicações simplistas; conflitos costumam ter causas diversas e efeitos amplos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Geopolítica e conflitos no mundo contemporâneo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "erl8-consumo-consciente-escolhas",
+    "titulo": "Consumo consciente e escolhas responsáveis",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Cidadania e decisão",
+    "resumo": [
+      "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade.",
+      "Escolhas de consumo afetam orçamento, ambiente e convivência social.",
+      "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Escolhas e consequências",
+        "texto": "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir.",
+        "dica": "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer."
+      },
+      {
+        "subtitulo": "Responsabilidade no cotidiano",
+        "texto": "O consumo consciente ajuda a usar melhor recursos financeiros e materiais, evitando desperdícios e impulsos desnecessários. Esse cuidado fortalece autonomia e responsabilidade nas decisões.",
+        "dica": "Compare opções e reflita sobre custos, benefícios e impacto de cada escolha."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine alguém decidindo entre comprar um item por impulso ou guardar o dinheiro para uma necessidade real.",
+        "passos": [
+          "Observe as consequências de cada escolha.",
+          "Perceba que o consumo consciente envolve análise e priorização."
+        ],
+        "resposta": "Esse exemplo mostra como decisões de consumo também exigem raciocínio e responsabilidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Consumo consciente e escolhas responsáveis\".",
+        "passos": [
+          "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade",
+          "Escolhas de consumo afetam orçamento, ambiente e convivência social",
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Consumo consciente e escolhas responsáveis pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Consumo consciente e escolhas responsáveis\".",
+        "passos": [
+          "Escolhas de consumo afetam orçamento, ambiente e convivência social",
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+          "Escolhas e consequências"
+        ],
+        "resposta": "Esse exemplo mostra como Consumo consciente e escolhas responsáveis pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Consumo consciente e escolhas responsáveis\".",
+        "passos": [
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+          "Escolhas e consequências",
+          "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir"
+        ],
+        "resposta": "Esse exemplo mostra como Consumo consciente e escolhas responsáveis pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Consumo consciente e escolhas responsáveis\".",
+        "passos": [
+          "Escolhas e consequências",
+          "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir",
+          "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer"
+        ],
+        "resposta": "Esse exemplo mostra como Consumo consciente e escolhas responsáveis pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl8-consumo-consciente-escolhas-ex-01",
+        "enunciado": "Consumir de forma consciente significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar necessidade e consequências da escolha",
+          "comprar tudo por impulso",
+          "ignorar custos e impactos",
+          "decidir sem pensar"
+        ],
+        "respostaCorreta": "analisar necessidade e consequências da escolha",
+        "explicacao": "O consumo consciente envolve reflexão, prioridade e responsabilidade. ",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-ex-02",
+        "enunciado": "Uma escolha responsável de consumo considera:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "utilidade, custo e impacto",
+          "apenas propaganda",
+          "somente vontade momentânea",
+          "nenhuma consequência futura"
+        ],
+        "respostaCorreta": "utilidade, custo e impacto",
+        "explicacao": "Boas escolhas de consumo observam necessidade, custo-benefício e efeitos envolvidos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumo consciente fortalece autonomia e responsabilidade nas decisões.",
+          "Toda compra impulsiva é sempre a melhor escolha.",
+          "Consumo não tem relação com impacto ambiental ou social.",
+          "Refletir sobre o que se consome é desnecessário."
+        ],
+        "respostaCorreta": "Consumo consciente fortalece autonomia e responsabilidade nas decisões.",
+        "explicacao": "Esse conteúdo ajuda o estudante a pensar melhor sobre escolhas e seus efeitos no cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver olhar crítico sobre decisões de consumo",
+          "agir sempre por impulso",
+          "ignorar o orçamento pessoal",
+          "achar que consumo não interfere no ambiente"
+        ],
+        "respostaCorreta": "desenvolver olhar crítico sobre decisões de consumo",
+        "explicacao": "O conteúdo aproxima planejamento, responsabilidade e escolhas mais conscientes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Escolhas de consumo afetam orçamento, ambiente e convivência social"
+        ],
+        "respostaCorreta": "Escolhas de consumo afetam orçamento, ambiente e convivência social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O consumo consciente ajuda a usar melhor recursos financeiros e materiais, evitando desperdícios e impulsos desnecessários. Esse cuidado fortalece autonomia e responsabilidade nas decisões"
+        ],
+        "respostaCorreta": "O consumo consciente ajuda a usar melhor recursos financeiros e materiais, evitando desperdícios e impulsos desnecessários. Esse cuidado fortalece autonomia e responsabilidade nas decisões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare opções e reflita sobre custos, benefícios e impacto de cada escolha",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare opções e reflita sobre custos, benefícios e impacto de cada escolha",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine alguém decidindo entre comprar um item por impulso ou guardar o dinheiro para uma necessidade real",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine alguém decidindo entre comprar um item por impulso ou guardar o dinheiro para uma necessidade real",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como decisões de consumo também exigem raciocínio e responsabilidade",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como decisões de consumo também exigem raciocínio e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe as consequências de cada escolha"
+        ],
+        "respostaCorreta": "Observe as consequências de cada escolha",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que o consumo consciente envolve análise e priorização",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que o consumo consciente envolve análise e priorização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Consumir de forma consciente envolve analisar necessidade, impacto e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Escolhas de consumo afetam orçamento, ambiente e convivência social",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Escolhas de consumo afetam orçamento, ambiente e convivência social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl8-consumo-consciente-escolhas-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que consumir:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "também é um ato de decisão que envolve responsabilidade",
+          "não exige nenhuma reflexão",
+          "depende apenas da vontade imediata",
+          "não produz consequência alguma"
+        ],
+        "respostaCorreta": "também é um ato de decisão que envolve responsabilidade",
+        "explicacao": "O consumo consciente conecta necessidade, escolha, impacto e responsabilidade pessoal e coletiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver raciocínio crítico diante das decisões do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir"
+        ],
+        "respostaCorreta": "Nem toda escolha de consumo depende apenas do desejo imediato. É importante pensar utilidade, custo, impacto ambiental e social, além da real necessidade do que se pretende adquirir",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de escolher, pergunte se aquilo é necessário e quais consequências o consumo pode trazer",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O consumo consciente ajuda a usar melhor recursos financeiros e materiais, evitando desperdícios e impulsos desnecessários. Esse cuidado fortalece autonomia e responsabilidade nas decisões",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O consumo consciente ajuda a usar melhor recursos financeiros e materiais, evitando desperdícios e impulsos desnecessários. Esse cuidado fortalece autonomia e responsabilidade nas decisões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare opções e reflita sobre custos, benefícios e impacto de cada escolha",
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare opções e reflita sobre custos, benefícios e impacto de cada escolha",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-consumo-consciente-escolhas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de consumo consciente e escolhas responsáveis se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Consumo consciente e escolhas responsáveis pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com consumo consciente e escolhas responsáveis dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine alguém decidindo entre comprar um item por impulso ou guardar o dinheiro para uma necessidade real"
+        ],
+        "respostaCorreta": "Imagine alguém decidindo entre comprar um item por impulso ou guardar o dinheiro para uma necessidade real",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Consumo consciente e escolhas responsáveis, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

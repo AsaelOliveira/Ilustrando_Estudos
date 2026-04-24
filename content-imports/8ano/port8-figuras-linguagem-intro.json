@@ -1,0 +1,426 @@
+[
+  {
+    "id": "port8-figuras-linguagem-intro",
+    "titulo": "Introdução às figuras de linguagem",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e estilo",
+    "resumo": [
+      "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto.",
+      "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido.",
+      "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Recursos de expressão",
+        "texto": "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano.",
+        "dica": "Observe quando a frase parece querer produzir um efeito além do sentido literal."
+      },
+      {
+        "subtitulo": "Efeitos de sentido",
+        "texto": "Ao usar figuras de linguagem, o autor pode destacar uma emoção, tornar a mensagem mais marcante ou provocar reflexão no leitor. Por isso, interpretar esses recursos é importante para entender melhor o texto.",
+        "dica": "Pergunte qual efeito a escolha das palavras causa no contexto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia a frase: 'Estou morrendo de fome.'",
+        "passos": [
+          "Perceba que a frase não está sendo usada em sentido totalmente literal.",
+          "Observe que o exagero intensifica a ideia de muita fome."
+        ],
+        "resposta": "Nesse caso, há um uso expressivo da linguagem para reforçar uma sensação."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução às figuras de linguagem\".",
+        "passos": [
+          "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto",
+          "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido",
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às figuras de linguagem pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução às figuras de linguagem\".",
+        "passos": [
+          "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido",
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+          "Recursos de expressão"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às figuras de linguagem pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução às figuras de linguagem\".",
+        "passos": [
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+          "Recursos de expressão",
+          "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às figuras de linguagem pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução às figuras de linguagem\".",
+        "passos": [
+          "Recursos de expressão",
+          "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano",
+          "Observe quando a frase parece querer produzir um efeito além do sentido literal"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às figuras de linguagem pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-figuras-linguagem-intro-ex-01",
+        "enunciado": "As figuras de linguagem são usadas para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dar mais expressividade ao texto",
+          "eliminar o sentido das frases",
+          "substituir toda a gramática",
+          "evitar qualquer interpretação"
+        ],
+        "respostaCorreta": "dar mais expressividade ao texto",
+        "explicacao": "Esses recursos tornam a linguagem mais expressiva e significativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-ex-02",
+        "enunciado": "As figuras de linguagem aparecem com frequência em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poemas, músicas e propagandas",
+          "apenas tabelas numéricas",
+          "somente fórmulas matemáticas",
+          "apenas listas telefônicas"
+        ],
+        "respostaCorreta": "poemas, músicas e propagandas",
+        "explicacao": "Esses gêneros usam bastante recursos expressivos para produzir efeitos de sentido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-ex-03",
+        "enunciado": "Quando o autor usa uma figura de linguagem, ele pode querer:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "intensificar uma ideia ou emoção",
+          "eliminar o tema do texto",
+          "impedir a compreensão do leitor",
+          "retirar todo o efeito expressivo"
+        ],
+        "respostaCorreta": "intensificar uma ideia ou emoção",
+        "explicacao": "As figuras de linguagem ajudam a reforçar sentidos e efeitos no texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-ex-04",
+        "enunciado": "Estudar figuras de linguagem contribui para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "melhorar a interpretação e a escrita",
+          "evitar qualquer leitura crítica",
+          "escrever sempre de modo automático",
+          "eliminar o uso de vocabulário expressivo"
+        ],
+        "respostaCorreta": "melhorar a interpretação e a escrita",
+        "explicacao": "Esse conteúdo ajuda o aluno a compreender melhor os efeitos construídos no texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido"
+        ],
+        "respostaCorreta": "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quando a frase parece querer produzir um efeito além do sentido literal",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe quando a frase parece querer produzir um efeito além do sentido literal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao usar figuras de linguagem, o autor pode destacar uma emoção, tornar a mensagem mais marcante ou provocar reflexão no leitor. Por isso, interpretar esses recursos é importante para entender melhor o texto"
+        ],
+        "respostaCorreta": "Ao usar figuras de linguagem, o autor pode destacar uma emoção, tornar a mensagem mais marcante ou provocar reflexão no leitor. Por isso, interpretar esses recursos é importante para entender melhor o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte qual efeito a escolha das palavras causa no contexto",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte qual efeito a escolha das palavras causa no contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia a frase: 'Estou morrendo de fome.'",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia a frase: 'Estou morrendo de fome.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nesse caso, há um uso expressivo da linguagem para reforçar uma sensação",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nesse caso, há um uso expressivo da linguagem para reforçar uma sensação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a frase não está sendo usada em sentido totalmente literal"
+        ],
+        "respostaCorreta": "Perceba que a frase não está sendo usada em sentido totalmente literal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que o exagero intensifica a ideia de muita fome",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que o exagero intensifica a ideia de muita fome",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As figuras de linguagem são recursos expressivos usados para dar mais força ao texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Elas podem criar comparação, exagero, ironia, repetição e outros efeitos de sentido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral"
+        ],
+        "respostaCorreta": "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-figuras-linguagem-intro-sim-01",
+        "enunciado": "A principal função das figuras de linguagem é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir efeitos de sentido no texto",
+          "substituir todos os verbos",
+          "eliminar a subjetividade da linguagem",
+          "transformar qualquer frase em definição científica"
+        ],
+        "respostaCorreta": "produzir efeitos de sentido no texto",
+        "explicacao": "Esses recursos enriquecem a linguagem e tornam a mensagem mais expressiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender esses recursos melhora a leitura interpretativa e a escrita autoral",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano"
+        ],
+        "respostaCorreta": "As figuras de linguagem modificam ou intensificam o modo como uma ideia é apresentada. Elas aparecem em poemas, músicas, propagandas, narrativas e muitos outros textos do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe quando a frase parece querer produzir um efeito além do sentido literal",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe quando a frase parece querer produzir um efeito além do sentido literal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao usar figuras de linguagem, o autor pode destacar uma emoção, tornar a mensagem mais marcante ou provocar reflexão no leitor. Por isso, interpretar esses recursos é importante para entender melhor o texto",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao usar figuras de linguagem, o autor pode destacar uma emoção, tornar a mensagem mais marcante ou provocar reflexão no leitor. Por isso, interpretar esses recursos é importante para entender melhor o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte qual efeito a escolha das palavras causa no contexto",
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte qual efeito a escolha das palavras causa no contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-figuras-linguagem-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às figuras de linguagem se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às figuras de linguagem pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às figuras de linguagem dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia a frase: 'Estou morrendo de fome.'"
+        ],
+        "respostaCorreta": "Leia a frase: 'Estou morrendo de fome.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às figuras de linguagem, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

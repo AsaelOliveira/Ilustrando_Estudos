@@ -1,0 +1,426 @@
+[
+  {
+    "id": "edf8-danca-expressao-cultura",
+    "titulo": "Dança, expressão e cultura corporal",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Práticas expressivas",
+    "resumo": [
+      "A dança é uma forma de expressão corporal e cultural.",
+      "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo.",
+      "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressão pelo movimento",
+        "texto": "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço.",
+        "dica": "Observe como o corpo pode expressar sentidos diferentes em cada dança."
+      },
+      {
+        "subtitulo": "Dança e cultura",
+        "texto": "As danças fazem parte das culturas e das tradições de diferentes povos. Conhecer essa diversidade ajuda a valorizar expressões corporais e identidades culturais variadas.",
+        "dica": "Pergunte que valores, histórias ou costumes aparecem em cada manifestação corporal."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe uma dança tradicional apresentada em grupo.",
+        "passos": [
+          "Perceba o ritmo e a coordenação dos movimentos.",
+          "Observe como a dança também comunica aspectos culturais."
+        ],
+        "resposta": "Esse exemplo mostra a dança como prática expressiva e cultural."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Dança, expressão e cultura corporal\".",
+        "passos": [
+          "A dança é uma forma de expressão corporal e cultural",
+          "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo",
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo"
+        ],
+        "resposta": "Esse exemplo mostra como Dança, expressão e cultura corporal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Dança, expressão e cultura corporal\".",
+        "passos": [
+          "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo",
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+          "Expressão pelo movimento"
+        ],
+        "resposta": "Esse exemplo mostra como Dança, expressão e cultura corporal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Dança, expressão e cultura corporal\".",
+        "passos": [
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+          "Expressão pelo movimento",
+          "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço"
+        ],
+        "resposta": "Esse exemplo mostra como Dança, expressão e cultura corporal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Dança, expressão e cultura corporal\".",
+        "passos": [
+          "Expressão pelo movimento",
+          "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço",
+          "Observe como o corpo pode expressar sentidos diferentes em cada dança"
+        ],
+        "resposta": "Esse exemplo mostra como Dança, expressão e cultura corporal pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf8-danca-expressao-cultura-ex-01",
+        "enunciado": "A dança pode ser entendida como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "forma de expressão corporal e cultural",
+          "atividade sem relação com movimento",
+          "prática limitada apenas à competição",
+          "exercício sem sentido comunicativo"
+        ],
+        "respostaCorreta": "forma de expressão corporal e cultural",
+        "explicacao": "A dança articula movimento, ritmo, expressão e identidade cultural.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-ex-02",
+        "enunciado": "Uma característica importante da dança é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comunicar por meio do corpo",
+          "eliminar todo ritmo",
+          "ignorar o espaço",
+          "dispensar qualquer coordenação"
+        ],
+        "respostaCorreta": "comunicar por meio do corpo",
+        "explicacao": "A dança utiliza o movimento como linguagem expressiva e corporal.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A dança amplia a compreensão da cultura corporal e das expressões sociais.",
+          "Dança não tem relação com cultura.",
+          "A prática corporal se resume apenas aos esportes competitivos.",
+          "Movimento e expressão não se relacionam na dança."
+        ],
+        "respostaCorreta": "A dança amplia a compreensão da cultura corporal e das expressões sociais.",
+        "explicacao": "O estudo da dança valoriza expressão, ritmo, cultura e diferentes formas de participação corporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valorizar a dança como prática cultural e expressiva",
+          "reduzir a Educação Física apenas a competição",
+          "ignorar manifestações corporais diversas",
+          "pensar o corpo sem relação com cultura"
+        ],
+        "respostaCorreta": "valorizar a dança como prática cultural e expressiva",
+        "explicacao": "O conteúdo amplia a visão da Educação Física como campo de práticas corporais variadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A dança é uma forma de expressão corporal e cultural",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A dança é uma forma de expressão corporal e cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo"
+        ],
+        "respostaCorreta": "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o corpo pode expressar sentidos diferentes em cada dança",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como o corpo pode expressar sentidos diferentes em cada dança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As danças fazem parte das culturas e das tradições de diferentes povos. Conhecer essa diversidade ajuda a valorizar expressões corporais e identidades culturais variadas"
+        ],
+        "respostaCorreta": "As danças fazem parte das culturas e das tradições de diferentes povos. Conhecer essa diversidade ajuda a valorizar expressões corporais e identidades culturais variadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte que valores, histórias ou costumes aparecem em cada manifestação corporal",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte que valores, histórias ou costumes aparecem em cada manifestação corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma dança tradicional apresentada em grupo",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe uma dança tradicional apresentada em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra a dança como prática expressiva e cultural",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a dança como prática expressiva e cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba o ritmo e a coordenação dos movimentos"
+        ],
+        "respostaCorreta": "Perceba o ritmo e a coordenação dos movimentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como a dança também comunica aspectos culturais",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como a dança também comunica aspectos culturais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A dança é uma forma de expressão corporal e cultural",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A dança é uma forma de expressão corporal e cultural",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Ela envolve ritmo, movimento, criatividade e comunicação pelo corpo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf8-danca-expressao-cultura-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a dança:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "une movimento, expressão e cultura",
+          "serve apenas como entretenimento sem significado",
+          "não faz parte da cultura corporal",
+          "dispensa ritmo e criatividade"
+        ],
+        "respostaCorreta": "une movimento, expressão e cultura",
+        "explicacao": "A dança é uma prática corporal que comunica sentidos e também expressa identidades culturais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o entendimento da Educação Física para além do esporte competitivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço"
+        ],
+        "respostaCorreta": "Na dança, o corpo comunica sensações, ritmos e ideias por meio do movimento. Essa prática favorece criatividade, consciência corporal e leitura do espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como o corpo pode expressar sentidos diferentes em cada dança",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como o corpo pode expressar sentidos diferentes em cada dança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As danças fazem parte das culturas e das tradições de diferentes povos. Conhecer essa diversidade ajuda a valorizar expressões corporais e identidades culturais variadas",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As danças fazem parte das culturas e das tradições de diferentes povos. Conhecer essa diversidade ajuda a valorizar expressões corporais e identidades culturais variadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte que valores, histórias ou costumes aparecem em cada manifestação corporal",
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte que valores, histórias ou costumes aparecem em cada manifestação corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-danca-expressao-cultura-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de dança, expressão e cultura corporal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Dança, expressão e cultura corporal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com dança, expressão e cultura corporal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe uma dança tradicional apresentada em grupo"
+        ],
+        "respostaCorreta": "Observe uma dança tradicional apresentada em grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Dança, expressão e cultura corporal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "id": "erl8-planejamento-solucao-problemas",
+    "titulo": "Planejamento e solução de problemas",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Raciocínio lógico e projeto",
+    "resumo": [
+      "Resolver problemas exige observar informações, organizar ideias e testar estratégias.",
+      "O planejamento ajuda a tomar decisões com mais clareza e eficiência.",
+      "Esse tema fortalece autonomia, lógica e pensamento estratégico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Etapas de resolução",
+        "texto": "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas.",
+        "dica": "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis."
+      },
+      {
+        "subtitulo": "Planejamento consciente",
+        "texto": "Planejar significa organizar ações de forma intencional para alcançar um objetivo. Em projetos, desafios escolares e situações do cotidiano, essa habilidade contribui para resultados melhores e mais consistentes.",
+        "dica": "Divida o objetivo em etapas menores para facilitar a execução."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo que precisa organizar uma campanha solidária na escola.",
+        "passos": [
+          "Defina o objetivo da ação.",
+          "Liste tarefas, prazos e materiais necessários.",
+          "Distribua responsabilidades de forma clara."
+        ],
+        "resposta": "Esse exemplo mostra como o planejamento ajuda na solução organizada de problemas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Planejamento e solução de problemas\".",
+        "passos": [
+          "Resolver problemas exige observar informações, organizar ideias e testar estratégias",
+          "O planejamento ajuda a tomar decisões com mais clareza e eficiência",
+          "Esse tema fortalece autonomia, lógica e pensamento estratégico"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e solução de problemas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Planejamento e solução de problemas\".",
+        "passos": [
+          "O planejamento ajuda a tomar decisões com mais clareza e eficiência",
+          "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+          "Etapas de resolução"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e solução de problemas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Planejamento e solução de problemas\".",
+        "passos": [
+          "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+          "Etapas de resolução",
+          "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e solução de problemas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Planejamento e solução de problemas\".",
+        "passos": [
+          "Etapas de resolução",
+          "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas",
+          "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e solução de problemas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl8-planejamento-solucao-problemas-ex-01",
+        "enunciado": "Resolver problemas de forma eficiente exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organização e análise das informações",
+          "agir sem pensar",
+          "ignorar os dados disponíveis",
+          "escolher qualquer solução ao acaso"
+        ],
+        "respostaCorreta": "organização e análise das informações",
+        "explicacao": "A resolução de problemas depende de observar dados, pensar estratégias e avaliar caminhos possíveis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-ex-02",
+        "enunciado": "Planejar significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar ações para alcançar um objetivo",
+          "adiar todas as decisões",
+          "eliminar qualquer meta",
+          "agir sem definir etapas"
+        ],
+        "respostaCorreta": "organizar ações para alcançar um objetivo",
+        "explicacao": "Planejamento envolve intenção, organização e definição de etapas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dividir um objetivo em etapas ajuda a resolver problemas com mais clareza.",
+          "Planejamento atrapalha toda solução prática.",
+          "Pensar estratégias não faz diferença no resultado.",
+          "Resolver problemas exige sempre improviso e nunca organização."
+        ],
+        "respostaCorreta": "Dividir um objetivo em etapas ajuda a resolver problemas com mais clareza.",
+        "explicacao": "Quebrar o desafio em partes facilita a execução e o acompanhamento do processo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-ex-04",
+        "enunciado": "Estudar planejamento e solução de problemas ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver lógica, autonomia e estratégia",
+          "evitar qualquer tomada de decisão",
+          "substituir análise por impulso",
+          "ignorar o objetivo final"
+        ],
+        "respostaCorreta": "desenvolver lógica, autonomia e estratégia",
+        "explicacao": "Esse conteúdo fortalece raciocínio organizado e tomada de decisão mais consciente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Resolver problemas exige observar informações, organizar ideias e testar estratégias",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Resolver problemas exige observar informações, organizar ideias e testar estratégias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O planejamento ajuda a tomar decisões com mais clareza e eficiência"
+        ],
+        "respostaCorreta": "O planejamento ajuda a tomar decisões com mais clareza e eficiência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Planejar significa organizar ações de forma intencional para alcançar um objetivo. Em projetos, desafios escolares e situações do cotidiano, essa habilidade contribui para resultados melhores e mais consistentes"
+        ],
+        "respostaCorreta": "Planejar significa organizar ações de forma intencional para alcançar um objetivo. Em projetos, desafios escolares e situações do cotidiano, essa habilidade contribui para resultados melhores e mais consistentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Divida o objetivo em etapas menores para facilitar a execução",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Divida o objetivo em etapas menores para facilitar a execução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo que precisa organizar uma campanha solidária na escola",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine um grupo que precisa organizar uma campanha solidária na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como o planejamento ajuda na solução organizada de problemas",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como o planejamento ajuda na solução organizada de problemas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Defina o objetivo da ação"
+        ],
+        "respostaCorreta": "Defina o objetivo da ação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Liste tarefas, prazos e materiais necessários",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Liste tarefas, prazos e materiais necessários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Distribua responsabilidades de forma clara",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Distribua responsabilidades de forma clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Resolver problemas exige observar informações, organizar ideias e testar estratégias",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Resolver problemas exige observar informações, organizar ideias e testar estratégias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O planejamento ajuda a tomar decisões com mais clareza e eficiência"
+        ],
+        "respostaCorreta": "O planejamento ajuda a tomar decisões com mais clareza e eficiência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl8-planejamento-solucao-problemas-sim-01",
+        "enunciado": "A principal ideia do planejamento na solução de problemas é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar passos para alcançar um objetivo de forma mais eficiente",
+          "agir rapidamente sem análise",
+          "deixar as decisões para o acaso",
+          "eliminar toda necessidade de reflexão"
+        ],
+        "respostaCorreta": "organizar passos para alcançar um objetivo de forma mais eficiente",
+        "explicacao": "Planejar melhora a qualidade das escolhas e da execução das ações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema fortalece autonomia, lógica e pensamento estratégico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas"
+        ],
+        "respostaCorreta": "Ao enfrentar um problema, é importante compreender a situação, separar dados relevantes, pensar em possibilidades e avaliar qual caminho faz mais sentido. Esse processo ajuda a evitar decisões apressadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de agir, pergunte qual é exatamente o problema e quais recursos estão disponíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Planejar significa organizar ações de forma intencional para alcançar um objetivo. Em projetos, desafios escolares e situações do cotidiano, essa habilidade contribui para resultados melhores e mais consistentes",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Planejar significa organizar ações de forma intencional para alcançar um objetivo. Em projetos, desafios escolares e situações do cotidiano, essa habilidade contribui para resultados melhores e mais consistentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Divida o objetivo em etapas menores para facilitar a execução",
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Divida o objetivo em etapas menores para facilitar a execução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-planejamento-solucao-problemas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e solução de problemas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e solução de problemas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e solução de problemas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo que precisa organizar uma campanha solidária na escola"
+        ],
+        "respostaCorreta": "Imagine um grupo que precisa organizar uma campanha solidária na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e solução de problemas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

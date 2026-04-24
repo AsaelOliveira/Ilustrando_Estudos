@@ -31,16 +31,397 @@
           "Compare essa posição com os demais lados do triângulo."
         ],
         "resposta": "Esse reconhecimento é importante para compreender as relações trigonométricas básicas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à trigonometria\".",
+        "passos": [
+          "A trigonometria estuda relações entre lados e ângulos em triângulos",
+          "No 9º ano, ela aparece de forma introdutória, associada a triângulos retângulos",
+          "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à trigonometria pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à trigonometria\".",
+        "passos": [
+          "No 9º ano, ela aparece de forma introdutória, associada a triângulos retângulos",
+          "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+          "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à trigonometria pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à trigonometria\".",
+        "passos": [
+          "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+          "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação",
+          "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à trigonometria pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à trigonometria\".",
+        "passos": [
+          "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação",
+          "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado",
+          "Relações em triângulos retângulos"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à trigonometria pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-trigonometria-intro-ex-01","enunciado":"A trigonometria estuda, principalmente:","tipo":"multipla_escolha","alternativas":["relações entre lados e ângulos","somente gráficos estatísticos","apenas regras de divisão","a ordem alfabética de expressões"],"respostaCorreta":"relações entre lados e ângulos","explicacao":"A trigonometria analisa como medidas de lados e ângulos se relacionam em figuras, especialmente em triângulos.","dificuldade":"facil"},
-      {"id":"mat9-trigonometria-intro-ex-02","enunciado":"No 9º ano, a trigonometria costuma ser estudada inicialmente em:","tipo":"multipla_escolha","alternativas":["triângulos retângulos","círculos concêntricos apenas","figuras sem medida","tabelas de frequência"],"respostaCorreta":"triângulos retângulos","explicacao":"A introdução ao tema geralmente parte das relações em triângulos retângulos.","dificuldade":"facil"},
-      {"id":"mat9-trigonometria-intro-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A trigonometria pode ajudar em problemas de altura e distância.","Esse conteúdo não tem relação com medidas reais.","Triângulos retângulos não são usados nesse estudo.","A trigonometria dispensa análise geométrica."],"respostaCorreta":"A trigonometria pode ajudar em problemas de altura e distância.","explicacao":"As relações trigonométricas permitem interpretar medidas indiretas em várias situações.","dificuldade":"medio"},
-      {"id":"mat9-trigonometria-intro-ex-04","enunciado":"Antes de resolver um problema introdutório de trigonometria, é importante:","tipo":"multipla_escolha","alternativas":["identificar os lados e o ângulo de referência","trocar todos os valores por números aleatórios","ignorar a figura apresentada","eliminar as informações geométricas do enunciado"],"respostaCorreta":"identificar os lados e o ângulo de referência","explicacao":"A correta leitura do triângulo é o primeiro passo para aplicar relações entre lados e ângulos.","dificuldade":"medio"}
+      {
+        "id": "mat9-trigonometria-intro-ex-01",
+        "enunciado": "A trigonometria estuda, principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações entre lados e ângulos",
+          "somente gráficos estatísticos",
+          "apenas regras de divisão",
+          "a ordem alfabética de expressões"
+        ],
+        "respostaCorreta": "relações entre lados e ângulos",
+        "explicacao": "A trigonometria analisa como medidas de lados e ângulos se relacionam em figuras, especialmente em triângulos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-ex-02",
+        "enunciado": "No 9º ano, a trigonometria costuma ser estudada inicialmente em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "triângulos retângulos",
+          "círculos concêntricos apenas",
+          "figuras sem medida",
+          "tabelas de frequência"
+        ],
+        "respostaCorreta": "triângulos retângulos",
+        "explicacao": "A introdução ao tema geralmente parte das relações em triângulos retângulos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A trigonometria pode ajudar em problemas de altura e distância.",
+          "Esse conteúdo não tem relação com medidas reais.",
+          "Triângulos retângulos não são usados nesse estudo.",
+          "A trigonometria dispensa análise geométrica."
+        ],
+        "respostaCorreta": "A trigonometria pode ajudar em problemas de altura e distância.",
+        "explicacao": "As relações trigonométricas permitem interpretar medidas indiretas em várias situações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-ex-04",
+        "enunciado": "Antes de resolver um problema introdutório de trigonometria, é importante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "identificar os lados e o ângulo de referência",
+          "trocar todos os valores por números aleatórios",
+          "ignorar a figura apresentada",
+          "eliminar as informações geométricas do enunciado"
+        ],
+        "respostaCorreta": "identificar os lados e o ângulo de referência",
+        "explicacao": "A correta leitura do triângulo é o primeiro passo para aplicar relações entre lados e ângulos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Introdução à trigonometria\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A trigonometria estuda relações entre lados e ângulos em triângulos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A trigonometria estuda relações entre lados e ângulos em triângulos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-02",
+        "enunciado": "Ao estudar \"Introdução à trigonometria\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "No 9º ano, ela aparece de forma introdutória, associada a triângulos retângulos"
+        ],
+        "respostaCorreta": "No 9º ano, ela aparece de forma introdutória, associada a triângulos retângulos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-05",
+        "enunciado": "No contexto de \"Introdução à trigonometria\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-06",
+        "enunciado": "O estudo de \"Introdução à trigonometria\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender relações em triângulos retângulos"
+        ],
+        "respostaCorreta": "compreender relações em triângulos retângulos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Esse conteúdo ajuda a interpretar situações geométricas em que nem todas as medidas são dadas diretamente. Assim, o aluno desenvolve raciocínio espacial e maior precisão na leitura de figuras e problemas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a interpretar situações geométricas em que nem todas as medidas são dadas diretamente. Assim, o aluno desenvolve raciocínio espacial e maior precisão na leitura de figuras e problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Desenhar a situação e marcar os elementos conhecidos facilita muito a compreensão do problema",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Desenhar a situação e marcar os elementos conhecidos facilita muito a compreensão do problema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender trigonometia como ferramenta de resolução",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender trigonometia como ferramenta de resolução",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe um triângulo retângulo e identifique qual lado é oposto a um dos ângulos agudos"
+        ],
+        "respostaCorreta": "Observe um triângulo retângulo e identifique qual lado é oposto a um dos ângulos agudos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Introdução à trigonometria\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse reconhecimento é importante para compreender as relações trigonométricas básicas",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse reconhecimento é importante para compreender as relações trigonométricas básicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-12",
+        "enunciado": "Ao estudar \"Introdução à trigonometria\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Localize o ângulo escolhido",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Localize o ângulo escolhido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Veja qual lado está de frente para esse ângulo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Veja qual lado está de frente para esse ângulo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Compare essa posição com os demais lados do triângulo"
+        ],
+        "respostaCorreta": "Compare essa posição com os demais lados do triângulo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-trigonometria-intro-sim-01","enunciado":"A principal contribuição da trigonometria introdutória no 9º ano é:","tipo":"multipla_escolha","alternativas":["ampliar a resolução de problemas geométricos com lados e ângulos","substituir toda a álgebra por desenho livre","eliminar a necessidade de interpretar figuras","trabalhar apenas com cálculos sem significado geométrico"],"respostaCorreta":"ampliar a resolução de problemas geométricos com lados e ângulos","explicacao":"O tema desenvolve raciocínio espacial e interpretação de medidas em triângulos retângulos.","dificuldade":"medio"}
+      {
+        "id": "mat9-trigonometria-intro-sim-01",
+        "enunciado": "A principal contribuição da trigonometria introdutória no 9º ano é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ampliar a resolução de problemas geométricos com lados e ângulos",
+          "substituir toda a álgebra por desenho livre",
+          "eliminar a necessidade de interpretar figuras",
+          "trabalhar apenas com cálculos sem significado geométrico"
+        ],
+        "respostaCorreta": "ampliar a resolução de problemas geométricos com lados e ângulos",
+        "explicacao": "O tema desenvolve raciocínio espacial e interpretação de medidas em triângulos retângulos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Introdução à trigonometria\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a resolver problemas de medida e interpretação geométrica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Introdução à trigonometria\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação"
+        ],
+        "respostaCorreta": "A introdução à trigonometria no 9º ano busca compreender como certos lados de um triângulo retângulo se relacionam com seus ângulos agudos. Essa leitura amplia a capacidade de resolver problemas que envolvem altura, distância e inclinação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de aplicar qualquer relação, identifique catetos, hipotenusa e o ângulo observado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Introdução à trigonometria\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender relações em triângulos retângulos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender relações em triângulos retângulos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo ajuda a interpretar situações geométricas em que nem todas as medidas são dadas diretamente. Assim, o aluno desenvolve raciocínio espacial e maior precisão na leitura de figuras e problemas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a interpretar situações geométricas em que nem todas as medidas são dadas diretamente. Assim, o aluno desenvolve raciocínio espacial e maior precisão na leitura de figuras e problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-trigonometria-intro-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Desenhar a situação e marcar os elementos conhecidos facilita muito a compreensão do problema"
+        ],
+        "respostaCorreta": "Desenhar a situação e marcar os elementos conhecidos facilita muito a compreensão do problema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Introdução à trigonometria apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

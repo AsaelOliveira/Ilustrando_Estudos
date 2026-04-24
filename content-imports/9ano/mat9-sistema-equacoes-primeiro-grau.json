@@ -30,16 +30,397 @@
           "Calcule o valor de y a partir da relação restante."
         ],
         "resposta": "Se x = 5, então y = 7, e esse par resolve o sistema."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Sistemas de equações do 1º grau\".",
+        "passos": [
+          "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas",
+          "Resolver um sistema significa encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+          "Esse conteúdo ajuda a modelar e resolver situações do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas de equações do 1º grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Sistemas de equações do 1º grau\".",
+        "passos": [
+          "Resolver um sistema significa encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+          "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+          "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas de equações do 1º grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Sistemas de equações do 1º grau\".",
+        "passos": [
+          "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+          "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente",
+          "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas de equações do 1º grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Sistemas de equações do 1º grau\".",
+        "passos": [
+          "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente",
+          "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema",
+          "Relação entre as equações"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas de equações do 1º grau pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-01","enunciado":"Resolver um sistema de equações significa:","tipo":"multipla_escolha","alternativas":["encontrar valores que satisfaçam todas as equações","escolher qualquer número para as incógnitas","eliminar as variáveis sem interpretar o problema","substituir equações por desenhos"],"respostaCorreta":"encontrar valores que satisfaçam todas as equações","explicacao":"A solução de um sistema precisa tornar verdadeiras todas as equações ao mesmo tempo.","dificuldade":"facil"},
-      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-02","enunciado":"Um sistema de equações é útil para:","tipo":"multipla_escolha","alternativas":["representar relações entre grandezas desconhecidas","substituir todo cálculo por tentativa aleatória","eliminar qualquer leitura do enunciado","resolver apenas figuras geométricas planas"],"respostaCorreta":"representar relações entre grandezas desconhecidas","explicacao":"Sistemas ajudam a modelar problemas com mais de uma informação sobre as incógnitas.","dificuldade":"facil"},
-      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As equações de um sistema se relacionam e devem ser analisadas em conjunto.","Cada equação do sistema deve ser resolvida separadamente, sem relação alguma.","Resolver um sistema é escolher números aleatórios até funcionar.","O sistema só serve quando há uma única incógnita."],"respostaCorreta":"As equações de um sistema se relacionam e devem ser analisadas em conjunto.","explicacao":"O sistema representa condições conectadas que precisam ser satisfeitas simultaneamente.","dificuldade":"medio"},
-      {"id":"mat9-sistema-equacoes-primeiro-grau-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["modelar e resolver problemas com mais de uma condição","ignorar a relação entre grandezas","substituir álgebra por adivinhação","dispensar a interpretação do enunciado"],"respostaCorreta":"modelar e resolver problemas com mais de uma condição","explicacao":"O conteúdo amplia a capacidade de transformar situações do cotidiano em linguagem algébrica.","dificuldade":"medio"}
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-ex-01",
+        "enunciado": "Resolver um sistema de equações significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encontrar valores que satisfaçam todas as equações",
+          "escolher qualquer número para as incógnitas",
+          "eliminar as variáveis sem interpretar o problema",
+          "substituir equações por desenhos"
+        ],
+        "respostaCorreta": "encontrar valores que satisfaçam todas as equações",
+        "explicacao": "A solução de um sistema precisa tornar verdadeiras todas as equações ao mesmo tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-ex-02",
+        "enunciado": "Um sistema de equações é útil para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "representar relações entre grandezas desconhecidas",
+          "substituir todo cálculo por tentativa aleatória",
+          "eliminar qualquer leitura do enunciado",
+          "resolver apenas figuras geométricas planas"
+        ],
+        "respostaCorreta": "representar relações entre grandezas desconhecidas",
+        "explicacao": "Sistemas ajudam a modelar problemas com mais de uma informação sobre as incógnitas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As equações de um sistema se relacionam e devem ser analisadas em conjunto.",
+          "Cada equação do sistema deve ser resolvida separadamente, sem relação alguma.",
+          "Resolver um sistema é escolher números aleatórios até funcionar.",
+          "O sistema só serve quando há uma única incógnita."
+        ],
+        "respostaCorreta": "As equações de um sistema se relacionam e devem ser analisadas em conjunto.",
+        "explicacao": "O sistema representa condições conectadas que precisam ser satisfeitas simultaneamente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "modelar e resolver problemas com mais de uma condição",
+          "ignorar a relação entre grandezas",
+          "substituir álgebra por adivinhação",
+          "dispensar a interpretação do enunciado"
+        ],
+        "respostaCorreta": "modelar e resolver problemas com mais de uma condição",
+        "explicacao": "O conteúdo amplia a capacidade de transformar situações do cotidiano em linguagem algébrica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Sistemas de equações do 1º grau\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-02",
+        "enunciado": "Ao estudar \"Sistemas de equações do 1º grau\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Resolver um sistema significa encontrar valores que satisfaçam todas as equações ao mesmo tempo"
+        ],
+        "respostaCorreta": "Resolver um sistema significa encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-05",
+        "enunciado": "No contexto de \"Sistemas de equações do 1º grau\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-06",
+        "enunciado": "O estudo de \"Sistemas de equações do 1º grau\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender relação entre as equações"
+        ],
+        "respostaCorreta": "compreender relação entre as equações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Sistemas de equações aparecem em situações em que duas grandezas desconhecidas estão ligadas por mais de uma condição. Esse tipo de organização ajuda a transformar um problema em linguagem matemática",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Sistemas de equações aparecem em situações em que duas grandezas desconhecidas estão ligadas por mais de uma condição. Esse tipo de organização ajuda a transformar um problema em linguagem matemática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Procure identificar quais informações do enunciado podem virar equações",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Procure identificar quais informações do enunciado podem virar equações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender leitura de problemas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender leitura de problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere o sistema x + y = 12 e x = 5"
+        ],
+        "respostaCorreta": "Considere o sistema x + y = 12 e x = 5",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Sistemas de equações do 1º grau\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Se x = 5, então y = 7, e esse par resolve o sistema",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Se x = 5, então y = 7, e esse par resolve o sistema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-12",
+        "enunciado": "Ao estudar \"Sistemas de equações do 1º grau\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Substitua x por 5 na primeira equação",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Substitua x por 5 na primeira equação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Calcule o valor de y a partir da relação restante",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Calcule o valor de y a partir da relação restante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas"
+        ],
+        "respostaCorreta": "Um sistema de equações reúne duas ou mais equações com incógnitas relacionadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-sistema-equacoes-primeiro-grau-sim-01","enunciado":"A principal ideia desse tema é compreender que um sistema:","tipo":"multipla_escolha","alternativas":["reúne equações ligadas entre si e exige solução comum","deve ser resolvido sem relação entre suas partes","dispensa interpretação matemática","serve apenas para repetir contas sem significado"],"respostaCorreta":"reúne equações ligadas entre si e exige solução comum","explicacao":"Sistemas de equações organizam condições simultâneas e permitem interpretar relações entre incógnitas.","dificuldade":"medio"}
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que um sistema:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reúne equações ligadas entre si e exige solução comum",
+          "deve ser resolvido sem relação entre suas partes",
+          "dispensa interpretação matemática",
+          "serve apenas para repetir contas sem significado"
+        ],
+        "respostaCorreta": "reúne equações ligadas entre si e exige solução comum",
+        "explicacao": "Sistemas de equações organizam condições simultâneas e permitem interpretar relações entre incógnitas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Sistemas de equações do 1º grau\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Esse conteúdo ajuda a modelar e resolver situações do cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Sistemas de equações do 1º grau\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente"
+        ],
+        "respostaCorreta": "Em um sistema, as equações não são estudadas isoladamente. Elas representam informações que se conectam, e a solução deve atender a todas simultaneamente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe que encontrar um valor para apenas uma equação não resolve todo o sistema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Sistemas de equações do 1º grau\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender relação entre as equações",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender relação entre as equações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sistemas de equações aparecem em situações em que duas grandezas desconhecidas estão ligadas por mais de uma condição. Esse tipo de organização ajuda a transformar um problema em linguagem matemática",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Sistemas de equações aparecem em situações em que duas grandezas desconhecidas estão ligadas por mais de uma condição. Esse tipo de organização ajuda a transformar um problema em linguagem matemática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-sistema-equacoes-primeiro-grau-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Procure identificar quais informações do enunciado podem virar equações"
+        ],
+        "respostaCorreta": "Procure identificar quais informações do enunciado podem virar equações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Sistemas de equações do 1º grau apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

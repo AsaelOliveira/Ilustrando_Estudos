@@ -31,16 +31,397 @@
           "Escolha a estratégia mais viável e justifique a decisão."
         ],
         "resposta": "Esse exemplo mostra que resolver problemas envolve análise, escolha e revisão de estratégias."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Problemas, estratégias e solução\".",
+        "passos": [
+          "Resolver problemas exige observação, análise, planejamento e avaliação de alternativas",
+          "Estratégias bem escolhidas ajudam a encontrar soluções mais eficientes",
+          "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão"
+        ],
+        "resposta": "Esse exemplo mostra como Problemas, estratégias e solução pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Problemas, estratégias e solução\".",
+        "passos": [
+          "Estratégias bem escolhidas ajudam a encontrar soluções mais eficientes",
+          "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+          "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia"
+        ],
+        "resposta": "Esse exemplo mostra como Problemas, estratégias e solução pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Problemas, estratégias e solução\".",
+        "passos": [
+          "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+          "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia",
+          "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir?"
+        ],
+        "resposta": "Esse exemplo mostra como Problemas, estratégias e solução pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Problemas, estratégias e solução\".",
+        "passos": [
+          "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia",
+          "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir?",
+          "Ler o problema com atenção"
+        ],
+        "resposta": "Esse exemplo mostra como Problemas, estratégias e solução pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"erl9-problemas-estrategias-solucao-ex-01","enunciado":"Resolver um problema exige, entre outros aspectos:","tipo":"multipla_escolha","alternativas":["analisar dados e definir objetivos","agir sem entender a situação","ignorar alternativas de solução","evitar qualquer planejamento"],"respostaCorreta":"analisar dados e definir objetivos","explicacao":"Compreender bem o problema é condição importante para encontrar uma solução adequada.","dificuldade":"facil"},
-      {"id":"erl9-problemas-estrategias-solucao-ex-02","enunciado":"Uma estratégia eficiente costuma ser aquela que:","tipo":"multipla_escolha","alternativas":["ajuda a alcançar o objetivo com coerência","complica a solução sem necessidade","impede a análise das opções","descarta toda revisão final"],"respostaCorreta":"ajuda a alcançar o objetivo com coerência","explicacao":"Boas estratégias se relacionam ao problema e tornam a solução mais adequada.","dificuldade":"facil"},
-      {"id":"erl9-problemas-estrategias-solucao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Comparar alternativas fortalece a tomada de decisão.","Toda solução deve ser escolhida sem análise prévia.","Revisar resultados não faz parte da resolução de problemas.","Raciocínio lógico não se aplica a situações reais."],"respostaCorreta":"Comparar alternativas fortalece a tomada de decisão.","explicacao":"A análise de possibilidades é parte importante do raciocínio aplicado à solução de problemas.","dificuldade":"medio"},
-      {"id":"erl9-problemas-estrategias-solucao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver autonomia e pensamento estratégico","depender sempre de respostas prontas","evitar análise crítica das decisões","tratar problemas como obstáculos insolúveis"],"respostaCorreta":"desenvolver autonomia e pensamento estratégico","explicacao":"O conteúdo incentiva organização mental, iniciativa e avaliação consciente das escolhas.","dificuldade":"medio"}
+      {
+        "id": "erl9-problemas-estrategias-solucao-ex-01",
+        "enunciado": "Resolver um problema exige, entre outros aspectos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar dados e definir objetivos",
+          "agir sem entender a situação",
+          "ignorar alternativas de solução",
+          "evitar qualquer planejamento"
+        ],
+        "respostaCorreta": "analisar dados e definir objetivos",
+        "explicacao": "Compreender bem o problema é condição importante para encontrar uma solução adequada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-ex-02",
+        "enunciado": "Uma estratégia eficiente costuma ser aquela que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a alcançar o objetivo com coerência",
+          "complica a solução sem necessidade",
+          "impede a análise das opções",
+          "descarta toda revisão final"
+        ],
+        "respostaCorreta": "ajuda a alcançar o objetivo com coerência",
+        "explicacao": "Boas estratégias se relacionam ao problema e tornam a solução mais adequada.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comparar alternativas fortalece a tomada de decisão.",
+          "Toda solução deve ser escolhida sem análise prévia.",
+          "Revisar resultados não faz parte da resolução de problemas.",
+          "Raciocínio lógico não se aplica a situações reais."
+        ],
+        "respostaCorreta": "Comparar alternativas fortalece a tomada de decisão.",
+        "explicacao": "A análise de possibilidades é parte importante do raciocínio aplicado à solução de problemas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver autonomia e pensamento estratégico",
+          "depender sempre de respostas prontas",
+          "evitar análise crítica das decisões",
+          "tratar problemas como obstáculos insolúveis"
+        ],
+        "respostaCorreta": "desenvolver autonomia e pensamento estratégico",
+        "explicacao": "O conteúdo incentiva organização mental, iniciativa e avaliação consciente das escolhas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Problemas, estratégias e solução\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Resolver problemas exige observação, análise, planejamento e avaliação de alternativas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Resolver problemas exige observação, análise, planejamento e avaliação de alternativas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-02",
+        "enunciado": "Ao estudar \"Problemas, estratégias e solução\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Estratégias bem escolhidas ajudam a encontrar soluções mais eficientes"
+        ],
+        "respostaCorreta": "Estratégias bem escolhidas ajudam a encontrar soluções mais eficientes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-05",
+        "enunciado": "No contexto de \"Problemas, estratégias e solução\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir\"",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir\"",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-06",
+        "enunciado": "O estudo de \"Problemas, estratégias e solução\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender ler o problema com atenção"
+        ],
+        "respostaCorreta": "compreender ler o problema com atenção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Uma mesma situação pode admitir caminhos diferentes de solução. Comparar alternativas, prever consequências e revisar o resultado final ajuda a desenvolver pensamento lógico e responsabilidade diante das decisões tomadas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Uma mesma situação pode admitir caminhos diferentes de solução. Comparar alternativas, prever consequências e revisar o resultado final ajuda a desenvolver pensamento lógico e responsabilidade diante das decisões tomadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Depois de resolver, volte ao problema e verifique se a solução encontrada faz sentido",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Depois de resolver, volte ao problema e verifique se a solução encontrada faz sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender escolha e avaliação de estratégias",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender escolha e avaliação de estratégias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Imagine um grupo que precisa organizar uma feira escolar com tempo e recursos limitados"
+        ],
+        "respostaCorreta": "Imagine um grupo que precisa organizar uma feira escolar com tempo e recursos limitados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Problemas, estratégias e solução\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que resolver problemas envolve análise, escolha e revisão de estratégias",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que resolver problemas envolve análise, escolha e revisão de estratégias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-12",
+        "enunciado": "Ao estudar \"Problemas, estratégias e solução\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o problema principal",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o problema principal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Liste alternativas possíveis de organização",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Liste alternativas possíveis de organização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Escolha a estratégia mais viável e justifique a decisão"
+        ],
+        "respostaCorreta": "Escolha a estratégia mais viável e justifique a decisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"erl9-problemas-estrategias-solucao-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["resolver problemas pede análise, estratégia e revisão de decisões","qualquer solução improvisada é suficiente","problemas devem ser tratados sem planejamento","decidir não envolve consequências"],"respostaCorreta":"resolver problemas pede análise, estratégia e revisão de decisões","explicacao":"O tema destaca a importância do pensamento organizado na resolução de desafios reais.","dificuldade":"medio"}
+      {
+        "id": "erl9-problemas-estrategias-solucao-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "resolver problemas pede análise, estratégia e revisão de decisões",
+          "qualquer solução improvisada é suficiente",
+          "problemas devem ser tratados sem planejamento",
+          "decidir não envolve consequências"
+        ],
+        "respostaCorreta": "resolver problemas pede análise, estratégia e revisão de decisões",
+        "explicacao": "O tema destaca a importância do pensamento organizado na resolução de desafios reais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Problemas, estratégias e solução\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece autonomia, raciocínio lógico e tomada de decisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Problemas, estratégias e solução\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia"
+        ],
+        "respostaCorreta": "Muitas dificuldades na resolução de problemas surgem quando a situação não é compreendida por completo. Ler com atenção, identificar dados e definir o objetivo são passos essenciais para construir uma boa estratégia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir\"",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de agir, pergunte: qual é o problema, o que já sei e o que preciso descobrir\"",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Problemas, estratégias e solução\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender ler o problema com atenção",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender ler o problema com atenção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma mesma situação pode admitir caminhos diferentes de solução. Comparar alternativas, prever consequências e revisar o resultado final ajuda a desenvolver pensamento lógico e responsabilidade diante das decisões tomadas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Uma mesma situação pode admitir caminhos diferentes de solução. Comparar alternativas, prever consequências e revisar o resultado final ajuda a desenvolver pensamento lógico e responsabilidade diante das decisões tomadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-problemas-estrategias-solucao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Depois de resolver, volte ao problema e verifique se a solução encontrada faz sentido"
+        ],
+        "respostaCorreta": "Depois de resolver, volte ao problema e verifique se a solução encontrada faz sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Problemas, estratégias e solução apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,427 @@
+[
+  {
+    "id": "mat8-regra-de-tres-simples",
+    "titulo": "Regra de três simples",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Grandezas e proporcionalidade",
+    "resumo": [
+      "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais.",
+      "É importante identificar se a relação é direta ou inversa.",
+      "A organização correta dos dados facilita a resolução."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização das grandezas",
+        "texto": "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra.",
+        "dica": "Monte a correspondência com atenção antes de calcular."
+      },
+      {
+        "subtitulo": "Proporcionalidade",
+        "texto": "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema.",
+        "dica": "Compare o comportamento das grandezas antes de montar a conta."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?",
+        "passos": [
+          "Organize as grandezas: quantidade e preço.",
+          "Perceba que, aumentando a quantidade, o preço também aumenta.",
+          "Use a proporção para encontrar o valor correspondente."
+        ],
+        "resposta": "Como as grandezas são diretamente proporcionais, 5 cadernos custam 25 reais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Regra de três simples\".",
+        "passos": [
+          "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais",
+          "É importante identificar se a relação é direta ou inversa",
+          "A organização correta dos dados facilita a resolução"
+        ],
+        "resposta": "Esse exemplo mostra como Regra de três simples pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Regra de três simples\".",
+        "passos": [
+          "É importante identificar se a relação é direta ou inversa",
+          "A organização correta dos dados facilita a resolução",
+          "Organização das grandezas"
+        ],
+        "resposta": "Esse exemplo mostra como Regra de três simples pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Regra de três simples\".",
+        "passos": [
+          "A organização correta dos dados facilita a resolução",
+          "Organização das grandezas",
+          "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra"
+        ],
+        "resposta": "Esse exemplo mostra como Regra de três simples pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Regra de três simples\".",
+        "passos": [
+          "Organização das grandezas",
+          "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra",
+          "Monte a correspondência com atenção antes de calcular"
+        ],
+        "resposta": "Esse exemplo mostra como Regra de três simples pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-regra-de-tres-simples-ex-01",
+        "enunciado": "A regra de três simples é usada para resolver problemas com:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "duas grandezas relacionadas",
+          "apenas figuras geométricas",
+          "números romanos",
+          "equações sem incógnita"
+        ],
+        "respostaCorreta": "duas grandezas relacionadas",
+        "explicacao": "Esse procedimento compara grandezas proporcionais em situações do cotidiano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-ex-02",
+        "enunciado": "Quando uma grandeza aumenta e a outra também aumenta, a relação costuma ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "direta",
+          "inversa",
+          "aleatória",
+          "nula"
+        ],
+        "respostaCorreta": "direta",
+        "explicacao": "Na proporcionalidade direta, as grandezas variam no mesmo sentido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-ex-03",
+        "enunciado": "Se 3 camisetas custam 45 reais, 1 camiseta custa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "15 reais",
+          "12 reais",
+          "18 reais",
+          "10 reais"
+        ],
+        "respostaCorreta": "15 reais",
+        "explicacao": "Basta dividir 45 por 3 para encontrar o valor unitário.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-ex-04",
+        "enunciado": "Qual cuidado é essencial antes de aplicar a regra de três?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar corretamente as grandezas e a correspondência entre os valores",
+          "eliminar os dados do problema",
+          "escolher números ao acaso",
+          "ignorar a relação entre as grandezas"
+        ],
+        "respostaCorreta": "organizar corretamente as grandezas e a correspondência entre os valores",
+        "explicacao": "Uma montagem incorreta compromete toda a resolução do problema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "É importante identificar se a relação é direta ou inversa"
+        ],
+        "respostaCorreta": "É importante identificar se a relação é direta ou inversa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A organização correta dos dados facilita a resolução",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A organização correta dos dados facilita a resolução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Monte a correspondência com atenção antes de calcular",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Monte a correspondência com atenção antes de calcular",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema"
+        ],
+        "respostaCorreta": "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare o comportamento das grandezas antes de montar a conta",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare o comportamento das grandezas antes de montar a conta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Como as grandezas são diretamente proporcionais, 5 cadernos custam 25 reais",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Como as grandezas são diretamente proporcionais, 5 cadernos custam 25 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Organize as grandezas: quantidade e preço"
+        ],
+        "respostaCorreta": "Organize as grandezas: quantidade e preço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que, aumentando a quantidade, o preço também aumenta",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que, aumentando a quantidade, o preço também aumenta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Use a proporção para encontrar o valor correspondente",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Use a proporção para encontrar o valor correspondente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A regra de três simples ajuda a resolver problemas com duas grandezas proporcionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "É importante identificar se a relação é direta ou inversa"
+        ],
+        "respostaCorreta": "É importante identificar se a relação é direta ou inversa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-regra-de-tres-simples-sim-01",
+        "enunciado": "Um problema de proporcionalidade exige, antes do cálculo, a identificação de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como as grandezas se relacionam",
+          "apenas a cor dos objetos citados",
+          "somente a ordem alfabética dos dados",
+          "o número de frases do enunciado"
+        ],
+        "respostaCorreta": "como as grandezas se relacionam",
+        "explicacao": "A identificação da relação entre as grandezas orienta a montagem correta da solução.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A organização correta dos dados facilita a resolução",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A organização correta dos dados facilita a resolução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra"
+        ],
+        "respostaCorreta": "Para usar a regra de três simples, é preciso organizar os valores de grandezas que se relacionam. Depois disso, analisamos se o aumento de uma grandeza provoca aumento ou diminuição da outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Monte a correspondência com atenção antes de calcular",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Monte a correspondência com atenção antes de calcular",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando duas grandezas crescem ou diminuem juntas, a relação costuma ser direta. Quando uma aumenta e a outra diminui, a relação é inversa. Essa distinção muda o modo de resolver o problema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare o comportamento das grandezas antes de montar a conta",
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare o comportamento das grandezas antes de montar a conta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-regra-de-tres-simples-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de regra de três simples se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Regra de três simples pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com regra de três simples dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?"
+        ],
+        "respostaCorreta": "Se 2 cadernos custam 10 reais, quanto custam 5 cadernos?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Regra de três simples, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

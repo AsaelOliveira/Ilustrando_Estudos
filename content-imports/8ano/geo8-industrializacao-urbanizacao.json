@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-industrializacao-urbanizacao",
+    "titulo": "Industrializa��o e urbaniza��o",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espa�o geogr�fico",
+    "resumo": [
+      "Industrializa��o e urbaniza��o transformam o espa�o geogr�fico.",
+      "Esses processos alteram trabalho, circula��o e paisagens.",
+      "O tema ajuda a compreender mudan�as nas cidades e na economia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ind�stria e espa�o",
+        "texto": "A industrializa��o modifica a produ��o econ�mica e influencia transportes, trabalho e organiza��o territorial.",
+        "dica": "Observe como f�bricas, servi�os e circula��o se relacionam."
+      },
+      {
+        "subtitulo": "Crescimento urbano",
+        "texto": "A urbaniza��o amplia cidades e altera a paisagem, a ocupa��o do solo e a vida social.",
+        "dica": "Cidades mudam conforme a popula��o e as atividades econ�micas crescem."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma cidade que cresce com novas f�bricas e servi�os.",
+        "passos": [
+          "A economia se transforma.",
+          "O espa�o urbano tamb�m se reorganiza."
+        ],
+        "resposta": "Esse processo se relaciona � industrializa��o e � urbaniza��o."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Industrializao e urbanizao\".",
+        "passos": [
+          "Industrializao e urbanizao transformam o espao geogrfico",
+          "Esses processos alteram trabalho, circulao e paisagens",
+          "O tema ajuda a compreender mudanas nas cidades e na economia"
+        ],
+        "resposta": "Esse exemplo mostra como Industrializao e urbanizao pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Industrializao e urbanizao\".",
+        "passos": [
+          "Esses processos alteram trabalho, circulao e paisagens",
+          "O tema ajuda a compreender mudanas nas cidades e na economia",
+          "Indstria e espao"
+        ],
+        "resposta": "Esse exemplo mostra como Industrializao e urbanizao pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Industrializao e urbanizao\".",
+        "passos": [
+          "O tema ajuda a compreender mudanas nas cidades e na economia",
+          "Indstria e espao",
+          "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial"
+        ],
+        "resposta": "Esse exemplo mostra como Industrializao e urbanizao pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Industrializao e urbanizao\".",
+        "passos": [
+          "Indstria e espao",
+          "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial",
+          "Observe como fbricas, servios e circulao se relacionam"
+        ],
+        "resposta": "Esse exemplo mostra como Industrializao e urbanizao pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-industrializacao-urbanizacao-ex-01",
+        "enunciado": "A industrializa��o influencia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a produ��o e o espa�o",
+          "somente a pontua��o",
+          "apenas a literatura",
+          "nenhuma paisagem"
+        ],
+        "respostaCorreta": "a produ��o e o espa�o",
+        "explicacao": "A ind�stria altera economia, trabalho e organiza��o territorial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-ex-02",
+        "enunciado": "A urbaniza��o se relaciona ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescimento das cidades",
+          "desaparecimento do espa�o urbano",
+          "fim da popula��o",
+          "elimina��o da atividade econ�mica"
+        ],
+        "respostaCorreta": "crescimento das cidades",
+        "explicacao": "Urbaniza��o envolve transforma��o e expans�o do espa�o urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-ex-03",
+        "enunciado": "Qual afirma��o est� correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializa��o e urbaniza��o transformam paisagens e rela��es sociais.",
+          "Cidades n�o mudam com a economia.",
+          "A ind�stria n�o interfere no territ�rio.",
+          "Urbaniza��o n�o tem liga��o com popula��o."
+        ],
+        "respostaCorreta": "Industrializa��o e urbaniza��o transformam paisagens e rela��es sociais.",
+        "explicacao": "Esses processos alteram o espa�o geogr�fico de forma significativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-ex-04",
+        "enunciado": "A principal ideia desse tema � compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudan�as no espa�o com ind�stria e cidades",
+          "a elimina��o das cidades",
+          "o fim da produ��o econ�mica",
+          "somente o relevo natural"
+        ],
+        "respostaCorreta": "mudan�as no espa�o com ind�stria e cidades",
+        "explicacao": "O tema relaciona economia, cidade e transforma��o espacial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializao e urbanizao transformam o espao geogrfico",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Industrializao e urbanizao transformam o espao geogrfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esses processos alteram trabalho, circulao e paisagens"
+        ],
+        "respostaCorreta": "Esses processos alteram trabalho, circulao e paisagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O tema ajuda a compreender mudanas nas cidades e na economia",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O tema ajuda a compreender mudanas nas cidades e na economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como fbricas, servios e circulao se relacionam",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como fbricas, servios e circulao se relacionam",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A urbanizao amplia cidades e altera a paisagem, a ocupao do solo e a vida social"
+        ],
+        "respostaCorreta": "A urbanizao amplia cidades e altera a paisagem, a ocupao do solo e a vida social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cidades mudam conforme a populao e as atividades econmicas crescem",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Cidades mudam conforme a populao e as atividades econmicas crescem",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma cidade que cresce com novas fbricas e servios",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma cidade que cresce com novas fbricas e servios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse processo se relaciona industrializao e urbanizao",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse processo se relaciona industrializao e urbanizao",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O espao urbano tambm se reorganiza"
+        ],
+        "respostaCorreta": "O espao urbano tambm se reorganiza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Industrializao e urbanizao transformam o espao geogrfico",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Industrializao e urbanizao transformam o espao geogrfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esses processos alteram trabalho, circulao e paisagens",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Esses processos alteram trabalho, circulao e paisagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O tema ajuda a compreender mudanas nas cidades e na economia",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O tema ajuda a compreender mudanas nas cidades e na economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial"
+        ],
+        "respostaCorreta": "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-industrializacao-urbanizacao-sim-01",
+        "enunciado": "Esse tema ajuda a entender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "economia e cidades transformam o espa�o",
+          "o espa�o permanece sempre igual",
+          "a ind�stria elimina a urbaniza��o",
+          "a cidade n�o depende de trabalho"
+        ],
+        "respostaCorreta": "economia e cidades transformam o espa�o",
+        "explicacao": "Industrializa��o e urbaniza��o reorganizam o territ�rio.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O tema ajuda a compreender mudanas nas cidades e na economia",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O tema ajuda a compreender mudanas nas cidades e na economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial"
+        ],
+        "respostaCorreta": "A industrializao modifica a produo econmica e influencia transportes, trabalho e organizao territorial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como fbricas, servios e circulao se relacionam",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como fbricas, servios e circulao se relacionam",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A urbanizao amplia cidades e altera a paisagem, a ocupao do solo e a vida social",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A urbanizao amplia cidades e altera a paisagem, a ocupao do solo e a vida social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cidades mudam conforme a populao e as atividades econmicas crescem",
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Cidades mudam conforme a populao e as atividades econmicas crescem",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-industrializacao-urbanizacao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de industrializao e urbanizao se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Industrializao e urbanizao pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com industrializao e urbanizao dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma cidade que cresce com novas fbricas e servios"
+        ],
+        "respostaCorreta": "Pense em uma cidade que cresce com novas fbricas e servios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Industrializao e urbanizao, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

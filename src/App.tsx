@@ -4,28 +4,30 @@ import { BrowserRouter, Navigate, Outlet, Route, Routes, useParams } from "react
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { ThemeProvider } from "@/components/theme-provider";
 import { AuthProvider } from "@/hooks/useAuth";
 import { StudyContentProvider } from "@/hooks/useStudyContent";
 import RequireAuth from "@/components/RequireAuth";
 import RequireRole from "@/components/RequireRole";
 
-const Home = lazy(() => import("./pages/Home"));
+import Home from "./pages/Home";
+import Sobre from "./pages/Sobre";
+import LoginPage from "./pages/LoginPage";
+import AppHomePage from "./pages/AppHomePage";
+import NotFound from "./pages/NotFound";
+
 const Turmas = lazy(() => import("./pages/Turmas"));
 const Disciplinas = lazy(() => import("./pages/Disciplinas"));
 const TemasPage = lazy(() => import("./pages/TemasPage"));
 const AulaPage = lazy(() => import("./pages/AulaPage"));
 const Competicao = lazy(() => import("./pages/Competicao"));
 const AdminPage = lazy(() => import("./pages/AdminPage"));
-const LoginPage = lazy(() => import("./pages/LoginPage"));
 const PerfilPage = lazy(() => import("./pages/PerfilPage"));
-const AppHomePage = lazy(() => import("./pages/AppHomePage"));
 const DashboardPage = lazy(() => import("./pages/DashboardPage"));
 const AcompanhamentoPage = lazy(() => import("./pages/AcompanhamentoPage"));
 const FavoritosPage = lazy(() => import("./pages/FavoritosPage"));
 const ModoProvaPage = lazy(() => import("./pages/ModoProvaPage"));
 const DuelPage = lazy(() => import("./pages/DuelPage"));
-const Sobre = lazy(() => import("./pages/Sobre"));
-const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
 
@@ -77,52 +79,54 @@ function RouteFallback() {
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
-    <TooltipProvider>
-      <Toaster />
-      <Sonner />
-      <BrowserRouter>
-        <Suspense fallback={<RouteFallback />}>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/sobre" element={<Sobre />} />
-            <Route element={<AuthSessionScope />}>
-              <Route path="/login" element={<LoginPage />} />
-              <Route element={<RequireAuth />}>
-                <Route element={<StudyContentScope />}>
-                  <Route path="/app" element={<AppHomePage />} />
-                  <Route path="/app/turmas" element={<Turmas />} />
-                  <Route path="/app/turmas/:turmaId" element={<Disciplinas />} />
-                  <Route path="/app/turmas/:turmaId/:disciplinaId" element={<TemasPage />} />
-                  <Route path="/app/turmas/:turmaId/:disciplinaId/:temaId" element={<AulaPage />} />
-                  <Route path="/app/progresso" element={<DashboardPage />} />
-                  <Route element={<RequireRole allowedRoles={["admin", "professor", "coordenadora"]} />}>
-                    <Route path="/app/acompanhamento" element={<AcompanhamentoPage />} />
+    <ThemeProvider attribute="class" defaultTheme="light" storageKey="vite-ui-theme">
+      <TooltipProvider>
+        <Toaster />
+        <Sonner />
+        <BrowserRouter>
+          <Suspense fallback={<RouteFallback />}>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/sobre" element={<Sobre />} />
+              <Route element={<AuthSessionScope />}>
+                <Route path="/login" element={<LoginPage />} />
+                <Route element={<RequireAuth />}>
+                  <Route element={<StudyContentScope />}>
+                    <Route path="/app" element={<AppHomePage />} />
+                    <Route path="/app/turmas" element={<Turmas />} />
+                    <Route path="/app/turmas/:turmaId" element={<Disciplinas />} />
+                    <Route path="/app/turmas/:turmaId/:disciplinaId" element={<TemasPage />} />
+                    <Route path="/app/turmas/:turmaId/:disciplinaId/:temaId" element={<AulaPage />} />
+                    <Route path="/app/progresso" element={<DashboardPage />} />
+                    <Route element={<RequireRole allowedRoles={["admin", "professor", "coordenadora"]} />}>
+                      <Route path="/app/acompanhamento" element={<AcompanhamentoPage />} />
+                    </Route>
+                    <Route path="/app/favoritos" element={<FavoritosPage />} />
+                    <Route path="/app/modo-prova" element={<ModoProvaPage />} />
+                    <Route path="/app/configuracoes" element={<PerfilPage />} />
+                    <Route path="/app/competicao" element={<Competicao />} />
+                    <Route path="/app/duelo" element={<DuelPage />} />
+                    <Route element={<RequireRole allowedRoles={["admin"]} />}>
+                      <Route path="/app/admin" element={<AdminPage />} />
+                    </Route>
+                    <Route path="/app/*" element={<NotFound />} />
+                    <Route path="/turmas" element={<LegacyTurmasRedirect />} />
+                    <Route path="/turmas/:turma/disciplinas" element={<LegacyTurmaRedirect />} />
+                    <Route path="/turmas/:turma/:disciplina/temas" element={<LegacyDisciplinaRedirect />} />
+                    <Route path="/turmas/:turma/:disciplina/:tema" element={<LegacyTemaRedirect />} />
+                    <Route path="/competicao" element={<Navigate to="/app/competicao" replace />} />
+                    <Route path="/admin" element={<Navigate to="/app/admin" replace />} />
+                    <Route path="/perfil" element={<Navigate to="/app/configuracoes" replace />} />
+                    <Route path="/desempenho" element={<Navigate to="/app/progresso" replace />} />
                   </Route>
-                  <Route path="/app/favoritos" element={<FavoritosPage />} />
-                  <Route path="/app/modo-prova" element={<ModoProvaPage />} />
-                  <Route path="/app/configuracoes" element={<PerfilPage />} />
-                  <Route path="/app/competicao" element={<Competicao />} />
-                  <Route path="/app/duelo" element={<DuelPage />} />
-                  <Route element={<RequireRole allowedRoles={["admin"]} />}>
-                    <Route path="/app/admin" element={<AdminPage />} />
-                  </Route>
-                  <Route path="/app/*" element={<NotFound />} />
-                  <Route path="/turmas" element={<LegacyTurmasRedirect />} />
-                  <Route path="/turmas/:turma/disciplinas" element={<LegacyTurmaRedirect />} />
-                  <Route path="/turmas/:turma/:disciplina/temas" element={<LegacyDisciplinaRedirect />} />
-                  <Route path="/turmas/:turma/:disciplina/:tema" element={<LegacyTemaRedirect />} />
-                  <Route path="/competicao" element={<Navigate to="/app/competicao" replace />} />
-                  <Route path="/admin" element={<Navigate to="/app/admin" replace />} />
-                  <Route path="/perfil" element={<Navigate to="/app/configuracoes" replace />} />
-                  <Route path="/desempenho" element={<Navigate to="/app/progresso" replace />} />
                 </Route>
               </Route>
-            </Route>
-            <Route path="*" element={<NotFound />} />
-          </Routes>
-        </Suspense>
-      </BrowserRouter>
-    </TooltipProvider>
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </Suspense>
+        </BrowserRouter>
+      </TooltipProvider>
+    </ThemeProvider>
   </QueryClientProvider>
 );
 

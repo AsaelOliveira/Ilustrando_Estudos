@@ -1,0 +1,426 @@
+[
+  {
+    "id": "hist8-republica-brasil-intro",
+    "titulo": "Introdução à Proclamação da República no Brasil",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Transições políticas no Brasil",
+    "resumo": [
+      "A Proclamação da República marcou o fim do regime monárquico no Brasil.",
+      "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais.",
+      "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mudança de regime",
+        "texto": "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império.",
+        "dica": "Observe que grandes mudanças políticas costumam resultar de processos acumulados."
+      },
+      {
+        "subtitulo": "Leitura histórica do processo",
+        "texto": "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas.",
+        "dica": "Procure identificar sujeitos, interesses e consequências do processo político."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise uma situação em que um país muda sua forma de governo.",
+        "passos": [
+          "Observe quais grupos apoiam a mudança.",
+          "Perceba que a troca de regime altera instituições e formas de poder."
+        ],
+        "resposta": "Essa análise ajuda a compreender o significado histórico da Proclamação da República."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à Proclamação da República no Brasil\".",
+        "passos": [
+          "A Proclamação da República marcou o fim do regime monárquico no Brasil",
+          "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais",
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à Proclamação da República no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à Proclamação da República no Brasil\".",
+        "passos": [
+          "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais",
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+          "Mudança de regime"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à Proclamação da República no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à Proclamação da República no Brasil\".",
+        "passos": [
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+          "Mudança de regime",
+          "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à Proclamação da República no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à Proclamação da República no Brasil\".",
+        "passos": [
+          "Mudança de regime",
+          "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império",
+          "Observe que grandes mudanças políticas costumam resultar de processos acumulados"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à Proclamação da República no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist8-republica-brasil-intro-ex-01",
+        "enunciado": "A Proclamação da República marcou:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o fim da Monarquia no Brasil",
+          "o início do período colonial",
+          "a chegada dos portugueses ao Brasil",
+          "o começo do Período Regencial"
+        ],
+        "respostaCorreta": "o fim da Monarquia no Brasil",
+        "explicacao": "Esse acontecimento encerrou o regime monárquico e iniciou a forma republicana de governo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-ex-02",
+        "enunciado": "A mudança para a República ocorreu em meio a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tensões políticas e institucionais",
+          "ausência completa de conflitos",
+          "somente festas populares sem debate político",
+          "situação totalmente estável e sem disputas"
+        ],
+        "respostaCorreta": "tensões políticas e institucionais",
+        "explicacao": "A transição de regime esteve ligada a conflitos e interesses de diferentes grupos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Proclamação da República deve ser entendida como parte de um processo histórico.",
+          "A República surgiu sem qualquer contexto anterior.",
+          "A mudança de regime não alterou instituições políticas.",
+          "O tema não tem importância para a história do Brasil."
+        ],
+        "respostaCorreta": "A Proclamação da República deve ser entendida como parte de um processo histórico.",
+        "explicacao": "Mudanças políticas desse porte se relacionam a processos mais amplos, e não a um fato isolado apenas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-ex-04",
+        "enunciado": "Estudar a Proclamação da República ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformações na organização do Estado brasileiro",
+          "apenas a formação do relevo",
+          "somente a estrutura da célula",
+          "exclusivamente a literatura medieval"
+        ],
+        "respostaCorreta": "transformações na organização do Estado brasileiro",
+        "explicacao": "Esse tema é importante para entender mudanças de poder e de instituições no país.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Proclamação da República marcou o fim do regime monárquico no Brasil",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A Proclamação da República marcou o fim do regime monárquico no Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais"
+        ],
+        "respostaCorreta": "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que grandes mudanças políticas costumam resultar de processos acumulados",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe que grandes mudanças políticas costumam resultar de processos acumulados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas"
+        ],
+        "respostaCorreta": "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Procure identificar sujeitos, interesses e consequências do processo político",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Procure identificar sujeitos, interesses e consequências do processo político",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise uma situação em que um país muda sua forma de governo",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Analise uma situação em que um país muda sua forma de governo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Essa análise ajuda a compreender o significado histórico da Proclamação da República",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Essa análise ajuda a compreender o significado histórico da Proclamação da República",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe quais grupos apoiam a mudança"
+        ],
+        "respostaCorreta": "Observe quais grupos apoiam a mudança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a troca de regime altera instituições e formas de poder",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a troca de regime altera instituições e formas de poder",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Proclamação da República marcou o fim do regime monárquico no Brasil",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Proclamação da República marcou o fim do regime monárquico no Brasil",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse processo ocorreu em meio a tensões políticas, sociais e institucionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro"
+        ],
+        "respostaCorreta": "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist8-republica-brasil-intro-sim-01",
+        "enunciado": "Ao estudar a Proclamação da República, o aluno deve perceber principalmente que houve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudança de regime político em um contexto de disputas e transformações",
+          "apenas uma alteração de nome sem consequências",
+          "total ausência de tensões sociais",
+          "um processo isolado sem relação com o final do Império"
+        ],
+        "respostaCorreta": "mudança de regime político em um contexto de disputas e transformações",
+        "explicacao": "A transição para a República faz parte de um processo político mais amplo na história do Brasil.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender essa mudança ajuda a entender transformações na organização do Estado brasileiro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império"
+        ],
+        "respostaCorreta": "A passagem da Monarquia para a República não foi um fato isolado. Ela se relaciona a disputas políticas, insatisfações de grupos influentes e transformações que vinham ocorrendo no final do Império",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que grandes mudanças políticas costumam resultar de processos acumulados",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que grandes mudanças políticas costumam resultar de processos acumulados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Estudar a Proclamação da República exige analisar quem participou, quais interesses estavam em jogo e como essa mudança afetou a organização do país. Esse olhar evita simplificações históricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Procure identificar sujeitos, interesses e consequências do processo político",
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Procure identificar sujeitos, interesses e consequências do processo político",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-republica-brasil-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à proclamação da república no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à proclamação da república no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à proclamação da república no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise uma situação em que um país muda sua forma de governo"
+        ],
+        "respostaCorreta": "Analise uma situação em que um país muda sua forma de governo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à Proclamação da República no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

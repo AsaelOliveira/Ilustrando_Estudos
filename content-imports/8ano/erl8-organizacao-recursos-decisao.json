@@ -1,0 +1,427 @@
+[
+  {
+    "id": "erl8-organizacao-recursos-decisao",
+    "titulo": "Organização de recursos e tomada de decisão",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Projeto e raciocínio prático",
+    "resumo": [
+      "Tomar decisões exige analisar objetivos, recursos e consequências possíveis.",
+      "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados.",
+      "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Uso consciente de recursos",
+        "texto": "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios.",
+        "dica": "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários."
+      },
+      {
+        "subtitulo": "Decisão com critérios",
+        "texto": "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade.",
+        "dica": "Liste opções possíveis e compare vantagens e limites de cada uma."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar.",
+        "passos": [
+          "Organize o que é prioridade.",
+          "Distribua funções de modo equilibrado.",
+          "Escolha a solução mais viável para o objetivo proposto."
+        ],
+        "resposta": "Esse exemplo mostra como organização e decisão estão ligadas à resolução eficiente de desafios."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Organização de recursos e tomada de decisão\".",
+        "passos": [
+          "Tomar decisões exige analisar objetivos, recursos e consequências possíveis",
+          "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados",
+          "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico"
+        ],
+        "resposta": "Esse exemplo mostra como Organização de recursos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Organização de recursos e tomada de decisão\".",
+        "passos": [
+          "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados",
+          "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+          "Uso consciente de recursos"
+        ],
+        "resposta": "Esse exemplo mostra como Organização de recursos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Organização de recursos e tomada de decisão\".",
+        "passos": [
+          "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+          "Uso consciente de recursos",
+          "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios"
+        ],
+        "resposta": "Esse exemplo mostra como Organização de recursos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Organização de recursos e tomada de decisão\".",
+        "passos": [
+          "Uso consciente de recursos",
+          "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios",
+          "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários"
+        ],
+        "resposta": "Esse exemplo mostra como Organização de recursos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl8-organizacao-recursos-decisao-ex-01",
+        "enunciado": "Tomar decisões com responsabilidade exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analisar opções e consequências",
+          "agir por impulso sempre",
+          "ignorar os recursos disponíveis",
+          "evitar qualquer planejamento"
+        ],
+        "respostaCorreta": "analisar opções e consequências",
+        "explicacao": "A tomada de decisão responsável depende de análise, comparação e reflexão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-ex-02",
+        "enunciado": "Organizar recursos significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar tempo, materiais e esforços de modo planejado",
+          "gastar tudo sem critério",
+          "eliminar toda divisão de tarefas",
+          "improvisar sem objetivo"
+        ],
+        "respostaCorreta": "usar tempo, materiais e esforços de modo planejado",
+        "explicacao": "Organizar recursos ajuda a agir com mais eficiência e responsabilidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comparar alternativas ajuda a tomar decisões mais conscientes.",
+          "Toda decisão deve ser tomada sem análise.",
+          "Planejamento impede a resolução de problemas.",
+          "Os recursos não influenciam a escolha das ações."
+        ],
+        "respostaCorreta": "Comparar alternativas ajuda a tomar decisões mais conscientes.",
+        "explicacao": "A análise de opções permite escolhas mais adequadas ao objetivo e à situação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agir com mais estratégia e responsabilidade",
+          "depender apenas do acaso",
+          "ignorar limites e prioridades",
+          "substituir raciocínio por improviso"
+        ],
+        "respostaCorreta": "agir com mais estratégia e responsabilidade",
+        "explicacao": "O conteúdo fortalece organização, reflexão e escolhas mais eficientes no cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tomar decisões exige analisar objetivos, recursos e consequências possíveis",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Tomar decisões exige analisar objetivos, recursos e consequências possíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados"
+        ],
+        "respostaCorreta": "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade"
+        ],
+        "respostaCorreta": "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Liste opções possíveis e compare vantagens e limites de cada uma",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Liste opções possíveis e compare vantagens e limites de cada uma",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como organização e decisão estão ligadas à resolução eficiente de desafios",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como organização e decisão estão ligadas à resolução eficiente de desafios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Organize o que é prioridade"
+        ],
+        "respostaCorreta": "Organize o que é prioridade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Distribua funções de modo equilibrado",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Distribua funções de modo equilibrado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Escolha a solução mais viável para o objetivo proposto",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Escolha a solução mais viável para o objetivo proposto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tomar decisões exige analisar objetivos, recursos e consequências possíveis",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Tomar decisões exige analisar objetivos, recursos e consequências possíveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados"
+        ],
+        "respostaCorreta": "A organização de tempo, materiais e responsabilidades ajuda a alcançar melhores resultados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl8-organizacao-recursos-decisao-sim-01",
+        "enunciado": "A principal ideia da organização de recursos e da tomada de decisão é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar critérios claros para escolher e agir melhor",
+          "deixar tudo para a última hora",
+          "eliminar toda responsabilidade individual",
+          "agir sem observar o contexto"
+        ],
+        "respostaCorreta": "usar critérios claros para escolher e agir melhor",
+        "explicacao": "Organizar recursos e comparar caminhos ajuda a alcançar objetivos com mais eficiência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema desenvolve responsabilidade, planejamento e pensamento lógico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios"
+        ],
+        "respostaCorreta": "Em atividades individuais e coletivas, é importante saber como usar tempo, materiais e esforços de forma equilibrada. Essa organização contribui para escolhas mais eficientes e evita desperdícios",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de decidir, observe quais recursos estão disponíveis e quais são mais necessários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Decidir bem não é agir por impulso, mas comparar alternativas, pensar consequências e escolher o caminho mais adequado ao objetivo. Esse processo fortalece autonomia e responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Liste opções possíveis e compare vantagens e limites de cada uma",
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Liste opções possíveis e compare vantagens e limites de cada uma",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-organizacao-recursos-decisao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de organização de recursos e tomada de decisão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Organização de recursos e tomada de decisão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com organização de recursos e tomada de decisão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar"
+        ],
+        "respostaCorreta": "Imagine um grupo com pouco tempo e poucos materiais para realizar uma tarefa escolar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Organização de recursos e tomada de decisão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

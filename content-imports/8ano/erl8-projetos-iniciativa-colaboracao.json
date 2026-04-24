@@ -1,0 +1,427 @@
+[
+  {
+    "id": "erl8-projetos-iniciativa-colaboracao",
+    "titulo": "Projetos, iniciativa e colaboração",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Empreendedorismo e ação coletiva",
+    "resumo": [
+      "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas.",
+      "A colaboração fortalece a resolução de desafios coletivos.",
+      "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Iniciativa com propósito",
+        "texto": "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento.",
+        "dica": "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido."
+      },
+      {
+        "subtitulo": "Colaboração em projetos",
+        "texto": "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto.",
+        "dica": "Observe como escuta, organização e cooperação fortalecem os resultados."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um grupo que cria uma ação para melhorar um espaço da escola.",
+        "passos": [
+          "Identifique o problema a ser resolvido.",
+          "Organize ideias, funções e etapas de execução.",
+          "Perceba a importância da colaboração para alcançar o objetivo."
+        ],
+        "resposta": "Esse exemplo mostra como iniciativa e trabalho coletivo podem transformar a realidade ao redor."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Projetos, iniciativa e colaboração\".",
+        "passos": [
+          "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas",
+          "A colaboração fortalece a resolução de desafios coletivos",
+          "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade"
+        ],
+        "resposta": "Esse exemplo mostra como Projetos, iniciativa e colaboração pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Projetos, iniciativa e colaboração\".",
+        "passos": [
+          "A colaboração fortalece a resolução de desafios coletivos",
+          "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+          "Iniciativa com propósito"
+        ],
+        "resposta": "Esse exemplo mostra como Projetos, iniciativa e colaboração pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Projetos, iniciativa e colaboração\".",
+        "passos": [
+          "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+          "Iniciativa com propósito",
+          "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento"
+        ],
+        "resposta": "Esse exemplo mostra como Projetos, iniciativa e colaboração pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Projetos, iniciativa e colaboração\".",
+        "passos": [
+          "Iniciativa com propósito",
+          "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento",
+          "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido"
+        ],
+        "resposta": "Esse exemplo mostra como Projetos, iniciativa e colaboração pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-ex-01",
+        "enunciado": "Ter iniciativa em um projeto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "propor ações com responsabilidade",
+          "esperar sempre que outra pessoa decida tudo",
+          "agir sem objetivo algum",
+          "evitar qualquer participação"
+        ],
+        "respostaCorreta": "propor ações com responsabilidade",
+        "explicacao": "A iniciativa envolve perceber necessidades e agir de forma planejada e consciente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-ex-02",
+        "enunciado": "A colaboração em projetos ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "construir soluções em conjunto",
+          "eliminar o diálogo entre os participantes",
+          "dispensar o planejamento",
+          "substituir o objetivo por improviso"
+        ],
+        "respostaCorreta": "construir soluções em conjunto",
+        "explicacao": "A colaboração fortalece a qualidade das decisões e das ações desenvolvidas pelo grupo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos funcionam melhor quando há organização e objetivo comum.",
+          "Todo projeto dispensa divisão de tarefas.",
+          "Colaboração significa apenas obedecer sem pensar.",
+          "Iniciativa é agir sem analisar a realidade."
+        ],
+        "respostaCorreta": "Projetos funcionam melhor quando há organização e objetivo comum.",
+        "explicacao": "Objetivo claro, planejamento e colaboração ajudam a tornar a ação mais consistente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver protagonismo com responsabilidade",
+          "evitar participação em ações coletivas",
+          "agir sem planejamento",
+          "reduzir projetos a tarefas sem sentido"
+        ],
+        "respostaCorreta": "desenvolver protagonismo com responsabilidade",
+        "explicacao": "O conteúdo fortalece iniciativa, cooperação e compromisso com objetivos coletivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A colaboração fortalece a resolução de desafios coletivos"
+        ],
+        "respostaCorreta": "A colaboração fortalece a resolução de desafios coletivos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto"
+        ],
+        "respostaCorreta": "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como escuta, organização e cooperação fortalecem os resultados",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como escuta, organização e cooperação fortalecem os resultados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo que cria uma ação para melhorar um espaço da escola",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine um grupo que cria uma ação para melhorar um espaço da escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como iniciativa e trabalho coletivo podem transformar a realidade ao redor",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como iniciativa e trabalho coletivo podem transformar a realidade ao redor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o problema a ser resolvido"
+        ],
+        "respostaCorreta": "Identifique o problema a ser resolvido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Organize ideias, funções e etapas de execução",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Organize ideias, funções e etapas de execução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba a importância da colaboração para alcançar o objetivo",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Perceba a importância da colaboração para alcançar o objetivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Projetos exigem organização, iniciativa e cooperação entre as pessoas envolvidas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A colaboração fortalece a resolução de desafios coletivos"
+        ],
+        "respostaCorreta": "A colaboração fortalece a resolução de desafios coletivos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que projetos dependem de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "iniciativa, organização e colaboração",
+          "improviso contínuo sem objetivo",
+          "ausência de diálogo entre participantes",
+          "ações isoladas sem responsabilidade"
+        ],
+        "respostaCorreta": "iniciativa, organização e colaboração",
+        "explicacao": "Projetos bem conduzidos exigem propósito, cooperação e participação responsável.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver protagonismo com responsabilidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento"
+        ],
+        "respostaCorreta": "Ter iniciativa significa identificar necessidades, propor soluções e agir com responsabilidade. Em projetos escolares e sociais, essa postura pode gerar melhorias concretas quando há planejamento e comprometimento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense em iniciativas que façam sentido para o contexto e para o grupo envolvido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Projetos coletivos funcionam melhor quando as tarefas são distribuídas com clareza e todos compreendem o objetivo comum. Colaborar não é apenas dividir tarefas, mas construir soluções em conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como escuta, organização e cooperação fortalecem os resultados",
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como escuta, organização e cooperação fortalecem os resultados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-projetos-iniciativa-colaboracao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de projetos, iniciativa e colaboração se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Projetos, iniciativa e colaboração pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com projetos, iniciativa e colaboração dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um grupo que cria uma ação para melhorar um espaço da escola"
+        ],
+        "respostaCorreta": "Imagine um grupo que cria uma ação para melhorar um espaço da escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Projetos, iniciativa e colaboração, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

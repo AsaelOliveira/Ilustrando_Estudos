@@ -30,16 +30,397 @@
           "Perceba que o processo envolve disputas internas e externas."
         ],
         "resposta": "Esse exemplo ajuda a compreender a lógica histórica da descolonização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Descolonização na África e na Ásia\".",
+        "passos": [
+          "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia",
+          "Esses movimentos estiveram ligados a disputas políticas, econômicas e culturais no século XX",
+          "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia"
+        ],
+        "resposta": "Esse exemplo mostra como Descolonização na África e na Ásia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Descolonização na África e na Ásia\".",
+        "passos": [
+          "Esses movimentos estiveram ligados a disputas políticas, econômicas e culturais no século XX",
+          "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+          "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX"
+        ],
+        "resposta": "Esse exemplo mostra como Descolonização na África e na Ásia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Descolonização na África e na Ásia\".",
+        "passos": [
+          "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+          "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX",
+          "Observe que a independência não aconteceu de forma igual em todos os países"
+        ],
+        "resposta": "Esse exemplo mostra como Descolonização na África e na Ásia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Descolonização na África e na Ásia\".",
+        "passos": [
+          "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX",
+          "Observe que a independência não aconteceu de forma igual em todos os países",
+          "Lutas por independência"
+        ],
+        "resposta": "Esse exemplo mostra como Descolonização na África e na Ásia pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-descolonizacao-africa-asia-ex-01","enunciado":"A descolonização está relacionada a:","tipo":"multipla_escolha","alternativas":["processos de luta e independência contra o domínio colonial","expansão do colonialismo sobre novos territórios","eliminação de toda disputa política no século XX","formação de impérios coloniais sem resistência"],"respostaCorreta":"processos de luta e independência contra o domínio colonial","explicacao":"A descolonização marca movimentos que buscaram autonomia política em territórios colonizados.","dificuldade":"facil"},
-      {"id":"hist9-descolonizacao-africa-asia-ex-02","enunciado":"Os processos de descolonização alteraram:","tipo":"multipla_escolha","alternativas":["relações políticas e posição internacional de diversos países","apenas a ortografia de documentos históricos","somente a paisagem natural sem qualquer mudança política","unicamente o clima das regiões envolvidas"],"respostaCorreta":"relações políticas e posição internacional de diversos países","explicacao":"A independência modificou fronteiras políticas, relações de poder e debates sobre soberania.","dificuldade":"facil"},
-      {"id":"hist9-descolonizacao-africa-asia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.","Todos os processos de independência foram idênticos.","A descolonização não interfere no mundo contemporâneo.","Esse tema não se relaciona à história política do século XX."],"respostaCorreta":"A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.","explicacao":"Os processos ocorreram de formas diferentes, mas em todos houve disputa por soberania e reorganização política.","dificuldade":"medio"},
-      {"id":"hist9-descolonizacao-africa-asia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender a luta por independência e a reorganização do mundo contemporâneo","achar que o colonialismo terminou sem resistência","ignorar o papel político dos povos colonizados","separar autonomia política de história global"],"respostaCorreta":"compreender a luta por independência e a reorganização do mundo contemporâneo","explicacao":"O conteúdo mostra como esses movimentos influenciaram a política internacional e a história do século XX.","dificuldade":"medio"}
+      {
+        "id": "hist9-descolonizacao-africa-asia-ex-01",
+        "enunciado": "A descolonização está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "processos de luta e independência contra o domínio colonial",
+          "expansão do colonialismo sobre novos territórios",
+          "eliminação de toda disputa política no século XX",
+          "formação de impérios coloniais sem resistência"
+        ],
+        "respostaCorreta": "processos de luta e independência contra o domínio colonial",
+        "explicacao": "A descolonização marca movimentos que buscaram autonomia política em territórios colonizados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-ex-02",
+        "enunciado": "Os processos de descolonização alteraram:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações políticas e posição internacional de diversos países",
+          "apenas a ortografia de documentos históricos",
+          "somente a paisagem natural sem qualquer mudança política",
+          "unicamente o clima das regiões envolvidas"
+        ],
+        "respostaCorreta": "relações políticas e posição internacional de diversos países",
+        "explicacao": "A independência modificou fronteiras políticas, relações de poder e debates sobre soberania.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.",
+          "Todos os processos de independência foram idênticos.",
+          "A descolonização não interfere no mundo contemporâneo.",
+          "Esse tema não se relaciona à história política do século XX."
+        ],
+        "respostaCorreta": "A descolonização precisa ser analisada considerando contextos distintos e lutas por autonomia.",
+        "explicacao": "Os processos ocorreram de formas diferentes, mas em todos houve disputa por soberania e reorganização política.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender a luta por independência e a reorganização do mundo contemporâneo",
+          "achar que o colonialismo terminou sem resistência",
+          "ignorar o papel político dos povos colonizados",
+          "separar autonomia política de história global"
+        ],
+        "respostaCorreta": "compreender a luta por independência e a reorganização do mundo contemporâneo",
+        "explicacao": "O conteúdo mostra como esses movimentos influenciaram a política internacional e a história do século XX.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Descolonização na África e na Ásia\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-02",
+        "enunciado": "Ao estudar \"Descolonização na África e na Ásia\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esses movimentos estiveram ligados a disputas políticas, econômicas e culturais no século XX"
+        ],
+        "respostaCorreta": "Esses movimentos estiveram ligados a disputas políticas, econômicas e culturais no século XX",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-05",
+        "enunciado": "No contexto de \"Descolonização na África e na Ásia\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que a independência não aconteceu de forma igual em todos os países",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe que a independência não aconteceu de forma igual em todos os países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-06",
+        "enunciado": "O estudo de \"Descolonização na África e na Ásia\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender lutas por independência"
+        ],
+        "respostaCorreta": "compreender lutas por independência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Os processos de descolonização alteraram fronteiras políticas, relações de poder e debates sobre identidade, soberania e desenvolvimento. Por isso, seu estudo é fundamental para compreender o mundo pós-colonial",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Os processos de descolonização alteraram fronteiras políticas, relações de poder e debates sobre identidade, soberania e desenvolvimento. Por isso, seu estudo é fundamental para compreender o mundo pós-colonial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como a independência mudou a posição desses países no cenário internacional",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como a independência mudou a posição desses países no cenário internacional",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender impactos históricos e políticos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender impactos históricos e políticos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um território que passa por mobilização política contra o domínio colonial e luta pela independência"
+        ],
+        "respostaCorreta": "Considere um território que passa por mobilização política contra o domínio colonial e luta pela independência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Descolonização na África e na Ásia\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a lógica histórica da descolonização",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a lógica histórica da descolonização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-12",
+        "enunciado": "Ao estudar \"Descolonização na África e na Ásia\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a busca por autonomia política",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a busca por autonomia política",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que o processo envolve disputas internas e externas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que o processo envolve disputas internas e externas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia"
+        ],
+        "respostaCorreta": "A descolonização marcou processos de luta e independência em diferentes países da África e da Ásia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-descolonizacao-africa-asia-sim-01","enunciado":"A principal ideia desse tema é compreender que a descolonização:","tipo":"multipla_escolha","alternativas":["envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo","foi um processo igual e simples em todos os países","não teve impacto no cenário internacional","aconteceu sem disputas e sem mobilização política"],"respostaCorreta":"envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo","explicacao":"A descolonização foi um processo histórico amplo que redefiniu territórios, relações políticas e soberanias.","dificuldade":"medio"}
+      {
+        "id": "hist9-descolonizacao-africa-asia-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a descolonização:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo",
+          "foi um processo igual e simples em todos os países",
+          "não teve impacto no cenário internacional",
+          "aconteceu sem disputas e sem mobilização política"
+        ],
+        "respostaCorreta": "envolveu lutas por autonomia e modificou a organização política do mundo contemporâneo",
+        "explicacao": "A descolonização foi um processo histórico amplo que redefiniu territórios, relações políticas e soberanias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Descolonização na África e na Ásia\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender a reorganização do mundo contemporâneo e a luta por autonomia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Descolonização na África e na Ásia\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX"
+        ],
+        "respostaCorreta": "A descolonização envolveu movimentos que questionaram o domínio colonial e buscaram autonomia política em diferentes territórios. Esses processos ocorreram em contextos específicos, mas também dialogaram com mudanças globais do século XX",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe que a independência não aconteceu de forma igual em todos os países",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe que a independência não aconteceu de forma igual em todos os países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Descolonização na África e na Ásia\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender lutas por independência",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender lutas por independência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os processos de descolonização alteraram fronteiras políticas, relações de poder e debates sobre identidade, soberania e desenvolvimento. Por isso, seu estudo é fundamental para compreender o mundo pós-colonial",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Os processos de descolonização alteraram fronteiras políticas, relações de poder e debates sobre identidade, soberania e desenvolvimento. Por isso, seu estudo é fundamental para compreender o mundo pós-colonial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-descolonizacao-africa-asia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como a independência mudou a posição desses países no cenário internacional"
+        ],
+        "respostaCorreta": "Pergunte como a independência mudou a posição desses países no cenário internacional",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Descolonização na África e na Ásia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -31,16 +31,397 @@
           "Relaciona esa estructura con otras formas de argumentar."
         ],
         "resposta": "Este ejemplo muestra que el español también puede ser usado para defender ideas sobre temas actuales."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Argumentos y temas actuales\".",
+        "passos": [
+          "La lengua puede ser usada para opinar y argumentar sobre temas del presente",
+          "Aprender estructuras simples de argumentación fortalece la expresión oral y escrita",
+          "Este tema aproxima el español a debates e interacciones contemporáneas"
+        ],
+        "resposta": "Esse exemplo mostra como Argumentos y temas actuales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Argumentos y temas actuales\".",
+        "passos": [
+          "Aprender estructuras simples de argumentación fortalece la expresión oral y escrita",
+          "Este tema aproxima el español a debates e interacciones contemporáneas",
+          "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa"
+        ],
+        "resposta": "Esse exemplo mostra como Argumentos y temas actuales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Argumentos y temas actuales\".",
+        "passos": [
+          "Este tema aproxima el español a debates e interacciones contemporáneas",
+          "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa",
+          "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes"
+        ],
+        "resposta": "Esse exemplo mostra como Argumentos y temas actuales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Argumentos y temas actuales\".",
+        "passos": [
+          "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa",
+          "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes",
+          "Opinar con más claridad"
+        ],
+        "resposta": "Esse exemplo mostra como Argumentos y temas actuales pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"esp9-argumentos-temas-actuales-ex-01","enunciado":"Argumentar significa:","tipo":"multipla_escolha","alternativas":["presentar razones para sostener una idea","decir palabras sin relación","evitar cualquier opinión","solo repetir una frase"],"respostaCorreta":"presentar razones para sostener una idea","explicacao":"Argumentar implica defender un punto de vista con justificaciones.","dificuldade":"facil"},
-      {"id":"esp9-argumentos-temas-actuales-ex-02","enunciado":"Hablar de temas actuales en español ayuda a:","tipo":"multipla_escolha","alternativas":["usar la lengua en contextos más significativos","memorizar vocabulario sin sentido","separar idioma y realidad","evitar la comunicación real"],"respostaCorreta":"usar la lengua en contextos más significativos","explicacao":"Los temas actuales acercan el idioma a experiencias y debates concretos.","dificuldade":"facil"},
-      {"id":"esp9-argumentos-temas-actuales-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Dar razones fortalece la expresión de opiniones.","Opinar no tiene relación con la comunicación.","Los temas actuales no sirven para aprender lengua.","Argumentar significa evitar toda justificación."],"respostaCorreta":"Dar razones fortalece la expresión de opiniones.","explicacao":"La argumentación mejora la claridad y la fuerza comunicativa del mensaje.","dificuldade":"medio"},
-      {"id":"esp9-argumentos-temas-actuales-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar el español para opinar y argumentar sobre cuestiones actuales","aprender el idioma sin contexto alguno","evitar cualquier debate o interacción","reducir la lengua a listas de palabras"],"respostaCorreta":"usar el español para opinar y argumentar sobre cuestiones actuales","explicacao":"El contenido conecta lengua, expresión y temas contemporáneos de forma significativa.","dificuldade":"medio"}
+      {
+        "id": "esp9-argumentos-temas-actuales-ex-01",
+        "enunciado": "Argumentar significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "presentar razones para sostener una idea",
+          "decir palabras sin relación",
+          "evitar cualquier opinión",
+          "solo repetir una frase"
+        ],
+        "respostaCorreta": "presentar razones para sostener una idea",
+        "explicacao": "Argumentar implica defender un punto de vista con justificaciones.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-ex-02",
+        "enunciado": "Hablar de temas actuales en español ayuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar la lengua en contextos más significativos",
+          "memorizar vocabulario sin sentido",
+          "separar idioma y realidad",
+          "evitar la comunicación real"
+        ],
+        "respostaCorreta": "usar la lengua en contextos más significativos",
+        "explicacao": "Los temas actuales acercan el idioma a experiencias y debates concretos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-ex-03",
+        "enunciado": "¿Cuál afirmación es correcta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Dar razones fortalece la expresión de opiniones.",
+          "Opinar no tiene relación con la comunicación.",
+          "Los temas actuales no sirven para aprender lengua.",
+          "Argumentar significa evitar toda justificación."
+        ],
+        "respostaCorreta": "Dar razones fortalece la expresión de opiniones.",
+        "explicacao": "La argumentación mejora la claridad y la fuerza comunicativa del mensaje.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-ex-04",
+        "enunciado": "La idea principal del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar el español para opinar y argumentar sobre cuestiones actuales",
+          "aprender el idioma sin contexto alguno",
+          "evitar cualquier debate o interacción",
+          "reducir la lengua a listas de palabras"
+        ],
+        "respostaCorreta": "usar el español para opinar y argumentar sobre cuestiones actuales",
+        "explicacao": "El contenido conecta lengua, expresión y temas contemporáneos de forma significativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Argumentos y temas actuales\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La lengua puede ser usada para opinar y argumentar sobre temas del presente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "La lengua puede ser usada para opinar y argumentar sobre temas del presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-02",
+        "enunciado": "Ao estudar \"Argumentos y temas actuales\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Aprender estructuras simples de argumentación fortalece la expresión oral y escrita"
+        ],
+        "respostaCorreta": "Aprender estructuras simples de argumentación fortalece la expresión oral y escrita",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Este tema aproxima el español a debates e interacciones contemporáneas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Este tema aproxima el español a debates e interacciones contemporáneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-05",
+        "enunciado": "No contexto de \"Argumentos y temas actuales\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-06",
+        "enunciado": "O estudo de \"Argumentos y temas actuales\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender opinar con más claridad"
+        ],
+        "respostaCorreta": "compreender opinar con más claridad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Al hablar de tecnología, medio ambiente, convivencia o juventud, el estudiante usa el idioma en contextos más vivos y cercanos. Eso fortalece el aprendizaje y amplía la comprensión del español como lengua de interacción actual",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Al hablar de tecnología, medio ambiente, convivencia o juventud, el estudiante usa el idioma en contextos más vivos y cercanos. Eso fortalece el aprendizaje y amplía la comprensión del español como lengua de interacción actual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona el idioma con temas presentes en la escuela, en la sociedad y en los medios",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Relaciona el idioma con temas presentes en la escuela, en la sociedad y en los medios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender temas del presente y comunicación",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender temas del presente y comunicación",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lee un breve texto de opinión sobre el uso responsable de la tecnología"
+        ],
+        "respostaCorreta": "Lee un breve texto de opinión sobre el uso responsable de la tecnología",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Argumentos y temas actuales\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Este ejemplo muestra que el español también puede ser usado para defender ideas sobre temas actuales",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Este ejemplo muestra que el español también puede ser usado para defender ideas sobre temas actuales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-12",
+        "enunciado": "Ao estudar \"Argumentos y temas actuales\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifica la opinión principal",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifica la opinión principal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa una razón usada para sostenerla",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observa una razón usada para sostenerla",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona esa estructura con otras formas de argumentar"
+        ],
+        "respostaCorreta": "Relaciona esa estructura con otras formas de argumentar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"esp9-argumentos-temas-actuales-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["el español permite expresar opiniones y argumentos sobre el presente","argumentar no forma parte de la comunicación","los temas actuales no tienen valor en el aprendizaje","la lengua debe estudiarse sin uso social"],"respostaCorreta":"el español permite expresar opiniones y argumentos sobre el presente","explicacao":"El tema fortalece el uso del idioma en contextos vivos y comunicativos.","dificuldade":"medio"}
+      {
+        "id": "esp9-argumentos-temas-actuales-sim-01",
+        "enunciado": "La mejor síntesis del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "el español permite expresar opiniones y argumentos sobre el presente",
+          "argumentar no forma parte de la comunicación",
+          "los temas actuales no tienen valor en el aprendizaje",
+          "la lengua debe estudiarse sin uso social"
+        ],
+        "respostaCorreta": "el español permite expresar opiniones y argumentos sobre el presente",
+        "explicacao": "El tema fortalece el uso del idioma en contextos vivos y comunicativos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Argumentos y temas actuales\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Este tema aproxima el español a debates e interacciones contemporáneas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Este tema aproxima el español a debates e interacciones contemporáneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Argumentos y temas actuales\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa"
+        ],
+        "respostaCorreta": "Expresar opiniones en español puede ir más allá de frases básicas, incluyendo razones y ejemplos que ayuden a sostener una idea. Eso hace la comunicación más clara y significativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observa conectores y expresiones que sirven para introducir razones, ejemplos o contrastes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Argumentos y temas actuales\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender opinar con más claridad",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender opinar con más claridad",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Al hablar de tecnología, medio ambiente, convivencia o juventud, el estudiante usa el idioma en contextos más vivos y cercanos. Eso fortalece el aprendizaje y amplía la comprensión del español como lengua de interacción actual",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Al hablar de tecnología, medio ambiente, convivencia o juventud, el estudiante usa el idioma en contextos más vivos y cercanos. Eso fortalece el aprendizaje y amplía la comprensión del español como lengua de interacción actual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-argumentos-temas-actuales-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relaciona el idioma con temas presentes en la escuela, en la sociedad y en los medios"
+        ],
+        "respostaCorreta": "Relaciona el idioma con temas presentes en la escuela, en la sociedad y en los medios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Argumentos y temas actuales apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

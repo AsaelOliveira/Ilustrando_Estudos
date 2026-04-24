@@ -35,7 +35,7 @@ export function getStudyTips(_disciplinaId: string, acertoPct: number): string[]
   if (acertoPct < 40) {
     return [
       "Revise o tema quando o novo conteúdo for cadastrado.",
-      "Anote as d?vidas para organizar a pr?xima etapa de estudo.",
+      "Anote as dúvidas para organizar a próxima etapa de estudo.",
     ];
   }
 

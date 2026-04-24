@@ -1,0 +1,426 @@
+[
+  {
+    "id": "art8-cores-contrastes-composicao",
+    "titulo": "Cores, contrastes e composição",
+    "disciplinaId": "art8",
+    "turmaId": "8ano",
+    "unidade": "Artes visuais",
+    "resumo": [
+      "As cores influenciam sensações, atmosferas e significados nas imagens.",
+      "O contraste destaca elementos visuais e orienta o olhar do observador.",
+      "A composição organiza os elementos da obra para construir equilíbrio e expressão."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Uso expressivo das cores",
+        "texto": "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual.",
+        "dica": "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática."
+      },
+      {
+        "subtitulo": "Contraste e organização visual",
+        "texto": "O contraste pode ocorrer entre claro e escuro, quente e frio, grande e pequeno, entre outras relações visuais. Ele contribui para valorizar partes da obra e orientar a atenção do observador.",
+        "dica": "Pergunte quais elementos parecem chamar mais atenção e por quê."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Observe um cartaz com fundo escuro e letras amarelas em destaque.",
+        "passos": [
+          "Perceba a diferença entre as cores usadas.",
+          "Observe como o contraste ajuda a destacar a mensagem principal."
+        ],
+        "resposta": "Nesse caso, cor e contraste atuam juntos para fortalecer a composição visual."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Cores, contrastes e composição\".",
+        "passos": [
+          "As cores influenciam sensações, atmosferas e significados nas imagens",
+          "O contraste destaca elementos visuais e orienta o olhar do observador",
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão"
+        ],
+        "resposta": "Esse exemplo mostra como Cores, contrastes e composição pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Cores, contrastes e composição\".",
+        "passos": [
+          "O contraste destaca elementos visuais e orienta o olhar do observador",
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+          "Uso expressivo das cores"
+        ],
+        "resposta": "Esse exemplo mostra como Cores, contrastes e composição pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Cores, contrastes e composição\".",
+        "passos": [
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+          "Uso expressivo das cores",
+          "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual"
+        ],
+        "resposta": "Esse exemplo mostra como Cores, contrastes e composição pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Cores, contrastes e composição\".",
+        "passos": [
+          "Uso expressivo das cores",
+          "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual",
+          "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática"
+        ],
+        "resposta": "Esse exemplo mostra como Cores, contrastes e composição pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "art8-cores-contrastes-composicao-ex-01",
+        "enunciado": "As cores em uma imagem podem:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir sentidos e sensações",
+          "servir apenas de decoração sem função",
+          "eliminar a composição visual",
+          "substituir todas as formas da obra"
+        ],
+        "respostaCorreta": "produzir sentidos e sensações",
+        "explicacao": "As cores participam da construção expressiva da imagem e influenciam sua leitura.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-ex-02",
+        "enunciado": "O contraste visual ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "destacar elementos da obra",
+          "apagar os elementos principais",
+          "reduzir toda a expressividade da imagem",
+          "impedir a leitura visual"
+        ],
+        "respostaCorreta": "destacar elementos da obra",
+        "explicacao": "O contraste orienta o olhar e valoriza partes importantes da composição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A composição organiza os elementos visuais de maneira intencional.",
+          "A composição não interfere no sentido da imagem.",
+          "Toda imagem dispensa contraste e organização.",
+          "Cores e formas não se relacionam na obra visual."
+        ],
+        "respostaCorreta": "A composição organiza os elementos visuais de maneira intencional.",
+        "explicacao": "A composição visual ajuda a construir equilíbrio, destaque e sentido na obra.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-ex-04",
+        "enunciado": "Estudar cores, contrastes e composição ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar imagens com mais profundidade",
+          "ignorar a organização visual",
+          "trocar arte por leitura mecânica",
+          "pensar que toda imagem é feita ao acaso"
+        ],
+        "respostaCorreta": "interpretar imagens com mais profundidade",
+        "explicacao": "Esse conteúdo amplia a observação crítica e a compreensão dos efeitos visuais na arte.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As cores influenciam sensações, atmosferas e significados nas imagens",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As cores influenciam sensações, atmosferas e significados nas imagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O contraste destaca elementos visuais e orienta o olhar do observador"
+        ],
+        "respostaCorreta": "O contraste destaca elementos visuais e orienta o olhar do observador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O contraste pode ocorrer entre claro e escuro, quente e frio, grande e pequeno, entre outras relações visuais. Ele contribui para valorizar partes da obra e orientar a atenção do observador"
+        ],
+        "respostaCorreta": "O contraste pode ocorrer entre claro e escuro, quente e frio, grande e pequeno, entre outras relações visuais. Ele contribui para valorizar partes da obra e orientar a atenção do observador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte quais elementos parecem chamar mais atenção e por quê",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte quais elementos parecem chamar mais atenção e por quê",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um cartaz com fundo escuro e letras amarelas em destaque",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Observe um cartaz com fundo escuro e letras amarelas em destaque",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nesse caso, cor e contraste atuam juntos para fortalecer a composição visual",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nesse caso, cor e contraste atuam juntos para fortalecer a composição visual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba a diferença entre as cores usadas"
+        ],
+        "respostaCorreta": "Perceba a diferença entre as cores usadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como o contraste ajuda a destacar a mensagem principal",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como o contraste ajuda a destacar a mensagem principal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As cores influenciam sensações, atmosferas e significados nas imagens",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As cores influenciam sensações, atmosferas e significados nas imagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O contraste destaca elementos visuais e orienta o olhar do observador",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O contraste destaca elementos visuais e orienta o olhar do observador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão"
+        ],
+        "respostaCorreta": "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "art8-cores-contrastes-composicao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cores e contrastes organizam a leitura e a expressão da imagem",
+          "a arte depende apenas do tema escrito",
+          "os elementos visuais não têm função compositiva",
+          "toda imagem dispensa intenção estética"
+        ],
+        "respostaCorreta": "cores e contrastes organizam a leitura e a expressão da imagem",
+        "explicacao": "A análise visual mostra que cor, contraste e composição atuam juntos na construção do sentido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A composição organiza os elementos da obra para construir equilíbrio e expressão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual"
+        ],
+        "respostaCorreta": "As cores não aparecem apenas para enfeitar uma imagem. Elas ajudam a criar sentidos, destacar emoções e estabelecer relações entre os elementos da composição visual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se a escolha das cores torna a imagem mais calma, intensa, alegre ou dramática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O contraste pode ocorrer entre claro e escuro, quente e frio, grande e pequeno, entre outras relações visuais. Ele contribui para valorizar partes da obra e orientar a atenção do observador",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O contraste pode ocorrer entre claro e escuro, quente e frio, grande e pequeno, entre outras relações visuais. Ele contribui para valorizar partes da obra e orientar a atenção do observador",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte quais elementos parecem chamar mais atenção e por quê",
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte quais elementos parecem chamar mais atenção e por quê",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art8-cores-contrastes-composicao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de cores, contrastes e composição se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Cores, contrastes e composição pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com cores, contrastes e composição dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe um cartaz com fundo escuro e letras amarelas em destaque"
+        ],
+        "respostaCorreta": "Observe um cartaz com fundo escuro e letras amarelas em destaque",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Cores, contrastes e composição, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

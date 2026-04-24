@@ -1,0 +1,426 @@
+[
+  {
+    "id": "eti8-direitos-deveres-cidadania",
+    "titulo": "Direitos, deveres e cidadania",
+    "disciplinaId": "eti8",
+    "turmaId": "8ano",
+    "unidade": "Ética e vida coletiva",
+    "resumo": [
+      "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos.",
+      "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva.",
+      "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Direitos e deveres na convivência",
+        "texto": "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva.",
+        "dica": "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro."
+      },
+      {
+        "subtitulo": "Cidadania e participação",
+        "texto": "Ser cidadão envolve participar da sociedade com consciência, responsabilidade e respeito às regras democráticas. Isso inclui pensar no bem coletivo e agir de forma ética no cotidiano.",
+        "dica": "Pergunte de que modo pequenas atitudes mostram participação cidadã no dia a dia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma situação em que todos usam um espaço comum da escola.",
+        "passos": [
+          "Observe que todos têm direito de usar o espaço.",
+          "Perceba que também existe o dever de cuidar dele para o bem coletivo."
+        ],
+        "resposta": "Esse exemplo mostra a relação entre direitos, deveres e convivência cidadã."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Direitos, deveres e cidadania\".",
+        "passos": [
+          "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos",
+          "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva",
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos, deveres e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Direitos, deveres e cidadania\".",
+        "passos": [
+          "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva",
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+          "Direitos e deveres na convivência"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos, deveres e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Direitos, deveres e cidadania\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+          "Direitos e deveres na convivência",
+          "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos, deveres e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Direitos, deveres e cidadania\".",
+        "passos": [
+          "Direitos e deveres na convivência",
+          "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva",
+          "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos, deveres e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "eti8-direitos-deveres-cidadania-ex-01",
+        "enunciado": "Direitos e deveres ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar a vida em sociedade",
+          "eliminar toda responsabilidade coletiva",
+          "favorecer apenas interesses individuais",
+          "dispensar qualquer regra de convivência"
+        ],
+        "respostaCorreta": "organizar a vida em sociedade",
+        "explicacao": "Direitos e deveres contribuem para relações mais equilibradas e justas na coletividade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-ex-02",
+        "enunciado": "A cidadania envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participação responsável na vida coletiva",
+          "indiferença diante do bem comum",
+          "desinteresse por regras e convivência",
+          "isolamento completo da sociedade"
+        ],
+        "respostaCorreta": "participação responsável na vida coletiva",
+        "explicacao": "Ser cidadão envolve agir com consciência e responsabilidade em relação à sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Direitos e deveres se relacionam na construção da convivência democrática.",
+          "Cidadania não tem relação com responsabilidade.",
+          "O bem coletivo não deve ser considerado nas escolhas sociais.",
+          "Direitos existem sem qualquer limite ou reciprocidade."
+        ],
+        "respostaCorreta": "Direitos e deveres se relacionam na construção da convivência democrática.",
+        "explicacao": "A vida coletiva depende do equilíbrio entre garantias, responsabilidades e respeito mútuo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor sua participação ética na sociedade",
+          "ignorar o papel do bem comum",
+          "achar que cidadania é apenas um conteúdo teórico sem prática",
+          "separar convivência de responsabilidade"
+        ],
+        "respostaCorreta": "compreender melhor sua participação ética na sociedade",
+        "explicacao": "O conteúdo fortalece a reflexão sobre convivência, regras, participação e responsabilidade coletiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva"
+        ],
+        "respostaCorreta": "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ser cidadão envolve participar da sociedade com consciência, responsabilidade e respeito às regras democráticas. Isso inclui pensar no bem coletivo e agir de forma ética no cotidiano"
+        ],
+        "respostaCorreta": "Ser cidadão envolve participar da sociedade com consciência, responsabilidade e respeito às regras democráticas. Isso inclui pensar no bem coletivo e agir de forma ética no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte de que modo pequenas atitudes mostram participação cidadã no dia a dia",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte de que modo pequenas atitudes mostram participação cidadã no dia a dia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma situação em que todos usam um espaço comum da escola",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma situação em que todos usam um espaço comum da escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra a relação entre direitos, deveres e convivência cidadã",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a relação entre direitos, deveres e convivência cidadã",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que todos têm direito de usar o espaço"
+        ],
+        "respostaCorreta": "Observe que todos têm direito de usar o espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que também existe o dever de cuidar dele para o bem coletivo",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que também existe o dever de cuidar dele para o bem coletivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Viver em sociedade envolve direitos que precisam ser garantidos e deveres que precisam ser cumpridos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A cidadania se fortalece quando as pessoas participam com responsabilidade da vida coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "eti8-direitos-deveres-cidadania-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a cidadania:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolve direitos, deveres e participação responsável",
+          "dispensa regras de convivência",
+          "não tem relação com a vida coletiva",
+          "se resume a interesse individual"
+        ],
+        "respostaCorreta": "envolve direitos, deveres e participação responsável",
+        "explicacao": "A cidadania se constrói na relação entre garantias, responsabilidades e compromisso com a sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender melhor o papel de cada pessoa na sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva"
+        ],
+        "respostaCorreta": "Direitos e deveres não são ideias separadas. Eles ajudam a equilibrar a vida em sociedade, protegendo pessoas e organizando responsabilidades na convivência coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como o direito de uma pessoa se relaciona ao dever de respeitar o outro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ser cidadão envolve participar da sociedade com consciência, responsabilidade e respeito às regras democráticas. Isso inclui pensar no bem coletivo e agir de forma ética no cotidiano",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ser cidadão envolve participar da sociedade com consciência, responsabilidade e respeito às regras democráticas. Isso inclui pensar no bem coletivo e agir de forma ética no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte de que modo pequenas atitudes mostram participação cidadã no dia a dia",
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte de que modo pequenas atitudes mostram participação cidadã no dia a dia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti8-direitos-deveres-cidadania-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de direitos, deveres e cidadania se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Direitos, deveres e cidadania pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com direitos, deveres e cidadania dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma situação em que todos usam um espaço comum da escola"
+        ],
+        "respostaCorreta": "Pense em uma situação em que todos usam um espaço comum da escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Direitos, deveres e cidadania, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

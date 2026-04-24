@@ -30,16 +30,397 @@
           "Perceba os efeitos sobre circulação, trabalho e ambiente."
         ],
         "resposta": "Esse exemplo mostra como indústria e território se relacionam de forma direta."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Indústria, energia e território\".",
+        "passos": [
+          "A indústria e a produção de energia influenciam fortemente a organização do território",
+          "Essas atividades se relacionam a infraestrutura, circulação e uso de recursos naturais",
+          "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria, energia e território pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Indústria, energia e território\".",
+        "passos": [
+          "Essas atividades se relacionam a infraestrutura, circulação e uso de recursos naturais",
+          "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+          "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria, energia e território pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Indústria, energia e território\".",
+        "passos": [
+          "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+          "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa",
+          "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria, energia e território pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Indústria, energia e território\".",
+        "passos": [
+          "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa",
+          "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas",
+          "Produção e organização espacial"
+        ],
+        "resposta": "Esse exemplo mostra como Indústria, energia e território pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-industria-energia-territorio-ex-01","enunciado":"A indústria pode influenciar o território por meio de:","tipo":"multipla_escolha","alternativas":["empregos, infraestrutura e circulação","apenas mudanças no vocabulário","somente fenômenos literários","eliminação total do uso de recursos"],"respostaCorreta":"empregos, infraestrutura e circulação","explicacao":"A atividade industrial interfere na organização espacial e na dinâmica econômica dos lugares.","dificuldade":"facil"},
-      {"id":"geo9-industria-energia-territorio-ex-02","enunciado":"A produção de energia está relacionada a:","tipo":"multipla_escolha","alternativas":["uso de recursos e organização do espaço","apenas atividades sem impacto territorial","ausência de infraestrutura","somente decisões linguísticas"],"respostaCorreta":"uso de recursos e organização do espaço","explicacao":"A energia depende de recursos, técnicas e infraestrutura que afetam o território.","dificuldade":"facil"},
-      {"id":"geo9-industria-energia-territorio-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.","Essas atividades não têm relação com o espaço geográfico.","Produção industrial não depende de infraestrutura.","Energia e território não se conectam."],"respostaCorreta":"Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.","explicacao":"O tema mostra como economia, recursos e território se articulam de forma complexa.","dificuldade":"medio"},
-      {"id":"geo9-industria-energia-territorio-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar relações entre produção, recursos e território","pensar que economia e espaço não se conectam","ignorar impactos ambientais da produção","reduzir a geografia a localização de capitais"],"respostaCorreta":"interpretar relações entre produção, recursos e território","explicacao":"O conteúdo amplia a leitura crítica sobre desenvolvimento econômico e organização espacial.","dificuldade":"medio"}
+      {
+        "id": "geo9-industria-energia-territorio-ex-01",
+        "enunciado": "A indústria pode influenciar o território por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "empregos, infraestrutura e circulação",
+          "apenas mudanças no vocabulário",
+          "somente fenômenos literários",
+          "eliminação total do uso de recursos"
+        ],
+        "respostaCorreta": "empregos, infraestrutura e circulação",
+        "explicacao": "A atividade industrial interfere na organização espacial e na dinâmica econômica dos lugares.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-ex-02",
+        "enunciado": "A produção de energia está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uso de recursos e organização do espaço",
+          "apenas atividades sem impacto territorial",
+          "ausência de infraestrutura",
+          "somente decisões linguísticas"
+        ],
+        "respostaCorreta": "uso de recursos e organização do espaço",
+        "explicacao": "A energia depende de recursos, técnicas e infraestrutura que afetam o território.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.",
+          "Essas atividades não têm relação com o espaço geográfico.",
+          "Produção industrial não depende de infraestrutura.",
+          "Energia e território não se conectam."
+        ],
+        "respostaCorreta": "Indústria e energia influenciam desenvolvimento, impactos e desigualdades territoriais.",
+        "explicacao": "O tema mostra como economia, recursos e território se articulam de forma complexa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar relações entre produção, recursos e território",
+          "pensar que economia e espaço não se conectam",
+          "ignorar impactos ambientais da produção",
+          "reduzir a geografia a localização de capitais"
+        ],
+        "respostaCorreta": "interpretar relações entre produção, recursos e território",
+        "explicacao": "O conteúdo amplia a leitura crítica sobre desenvolvimento econômico e organização espacial.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Indústria, energia e território\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A indústria e a produção de energia influenciam fortemente a organização do território",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A indústria e a produção de energia influenciam fortemente a organização do território",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-02",
+        "enunciado": "Ao estudar \"Indústria, energia e território\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Essas atividades se relacionam a infraestrutura, circulação e uso de recursos naturais"
+        ],
+        "respostaCorreta": "Essas atividades se relacionam a infraestrutura, circulação e uso de recursos naturais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-05",
+        "enunciado": "No contexto de \"Indústria, energia e território\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-06",
+        "enunciado": "O estudo de \"Indústria, energia e território\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender produção e organização espacial"
+        ],
+        "respostaCorreta": "compreender produção e organização espacial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A produção industrial e energética também envolve uso de recursos naturais e pode gerar impactos ambientais e sociais. Esse olhar ajuda a interpretar o espaço geográfico de modo mais crítico",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A produção industrial e energética também envolve uso de recursos naturais e pode gerar impactos ambientais e sociais. Esse olhar ajuda a interpretar o espaço geográfico de modo mais crítico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como o desenvolvimento econômico se articula a questões ambientais e territoriais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como o desenvolvimento econômico se articula a questões ambientais e territoriais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender impactos e recursos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender impactos e recursos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em uma região onde a instalação de indústrias atrai infraestrutura e altera o uso do espaço"
+        ],
+        "respostaCorreta": "Pense em uma região onde a instalação de indústrias atrai infraestrutura e altera o uso do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Indústria, energia e território\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como indústria e território se relacionam de forma direta",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como indústria e território se relacionam de forma direta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-12",
+        "enunciado": "Ao estudar \"Indústria, energia e território\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a mudança na dinâmica econômica da área",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a mudança na dinâmica econômica da área",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba os efeitos sobre circulação, trabalho e ambiente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba os efeitos sobre circulação, trabalho e ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A indústria e a produção de energia influenciam fortemente a organização do território"
+        ],
+        "respostaCorreta": "A indústria e a produção de energia influenciam fortemente a organização do território",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-industria-energia-territorio-sim-01","enunciado":"A principal ideia desse tema é compreender que indústria e energia:","tipo":"multipla_escolha","alternativas":["transformam o território e se relacionam a infraestrutura, recursos e impactos","não interferem na organização espacial","existem sem depender de recursos naturais","não produzem efeitos sociais e ambientais"],"respostaCorreta":"transformam o território e se relacionam a infraestrutura, recursos e impactos","explicacao":"A produção industrial e energética faz parte da dinâmica espacial, econômica e ambiental do mundo contemporâneo.","dificuldade":"medio"}
+      {
+        "id": "geo9-industria-energia-territorio-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que indústria e energia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformam o território e se relacionam a infraestrutura, recursos e impactos",
+          "não interferem na organização espacial",
+          "existem sem depender de recursos naturais",
+          "não produzem efeitos sociais e ambientais"
+        ],
+        "respostaCorreta": "transformam o território e se relacionam a infraestrutura, recursos e impactos",
+        "explicacao": "A produção industrial e energética faz parte da dinâmica espacial, econômica e ambiental do mundo contemporâneo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Indústria, energia e território\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender desenvolvimento, impactos e desigualdades espaciais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Indústria, energia e território\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa"
+        ],
+        "respostaCorreta": "A localização das indústrias e das fontes de energia interfere na distribuição de empregos, investimentos, infraestrutura e circulação de mercadorias. Por isso, economia e território se relacionam de forma intensa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como áreas com mais infraestrutura tendem a concentrar atividades produtivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Indústria, energia e território\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender produção e organização espacial",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender produção e organização espacial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A produção industrial e energética também envolve uso de recursos naturais e pode gerar impactos ambientais e sociais. Esse olhar ajuda a interpretar o espaço geográfico de modo mais crítico",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A produção industrial e energética também envolve uso de recursos naturais e pode gerar impactos ambientais e sociais. Esse olhar ajuda a interpretar o espaço geográfico de modo mais crítico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-industria-energia-territorio-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como o desenvolvimento econômico se articula a questões ambientais e territoriais"
+        ],
+        "respostaCorreta": "Pergunte como o desenvolvimento econômico se articula a questões ambientais e territoriais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Indústria, energia e território apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

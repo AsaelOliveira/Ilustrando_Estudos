@@ -1,0 +1,426 @@
+[
+  {
+    "id": "ing8-school-places-instructions",
+    "titulo": "School places and simple instructions",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about school places helps students describe spaces from everyday life in English.",
+      "Simple instructions support communication in routines and classroom situations.",
+      "This topic makes language use more practical and contextualized."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Vocabulary for school spaces",
+        "texto": "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication.",
+        "dica": "Connect the words to the real places you know in your school."
+      },
+      {
+        "subtitulo": "Simple instructions",
+        "texto": "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction.",
+        "dica": "Practice short instructions together with place vocabulary."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'Go to the library and wait near the door.'",
+        "passos": [
+          "Identify the place mentioned in the sentence.",
+          "Observe the simple instruction being given."
+        ],
+        "resposta": "This is an example of practical communication using place vocabulary and instructions."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"School places and simple instructions\".",
+        "passos": [
+          "Talking about school places helps students describe spaces from everyday life in English",
+          "Simple instructions support communication in routines and classroom situations",
+          "This topic makes language use more practical and contextualized"
+        ],
+        "resposta": "Esse exemplo mostra como School places and simple instructions pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"School places and simple instructions\".",
+        "passos": [
+          "Simple instructions support communication in routines and classroom situations",
+          "This topic makes language use more practical and contextualized",
+          "Vocabulary for school spaces"
+        ],
+        "resposta": "Esse exemplo mostra como School places and simple instructions pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"School places and simple instructions\".",
+        "passos": [
+          "This topic makes language use more practical and contextualized",
+          "Vocabulary for school spaces",
+          "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication"
+        ],
+        "resposta": "Esse exemplo mostra como School places and simple instructions pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"School places and simple instructions\".",
+        "passos": [
+          "Vocabulary for school spaces",
+          "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication",
+          "Connect the words to the real places you know in your school"
+        ],
+        "resposta": "Esse exemplo mostra como School places and simple instructions pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "ing8-school-places-instructions-ex-01",
+        "enunciado": "Place vocabulary helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talk about familiar spaces in English",
+          "avoid all classroom communication",
+          "replace language with gestures only",
+          "ignore everyday contexts"
+        ],
+        "respostaCorreta": "talk about familiar spaces in English",
+        "explicacao": "Knowing place vocabulary supports simple and useful communication about everyday environments.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-ex-02",
+        "enunciado": "Simple instructions are important because they:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "help students understand and act in routine situations",
+          "eliminate the need for communication",
+          "replace all vocabulary learning",
+          "make interaction impossible"
+        ],
+        "respostaCorreta": "help students understand and act in routine situations",
+        "explicacao": "Instructions are part of practical communication in school and daily life.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Place words and simple instructions make communication more practical.",
+          "This topic has no relation to everyday life.",
+          "Students cannot understand simple directions in English.",
+          "School vocabulary is not useful in real situations."
+        ],
+        "respostaCorreta": "Place words and simple instructions make communication more practical.",
+        "explicacao": "This content connects language learning to real and familiar contexts.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-ex-04",
+        "enunciado": "Studying this topic helps the student:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "use English in routine spaces and actions with more confidence",
+          "avoid all communication in school contexts",
+          "ignore place vocabulary",
+          "replace interaction with memorization only"
+        ],
+        "respostaCorreta": "use English in routine spaces and actions with more confidence",
+        "explicacao": "The topic supports functional language use in familiar environments.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Talking about school places helps students describe spaces from everyday life in English",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Talking about school places helps students describe spaces from everyday life in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Simple instructions support communication in routines and classroom situations"
+        ],
+        "respostaCorreta": "Simple instructions support communication in routines and classroom situations",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "This topic makes language use more practical and contextualized",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "This topic makes language use more practical and contextualized",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Connect the words to the real places you know in your school",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Connect the words to the real places you know in your school",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction"
+        ],
+        "respostaCorreta": "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Practice short instructions together with place vocabulary",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Practice short instructions together with place vocabulary",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'Go to the library and wait near the door.'",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Read: 'Go to the library and wait near the door.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This is an example of practical communication using place vocabulary and instructions",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This is an example of practical communication using place vocabulary and instructions",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identify the place mentioned in the sentence"
+        ],
+        "respostaCorreta": "Identify the place mentioned in the sentence",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe the simple instruction being given",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe the simple instruction being given",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Talking about school places helps students describe spaces from everyday life in English",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Talking about school places helps students describe spaces from everyday life in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Simple instructions support communication in routines and classroom situations",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Simple instructions support communication in routines and classroom situations",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "This topic makes language use more practical and contextualized"
+        ],
+        "respostaCorreta": "This topic makes language use more practical and contextualized",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "ing8-school-places-instructions-sim-01",
+        "enunciado": "The main idea of this topic is that students can:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "communicate more clearly about places and simple actions in English",
+          "stop using complete sentences",
+          "avoid school-related vocabulary",
+          "replace all instructions with silence"
+        ],
+        "respostaCorreta": "communicate more clearly about places and simple actions in English",
+        "explicacao": "This content helps students use English in practical, familiar situations. ",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic makes language use more practical and contextualized",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This topic makes language use more practical and contextualized",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication"
+        ],
+        "respostaCorreta": "Words such as classroom, library, cafeteria, corridor and playground help students identify and talk about familiar places. This vocabulary is useful in everyday school communication",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Connect the words to the real places you know in your school",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Connect the words to the real places you know in your school",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Understanding simple instructions helps students follow routines, ask for help and move around spaces more confidently. Clear commands and location expressions are part of basic interaction",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Practice short instructions together with place vocabulary",
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Practice short instructions together with place vocabulary",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-school-places-instructions-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de school places and simple instructions se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "School places and simple instructions pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com school places and simple instructions dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'Go to the library and wait near the door.'"
+        ],
+        "respostaCorreta": "Read: 'Go to the library and wait near the door.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em School places and simple instructions, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

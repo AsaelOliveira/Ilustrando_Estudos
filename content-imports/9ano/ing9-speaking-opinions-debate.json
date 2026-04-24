@@ -31,16 +31,397 @@
           "Think of a respectful way to agree or disagree."
         ],
         "resposta": "This example shows how oral English can be used for interaction and debate in real situations."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Speaking, opinions and debate\".",
+        "passos": [
+          "Speaking in English can involve expressing opinions, agreeing and disagreeing respectfully",
+          "Debate situations help students organize ideas and use language more actively",
+          "This topic strengthens oral communication in meaningful contexts"
+        ],
+        "resposta": "Esse exemplo mostra como Speaking, opinions and debate pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Speaking, opinions and debate\".",
+        "passos": [
+          "Debate situations help students organize ideas and use language more actively",
+          "This topic strengthens oral communication in meaningful contexts",
+          "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills"
+        ],
+        "resposta": "Esse exemplo mostra como Speaking, opinions and debate pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Speaking, opinions and debate\".",
+        "passos": [
+          "This topic strengthens oral communication in meaningful contexts",
+          "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills",
+          "Use short structures first, then add reasons to support what you say"
+        ],
+        "resposta": "Esse exemplo mostra como Speaking, opinions and debate pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Speaking, opinions and debate\".",
+        "passos": [
+          "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills",
+          "Use short structures first, then add reasons to support what you say",
+          "Expressing ideas orally"
+        ],
+        "resposta": "Esse exemplo mostra como Speaking, opinions and debate pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"ing9-speaking-opinions-debate-ex-01","enunciado":"To express an opinion in English, a student can use:","tipo":"multipla_escolha","alternativas":["I think","Triangle is blue","Run the notebook","Table of clouds"],"respostaCorreta":"I think","explicacao":"'I think' is a simple and common expression to introduce an opinion.","dificuldade":"facil"},
-      {"id":"ing9-speaking-opinions-debate-ex-02","enunciado":"A debate situation can help students:","tipo":"multipla_escolha","alternativas":["organize ideas and respond to others","avoid all interaction","ignore different opinions","speak without listening"],"respostaCorreta":"organize ideas and respond to others","explicacao":"Debate encourages participation, listening and oral expression with purpose.","dificuldade":"facil"},
-      {"id":"ing9-speaking-opinions-debate-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Respectful disagreement is part of communication.","Debate means speaking without listening.","Opinions are not useful in oral English.","Interaction prevents language learning."],"respostaCorreta":"Respectful disagreement is part of communication.","explicacao":"Communication includes listening, responding and expressing differences with respect.","dificuldade":"medio"},
-      {"id":"ing9-speaking-opinions-debate-ex-04","enunciado":"Studying this topic helps students:","tipo":"multipla_escolha","alternativas":["use English more actively in oral interaction","avoid real communication situations","separate language from dialogue","ignore the importance of listening"],"respostaCorreta":"use English more actively in oral interaction","explicacao":"The topic connects speaking, listening and participation in meaningful contexts.","dificuldade":"medio"}
+      {
+        "id": "ing9-speaking-opinions-debate-ex-01",
+        "enunciado": "To express an opinion in English, a student can use:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "I think",
+          "Triangle is blue",
+          "Run the notebook",
+          "Table of clouds"
+        ],
+        "respostaCorreta": "I think",
+        "explicacao": "'I think' is a simple and common expression to introduce an opinion.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-ex-02",
+        "enunciado": "A debate situation can help students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organize ideas and respond to others",
+          "avoid all interaction",
+          "ignore different opinions",
+          "speak without listening"
+        ],
+        "respostaCorreta": "organize ideas and respond to others",
+        "explicacao": "Debate encourages participation, listening and oral expression with purpose.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Respectful disagreement is part of communication.",
+          "Debate means speaking without listening.",
+          "Opinions are not useful in oral English.",
+          "Interaction prevents language learning."
+        ],
+        "respostaCorreta": "Respectful disagreement is part of communication.",
+        "explicacao": "Communication includes listening, responding and expressing differences with respect.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-ex-04",
+        "enunciado": "Studying this topic helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "use English more actively in oral interaction",
+          "avoid real communication situations",
+          "separate language from dialogue",
+          "ignore the importance of listening"
+        ],
+        "respostaCorreta": "use English more actively in oral interaction",
+        "explicacao": "The topic connects speaking, listening and participation in meaningful contexts.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Speaking, opinions and debate\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Speaking in English can involve expressing opinions, agreeing and disagreeing respectfully",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Speaking in English can involve expressing opinions, agreeing and disagreeing respectfully",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-02",
+        "enunciado": "Ao estudar \"Speaking, opinions and debate\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Debate situations help students organize ideas and use language more actively"
+        ],
+        "respostaCorreta": "Debate situations help students organize ideas and use language more actively",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "This topic strengthens oral communication in meaningful contexts",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "This topic strengthens oral communication in meaningful contexts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-05",
+        "enunciado": "No contexto de \"Speaking, opinions and debate\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Use short structures first, then add reasons to support what you say",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Use short structures first, then add reasons to support what you say",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-06",
+        "enunciado": "O estudo de \"Speaking, opinions and debate\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender expressing ideas orally"
+        ],
+        "respostaCorreta": "compreender expressing ideas orally",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "In simple debate situations, learners can practice agreement, disagreement and justification. This helps them understand language as a tool for dialogue and participation",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "In simple debate situations, learners can practice agreement, disagreement and justification. This helps them understand language as a tool for dialogue and participation",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Respectful expressions are important when presenting a different point of view",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Respectful expressions are important when presenting a different point of view",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender debate and respectful interaction",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender debate and respectful interaction",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Imagine a classroom discussion in English about the use of mobile phones at school"
+        ],
+        "respostaCorreta": "Imagine a classroom discussion in English about the use of mobile phones at school",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Speaking, opinions and debate\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "This example shows how oral English can be used for interaction and debate in real situations",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "This example shows how oral English can be used for interaction and debate in real situations",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-12",
+        "enunciado": "Ao estudar \"Speaking, opinions and debate\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identify one opinion about the topic",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identify one opinion about the topic",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe a reason used to support that idea",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe a reason used to support that idea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Think of a respectful way to agree or disagree"
+        ],
+        "respostaCorreta": "Think of a respectful way to agree or disagree",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"ing9-speaking-opinions-debate-sim-01","enunciado":"The main idea of this topic is:","tipo":"multipla_escolha","alternativas":["English speaking can be used to share opinions and participate in respectful debate","oral language has no relation to interaction","debate should avoid different points of view","students do not need reasons when speaking"],"respostaCorreta":"English speaking can be used to share opinions and participate in respectful debate","explicacao":"The content helps learners use spoken English in dialogic and purposeful situations.","dificuldade":"medio"}
+      {
+        "id": "ing9-speaking-opinions-debate-sim-01",
+        "enunciado": "The main idea of this topic is:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "English speaking can be used to share opinions and participate in respectful debate",
+          "oral language has no relation to interaction",
+          "debate should avoid different points of view",
+          "students do not need reasons when speaking"
+        ],
+        "respostaCorreta": "English speaking can be used to share opinions and participate in respectful debate",
+        "explicacao": "The content helps learners use spoken English in dialogic and purposeful situations.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Speaking, opinions and debate\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic strengthens oral communication in meaningful contexts",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "This topic strengthens oral communication in meaningful contexts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Speaking, opinions and debate\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills"
+        ],
+        "respostaCorreta": "Oral communication in English becomes more meaningful when students use the language to share opinions and respond to other people. This process develops confidence, listening and interaction skills",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Use short structures first, then add reasons to support what you say",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Use short structures first, then add reasons to support what you say",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Speaking, opinions and debate\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender expressing ideas orally",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender expressing ideas orally",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "In simple debate situations, learners can practice agreement, disagreement and justification. This helps them understand language as a tool for dialogue and participation",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "In simple debate situations, learners can practice agreement, disagreement and justification. This helps them understand language as a tool for dialogue and participation",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-speaking-opinions-debate-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Respectful expressions are important when presenting a different point of view"
+        ],
+        "respostaCorreta": "Respectful expressions are important when presenting a different point of view",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Speaking, opinions and debate apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -30,16 +30,397 @@
           "Perceba que a alteração pode afetar cadeias alimentares e outros processos ecológicos."
         ],
         "resposta": "Esse exemplo mostra como ações humanas podem interferir no equilíbrio ambiental."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Ecologia e impactos humanos\".",
+        "passos": [
+          "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem",
+          "As ações humanas podem alterar essas relações e provocar impactos ambientais",
+          "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental"
+        ],
+        "resposta": "Esse exemplo mostra como Ecologia e impactos humanos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Ecologia e impactos humanos\".",
+        "passos": [
+          "As ações humanas podem alterar essas relações e provocar impactos ambientais",
+          "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+          "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida"
+        ],
+        "resposta": "Esse exemplo mostra como Ecologia e impactos humanos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Ecologia e impactos humanos\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+          "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida",
+          "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema"
+        ],
+        "resposta": "Esse exemplo mostra como Ecologia e impactos humanos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Ecologia e impactos humanos\".",
+        "passos": [
+          "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida",
+          "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema",
+          "Relações ecológicas e equilíbrio"
+        ],
+        "resposta": "Esse exemplo mostra como Ecologia e impactos humanos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-ecologia-impactos-humanos-ex-01","enunciado":"A ecologia estuda:","tipo":"multipla_escolha","alternativas":["as relações entre seres vivos e ambiente","somente a ortografia das palavras","apenas o cálculo de áreas geométricas","a formação exclusiva das rochas"],"respostaCorreta":"as relações entre seres vivos e ambiente","explicacao":"Esse campo da ciência analisa como os organismos interagem entre si e com o meio em que vivem.","dificuldade":"facil"},
-      {"id":"cien9-ecologia-impactos-humanos-ex-02","enunciado":"Uma ação humana que pode causar impacto ambiental é:","tipo":"multipla_escolha","alternativas":["desmatamento","leitura de poemas","uso de vírgulas","cálculo de médias"],"respostaCorreta":"desmatamento","explicacao":"O desmatamento altera habitats e interfere nas relações ecológicas do ambiente.","dificuldade":"facil"},
-      {"id":"cien9-ecologia-impactos-humanos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["As ações humanas podem comprometer o equilíbrio ecológico.","O ambiente natural não sofre qualquer influência da atividade humana.","Ecologia não tem relação com responsabilidade socioambiental.","Toda interferência humana melhora automaticamente os ecossistemas."],"respostaCorreta":"As ações humanas podem comprometer o equilíbrio ecológico.","explicacao":"A atuação humana pode modificar ecossistemas e gerar desequilíbrios ambientais importantes.","dificuldade":"medio"},
-      {"id":"cien9-ecologia-impactos-humanos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender relações ecológicas e impactos ambientais","ignorar a responsabilidade humana diante do ambiente","separar totalmente sociedade e natureza","pensar que ecossistemas não mudam"],"respostaCorreta":"compreender relações ecológicas e impactos ambientais","explicacao":"O conteúdo amplia a compreensão do funcionamento dos ecossistemas e da responsabilidade socioambiental.","dificuldade":"medio"}
+      {
+        "id": "cien9-ecologia-impactos-humanos-ex-01",
+        "enunciado": "A ecologia estuda:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as relações entre seres vivos e ambiente",
+          "somente a ortografia das palavras",
+          "apenas o cálculo de áreas geométricas",
+          "a formação exclusiva das rochas"
+        ],
+        "respostaCorreta": "as relações entre seres vivos e ambiente",
+        "explicacao": "Esse campo da ciência analisa como os organismos interagem entre si e com o meio em que vivem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-ex-02",
+        "enunciado": "Uma ação humana que pode causar impacto ambiental é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desmatamento",
+          "leitura de poemas",
+          "uso de vírgulas",
+          "cálculo de médias"
+        ],
+        "respostaCorreta": "desmatamento",
+        "explicacao": "O desmatamento altera habitats e interfere nas relações ecológicas do ambiente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As ações humanas podem comprometer o equilíbrio ecológico.",
+          "O ambiente natural não sofre qualquer influência da atividade humana.",
+          "Ecologia não tem relação com responsabilidade socioambiental.",
+          "Toda interferência humana melhora automaticamente os ecossistemas."
+        ],
+        "respostaCorreta": "As ações humanas podem comprometer o equilíbrio ecológico.",
+        "explicacao": "A atuação humana pode modificar ecossistemas e gerar desequilíbrios ambientais importantes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender relações ecológicas e impactos ambientais",
+          "ignorar a responsabilidade humana diante do ambiente",
+          "separar totalmente sociedade e natureza",
+          "pensar que ecossistemas não mudam"
+        ],
+        "respostaCorreta": "compreender relações ecológicas e impactos ambientais",
+        "explicacao": "O conteúdo amplia a compreensão do funcionamento dos ecossistemas e da responsabilidade socioambiental.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Ecologia e impactos humanos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-02",
+        "enunciado": "Ao estudar \"Ecologia e impactos humanos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "As ações humanas podem alterar essas relações e provocar impactos ambientais"
+        ],
+        "respostaCorreta": "As ações humanas podem alterar essas relações e provocar impactos ambientais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-05",
+        "enunciado": "No contexto de \"Ecologia e impactos humanos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-06",
+        "enunciado": "O estudo de \"Ecologia e impactos humanos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender relações ecológicas e equilíbrio"
+        ],
+        "respostaCorreta": "compreender relações ecológicas e equilíbrio",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Atividades humanas como desmatamento, poluição, descarte inadequado de resíduos e uso excessivo de recursos naturais podem alterar ecossistemas e comprometer o equilíbrio ecológico. Por isso, a ação humana deve ser analisada com responsabilidade",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Atividades humanas como desmatamento, poluição, descarte inadequado de resíduos e uso excessivo de recursos naturais podem alterar ecossistemas e comprometer o equilíbrio ecológico. Por isso, a ação humana deve ser analisada com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como as escolhas humanas podem afetar seres vivos, água, solo e ar",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como as escolhas humanas podem afetar seres vivos, água, solo e ar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender interferência humana no ambiente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender interferência humana no ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma área natural que sofre desmatamento intenso"
+        ],
+        "respostaCorreta": "Considere uma área natural que sofre desmatamento intenso",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Ecologia e impactos humanos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como ações humanas podem interferir no equilíbrio ambiental",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como ações humanas podem interferir no equilíbrio ambiental",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-12",
+        "enunciado": "Ao estudar \"Ecologia e impactos humanos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a perda de habitat para diferentes organismos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a perda de habitat para diferentes organismos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que a alteração pode afetar cadeias alimentares e outros processos ecológicos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que a alteração pode afetar cadeias alimentares e outros processos ecológicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem"
+        ],
+        "respostaCorreta": "A ecologia estuda as relações entre os seres vivos e o ambiente em que vivem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-ecologia-impactos-humanos-sim-01","enunciado":"A principal ideia desse tema é compreender que o ambiente:","tipo":"multipla_escolha","alternativas":["depende de relações ecológicas que podem ser alteradas pelas ações humanas","não sofre qualquer transformação com a presença humana","funciona sem conexão entre os seres vivos","não precisa ser analisado em relação à responsabilidade social"],"respostaCorreta":"depende de relações ecológicas que podem ser alteradas pelas ações humanas","explicacao":"Ecologia e impactos humanos se relacionam diretamente na compreensão do equilíbrio ambiental e da ação social.","dificuldade":"medio"}
+      {
+        "id": "cien9-ecologia-impactos-humanos-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o ambiente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "depende de relações ecológicas que podem ser alteradas pelas ações humanas",
+          "não sofre qualquer transformação com a presença humana",
+          "funciona sem conexão entre os seres vivos",
+          "não precisa ser analisado em relação à responsabilidade social"
+        ],
+        "respostaCorreta": "depende de relações ecológicas que podem ser alteradas pelas ações humanas",
+        "explicacao": "Ecologia e impactos humanos se relacionam diretamente na compreensão do equilíbrio ambiental e da ação social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Ecologia e impactos humanos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender equilíbrio ecológico e responsabilidade socioambiental",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Ecologia e impactos humanos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida"
+        ],
+        "respostaCorreta": "Os seres vivos se relacionam entre si e com os elementos do ambiente, formando sistemas complexos. O equilíbrio ecológico depende dessas relações e das condições ambientais que permitem a manutenção da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como mudanças em uma parte do ambiente podem afetar vários componentes do ecossistema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Ecologia e impactos humanos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender relações ecológicas e equilíbrio",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender relações ecológicas e equilíbrio",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Atividades humanas como desmatamento, poluição, descarte inadequado de resíduos e uso excessivo de recursos naturais podem alterar ecossistemas e comprometer o equilíbrio ecológico. Por isso, a ação humana deve ser analisada com responsabilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Atividades humanas como desmatamento, poluição, descarte inadequado de resíduos e uso excessivo de recursos naturais podem alterar ecossistemas e comprometer o equilíbrio ecológico. Por isso, a ação humana deve ser analisada com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-ecologia-impactos-humanos-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como as escolhas humanas podem afetar seres vivos, água, solo e ar"
+        ],
+        "respostaCorreta": "Pergunte como as escolhas humanas podem afetar seres vivos, água, solo e ar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Ecologia e impactos humanos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

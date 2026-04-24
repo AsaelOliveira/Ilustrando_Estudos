@@ -30,16 +30,397 @@
           "Perceba que isso influencia a continuidade dessas características nas gerações seguintes."
         ],
         "resposta": "Esse exemplo ajuda a compreender a ideia de seleção natural."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Evolução e seleção natural\".",
+        "passos": [
+          "A evolução explica mudanças nos seres vivos ao longo do tempo",
+          "A seleção natural é um dos mecanismos usados para compreender essas transformações",
+          "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida"
+        ],
+        "resposta": "Esse exemplo mostra como Evolução e seleção natural pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Evolução e seleção natural\".",
+        "passos": [
+          "A seleção natural é um dos mecanismos usados para compreender essas transformações",
+          "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+          "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta"
+        ],
+        "resposta": "Esse exemplo mostra como Evolução e seleção natural pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Evolução e seleção natural\".",
+        "passos": [
+          "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+          "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta",
+          "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas"
+        ],
+        "resposta": "Esse exemplo mostra como Evolução e seleção natural pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Evolução e seleção natural\".",
+        "passos": [
+          "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta",
+          "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas",
+          "Mudanças ao longo do tempo"
+        ],
+        "resposta": "Esse exemplo mostra como Evolução e seleção natural pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-evolucao-selecao-natural-ex-01","enunciado":"A evolução ajuda a explicar:","tipo":"multipla_escolha","alternativas":["mudanças nos seres vivos ao longo do tempo","apenas a classificação das palavras","somente o clima de um dia","a localização dos continentes em um mapa escolar"],"respostaCorreta":"mudanças nos seres vivos ao longo do tempo","explicacao":"A evolução trata das transformações biológicas observadas em longos períodos.","dificuldade":"facil"},
-      {"id":"cien9-evolucao-selecao-natural-ex-02","enunciado":"A seleção natural está relacionada a:","tipo":"multipla_escolha","alternativas":["características que favorecem sobrevivência e reprodução em certos ambientes","mudanças instantâneas sem relação com o ambiente","apenas a aparência sem qualquer consequência biológica","eliminação de toda diversidade entre os organismos"],"respostaCorreta":"características que favorecem sobrevivência e reprodução em certos ambientes","explicacao":"A seleção natural ajuda a compreender como certas características podem se manter em populações ao longo do tempo.","dificuldade":"facil"},
-      {"id":"cien9-evolucao-selecao-natural-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A evolução e a seleção natural ajudam a interpretar a diversidade biológica.","Os seres vivos nunca passam por mudanças ao longo do tempo.","A seleção natural não tem relação com o ambiente.","Esse tema explica apenas acontecimentos imediatos e individuais."],"respostaCorreta":"A evolução e a seleção natural ajudam a interpretar a diversidade biológica.","explicacao":"Esses conceitos são fundamentais para entender a história e a variedade da vida no planeta.","dificuldade":"medio"},
-      {"id":"cien9-evolucao-selecao-natural-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor adaptação, diversidade e história da vida","pensar que o ambiente não influencia os seres vivos","ignorar mudanças biológicas em populações","reduzir evolução a uma ideia sem base científica"],"respostaCorreta":"compreender melhor adaptação, diversidade e história da vida","explicacao":"O tema fortalece a compreensão científica sobre processos evolutivos e diversidade biológica.","dificuldade":"medio"}
+      {
+        "id": "cien9-evolucao-selecao-natural-ex-01",
+        "enunciado": "A evolução ajuda a explicar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças nos seres vivos ao longo do tempo",
+          "apenas a classificação das palavras",
+          "somente o clima de um dia",
+          "a localização dos continentes em um mapa escolar"
+        ],
+        "respostaCorreta": "mudanças nos seres vivos ao longo do tempo",
+        "explicacao": "A evolução trata das transformações biológicas observadas em longos períodos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-ex-02",
+        "enunciado": "A seleção natural está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "características que favorecem sobrevivência e reprodução em certos ambientes",
+          "mudanças instantâneas sem relação com o ambiente",
+          "apenas a aparência sem qualquer consequência biológica",
+          "eliminação de toda diversidade entre os organismos"
+        ],
+        "respostaCorreta": "características que favorecem sobrevivência e reprodução em certos ambientes",
+        "explicacao": "A seleção natural ajuda a compreender como certas características podem se manter em populações ao longo do tempo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A evolução e a seleção natural ajudam a interpretar a diversidade biológica.",
+          "Os seres vivos nunca passam por mudanças ao longo do tempo.",
+          "A seleção natural não tem relação com o ambiente.",
+          "Esse tema explica apenas acontecimentos imediatos e individuais."
+        ],
+        "respostaCorreta": "A evolução e a seleção natural ajudam a interpretar a diversidade biológica.",
+        "explicacao": "Esses conceitos são fundamentais para entender a história e a variedade da vida no planeta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor adaptação, diversidade e história da vida",
+          "pensar que o ambiente não influencia os seres vivos",
+          "ignorar mudanças biológicas em populações",
+          "reduzir evolução a uma ideia sem base científica"
+        ],
+        "respostaCorreta": "compreender melhor adaptação, diversidade e história da vida",
+        "explicacao": "O tema fortalece a compreensão científica sobre processos evolutivos e diversidade biológica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Evolução e seleção natural\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A evolução explica mudanças nos seres vivos ao longo do tempo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A evolução explica mudanças nos seres vivos ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-02",
+        "enunciado": "Ao estudar \"Evolução e seleção natural\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A seleção natural é um dos mecanismos usados para compreender essas transformações"
+        ],
+        "respostaCorreta": "A seleção natural é um dos mecanismos usados para compreender essas transformações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-05",
+        "enunciado": "No contexto de \"Evolução e seleção natural\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-06",
+        "enunciado": "O estudo de \"Evolução e seleção natural\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender mudanças ao longo do tempo"
+        ],
+        "respostaCorreta": "compreender mudanças ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A seleção natural ajuda a explicar como certas características podem favorecer a sobrevivência e a reprodução em determinados ambientes. Esse processo contribui para mudanças nas populações ao longo do tempo",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A seleção natural ajuda a explicar como certas características podem favorecer a sobrevivência e a reprodução em determinados ambientes. Esse processo contribui para mudanças nas populações ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe como o ambiente pode influenciar a permanência de certas características",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe como o ambiente pode influenciar a permanência de certas características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender seleção natural",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender seleção natural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma população em que alguns indivíduos apresentam características mais adequadas ao ambiente"
+        ],
+        "respostaCorreta": "Considere uma população em que alguns indivíduos apresentam características mais adequadas ao ambiente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Evolução e seleção natural\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a ideia de seleção natural",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a ideia de seleção natural",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-12",
+        "enunciado": "Ao estudar \"Evolução e seleção natural\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe que essas características podem favorecer a sobrevivência",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe que essas características podem favorecer a sobrevivência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que isso influencia a continuidade dessas características nas gerações seguintes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que isso influencia a continuidade dessas características nas gerações seguintes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A evolução explica mudanças nos seres vivos ao longo do tempo"
+        ],
+        "respostaCorreta": "A evolução explica mudanças nos seres vivos ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-evolucao-selecao-natural-sim-01","enunciado":"A principal ideia desse tema é compreender que a vida no planeta:","tipo":"multipla_escolha","alternativas":["apresenta transformações ao longo do tempo influenciadas por processos evolutivos","permanece totalmente igual em todos os contextos e épocas","não tem relação com ambiente e adaptação","se explica apenas por mudanças imediatas e isoladas"],"respostaCorreta":"apresenta transformações ao longo do tempo influenciadas por processos evolutivos","explicacao":"Evolução e seleção natural ajudam a explicar mudanças e diversidade entre os seres vivos.","dificuldade":"medio"}
+      {
+        "id": "cien9-evolucao-selecao-natural-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a vida no planeta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta transformações ao longo do tempo influenciadas por processos evolutivos",
+          "permanece totalmente igual em todos os contextos e épocas",
+          "não tem relação com ambiente e adaptação",
+          "se explica apenas por mudanças imediatas e isoladas"
+        ],
+        "respostaCorreta": "apresenta transformações ao longo do tempo influenciadas por processos evolutivos",
+        "explicacao": "Evolução e seleção natural ajudam a explicar mudanças e diversidade entre os seres vivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Evolução e seleção natural\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a interpretar adaptação, diversidade e história da vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Evolução e seleção natural\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta"
+        ],
+        "respostaCorreta": "A evolução se relaciona a transformações observadas nos seres vivos em longos períodos. Essas mudanças ajudam a compreender a diversidade biológica e a história da vida no planeta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Lembre que evolução envolve tempo e processos graduais, e não mudanças instantâneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Evolução e seleção natural\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender mudanças ao longo do tempo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender mudanças ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A seleção natural ajuda a explicar como certas características podem favorecer a sobrevivência e a reprodução em determinados ambientes. Esse processo contribui para mudanças nas populações ao longo do tempo",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A seleção natural ajuda a explicar como certas características podem favorecer a sobrevivência e a reprodução em determinados ambientes. Esse processo contribui para mudanças nas populações ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-evolucao-selecao-natural-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como o ambiente pode influenciar a permanência de certas características"
+        ],
+        "respostaCorreta": "Observe como o ambiente pode influenciar a permanência de certas características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Evolução e seleção natural apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

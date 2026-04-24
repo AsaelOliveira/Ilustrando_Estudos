@@ -31,16 +31,397 @@
           "Relacione a situação à ideia de direitos e convivência ética."
         ],
         "resposta": "Esse exemplo mostra que reconhecer diferenças é parte importante da construção de relações mais justas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Diversidade, direitos e convivência\".",
+        "passos": [
+          "A convivência ética exige respeito às diferenças e reconhecimento de direitos",
+          "A diversidade faz parte da vida social e deve ser compreendida como valor humano",
+          "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade"
+        ],
+        "resposta": "Esse exemplo mostra como Diversidade, direitos e convivência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Diversidade, direitos e convivência\".",
+        "passos": [
+          "A diversidade faz parte da vida social e deve ser compreendida como valor humano",
+          "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+          "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão"
+        ],
+        "resposta": "Esse exemplo mostra como Diversidade, direitos e convivência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Diversidade, direitos e convivência\".",
+        "passos": [
+          "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+          "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão",
+          "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade"
+        ],
+        "resposta": "Esse exemplo mostra como Diversidade, direitos e convivência pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Diversidade, direitos e convivência\".",
+        "passos": [
+          "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão",
+          "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade",
+          "Diversidade como valor social"
+        ],
+        "resposta": "Esse exemplo mostra como Diversidade, direitos e convivência pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"eti9-diversidade-direitos-convivencia-ex-01","enunciado":"Respeitar a diversidade significa:","tipo":"multipla_escolha","alternativas":["reconhecer diferenças com dignidade e respeito","tratar todos do mesmo modo sem considerar necessidades","ignorar experiências de outros grupos","negar direitos a quem pensa diferente"],"respostaCorreta":"reconhecer diferenças com dignidade e respeito","explicacao":"A convivência ética valoriza as diferenças e rejeita práticas discriminatórias.","dificuldade":"facil"},
-      {"id":"eti9-diversidade-direitos-convivencia-ex-02","enunciado":"Uma atitude inclusiva é:","tipo":"multipla_escolha","alternativas":["ouvir e considerar diferentes perspectivas","excluir quem é diferente do grupo","repetir preconceitos sem reflexão","negar participação a determinadas pessoas"],"respostaCorreta":"ouvir e considerar diferentes perspectivas","explicacao":"A inclusão depende de escuta, respeito e reconhecimento do outro.","dificuldade":"facil"},
-      {"id":"eti9-diversidade-direitos-convivencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Diversidade e direitos são temas importantes para a convivência ética.","Conviver eticamente significa apagar todas as diferenças.","Respeito não tem relação com a vida social.","Direitos não influenciam a convivência entre pessoas."],"respostaCorreta":"Diversidade e direitos são temas importantes para a convivência ética.","explicacao":"O reconhecimento de direitos e diferenças fortalece relações mais justas e humanas.","dificuldade":"medio"},
-      {"id":"eti9-diversidade-direitos-convivencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver atitudes de respeito e inclusão","separar ética da convivência real","normalizar discriminações cotidianas","desconsiderar a importância dos direitos"],"respostaCorreta":"desenvolver atitudes de respeito e inclusão","explicacao":"O tema favorece consciência ética e responsabilidade diante da diversidade social.","dificuldade":"medio"}
+      {
+        "id": "eti9-diversidade-direitos-convivencia-ex-01",
+        "enunciado": "Respeitar a diversidade significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reconhecer diferenças com dignidade e respeito",
+          "tratar todos do mesmo modo sem considerar necessidades",
+          "ignorar experiências de outros grupos",
+          "negar direitos a quem pensa diferente"
+        ],
+        "respostaCorreta": "reconhecer diferenças com dignidade e respeito",
+        "explicacao": "A convivência ética valoriza as diferenças e rejeita práticas discriminatórias.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-ex-02",
+        "enunciado": "Uma atitude inclusiva é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ouvir e considerar diferentes perspectivas",
+          "excluir quem é diferente do grupo",
+          "repetir preconceitos sem reflexão",
+          "negar participação a determinadas pessoas"
+        ],
+        "respostaCorreta": "ouvir e considerar diferentes perspectivas",
+        "explicacao": "A inclusão depende de escuta, respeito e reconhecimento do outro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diversidade e direitos são temas importantes para a convivência ética.",
+          "Conviver eticamente significa apagar todas as diferenças.",
+          "Respeito não tem relação com a vida social.",
+          "Direitos não influenciam a convivência entre pessoas."
+        ],
+        "respostaCorreta": "Diversidade e direitos são temas importantes para a convivência ética.",
+        "explicacao": "O reconhecimento de direitos e diferenças fortalece relações mais justas e humanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver atitudes de respeito e inclusão",
+          "separar ética da convivência real",
+          "normalizar discriminações cotidianas",
+          "desconsiderar a importância dos direitos"
+        ],
+        "respostaCorreta": "desenvolver atitudes de respeito e inclusão",
+        "explicacao": "O tema favorece consciência ética e responsabilidade diante da diversidade social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Diversidade, direitos e convivência\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A convivência ética exige respeito às diferenças e reconhecimento de direitos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A convivência ética exige respeito às diferenças e reconhecimento de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-02",
+        "enunciado": "Ao estudar \"Diversidade, direitos e convivência\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A diversidade faz parte da vida social e deve ser compreendida como valor humano"
+        ],
+        "respostaCorreta": "A diversidade faz parte da vida social e deve ser compreendida como valor humano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-05",
+        "enunciado": "No contexto de \"Diversidade, direitos e convivência\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-06",
+        "enunciado": "O estudo de \"Diversidade, direitos e convivência\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender diversidade como valor social"
+        ],
+        "respostaCorreta": "compreender diversidade como valor social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Viver em sociedade também significa garantir direitos e combater práticas discriminatórias. A ética da convivência inclui responsabilidade com o bem comum, escuta e compromisso com ambientes mais justos e inclusivos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Viver em sociedade também significa garantir direitos e combater práticas discriminatórias. A ética da convivência inclui responsabilidade com o bem comum, escuta e compromisso com ambientes mais justos e inclusivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em atitudes concretas que favorecem inclusão em espaços como escola, comunidade e ambiente digital",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em atitudes concretas que favorecem inclusão em espaços como escola, comunidade e ambiente digital",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender direitos e inclusão",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender direitos e inclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação em que um grupo decide incluir e ouvir pessoas com experiências diferentes"
+        ],
+        "respostaCorreta": "Analise uma situação em que um grupo decide incluir e ouvir pessoas com experiências diferentes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Diversidade, direitos e convivência\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que reconhecer diferenças é parte importante da construção de relações mais justas",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que reconhecer diferenças é parte importante da construção de relações mais justas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-12",
+        "enunciado": "Ao estudar \"Diversidade, direitos e convivência\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe como a diversidade aparece no grupo",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe como a diversidade aparece no grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba atitudes que promovem respeito e participação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba atitudes que promovem respeito e participação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a situação à ideia de direitos e convivência ética"
+        ],
+        "respostaCorreta": "Relacione a situação à ideia de direitos e convivência ética",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"eti9-diversidade-direitos-convivencia-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["conviver com justiça exige respeito às diferenças e aos direitos de todas as pessoas","diversidade atrapalha a vida coletiva","direitos não se relacionam à convivência","inclusão não depende de atitudes concretas"],"respostaCorreta":"conviver com justiça exige respeito às diferenças e aos direitos de todas as pessoas","explicacao":"O conteúdo articula ética, inclusão e responsabilidade social no cotidiano.","dificuldade":"medio"}
+      {
+        "id": "eti9-diversidade-direitos-convivencia-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conviver com justiça exige respeito às diferenças e aos direitos de todas as pessoas",
+          "diversidade atrapalha a vida coletiva",
+          "direitos não se relacionam à convivência",
+          "inclusão não depende de atitudes concretas"
+        ],
+        "respostaCorreta": "conviver com justiça exige respeito às diferenças e aos direitos de todas as pessoas",
+        "explicacao": "O conteúdo articula ética, inclusão e responsabilidade social no cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Diversidade, direitos e convivência\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes de respeito, inclusão e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Diversidade, direitos e convivência\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão"
+        ],
+        "respostaCorreta": "As diferenças de origem, cultura, opinião, identidade e experiência fazem parte da vida coletiva. Reconhecer essa diversidade ajuda a construir relações mais respeitosas e menos marcadas por preconceito e exclusão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao analisar uma situação de convivência, observe se as diferenças estão sendo tratadas com respeito e dignidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Diversidade, direitos e convivência\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender diversidade como valor social",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender diversidade como valor social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Viver em sociedade também significa garantir direitos e combater práticas discriminatórias. A ética da convivência inclui responsabilidade com o bem comum, escuta e compromisso com ambientes mais justos e inclusivos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Viver em sociedade também significa garantir direitos e combater práticas discriminatórias. A ética da convivência inclui responsabilidade com o bem comum, escuta e compromisso com ambientes mais justos e inclusivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-diversidade-direitos-convivencia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em atitudes concretas que favorecem inclusão em espaços como escola, comunidade e ambiente digital"
+        ],
+        "respostaCorreta": "Pense em atitudes concretas que favorecem inclusão em espaços como escola, comunidade e ambiente digital",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diversidade, direitos e convivência apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

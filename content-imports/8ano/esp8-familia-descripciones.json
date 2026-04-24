@@ -1,0 +1,426 @@
+[
+  {
+    "id": "esp8-familia-descripciones",
+    "titulo": "La familia y descripciones personales",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación cotidiana",
+    "resumo": [
+      "Falar sobre família e características pessoais amplia a comunicação básica em espanhol.",
+      "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança.",
+      "Aprender esse vocabulário fortalece compreensão e produção oral e escrita."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Vocabulário familiar",
+        "texto": "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições.",
+        "dica": "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor."
+      },
+      {
+        "subtitulo": "Descrições pessoais",
+        "texto": "Descrever pessoas em espanhol envolve nomear características físicas e traços simples de personalidade. Essas estruturas ajudam a construir frases mais completas e significativas.",
+        "dica": "Pratique descrições curtas antes de produzir frases mais longas."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Mi hermana es alegre y muy estudiosa.'",
+        "passos": [
+          "Identifique o termo usado para indicar o vínculo familiar.",
+          "Observe os adjetivos empregados para descrever a pessoa."
+        ],
+        "resposta": "Esse é um exemplo simples de descrição pessoal em espanhol."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"La familia y descripciones personales\".",
+        "passos": [
+          "Falar sobre família e características pessoais amplia a comunicação básica em espanhol",
+          "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança",
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita"
+        ],
+        "resposta": "Esse exemplo mostra como La familia y descripciones personales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"La familia y descripciones personales\".",
+        "passos": [
+          "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança",
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+          "Vocabulário familiar"
+        ],
+        "resposta": "Esse exemplo mostra como La familia y descripciones personales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"La familia y descripciones personales\".",
+        "passos": [
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+          "Vocabulário familiar",
+          "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições"
+        ],
+        "resposta": "Esse exemplo mostra como La familia y descripciones personales pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"La familia y descripciones personales\".",
+        "passos": [
+          "Vocabulário familiar",
+          "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições",
+          "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor"
+        ],
+        "resposta": "Esse exemplo mostra como La familia y descripciones personales pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "esp8-familia-descripciones-ex-01",
+        "enunciado": "A palavra 'hermano' significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "irmão",
+          "mãe",
+          "avó",
+          "tia"
+        ],
+        "respostaCorreta": "irmão",
+        "explicacao": "'Hermano' é a palavra em espanhol usada para 'irmão'.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-ex-02",
+        "enunciado": "Descrever uma pessoa em espanhol ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ampliar a comunicação cotidiana",
+          "eliminar o uso de adjetivos",
+          "evitar frases completas",
+          "ignorar vocabulário básico"
+        ],
+        "respostaCorreta": "ampliar a comunicação cotidiana",
+        "explicacao": "Descrições pessoais permitem apresentar melhor pessoas e relações em diferentes contextos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Vocabulário de família e descrições fortalece a comunicação básica no idioma.",
+          "Esse tema não tem utilidade em situações reais.",
+          "Não é possível descrever pessoas com frases simples em espanhol.",
+          "Família e descrição não aparecem em interações iniciais."
+        ],
+        "respostaCorreta": "Vocabulário de família e descrições fortalece a comunicação básica no idioma.",
+        "explicacao": "Esse conteúdo ajuda o estudante a se expressar com mais clareza em contextos simples.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "falar sobre pessoas próximas com mais repertório",
+          "substituir toda a comunicação por gestos",
+          "dispensar o aprendizado de vocabulário",
+          "evitar a produção de frases"
+        ],
+        "respostaCorreta": "falar sobre pessoas próximas com mais repertório",
+        "explicacao": "O vocabulário de família e descrição pessoal amplia as possibilidades de comunicação básica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Falar sobre família e características pessoais amplia a comunicação básica em espanhol",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Falar sobre família e características pessoais amplia a comunicação básica em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança"
+        ],
+        "respostaCorreta": "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Descrever pessoas em espanhol envolve nomear características físicas e traços simples de personalidade. Essas estruturas ajudam a construir frases mais completas e significativas"
+        ],
+        "respostaCorreta": "Descrever pessoas em espanhol envolve nomear características físicas e traços simples de personalidade. Essas estruturas ajudam a construir frases mais completas e significativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pratique descrições curtas antes de produzir frases mais longas",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pratique descrições curtas antes de produzir frases mais longas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Mi hermana es alegre y muy estudiosa.'",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Mi hermana es alegre y muy estudiosa.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo simples de descrição pessoal em espanhol",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo simples de descrição pessoal em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o termo usado para indicar o vínculo familiar"
+        ],
+        "respostaCorreta": "Identifique o termo usado para indicar o vínculo familiar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe os adjetivos empregados para descrever a pessoa",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe os adjetivos empregados para descrever a pessoa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Falar sobre família e características pessoais amplia a comunicação básica em espanhol",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Falar sobre família e características pessoais amplia a comunicação básica em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda a descrever pessoas e relações familiares com mais segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita"
+        ],
+        "respostaCorreta": "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "esp8-familia-descripciones-sim-01",
+        "enunciado": "A principal função desse tema é permitir que o estudante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "descreva pessoas e relações familiares com mais segurança",
+          "use apenas palavras isoladas sem contexto",
+          "evite toda interação oral",
+          "substitua o vocabulário por tradução automática"
+        ],
+        "respostaCorreta": "descreva pessoas e relações familiares com mais segurança",
+        "explicacao": "Esse conteúdo amplia a comunicação cotidiana em espanhol por meio de descrições simples e úteis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Aprender esse vocabulário fortalece compreensão e produção oral e escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições"
+        ],
+        "respostaCorreta": "Palavras como 'madre', 'padre', 'hermano', 'hermana' e outras ajudam o estudante a falar de sua família em situações simples de comunicação. Esse repertório é útil em apresentações e descrições",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe cada palavra a imagens e situações do cotidiano para memorizar melhor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Descrever pessoas em espanhol envolve nomear características físicas e traços simples de personalidade. Essas estruturas ajudam a construir frases mais completas e significativas",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Descrever pessoas em espanhol envolve nomear características físicas e traços simples de personalidade. Essas estruturas ajudam a construir frases mais completas e significativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pratique descrições curtas antes de produzir frases mais longas",
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pratique descrições curtas antes de produzir frases mais longas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-familia-descripciones-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la familia y descripciones personales se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La familia y descripciones personales pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la familia y descripciones personales dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Mi hermana es alegre y muy estudiosa.'"
+        ],
+        "respostaCorreta": "Leia: 'Mi hermana es alegre y muy estudiosa.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La familia y descripciones personales, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "port8-regencia-verbal-intro",
+    "titulo": "Introdução à regência verbal",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Análise linguística",
+    "resumo": [
+      "A regência verbal estuda a relação entre o verbo e seus complementos.",
+      "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento.",
+      "Compreender a regência ajuda a escrever com mais clareza e correção."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Relação entre verbo e complemento",
+        "texto": "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase.",
+        "dica": "Pergunte ao verbo de que modo o complemento se liga a ele."
+      },
+      {
+        "subtitulo": "Uso adequado na escrita",
+        "texto": "Certos verbos mudam de estrutura conforme o sentido ou a norma de uso. Por isso, conhecer a regência evita construções inadequadas e melhora a precisão do texto.",
+        "dica": "Preste atenção à presença ou à ausência de preposição após o verbo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Ela gosta de música clássica.'",
+        "passos": [
+          "Observe o verbo 'gostar'.",
+          "Perceba que ele se liga ao complemento com a preposição 'de'."
+        ],
+        "resposta": "Nesse caso, o verbo exige preposição, o que caracteriza sua regência verbal."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à regência verbal\".",
+        "passos": [
+          "A regência verbal estuda a relação entre o verbo e seus complementos",
+          "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento",
+          "Compreender a regência ajuda a escrever com mais clareza e correção"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à regência verbal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à regência verbal\".",
+        "passos": [
+          "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento",
+          "Compreender a regência ajuda a escrever com mais clareza e correção",
+          "Relação entre verbo e complemento"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à regência verbal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à regência verbal\".",
+        "passos": [
+          "Compreender a regência ajuda a escrever com mais clareza e correção",
+          "Relação entre verbo e complemento",
+          "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à regência verbal pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à regência verbal\".",
+        "passos": [
+          "Relação entre verbo e complemento",
+          "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase",
+          "Pergunte ao verbo de que modo o complemento se liga a ele"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à regência verbal pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-regencia-verbal-intro-ex-01",
+        "enunciado": "A regência verbal estuda principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a relação entre o verbo e seus complementos",
+          "a divisão silábica das palavras",
+          "a formação exclusiva dos adjetivos",
+          "a pontuação do vocativo"
+        ],
+        "respostaCorreta": "a relação entre o verbo e seus complementos",
+        "explicacao": "Esse conteúdo analisa como o verbo se liga aos termos que completam seu sentido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-ex-02",
+        "enunciado": "Na frase 'Precisamos de ajuda', o termo 'de ajuda' se liga ao verbo por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "preposição",
+          "artigo",
+          "interjeição",
+          "numeral"
+        ],
+        "respostaCorreta": "preposição",
+        "explicacao": "A palavra 'de' estabelece a ligação entre o verbo e seu complemento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-ex-03",
+        "enunciado": "Qual alternativa apresenta um exemplo de verbo ligado ao complemento com preposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ele gosta de leitura.",
+          "Ele comprou um livro.",
+          "A turma saiu cedo.",
+          "Marina sorriu bastante."
+        ],
+        "respostaCorreta": "Ele gosta de leitura.",
+        "explicacao": "O verbo 'gostar' exige a preposição 'de' para se ligar ao complemento.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-ex-04",
+        "enunciado": "Conhecer a regência verbal contribui para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever frases mais corretas e claras",
+          "eliminar todos os verbos do texto",
+          "substituir a leitura por imagens",
+          "dispensar o estudo da norma-padrão"
+        ],
+        "respostaCorreta": "escrever frases mais corretas e claras",
+        "explicacao": "A regência ajuda a organizar melhor a relação entre o verbo e seus complementos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A regência verbal estuda a relação entre o verbo e seus complementos",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A regência verbal estuda a relação entre o verbo e seus complementos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento"
+        ],
+        "respostaCorreta": "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender a regência ajuda a escrever com mais clareza e correção",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender a regência ajuda a escrever com mais clareza e correção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte ao verbo de que modo o complemento se liga a ele",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte ao verbo de que modo o complemento se liga a ele",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Certos verbos mudam de estrutura conforme o sentido ou a norma de uso. Por isso, conhecer a regência evita construções inadequadas e melhora a precisão do texto"
+        ],
+        "respostaCorreta": "Certos verbos mudam de estrutura conforme o sentido ou a norma de uso. Por isso, conhecer a regência evita construções inadequadas e melhora a precisão do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Preste atenção à presença ou à ausência de preposição após o verbo",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Preste atenção à presença ou à ausência de preposição após o verbo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Ela gosta de música clássica.'",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Ela gosta de música clássica.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nesse caso, o verbo exige preposição, o que caracteriza sua regência verbal",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nesse caso, o verbo exige preposição, o que caracteriza sua regência verbal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que ele se liga ao complemento com a preposição 'de'"
+        ],
+        "respostaCorreta": "Perceba que ele se liga ao complemento com a preposição 'de'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A regência verbal estuda a relação entre o verbo e seus complementos",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A regência verbal estuda a relação entre o verbo e seus complementos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Alguns verbos exigem preposição, enquanto outros se ligam diretamente ao complemento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender a regência ajuda a escrever com mais clareza e correção",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender a regência ajuda a escrever com mais clareza e correção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase"
+        ],
+        "respostaCorreta": "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-regencia-verbal-intro-sim-01",
+        "enunciado": "Ao analisar a regência verbal, o estudante deve observar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como o verbo se relaciona com o complemento",
+          "apenas a quantidade de sílabas do verbo",
+          "somente a ordem alfabética das palavras",
+          "o tamanho da frase escrita"
+        ],
+        "respostaCorreta": "como o verbo se relaciona com o complemento",
+        "explicacao": "A questão central da regência verbal é a ligação sintática entre o verbo e os termos que completam seu sentido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender a regência ajuda a escrever com mais clareza e correção",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender a regência ajuda a escrever com mais clareza e correção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase"
+        ],
+        "respostaCorreta": "Na regência verbal, observamos se o verbo precisa ou não de preposição para se ligar ao termo que completa seu sentido. Essa relação interfere na construção correta da frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte ao verbo de que modo o complemento se liga a ele",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte ao verbo de que modo o complemento se liga a ele",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Certos verbos mudam de estrutura conforme o sentido ou a norma de uso. Por isso, conhecer a regência evita construções inadequadas e melhora a precisão do texto",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Certos verbos mudam de estrutura conforme o sentido ou a norma de uso. Por isso, conhecer a regência evita construções inadequadas e melhora a precisão do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Preste atenção à presença ou à ausência de preposição após o verbo",
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Preste atenção à presença ou à ausência de preposição após o verbo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-regencia-verbal-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à regência verbal se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à regência verbal pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à regência verbal dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Ela gosta de música clássica.'"
+        ],
+        "respostaCorreta": "Leia: 'Ela gosta de música clássica.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à regência verbal, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

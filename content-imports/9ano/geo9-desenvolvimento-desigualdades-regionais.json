@@ -30,16 +30,397 @@
           "Perceba que essas diferenças têm causas históricas e sociais."
         ],
         "resposta": "Esse exemplo ajuda a compreender a ideia de desigualdade regional."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Desenvolvimento e desigualdades regionais\".",
+        "passos": [
+          "O desenvolvimento não ocorre de forma igual em todas as regiões de um país ou do mundo",
+          "As desigualdades regionais estão ligadas a fatores históricos, econômicos, sociais e políticos",
+          "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço"
+        ],
+        "resposta": "Esse exemplo mostra como Desenvolvimento e desigualdades regionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Desenvolvimento e desigualdades regionais\".",
+        "passos": [
+          "As desigualdades regionais estão ligadas a fatores históricos, econômicos, sociais e políticos",
+          "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+          "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento"
+        ],
+        "resposta": "Esse exemplo mostra como Desenvolvimento e desigualdades regionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Desenvolvimento e desigualdades regionais\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+          "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento",
+          "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas"
+        ],
+        "resposta": "Esse exemplo mostra como Desenvolvimento e desigualdades regionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Desenvolvimento e desigualdades regionais\".",
+        "passos": [
+          "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento",
+          "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas",
+          "Diferenças entre regiões"
+        ],
+        "resposta": "Esse exemplo mostra como Desenvolvimento e desigualdades regionais pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-desenvolvimento-desigualdades-regionais-ex-01","enunciado":"As desigualdades regionais mostram que:","tipo":"multipla_escolha","alternativas":["o desenvolvimento ocorre de forma desigual no território","todas as regiões apresentam as mesmas condições","não há diferenças entre espaços geográficos","o território é organizado sem relação com história e economia"],"respostaCorreta":"o desenvolvimento ocorre de forma desigual no território","explicacao":"Nem todas as regiões concentram os mesmos recursos, serviços e oportunidades.","dificuldade":"facil"},
-      {"id":"geo9-desenvolvimento-desigualdades-regionais-ex-02","enunciado":"Uma causa possível das desigualdades regionais é:","tipo":"multipla_escolha","alternativas":["processos históricos e econômicos distintos","apenas a ordem alfabética dos nomes das cidades","somente a cor dos mapas","ausência total de decisões políticas"],"respostaCorreta":"processos históricos e econômicos distintos","explicacao":"As desigualdades se relacionam a diferentes formas de ocupação, investimento e organização do território.","dificuldade":"facil"},
-      {"id":"geo9-desenvolvimento-desigualdades-regionais-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Estudar desigualdades regionais ajuda a compreender contrastes territoriais e sociais.","O desenvolvimento é sempre igual em qualquer região.","Diferenças regionais não têm relação com política e economia.","Infraestrutura e serviços não interferem nas condições de vida."],"respostaCorreta":"Estudar desigualdades regionais ajuda a compreender contrastes territoriais e sociais.","explicacao":"O tema mostra como diferentes condições de desenvolvimento afetam o espaço geográfico e a vida das populações.","dificuldade":"medio"},
-      {"id":"geo9-desenvolvimento-desigualdades-regionais-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar melhor a produção desigual do espaço geográfico","ignorar contrastes entre regiões","achar que o território se organiza sem influência social","reduzir a geografia a nomes de estados e capitais"],"respostaCorreta":"interpretar melhor a produção desigual do espaço geográfico","explicacao":"O conteúdo fortalece a leitura crítica das diferenças territoriais e de suas causas históricas e sociais.","dificuldade":"medio"}
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-ex-01",
+        "enunciado": "As desigualdades regionais mostram que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o desenvolvimento ocorre de forma desigual no território",
+          "todas as regiões apresentam as mesmas condições",
+          "não há diferenças entre espaços geográficos",
+          "o território é organizado sem relação com história e economia"
+        ],
+        "respostaCorreta": "o desenvolvimento ocorre de forma desigual no território",
+        "explicacao": "Nem todas as regiões concentram os mesmos recursos, serviços e oportunidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-ex-02",
+        "enunciado": "Uma causa possível das desigualdades regionais é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "processos históricos e econômicos distintos",
+          "apenas a ordem alfabética dos nomes das cidades",
+          "somente a cor dos mapas",
+          "ausência total de decisões políticas"
+        ],
+        "respostaCorreta": "processos históricos e econômicos distintos",
+        "explicacao": "As desigualdades se relacionam a diferentes formas de ocupação, investimento e organização do território.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar desigualdades regionais ajuda a compreender contrastes territoriais e sociais.",
+          "O desenvolvimento é sempre igual em qualquer região.",
+          "Diferenças regionais não têm relação com política e economia.",
+          "Infraestrutura e serviços não interferem nas condições de vida."
+        ],
+        "respostaCorreta": "Estudar desigualdades regionais ajuda a compreender contrastes territoriais e sociais.",
+        "explicacao": "O tema mostra como diferentes condições de desenvolvimento afetam o espaço geográfico e a vida das populações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar melhor a produção desigual do espaço geográfico",
+          "ignorar contrastes entre regiões",
+          "achar que o território se organiza sem influência social",
+          "reduzir a geografia a nomes de estados e capitais"
+        ],
+        "respostaCorreta": "interpretar melhor a produção desigual do espaço geográfico",
+        "explicacao": "O conteúdo fortalece a leitura crítica das diferenças territoriais e de suas causas históricas e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Desenvolvimento e desigualdades regionais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O desenvolvimento não ocorre de forma igual em todas as regiões de um país ou do mundo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O desenvolvimento não ocorre de forma igual em todas as regiões de um país ou do mundo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-02",
+        "enunciado": "Ao estudar \"Desenvolvimento e desigualdades regionais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "As desigualdades regionais estão ligadas a fatores históricos, econômicos, sociais e políticos"
+        ],
+        "respostaCorreta": "As desigualdades regionais estão ligadas a fatores históricos, econômicos, sociais e políticos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-05",
+        "enunciado": "No contexto de \"Desenvolvimento e desigualdades regionais\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-06",
+        "enunciado": "O estudo de \"Desenvolvimento e desigualdades regionais\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender diferenças entre regiões"
+        ],
+        "respostaCorreta": "compreender diferenças entre regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analisar desigualdades regionais ajuda a perceber que o espaço geográfico é produzido socialmente e reflete relações de poder, prioridades econômicas e decisões políticas. Esse olhar amplia a compreensão da realidade territorial",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Analisar desigualdades regionais ajuda a perceber que o espaço geográfico é produzido socialmente e reflete relações de poder, prioridades econômicas e decisões políticas. Esse olhar amplia a compreensão da realidade territorial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte o que explica os contrastes observados entre diferentes regiões",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte o que explica os contrastes observados entre diferentes regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender leitura crítica do território",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender leitura crítica do território",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare duas regiões com níveis diferentes de infraestrutura e acesso a serviços"
+        ],
+        "respostaCorreta": "Compare duas regiões com níveis diferentes de infraestrutura e acesso a serviços",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Desenvolvimento e desigualdades regionais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a ideia de desigualdade regional",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a ideia de desigualdade regional",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-12",
+        "enunciado": "Ao estudar \"Desenvolvimento e desigualdades regionais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os contrastes entre oportunidades e condições de vida",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os contrastes entre oportunidades e condições de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que essas diferenças têm causas históricas e sociais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que essas diferenças têm causas históricas e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O desenvolvimento não ocorre de forma igual em todas as regiões de um país ou do mundo"
+        ],
+        "respostaCorreta": "O desenvolvimento não ocorre de forma igual em todas as regiões de um país ou do mundo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-desenvolvimento-desigualdades-regionais-sim-01","enunciado":"A principal ideia desse tema é compreender que o território:","tipo":"multipla_escolha","alternativas":["apresenta contrastes de desenvolvimento ligados a processos históricos, sociais e econômicos","se organiza de forma igual em todas as regiões","não sofre influência de políticas e investimentos","não revela desigualdades entre lugares"],"respostaCorreta":"apresenta contrastes de desenvolvimento ligados a processos históricos, sociais e econômicos","explicacao":"O estudo das desigualdades regionais ajuda a interpretar como o espaço geográfico é produzido de forma desigual.","dificuldade":"medio"}
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o território:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresenta contrastes de desenvolvimento ligados a processos históricos, sociais e econômicos",
+          "se organiza de forma igual em todas as regiões",
+          "não sofre influência de políticas e investimentos",
+          "não revela desigualdades entre lugares"
+        ],
+        "respostaCorreta": "apresenta contrastes de desenvolvimento ligados a processos históricos, sociais e econômicos",
+        "explicacao": "O estudo das desigualdades regionais ajuda a interpretar como o espaço geográfico é produzido de forma desigual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Desenvolvimento e desigualdades regionais\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender contrastes territoriais e desafios da organização do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Desenvolvimento e desigualdades regionais\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento"
+        ],
+        "respostaCorreta": "Algumas regiões concentram mais infraestrutura, renda, serviços e oportunidades, enquanto outras enfrentam maiores dificuldades nesses aspectos. Essas diferenças resultam de processos históricos e de formas desiguais de ocupação e investimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como o desenvolvimento pode variar conforme acesso a recursos, trabalho e políticas públicas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Desenvolvimento e desigualdades regionais\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender diferenças entre regiões",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender diferenças entre regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analisar desigualdades regionais ajuda a perceber que o espaço geográfico é produzido socialmente e reflete relações de poder, prioridades econômicas e decisões políticas. Esse olhar amplia a compreensão da realidade territorial",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Analisar desigualdades regionais ajuda a perceber que o espaço geográfico é produzido socialmente e reflete relações de poder, prioridades econômicas e decisões políticas. Esse olhar amplia a compreensão da realidade territorial",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-desenvolvimento-desigualdades-regionais-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte o que explica os contrastes observados entre diferentes regiões"
+        ],
+        "respostaCorreta": "Pergunte o que explica os contrastes observados entre diferentes regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Desenvolvimento e desigualdades regionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

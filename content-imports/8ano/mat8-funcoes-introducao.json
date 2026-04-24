@@ -1,0 +1,427 @@
+[
+  {
+    "id": "mat8-funcoes-introducao",
+    "titulo": "Introdução ao conceito de função",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "Uma função relaciona elementos de dois conjuntos de modo organizado.",
+      "Cada elemento de entrada corresponde a um único valor de saída.",
+      "O conceito de função é importante para representar relações matemáticas do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideia de dependência",
+        "texto": "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida.",
+        "dica": "Pense na função como uma relação em que uma grandeza varia conforme a outra."
+      },
+      {
+        "subtitulo": "Aplicações do conceito",
+        "texto": "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro.",
+        "dica": "Procure exemplos do cotidiano em que uma quantidade dependa de outra."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere que cada ingresso custa 12 reais.",
+        "passos": [
+          "Se uma pessoa compra 1 ingresso, paga 12 reais.",
+          "Se compra 2 ingressos, paga 24 reais.",
+          "O preço total depende da quantidade comprada."
+        ],
+        "resposta": "Essa situação pode ser representada por uma função entre quantidade e preço."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução ao conceito de função\".",
+        "passos": [
+          "Uma função relaciona elementos de dois conjuntos de modo organizado",
+          "Cada elemento de entrada corresponde a um único valor de saída",
+          "O conceito de função é importante para representar relações matemáticas do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao conceito de função pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução ao conceito de função\".",
+        "passos": [
+          "Cada elemento de entrada corresponde a um único valor de saída",
+          "O conceito de função é importante para representar relações matemáticas do cotidiano",
+          "Ideia de dependência"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao conceito de função pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução ao conceito de função\".",
+        "passos": [
+          "O conceito de função é importante para representar relações matemáticas do cotidiano",
+          "Ideia de dependência",
+          "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao conceito de função pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução ao conceito de função\".",
+        "passos": [
+          "Ideia de dependência",
+          "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida",
+          "Pense na função como uma relação em que uma grandeza varia conforme a outra"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao conceito de função pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-funcoes-introducao-ex-01",
+        "enunciado": "Uma função estabelece uma relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valores de entrada e valores de saída",
+          "somente figuras geométricas",
+          "apenas palavras de um texto",
+          "nomes próprios e adjetivos"
+        ],
+        "respostaCorreta": "valores de entrada e valores de saída",
+        "explicacao": "A função relaciona dois conjuntos por uma regra definida.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-ex-02",
+        "enunciado": "Em uma função, cada valor de entrada deve corresponder a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um único valor de saída",
+          "dois valores aleatórios",
+          "nenhum resultado",
+          "infinitos valores sem regra"
+        ],
+        "respostaCorreta": "um único valor de saída",
+        "explicacao": "Essa é uma característica essencial do conceito de função.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-ex-03",
+        "enunciado": "Qual situação pode ser associada ao conceito de função?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "preço total em função da quantidade comprada",
+          "ordem alfabética de nomes sem relação numérica",
+          "cor preferida de cada aluno sem regra definida",
+          "lista de palavras soltas"
+        ],
+        "respostaCorreta": "preço total em função da quantidade comprada",
+        "explicacao": "O valor total depende da quantidade, seguindo uma regra de correspondência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-ex-04",
+        "enunciado": "Estudar funções ajuda o aluno a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações entre grandezas que variam",
+          "apenas fórmulas sem aplicação",
+          "somente desenhos geométricos",
+          "apenas números romanos"
+        ],
+        "respostaCorreta": "relações entre grandezas que variam",
+        "explicacao": "As funções descrevem dependências entre quantidades em diversas situações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma função relaciona elementos de dois conjuntos de modo organizado",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Uma função relaciona elementos de dois conjuntos de modo organizado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada elemento de entrada corresponde a um único valor de saída"
+        ],
+        "respostaCorreta": "Cada elemento de entrada corresponde a um único valor de saída",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O conceito de função é importante para representar relações matemáticas do cotidiano",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O conceito de função é importante para representar relações matemáticas do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense na função como uma relação em que uma grandeza varia conforme a outra",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense na função como uma relação em que uma grandeza varia conforme a outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro"
+        ],
+        "respostaCorreta": "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Procure exemplos do cotidiano em que uma quantidade dependa de outra",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Procure exemplos do cotidiano em que uma quantidade dependa de outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere que cada ingresso custa 12 reais",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere que cada ingresso custa 12 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Essa situação pode ser representada por uma função entre quantidade e preço",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Essa situação pode ser representada por uma função entre quantidade e preço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se uma pessoa compra 1 ingresso, paga 12 reais"
+        ],
+        "respostaCorreta": "Se uma pessoa compra 1 ingresso, paga 12 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se compra 2 ingressos, paga 24 reais",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Se compra 2 ingressos, paga 24 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O preço total depende da quantidade comprada",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O preço total depende da quantidade comprada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma função relaciona elementos de dois conjuntos de modo organizado",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Uma função relaciona elementos de dois conjuntos de modo organizado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada elemento de entrada corresponde a um único valor de saída"
+        ],
+        "respostaCorreta": "Cada elemento de entrada corresponde a um único valor de saída",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-funcoes-introducao-sim-01",
+        "enunciado": "A ideia central do conceito de função é que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um valor depende de outro segundo uma regra",
+          "qualquer número pode ter infinitas saídas ao mesmo tempo",
+          "não existe relação entre as grandezas envolvidas",
+          "o tema serve apenas para tabelas sem interpretação"
+        ],
+        "respostaCorreta": "um valor depende de outro segundo uma regra",
+        "explicacao": "A função organiza uma correspondência entre valores de entrada e saída.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O conceito de função é importante para representar relações matemáticas do cotidiano",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O conceito de função é importante para representar relações matemáticas do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida"
+        ],
+        "respostaCorreta": "Em uma função, um valor depende do outro. Isso significa que, ao escolher um elemento de entrada, obtemos um único resultado correspondente, segundo uma regra estabelecida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense na função como uma relação em que uma grandeza varia conforme a outra",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense na função como uma relação em que uma grandeza varia conforme a outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O estudo de funções ajuda a descrever situações como preço por quantidade, distância ao longo do tempo e outras relações em que um valor muda de acordo com outro",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Procure exemplos do cotidiano em que uma quantidade dependa de outra",
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Procure exemplos do cotidiano em que uma quantidade dependa de outra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-funcoes-introducao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao conceito de função se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao conceito de função pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao conceito de função dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere que cada ingresso custa 12 reais"
+        ],
+        "respostaCorreta": "Considere que cada ingresso custa 12 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao conceito de função, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

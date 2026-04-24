@@ -1,0 +1,427 @@
+[
+  {
+    "id": "red8-introducao-desenvolvimento-conclusao",
+    "titulo": "Introdução, desenvolvimento e conclusão",
+    "disciplinaId": "red8",
+    "turmaId": "8ano",
+    "unidade": "Estrutura textual",
+    "resumo": [
+      "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão.",
+      "Cada parte cumpre uma função importante na construção do sentido global.",
+      "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Função da introdução",
+        "texto": "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início.",
+        "dica": "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto."
+      },
+      {
+        "subtitulo": "Desenvolvimento e conclusão",
+        "texto": "No desenvolvimento, as ideias são explicadas, exemplificadas ou argumentadas. A conclusão retoma o caminho construído e encerra o texto de maneira coerente com o que foi apresentado.",
+        "dica": "Observe se cada parte do texto cumpre sua função sem repetição desnecessária."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma redação sobre o uso consciente da água.",
+        "passos": [
+          "A introdução apresenta o tema.",
+          "O desenvolvimento explica a importância do cuidado com a água.",
+          "A conclusão encerra o texto retomando a ideia central."
+        ],
+        "resposta": "Esse esquema mostra a organização básica de muitos textos escolares."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução, desenvolvimento e conclusão\".",
+        "passos": [
+          "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão",
+          "Cada parte cumpre uma função importante na construção do sentido global",
+          "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução, desenvolvimento e conclusão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução, desenvolvimento e conclusão\".",
+        "passos": [
+          "Cada parte cumpre uma função importante na construção do sentido global",
+          "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+          "Função da introdução"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução, desenvolvimento e conclusão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução, desenvolvimento e conclusão\".",
+        "passos": [
+          "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+          "Função da introdução",
+          "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução, desenvolvimento e conclusão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução, desenvolvimento e conclusão\".",
+        "passos": [
+          "Função da introdução",
+          "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início",
+          "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução, desenvolvimento e conclusão pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-ex-01",
+        "enunciado": "A introdução de um texto serve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresentar o tema ao leitor",
+          "repetir a conclusão",
+          "eliminar o assunto principal",
+          "dispensar o desenvolvimento"
+        ],
+        "respostaCorreta": "apresentar o tema ao leitor",
+        "explicacao": "A introdução situa o leitor e inicia a organização do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-ex-02",
+        "enunciado": "No desenvolvimento, o texto deve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "explicar ou argumentar as ideias principais",
+          "encerrar o assunto imediatamente",
+          "apresentar apenas o título novamente",
+          "substituir frases por palavras soltas"
+        ],
+        "respostaCorreta": "explicar ou argumentar as ideias principais",
+        "explicacao": "O desenvolvimento é a parte em que o tema é efetivamente construído e aprofundado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A conclusão encerra o texto de forma coerente com o que foi desenvolvido.",
+          "A conclusão deve apresentar um tema totalmente diferente.",
+          "A introdução substitui todas as outras partes do texto.",
+          "A estrutura textual não interfere na compreensão do leitor."
+        ],
+        "respostaCorreta": "A conclusão encerra o texto de forma coerente com o que foi desenvolvido.",
+        "explicacao": "A conclusão retoma o percurso do texto e finaliza a leitura com unidade de sentido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-ex-04",
+        "enunciado": "Estudar essa estrutura ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "planejar e organizar melhor a escrita",
+          "eliminar toda necessidade de planejamento",
+          "escrever sem observar o leitor",
+          "trocar texto por frases desconectadas"
+        ],
+        "respostaCorreta": "planejar e organizar melhor a escrita",
+        "explicacao": "Compreender a função de cada parte fortalece a clareza e a organização da redação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada parte cumpre uma função importante na construção do sentido global"
+        ],
+        "respostaCorreta": "Cada parte cumpre uma função importante na construção do sentido global",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No desenvolvimento, as ideias são explicadas, exemplificadas ou argumentadas. A conclusão retoma o caminho construído e encerra o texto de maneira coerente com o que foi apresentado"
+        ],
+        "respostaCorreta": "No desenvolvimento, as ideias são explicadas, exemplificadas ou argumentadas. A conclusão retoma o caminho construído e encerra o texto de maneira coerente com o que foi apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se cada parte do texto cumpre sua função sem repetição desnecessária",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se cada parte do texto cumpre sua função sem repetição desnecessária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma redação sobre o uso consciente da água",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma redação sobre o uso consciente da água",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse esquema mostra a organização básica de muitos textos escolares",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse esquema mostra a organização básica de muitos textos escolares",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A introdução apresenta o tema"
+        ],
+        "respostaCorreta": "A introdução apresenta o tema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O desenvolvimento explica a importância do cuidado com a água",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O desenvolvimento explica a importância do cuidado com a água",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A conclusão encerra o texto retomando a ideia central",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A conclusão encerra o texto retomando a ideia central",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Muitos textos escolares se organizam em introdução, desenvolvimento e conclusão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada parte cumpre uma função importante na construção do sentido global"
+        ],
+        "respostaCorreta": "Cada parte cumpre uma função importante na construção do sentido global",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-sim-01",
+        "enunciado": "A principal contribuição do estudo dessa estrutura é entender que um texto:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fica mais claro quando cada parte cumpre uma função",
+          "não precisa de começo, meio e fim organizados",
+          "dispensa a apresentação do tema",
+          "pode ser escrito ao acaso sem prejuízo de sentido"
+        ],
+        "respostaCorreta": "fica mais claro quando cada parte cumpre uma função",
+        "explicacao": "Introdução, desenvolvimento e conclusão ajudam a construir unidade e progressão de ideias na escrita.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar essa estrutura ajuda a escrever com mais clareza e planejamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início"
+        ],
+        "respostaCorreta": "A introdução apresenta o tema e prepara o leitor para o que será desenvolvido no texto. Ela deve indicar com clareza o assunto tratado e orientar a leitura desde o início",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte o que o leitor precisa saber logo no começo para acompanhar o texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No desenvolvimento, as ideias são explicadas, exemplificadas ou argumentadas. A conclusão retoma o caminho construído e encerra o texto de maneira coerente com o que foi apresentado",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "No desenvolvimento, as ideias são explicadas, exemplificadas ou argumentadas. A conclusão retoma o caminho construído e encerra o texto de maneira coerente com o que foi apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se cada parte do texto cumpre sua função sem repetição desnecessária",
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se cada parte do texto cumpre sua função sem repetição desnecessária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-introducao-desenvolvimento-conclusao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução, desenvolvimento e conclusão se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução, desenvolvimento e conclusão pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução, desenvolvimento e conclusão dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma redação sobre o uso consciente da água"
+        ],
+        "respostaCorreta": "Considere uma redação sobre o uso consciente da água",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução, desenvolvimento e conclusão, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

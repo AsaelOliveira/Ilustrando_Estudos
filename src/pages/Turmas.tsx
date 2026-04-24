@@ -26,14 +26,10 @@ const turmaColors: Record<string, string> = {
 export default function Turmas() {
   const { user, profile, role } = useAuth();
   const metadataTurma =
-    user?.user_metadata && typeof user.user_metadata.turma_id === "string"
-      ? user.user_metadata.turma_id
-      : null;
+    user?.user_metadata && typeof user.user_metadata.turma_id === "string" ? user.user_metadata.turma_id : null;
   const userTurma = profile?.turma_id ?? metadataTurma;
   const isAdmin = role === "admin";
-  const unlockedTurmas = user && !isAdmin && userTurma
-    ? getAccessibleTurmas(userTurma)
-    : [];
+  const unlockedTurmas = user && !isAdmin && userTurma ? getAccessibleTurmas(userTurma) : [];
 
   return (
     <Layout>
@@ -42,12 +38,8 @@ export default function Turmas() {
         <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }}>
           {!user || isAdmin ? (
             <>
-              <h1 className="mb-2 font-heading text-3xl font-extrabold text-foreground">
-                Escolha sua turma
-              </h1>
-              <p className="mb-10 font-body text-muted-foreground">
-                Selecione o ano para ver as disciplinas disponiveis.
-              </p>
+              <h1 className="mb-2 font-heading text-3xl font-extrabold text-foreground">Escolha sua turma</h1>
+              <p className="mb-10 font-body text-muted-foreground">Selecione o ano para ver as disciplinas disponíveis.</p>
             </>
           ) : (
             <div className="mb-8" />
@@ -66,11 +58,9 @@ export default function Turmas() {
                   <Stars className="h-3.5 w-3.5" />
                   Trilha da sua jornada
                 </p>
-                <h2 className="mt-3 font-heading text-xl font-bold text-foreground">
-                  Continue avancando serie por serie
-                </h2>
+                <h2 className="mt-3 font-heading text-xl font-bold text-foreground">Continue avançando série por série</h2>
                 <p className="mt-1 max-w-2xl font-body text-sm text-muted-foreground">
-                  Cada etapa mostra o que ja esta liberado e o que ainda vem pela frente na sua caminhada.
+                  Cada etapa mostra o que já está liberado e o que ainda vem pela frente na sua caminhada.
                 </p>
               </div>
 
@@ -94,9 +84,7 @@ export default function Turmas() {
                         <span>{turma.nome}</span>
                         {!unlocked && <Lock className="h-3.5 w-3.5" />}
                       </div>
-                      {index < turmas.length - 1 && (
-                        <span className="text-muted-foreground/50">→</span>
-                      )}
+                      {index < turmas.length - 1 && <span className="text-muted-foreground/50">→</span>}
                     </div>
                   );
                 })}
@@ -105,12 +93,7 @@ export default function Turmas() {
           </motion.div>
         )}
 
-        <motion.div
-          variants={container}
-          initial="hidden"
-          animate="show"
-          className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4"
-        >
+        <motion.div variants={container} initial="hidden" animate="show" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {turmas.map((turma) => {
             const isLocked = user && !isAdmin ? !userTurma || !canAccessTurma(userTurma, turma.id) : false;
             const gradient = turmaColors[turma.id] || "from-primary/20 to-primary/5";
@@ -145,10 +128,10 @@ export default function Turmas() {
                       <div className="mt-5 rounded-2xl border border-dashed border-border bg-white/75 p-4 backdrop-blur">
                         <p className="inline-flex items-center gap-2 text-xs font-heading font-semibold uppercase tracking-[0.16em] text-muted-foreground">
                           <Sparkles className="h-3.5 w-3.5" />
-                          Proxima etapa
+                          Próxima etapa
                         </p>
                         <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">
-                          Continue sua jornada para desbloquear esta serie e descobrir novos desafios.
+                          Continue sua jornada para desbloquear esta série e descobrir novos desafios.
                         </p>
                       </div>
                     </div>
@@ -161,10 +144,7 @@ export default function Turmas() {
                     <div className={`absolute inset-0 bg-gradient-to-br ${gradient} opacity-0 transition-opacity duration-500 group-hover:opacity-100`} />
                     <div className="relative z-10">
                       <div className="mb-4 flex items-center gap-3">
-                        <motion.span
-                          className="text-3xl"
-                          whileHover={{ scale: 1.2, rotate: 10 }}
-                        >
+                        <motion.span className="text-3xl" whileHover={{ scale: 1.2, rotate: 10 }}>
                           {turma.icone}
                         </motion.span>
                         <div className="origin-left font-heading text-5xl font-extrabold text-gradient transition-transform duration-300 group-hover:scale-110">

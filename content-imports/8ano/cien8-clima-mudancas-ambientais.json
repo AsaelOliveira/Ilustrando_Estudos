@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-clima-mudancas-ambientais",
+    "titulo": "Clima e mudanças ambientais",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Terra e ambiente",
+    "resumo": [
+      "O clima resulta da observação de condições atmosféricas ao longo do tempo.",
+      "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida.",
+      "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diferença entre tempo e clima",
+        "texto": "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais.",
+        "dica": "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura."
+      },
+      {
+        "subtitulo": "Impactos das mudanças ambientais",
+        "texto": "Mudanças no ambiente podem influenciar disponibilidade de água, equilíbrio dos ecossistemas, agricultura e qualidade de vida das populações. Por isso, o estudo do clima se relaciona a decisões individuais e coletivas.",
+        "dica": "Observe como ações humanas e processos naturais podem alterar o ambiente."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma região que passa longos períodos com redução de chuvas.",
+        "passos": [
+          "Observe os efeitos sobre rios, plantas e agricultura.",
+          "Perceba que mudanças ambientais afetam diferentes aspectos da vida."
+        ],
+        "resposta": "Esse exemplo mostra como alterações no clima podem gerar consequências amplas no ambiente e na sociedade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Clima e mudanças ambientais\".",
+        "passos": [
+          "O clima resulta da observação de condições atmosféricas ao longo do tempo",
+          "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida",
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental"
+        ],
+        "resposta": "Esse exemplo mostra como Clima e mudanças ambientais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Clima e mudanças ambientais\".",
+        "passos": [
+          "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida",
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+          "Diferença entre tempo e clima"
+        ],
+        "resposta": "Esse exemplo mostra como Clima e mudanças ambientais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Clima e mudanças ambientais\".",
+        "passos": [
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+          "Diferença entre tempo e clima",
+          "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais"
+        ],
+        "resposta": "Esse exemplo mostra como Clima e mudanças ambientais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Clima e mudanças ambientais\".",
+        "passos": [
+          "Diferença entre tempo e clima",
+          "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais",
+          "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura"
+        ],
+        "resposta": "Esse exemplo mostra como Clima e mudanças ambientais pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-clima-mudancas-ambientais-ex-01",
+        "enunciado": "O clima corresponde a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "padrões atmosféricos observados ao longo do tempo",
+          "uma chuva isolada em um dia",
+          "apenas a temperatura de uma manhã",
+          "somente a direção do vento em um momento"
+        ],
+        "respostaCorreta": "padrões atmosféricos observados ao longo do tempo",
+        "explicacao": "O clima é analisado em períodos mais longos, e não por uma condição momentânea apenas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-ex-02",
+        "enunciado": "As mudanças ambientais podem afetar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ecossistemas e qualidade de vida",
+          "apenas a ordem alfabética das palavras",
+          "somente a pontuação de textos",
+          "exclusivamente o formato das figuras geométricas"
+        ],
+        "respostaCorreta": "ecossistemas e qualidade de vida",
+        "explicacao": "As alterações ambientais têm impacto sobre a natureza e sobre as populações humanas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tempo atmosférico e clima não são a mesma coisa.",
+          "Clima e tempo sempre significam exatamente o mesmo.",
+          "Mudanças ambientais não afetam a sociedade.",
+          "O clima só interessa aos cientistas e não ao cotidiano."
+        ],
+        "respostaCorreta": "Tempo atmosférico e clima não são a mesma coisa.",
+        "explicacao": "O tempo descreve condições momentâneas, enquanto o clima se refere a padrões de longo prazo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-ex-04",
+        "enunciado": "Estudar clima e mudanças ambientais ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver uma visão mais responsável sobre o ambiente",
+          "ignorar os impactos humanos na natureza",
+          "pensar que o ambiente nunca muda",
+          "dispensar qualquer cuidado com recursos naturais"
+        ],
+        "respostaCorreta": "desenvolver uma visão mais responsável sobre o ambiente",
+        "explicacao": "Esse conteúdo contribui para a compreensão de impactos ambientais e atitudes mais conscientes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O clima resulta da observação de condições atmosféricas ao longo do tempo",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O clima resulta da observação de condições atmosféricas ao longo do tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida"
+        ],
+        "respostaCorreta": "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudanças no ambiente podem influenciar disponibilidade de água, equilíbrio dos ecossistemas, agricultura e qualidade de vida das populações. Por isso, o estudo do clima se relaciona a decisões individuais e coletivas"
+        ],
+        "respostaCorreta": "Mudanças no ambiente podem influenciar disponibilidade de água, equilíbrio dos ecossistemas, agricultura e qualidade de vida das populações. Por isso, o estudo do clima se relaciona a decisões individuais e coletivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como ações humanas e processos naturais podem alterar o ambiente",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como ações humanas e processos naturais podem alterar o ambiente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma região que passa longos períodos com redução de chuvas",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma região que passa longos períodos com redução de chuvas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como alterações no clima podem gerar consequências amplas no ambiente e na sociedade",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como alterações no clima podem gerar consequências amplas no ambiente e na sociedade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe os efeitos sobre rios, plantas e agricultura"
+        ],
+        "respostaCorreta": "Observe os efeitos sobre rios, plantas e agricultura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que mudanças ambientais afetam diferentes aspectos da vida",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que mudanças ambientais afetam diferentes aspectos da vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O clima resulta da observação de condições atmosféricas ao longo do tempo",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O clima resulta da observação de condições atmosféricas ao longo do tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Mudanças ambientais podem afetar ecossistemas, recursos e formas de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental"
+        ],
+        "respostaCorreta": "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-clima-mudancas-ambientais-sim-01",
+        "enunciado": "A principal contribuição do estudo do clima para a formação do estudante é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como fenômenos ambientais se relacionam à vida humana e ao equilíbrio dos ecossistemas",
+          "apenas nomes de estações do ano",
+          "somente a medição de ângulos",
+          "exclusivamente regras gramaticais"
+        ],
+        "respostaCorreta": "como fenômenos ambientais se relacionam à vida humana e ao equilíbrio dos ecossistemas",
+        "explicacao": "O tema aproxima ciência, ambiente e responsabilidade social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender esse tema ajuda a desenvolver responsabilidade socioambiental",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais"
+        ],
+        "respostaCorreta": "O tempo atmosférico se refere às condições momentâneas da atmosfera, enquanto o clima corresponde a padrões observados por períodos mais longos. Essa distinção é importante para interpretar fenômenos ambientais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Lembre que o tempo muda em curto prazo, e o clima descreve uma tendência mais duradoura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Mudanças no ambiente podem influenciar disponibilidade de água, equilíbrio dos ecossistemas, agricultura e qualidade de vida das populações. Por isso, o estudo do clima se relaciona a decisões individuais e coletivas",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Mudanças no ambiente podem influenciar disponibilidade de água, equilíbrio dos ecossistemas, agricultura e qualidade de vida das populações. Por isso, o estudo do clima se relaciona a decisões individuais e coletivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como ações humanas e processos naturais podem alterar o ambiente",
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como ações humanas e processos naturais podem alterar o ambiente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-clima-mudancas-ambientais-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de clima e mudanças ambientais se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Clima e mudanças ambientais pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com clima e mudanças ambientais dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma região que passa longos períodos com redução de chuvas"
+        ],
+        "respostaCorreta": "Considere uma região que passa longos períodos com redução de chuvas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Clima e mudanças ambientais, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

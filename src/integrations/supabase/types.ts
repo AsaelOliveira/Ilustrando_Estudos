@@ -385,11 +385,23 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
+      accept_duel: {
+        Args: {
+          p_duel_id: string
+        }
+        Returns: Database["public"]["Tables"]["duels"]["Row"]
+      }
       admin_reset_student_progress: {
         Args: {
           p_user_id: string
         }
         Returns: undefined
+      }
+      cancel_duel: {
+        Args: {
+          p_duel_id: string
+        }
+        Returns: Database["public"]["Tables"]["duels"]["Row"]
       }
       has_role: {
         Args: {
@@ -404,11 +416,30 @@ export type Database = {
         }
         Returns: undefined
       }
+      submit_daily_mission: {
+        Args: {
+          p_answers: string[]
+          p_anti_cheat_flags?: Json
+          p_question_ids: string[]
+          p_time_spent_seconds?: number
+          p_turma_id: string
+        }
+        Returns: Json
+      }
       resolve_login_email: {
         Args: {
           p_identifier: string
         }
         Returns: string | null
+      }
+      submit_duel_attempt: {
+        Args: {
+          p_answers: string[]
+          p_anti_cheat_flags?: Json
+          p_duel_id: string
+          p_time_spent_seconds?: number
+        }
+        Returns: Database["public"]["Tables"]["duels"]["Row"]
       }
     }
     Enums: {

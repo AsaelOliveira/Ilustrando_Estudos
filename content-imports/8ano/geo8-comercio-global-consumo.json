@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-comercio-global-consumo",
+    "titulo": "Comércio global e consumo",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Globalização e economia",
+    "resumo": [
+      "O comércio global conecta países, empresas e consumidores em diferentes escalas.",
+      "O consumo está ligado à circulação de produtos, informações e publicidade.",
+      "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Circulação de mercadorias",
+        "texto": "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica.",
+        "dica": "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor."
+      },
+      {
+        "subtitulo": "Consumo e sociedade",
+        "texto": "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica.",
+        "dica": "Pergunte como produção, circulação e consumo se relacionam no cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em um produto fabricado em outro país e vendido em sua cidade.",
+        "passos": [
+          "Identifique que houve circulação internacional de mercadorias.",
+          "Observe que esse processo depende de redes comerciais e de transporte."
+        ],
+        "resposta": "Esse exemplo mostra uma relação típica do comércio global."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Comércio global e consumo\".",
+        "passos": [
+          "O comércio global conecta países, empresas e consumidores em diferentes escalas",
+          "O consumo está ligado à circulação de produtos, informações e publicidade",
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais"
+        ],
+        "resposta": "Esse exemplo mostra como Comércio global e consumo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Comércio global e consumo\".",
+        "passos": [
+          "O consumo está ligado à circulação de produtos, informações e publicidade",
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+          "Circulação de mercadorias"
+        ],
+        "resposta": "Esse exemplo mostra como Comércio global e consumo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Comércio global e consumo\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+          "Circulação de mercadorias",
+          "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica"
+        ],
+        "resposta": "Esse exemplo mostra como Comércio global e consumo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Comércio global e consumo\".",
+        "passos": [
+          "Circulação de mercadorias",
+          "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica",
+          "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor"
+        ],
+        "resposta": "Esse exemplo mostra como Comércio global e consumo pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-comercio-global-consumo-ex-01",
+        "enunciado": "O comércio global se caracteriza por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conectar produção, circulação e consumo em diferentes lugares",
+          "eliminar toda circulação de mercadorias",
+          "funcionar apenas dentro de uma única cidade",
+          "substituir completamente os meios de transporte"
+        ],
+        "respostaCorreta": "conectar produção, circulação e consumo em diferentes lugares",
+        "explicacao": "O comércio global articula espaços diversos por meio de redes econômicas e logísticas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-ex-02",
+        "enunciado": "O consumo está relacionado também a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hábitos sociais e publicidade",
+          "somente fenômenos naturais",
+          "apenas regras gramaticais",
+          "somente a idade das pessoas"
+        ],
+        "respostaCorreta": "hábitos sociais e publicidade",
+        "explicacao": "O consumo depende de fatores sociais, culturais e econômicos, e não apenas da necessidade imediata.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Produtos podem ser fabricados em um lugar e consumidos em outro graças às redes globais.",
+          "Todo produto é fabricado e consumido no mesmo local.",
+          "O comércio global não depende de transporte nem tecnologia.",
+          "Consumo e economia não têm relação."
+        ],
+        "respostaCorreta": "Produtos podem ser fabricados em um lugar e consumidos em outro graças às redes globais.",
+        "explicacao": "A globalização econômica permite a circulação internacional de mercadorias em grande escala.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-ex-04",
+        "enunciado": "Estudar comércio global e consumo ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relações econômicas e impactos sociais e ambientais",
+          "somente a estrutura interna da Terra",
+          "apenas a classificação dos verbos",
+          "exclusivamente a formação dos rios"
+        ],
+        "respostaCorreta": "relações econômicas e impactos sociais e ambientais",
+        "explicacao": "Esse tema mostra como economia, sociedade e ambiente se conectam na circulação de mercadorias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O comércio global conecta países, empresas e consumidores em diferentes escalas",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O comércio global conecta países, empresas e consumidores em diferentes escalas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O consumo está ligado à circulação de produtos, informações e publicidade"
+        ],
+        "respostaCorreta": "O consumo está ligado à circulação de produtos, informações e publicidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica"
+        ],
+        "respostaCorreta": "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte como produção, circulação e consumo se relacionam no cotidiano",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte como produção, circulação e consumo se relacionam no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em um produto fabricado em outro país e vendido em sua cidade",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em um produto fabricado em outro país e vendido em sua cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra uma relação típica do comércio global",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra uma relação típica do comércio global",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique que houve circulação internacional de mercadorias"
+        ],
+        "respostaCorreta": "Identifique que houve circulação internacional de mercadorias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que esse processo depende de redes comerciais e de transporte",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que esse processo depende de redes comerciais e de transporte",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O comércio global conecta países, empresas e consumidores em diferentes escalas",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O comércio global conecta países, empresas e consumidores em diferentes escalas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O consumo está ligado à circulação de produtos, informações e publicidade",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O consumo está ligado à circulação de produtos, informações e publicidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-comercio-global-consumo-sim-01",
+        "enunciado": "Ao estudar comércio global, o aluno deve perceber principalmente que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produção, circulação e consumo estão articulados em escala ampla",
+          "cada lugar consome apenas o que produz localmente",
+          "o consumo não sofre influência social",
+          "as redes comerciais não dependem de infraestrutura"
+        ],
+        "respostaCorreta": "produção, circulação e consumo estão articulados em escala ampla",
+        "explicacao": "O comércio global se apoia em redes que conectam diferentes territórios e etapas da economia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações econômicas e impactos sociais e ambientais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica"
+        ],
+        "respostaCorreta": "No mundo globalizado, produtos circulam por redes comerciais amplas e podem ser produzidos em um lugar, distribuídos em outro e consumidos em regiões distantes. Esse processo depende de transporte, tecnologia e organização econômica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como um produto pode passar por vários lugares antes de chegar ao consumidor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O consumo não depende apenas da necessidade individual, mas também de hábitos sociais, publicidade, acesso à renda e disponibilidade de mercadorias. Por isso, o tema deve ser analisado de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte como produção, circulação e consumo se relacionam no cotidiano",
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte como produção, circulação e consumo se relacionam no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-comercio-global-consumo-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de comércio global e consumo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Comércio global e consumo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com comércio global e consumo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em um produto fabricado em outro país e vendido em sua cidade"
+        ],
+        "respostaCorreta": "Pense em um produto fabricado em outro país e vendido em sua cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Comércio global e consumo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

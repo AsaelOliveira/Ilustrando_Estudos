@@ -18,8 +18,8 @@
       },
       {
         "subtitulo": "Literatura e realidade social",
-        "texto": "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento."
-        ,"dica": "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta."
+        "texto": "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento.",
+        "dica": "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta."
       }
     ],
     "exemplos": [
@@ -31,16 +31,397 @@
           "Relacione o conto a uma questão da sociedade contemporânea."
         ],
         "resposta": "Esse tipo de leitura mostra como a narrativa breve pode expressar tensões do mundo atual."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Contos contemporâneos e sociedade\".",
+        "passos": [
+          "Contos contemporâneos podem abordar conflitos, identidades e experiências do mundo atual",
+          "A narrativa curta permite observar escolhas de linguagem, foco narrativo e crítica social",
+          "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto"
+        ],
+        "resposta": "Esse exemplo mostra como Contos contemporâneos e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Contos contemporâneos e sociedade\".",
+        "passos": [
+          "A narrativa curta permite observar escolhas de linguagem, foco narrativo e crítica social",
+          "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+          "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor"
+        ],
+        "resposta": "Esse exemplo mostra como Contos contemporâneos e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Contos contemporâneos e sociedade\".",
+        "passos": [
+          "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+          "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor",
+          "Observe como poucos elementos podem construir um conflito significativo em um conto"
+        ],
+        "resposta": "Esse exemplo mostra como Contos contemporâneos e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Contos contemporâneos e sociedade\".",
+        "passos": [
+          "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor",
+          "Observe como poucos elementos podem construir um conflito significativo em um conto",
+          "Narrativa breve e intensidade"
+        ],
+        "resposta": "Esse exemplo mostra como Contos contemporâneos e sociedade pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"lit9-contos-contemporaneos-sociedade-ex-01","enunciado":"O conto contemporâneo pode apresentar:","tipo":"multipla_escolha","alternativas":["conflitos atuais e crítica social","apenas temas sem relação com a realidade","narrativas sempre muito longas","ausência de personagens"],"respostaCorreta":"conflitos atuais e crítica social","explicacao":"Muitos contos contemporâneos dialogam com experiências e problemas do presente.","dificuldade":"facil"},
-      {"id":"lit9-contos-contemporaneos-sociedade-ex-02","enunciado":"Uma característica do conto é:","tipo":"multipla_escolha","alternativas":["narrativa breve com foco em um conflito","texto exclusivamente informativo","ausência de enredo","proibição de ponto de vista narrativo"],"respostaCorreta":"narrativa breve com foco em um conflito","explicacao":"O conto costuma ser mais curto e concentrado em poucas situações centrais.","dificuldade":"facil"},
-      {"id":"lit9-contos-contemporaneos-sociedade-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A literatura contemporânea pode dialogar com questões sociais do presente.","Contos não permitem reflexão crítica.","Narrativas breves não apresentam conflitos relevantes.","Texto literário nunca se relaciona ao contexto social."],"respostaCorreta":"A literatura contemporânea pode dialogar com questões sociais do presente.","explicacao":"Muitos contos revelam problemas, tensões e experiências ligadas à vida em sociedade.","dificuldade":"medio"},
-      {"id":"lit9-contos-contemporaneos-sociedade-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["relacionar forma narrativa, conflito e contexto social","reduzir a leitura a resumo de enredo","ignorar o ponto de vista do narrador","separar literatura de reflexão crítica"],"respostaCorreta":"relacionar forma narrativa, conflito e contexto social","explicacao":"O conteúdo amplia a interpretação literária e a leitura das relações entre texto e sociedade.","dificuldade":"medio"}
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-ex-01",
+        "enunciado": "O conto contemporâneo pode apresentar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conflitos atuais e crítica social",
+          "apenas temas sem relação com a realidade",
+          "narrativas sempre muito longas",
+          "ausência de personagens"
+        ],
+        "respostaCorreta": "conflitos atuais e crítica social",
+        "explicacao": "Muitos contos contemporâneos dialogam com experiências e problemas do presente.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-ex-02",
+        "enunciado": "Uma característica do conto é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "narrativa breve com foco em um conflito",
+          "texto exclusivamente informativo",
+          "ausência de enredo",
+          "proibição de ponto de vista narrativo"
+        ],
+        "respostaCorreta": "narrativa breve com foco em um conflito",
+        "explicacao": "O conto costuma ser mais curto e concentrado em poucas situações centrais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A literatura contemporânea pode dialogar com questões sociais do presente.",
+          "Contos não permitem reflexão crítica.",
+          "Narrativas breves não apresentam conflitos relevantes.",
+          "Texto literário nunca se relaciona ao contexto social."
+        ],
+        "respostaCorreta": "A literatura contemporânea pode dialogar com questões sociais do presente.",
+        "explicacao": "Muitos contos revelam problemas, tensões e experiências ligadas à vida em sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar forma narrativa, conflito e contexto social",
+          "reduzir a leitura a resumo de enredo",
+          "ignorar o ponto de vista do narrador",
+          "separar literatura de reflexão crítica"
+        ],
+        "respostaCorreta": "relacionar forma narrativa, conflito e contexto social",
+        "explicacao": "O conteúdo amplia a interpretação literária e a leitura das relações entre texto e sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Contos contemporâneos e sociedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Contos contemporâneos podem abordar conflitos, identidades e experiências do mundo atual",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Contos contemporâneos podem abordar conflitos, identidades e experiências do mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-02",
+        "enunciado": "Ao estudar \"Contos contemporâneos e sociedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A narrativa curta permite observar escolhas de linguagem, foco narrativo e crítica social"
+        ],
+        "respostaCorreta": "A narrativa curta permite observar escolhas de linguagem, foco narrativo e crítica social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-05",
+        "enunciado": "No contexto de \"Contos contemporâneos e sociedade\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como poucos elementos podem construir um conflito significativo em um conto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como poucos elementos podem construir um conflito significativo em um conto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-06",
+        "enunciado": "O estudo de \"Contos contemporâneos e sociedade\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender narrativa breve e intensidade"
+        ],
+        "respostaCorreta": "compreender narrativa breve e intensidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender literatura e realidade social",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender literatura e realidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia um conto curto em que um conflito cotidiano revela um problema social mais amplo"
+        ],
+        "respostaCorreta": "Leia um conto curto em que um conflito cotidiano revela um problema social mais amplo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Contos contemporâneos e sociedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de leitura mostra como a narrativa breve pode expressar tensões do mundo atual",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de leitura mostra como a narrativa breve pode expressar tensões do mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-12",
+        "enunciado": "Ao estudar \"Contos contemporâneos e sociedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o conflito central da narrativa",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o conflito central da narrativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe o ponto de vista narrativo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe o ponto de vista narrativo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione o conto a uma questão da sociedade contemporânea"
+        ],
+        "respostaCorreta": "Relacione o conto a uma questão da sociedade contemporânea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"lit9-contos-contemporaneos-sociedade-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["contos contemporâneos podem revelar conflitos humanos e sociais de forma breve e intensa","narrativas curtas não permitem reflexão relevante","literatura contemporânea evita qualquer relação com a sociedade","todo conto contemporâneo repete modelos sem inovação"],"respostaCorreta":"contos contemporâneos podem revelar conflitos humanos e sociais de forma breve e intensa","explicacao":"O tema destaca a força interpretativa e crítica da narrativa contemporânea em formato breve.","dificuldade":"medio"}
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "contos contemporâneos podem revelar conflitos humanos e sociais de forma breve e intensa",
+          "narrativas curtas não permitem reflexão relevante",
+          "literatura contemporânea evita qualquer relação com a sociedade",
+          "todo conto contemporâneo repete modelos sem inovação"
+        ],
+        "respostaCorreta": "contos contemporâneos podem revelar conflitos humanos e sociais de forma breve e intensa",
+        "explicacao": "O tema destaca a força interpretativa e crítica da narrativa contemporânea em formato breve.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Contos contemporâneos e sociedade\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a interpretação literária e a relação entre texto e contexto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Contos contemporâneos e sociedade\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor"
+        ],
+        "respostaCorreta": "O conto contemporâneo costuma trabalhar situações concentradas, personagens marcantes e conflitos que revelam questões humanas e sociais. Mesmo em textos breves, a narrativa pode provocar reflexão profunda no leitor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como poucos elementos podem construir um conflito significativo em um conto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como poucos elementos podem construir um conflito significativo em um conto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Contos contemporâneos e sociedade\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender narrativa breve e intensidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender narrativa breve e intensidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Muitos contos contemporâneos dialogam com desigualdade, relações humanas, violência, memória, juventude e vida urbana. Isso permite perceber a literatura como espaço de crítica, expressão e questionamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit9-contos-contemporaneos-sociedade-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta"
+        ],
+        "respostaCorreta": "Pergunte quais aspectos da sociedade aparecem no conto e de que forma o texto os apresenta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Contos contemporâneos e sociedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

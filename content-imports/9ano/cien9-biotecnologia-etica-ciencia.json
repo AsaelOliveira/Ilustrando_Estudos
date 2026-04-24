@@ -30,16 +30,397 @@
           "Perceba que também é necessário pensar nas implicações éticas do uso dessa tecnologia."
         ],
         "resposta": "Esse exemplo mostra a ligação entre biotecnologia, inovação e responsabilidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Biotecnologia, ciência e ética\".",
+        "passos": [
+          "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas",
+          "Esse campo científico se relaciona à saúde, à produção e à pesquisa",
+          "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética"
+        ],
+        "resposta": "Esse exemplo mostra como Biotecnologia, ciência e ética pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Biotecnologia, ciência e ética\".",
+        "passos": [
+          "Esse campo científico se relaciona à saúde, à produção e à pesquisa",
+          "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+          "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias"
+        ],
+        "resposta": "Esse exemplo mostra como Biotecnologia, ciência e ética pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Biotecnologia, ciência e ética\".",
+        "passos": [
+          "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+          "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias",
+          "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica"
+        ],
+        "resposta": "Esse exemplo mostra como Biotecnologia, ciência e ética pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Biotecnologia, ciência e ética\".",
+        "passos": [
+          "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias",
+          "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica",
+          "Aplicações da biotecnologia"
+        ],
+        "resposta": "Esse exemplo mostra como Biotecnologia, ciência e ética pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-biotecnologia-etica-ciencia-ex-01","enunciado":"A biotecnologia se relaciona ao uso de:","tipo":"multipla_escolha","alternativas":["conhecimentos biológicos em aplicações diversas","apenas regras de pontuação","somente operações aritméticas","exclusivamente mapas históricos"],"respostaCorreta":"conhecimentos biológicos em aplicações diversas","explicacao":"A biotecnologia aplica conhecimentos da biologia em processos científicos e tecnológicos.","dificuldade":"facil"},
-      {"id":"cien9-biotecnologia-etica-ciencia-ex-02","enunciado":"Uma área em que a biotecnologia pode atuar é:","tipo":"multipla_escolha","alternativas":["saúde","apenas literatura","somente arte mural","exclusivamente cartografia"],"respostaCorreta":"saúde","explicacao":"Vacinas, medicamentos e outras aplicações mostram a presença da biotecnologia na área da saúde.","dificuldade":"facil"},
-      {"id":"cien9-biotecnologia-etica-ciencia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A biotecnologia deve ser analisada também sob o ponto de vista ético.","Ciência e ética nunca se relacionam.","Toda tecnologia pode ser usada sem reflexão alguma.","A biotecnologia não tem impacto social."],"respostaCorreta":"A biotecnologia deve ser analisada também sob o ponto de vista ético.","explicacao":"O uso do conhecimento científico exige responsabilidade e avaliação de seus impactos.","dificuldade":"medio"},
-      {"id":"cien9-biotecnologia-etica-ciencia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["relacionar ciência, inovação e responsabilidade","ignorar consequências do uso da tecnologia","separar totalmente ciência e sociedade","reduzir biotecnologia a uma curiosidade sem aplicação"],"respostaCorreta":"relacionar ciência, inovação e responsabilidade","explicacao":"O conteúdo fortalece a reflexão crítica sobre o papel da ciência e seus efeitos na vida social.","dificuldade":"medio"}
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-ex-01",
+        "enunciado": "A biotecnologia se relaciona ao uso de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conhecimentos biológicos em aplicações diversas",
+          "apenas regras de pontuação",
+          "somente operações aritméticas",
+          "exclusivamente mapas históricos"
+        ],
+        "respostaCorreta": "conhecimentos biológicos em aplicações diversas",
+        "explicacao": "A biotecnologia aplica conhecimentos da biologia em processos científicos e tecnológicos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-ex-02",
+        "enunciado": "Uma área em que a biotecnologia pode atuar é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "saúde",
+          "apenas literatura",
+          "somente arte mural",
+          "exclusivamente cartografia"
+        ],
+        "respostaCorreta": "saúde",
+        "explicacao": "Vacinas, medicamentos e outras aplicações mostram a presença da biotecnologia na área da saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A biotecnologia deve ser analisada também sob o ponto de vista ético.",
+          "Ciência e ética nunca se relacionam.",
+          "Toda tecnologia pode ser usada sem reflexão alguma.",
+          "A biotecnologia não tem impacto social."
+        ],
+        "respostaCorreta": "A biotecnologia deve ser analisada também sob o ponto de vista ético.",
+        "explicacao": "O uso do conhecimento científico exige responsabilidade e avaliação de seus impactos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar ciência, inovação e responsabilidade",
+          "ignorar consequências do uso da tecnologia",
+          "separar totalmente ciência e sociedade",
+          "reduzir biotecnologia a uma curiosidade sem aplicação"
+        ],
+        "respostaCorreta": "relacionar ciência, inovação e responsabilidade",
+        "explicacao": "O conteúdo fortalece a reflexão crítica sobre o papel da ciência e seus efeitos na vida social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Biotecnologia, ciência e ética\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-02",
+        "enunciado": "Ao estudar \"Biotecnologia, ciência e ética\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse campo científico se relaciona à saúde, à produção e à pesquisa"
+        ],
+        "respostaCorreta": "Esse campo científico se relaciona à saúde, à produção e à pesquisa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-05",
+        "enunciado": "No contexto de \"Biotecnologia, ciência e ética\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-06",
+        "enunciado": "O estudo de \"Biotecnologia, ciência e ética\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender aplicações da biotecnologia"
+        ],
+        "respostaCorreta": "compreender aplicações da biotecnologia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Toda inovação científica precisa ser pensada também em relação a seus impactos sociais, ambientais e humanos. Por isso, estudar biotecnologia envolve refletir sobre responsabilidade, limites e uso consciente do conhecimento científico",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Toda inovação científica precisa ser pensada também em relação a seus impactos sociais, ambientais e humanos. Por isso, estudar biotecnologia envolve refletir sobre responsabilidade, limites e uso consciente do conhecimento científico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte não apenas o que a tecnologia permite fazer, mas também como ela deve ser usada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte não apenas o que a tecnologia permite fazer, mas também como ela deve ser usada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender reflexão ética",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender reflexão ética",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere o desenvolvimento de uma nova técnica para produção de medicamentos"
+        ],
+        "respostaCorreta": "Considere o desenvolvimento de uma nova técnica para produção de medicamentos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Biotecnologia, ciência e ética\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra a ligação entre biotecnologia, inovação e responsabilidade",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a ligação entre biotecnologia, inovação e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-12",
+        "enunciado": "Ao estudar \"Biotecnologia, ciência e ética\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a relação entre pesquisa científica e aplicação prática",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a relação entre pesquisa científica e aplicação prática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que também é necessário pensar nas implicações éticas do uso dessa tecnologia",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que também é necessário pensar nas implicações éticas do uso dessa tecnologia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas"
+        ],
+        "respostaCorreta": "A biotecnologia envolve o uso de conhecimentos biológicos em processos e aplicações diversas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-biotecnologia-etica-ciencia-sim-01","enunciado":"A principal ideia desse tema é compreender que a biotecnologia:","tipo":"multipla_escolha","alternativas":["une conhecimento científico e responsabilidade no uso das inovações","não tem relação com ética ou sociedade","serve apenas a laboratórios sem impacto cotidiano","dispensa qualquer reflexão sobre consequências"],"respostaCorreta":"une conhecimento científico e responsabilidade no uso das inovações","explicacao":"A biotecnologia mostra como ciência e tecnologia precisam ser pensadas também do ponto de vista ético e social.","dificuldade":"medio"}
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a biotecnologia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "une conhecimento científico e responsabilidade no uso das inovações",
+          "não tem relação com ética ou sociedade",
+          "serve apenas a laboratórios sem impacto cotidiano",
+          "dispensa qualquer reflexão sobre consequências"
+        ],
+        "respostaCorreta": "une conhecimento científico e responsabilidade no uso das inovações",
+        "explicacao": "A biotecnologia mostra como ciência e tecnologia precisam ser pensadas também do ponto de vista ético e social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Biotecnologia, ciência e ética\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a refletir sobre ciência, inovação e responsabilidade ética",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Biotecnologia, ciência e ética\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias"
+        ],
+        "respostaCorreta": "A biotecnologia pode estar presente em vacinas, medicamentos, agricultura, produção de alimentos e outros contextos. Ela mostra como o conhecimento científico pode ser usado para desenvolver soluções e tecnologias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe em quais situações do cotidiano ciência e tecnologia aparecem ligadas à vida biológica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Biotecnologia, ciência e ética\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender aplicações da biotecnologia",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender aplicações da biotecnologia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Toda inovação científica precisa ser pensada também em relação a seus impactos sociais, ambientais e humanos. Por isso, estudar biotecnologia envolve refletir sobre responsabilidade, limites e uso consciente do conhecimento científico",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Toda inovação científica precisa ser pensada também em relação a seus impactos sociais, ambientais e humanos. Por isso, estudar biotecnologia envolve refletir sobre responsabilidade, limites e uso consciente do conhecimento científico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-biotecnologia-etica-ciencia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte não apenas o que a tecnologia permite fazer, mas também como ela deve ser usada"
+        ],
+        "respostaCorreta": "Pergunte não apenas o que a tecnologia permite fazer, mas também como ela deve ser usada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Biotecnologia, ciência e ética apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

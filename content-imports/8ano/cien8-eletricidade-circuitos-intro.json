@@ -1,0 +1,427 @@
+[
+  {
+    "id": "cien8-eletricidade-circuitos-intro",
+    "titulo": "Introdução à eletricidade e aos circuitos",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Matéria e energia",
+    "resumo": [
+      "A eletricidade está presente em diversas situações do cotidiano.",
+      "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar.",
+      "O uso consciente da energia elétrica é importante para segurança e economia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Funcionamento básico do circuito",
+        "texto": "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo.",
+        "dica": "Se houver interrupção no caminho, o circuito não funciona."
+      },
+      {
+        "subtitulo": "Segurança e uso responsável",
+        "texto": "A eletricidade facilita a vida cotidiana, mas exige cuidado. O uso inadequado de tomadas, fios e aparelhos pode causar acidentes. Além disso, economizar energia também é uma atitude importante.",
+        "dica": "Nunca manuseie equipamentos elétricos sem orientação e segurança."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma pilha ligada a uma lâmpada por fios e um interruptor.",
+        "passos": [
+          "A pilha fornece energia ao circuito.",
+          "Os fios conduzem a corrente.",
+          "Quando o interruptor fecha o circuito, a lâmpada acende."
+        ],
+        "resposta": "O circuito funciona quando seus elementos estão conectados corretamente."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à eletricidade e aos circuitos\".",
+        "passos": [
+          "A eletricidade está presente em diversas situações do cotidiano",
+          "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar",
+          "O uso consciente da energia elétrica é importante para segurança e economia"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à eletricidade e aos circuitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à eletricidade e aos circuitos\".",
+        "passos": [
+          "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar",
+          "O uso consciente da energia elétrica é importante para segurança e economia",
+          "Funcionamento básico do circuito"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à eletricidade e aos circuitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à eletricidade e aos circuitos\".",
+        "passos": [
+          "O uso consciente da energia elétrica é importante para segurança e economia",
+          "Funcionamento básico do circuito",
+          "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à eletricidade e aos circuitos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à eletricidade e aos circuitos\".",
+        "passos": [
+          "Funcionamento básico do circuito",
+          "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo",
+          "Se houver interrupção no caminho, o circuito não funciona"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à eletricidade e aos circuitos pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-eletricidade-circuitos-intro-ex-01",
+        "enunciado": "Para funcionar, um circuito elétrico precisa estar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fechado",
+          "quebrado",
+          "vazio",
+          "desorganizado"
+        ],
+        "respostaCorreta": "fechado",
+        "explicacao": "A corrente elétrica só circula quando o caminho do circuito está completo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-ex-02",
+        "enunciado": "Qual elemento pode fornecer energia em um circuito simples?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pilha",
+          "borracha",
+          "régua",
+          "papel"
+        ],
+        "respostaCorreta": "pilha",
+        "explicacao": "A pilha funciona como fonte de energia em muitos circuitos simples.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-ex-03",
+        "enunciado": "Se o interruptor interrompe o caminho da corrente, a consequência é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o circuito deixa de funcionar",
+          "a corrente aumenta automaticamente",
+          "a pilha vira fio",
+          "a lâmpada acende mais forte"
+        ],
+        "respostaCorreta": "o circuito deixa de funcionar",
+        "explicacao": "Sem caminho completo, a corrente não circula e o receptor não funciona.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-ex-04",
+        "enunciado": "Qual atitude demonstra uso responsável da eletricidade?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar desperdício e respeitar regras de segurança",
+          "mexer em fios desencapados",
+          "ligar aparelhos sem necessidade",
+          "usar tomadas de qualquer maneira"
+        ],
+        "respostaCorreta": "evitar desperdício e respeitar regras de segurança",
+        "explicacao": "A eletricidade deve ser usada com consciência, segurança e economia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A eletricidade está presente em diversas situações do cotidiano",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A eletricidade está presente em diversas situações do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar"
+        ],
+        "respostaCorreta": "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O uso consciente da energia elétrica é importante para segurança e economia",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O uso consciente da energia elétrica é importante para segurança e economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Se houver interrupção no caminho, o circuito não funciona",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Se houver interrupção no caminho, o circuito não funciona",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A eletricidade facilita a vida cotidiana, mas exige cuidado. O uso inadequado de tomadas, fios e aparelhos pode causar acidentes. Além disso, economizar energia também é uma atitude importante"
+        ],
+        "respostaCorreta": "A eletricidade facilita a vida cotidiana, mas exige cuidado. O uso inadequado de tomadas, fios e aparelhos pode causar acidentes. Além disso, economizar energia também é uma atitude importante",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nunca manuseie equipamentos elétricos sem orientação e segurança",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Nunca manuseie equipamentos elétricos sem orientação e segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma pilha ligada a uma lâmpada por fios e um interruptor",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine uma pilha ligada a uma lâmpada por fios e um interruptor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O circuito funciona quando seus elementos estão conectados corretamente",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O circuito funciona quando seus elementos estão conectados corretamente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A pilha fornece energia ao circuito"
+        ],
+        "respostaCorreta": "A pilha fornece energia ao circuito",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os fios conduzem a corrente",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Os fios conduzem a corrente",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando o interruptor fecha o circuito, a lâmpada acende",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando o interruptor fecha o circuito, a lâmpada acende",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A eletricidade está presente em diversas situações do cotidiano",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A eletricidade está presente em diversas situações do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar"
+        ],
+        "respostaCorreta": "Um circuito elétrico precisa de elementos ligados de forma adequada para funcionar",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-eletricidade-circuitos-intro-sim-01",
+        "enunciado": "A ideia central de um circuito elétrico simples é que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a corrente percorre um caminho contínuo entre seus componentes",
+          "a energia surge sem fonte",
+          "a lâmpada acende sem conexão alguma",
+          "o interruptor substitui todos os demais elementos"
+        ],
+        "respostaCorreta": "a corrente percorre um caminho contínuo entre seus componentes",
+        "explicacao": "O circuito depende da ligação adequada entre fonte, condutores e receptor.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O uso consciente da energia elétrica é importante para segurança e economia",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O uso consciente da energia elétrica é importante para segurança e economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo"
+        ],
+        "respostaCorreta": "Um circuito elétrico simples é formado por fonte de energia, fios condutores, interruptor e receptor, como uma lâmpada. Para a corrente circular, o caminho precisa estar completo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Se houver interrupção no caminho, o circuito não funciona",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Se houver interrupção no caminho, o circuito não funciona",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A eletricidade facilita a vida cotidiana, mas exige cuidado. O uso inadequado de tomadas, fios e aparelhos pode causar acidentes. Além disso, economizar energia também é uma atitude importante",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A eletricidade facilita a vida cotidiana, mas exige cuidado. O uso inadequado de tomadas, fios e aparelhos pode causar acidentes. Além disso, economizar energia também é uma atitude importante",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nunca manuseie equipamentos elétricos sem orientação e segurança",
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nunca manuseie equipamentos elétricos sem orientação e segurança",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-eletricidade-circuitos-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à eletricidade e aos circuitos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à eletricidade e aos circuitos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à eletricidade e aos circuitos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma pilha ligada a uma lâmpada por fios e um interruptor"
+        ],
+        "respostaCorreta": "Imagine uma pilha ligada a uma lâmpada por fios e um interruptor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à eletricidade e aos circuitos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

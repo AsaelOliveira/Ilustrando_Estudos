@@ -31,16 +31,397 @@
           "Relacione a reivindicação com a ideia de cidadania."
         ],
         "resposta": "Esse tipo de situação mostra que direitos e cidadania são construções históricas e sociais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Direitos humanos e cidadania\".",
+        "passos": [
+          "Os direitos humanos se relacionam à dignidade, à liberdade e à igualdade entre as pessoas",
+          "A cidadania envolve participação social, acesso a direitos e responsabilidade coletiva",
+          "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos humanos e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Direitos humanos e cidadania\".",
+        "passos": [
+          "A cidadania envolve participação social, acesso a direitos e responsabilidade coletiva",
+          "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+          "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos humanos e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Direitos humanos e cidadania\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+          "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças",
+          "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos humanos e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Direitos humanos e cidadania\".",
+        "passos": [
+          "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças",
+          "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas",
+          "Construção histórica dos direitos"
+        ],
+        "resposta": "Esse exemplo mostra como Direitos humanos e cidadania pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-direitos-humanos-cidadania-ex-01","enunciado":"Os direitos humanos se relacionam principalmente a:","tipo":"multipla_escolha","alternativas":["dignidade, liberdade e igualdade","apenas regras escolares isoladas","somente decisões privadas sem impacto social","exclusivamente fronteiras territoriais"],"respostaCorreta":"dignidade, liberdade e igualdade","explicacao":"Os direitos humanos buscam garantir condições fundamentais para a vida em sociedade.","dificuldade":"facil"},
-      {"id":"hist9-direitos-humanos-cidadania-ex-02","enunciado":"A cidadania envolve:","tipo":"multipla_escolha","alternativas":["participação social e acesso a direitos","somente memorização de datas","apenas obediência sem reflexão","ausência de responsabilidades coletivas"],"respostaCorreta":"participação social e acesso a direitos","explicacao":"A cidadania inclui direitos, deveres, participação e vida em sociedade.","dificuldade":"facil"},
-      {"id":"hist9-direitos-humanos-cidadania-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Os direitos foram construídos historicamente por meio de lutas e reivindicações.","Todos os direitos surgiram de uma vez, sem conflitos sociais.","Cidadania não tem relação com participação social.","Direitos humanos são temas sem importância histórica."],"respostaCorreta":"Os direitos foram construídos historicamente por meio de lutas e reivindicações.","explicacao":"A ampliação de direitos foi resultado de processos históricos e mobilizações sociais.","dificuldade":"medio"},
-      {"id":"hist9-direitos-humanos-cidadania-ex-04","enunciado":"Estudar esse tema ajuda a:","tipo":"multipla_escolha","alternativas":["relacionar passado, democracia e desafios do presente","ignorar debates atuais sobre desigualdade","reduzir a história a fatos sem conexão social","separar cidadania de qualquer contexto histórico"],"respostaCorreta":"relacionar passado, democracia e desafios do presente","explicacao":"O tema aproxima história e atualidade ao mostrar como os direitos foram construídos e ainda são debatidos.","dificuldade":"medio"}
+      {
+        "id": "hist9-direitos-humanos-cidadania-ex-01",
+        "enunciado": "Os direitos humanos se relacionam principalmente a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dignidade, liberdade e igualdade",
+          "apenas regras escolares isoladas",
+          "somente decisões privadas sem impacto social",
+          "exclusivamente fronteiras territoriais"
+        ],
+        "respostaCorreta": "dignidade, liberdade e igualdade",
+        "explicacao": "Os direitos humanos buscam garantir condições fundamentais para a vida em sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-ex-02",
+        "enunciado": "A cidadania envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "participação social e acesso a direitos",
+          "somente memorização de datas",
+          "apenas obediência sem reflexão",
+          "ausência de responsabilidades coletivas"
+        ],
+        "respostaCorreta": "participação social e acesso a direitos",
+        "explicacao": "A cidadania inclui direitos, deveres, participação e vida em sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os direitos foram construídos historicamente por meio de lutas e reivindicações.",
+          "Todos os direitos surgiram de uma vez, sem conflitos sociais.",
+          "Cidadania não tem relação com participação social.",
+          "Direitos humanos são temas sem importância histórica."
+        ],
+        "respostaCorreta": "Os direitos foram construídos historicamente por meio de lutas e reivindicações.",
+        "explicacao": "A ampliação de direitos foi resultado de processos históricos e mobilizações sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-ex-04",
+        "enunciado": "Estudar esse tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar passado, democracia e desafios do presente",
+          "ignorar debates atuais sobre desigualdade",
+          "reduzir a história a fatos sem conexão social",
+          "separar cidadania de qualquer contexto histórico"
+        ],
+        "respostaCorreta": "relacionar passado, democracia e desafios do presente",
+        "explicacao": "O tema aproxima história e atualidade ao mostrar como os direitos foram construídos e ainda são debatidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Direitos humanos e cidadania\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os direitos humanos se relacionam à dignidade, à liberdade e à igualdade entre as pessoas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Os direitos humanos se relacionam à dignidade, à liberdade e à igualdade entre as pessoas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-02",
+        "enunciado": "Ao estudar \"Direitos humanos e cidadania\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A cidadania envolve participação social, acesso a direitos e responsabilidade coletiva"
+        ],
+        "respostaCorreta": "A cidadania envolve participação social, acesso a direitos e responsabilidade coletiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-05",
+        "enunciado": "No contexto de \"Direitos humanos e cidadania\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-06",
+        "enunciado": "O estudo de \"Direitos humanos e cidadania\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender construção histórica dos direitos"
+        ],
+        "respostaCorreta": "compreender construção histórica dos direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A cidadania envolve mais do que votar: inclui participação, respeito às diferenças, acesso a direitos e compromisso com a vida em sociedade. Esse tema ajuda a relacionar história, democracia e responsabilidade social",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A cidadania envolve mais do que votar: inclui participação, respeito às diferenças, acesso a direitos e compromisso com a vida em sociedade. Esse tema ajuda a relacionar história, democracia e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe como os debates atuais sobre igualdade e participação têm raízes históricas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe como os debates atuais sobre igualdade e participação têm raízes históricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender cidadania no mundo atual",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender cidadania no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise um movimento social que reivindica mais acesso a direitos para determinado grupo"
+        ],
+        "respostaCorreta": "Analise um movimento social que reivindica mais acesso a direitos para determinado grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Direitos humanos e cidadania\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de situação mostra que direitos e cidadania são construções históricas e sociais",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de situação mostra que direitos e cidadania são construções históricas e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-12",
+        "enunciado": "Ao estudar \"Direitos humanos e cidadania\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique qual direito está em discussão",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique qual direito está em discussão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os atores sociais envolvidos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os atores sociais envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a reivindicação com a ideia de cidadania"
+        ],
+        "respostaCorreta": "Relacione a reivindicação com a ideia de cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-direitos-humanos-cidadania-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["direitos humanos e cidadania são construções históricas ligadas à vida democrática","cidadania é apenas um conceito sem relação com a sociedade","direitos não dependem de contextos históricos","participação social não faz parte da cidadania"],"respostaCorreta":"direitos humanos e cidadania são construções históricas ligadas à vida democrática","explicacao":"O estudo do tema evidencia a relação entre história, participação social e garantia de direitos.","dificuldade":"medio"}
+      {
+        "id": "hist9-direitos-humanos-cidadania-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "direitos humanos e cidadania são construções históricas ligadas à vida democrática",
+          "cidadania é apenas um conceito sem relação com a sociedade",
+          "direitos não dependem de contextos históricos",
+          "participação social não faz parte da cidadania"
+        ],
+        "respostaCorreta": "direitos humanos e cidadania são construções históricas ligadas à vida democrática",
+        "explicacao": "O estudo do tema evidencia a relação entre história, participação social e garantia de direitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Direitos humanos e cidadania\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender lutas históricas e desafios do presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Direitos humanos e cidadania\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças"
+        ],
+        "respostaCorreta": "Os direitos humanos não surgiram prontos; eles foram construídos ao longo de processos históricos marcados por conflitos, reivindicações e transformações sociais. Diversos grupos lutaram para ampliar direitos e combater injustiças",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pense nos direitos como conquistas históricas que precisam ser conhecidas e defendidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Direitos humanos e cidadania\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender construção histórica dos direitos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender construção histórica dos direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A cidadania envolve mais do que votar: inclui participação, respeito às diferenças, acesso a direitos e compromisso com a vida em sociedade. Esse tema ajuda a relacionar história, democracia e responsabilidade social",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A cidadania envolve mais do que votar: inclui participação, respeito às diferenças, acesso a direitos e compromisso com a vida em sociedade. Esse tema ajuda a relacionar história, democracia e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-direitos-humanos-cidadania-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como os debates atuais sobre igualdade e participação têm raízes históricas"
+        ],
+        "respostaCorreta": "Observe como os debates atuais sobre igualdade e participação têm raízes históricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Direitos humanos e cidadania apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

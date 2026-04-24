@@ -31,16 +31,397 @@
           "Analise como essa curadoria ajuda a construir sentidos para o visitante."
         ],
         "resposta": "Esse exemplo mostra que a apresentação das obras também participa da produção de significado artístico."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Curadoria, exposição e construção de sentidos\".",
+        "passos": [
+          "A forma como obras são organizadas em uma exposição influencia sua leitura pelo público",
+          "Curadoria envolve escolhas de seleção, sequência, espaço e diálogo entre produções",
+          "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras"
+        ],
+        "resposta": "Esse exemplo mostra como Curadoria, exposição e construção de sentidos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Curadoria, exposição e construção de sentidos\".",
+        "passos": [
+          "Curadoria envolve escolhas de seleção, sequência, espaço e diálogo entre produções",
+          "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+          "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição"
+        ],
+        "resposta": "Esse exemplo mostra como Curadoria, exposição e construção de sentidos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Curadoria, exposição e construção de sentidos\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+          "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição",
+          "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si"
+        ],
+        "resposta": "Esse exemplo mostra como Curadoria, exposição e construção de sentidos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Curadoria, exposição e construção de sentidos\".",
+        "passos": [
+          "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição",
+          "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si",
+          "O papel da curadoria"
+        ],
+        "resposta": "Esse exemplo mostra como Curadoria, exposição e construção de sentidos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"art9-curadoria-exposicao-sentidos-ex-01","enunciado":"A curadoria em uma exposição envolve:","tipo":"multipla_escolha","alternativas":["selecionar e organizar obras com um propósito","colocar obras no espaço sem critério","apenas pintar molduras","somente numerar paredes"],"respostaCorreta":"selecionar e organizar obras com um propósito","explicacao":"A curadoria constrói relações e orienta a leitura das obras em uma exposição.","dificuldade":"facil"},
-      {"id":"art9-curadoria-exposicao-sentidos-ex-02","enunciado":"A forma como as obras são apresentadas pode:","tipo":"multipla_escolha","alternativas":["influenciar a interpretação do público","não alterar em nada a experiência estética","eliminar o sentido artístico das obras","substituir totalmente o conteúdo das produções"],"respostaCorreta":"influenciar a interpretação do público","explicacao":"Espaço, ordem e contexto expositivo interferem na leitura das obras.","dificuldade":"facil"},
-      {"id":"art9-curadoria-exposicao-sentidos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Exposição e curadoria também participam da construção de sentidos artísticos.","As obras sempre têm o mesmo efeito em qualquer arranjo espacial.","Curadoria não se relaciona com interpretação.","O espaço expositivo é irrelevante para a arte."],"respostaCorreta":"Exposição e curadoria também participam da construção de sentidos artísticos.","explicacao":"A apresentação das obras interfere na experiência do público e no modo como os temas são percebidos.","dificuldade":"medio"},
-      {"id":"art9-curadoria-exposicao-sentidos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender a circulação da arte e sua mediação com o público","reduzir a exposição a mero armazenamento de obras","ignorar contexto e organização espacial","separar obra e experiência estética"],"respostaCorreta":"compreender a circulação da arte e sua mediação com o público","explicacao":"O tema amplia a leitura da arte como experiência também construída pela forma de apresentação.","dificuldade":"medio"}
+      {
+        "id": "art9-curadoria-exposicao-sentidos-ex-01",
+        "enunciado": "A curadoria em uma exposição envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "selecionar e organizar obras com um propósito",
+          "colocar obras no espaço sem critério",
+          "apenas pintar molduras",
+          "somente numerar paredes"
+        ],
+        "respostaCorreta": "selecionar e organizar obras com um propósito",
+        "explicacao": "A curadoria constrói relações e orienta a leitura das obras em uma exposição.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-ex-02",
+        "enunciado": "A forma como as obras são apresentadas pode:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "influenciar a interpretação do público",
+          "não alterar em nada a experiência estética",
+          "eliminar o sentido artístico das obras",
+          "substituir totalmente o conteúdo das produções"
+        ],
+        "respostaCorreta": "influenciar a interpretação do público",
+        "explicacao": "Espaço, ordem e contexto expositivo interferem na leitura das obras.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Exposição e curadoria também participam da construção de sentidos artísticos.",
+          "As obras sempre têm o mesmo efeito em qualquer arranjo espacial.",
+          "Curadoria não se relaciona com interpretação.",
+          "O espaço expositivo é irrelevante para a arte."
+        ],
+        "respostaCorreta": "Exposição e curadoria também participam da construção de sentidos artísticos.",
+        "explicacao": "A apresentação das obras interfere na experiência do público e no modo como os temas são percebidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender a circulação da arte e sua mediação com o público",
+          "reduzir a exposição a mero armazenamento de obras",
+          "ignorar contexto e organização espacial",
+          "separar obra e experiência estética"
+        ],
+        "respostaCorreta": "compreender a circulação da arte e sua mediação com o público",
+        "explicacao": "O tema amplia a leitura da arte como experiência também construída pela forma de apresentação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Curadoria, exposição e construção de sentidos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A forma como obras são organizadas em uma exposição influencia sua leitura pelo público",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A forma como obras são organizadas em uma exposição influencia sua leitura pelo público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-02",
+        "enunciado": "Ao estudar \"Curadoria, exposição e construção de sentidos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Curadoria envolve escolhas de seleção, sequência, espaço e diálogo entre produções"
+        ],
+        "respostaCorreta": "Curadoria envolve escolhas de seleção, sequência, espaço e diálogo entre produções",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-05",
+        "enunciado": "No contexto de \"Curadoria, exposição e construção de sentidos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-06",
+        "enunciado": "O estudo de \"Curadoria, exposição e construção de sentidos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender o papel da curadoria"
+        ],
+        "respostaCorreta": "compreender o papel da curadoria",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Uma exposição não é apenas reunião de obras em um espaço. Iluminação, disposição, textos de apoio e sequência de visita influenciam a experiência estética e a interpretação do público",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Uma exposição não é apenas reunião de obras em um espaço. Iluminação, disposição, textos de apoio e sequência de visita influenciam a experiência estética e a interpretação do público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em como o espaço e a ordem das obras podem mudar a maneira como a exposição é percebida",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em como o espaço e a ordem das obras podem mudar a maneira como a exposição é percebida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender exposição como experiência",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender exposição como experiência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma mostra em que fotografias, pinturas e objetos são organizados em torno de um mesmo tema"
+        ],
+        "respostaCorreta": "Observe uma mostra em que fotografias, pinturas e objetos são organizados em torno de um mesmo tema",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Curadoria, exposição e construção de sentidos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que a apresentação das obras também participa da produção de significado artístico",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que a apresentação das obras também participa da produção de significado artístico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-12",
+        "enunciado": "Ao estudar \"Curadoria, exposição e construção de sentidos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o tema central da exposição",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o tema central da exposição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba a lógica de organização das obras",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba a lógica de organização das obras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Analise como essa curadoria ajuda a construir sentidos para o visitante"
+        ],
+        "respostaCorreta": "Analise como essa curadoria ajuda a construir sentidos para o visitante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"art9-curadoria-exposicao-sentidos-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["a organização de uma exposição também influencia os sentidos produzidos pela arte","toda exposição é apenas uma reunião neutra de obras","curadoria não interfere na leitura do público","o espaço expositivo não participa da experiência artística"],"respostaCorreta":"a organização de uma exposição também influencia os sentidos produzidos pela arte","explicacao":"O conteúdo mostra que curadoria e exposição fazem parte da experiência estética e interpretativa.","dificuldade":"medio"}
+      {
+        "id": "art9-curadoria-exposicao-sentidos-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a organização de uma exposição também influencia os sentidos produzidos pela arte",
+          "toda exposição é apenas uma reunião neutra de obras",
+          "curadoria não interfere na leitura do público",
+          "o espaço expositivo não participa da experiência artística"
+        ],
+        "respostaCorreta": "a organização de uma exposição também influencia os sentidos produzidos pela arte",
+        "explicacao": "O conteúdo mostra que curadoria e exposição fazem parte da experiência estética e interpretativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Curadoria, exposição e construção de sentidos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender como sentidos artísticos também são construídos na apresentação das obras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Curadoria, exposição e construção de sentidos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição"
+        ],
+        "respostaCorreta": "A curadoria organiza obras, define percursos e constrói relações entre produções artísticas. Essas escolhas ajudam o público a perceber temas, contrastes, continuidades e propostas presentes em uma exposição",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe não apenas cada obra isoladamente, mas também o diálogo que elas estabelecem entre si",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Curadoria, exposição e construção de sentidos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender o papel da curadoria",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender o papel da curadoria",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma exposição não é apenas reunião de obras em um espaço. Iluminação, disposição, textos de apoio e sequência de visita influenciam a experiência estética e a interpretação do público",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Uma exposição não é apenas reunião de obras em um espaço. Iluminação, disposição, textos de apoio e sequência de visita influenciam a experiência estética e a interpretação do público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-curadoria-exposicao-sentidos-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como o espaço e a ordem das obras podem mudar a maneira como a exposição é percebida"
+        ],
+        "respostaCorreta": "Pense em como o espaço e a ordem das obras podem mudar a maneira como a exposição é percebida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Curadoria, exposição e construção de sentidos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lit8-generos-literarios-intro",
+    "titulo": "Introdução aos gêneros literários",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "Os gêneros literários organizam obras de acordo com características predominantes.",
+      "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório.",
+      "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Formas de expressão literária",
+        "texto": "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática.",
+        "dica": "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor."
+      },
+      {
+        "subtitulo": "Leitura e repertório",
+        "texto": "Compreender os gêneros literários ajuda o estudante a reconhecer diferenças entre poemas, contos, romances, peças e outros textos. Isso amplia o repertório de leitura e a interpretação.",
+        "dica": "Pergunte se o texto narra, expressa sentimentos ou se aproxima da representação teatral."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um poema curto e depois um conto breve.",
+        "passos": [
+          "Observe que o poema valoriza o trabalho com a linguagem e a expressão subjetiva.",
+          "Perceba que o conto apresenta personagens, ações e acontecimentos."
+        ],
+        "resposta": "Esse contraste ajuda a compreender diferentes gêneros literários."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução aos gêneros literários\".",
+        "passos": [
+          "Os gêneros literários organizam obras de acordo com características predominantes",
+          "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório",
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos gêneros literários pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução aos gêneros literários\".",
+        "passos": [
+          "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório",
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+          "Formas de expressão literária"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos gêneros literários pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução aos gêneros literários\".",
+        "passos": [
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+          "Formas de expressão literária",
+          "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos gêneros literários pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução aos gêneros literários\".",
+        "passos": [
+          "Formas de expressão literária",
+          "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática",
+          "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos gêneros literários pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "lit8-generos-literarios-intro-ex-01",
+        "enunciado": "Os gêneros literários ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar textos segundo características predominantes",
+          "eliminar diferenças entre obras",
+          "substituir a leitura por resumos prontos",
+          "dispensar a interpretação literária"
+        ],
+        "respostaCorreta": "organizar textos segundo características predominantes",
+        "explicacao": "Esse estudo permite reconhecer formas diferentes de construção literária.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-ex-02",
+        "enunciado": "Um gênero ligado à narração de acontecimentos é o:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "narrativo",
+          "numérico",
+          "cartográfico",
+          "gramatical"
+        ],
+        "respostaCorreta": "narrativo",
+        "explicacao": "O gênero narrativo apresenta personagens, ações, tempo e espaço em uma história.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conhecer gêneros literários amplia o repertório de leitura e interpretação.",
+          "Todos os textos literários são iguais em estrutura e intenção.",
+          "Poemas e narrativas não apresentam diferenças importantes.",
+          "Estudar literatura dispensa a observação da forma do texto."
+        ],
+        "respostaCorreta": "Conhecer gêneros literários amplia o repertório de leitura e interpretação.",
+        "explicacao": "Esse conteúdo ajuda o estudante a reconhecer diferenças de forma, linguagem e efeito estético entre obras.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-ex-04",
+        "enunciado": "Estudar gêneros literários ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler obras com mais atenção e consciência das formas literárias",
+          "reduzir toda literatura a um único modelo",
+          "trocar leitura por memorização mecânica",
+          "ignorar a estrutura dos textos"
+        ],
+        "respostaCorreta": "ler obras com mais atenção e consciência das formas literárias",
+        "explicacao": "A identificação dos gêneros contribui para uma leitura mais rica e sensível.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os gêneros literários organizam obras de acordo com características predominantes",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os gêneros literários organizam obras de acordo com características predominantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório"
+        ],
+        "respostaCorreta": "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender os gêneros literários ajuda o estudante a reconhecer diferenças entre poemas, contos, romances, peças e outros textos. Isso amplia o repertório de leitura e a interpretação"
+        ],
+        "respostaCorreta": "Compreender os gêneros literários ajuda o estudante a reconhecer diferenças entre poemas, contos, romances, peças e outros textos. Isso amplia o repertório de leitura e a interpretação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte se o texto narra, expressa sentimentos ou se aproxima da representação teatral",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte se o texto narra, expressa sentimentos ou se aproxima da representação teatral",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um poema curto e depois um conto breve",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia um poema curto e depois um conto breve",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse contraste ajuda a compreender diferentes gêneros literários",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse contraste ajuda a compreender diferentes gêneros literários",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que o poema valoriza o trabalho com a linguagem e a expressão subjetiva"
+        ],
+        "respostaCorreta": "Observe que o poema valoriza o trabalho com a linguagem e a expressão subjetiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que o conto apresenta personagens, ações e acontecimentos",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que o conto apresenta personagens, ações e acontecimentos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os gêneros literários organizam obras de acordo com características predominantes",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os gêneros literários organizam obras de acordo com características predominantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Lírico, narrativo e dramático são referências importantes nesse estudo introdutório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório"
+        ],
+        "respostaCorreta": "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "lit8-generos-literarios-intro-sim-01",
+        "enunciado": "A principal utilidade de estudar gêneros literários é compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como diferentes obras se organizam e produzem efeitos de leitura",
+          "que toda obra literária é construída do mesmo modo",
+          "que forma e linguagem não influenciam a leitura",
+          "que literatura dispensa interpretação"
+        ],
+        "respostaCorreta": "como diferentes obras se organizam e produzem efeitos de leitura",
+        "explicacao": "O estudo dos gêneros mostra como a literatura se apresenta de maneiras variadas e significativas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Conhecer esses gêneros ajuda a ler textos literários com mais atenção e repertório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática"
+        ],
+        "respostaCorreta": "A literatura pode se manifestar de diferentes formas. Alguns textos valorizam sentimentos e subjetividade, outros contam histórias e outros se organizam para representação dramática",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe o modo como o texto se estrutura e qual experiência ele propõe ao leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender os gêneros literários ajuda o estudante a reconhecer diferenças entre poemas, contos, romances, peças e outros textos. Isso amplia o repertório de leitura e a interpretação",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Compreender os gêneros literários ajuda o estudante a reconhecer diferenças entre poemas, contos, romances, peças e outros textos. Isso amplia o repertório de leitura e a interpretação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte se o texto narra, expressa sentimentos ou se aproxima da representação teatral",
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte se o texto narra, expressa sentimentos ou se aproxima da representação teatral",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-generos-literarios-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos gêneros literários se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos gêneros literários pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos gêneros literários dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um poema curto e depois um conto breve"
+        ],
+        "respostaCorreta": "Leia um poema curto e depois um conto breve",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos gêneros literários, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

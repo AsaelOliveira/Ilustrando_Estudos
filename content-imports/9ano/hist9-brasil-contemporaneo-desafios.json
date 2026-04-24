@@ -31,16 +31,397 @@
           "Relacione a situação com processos históricos do Brasil recente."
         ],
         "resposta": "Esse tipo de leitura mostra como a história ajuda a compreender desafios contemporâneos da sociedade brasileira."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Brasil contemporâneo e desafios sociais\".",
+        "passos": [
+          "A história recente do Brasil envolve transformações políticas, sociais e econômicas relevantes",
+          "Desigualdade, participação política, cidadania e direitos continuam presentes nos debates atuais",
+          "Estudar esse tema ajuda a compreender o presente a partir de processos históricos"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil contemporâneo e desafios sociais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Brasil contemporâneo e desafios sociais\".",
+        "passos": [
+          "Desigualdade, participação política, cidadania e direitos continuam presentes nos debates atuais",
+          "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+          "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil contemporâneo e desafios sociais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Brasil contemporâneo e desafios sociais\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+          "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira",
+          "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil contemporâneo e desafios sociais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Brasil contemporâneo e desafios sociais\".",
+        "passos": [
+          "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira",
+          "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos",
+          "Processos recentes da história brasileira"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil contemporâneo e desafios sociais pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-brasil-contemporaneo-desafios-ex-01","enunciado":"Estudar o Brasil contemporâneo ajuda a:","tipo":"multipla_escolha","alternativas":["compreender problemas atuais a partir de processos históricos","decorar fatos sem relação com o presente","ignorar debates sociais e políticos","tratar o passado como algo isolado da realidade"],"respostaCorreta":"compreender problemas atuais a partir de processos históricos","explicacao":"A história recente do país oferece elementos para interpretar questões que ainda fazem parte da sociedade brasileira.","dificuldade":"facil"},
-      {"id":"hist9-brasil-contemporaneo-desafios-ex-02","enunciado":"Entre os temas ligados ao Brasil contemporâneo está:","tipo":"multipla_escolha","alternativas":["cidadania e participação política","apenas organização de mapas antigos","somente regras gramaticais","unicamente nomenclatura química"],"respostaCorreta":"cidadania e participação política","explicacao":"Esses temas são centrais na análise da história recente e da vida social brasileira.","dificuldade":"facil"},
-      {"id":"hist9-brasil-contemporaneo-desafios-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Desafios sociais atuais podem ser melhor compreendidos com apoio da história.","História e atualidade não têm relação entre si.","Questões sociais surgem sem qualquer processo histórico.","O estudo do presente dispensa análise crítica."],"respostaCorreta":"Desafios sociais atuais podem ser melhor compreendidos com apoio da história.","explicacao":"A investigação histórica ajuda a explicar permanências, mudanças e conflitos sociais do presente.","dificuldade":"medio"},
-      {"id":"hist9-brasil-contemporaneo-desafios-ex-04","enunciado":"Ao estudar esse tema, o aluno desenvolve:","tipo":"multipla_escolha","alternativas":["visão crítica sobre sociedade, direitos e democracia","apenas memorização sem interpretação","desinteresse por temas sociais","separação total entre passado e presente"],"respostaCorreta":"visão crítica sobre sociedade, direitos e democracia","explicacao":"O conteúdo favorece a análise histórica e cidadã da realidade brasileira atual.","dificuldade":"medio"}
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-ex-01",
+        "enunciado": "Estudar o Brasil contemporâneo ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender problemas atuais a partir de processos históricos",
+          "decorar fatos sem relação com o presente",
+          "ignorar debates sociais e políticos",
+          "tratar o passado como algo isolado da realidade"
+        ],
+        "respostaCorreta": "compreender problemas atuais a partir de processos históricos",
+        "explicacao": "A história recente do país oferece elementos para interpretar questões que ainda fazem parte da sociedade brasileira.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-ex-02",
+        "enunciado": "Entre os temas ligados ao Brasil contemporâneo está:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cidadania e participação política",
+          "apenas organização de mapas antigos",
+          "somente regras gramaticais",
+          "unicamente nomenclatura química"
+        ],
+        "respostaCorreta": "cidadania e participação política",
+        "explicacao": "Esses temas são centrais na análise da história recente e da vida social brasileira.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Desafios sociais atuais podem ser melhor compreendidos com apoio da história.",
+          "História e atualidade não têm relação entre si.",
+          "Questões sociais surgem sem qualquer processo histórico.",
+          "O estudo do presente dispensa análise crítica."
+        ],
+        "respostaCorreta": "Desafios sociais atuais podem ser melhor compreendidos com apoio da história.",
+        "explicacao": "A investigação histórica ajuda a explicar permanências, mudanças e conflitos sociais do presente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-ex-04",
+        "enunciado": "Ao estudar esse tema, o aluno desenvolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "visão crítica sobre sociedade, direitos e democracia",
+          "apenas memorização sem interpretação",
+          "desinteresse por temas sociais",
+          "separação total entre passado e presente"
+        ],
+        "respostaCorreta": "visão crítica sobre sociedade, direitos e democracia",
+        "explicacao": "O conteúdo favorece a análise histórica e cidadã da realidade brasileira atual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Brasil contemporâneo e desafios sociais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A história recente do Brasil envolve transformações políticas, sociais e econômicas relevantes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A história recente do Brasil envolve transformações políticas, sociais e econômicas relevantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-02",
+        "enunciado": "Ao estudar \"Brasil contemporâneo e desafios sociais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Desigualdade, participação política, cidadania e direitos continuam presentes nos debates atuais"
+        ],
+        "respostaCorreta": "Desigualdade, participação política, cidadania e direitos continuam presentes nos debates atuais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-05",
+        "enunciado": "No contexto de \"Brasil contemporâneo e desafios sociais\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-06",
+        "enunciado": "O estudo de \"Brasil contemporâneo e desafios sociais\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender processos recentes da história brasileira"
+        ],
+        "respostaCorreta": "compreender processos recentes da história brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Questões como desigualdade, cidadania, democracia e acesso a direitos não surgiram de forma isolada. Elas fazem parte de processos históricos que influenciam a realidade atual e exigem reflexão crítica por parte dos estudantes",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Questões como desigualdade, cidadania, democracia e acesso a direitos não surgiram de forma isolada. Elas fazem parte de processos históricos que influenciam a realidade atual e exigem reflexão crítica por parte dos estudantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Relacione os temas estudados em história com debates presentes na vida social e política do país",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Relacione os temas estudados em história com debates presentes na vida social e política do país",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender história e vida em sociedade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender história e vida em sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação atual relacionada a participação política ou reivindicação de direitos"
+        ],
+        "respostaCorreta": "Analise uma situação atual relacionada a participação política ou reivindicação de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Brasil contemporâneo e desafios sociais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de leitura mostra como a história ajuda a compreender desafios contemporâneos da sociedade brasileira",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de leitura mostra como a história ajuda a compreender desafios contemporâneos da sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-12",
+        "enunciado": "Ao estudar \"Brasil contemporâneo e desafios sociais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o problema ou a demanda social envolvida",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o problema ou a demanda social envolvida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quais grupos participam do debate",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe quais grupos participam do debate",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a situação com processos históricos do Brasil recente"
+        ],
+        "respostaCorreta": "Relacione a situação com processos históricos do Brasil recente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-brasil-contemporaneo-desafios-sim-01","enunciado":"A principal importância do tema é:","tipo":"multipla_escolha","alternativas":["relacionar processos históricos a desafios sociais e políticos do Brasil atual","estudar apenas fatos desconectados da realidade","ignorar participação cidadã na história","reduzir a história a datas sem contexto"],"respostaCorreta":"relacionar processos históricos a desafios sociais e políticos do Brasil atual","explicacao":"O tema aproxima o estudo histórico das questões concretas da vida nacional contemporânea.","dificuldade":"medio"}
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-sim-01",
+        "enunciado": "A principal importância do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar processos históricos a desafios sociais e políticos do Brasil atual",
+          "estudar apenas fatos desconectados da realidade",
+          "ignorar participação cidadã na história",
+          "reduzir a história a datas sem contexto"
+        ],
+        "respostaCorreta": "relacionar processos históricos a desafios sociais e políticos do Brasil atual",
+        "explicacao": "O tema aproxima o estudo histórico das questões concretas da vida nacional contemporânea.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Brasil contemporâneo e desafios sociais\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender o presente a partir de processos históricos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Brasil contemporâneo e desafios sociais\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira"
+        ],
+        "respostaCorreta": "O Brasil contemporâneo é marcado por mudanças institucionais, disputas políticas, mobilizações sociais e desafios persistentes. A análise histórica desses processos permite compreender melhor as tensões e conquistas da sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como acontecimentos recentes também têm raízes em processos históricos mais longos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Brasil contemporâneo e desafios sociais\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender processos recentes da história brasileira",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender processos recentes da história brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questões como desigualdade, cidadania, democracia e acesso a direitos não surgiram de forma isolada. Elas fazem parte de processos históricos que influenciam a realidade atual e exigem reflexão crítica por parte dos estudantes",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Questões como desigualdade, cidadania, democracia e acesso a direitos não surgiram de forma isolada. Elas fazem parte de processos históricos que influenciam a realidade atual e exigem reflexão crítica por parte dos estudantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-contemporaneo-desafios-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relacione os temas estudados em história com debates presentes na vida social e política do país"
+        ],
+        "respostaCorreta": "Relacione os temas estudados em história com debates presentes na vida social e política do país",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil contemporâneo e desafios sociais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

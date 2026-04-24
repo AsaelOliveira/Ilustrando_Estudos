@@ -1,0 +1,426 @@
+[
+  {
+    "id": "erl8-analise-oportunidades-iniciativa",
+    "titulo": "Análise de oportunidades e iniciativa",
+    "disciplinaId": "erl8",
+    "turmaId": "8ano",
+    "unidade": "Empreendedorismo e projeto",
+    "resumo": [
+      "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos.",
+      "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade.",
+      "Estudar esse tema ajuda a transformar ideias em ações mais conscientes."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Percepção de necessidades",
+        "texto": "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto.",
+        "dica": "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável."
+      },
+      {
+        "subtitulo": "Criatividade com responsabilidade",
+        "texto": "Ter iniciativa não é apenas ter ideias, mas avaliar se elas são úteis, possíveis e responsáveis. A criatividade ganha mais força quando se combina com planejamento e consciência das consequências.",
+        "dica": "Compare ideias diferentes e pense quais delas são mais adequadas ao objetivo."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um estudante que percebe desperdício de materiais na escola e propõe uma ação de reaproveitamento.",
+        "passos": [
+          "Identifique o problema observado.",
+          "Perceba que a proposta nasce da análise de uma oportunidade de melhoria."
+        ],
+        "resposta": "Esse exemplo mostra como iniciativa e observação do contexto podem gerar soluções úteis."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Análise de oportunidades e iniciativa\".",
+        "passos": [
+          "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos",
+          "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade",
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes"
+        ],
+        "resposta": "Esse exemplo mostra como Análise de oportunidades e iniciativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Análise de oportunidades e iniciativa\".",
+        "passos": [
+          "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade",
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+          "Percepção de necessidades"
+        ],
+        "resposta": "Esse exemplo mostra como Análise de oportunidades e iniciativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Análise de oportunidades e iniciativa\".",
+        "passos": [
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+          "Percepção de necessidades",
+          "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto"
+        ],
+        "resposta": "Esse exemplo mostra como Análise de oportunidades e iniciativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Análise de oportunidades e iniciativa\".",
+        "passos": [
+          "Percepção de necessidades",
+          "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto",
+          "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável"
+        ],
+        "resposta": "Esse exemplo mostra como Análise de oportunidades e iniciativa pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-ex-01",
+        "enunciado": "Analisar oportunidades significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "observar necessidades e possibilidades de ação",
+          "agir sem perceber o contexto",
+          "esperar sempre que outra pessoa resolva tudo",
+          "ignorar problemas do ambiente"
+        ],
+        "respostaCorreta": "observar necessidades e possibilidades de ação",
+        "explicacao": "A percepção de oportunidades começa pela leitura atenta do contexto e de seus desafios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-ex-02",
+        "enunciado": "A iniciativa empreendedora depende de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "criatividade e responsabilidade",
+          "impulsividade sem planejamento",
+          "ação sem objetivo",
+          "falta de análise"
+        ],
+        "respostaCorreta": "criatividade e responsabilidade",
+        "explicacao": "Boas iniciativas unem ideias criativas a planejamento e responsabilidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Identificar oportunidades exige observar o contexto com atenção.",
+          "Toda ideia serve da mesma forma para qualquer situação.",
+          "Planejamento enfraquece a iniciativa.",
+          "Criatividade não tem relação com solução de problemas."
+        ],
+        "respostaCorreta": "Identificar oportunidades exige observar o contexto com atenção.",
+        "explicacao": "A leitura da realidade ajuda a propor ações mais adequadas e eficazes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformar ideias em ações mais conscientes",
+          "agir sem avaliar consequências",
+          "repetir soluções sem pensar no contexto",
+          "reduzir iniciativa a improviso"
+        ],
+        "respostaCorreta": "transformar ideias em ações mais conscientes",
+        "explicacao": "O conteúdo fortalece análise, criatividade e responsabilidade na tomada de iniciativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade"
+        ],
+        "respostaCorreta": "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter iniciativa não é apenas ter ideias, mas avaliar se elas são úteis, possíveis e responsáveis. A criatividade ganha mais força quando se combina com planejamento e consciência das consequências"
+        ],
+        "respostaCorreta": "Ter iniciativa não é apenas ter ideias, mas avaliar se elas são úteis, possíveis e responsáveis. A criatividade ganha mais força quando se combina com planejamento e consciência das consequências",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare ideias diferentes e pense quais delas são mais adequadas ao objetivo",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare ideias diferentes e pense quais delas são mais adequadas ao objetivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um estudante que percebe desperdício de materiais na escola e propõe uma ação de reaproveitamento",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine um estudante que percebe desperdício de materiais na escola e propõe uma ação de reaproveitamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como iniciativa e observação do contexto podem gerar soluções úteis",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como iniciativa e observação do contexto podem gerar soluções úteis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o problema observado"
+        ],
+        "respostaCorreta": "Identifique o problema observado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a proposta nasce da análise de uma oportunidade de melhoria",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a proposta nasce da análise de uma oportunidade de melhoria",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Analisar oportunidades significa observar necessidades e possibilidades de ação em diferentes contextos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A iniciativa empreendedora depende de planejamento, responsabilidade e criatividade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a iniciativa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ganha mais sentido quando nasce da observação e da análise do contexto",
+          "deve acontecer sem planejamento algum",
+          "não depende de responsabilidade",
+          "dispensa criatividade e objetivo"
+        ],
+        "respostaCorreta": "ganha mais sentido quando nasce da observação e da análise do contexto",
+        "explicacao": "A iniciativa empreendedora se fortalece quando responde a necessidades reais de forma planejada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a transformar ideias em ações mais conscientes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto"
+        ],
+        "respostaCorreta": "Muitas iniciativas surgem quando alguém percebe um problema, uma demanda ou uma possibilidade de melhoria. Esse olhar atento ajuda a identificar oportunidades de ação com sentido real para o contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe o ambiente ao redor e pergunte o que pode ser melhorado de forma viável",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ter iniciativa não é apenas ter ideias, mas avaliar se elas são úteis, possíveis e responsáveis. A criatividade ganha mais força quando se combina com planejamento e consciência das consequências",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ter iniciativa não é apenas ter ideias, mas avaliar se elas são úteis, possíveis e responsáveis. A criatividade ganha mais força quando se combina com planejamento e consciência das consequências",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare ideias diferentes e pense quais delas são mais adequadas ao objetivo",
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare ideias diferentes e pense quais delas são mais adequadas ao objetivo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl8-analise-oportunidades-iniciativa-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de análise de oportunidades e iniciativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Análise de oportunidades e iniciativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com análise de oportunidades e iniciativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um estudante que percebe desperdício de materiais na escola e propõe uma ação de reaproveitamento"
+        ],
+        "respostaCorreta": "Imagine um estudante que percebe desperdício de materiais na escola e propõe uma ação de reaproveitamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Análise de oportunidades e iniciativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

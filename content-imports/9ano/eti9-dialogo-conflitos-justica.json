@@ -31,16 +31,397 @@
           "Relacione a solução à ideia de justiça e convivência ética."
         ],
         "resposta": "Esse exemplo mostra que conflitos podem ser transformados em oportunidades de aprendizado e respeito mútuo."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Diálogo, conflitos e justiça\".",
+        "passos": [
+          "Conflitos fazem parte da vida social e podem ser enfrentados com diálogo e responsabilidade",
+          "A justiça envolve escuta, respeito, análise de situações e busca de soluções mais equilibradas",
+          "Estudar esse tema fortalece atitudes éticas na convivência cotidiana"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo, conflitos e justiça pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Diálogo, conflitos e justiça\".",
+        "passos": [
+          "A justiça envolve escuta, respeito, análise de situações e busca de soluções mais equilibradas",
+          "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+          "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo, conflitos e justiça pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Diálogo, conflitos e justiça\".",
+        "passos": [
+          "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+          "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas",
+          "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo, conflitos e justiça pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Diálogo, conflitos e justiça\".",
+        "passos": [
+          "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas",
+          "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito",
+          "Conflitos e convivência"
+        ],
+        "resposta": "Esse exemplo mostra como Diálogo, conflitos e justiça pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"eti9-dialogo-conflitos-justica-ex-01","enunciado":"Uma forma ética de lidar com conflitos é:","tipo":"multipla_escolha","alternativas":["buscar diálogo e escuta","reagir com agressividade","ignorar totalmente o outro","ampliar o problema sem análise"],"respostaCorreta":"buscar diálogo e escuta","explicacao":"O diálogo favorece soluções mais justas e responsáveis nas relações sociais.","dificuldade":"facil"},
-      {"id":"eti9-dialogo-conflitos-justica-ex-02","enunciado":"O senso de justiça envolve:","tipo":"multipla_escolha","alternativas":["considerar direitos, deveres e consequências","agir apenas por impulso","defender sempre o interesse individual","negar a importância da escuta"],"respostaCorreta":"considerar direitos, deveres e consequências","explicacao":"Agir com justiça exige reflexão e responsabilidade diante das situações vividas.","dificuldade":"facil"},
-      {"id":"eti9-dialogo-conflitos-justica-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Conflitos podem ser resolvidos de forma ética por meio do diálogo.","Todo conflito deve ser tratado com imposição e silêncio.","Justiça não tem relação com convivência social.","Escutar o outro atrapalha a solução dos problemas."],"respostaCorreta":"Conflitos podem ser resolvidos de forma ética por meio do diálogo.","explicacao":"A mediação e a escuta contribuem para soluções mais equilibradas e respeitosas.","dificuldade":"medio"},
-      {"id":"eti9-dialogo-conflitos-justica-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver atitudes éticas diante de conflitos","tratar divergências sem responsabilidade","separar justiça da convivência cotidiana","considerar o conflito sempre insolúvel"],"respostaCorreta":"desenvolver atitudes éticas diante de conflitos","explicacao":"O tema fortalece diálogo, escuta e busca de soluções mais justas no cotidiano.","dificuldade":"medio"}
+      {
+        "id": "eti9-dialogo-conflitos-justica-ex-01",
+        "enunciado": "Uma forma ética de lidar com conflitos é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "buscar diálogo e escuta",
+          "reagir com agressividade",
+          "ignorar totalmente o outro",
+          "ampliar o problema sem análise"
+        ],
+        "respostaCorreta": "buscar diálogo e escuta",
+        "explicacao": "O diálogo favorece soluções mais justas e responsáveis nas relações sociais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-ex-02",
+        "enunciado": "O senso de justiça envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar direitos, deveres e consequências",
+          "agir apenas por impulso",
+          "defender sempre o interesse individual",
+          "negar a importância da escuta"
+        ],
+        "respostaCorreta": "considerar direitos, deveres e consequências",
+        "explicacao": "Agir com justiça exige reflexão e responsabilidade diante das situações vividas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conflitos podem ser resolvidos de forma ética por meio do diálogo.",
+          "Todo conflito deve ser tratado com imposição e silêncio.",
+          "Justiça não tem relação com convivência social.",
+          "Escutar o outro atrapalha a solução dos problemas."
+        ],
+        "respostaCorreta": "Conflitos podem ser resolvidos de forma ética por meio do diálogo.",
+        "explicacao": "A mediação e a escuta contribuem para soluções mais equilibradas e respeitosas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver atitudes éticas diante de conflitos",
+          "tratar divergências sem responsabilidade",
+          "separar justiça da convivência cotidiana",
+          "considerar o conflito sempre insolúvel"
+        ],
+        "respostaCorreta": "desenvolver atitudes éticas diante de conflitos",
+        "explicacao": "O tema fortalece diálogo, escuta e busca de soluções mais justas no cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Diálogo, conflitos e justiça\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conflitos fazem parte da vida social e podem ser enfrentados com diálogo e responsabilidade",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Conflitos fazem parte da vida social e podem ser enfrentados com diálogo e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-02",
+        "enunciado": "Ao estudar \"Diálogo, conflitos e justiça\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A justiça envolve escuta, respeito, análise de situações e busca de soluções mais equilibradas"
+        ],
+        "respostaCorreta": "A justiça envolve escuta, respeito, análise de situações e busca de soluções mais equilibradas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-05",
+        "enunciado": "No contexto de \"Diálogo, conflitos e justiça\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-06",
+        "enunciado": "O estudo de \"Diálogo, conflitos e justiça\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender conflitos e convivência"
+        ],
+        "respostaCorreta": "compreender conflitos e convivência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "O diálogo ajuda a construir soluções mais equilibradas porque permite escuta, argumentação e consideração do ponto de vista das pessoas envolvidas. Isso se relaciona à ideia de justiça como prática de convivência e responsabilidade social",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "O diálogo ajuda a construir soluções mais equilibradas porque permite escuta, argumentação e consideração do ponto de vista das pessoas envolvidas. Isso se relaciona à ideia de justiça como prática de convivência e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Procure pensar em soluções que considerem direitos, deveres e consequências para todos os envolvidos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Procure pensar em soluções que considerem direitos, deveres e consequências para todos os envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender diálogo e senso de justiça",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender diálogo e senso de justiça",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação em que um desentendimento entre colegas é resolvido por conversa e mediação"
+        ],
+        "respostaCorreta": "Analise uma situação em que um desentendimento entre colegas é resolvido por conversa e mediação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Diálogo, conflitos e justiça\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que conflitos podem ser transformados em oportunidades de aprendizado e respeito mútuo",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que conflitos podem ser transformados em oportunidades de aprendizado e respeito mútuo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-12",
+        "enunciado": "Ao estudar \"Diálogo, conflitos e justiça\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique a causa do conflito",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique a causa do conflito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o diálogo foi construído",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe como o diálogo foi construído",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a solução à ideia de justiça e convivência ética"
+        ],
+        "respostaCorreta": "Relacione a solução à ideia de justiça e convivência ética",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"eti9-dialogo-conflitos-justica-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["conflitos podem ser enfrentados com diálogo, respeito e senso de justiça","toda divergência exige confronto agressivo","justiça não se aplica à vida cotidiana","escuta e mediação não ajudam na convivência"],"respostaCorreta":"conflitos podem ser enfrentados com diálogo, respeito e senso de justiça","explicacao":"O conteúdo relaciona ética, convivência e responsabilidade na resolução de conflitos.","dificuldade":"medio"}
+      {
+        "id": "eti9-dialogo-conflitos-justica-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conflitos podem ser enfrentados com diálogo, respeito e senso de justiça",
+          "toda divergência exige confronto agressivo",
+          "justiça não se aplica à vida cotidiana",
+          "escuta e mediação não ajudam na convivência"
+        ],
+        "respostaCorreta": "conflitos podem ser enfrentados com diálogo, respeito e senso de justiça",
+        "explicacao": "O conteúdo relaciona ética, convivência e responsabilidade na resolução de conflitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Diálogo, conflitos e justiça\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes éticas na convivência cotidiana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Diálogo, conflitos e justiça\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas"
+        ],
+        "respostaCorreta": "Em qualquer grupo social, diferenças de opinião e interesse podem gerar conflitos. O importante é aprender a lidar com essas situações de forma ética, evitando violência, humilhação e atitudes precipitadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de reagir, tente compreender o que causou o conflito e como ele pode ser resolvido com respeito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Diálogo, conflitos e justiça\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender conflitos e convivência",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender conflitos e convivência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O diálogo ajuda a construir soluções mais equilibradas porque permite escuta, argumentação e consideração do ponto de vista das pessoas envolvidas. Isso se relaciona à ideia de justiça como prática de convivência e responsabilidade social",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "O diálogo ajuda a construir soluções mais equilibradas porque permite escuta, argumentação e consideração do ponto de vista das pessoas envolvidas. Isso se relaciona à ideia de justiça como prática de convivência e responsabilidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-dialogo-conflitos-justica-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Procure pensar em soluções que considerem direitos, deveres e consequências para todos os envolvidos"
+        ],
+        "respostaCorreta": "Procure pensar em soluções que considerem direitos, deveres e consequências para todos os envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Diálogo, conflitos e justiça apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

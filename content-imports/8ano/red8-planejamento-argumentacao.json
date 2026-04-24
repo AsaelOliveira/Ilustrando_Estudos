@@ -1,0 +1,427 @@
+[
+  {
+    "id": "red8-planejamento-argumentacao",
+    "titulo": "Planejamento e argumentação na redação",
+    "disciplinaId": "red8",
+    "turmaId": "8ano",
+    "unidade": "Produção textual",
+    "resumo": [
+      "Planejar a escrita ajuda a organizar ideias antes de produzir um texto.",
+      "A argumentação fortalece a defesa de pontos de vista na redação.",
+      "Esse tema contribui para textos mais coerentes, claros e convincentes."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização antes da escrita",
+        "texto": "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza.",
+        "dica": "Faça um esquema simples antes de começar a redação."
+      },
+      {
+        "subtitulo": "Construção da argumentação",
+        "texto": "Quando a proposta pede opinião ou análise, o texto precisa apresentar razões, exemplos e explicações que sustentem o ponto de vista. Argumentar bem não é apenas opinar, mas justificar com coerência.",
+        "dica": "Pergunte sempre: por que essa ideia faz sentido? Como posso sustentá-la?"
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma redação sobre a importância do esporte na escola.",
+        "passos": [
+          "Defina uma ideia principal sobre o tema.",
+          "Liste dois argumentos que sustentem essa posição.",
+          "Organize introdução, desenvolvimento e conclusão."
+        ],
+        "resposta": "Esse processo mostra como planejamento e argumentação fortalecem a escrita."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Planejamento e argumentação na redação\".",
+        "passos": [
+          "Planejar a escrita ajuda a organizar ideias antes de produzir um texto",
+          "A argumentação fortalece a defesa de pontos de vista na redação",
+          "Esse tema contribui para textos mais coerentes, claros e convincentes"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e argumentação na redação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Planejamento e argumentação na redação\".",
+        "passos": [
+          "A argumentação fortalece a defesa de pontos de vista na redação",
+          "Esse tema contribui para textos mais coerentes, claros e convincentes",
+          "Organização antes da escrita"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e argumentação na redação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Planejamento e argumentação na redação\".",
+        "passos": [
+          "Esse tema contribui para textos mais coerentes, claros e convincentes",
+          "Organização antes da escrita",
+          "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e argumentação na redação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Planejamento e argumentação na redação\".",
+        "passos": [
+          "Organização antes da escrita",
+          "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza",
+          "Faça um esquema simples antes de começar a redação"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento e argumentação na redação pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "red8-planejamento-argumentacao-ex-01",
+        "enunciado": "Planejar uma redação significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar ideias antes de escrever",
+          "começar a escrever sem pensar",
+          "copiar frases aleatórias",
+          "eliminar o tema da proposta"
+        ],
+        "respostaCorreta": "organizar ideias antes de escrever",
+        "explicacao": "O planejamento ajuda a definir objetivo, estrutura e sequência de ideias no texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-ex-02",
+        "enunciado": "Argumentar em um texto é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender uma ideia com justificativas",
+          "listar palavras sem relação",
+          "escrever apenas a conclusão",
+          "trocar o tema durante o desenvolvimento"
+        ],
+        "respostaCorreta": "defender uma ideia com justificativas",
+        "explicacao": "A argumentação exige razões e exemplos que sustentem o ponto de vista apresentado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O planejamento melhora a organização e a clareza da redação.",
+          "Planejar atrapalha a escrita de qualquer texto.",
+          "Argumentar é o mesmo que repetir a mesma frase várias vezes.",
+          "Redação não exige organização das ideias."
+        ],
+        "respostaCorreta": "O planejamento melhora a organização e a clareza da redação.",
+        "explicacao": "Planejamento e argumentação ajudam a construir um texto mais coerente e consistente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir textos mais bem estruturados e convincentes",
+          "dispensar a revisão do próprio texto",
+          "escrever sem objetivo definido",
+          "trocar argumentos por frases desconectadas"
+        ],
+        "respostaCorreta": "produzir textos mais bem estruturados e convincentes",
+        "explicacao": "A combinação de planejamento e argumentação fortalece a qualidade da redação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar a escrita ajuda a organizar ideias antes de produzir um texto",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Planejar a escrita ajuda a organizar ideias antes de produzir um texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A argumentação fortalece a defesa de pontos de vista na redação"
+        ],
+        "respostaCorreta": "A argumentação fortalece a defesa de pontos de vista na redação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema contribui para textos mais coerentes, claros e convincentes",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema contribui para textos mais coerentes, claros e convincentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Faça um esquema simples antes de começar a redação",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Faça um esquema simples antes de começar a redação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando a proposta pede opinião ou análise, o texto precisa apresentar razões, exemplos e explicações que sustentem o ponto de vista. Argumentar bem não é apenas opinar, mas justificar com coerência"
+        ],
+        "respostaCorreta": "Quando a proposta pede opinião ou análise, o texto precisa apresentar razões, exemplos e explicações que sustentem o ponto de vista. Argumentar bem não é apenas opinar, mas justificar com coerência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte sempre: por que essa ideia faz sentido? Como posso sustentá-la?",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte sempre: por que essa ideia faz sentido? Como posso sustentá-la?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma redação sobre a importância do esporte na escola",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine uma redação sobre a importância do esporte na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse processo mostra como planejamento e argumentação fortalecem a escrita",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse processo mostra como planejamento e argumentação fortalecem a escrita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Defina uma ideia principal sobre o tema"
+        ],
+        "respostaCorreta": "Defina uma ideia principal sobre o tema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Liste dois argumentos que sustentem essa posição",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Liste dois argumentos que sustentem essa posição",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Organize introdução, desenvolvimento e conclusão",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Organize introdução, desenvolvimento e conclusão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar a escrita ajuda a organizar ideias antes de produzir um texto",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Planejar a escrita ajuda a organizar ideias antes de produzir um texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A argumentação fortalece a defesa de pontos de vista na redação"
+        ],
+        "respostaCorreta": "A argumentação fortalece a defesa de pontos de vista na redação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "red8-planejamento-argumentacao-sim-01",
+        "enunciado": "A principal utilidade do planejamento e da argumentação na redação é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar ideias e sustentar pontos de vista com mais clareza",
+          "escrever ao acaso sem estrutura",
+          "eliminar a necessidade de conclusão",
+          "substituir texto por tópicos desconectados"
+        ],
+        "respostaCorreta": "organizar ideias e sustentar pontos de vista com mais clareza",
+        "explicacao": "Esses dois elementos ajudam a construir textos mais coerentes, objetivos e persuasivos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema contribui para textos mais coerentes, claros e convincentes",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema contribui para textos mais coerentes, claros e convincentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza"
+        ],
+        "respostaCorreta": "O planejamento envolve definir tema, objetivo, ideias principais e ordem de apresentação. Essa etapa ajuda o estudante a escrever com mais segurança e evita repetições ou falta de clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Faça um esquema simples antes de começar a redação",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Faça um esquema simples antes de começar a redação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando a proposta pede opinião ou análise, o texto precisa apresentar razões, exemplos e explicações que sustentem o ponto de vista. Argumentar bem não é apenas opinar, mas justificar com coerência",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando a proposta pede opinião ou análise, o texto precisa apresentar razões, exemplos e explicações que sustentem o ponto de vista. Argumentar bem não é apenas opinar, mas justificar com coerência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte sempre: por que essa ideia faz sentido? Como posso sustentá-la?",
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte sempre: por que essa ideia faz sentido? Como posso sustentá-la?",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red8-planejamento-argumentacao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de planejamento e argumentação na redação se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Planejamento e argumentação na redação pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com planejamento e argumentação na redação dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma redação sobre a importância do esporte na escola"
+        ],
+        "respostaCorreta": "Imagine uma redação sobre a importância do esporte na escola",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Planejamento e argumentação na redação, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

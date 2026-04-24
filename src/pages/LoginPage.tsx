@@ -50,10 +50,6 @@ export default function LoginPage() {
   const state = location.state as { from?: string | { pathname?: string } } | null;
   const redirectTo = typeof state?.from === "string" ? state.from : state?.from?.pathname || "/app";
 
-  if (!authLoading && user) {
-    return <Navigate to={redirectTo} replace />;
-  }
-
   const resolvedTurmaLabel = turmas.find((turma) => turma.id === signupResolvedTurma)?.nome ?? signupResolvedTurma;
 
   const resetSignupFeedback = () => {
@@ -138,9 +134,7 @@ export default function LoginPage() {
       setSignupPasswordConfirm("");
     } catch (invokeError) {
       setLoading(false);
-      setError(
-        getSignupFunctionErrorMessage(invokeError instanceof Error ? invokeError.message : null),
-      );
+      setError(getSignupFunctionErrorMessage(invokeError instanceof Error ? invokeError.message : null));
     }
   };
 
@@ -208,9 +202,7 @@ export default function LoginPage() {
       setSignupNameConflict(false);
       setSignupLookupDone(false);
       setSignupChecking(false);
-      setError(
-        getSignupFunctionErrorMessage(invokeError instanceof Error ? invokeError.message : null),
-      );
+      setError(getSignupFunctionErrorMessage(invokeError instanceof Error ? invokeError.message : null));
     }
   };
 
@@ -221,6 +213,10 @@ export default function LoginPage() {
     setSignupPreviewAccess(null);
     setSignupNameConflict(false);
   }, [signupNome, mode]);
+
+  if (!authLoading && user) {
+    return <Navigate to={redirectTo} replace />;
+  }
 
   return (
     <Layout>
@@ -249,9 +245,7 @@ export default function LoginPage() {
               <h1 className="font-heading text-4xl font-black tracking-tight text-foreground">
                 Entrar na <span className="text-primary">Arena</span>
               </h1>
-              <p className="mt-3 font-body text-base font-medium text-muted-foreground">
-                Sua trilha de estudos est? esperando.
-              </p>
+              <p className="mt-3 font-body text-base font-medium text-muted-foreground">Sua trilha de estudos está esperando.</p>
             </div>
 
             <div className="mb-6 grid grid-cols-2 gap-2 rounded-2xl border border-border/60 bg-background/50 p-2">
@@ -285,9 +279,7 @@ export default function LoginPage() {
 
             {createdAccess ? (
               <div className="mb-6 rounded-2xl border border-emerald-300/60 bg-gradient-to-r from-emerald-100 via-emerald-50 to-background px-4 py-4 shadow-sm">
-                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-emerald-700">
-                  Cadastro concluido
-                </p>
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-emerald-700">Cadastro concluído</p>
                 <div className="mt-3 space-y-2 text-sm text-emerald-950">
                   <p>
                     <span className="font-semibold">Acesso:</span> <code className="rounded bg-white/80 px-2 py-1 font-mono">{createdAccess.login}</code>
@@ -311,12 +303,8 @@ export default function LoginPage() {
 
             {mode === "signup" ? (
               <div className="mb-6 rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
-                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">
-                  Novo fluxo de cadastro
-                </p>
-                <p className="mt-1 text-sm font-medium text-amber-900">
-                  Escreva seu nome completo e clique na lupa.
-                </p>
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">Novo fluxo de cadastro</p>
+                <p className="mt-1 text-sm font-medium text-amber-900">Escreva seu nome completo e clique na lupa.</p>
               </div>
             ) : null}
 
@@ -325,7 +313,7 @@ export default function LoginPage() {
                 <>
                   <div className="space-y-2">
                     <label className="block px-2 font-heading text-sm font-bold uppercase tracking-wider text-muted-foreground/80">
-                      Email ou codigo de acesso
+                      Email ou código de acesso
                     </label>
                     <input
                       type="text"
@@ -404,15 +392,17 @@ export default function LoginPage() {
                     </div>
                   </div>
 
-                  <div className={`rounded-2xl border px-4 py-3 text-sm ${
-                    signupChecking
-                      ? "border-primary/20 bg-primary/5 text-primary"
-                      : signupLookupDone && signupResolvedTurma
-                        ? "border-emerald-200 bg-emerald-50 text-emerald-900"
-                        : signupNameConflict
-                          ? "border-amber-200 bg-amber-50 text-amber-900"
-                          : "border-border/60 bg-background/40 text-muted-foreground"
-                  }`}>
+                  <div
+                    className={`rounded-2xl border px-4 py-3 text-sm ${
+                      signupChecking
+                        ? "border-primary/20 bg-primary/5 text-primary"
+                        : signupLookupDone && signupResolvedTurma
+                          ? "border-emerald-200 bg-emerald-50 text-emerald-900"
+                          : signupNameConflict
+                            ? "border-amber-200 bg-amber-50 text-amber-900"
+                            : "border-border/60 bg-background/40 text-muted-foreground"
+                    }`}
+                  >
                     {signupChecking ? (
                       "Conferindo seu nome na lista autorizada..."
                     ) : signupLookupDone && signupResolvedTurma ? (
@@ -433,7 +423,7 @@ export default function LoginPage() {
                           Seu acesso para entrar
                         </p>
                         <p className="mt-2 text-sm text-muted-foreground">
-                          Guarde este e-mail. Ele ser? usado junto com a senha que voc? criar abaixo.
+                          Guarde este e-mail. Ele será usado junto com a senha que você criar abaixo.
                         </p>
                         <div className="mt-3 flex flex-col gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3 sm:flex-row sm:items-center">
                           <span className="font-heading text-sm font-bold text-primary">Email de acesso</span>
@@ -454,7 +444,7 @@ export default function LoginPage() {
                               value={signupPassword}
                               onChange={(e) => setSignupPassword(e.target.value)}
                               required
-                              placeholder="Minimo de 6 caracteres"
+                              placeholder="Mínimo de 6 caracteres"
                               className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                             />
                             <button

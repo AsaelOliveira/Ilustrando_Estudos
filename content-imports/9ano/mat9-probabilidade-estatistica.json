@@ -31,16 +31,397 @@
           "Interprete se a média representa bem o grupo."
         ],
         "resposta": "Esse exemplo mostra como a média ajuda a resumir dados, mas também precisa ser analisada com cuidado."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Probabilidade e estatística\".",
+        "passos": [
+          "A probabilidade permite analisar a chance de um evento acontecer",
+          "A estatística organiza, representa e interpreta dados de diferentes situações",
+          "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis"
+        ],
+        "resposta": "Esse exemplo mostra como Probabilidade e estatística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Probabilidade e estatística\".",
+        "passos": [
+          "A estatística organiza, representa e interpreta dados de diferentes situações",
+          "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+          "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis"
+        ],
+        "resposta": "Esse exemplo mostra como Probabilidade e estatística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Probabilidade e estatística\".",
+        "passos": [
+          "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+          "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis",
+          "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer"
+        ],
+        "resposta": "Esse exemplo mostra como Probabilidade e estatística pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Probabilidade e estatística\".",
+        "passos": [
+          "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis",
+          "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer",
+          "Probabilidade no cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Probabilidade e estatística pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-probabilidade-estatistica-ex-01","enunciado":"A probabilidade serve para estudar:","tipo":"multipla_escolha","alternativas":["a chance de um evento acontecer","somente desenhos geométricos","o formato das letras","apenas operações sem contexto"],"respostaCorreta":"a chance de um evento acontecer","explicacao":"A probabilidade analisa possibilidades e chances em diferentes situações.","dificuldade":"facil"},
-      {"id":"mat9-probabilidade-estatistica-ex-02","enunciado":"A estatística contribui para:","tipo":"multipla_escolha","alternativas":["organizar e interpretar dados","eliminar a necessidade de informações","substituir todos os cálculos por opiniões","ignorar resultados de pesquisas"],"respostaCorreta":"organizar e interpretar dados","explicacao":"A estatística reúne, representa e analisa dados para produzir informações úteis.","dificuldade":"facil"},
-      {"id":"mat9-probabilidade-estatistica-ex-03","enunciado":"Ao observar um gráfico, é importante:","tipo":"multipla_escolha","alternativas":["ler título, eixos e legenda","olhar apenas as cores","ignorar a escala usada","considerar apenas o maior valor"],"respostaCorreta":"ler título, eixos e legenda","explicacao":"Esses elementos ajudam a interpretar corretamente as informações representadas.","dificuldade":"medio"},
-      {"id":"mat9-probabilidade-estatistica-ex-04","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Probabilidade e estatística ajudam a analisar informações do cotidiano.","Estatística não tem relação com pesquisas e gráficos.","Probabilidade só pode ser usada em jogos sem números.","Média e gráficos não servem para interpretar dados."],"respostaCorreta":"Probabilidade e estatística ajudam a analisar informações do cotidiano.","explicacao":"Esses conteúdos são úteis em pesquisas, notícias, jogos e situações de tomada de decisão.","dificuldade":"medio"}
+      {
+        "id": "mat9-probabilidade-estatistica-ex-01",
+        "enunciado": "A probabilidade serve para estudar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a chance de um evento acontecer",
+          "somente desenhos geométricos",
+          "o formato das letras",
+          "apenas operações sem contexto"
+        ],
+        "respostaCorreta": "a chance de um evento acontecer",
+        "explicacao": "A probabilidade analisa possibilidades e chances em diferentes situações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-ex-02",
+        "enunciado": "A estatística contribui para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar e interpretar dados",
+          "eliminar a necessidade de informações",
+          "substituir todos os cálculos por opiniões",
+          "ignorar resultados de pesquisas"
+        ],
+        "respostaCorreta": "organizar e interpretar dados",
+        "explicacao": "A estatística reúne, representa e analisa dados para produzir informações úteis.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-ex-03",
+        "enunciado": "Ao observar um gráfico, é importante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler título, eixos e legenda",
+          "olhar apenas as cores",
+          "ignorar a escala usada",
+          "considerar apenas o maior valor"
+        ],
+        "respostaCorreta": "ler título, eixos e legenda",
+        "explicacao": "Esses elementos ajudam a interpretar corretamente as informações representadas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Probabilidade e estatística ajudam a analisar informações do cotidiano.",
+          "Estatística não tem relação com pesquisas e gráficos.",
+          "Probabilidade só pode ser usada em jogos sem números.",
+          "Média e gráficos não servem para interpretar dados."
+        ],
+        "respostaCorreta": "Probabilidade e estatística ajudam a analisar informações do cotidiano.",
+        "explicacao": "Esses conteúdos são úteis em pesquisas, notícias, jogos e situações de tomada de decisão.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Probabilidade e estatística\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A probabilidade permite analisar a chance de um evento acontecer",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A probabilidade permite analisar a chance de um evento acontecer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-02",
+        "enunciado": "Ao estudar \"Probabilidade e estatística\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A estatística organiza, representa e interpreta dados de diferentes situações"
+        ],
+        "respostaCorreta": "A estatística organiza, representa e interpreta dados de diferentes situações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-05",
+        "enunciado": "No contexto de \"Probabilidade e estatística\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-06",
+        "enunciado": "O estudo de \"Probabilidade e estatística\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender probabilidade no cotidiano"
+        ],
+        "respostaCorreta": "compreender probabilidade no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A estatística ajuda a organizar dados em tabelas, gráficos e medidas como média. Com isso, fica mais fácil comparar informações, identificar tendências e interpretar situações do dia a dia com mais precisão",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A estatística ajuda a organizar dados em tabelas, gráficos e medidas como média. Com isso, fica mais fácil comparar informações, identificar tendências e interpretar situações do dia a dia com mais precisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Ao analisar um gráfico, observe título, legenda, eixos e valores apresentados",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Ao analisar um gráfico, observe título, legenda, eixos e valores apresentados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender leitura e interpretação de dados",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender leitura e interpretação de dados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Uma turma registrou a quantidade de livros lidos por cinco estudantes: 2, 3, 3, 4 e 8"
+        ],
+        "respostaCorreta": "Uma turma registrou a quantidade de livros lidos por cinco estudantes: 2, 3, 3, 4 e 8",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Probabilidade e estatística\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a média ajuda a resumir dados, mas também precisa ser analisada com cuidado",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a média ajuda a resumir dados, mas também precisa ser analisada com cuidado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-12",
+        "enunciado": "Ao estudar \"Probabilidade e estatística\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Some os valores para encontrar o total",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Some os valores para encontrar o total",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Divida o resultado pela quantidade de estudantes",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Divida o resultado pela quantidade de estudantes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Interprete se a média representa bem o grupo"
+        ],
+        "respostaCorreta": "Interprete se a média representa bem o grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-probabilidade-estatistica-sim-01","enunciado":"A principal contribuição da estatística na vida cotidiana é:","tipo":"multipla_escolha","alternativas":["transformar dados em informações interpretáveis","substituir qualquer leitura crítica","dispensar a análise de resultados","eliminar a necessidade de comparar valores"],"respostaCorreta":"transformar dados em informações interpretáveis","explicacao":"A estatística organiza dados e facilita a compreensão de situações reais por meio de tabelas, gráficos e medidas.","dificuldade":"medio"}
+      {
+        "id": "mat9-probabilidade-estatistica-sim-01",
+        "enunciado": "A principal contribuição da estatística na vida cotidiana é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformar dados em informações interpretáveis",
+          "substituir qualquer leitura crítica",
+          "dispensar a análise de resultados",
+          "eliminar a necessidade de comparar valores"
+        ],
+        "respostaCorreta": "transformar dados em informações interpretáveis",
+        "explicacao": "A estatística organiza dados e facilita a compreensão de situações reais por meio de tabelas, gráficos e medidas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Probabilidade e estatística\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Esses conteúdos ajudam a tomar decisões com base em informações confiáveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Probabilidade e estatística\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis"
+        ],
+        "respostaCorreta": "A probabilidade é usada para estimar a possibilidade de ocorrência de um evento. Ela aparece em jogos, pesquisas, previsões e em situações em que precisamos comparar chances e resultados possíveis",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pense em todos os resultados possíveis antes de decidir qual é a chance de um evento ocorrer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Probabilidade e estatística\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender probabilidade no cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender probabilidade no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A estatística ajuda a organizar dados em tabelas, gráficos e medidas como média. Com isso, fica mais fácil comparar informações, identificar tendências e interpretar situações do dia a dia com mais precisão",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A estatística ajuda a organizar dados em tabelas, gráficos e medidas como média. Com isso, fica mais fácil comparar informações, identificar tendências e interpretar situações do dia a dia com mais precisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-probabilidade-estatistica-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao analisar um gráfico, observe título, legenda, eixos e valores apresentados"
+        ],
+        "respostaCorreta": "Ao analisar um gráfico, observe título, legenda, eixos e valores apresentados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Probabilidade e estatística apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

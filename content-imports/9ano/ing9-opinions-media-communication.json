@@ -31,16 +31,397 @@
           "Relate the structure to other communication contexts."
         ],
         "resposta": "This example shows how opinion language is useful in real communication situations."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Opinions, media and communication\".",
+        "passos": [
+          "English can be used to express opinions and interact in media-related contexts",
+          "Learning structures for agreement, disagreement and point of view strengthens communication",
+          "This topic helps students connect language study with contemporary communication practices"
+        ],
+        "resposta": "Esse exemplo mostra como Opinions, media and communication pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Opinions, media and communication\".",
+        "passos": [
+          "Learning structures for agreement, disagreement and point of view strengthens communication",
+          "This topic helps students connect language study with contemporary communication practices",
+          "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication"
+        ],
+        "resposta": "Esse exemplo mostra como Opinions, media and communication pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Opinions, media and communication\".",
+        "passos": [
+          "This topic helps students connect language study with contemporary communication practices",
+          "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication",
+          "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'"
+        ],
+        "resposta": "Esse exemplo mostra como Opinions, media and communication pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Opinions, media and communication\".",
+        "passos": [
+          "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication",
+          "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'",
+          "Expressing opinions in English"
+        ],
+        "resposta": "Esse exemplo mostra como Opinions, media and communication pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"ing9-opinions-media-communication-ex-01","enunciado":"The expression 'I think' is used to:","tipo":"multipla_escolha","alternativas":["introduce an opinion","describe a chemical reaction","name a geometric solid","classify a verb in Portuguese"],"respostaCorreta":"introduce an opinion","explicacao":"'I think' is a common way to express a point of view in English.","dificuldade":"facil"},
-      {"id":"ing9-opinions-media-communication-ex-02","enunciado":"Which expression shows agreement?","tipo":"multipla_escolha","alternativas":["I agree","I am a book","Blue is seven","Open the table"],"respostaCorreta":"I agree","explicacao":"'I agree' is used to show agreement with someone else's idea.","dificuldade":"facil"},
-      {"id":"ing9-opinions-media-communication-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["Opinion language helps students communicate in real contexts.","Media texts never include opinions.","English cannot be used in digital communication.","Disagreement expressions are unnecessary in conversation."],"respostaCorreta":"Opinion language helps students communicate in real contexts.","explicacao":"This type of language is useful in conversations, comments, posts and classroom interaction.","dificuldade":"medio"},
-      {"id":"ing9-opinions-media-communication-ex-04","enunciado":"Studying this topic helps the student:","tipo":"multipla_escolha","alternativas":["connect English learning to contemporary communication","avoid any real use of the language","memorize isolated words only","ignore interaction in media contexts"],"respostaCorreta":"connect English learning to contemporary communication","explicacao":"The topic links language study to real communication practices.","dificuldade":"medio"}
+      {
+        "id": "ing9-opinions-media-communication-ex-01",
+        "enunciado": "The expression 'I think' is used to:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "introduce an opinion",
+          "describe a chemical reaction",
+          "name a geometric solid",
+          "classify a verb in Portuguese"
+        ],
+        "respostaCorreta": "introduce an opinion",
+        "explicacao": "'I think' is a common way to express a point of view in English.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-ex-02",
+        "enunciado": "Which expression shows agreement?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "I agree",
+          "I am a book",
+          "Blue is seven",
+          "Open the table"
+        ],
+        "respostaCorreta": "I agree",
+        "explicacao": "'I agree' is used to show agreement with someone else's idea.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Opinion language helps students communicate in real contexts.",
+          "Media texts never include opinions.",
+          "English cannot be used in digital communication.",
+          "Disagreement expressions are unnecessary in conversation."
+        ],
+        "respostaCorreta": "Opinion language helps students communicate in real contexts.",
+        "explicacao": "This type of language is useful in conversations, comments, posts and classroom interaction.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-ex-04",
+        "enunciado": "Studying this topic helps the student:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "connect English learning to contemporary communication",
+          "avoid any real use of the language",
+          "memorize isolated words only",
+          "ignore interaction in media contexts"
+        ],
+        "respostaCorreta": "connect English learning to contemporary communication",
+        "explicacao": "The topic links language study to real communication practices.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Opinions, media and communication\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "English can be used to express opinions and interact in media-related contexts",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "English can be used to express opinions and interact in media-related contexts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-02",
+        "enunciado": "Ao estudar \"Opinions, media and communication\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Learning structures for agreement, disagreement and point of view strengthens communication"
+        ],
+        "respostaCorreta": "Learning structures for agreement, disagreement and point of view strengthens communication",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "This topic helps students connect language study with contemporary communication practices",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "This topic helps students connect language study with contemporary communication practices",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-05",
+        "enunciado": "No contexto de \"Opinions, media and communication\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-06",
+        "enunciado": "O estudo de \"Opinions, media and communication\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender expressing opinions in english"
+        ],
+        "respostaCorreta": "compreender expressing opinions in english",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Media texts, comments, posts and everyday communication often involve opinion and interpretation. Studying this topic helps learners understand how English appears in contemporary social interactions",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Media texts, comments, posts and everyday communication often involve opinion and interpretation. Studying this topic helps learners understand how English appears in contemporary social interactions",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pay attention to how short opinion phrases appear in messages, videos and digital texts",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pay attention to how short opinion phrases appear in messages, videos and digital texts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender language and media",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender language and media",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Read a short comment in English where someone shares an opinion about a social topic"
+        ],
+        "respostaCorreta": "Read a short comment in English where someone shares an opinion about a social topic",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Opinions, media and communication\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "This example shows how opinion language is useful in real communication situations",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "This example shows how opinion language is useful in real communication situations",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-12",
+        "enunciado": "Ao estudar \"Opinions, media and communication\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identify the expression used to introduce the opinion",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identify the expression used to introduce the opinion",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe whether the idea is supported by a reason",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe whether the idea is supported by a reason",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relate the structure to other communication contexts"
+        ],
+        "respostaCorreta": "Relate the structure to other communication contexts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"ing9-opinions-media-communication-sim-01","enunciado":"The main idea of this topic is:","tipo":"multipla_escolha","alternativas":["using English to express opinions in media and communication contexts","studying English without interaction or meaning","avoiding opinion in all language situations","separating language from contemporary life"],"respostaCorreta":"using English to express opinions in media and communication contexts","explicacao":"The topic focuses on meaningful language use in present-day communication.","dificuldade":"medio"}
+      {
+        "id": "ing9-opinions-media-communication-sim-01",
+        "enunciado": "The main idea of this topic is:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "using English to express opinions in media and communication contexts",
+          "studying English without interaction or meaning",
+          "avoiding opinion in all language situations",
+          "separating language from contemporary life"
+        ],
+        "respostaCorreta": "using English to express opinions in media and communication contexts",
+        "explicacao": "The topic focuses on meaningful language use in present-day communication.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Opinions, media and communication\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic helps students connect language study with contemporary communication practices",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "This topic helps students connect language study with contemporary communication practices",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Opinions, media and communication\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication"
+        ],
+        "respostaCorreta": "Students can learn to use simple structures to share opinions, justify ideas and respond to other viewpoints. These expressions are important in conversations, digital interactions and classroom communication",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe expressions such as 'I think', 'In my opinion', 'I agree' and 'I disagree'",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Opinions, media and communication\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender expressing opinions in english",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender expressing opinions in english",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Media texts, comments, posts and everyday communication often involve opinion and interpretation. Studying this topic helps learners understand how English appears in contemporary social interactions",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Media texts, comments, posts and everyday communication often involve opinion and interpretation. Studying this topic helps learners understand how English appears in contemporary social interactions",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-opinions-media-communication-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pay attention to how short opinion phrases appear in messages, videos and digital texts"
+        ],
+        "respostaCorreta": "Pay attention to how short opinion phrases appear in messages, videos and digital texts",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Opinions, media and communication apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "mat8-area-figuras-planas",
+    "titulo": "Área de figuras planas",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "A área mede a superfície ocupada por uma figura plana.",
+      "Cada figura possui uma forma específica de cálculo da área.",
+      "Esse conceito é útil em situações de medida e planejamento de espaços."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Significado de área",
+        "texto": "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies.",
+        "dica": "Não confunda área com perímetro: área mede superfície; perímetro mede contorno."
+      },
+      {
+        "subtitulo": "Leitura das medidas",
+        "texto": "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação.",
+        "dica": "Antes de calcular, reconheça o tipo de figura e as unidades de medida."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere um retângulo com 6 metros de comprimento e 4 metros de largura.",
+        "passos": [
+          "Multiplique comprimento por largura.",
+          "Calcule 6 × 4."
+        ],
+        "resposta": "A área do retângulo é 24 metros quadrados."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Área de figuras planas\".",
+        "passos": [
+          "A área mede a superfície ocupada por uma figura plana",
+          "Cada figura possui uma forma específica de cálculo da área",
+          "Esse conceito é útil em situações de medida e planejamento de espaços"
+        ],
+        "resposta": "Esse exemplo mostra como Área de figuras planas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Área de figuras planas\".",
+        "passos": [
+          "Cada figura possui uma forma específica de cálculo da área",
+          "Esse conceito é útil em situações de medida e planejamento de espaços",
+          "Significado de área"
+        ],
+        "resposta": "Esse exemplo mostra como Área de figuras planas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Área de figuras planas\".",
+        "passos": [
+          "Esse conceito é útil em situações de medida e planejamento de espaços",
+          "Significado de área",
+          "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies"
+        ],
+        "resposta": "Esse exemplo mostra como Área de figuras planas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Área de figuras planas\".",
+        "passos": [
+          "Significado de área",
+          "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies",
+          "Não confunda área com perímetro: área mede superfície; perímetro mede contorno"
+        ],
+        "resposta": "Esse exemplo mostra como Área de figuras planas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-area-figuras-planas-ex-01",
+        "enunciado": "A área de uma figura plana mede:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a superfície ocupada por ela",
+          "o contorno da figura",
+          "apenas o número de lados",
+          "a inclinação da forma"
+        ],
+        "respostaCorreta": "a superfície ocupada por ela",
+        "explicacao": "Área corresponde ao espaço interno da figura plana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-ex-02",
+        "enunciado": "Para calcular a área corretamente, é importante identificar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o tipo de figura e suas medidas",
+          "a cor da figura",
+          "a ordem alfabética dos números",
+          "apenas o maior lado"
+        ],
+        "respostaCorreta": "o tipo de figura e suas medidas",
+        "explicacao": "A fórmula da área depende da figura envolvida e das medidas fornecidas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área e perímetro não representam a mesma medida.",
+          "Área e perímetro são exatamente a mesma coisa.",
+          "Área mede apenas linhas retas.",
+          "Perímetro mede o interior da figura."
+        ],
+        "respostaCorreta": "Área e perímetro não representam a mesma medida.",
+        "explicacao": "Área mede superfície, enquanto perímetro mede o contorno da figura.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-ex-04",
+        "enunciado": "O estudo da área é útil em situações como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "medir pisos, paredes e terrenos",
+          "classificar verbos",
+          "ordenar palavras por tamanho",
+          "identificar rimas em poemas"
+        ],
+        "respostaCorreta": "medir pisos, paredes e terrenos",
+        "explicacao": "A área aparece em muitas situações práticas que envolvem superfícies.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A área mede a superfície ocupada por uma figura plana",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A área mede a superfície ocupada por uma figura plana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada figura possui uma forma específica de cálculo da área"
+        ],
+        "respostaCorreta": "Cada figura possui uma forma específica de cálculo da área",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse conceito é útil em situações de medida e planejamento de espaços",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse conceito é útil em situações de medida e planejamento de espaços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Não confunda área com perímetro: área mede superfície; perímetro mede contorno",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Não confunda área com perímetro: área mede superfície; perímetro mede contorno",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação"
+        ],
+        "respostaCorreta": "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Antes de calcular, reconheça o tipo de figura e as unidades de medida",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Antes de calcular, reconheça o tipo de figura e as unidades de medida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um retângulo com 6 metros de comprimento e 4 metros de largura",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere um retângulo com 6 metros de comprimento e 4 metros de largura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A área do retângulo é 24 metros quadrados",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A área do retângulo é 24 metros quadrados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Multiplique comprimento por largura"
+        ],
+        "respostaCorreta": "Multiplique comprimento por largura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A área mede a superfície ocupada por uma figura plana",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A área mede a superfície ocupada por uma figura plana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada figura possui uma forma específica de cálculo da área",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Cada figura possui uma forma específica de cálculo da área",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conceito é útil em situações de medida e planejamento de espaços",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse conceito é útil em situações de medida e planejamento de espaços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies"
+        ],
+        "respostaCorreta": "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-area-figuras-planas-sim-01",
+        "enunciado": "Ao resolver um problema de área, o estudante deve compreender principalmente que está calculando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o espaço interno ocupado pela figura",
+          "o contorno externo da figura",
+          "o número de vértices apenas",
+          "a espessura do desenho"
+        ],
+        "respostaCorreta": "o espaço interno ocupado pela figura",
+        "explicacao": "A área sempre se refere à superfície da figura plana.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conceito é útil em situações de medida e planejamento de espaços",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse conceito é útil em situações de medida e planejamento de espaços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies"
+        ],
+        "respostaCorreta": "A área representa o espaço interno ocupado por uma figura plana. Em problemas do cotidiano, ela pode indicar a medida de pisos, paredes, terrenos, quadras e outras superfícies",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Não confunda área com perímetro: área mede superfície; perímetro mede contorno",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Não confunda área com perímetro: área mede superfície; perímetro mede contorno",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Para calcular a área, é importante observar as medidas dadas e identificar a figura geométrica envolvida. A escolha da fórmula depende dessa identificação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de calcular, reconheça o tipo de figura e as unidades de medida",
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Antes de calcular, reconheça o tipo de figura e as unidades de medida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-area-figuras-planas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de área de figuras planas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Área de figuras planas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com área de figuras planas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere um retângulo com 6 metros de comprimento e 4 metros de largura"
+        ],
+        "respostaCorreta": "Considere um retângulo com 6 metros de comprimento e 4 metros de largura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Área de figuras planas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

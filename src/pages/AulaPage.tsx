@@ -1,5 +1,5 @@
 import { Navigate, useParams } from "react-router-dom";
-import { useState, useCallback, useEffect } from "react";
+import { useState, useCallback, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Layout from "@/components/Layout";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -11,7 +11,7 @@ import { useAuth } from "@/hooks/useAuth";
 import { canAccessTurma, getTurma, getDisciplina } from "@/data/catalog";
 import type { BlocoExplicacao, Questao } from "@/data/content-types";
 import { setRecentStudy } from "@/lib/recent-study";
-import { pickRandomItems, shuffleItems } from "@/lib/random";
+import { pickRandomItems } from "@/lib/random";
 import { Check, X, RotateCcw, Clock, Lightbulb, ChevronDown, BookOpen, FileText, Beaker, PenTool, GraduationCap, Zap, Star, Target } from "lucide-react";
 import { recordActivityResult, type ActivityResultType } from "@/lib/activity-results";
 
@@ -22,6 +22,9 @@ type ActivityContext = {
   temaId: string;
   countsForPoints: boolean;
 };
+
+const EXERCISE_ROUND_SIZE = 5;
+const SIMULADO_ROUND_SIZE = 7;
 
 const TABS = ["Resumo", "Explicação", "Exemplos", "Exercícios", "Simulado"] as const;
 type Tab = (typeof TABS)[number];
@@ -38,7 +41,7 @@ export default function AulaPage() {
   const { turmaId, disciplinaId, temaId } = useParams();
   const { user, profile, role } = useAuth();
   const { temas, loading } = useStudyContent();
-  const { config: contentDisplayConfig, loading: contentDisplayLoading } = useContentDisplayConfig();
+  const { loading: contentDisplayLoading } = useContentDisplayConfig();
   const turmaData = getTurma(turmaId || "");
   const discData = getDisciplina(disciplinaId || "");
   const tema = getTemaByIdFromList(temas, temaId || "");
@@ -47,6 +50,7 @@ export default function AulaPage() {
   const [simuladoRound, setSimuladoRound] = useState(0);
   const [visibleExercicios, setVisibleExercicios] = useState<Questao[]>([]);
   const [visibleSimulado, setVisibleSimulado] = useState<Questao[]>([]);
+  const temaQuestionPool = useMemo(() => getTemaQuestionPool(tema), [tema]);
   const metadataTurma =
     user?.user_metadata && typeof user.user_metadata.turma_id === "string"
       ? user.user_metadata.turma_id
@@ -70,10 +74,8 @@ export default function AulaPage() {
       return;
     }
 
-    setVisibleExercicios(
-      pickRandomItems(tema.exercicios, contentDisplayConfig.maxExercisesPerTema),
-    );
-  }, [contentDisplayConfig.maxExercisesPerTema, exerciseRound, tema]);
+    setVisibleExercicios(buildExerciseRound(temaQuestionPool));
+  }, [exerciseRound, tema, temaQuestionPool]);
 
   useEffect(() => {
     if (!tema) {
@@ -81,12 +83,8 @@ export default function AulaPage() {
       return;
     }
 
-    setVisibleSimulado(shuffleItems(tema.simulado));
-  }, [simuladoRound, tema]);
-
-  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
-    return <Navigate to="/app/turmas" replace />;
-  }
+    setVisibleSimulado(buildSimuladoRound(temaQuestionPool, visibleExercicios));
+  }, [simuladoRound, tema, temaQuestionPool, visibleExercicios]);
 
   useEffect(() => {
     if (!turmaData || !discData || !tema || !turmaId || !disciplinaId || !temaId) return;
@@ -98,6 +96,10 @@ export default function AulaPage() {
       visitedAt: new Date().toISOString(),
     });
   }, [discData, disciplinaId, tema, temaId, turmaData, turmaId]);
+
+  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
+    return <Navigate to="/app/turmas" replace />;
+  }
 
   if (loading || contentDisplayLoading) {
     return (
@@ -137,7 +139,7 @@ export default function AulaPage() {
             {tema.titulo}
           </h1>
           <p className="font-body text-sm text-muted-foreground mt-2">
-            {visibleExercicios.length} exercícios • {tema.simulado.length} questões no simulado • {tema.explicacao.length} seções
+            {visibleExercicios.length} exercícios • {visibleSimulado.length} questões no simulado • banco com {temaQuestionPool.length} questões • {tema.explicacao.length} seções
           </p>
           {!countsForPoints && (
             <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-200 bg-amber-50 px-4 py-2 text-xs font-medium text-amber-800">
@@ -161,7 +163,7 @@ export default function AulaPage() {
                   }`}
                 >
                   <span className="text-base">{cfg.emoji}</span>
-                  <span className="hidden sm:inline">{t}</span>
+                  <span className="inline">{t}</span>
                   {tab === t && (
                     <motion.div
                       layoutId="tab-underline"
@@ -187,7 +189,7 @@ export default function AulaPage() {
             {tab === "Explicação" && <ExplicacaoTab explicacao={tema.explicacao} />}
             {tab === "Exemplos" && <ExemplosTab exemplos={tema.exemplos} isMath={tema.disciplinaId.startsWith("mat")} />}
             {tab === "Exercícios" && <ExerciciosTab exercicios={visibleExercicios} activityContext={activityContext} />}
-            {tab === "Simulado" && <SimuladoTab questoes={tema.simulado} activityContext={activityContext} />}
+            {tab === "Simulado" && <SimuladoTab questoes={visibleSimulado} activityContext={activityContext} />}
           </motion.div>
         </AnimatePresence>
       </section>
@@ -211,6 +213,37 @@ async function saveActivityResult(
     total,
     countsForPoints: activityContext.countsForPoints,
   });
+}
+
+function getTemaQuestionPool(tema?: { exercicios: Questao[]; simulado: Questao[] } | null) {
+  if (!tema) return [];
+
+  const uniqueQuestions = new Map<string, Questao>();
+
+  [...tema.exercicios, ...tema.simulado].forEach((question) => {
+    if (!uniqueQuestions.has(question.id)) {
+      uniqueQuestions.set(question.id, question);
+    }
+  });
+
+  return Array.from(uniqueQuestions.values());
+}
+
+function buildExerciseRound(questionPool: Questao[]) {
+  return pickRandomItems(questionPool, Math.min(EXERCISE_ROUND_SIZE, questionPool.length));
+}
+
+function buildSimuladoRound(questionPool: Questao[], exerciseRound: Questao[]) {
+  if (questionPool.length === 0) return [];
+
+  const exerciseIds = new Set(exerciseRound.map((question) => question.id));
+  const nonRepeatedPool = questionPool.filter((question) => !exerciseIds.has(question.id));
+
+  if (nonRepeatedPool.length >= SIMULADO_ROUND_SIZE) {
+    return pickRandomItems(nonRepeatedPool, SIMULADO_ROUND_SIZE);
+  }
+
+  return pickRandomItems(questionPool, Math.min(SIMULADO_ROUND_SIZE, questionPool.length));
 }
 
 function ResumoTab({ resumo }: { resumo: string[] }) {
@@ -407,7 +440,6 @@ function ExerciciosTab({
 }) {
   const { temaId } = useParams();
   const { temas } = useStudyContent();
-  const { config: displayConfig } = useContentDisplayConfig();
   const tema = getTemaByIdFromList(temas, temaId || "");
   const [questionSet, setQuestionSet] = useState<Questao[]>(exercicios);
   const [respostas, setRespostas] = useState<Record<string, string>>({});
@@ -423,7 +455,7 @@ function ExerciciosTab({
 
   const handleReset = () => {
     const renewedQuestions = tema
-      ? pickRandomItems(tema.exercicios, displayConfig.maxExercisesPerTema)
+      ? buildExerciseRound(getTemaQuestionPool(tema))
       : exercicios;
     setQuestionSet(renewedQuestions);
     setRespostas({});
@@ -789,7 +821,7 @@ function SimuladoTab({
 
         <button
           onClick={() => {
-            const renewedQuestions = tema ? shuffleItems(tema.simulado) : questoes;
+            const renewedQuestions = tema ? buildSimuladoRound(getTemaQuestionPool(tema), []) : questoes;
             setQuestionSet(renewedQuestions);
             setRespostas({});
             setFinalizado(false);

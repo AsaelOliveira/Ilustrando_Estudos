@@ -1,0 +1,426 @@
+[
+  {
+    "id": "port8-coesao-conectivos",
+    "titulo": "Coesão textual e conectivos",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A coesão textual ajuda a ligar ideias e partes do texto com clareza.",
+      "Os conectivos indicam relações como causa, oposição, conclusão e explicação.",
+      "Entender esses recursos melhora a leitura e a escrita de textos mais organizados."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ligação entre ideias",
+        "texto": "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos.",
+        "dica": "Observe como uma frase se conecta à anterior e prepara a seguinte."
+      },
+      {
+        "subtitulo": "Função dos conectivos",
+        "texto": "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor.",
+        "dica": "Pergunte que tipo de relação o conectivo está indicando no contexto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'",
+        "passos": [
+          "Observe que o conectivo 'portanto' aparece entre duas ideias.",
+          "Perceba que ele introduz uma conclusão."
+        ],
+        "resposta": "Nesse caso, o conectivo ajuda a construir a coesão e o sentido do período."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Coesão textual e conectivos\".",
+        "passos": [
+          "A coesão textual ajuda a ligar ideias e partes do texto com clareza",
+          "Os conectivos indicam relações como causa, oposição, conclusão e explicação",
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão textual e conectivos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Coesão textual e conectivos\".",
+        "passos": [
+          "Os conectivos indicam relações como causa, oposição, conclusão e explicação",
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+          "Ligação entre ideias"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão textual e conectivos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Coesão textual e conectivos\".",
+        "passos": [
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+          "Ligação entre ideias",
+          "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão textual e conectivos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Coesão textual e conectivos\".",
+        "passos": [
+          "Ligação entre ideias",
+          "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos",
+          "Observe como uma frase se conecta à anterior e prepara a seguinte"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão textual e conectivos pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-coesao-conectivos-ex-01",
+        "enunciado": "A coesão textual tem a função de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ligar ideias e organizar o texto",
+          "eliminar completamente os parágrafos",
+          "substituir todos os verbos",
+          "dispensar o uso de sentido nas frases"
+        ],
+        "respostaCorreta": "ligar ideias e organizar o texto",
+        "explicacao": "A coesão textual favorece a conexão entre partes do texto e melhora a compreensão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-ex-02",
+        "enunciado": "Os conectivos servem para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indicar relações de sentido entre ideias",
+          "apenas aumentar o tamanho do texto",
+          "substituir todos os substantivos",
+          "eliminar a pontuação"
+        ],
+        "respostaCorreta": "indicar relações de sentido entre ideias",
+        "explicacao": "Os conectivos mostram relações como causa, oposição, consequência e conclusão.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-ex-03",
+        "enunciado": "Qual alternativa apresenta um conectivo com valor de oposição?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "porém",
+          "portanto",
+          "porque",
+          "assim"
+        ],
+        "respostaCorreta": "porém",
+        "explicacao": "'Porém' introduz uma ideia de contraste ou oposição entre duas informações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-ex-04",
+        "enunciado": "Estudar coesão e conectivos ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever textos mais claros e bem articulados",
+          "eliminar toda relação entre frases",
+          "dispensar a organização das ideias",
+          "trocar textos por listas sem sentido"
+        ],
+        "respostaCorreta": "escrever textos mais claros e bem articulados",
+        "explicacao": "Esses recursos fortalecem a continuidade das ideias e a clareza da argumentação ou explicação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A coesão textual ajuda a ligar ideias e partes do texto com clareza",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A coesão textual ajuda a ligar ideias e partes do texto com clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os conectivos indicam relações como causa, oposição, conclusão e explicação"
+        ],
+        "respostaCorreta": "Os conectivos indicam relações como causa, oposição, conclusão e explicação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como uma frase se conecta à anterior e prepara a seguinte",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como uma frase se conecta à anterior e prepara a seguinte",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor"
+        ],
+        "respostaCorreta": "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte que tipo de relação o conectivo está indicando no contexto",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte que tipo de relação o conectivo está indicando no contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nesse caso, o conectivo ajuda a construir a coesão e o sentido do período",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Nesse caso, o conectivo ajuda a construir a coesão e o sentido do período",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que o conectivo 'portanto' aparece entre duas ideias"
+        ],
+        "respostaCorreta": "Observe que o conectivo 'portanto' aparece entre duas ideias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que ele introduz uma conclusão",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que ele introduz uma conclusão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão textual ajuda a ligar ideias e partes do texto com clareza",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A coesão textual ajuda a ligar ideias e partes do texto com clareza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os conectivos indicam relações como causa, oposição, conclusão e explicação",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os conectivos indicam relações como causa, oposição, conclusão e explicação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados"
+        ],
+        "respostaCorreta": "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-coesao-conectivos-sim-01",
+        "enunciado": "A ideia principal do estudo dos conectivos é compreender como eles:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "orientam as relações de sentido no texto",
+          "substituem o tema principal",
+          "eliminam a necessidade de parágrafos",
+          "servem apenas como enfeite"
+        ],
+        "respostaCorreta": "orientam as relações de sentido no texto",
+        "explicacao": "Conectivos ajudam o leitor a acompanhar o raciocínio e a relação entre as partes do texto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Entender esses recursos melhora a leitura e a escrita de textos mais organizados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos"
+        ],
+        "respostaCorreta": "A coesão textual organiza a passagem de uma ideia para outra no texto. Quando os elementos coesivos são bem usados, o leitor compreende melhor a relação entre frases e parágrafos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como uma frase se conecta à anterior e prepara a seguinte",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como uma frase se conecta à anterior e prepara a seguinte",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Conectivos como 'porque', 'porém', 'além disso' e 'portanto' ajudam a marcar relações de sentido. Eles não servem apenas para enfeitar o texto, mas para orientar o raciocínio do leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte que tipo de relação o conectivo está indicando no contexto",
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte que tipo de relação o conectivo está indicando no contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-conectivos-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão textual e conectivos se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão textual e conectivos pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão textual e conectivos dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'"
+        ],
+        "respostaCorreta": "Leia: 'Estudei bastante, portanto consegui resolver a atividade.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão textual e conectivos, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

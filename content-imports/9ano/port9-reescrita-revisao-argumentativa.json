@@ -31,16 +31,397 @@
           "Reescreva o trecho de modo mais claro e coerente."
         ],
         "resposta": "Esse processo mostra como revisão e reescrita ajudam a melhorar a qualidade do texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Reescrita e revisão argumentativa\".",
+        "passos": [
+          "Revisar e reescrever são etapas essenciais da produção de um bom texto argumentativo",
+          "A revisão permite corrigir problemas de clareza, coerência, ortografia e organização das ideias",
+          "A reescrita fortalece a tese, os argumentos e a qualidade global do texto"
+        ],
+        "resposta": "Esse exemplo mostra como Reescrita e revisão argumentativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Reescrita e revisão argumentativa\".",
+        "passos": [
+          "A revisão permite corrigir problemas de clareza, coerência, ortografia e organização das ideias",
+          "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+          "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito"
+        ],
+        "resposta": "Esse exemplo mostra como Reescrita e revisão argumentativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Reescrita e revisão argumentativa\".",
+        "passos": [
+          "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+          "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito",
+          "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada"
+        ],
+        "resposta": "Esse exemplo mostra como Reescrita e revisão argumentativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Reescrita e revisão argumentativa\".",
+        "passos": [
+          "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito",
+          "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada",
+          "A importância da revisão"
+        ],
+        "resposta": "Esse exemplo mostra como Reescrita e revisão argumentativa pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-reescrita-revisao-argumentativa-ex-01","enunciado":"A revisão de um texto serve para:","tipo":"multipla_escolha","alternativas":["identificar problemas e melhorar a escrita","apagar o tema principal","eliminar a necessidade de leitura","substituir todos os argumentos por frases soltas"],"respostaCorreta":"identificar problemas e melhorar a escrita","explicacao":"Revisar permite localizar falhas e tornar o texto mais claro, coerente e correto.","dificuldade":"facil"},
-      {"id":"port9-reescrita-revisao-argumentativa-ex-02","enunciado":"A reescrita pode ajudar a:","tipo":"multipla_escolha","alternativas":["fortalecer a tese e os argumentos","dispensar a organização textual","manter todos os erros da primeira versão","reduzir o texto a palavras isoladas"],"respostaCorreta":"fortalecer a tese e os argumentos","explicacao":"Reescrever ajuda a aperfeiçoar o conteúdo, a estrutura e a linguagem do texto.","dificuldade":"facil"},
-      {"id":"port9-reescrita-revisao-argumentativa-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Revisão e reescrita são etapas importantes da produção textual.","Um bom texto nasce pronto e não precisa ser relido.","Ortografia e coerência não devem ser observadas na revisão.","Reescrever significa apenas copiar o mesmo texto novamente."],"respostaCorreta":"Revisão e reescrita são etapas importantes da produção textual.","explicacao":"Essas etapas ajudam a qualificar a linguagem e a organização das ideias.","dificuldade":"medio"},
-      {"id":"port9-reescrita-revisao-argumentativa-ex-04","enunciado":"Ao revisar um texto argumentativo, é importante observar:","tipo":"multipla_escolha","alternativas":["clareza, coerência, ortografia e força dos argumentos","somente o tamanho do título","apenas a quantidade de linhas","unicamente a cor da letra"],"respostaCorreta":"clareza, coerência, ortografia e força dos argumentos","explicacao":"A revisão textual envolve tanto a linguagem quanto a qualidade da argumentação.","dificuldade":"medio"}
+      {
+        "id": "port9-reescrita-revisao-argumentativa-ex-01",
+        "enunciado": "A revisão de um texto serve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "identificar problemas e melhorar a escrita",
+          "apagar o tema principal",
+          "eliminar a necessidade de leitura",
+          "substituir todos os argumentos por frases soltas"
+        ],
+        "respostaCorreta": "identificar problemas e melhorar a escrita",
+        "explicacao": "Revisar permite localizar falhas e tornar o texto mais claro, coerente e correto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-ex-02",
+        "enunciado": "A reescrita pode ajudar a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fortalecer a tese e os argumentos",
+          "dispensar a organização textual",
+          "manter todos os erros da primeira versão",
+          "reduzir o texto a palavras isoladas"
+        ],
+        "respostaCorreta": "fortalecer a tese e os argumentos",
+        "explicacao": "Reescrever ajuda a aperfeiçoar o conteúdo, a estrutura e a linguagem do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisão e reescrita são etapas importantes da produção textual.",
+          "Um bom texto nasce pronto e não precisa ser relido.",
+          "Ortografia e coerência não devem ser observadas na revisão.",
+          "Reescrever significa apenas copiar o mesmo texto novamente."
+        ],
+        "respostaCorreta": "Revisão e reescrita são etapas importantes da produção textual.",
+        "explicacao": "Essas etapas ajudam a qualificar a linguagem e a organização das ideias.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-ex-04",
+        "enunciado": "Ao revisar um texto argumentativo, é importante observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "clareza, coerência, ortografia e força dos argumentos",
+          "somente o tamanho do título",
+          "apenas a quantidade de linhas",
+          "unicamente a cor da letra"
+        ],
+        "respostaCorreta": "clareza, coerência, ortografia e força dos argumentos",
+        "explicacao": "A revisão textual envolve tanto a linguagem quanto a qualidade da argumentação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Reescrita e revisão argumentativa\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Revisar e reescrever são etapas essenciais da produção de um bom texto argumentativo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Revisar e reescrever são etapas essenciais da produção de um bom texto argumentativo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-02",
+        "enunciado": "Ao estudar \"Reescrita e revisão argumentativa\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A revisão permite corrigir problemas de clareza, coerência, ortografia e organização das ideias"
+        ],
+        "respostaCorreta": "A revisão permite corrigir problemas de clareza, coerência, ortografia e organização das ideias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-05",
+        "enunciado": "No contexto de \"Reescrita e revisão argumentativa\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-06",
+        "enunciado": "O estudo de \"Reescrita e revisão argumentativa\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender a importância da revisão"
+        ],
+        "respostaCorreta": "compreender a importância da revisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A reescrita não é apenas copiar o texto novamente, mas aprimorar o que já foi produzido. Isso pode envolver reorganizar argumentos, substituir palavras, eliminar repetições e tornar a conclusão mais consistente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A reescrita não é apenas copiar o texto novamente, mas aprimorar o que já foi produzido. Isso pode envolver reorganizar argumentos, substituir palavras, eliminar repetições e tornar a conclusão mais consistente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense na reescrita como uma oportunidade de fortalecer o texto, e não como simples correção de erros",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense na reescrita como uma oportunidade de fortalecer o texto, e não como simples correção de erros",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender reescrever para melhorar",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender reescrever para melhorar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia um parágrafo argumentativo com repetições, ideia pouco clara e conclusão fraca"
+        ],
+        "respostaCorreta": "Leia um parágrafo argumentativo com repetições, ideia pouco clara e conclusão fraca",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Reescrita e revisão argumentativa\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse processo mostra como revisão e reescrita ajudam a melhorar a qualidade do texto",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse processo mostra como revisão e reescrita ajudam a melhorar a qualidade do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-12",
+        "enunciado": "Ao estudar \"Reescrita e revisão argumentativa\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o que está confuso ou repetitivo",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o que está confuso ou repetitivo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Reorganize as ideias principais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Reorganize as ideias principais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Reescreva o trecho de modo mais claro e coerente"
+        ],
+        "respostaCorreta": "Reescreva o trecho de modo mais claro e coerente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-reescrita-revisao-argumentativa-sim-01","enunciado":"A principal finalidade da reescrita em um texto argumentativo é:","tipo":"multipla_escolha","alternativas":["aperfeiçoar a construção do texto e tornar a argumentação mais consistente","repetir exatamente a primeira versão","eliminar a tese para deixar o texto neutro","dispensar a revisão ortográfica"],"respostaCorreta":"aperfeiçoar a construção do texto e tornar a argumentação mais consistente","explicacao":"Reescrever é uma etapa de aprimoramento que fortalece o texto em vários aspectos.","dificuldade":"medio"}
+      {
+        "id": "port9-reescrita-revisao-argumentativa-sim-01",
+        "enunciado": "A principal finalidade da reescrita em um texto argumentativo é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "aperfeiçoar a construção do texto e tornar a argumentação mais consistente",
+          "repetir exatamente a primeira versão",
+          "eliminar a tese para deixar o texto neutro",
+          "dispensar a revisão ortográfica"
+        ],
+        "respostaCorreta": "aperfeiçoar a construção do texto e tornar a argumentação mais consistente",
+        "explicacao": "Reescrever é uma etapa de aprimoramento que fortalece o texto em vários aspectos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Reescrita e revisão argumentativa\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "A reescrita fortalece a tese, os argumentos e a qualidade global do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Reescrita e revisão argumentativa\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito"
+        ],
+        "respostaCorreta": "Revisar um texto é reler com atenção para identificar problemas de estrutura, linguagem, argumentação e ortografia. Essa etapa ajuda o autor a perceber falhas que dificultam a compreensão e a força do que foi escrito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao revisar, observe se cada parágrafo contribui para a defesa da tese apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Reescrita e revisão argumentativa\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender a importância da revisão",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender a importância da revisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A reescrita não é apenas copiar o texto novamente, mas aprimorar o que já foi produzido. Isso pode envolver reorganizar argumentos, substituir palavras, eliminar repetições e tornar a conclusão mais consistente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A reescrita não é apenas copiar o texto novamente, mas aprimorar o que já foi produzido. Isso pode envolver reorganizar argumentos, substituir palavras, eliminar repetições e tornar a conclusão mais consistente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-reescrita-revisao-argumentativa-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense na reescrita como uma oportunidade de fortalecer o texto, e não como simples correção de erros"
+        ],
+        "respostaCorreta": "Pense na reescrita como uma oportunidade de fortalecer o texto, e não como simples correção de erros",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Reescrita e revisão argumentativa apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

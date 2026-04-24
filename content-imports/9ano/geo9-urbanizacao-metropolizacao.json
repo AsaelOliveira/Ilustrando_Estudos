@@ -30,16 +30,397 @@
           "Perceba como cidades próximas passam a se relacionar com esse centro."
         ],
         "resposta": "Esse exemplo ajuda a compreender a lógica da metropolização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Urbanização e metropolização\".",
+        "passos": [
+          "A urbanização envolve o crescimento das cidades e o aumento da população urbana",
+          "A metropolização está ligada à concentração de funções e fluxos em grandes centros urbanos",
+          "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas"
+        ],
+        "resposta": "Esse exemplo mostra como Urbanização e metropolização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Urbanização e metropolização\".",
+        "passos": [
+          "A metropolização está ligada à concentração de funções e fluxos em grandes centros urbanos",
+          "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+          "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços"
+        ],
+        "resposta": "Esse exemplo mostra como Urbanização e metropolização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Urbanização e metropolização\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+          "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços",
+          "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações"
+        ],
+        "resposta": "Esse exemplo mostra como Urbanização e metropolização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Urbanização e metropolização\".",
+        "passos": [
+          "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços",
+          "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações",
+          "Crescimento urbano"
+        ],
+        "resposta": "Esse exemplo mostra como Urbanização e metropolização pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-urbanizacao-metropolizacao-ex-01","enunciado":"A urbanização está ligada ao:","tipo":"multipla_escolha","alternativas":["crescimento das cidades e da população urbana","retorno total da população ao campo","fim da infraestrutura urbana","desaparecimento dos serviços"],"respostaCorreta":"crescimento das cidades e da população urbana","explicacao":"A urbanização se relaciona à ampliação do espaço urbano e à concentração de pessoas nas cidades.","dificuldade":"facil"},
-      {"id":"geo9-urbanizacao-metropolizacao-ex-02","enunciado":"A metropolização ocorre quando:","tipo":"multipla_escolha","alternativas":["grandes centros concentram funções e influenciam áreas vizinhas","todas as cidades ficam iguais e sem hierarquia","não existe circulação entre municípios","o espaço urbano perde completamente sua centralidade"],"respostaCorreta":"grandes centros concentram funções e influenciam áreas vizinhas","explicacao":"A metrópole exerce influência econômica, social e territorial sobre outras cidades de sua região.","dificuldade":"facil"},
-      {"id":"geo9-urbanizacao-metropolizacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Urbanização e metropolização ajudam a explicar redes, contrastes e desafios urbanos.","As grandes cidades não influenciam o entorno regional.","O espaço urbano contemporâneo não apresenta desigualdades.","Metropolização e circulação não têm relação."],"respostaCorreta":"Urbanização e metropolização ajudam a explicar redes, contrastes e desafios urbanos.","explicacao":"Esses processos ajudam a interpretar centralidade, mobilidade, desigualdades e organização do espaço urbano.","dificuldade":"medio"},
-      {"id":"geo9-urbanizacao-metropolizacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a dinâmica das cidades contemporâneas","ignorar a relação entre redes urbanas e território","reduzir a geografia urbana a memorização de nomes","pensar que todas as cidades exercem a mesma função"],"respostaCorreta":"compreender melhor a dinâmica das cidades contemporâneas","explicacao":"O conteúdo amplia a leitura geográfica sobre crescimento urbano, centralidade e desigualdades metropolitanas.","dificuldade":"medio"}
+      {
+        "id": "geo9-urbanizacao-metropolizacao-ex-01",
+        "enunciado": "A urbanização está ligada ao:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescimento das cidades e da população urbana",
+          "retorno total da população ao campo",
+          "fim da infraestrutura urbana",
+          "desaparecimento dos serviços"
+        ],
+        "respostaCorreta": "crescimento das cidades e da população urbana",
+        "explicacao": "A urbanização se relaciona à ampliação do espaço urbano e à concentração de pessoas nas cidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-ex-02",
+        "enunciado": "A metropolização ocorre quando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grandes centros concentram funções e influenciam áreas vizinhas",
+          "todas as cidades ficam iguais e sem hierarquia",
+          "não existe circulação entre municípios",
+          "o espaço urbano perde completamente sua centralidade"
+        ],
+        "respostaCorreta": "grandes centros concentram funções e influenciam áreas vizinhas",
+        "explicacao": "A metrópole exerce influência econômica, social e territorial sobre outras cidades de sua região.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Urbanização e metropolização ajudam a explicar redes, contrastes e desafios urbanos.",
+          "As grandes cidades não influenciam o entorno regional.",
+          "O espaço urbano contemporâneo não apresenta desigualdades.",
+          "Metropolização e circulação não têm relação."
+        ],
+        "respostaCorreta": "Urbanização e metropolização ajudam a explicar redes, contrastes e desafios urbanos.",
+        "explicacao": "Esses processos ajudam a interpretar centralidade, mobilidade, desigualdades e organização do espaço urbano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor a dinâmica das cidades contemporâneas",
+          "ignorar a relação entre redes urbanas e território",
+          "reduzir a geografia urbana a memorização de nomes",
+          "pensar que todas as cidades exercem a mesma função"
+        ],
+        "respostaCorreta": "compreender melhor a dinâmica das cidades contemporâneas",
+        "explicacao": "O conteúdo amplia a leitura geográfica sobre crescimento urbano, centralidade e desigualdades metropolitanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Urbanização e metropolização\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A urbanização envolve o crescimento das cidades e o aumento da população urbana",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A urbanização envolve o crescimento das cidades e o aumento da população urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Urbanização e metropolização\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A metropolização está ligada à concentração de funções e fluxos em grandes centros urbanos"
+        ],
+        "respostaCorreta": "A metropolização está ligada à concentração de funções e fluxos em grandes centros urbanos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-05",
+        "enunciado": "No contexto de \"Urbanização e metropolização\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-06",
+        "enunciado": "O estudo de \"Urbanização e metropolização\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender crescimento urbano"
+        ],
+        "respostaCorreta": "compreender crescimento urbano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A metropolização ocorre quando grandes cidades passam a concentrar funções econômicas, administrativas, culturais e de circulação. Isso cria redes de influência sobre áreas vizinhas e fortalece desigualdades e conexões regionais",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A metropolização ocorre quando grandes cidades passam a concentrar funções econômicas, administrativas, culturais e de circulação. Isso cria redes de influência sobre áreas vizinhas e fortalece desigualdades e conexões regionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como grandes centros urbanos influenciam outros municípios ao seu redor",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como grandes centros urbanos influenciam outros municípios ao seu redor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender metropolização e centralidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender metropolização e centralidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma grande cidade que concentra empregos, serviços especializados e intenso fluxo de transportes"
+        ],
+        "respostaCorreta": "Considere uma grande cidade que concentra empregos, serviços especializados e intenso fluxo de transportes",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Urbanização e metropolização\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a lógica da metropolização",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a lógica da metropolização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Urbanização e metropolização\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a centralidade urbana exercida por esse espaço",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a centralidade urbana exercida por esse espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como cidades próximas passam a se relacionar com esse centro",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como cidades próximas passam a se relacionar com esse centro",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A urbanização envolve o crescimento das cidades e o aumento da população urbana"
+        ],
+        "respostaCorreta": "A urbanização envolve o crescimento das cidades e o aumento da população urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-urbanizacao-metropolizacao-sim-01","enunciado":"A principal ideia desse tema é compreender que as cidades:","tipo":"multipla_escolha","alternativas":["crescem, se articulam em redes e exercem influências desiguais no território","funcionam isoladamente e sem relações com o entorno","não concentram serviços e fluxos","não apresentam mudanças na organização espacial"],"respostaCorreta":"crescem, se articulam em redes e exercem influências desiguais no território","explicacao":"Urbanização e metropolização ajudam a explicar a complexidade e a hierarquia do espaço urbano contemporâneo.","dificuldade":"medio"}
+      {
+        "id": "geo9-urbanizacao-metropolizacao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que as cidades:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crescem, se articulam em redes e exercem influências desiguais no território",
+          "funcionam isoladamente e sem relações com o entorno",
+          "não concentram serviços e fluxos",
+          "não apresentam mudanças na organização espacial"
+        ],
+        "respostaCorreta": "crescem, se articulam em redes e exercem influências desiguais no território",
+        "explicacao": "Urbanização e metropolização ajudam a explicar a complexidade e a hierarquia do espaço urbano contemporâneo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Urbanização e metropolização\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender contrastes, redes e desafios das cidades contemporâneas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Urbanização e metropolização\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços"
+        ],
+        "respostaCorreta": "A urbanização modifica o espaço geográfico ao ampliar cidades, concentrar atividades e transformar modos de vida. Esse processo se relaciona a trabalho, infraestrutura, mobilidade e serviços",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como o crescimento das cidades altera a organização do território e o cotidiano das populações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Urbanização e metropolização\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender crescimento urbano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender crescimento urbano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A metropolização ocorre quando grandes cidades passam a concentrar funções econômicas, administrativas, culturais e de circulação. Isso cria redes de influência sobre áreas vizinhas e fortalece desigualdades e conexões regionais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A metropolização ocorre quando grandes cidades passam a concentrar funções econômicas, administrativas, culturais e de circulação. Isso cria redes de influência sobre áreas vizinhas e fortalece desigualdades e conexões regionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-urbanizacao-metropolizacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como grandes centros urbanos influenciam outros municípios ao seu redor"
+        ],
+        "respostaCorreta": "Pergunte como grandes centros urbanos influenciam outros municípios ao seu redor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Urbanização e metropolização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

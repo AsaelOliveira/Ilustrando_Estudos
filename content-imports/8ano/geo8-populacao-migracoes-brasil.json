@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-populacao-migracoes-brasil",
+    "titulo": "População e migrações no Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Dinâmica populacional",
+    "resumo": [
+      "A população brasileira se distribui de forma desigual pelo território.",
+      "As migrações influenciam o crescimento e a transformação de diferentes regiões.",
+      "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Distribuição da população",
+        "texto": "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território.",
+        "dica": "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas."
+      },
+      {
+        "subtitulo": "Movimentos migratórios",
+        "texto": "As migrações podem ocorrer por busca de trabalho, estudo, melhores condições de vida ou outros motivos. Esses deslocamentos transformam cidades, regiões e relações sociais.",
+        "dica": "Analise sempre as causas e as consequências dos deslocamentos populacionais."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma família que se muda para outra região em busca de emprego.",
+        "passos": [
+          "Identifique o deslocamento espacial das pessoas.",
+          "Relacione a mudança à procura de melhores condições de vida."
+        ],
+        "resposta": "Esse é um exemplo de migração ligada a fatores econômicos e sociais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"População e migrações no Brasil\".",
+        "passos": [
+          "A população brasileira se distribui de forma desigual pelo território",
+          "As migrações influenciam o crescimento e a transformação de diferentes regiões",
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais"
+        ],
+        "resposta": "Esse exemplo mostra como População e migrações no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"População e migrações no Brasil\".",
+        "passos": [
+          "As migrações influenciam o crescimento e a transformação de diferentes regiões",
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+          "Distribuição da população"
+        ],
+        "resposta": "Esse exemplo mostra como População e migrações no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"População e migrações no Brasil\".",
+        "passos": [
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+          "Distribuição da população",
+          "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território"
+        ],
+        "resposta": "Esse exemplo mostra como População e migrações no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"População e migrações no Brasil\".",
+        "passos": [
+          "Distribuição da população",
+          "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território",
+          "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas"
+        ],
+        "resposta": "Esse exemplo mostra como População e migrações no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-populacao-migracoes-brasil-ex-01",
+        "enunciado": "A população brasileira está distribuída pelo território de forma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desigual",
+          "idêntica em todas as regiões",
+          "aleatória e sem influência histórica",
+          "totalmente equilibrada"
+        ],
+        "respostaCorreta": "desigual",
+        "explicacao": "A ocupação do território brasileiro apresenta diferenças importantes entre as regiões.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-ex-02",
+        "enunciado": "Uma migração pode ocorrer quando as pessoas buscam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "trabalho e melhores condições de vida",
+          "apenas silêncio absoluto",
+          "somente mudanças climáticas artificiais",
+          "exclusivamente atividades esportivas"
+        ],
+        "respostaCorreta": "trabalho e melhores condições de vida",
+        "explicacao": "As migrações costumam estar ligadas a motivos econômicos, sociais e familiares.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As migrações influenciam a transformação das regiões e das cidades.",
+          "As migrações não produzem nenhum efeito social.",
+          "Toda região brasileira tem a mesma densidade populacional.",
+          "Os deslocamentos populacionais não têm relação com a economia."
+        ],
+        "respostaCorreta": "As migrações influenciam a transformação das regiões e das cidades.",
+        "explicacao": "Os deslocamentos populacionais alteram o espaço geográfico e a vida social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-ex-04",
+        "enunciado": "Estudar população e migrações permite compreender melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças econômicas e sociais no território",
+          "somente a formação dos planetas",
+          "apenas o ciclo da água",
+          "exclusivamente a classificação dos seres vivos"
+        ],
+        "respostaCorreta": "mudanças econômicas e sociais no território",
+        "explicacao": "A dinâmica populacional está ligada a transformações importantes no espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A população brasileira se distribui de forma desigual pelo território",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A população brasileira se distribui de forma desigual pelo território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As migrações influenciam o crescimento e a transformação de diferentes regiões"
+        ],
+        "respostaCorreta": "As migrações influenciam o crescimento e a transformação de diferentes regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As migrações podem ocorrer por busca de trabalho, estudo, melhores condições de vida ou outros motivos. Esses deslocamentos transformam cidades, regiões e relações sociais"
+        ],
+        "respostaCorreta": "As migrações podem ocorrer por busca de trabalho, estudo, melhores condições de vida ou outros motivos. Esses deslocamentos transformam cidades, regiões e relações sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise sempre as causas e as consequências dos deslocamentos populacionais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Analise sempre as causas e as consequências dos deslocamentos populacionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma família que se muda para outra região em busca de emprego",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine uma família que se muda para outra região em busca de emprego",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de migração ligada a fatores econômicos e sociais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de migração ligada a fatores econômicos e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o deslocamento espacial das pessoas"
+        ],
+        "respostaCorreta": "Identifique o deslocamento espacial das pessoas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Relacione a mudança à procura de melhores condições de vida",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Relacione a mudança à procura de melhores condições de vida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A população brasileira se distribui de forma desigual pelo território",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A população brasileira se distribui de forma desigual pelo território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As migrações influenciam o crescimento e a transformação de diferentes regiões",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As migrações influenciam o crescimento e a transformação de diferentes regiões",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais"
+        ],
+        "respostaCorreta": "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-populacao-migracoes-brasil-sim-01",
+        "enunciado": "Ao analisar migrações internas no Brasil, é importante observar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as causas dos deslocamentos e seus efeitos no território",
+          "somente o nome das cidades envolvidas",
+          "apenas o número de letras dos estados",
+          "o formato geométrico das regiões"
+        ],
+        "respostaCorreta": "as causas dos deslocamentos e seus efeitos no território",
+        "explicacao": "A análise geográfica das migrações envolve motivos, fluxos e consequências espaciais e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar população e migrações ajuda a compreender mudanças econômicas e sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território"
+        ],
+        "respostaCorreta": "Nem todas as regiões do Brasil apresentam a mesma concentração populacional. Fatores históricos, econômicos, naturais e urbanos influenciam a forma como a população se distribui pelo território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como infraestrutura e oportunidades atraem mais pessoas para certas áreas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As migrações podem ocorrer por busca de trabalho, estudo, melhores condições de vida ou outros motivos. Esses deslocamentos transformam cidades, regiões e relações sociais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As migrações podem ocorrer por busca de trabalho, estudo, melhores condições de vida ou outros motivos. Esses deslocamentos transformam cidades, regiões e relações sociais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise sempre as causas e as consequências dos deslocamentos populacionais",
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Analise sempre as causas e as consequências dos deslocamentos populacionais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-populacao-migracoes-brasil-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de população e migrações no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "População e migrações no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com população e migrações no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma família que se muda para outra região em busca de emprego"
+        ],
+        "respostaCorreta": "Imagine uma família que se muda para outra região em busca de emprego",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em População e migrações no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

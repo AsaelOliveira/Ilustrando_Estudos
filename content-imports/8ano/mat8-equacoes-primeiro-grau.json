@@ -1,0 +1,426 @@
+[
+  {
+    "id": "mat8-equacoes-primeiro-grau",
+    "titulo": "Equa��es do 1� grau",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "�lgebra",
+    "resumo": [
+      "Equa��es do 1� grau envolvem uma inc�gnita e igualdade.",
+      "Resolver uma equa��o � encontrar o valor correto da inc�gnita.",
+      "Esse tema desenvolve racioc�nio alg�brico."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Inc�gnita",
+        "texto": "A inc�gnita representa um valor desconhecido em uma igualdade matem�tica.",
+        "dica": "O objetivo � descobrir o valor que mant�m a igualdade verdadeira."
+      },
+      {
+        "subtitulo": "Resolu��o",
+        "texto": "Para resolver uma equa��o, usamos opera��es inversas e racioc�nio l�gico.",
+        "dica": "Sempre confira o resultado ao final."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Resolva x + 3 = 8.",
+        "passos": [
+          "Subtraia 3 de 8.",
+          "Encontre o valor de x."
+        ],
+        "resposta": "O valor de x � 5."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Equaes do 1 grau\".",
+        "passos": [
+          "Equaes do 1 grau envolvem uma incgnita e igualdade",
+          "Resolver uma equao encontrar o valor correto da incgnita",
+          "Esse tema desenvolve raciocnio algbrico"
+        ],
+        "resposta": "Esse exemplo mostra como Equaes do 1 grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Equaes do 1 grau\".",
+        "passos": [
+          "Resolver uma equao encontrar o valor correto da incgnita",
+          "Esse tema desenvolve raciocnio algbrico",
+          "Incgnita"
+        ],
+        "resposta": "Esse exemplo mostra como Equaes do 1 grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Equaes do 1 grau\".",
+        "passos": [
+          "Esse tema desenvolve raciocnio algbrico",
+          "Incgnita",
+          "A incgnita representa um valor desconhecido em uma igualdade matemtica"
+        ],
+        "resposta": "Esse exemplo mostra como Equaes do 1 grau pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Equaes do 1 grau\".",
+        "passos": [
+          "Incgnita",
+          "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+          "O objetivo descobrir o valor que mantm a igualdade verdadeira"
+        ],
+        "resposta": "Esse exemplo mostra como Equaes do 1 grau pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-equacoes-primeiro-grau-ex-01",
+        "enunciado": "Uma equa��o apresenta:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "igualdade com inc�gnita",
+          "somente desenhos",
+          "apenas mapas",
+          "cores e formas"
+        ],
+        "respostaCorreta": "igualdade com inc�gnita",
+        "explicacao": "A equa��o envolve igualdade e valor desconhecido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-ex-02",
+        "enunciado": "Resolver uma equa��o significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encontrar a inc�gnita",
+          "apagar o sinal de igual",
+          "eliminar n�meros",
+          "trocar o problema"
+        ],
+        "respostaCorreta": "encontrar a inc�gnita",
+        "explicacao": "O objetivo � descobrir o valor desconhecido.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-ex-03",
+        "enunciado": "Na equa��o x + 4 = 10, x vale:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "6",
+          "4",
+          "10",
+          "14"
+        ],
+        "respostaCorreta": "6",
+        "explicacao": "Basta subtrair 4 de 10.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-ex-04",
+        "enunciado": "Qual afirma��o est� correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equa��es ajudam a resolver problemas alg�bricos.",
+          "Toda equa��o dispensa inc�gnita.",
+          "Resolver equa��o � decorar respostas.",
+          "Equa��o n�o usa igualdade."
+        ],
+        "respostaCorreta": "Equa��es ajudam a resolver problemas alg�bricos.",
+        "explicacao": "O tema desenvolve racioc�nio e organiza��o matem�tica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equaes do 1 grau envolvem uma incgnita e igualdade",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Equaes do 1 grau envolvem uma incgnita e igualdade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Resolver uma equao encontrar o valor correto da incgnita"
+        ],
+        "respostaCorreta": "Resolver uma equao encontrar o valor correto da incgnita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema desenvolve raciocnio algbrico",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse tema desenvolve raciocnio algbrico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para resolver uma equao, usamos operaes inversas e raciocnio lgico"
+        ],
+        "respostaCorreta": "Para resolver uma equao, usamos operaes inversas e raciocnio lgico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Sempre confira o resultado ao final",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Sempre confira o resultado ao final",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Equaes do 1 grau envolvem uma incgnita e igualdade",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Equaes do 1 grau envolvem uma incgnita e igualdade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Resolver uma equao encontrar o valor correto da incgnita",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Resolver uma equao encontrar o valor correto da incgnita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema desenvolve raciocnio algbrico"
+        ],
+        "respostaCorreta": "Esse tema desenvolve raciocnio algbrico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Para resolver uma equao, usamos operaes inversas e raciocnio lgico",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Para resolver uma equao, usamos operaes inversas e raciocnio lgico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Sempre confira o resultado ao final"
+        ],
+        "respostaCorreta": "Sempre confira o resultado ao final",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-equacoes-primeiro-grau-sim-01",
+        "enunciado": "A principal ideia desse tema � compreender como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encontrar valores desconhecidos em igualdades",
+          "eliminar n�meros da �lgebra",
+          "evitar opera��es",
+          "trocar igualdade por desenho"
+        ],
+        "respostaCorreta": "encontrar valores desconhecidos em igualdades",
+        "explicacao": "As equa��es organizam rela��es num�ricas com inc�gnitas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema desenvolve raciocnio algbrico",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema desenvolve raciocnio algbrico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A incgnita representa um valor desconhecido em uma igualdade matemtica"
+        ],
+        "respostaCorreta": "A incgnita representa um valor desconhecido em uma igualdade matemtica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O objetivo descobrir o valor que mantm a igualdade verdadeira",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Para resolver uma equao, usamos operaes inversas e raciocnio lgico",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Para resolver uma equao, usamos operaes inversas e raciocnio lgico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sempre confira o resultado ao final",
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Sempre confira o resultado ao final",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-equacoes-primeiro-grau-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de equaes do 1 grau se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Equaes do 1 grau pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com equaes do 1 grau dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Equaes do 1 grau envolvem uma incgnita e igualdade"
+        ],
+        "respostaCorreta": "Equaes do 1 grau envolvem uma incgnita e igualdade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Equaes do 1 grau, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

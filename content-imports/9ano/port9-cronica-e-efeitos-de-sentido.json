@@ -30,16 +30,397 @@
           "Observe como a linguagem transforma essa cena em reflexão ou humor."
         ],
         "resposta": "Esse exemplo mostra como a crônica produz sentidos a partir de situações próximas da vida real."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Crônica e efeitos de sentido\".",
+        "passos": [
+          "A crônica costuma partir de situações do cotidiano para provocar reflexão, humor ou crítica",
+          "Os efeitos de sentido dependem da linguagem, do olhar do cronista e da construção do texto",
+          "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita"
+        ],
+        "resposta": "Esse exemplo mostra como Crônica e efeitos de sentido pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Crônica e efeitos de sentido\".",
+        "passos": [
+          "Os efeitos de sentido dependem da linguagem, do olhar do cronista e da construção do texto",
+          "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+          "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada"
+        ],
+        "resposta": "Esse exemplo mostra como Crônica e efeitos de sentido pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Crônica e efeitos de sentido\".",
+        "passos": [
+          "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+          "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada",
+          "Observe como um acontecimento simples pode ganhar novo significado no texto"
+        ],
+        "resposta": "Esse exemplo mostra como Crônica e efeitos de sentido pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Crônica e efeitos de sentido\".",
+        "passos": [
+          "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada",
+          "Observe como um acontecimento simples pode ganhar novo significado no texto",
+          "Cotidiano transformado em texto"
+        ],
+        "resposta": "Esse exemplo mostra como Crônica e efeitos de sentido pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-cronica-e-efeitos-de-sentido-ex-01","enunciado":"A crônica costuma tratar de:","tipo":"multipla_escolha","alternativas":["situações do cotidiano","apenas fórmulas matemáticas","somente mapas geográficos","listas sem contexto"],"respostaCorreta":"situações do cotidiano","explicacao":"A crônica geralmente parte de acontecimentos e observações ligados à vida cotidiana.","dificuldade":"facil"},
-      {"id":"port9-cronica-e-efeitos-de-sentido-ex-02","enunciado":"Os efeitos de sentido em uma crônica podem surgir por meio de:","tipo":"multipla_escolha","alternativas":["humor, ironia e escolhas de linguagem","ausência completa de intenção","palavras soltas sem organização","eliminação do ponto de vista do autor"],"respostaCorreta":"humor, ironia e escolhas de linguagem","explicacao":"Os efeitos de sentido dependem da forma como o texto é construído e do olhar do cronista.","dificuldade":"facil"},
-      {"id":"port9-cronica-e-efeitos-de-sentido-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A crônica pode transformar fatos simples em reflexão ou crítica.","A crônica não trabalha com linguagem expressiva.","Todo texto cronístico se limita à descrição neutra dos fatos.","Efeitos de sentido não interferem na leitura da crônica."],"respostaCorreta":"A crônica pode transformar fatos simples em reflexão ou crítica.","explicacao":"Esse gênero valoriza o olhar do autor sobre situações cotidianas e seus significados.","dificuldade":"medio"},
-      {"id":"port9-cronica-e-efeitos-de-sentido-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["perceber intenções, tons e efeitos na escrita","reduzir o texto apenas à informação literal","ignorar o ponto de vista do autor","pensar que toda crônica tem leitura única e direta"],"respostaCorreta":"perceber intenções, tons e efeitos na escrita","explicacao":"O conteúdo amplia a leitura crítica e a compreensão dos recursos expressivos do gênero.","dificuldade":"medio"}
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-ex-01",
+        "enunciado": "A crônica costuma tratar de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "situações do cotidiano",
+          "apenas fórmulas matemáticas",
+          "somente mapas geográficos",
+          "listas sem contexto"
+        ],
+        "respostaCorreta": "situações do cotidiano",
+        "explicacao": "A crônica geralmente parte de acontecimentos e observações ligados à vida cotidiana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-ex-02",
+        "enunciado": "Os efeitos de sentido em uma crônica podem surgir por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "humor, ironia e escolhas de linguagem",
+          "ausência completa de intenção",
+          "palavras soltas sem organização",
+          "eliminação do ponto de vista do autor"
+        ],
+        "respostaCorreta": "humor, ironia e escolhas de linguagem",
+        "explicacao": "Os efeitos de sentido dependem da forma como o texto é construído e do olhar do cronista.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A crônica pode transformar fatos simples em reflexão ou crítica.",
+          "A crônica não trabalha com linguagem expressiva.",
+          "Todo texto cronístico se limita à descrição neutra dos fatos.",
+          "Efeitos de sentido não interferem na leitura da crônica."
+        ],
+        "respostaCorreta": "A crônica pode transformar fatos simples em reflexão ou crítica.",
+        "explicacao": "Esse gênero valoriza o olhar do autor sobre situações cotidianas e seus significados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "perceber intenções, tons e efeitos na escrita",
+          "reduzir o texto apenas à informação literal",
+          "ignorar o ponto de vista do autor",
+          "pensar que toda crônica tem leitura única e direta"
+        ],
+        "respostaCorreta": "perceber intenções, tons e efeitos na escrita",
+        "explicacao": "O conteúdo amplia a leitura crítica e a compreensão dos recursos expressivos do gênero.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Crônica e efeitos de sentido\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A crônica costuma partir de situações do cotidiano para provocar reflexão, humor ou crítica",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A crônica costuma partir de situações do cotidiano para provocar reflexão, humor ou crítica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-02",
+        "enunciado": "Ao estudar \"Crônica e efeitos de sentido\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Os efeitos de sentido dependem da linguagem, do olhar do cronista e da construção do texto"
+        ],
+        "respostaCorreta": "Os efeitos de sentido dependem da linguagem, do olhar do cronista e da construção do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-05",
+        "enunciado": "No contexto de \"Crônica e efeitos de sentido\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como um acontecimento simples pode ganhar novo significado no texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como um acontecimento simples pode ganhar novo significado no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-06",
+        "enunciado": "O estudo de \"Crônica e efeitos de sentido\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender cotidiano transformado em texto"
+        ],
+        "respostaCorreta": "compreender cotidiano transformado em texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Os efeitos de sentido surgem da escolha de palavras, do tom do texto, da ironia, do humor, da crítica e de outros recursos de linguagem. Ler a crônica com atenção ajuda a perceber aquilo que está além da informação literal",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Os efeitos de sentido surgem da escolha de palavras, do tom do texto, da ironia, do humor, da crítica e de outros recursos de linguagem. Ler a crônica com atenção ajuda a perceber aquilo que está além da informação literal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte que sentimento, reflexão ou crítica o texto quer provocar no leitor",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte que sentimento, reflexão ou crítica o texto quer provocar no leitor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender construção dos efeitos de sentido",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender construção dos efeitos de sentido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia uma crônica sobre uma situação comum vivida em transporte público"
+        ],
+        "respostaCorreta": "Leia uma crônica sobre uma situação comum vivida em transporte público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Crônica e efeitos de sentido\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a crônica produz sentidos a partir de situações próximas da vida real",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a crônica produz sentidos a partir de situações próximas da vida real",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-12",
+        "enunciado": "Ao estudar \"Crônica e efeitos de sentido\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o fato cotidiano que inspirou o texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o fato cotidiano que inspirou o texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a linguagem transforma essa cena em reflexão ou humor",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe como a linguagem transforma essa cena em reflexão ou humor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A crônica costuma partir de situações do cotidiano para provocar reflexão, humor ou crítica"
+        ],
+        "respostaCorreta": "A crônica costuma partir de situações do cotidiano para provocar reflexão, humor ou crítica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-cronica-e-efeitos-de-sentido-sim-01","enunciado":"A principal ideia desse tema é compreender que a crônica:","tipo":"multipla_escolha","alternativas":["atribui novos sentidos ao cotidiano por meio da linguagem","se limita a relatar fatos sem intenção expressiva","dispensa humor, crítica e reflexão","não depende do olhar do autor"],"respostaCorreta":"atribui novos sentidos ao cotidiano por meio da linguagem","explicacao":"A crônica interpreta o cotidiano e produz efeitos de sentido por meio de escolhas discursivas.","dificuldade":"medio"}
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a crônica:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "atribui novos sentidos ao cotidiano por meio da linguagem",
+          "se limita a relatar fatos sem intenção expressiva",
+          "dispensa humor, crítica e reflexão",
+          "não depende do olhar do autor"
+        ],
+        "respostaCorreta": "atribui novos sentidos ao cotidiano por meio da linguagem",
+        "explicacao": "A crônica interpreta o cotidiano e produz efeitos de sentido por meio de escolhas discursivas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Crônica e efeitos de sentido\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a ler com mais atenção a intenção e a expressividade da escrita",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Crônica e efeitos de sentido\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada"
+        ],
+        "respostaCorreta": "A crônica geralmente se inspira em fatos, comportamentos e cenas comuns do dia a dia. O cronista observa essas situações e as transforma em texto por meio de linguagem expressiva, crítica, sensível ou bem-humorada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como um acontecimento simples pode ganhar novo significado no texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como um acontecimento simples pode ganhar novo significado no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Crônica e efeitos de sentido\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender cotidiano transformado em texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender cotidiano transformado em texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os efeitos de sentido surgem da escolha de palavras, do tom do texto, da ironia, do humor, da crítica e de outros recursos de linguagem. Ler a crônica com atenção ajuda a perceber aquilo que está além da informação literal",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Os efeitos de sentido surgem da escolha de palavras, do tom do texto, da ironia, do humor, da crítica e de outros recursos de linguagem. Ler a crônica com atenção ajuda a perceber aquilo que está além da informação literal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-cronica-e-efeitos-de-sentido-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte que sentimento, reflexão ou crítica o texto quer provocar no leitor"
+        ],
+        "respostaCorreta": "Pergunte que sentimento, reflexão ou crítica o texto quer provocar no leitor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Crônica e efeitos de sentido apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

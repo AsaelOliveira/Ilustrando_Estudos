@@ -30,16 +30,397 @@
           "Observe os argumentos usados para sustentar a opinião apresentada."
         ],
         "resposta": "Esse exemplo mostra como a argumentação também aparece em textos digitais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Gêneros digitais e argumentação\".",
+        "passos": [
+          "Os gêneros digitais circulam em ambientes virtuais e apresentam formas próprias de linguagem e interação",
+          "A argumentação também aparece nesses textos, muitas vezes em formatos mais breves e dinâmicos",
+          "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade"
+        ],
+        "resposta": "Esse exemplo mostra como Gêneros digitais e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Gêneros digitais e argumentação\".",
+        "passos": [
+          "A argumentação também aparece nesses textos, muitas vezes em formatos mais breves e dinâmicos",
+          "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+          "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas"
+        ],
+        "resposta": "Esse exemplo mostra como Gêneros digitais e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Gêneros digitais e argumentação\".",
+        "passos": [
+          "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+          "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas",
+          "Observe como o suporte digital influencia a forma e o alcance da mensagem"
+        ],
+        "resposta": "Esse exemplo mostra como Gêneros digitais e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Gêneros digitais e argumentação\".",
+        "passos": [
+          "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas",
+          "Observe como o suporte digital influencia a forma e o alcance da mensagem",
+          "Textos em ambientes digitais"
+        ],
+        "resposta": "Esse exemplo mostra como Gêneros digitais e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-generos-digitais-argumentacao-ex-01","enunciado":"Um gênero digital pode ser:","tipo":"multipla_escolha","alternativas":["postagem em rede social","apenas um mapa físico","somente uma fórmula matemática","uma rocha sedimentar"],"respostaCorreta":"postagem em rede social","explicacao":"Postagens, comentários e fóruns são exemplos de gêneros que circulam em ambientes digitais.","dificuldade":"facil"},
-      {"id":"port9-generos-digitais-argumentacao-ex-02","enunciado":"Argumentar em textos digitais exige:","tipo":"multipla_escolha","alternativas":["clareza e responsabilidade","ausência de justificativas","uso de frases sem sentido","troca constante de assunto"],"respostaCorreta":"clareza e responsabilidade","explicacao":"A circulação rápida de opiniões torna ainda mais importante o cuidado com argumentos e informações.","dificuldade":"facil"},
-      {"id":"port9-generos-digitais-argumentacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Gêneros digitais também podem apresentar argumentação organizada.","No ambiente digital, toda opinião dispensa justificativa.","Textos digitais não têm impacto sobre o leitor.","A linguagem digital não exige leitura crítica."],"respostaCorreta":"Gêneros digitais também podem apresentar argumentação organizada.","explicacao":"Mesmo em formatos breves, textos digitais podem defender posições por meio de argumentos.","dificuldade":"medio"},
-      {"id":"port9-generos-digitais-argumentacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler e escrever conteúdos digitais com mais senso crítico","acreditar em toda mensagem sem análise","ignorar a responsabilidade da escrita online","separar totalmente linguagem e tecnologia"],"respostaCorreta":"ler e escrever conteúdos digitais com mais senso crítico","explicacao":"O conteúdo fortalece leitura crítica, responsabilidade argumentativa e análise do contexto digital.","dificuldade":"medio"}
+      {
+        "id": "port9-generos-digitais-argumentacao-ex-01",
+        "enunciado": "Um gênero digital pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "postagem em rede social",
+          "apenas um mapa físico",
+          "somente uma fórmula matemática",
+          "uma rocha sedimentar"
+        ],
+        "respostaCorreta": "postagem em rede social",
+        "explicacao": "Postagens, comentários e fóruns são exemplos de gêneros que circulam em ambientes digitais.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-ex-02",
+        "enunciado": "Argumentar em textos digitais exige:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "clareza e responsabilidade",
+          "ausência de justificativas",
+          "uso de frases sem sentido",
+          "troca constante de assunto"
+        ],
+        "respostaCorreta": "clareza e responsabilidade",
+        "explicacao": "A circulação rápida de opiniões torna ainda mais importante o cuidado com argumentos e informações.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gêneros digitais também podem apresentar argumentação organizada.",
+          "No ambiente digital, toda opinião dispensa justificativa.",
+          "Textos digitais não têm impacto sobre o leitor.",
+          "A linguagem digital não exige leitura crítica."
+        ],
+        "respostaCorreta": "Gêneros digitais também podem apresentar argumentação organizada.",
+        "explicacao": "Mesmo em formatos breves, textos digitais podem defender posições por meio de argumentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler e escrever conteúdos digitais com mais senso crítico",
+          "acreditar em toda mensagem sem análise",
+          "ignorar a responsabilidade da escrita online",
+          "separar totalmente linguagem e tecnologia"
+        ],
+        "respostaCorreta": "ler e escrever conteúdos digitais com mais senso crítico",
+        "explicacao": "O conteúdo fortalece leitura crítica, responsabilidade argumentativa e análise do contexto digital.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Gêneros digitais e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os gêneros digitais circulam em ambientes virtuais e apresentam formas próprias de linguagem e interação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Os gêneros digitais circulam em ambientes virtuais e apresentam formas próprias de linguagem e interação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Gêneros digitais e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A argumentação também aparece nesses textos, muitas vezes em formatos mais breves e dinâmicos"
+        ],
+        "respostaCorreta": "A argumentação também aparece nesses textos, muitas vezes em formatos mais breves e dinâmicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-05",
+        "enunciado": "No contexto de \"Gêneros digitais e argumentação\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o suporte digital influencia a forma e o alcance da mensagem",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como o suporte digital influencia a forma e o alcance da mensagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-06",
+        "enunciado": "O estudo de \"Gêneros digitais e argumentação\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender textos em ambientes digitais"
+        ],
+        "respostaCorreta": "compreender textos em ambientes digitais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Nos ambientes digitais, opiniões circulam com rapidez e alcançam muitos leitores. Por isso, argumentar com clareza, respeito e responsabilidade é essencial para evitar desinformação e fortalecer o debate qualificado",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Nos ambientes digitais, opiniões circulam com rapidez e alcançam muitos leitores. Por isso, argumentar com clareza, respeito e responsabilidade é essencial para evitar desinformação e fortalecer o debate qualificado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte se o texto apresenta justificativas consistentes ou apenas opiniões soltas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte se o texto apresenta justificativas consistentes ou apenas opiniões soltas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender argumentar no espaço virtual",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender argumentar no espaço virtual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia uma postagem em que o autor defende uma opinião sobre o uso do celular na escola"
+        ],
+        "respostaCorreta": "Leia uma postagem em que o autor defende uma opinião sobre o uso do celular na escola",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Gêneros digitais e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a argumentação também aparece em textos digitais",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a argumentação também aparece em textos digitais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Gêneros digitais e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o gênero digital e o tema tratado",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o gênero digital e o tema tratado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe os argumentos usados para sustentar a opinião apresentada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe os argumentos usados para sustentar a opinião apresentada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Os gêneros digitais circulam em ambientes virtuais e apresentam formas próprias de linguagem e interação"
+        ],
+        "respostaCorreta": "Os gêneros digitais circulam em ambientes virtuais e apresentam formas próprias de linguagem e interação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-generos-digitais-argumentacao-sim-01","enunciado":"A principal ideia desse tema é compreender que os gêneros digitais:","tipo":"multipla_escolha","alternativas":["também exigem leitura crítica e argumentação responsável","dispensam qualquer cuidado com linguagem e informação","não influenciam a vida social","não podem apresentar pontos de vista"],"respostaCorreta":"também exigem leitura crítica e argumentação responsável","explicacao":"Os textos digitais participam do debate público e, por isso, precisam ser lidos e produzidos com atenção e responsabilidade.","dificuldade":"medio"}
+      {
+        "id": "port9-generos-digitais-argumentacao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que os gêneros digitais:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "também exigem leitura crítica e argumentação responsável",
+          "dispensam qualquer cuidado com linguagem e informação",
+          "não influenciam a vida social",
+          "não podem apresentar pontos de vista"
+        ],
+        "respostaCorreta": "também exigem leitura crítica e argumentação responsável",
+        "explicacao": "Os textos digitais participam do debate público e, por isso, precisam ser lidos e produzidos com atenção e responsabilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Gêneros digitais e argumentação\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a ler criticamente conteúdos digitais e a escrever com mais responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Gêneros digitais e argumentação\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas"
+        ],
+        "respostaCorreta": "Comentários, postagens, fóruns, notícias online e outros gêneros digitais fazem parte da vida cotidiana. Esses textos exigem atenção à linguagem, ao contexto de circulação e às intenções comunicativas envolvidas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como o suporte digital influencia a forma e o alcance da mensagem",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como o suporte digital influencia a forma e o alcance da mensagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Gêneros digitais e argumentação\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender textos em ambientes digitais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender textos em ambientes digitais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nos ambientes digitais, opiniões circulam com rapidez e alcançam muitos leitores. Por isso, argumentar com clareza, respeito e responsabilidade é essencial para evitar desinformação e fortalecer o debate qualificado",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Nos ambientes digitais, opiniões circulam com rapidez e alcançam muitos leitores. Por isso, argumentar com clareza, respeito e responsabilidade é essencial para evitar desinformação e fortalecer o debate qualificado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-generos-digitais-argumentacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte se o texto apresenta justificativas consistentes ou apenas opiniões soltas"
+        ],
+        "respostaCorreta": "Pergunte se o texto apresenta justificativas consistentes ou apenas opiniões soltas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Gêneros digitais e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

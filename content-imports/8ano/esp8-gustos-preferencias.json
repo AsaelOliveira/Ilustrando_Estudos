@@ -1,0 +1,426 @@
+[
+  {
+    "id": "esp8-gustos-preferencias",
+    "titulo": "Gustos y preferencias",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación cotidiana",
+    "resumo": [
+      "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol.",
+      "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples.",
+      "Aprender essas estruturas fortalece a participação em diálogos do cotidiano."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Expressando preferências",
+        "texto": "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana.",
+        "dica": "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação."
+      },
+      {
+        "subtitulo": "Opiniões simples no idioma",
+        "texto": "Além de dizer o que prefere, o estudante também pode justificar escolhas com frases curtas. Isso torna a comunicação mais significativa e menos limitada a respostas isoladas.",
+        "dica": "Pratique frases que unam preferência e justificativa simples."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Me gusta leer porque es interesante.'",
+        "passos": [
+          "Identifique a expressão de preferência na frase.",
+          "Observe que ela vem acompanhada de uma justificativa curta."
+        ],
+        "resposta": "Esse é um exemplo simples de expressão de gosto em espanhol."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Gustos y preferencias\".",
+        "passos": [
+          "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol",
+          "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples",
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Gustos y preferencias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Gustos y preferencias\".",
+        "passos": [
+          "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples",
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+          "Expressando preferências"
+        ],
+        "resposta": "Esse exemplo mostra como Gustos y preferencias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Gustos y preferencias\".",
+        "passos": [
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+          "Expressando preferências",
+          "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana"
+        ],
+        "resposta": "Esse exemplo mostra como Gustos y preferencias pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Gustos y preferencias\".",
+        "passos": [
+          "Expressando preferências",
+          "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana",
+          "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação"
+        ],
+        "resposta": "Esse exemplo mostra como Gustos y preferencias pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "esp8-gustos-preferencias-ex-01",
+        "enunciado": "Falar sobre gostos em espanhol ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "expressar preferências em situações cotidianas",
+          "eliminar o uso de verbos",
+          "substituir toda comunicação por gestos",
+          "evitar opiniões pessoais"
+        ],
+        "respostaCorreta": "expressar preferências em situações cotidianas",
+        "explicacao": "Esse vocabulário é útil para conversar sobre interesses, escolhas e hábitos do dia a dia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-ex-02",
+        "enunciado": "Uma justificativa simples torna a fala:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mais completa e significativa",
+          "mais confusa automaticamente",
+          "sem sentido algum",
+          "incapaz de comunicar ideias"
+        ],
+        "respostaCorreta": "mais completa e significativa",
+        "explicacao": "Ao justificar a preferência, a comunicação fica mais clara e rica.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Expressar gostos e preferências ajuda o estudante a participar melhor de diálogos simples.",
+          "Esse tema não aparece em situações reais de comunicação.",
+          "Não é possível justificar preferências com frases curtas em espanhol.",
+          "Falar sobre gostos dispensa o uso de vocabulário cotidiano."
+        ],
+        "respostaCorreta": "Expressar gostos e preferências ajuda o estudante a participar melhor de diálogos simples.",
+        "explicacao": "O tema fortalece a comunicação pessoal e o repertório para conversas do cotidiano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "falar de preferências com mais clareza",
+          "evitar qualquer opinião pessoal no idioma",
+          "reduzir a comunicação a respostas soltas",
+          "eliminar justificativas nas frases"
+        ],
+        "respostaCorreta": "falar de preferências com mais clareza",
+        "explicacao": "As estruturas de gosto e preferência tornam a expressão oral e escrita mais natural e comunicativa.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples"
+        ],
+        "respostaCorreta": "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Além de dizer o que prefere, o estudante também pode justificar escolhas com frases curtas. Isso torna a comunicação mais significativa e menos limitada a respostas isoladas"
+        ],
+        "respostaCorreta": "Além de dizer o que prefere, o estudante também pode justificar escolhas com frases curtas. Isso torna a comunicação mais significativa e menos limitada a respostas isoladas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pratique frases que unam preferência e justificativa simples",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pratique frases que unam preferência e justificativa simples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Me gusta leer porque es interesante.'",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Me gusta leer porque es interesante.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo simples de expressão de gosto em espanhol",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo simples de expressão de gosto em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique a expressão de preferência na frase"
+        ],
+        "respostaCorreta": "Identifique a expressão de preferência na frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que ela vem acompanhada de uma justificativa curta",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que ela vem acompanhada de uma justificativa curta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Falar sobre gostos e preferências amplia a expressão pessoal em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema ajuda a dizer do que se gosta, do que não se gosta e a justificar escolhas simples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano"
+        ],
+        "respostaCorreta": "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "esp8-gustos-preferencias-sim-01",
+        "enunciado": "A principal ideia desse tema é permitir que o estudante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "expresse gostos e preferências em espanhol com mais segurança",
+          "evite toda interação pessoal no idioma",
+          "use apenas palavras soltas sem contexto",
+          "substitua a fala por repetição automática"
+        ],
+        "respostaCorreta": "expresse gostos e preferências em espanhol com mais segurança",
+        "explicacao": "Esse conteúdo amplia a comunicação cotidiana e a participação em diálogos simples.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Aprender essas estruturas fortalece a participação em diálogos do cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana"
+        ],
+        "respostaCorreta": "Ao aprender a falar sobre gostos, o estudante amplia sua capacidade de interação. Estruturas simples permitem comentar alimentos, atividades, músicas, esportes e outros temas frequentes na vida cotidiana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe as expressões a situações reais, como conversar sobre lazer, escola ou alimentação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Além de dizer o que prefere, o estudante também pode justificar escolhas com frases curtas. Isso torna a comunicação mais significativa e menos limitada a respostas isoladas",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Além de dizer o que prefere, o estudante também pode justificar escolhas com frases curtas. Isso torna a comunicação mais significativa e menos limitada a respostas isoladas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pratique frases que unam preferência e justificativa simples",
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pratique frases que unam preferência e justificativa simples",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-gustos-preferencias-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de gustos y preferencias se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Gustos y preferencias pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com gustos y preferencias dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Me gusta leer porque es interesante.'"
+        ],
+        "respostaCorreta": "Leia: 'Me gusta leer porque es interesante.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Gustos y preferencias, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "geo8-questao-ambiental-urbana",
+    "titulo": "Questão ambiental urbana",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço urbano e ambiente",
+    "resumo": [
+      "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço.",
+      "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos.",
+      "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Problemas ambientais nas cidades",
+        "texto": "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana.",
+        "dica": "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade."
+      },
+      {
+        "subtitulo": "Planejamento e responsabilidade",
+        "texto": "Enfrentar problemas ambientais urbanos exige ações do poder público e da sociedade. Isso inclui planejamento, infraestrutura, educação ambiental e participação coletiva na construção de cidades mais sustentáveis.",
+        "dica": "Pense em soluções que envolvam prevenção, organização e participação social."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine uma cidade com muitos resíduos descartados de forma inadequada.",
+        "passos": [
+          "Observe os efeitos sobre rios, ruas e saúde da população.",
+          "Perceba que o problema envolve hábitos individuais e políticas públicas."
+        ],
+        "resposta": "Esse é um exemplo de questão ambiental urbana que exige resposta coletiva e planejamento."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Questão ambiental urbana\".",
+        "passos": [
+          "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço",
+          "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos",
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades"
+        ],
+        "resposta": "Esse exemplo mostra como Questão ambiental urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Questão ambiental urbana\".",
+        "passos": [
+          "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos",
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+          "Problemas ambientais nas cidades"
+        ],
+        "resposta": "Esse exemplo mostra como Questão ambiental urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Questão ambiental urbana\".",
+        "passos": [
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+          "Problemas ambientais nas cidades",
+          "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana"
+        ],
+        "resposta": "Esse exemplo mostra como Questão ambiental urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Questão ambiental urbana\".",
+        "passos": [
+          "Problemas ambientais nas cidades",
+          "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana",
+          "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade"
+        ],
+        "resposta": "Esse exemplo mostra como Questão ambiental urbana pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-questao-ambiental-urbana-ex-01",
+        "enunciado": "Um problema ambiental urbano pode ser:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "poluição e descarte inadequado de resíduos",
+          "somente a rotação da Terra",
+          "apenas a divisão de sílabas",
+          "exclusivamente a formação de estrelas"
+        ],
+        "respostaCorreta": "poluição e descarte inadequado de resíduos",
+        "explicacao": "Esses são exemplos frequentes de questões ambientais nas cidades.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-ex-02",
+        "enunciado": "As questões ambientais urbanas se relacionam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ocupação do espaço e planejamento das cidades",
+          "apenas a leitura de mapas antigos",
+          "somente a produção literária",
+          "exclusivamente fenômenos astronômicos"
+        ],
+        "respostaCorreta": "ocupação do espaço e planejamento das cidades",
+        "explicacao": "A organização do espaço urbano influencia diretamente os problemas ambientais da cidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Enfrentar problemas ambientais urbanos exige ações coletivas e planejamento.",
+          "Esses problemas se resolvem sozinhos com o tempo.",
+          "A população não tem nenhuma relação com o ambiente urbano.",
+          "Questões ambientais urbanas não afetam a qualidade de vida."
+        ],
+        "respostaCorreta": "Enfrentar problemas ambientais urbanos exige ações coletivas e planejamento.",
+        "explicacao": "A solução depende de políticas públicas, infraestrutura e participação social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-ex-04",
+        "enunciado": "Estudar a questão ambiental urbana ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pensar em cidades mais sustentáveis e bem organizadas",
+          "ignorar a relação entre sociedade e ambiente",
+          "achar que o lixo não interfere na vida urbana",
+          "separar completamente planejamento e qualidade de vida"
+        ],
+        "respostaCorreta": "pensar em cidades mais sustentáveis e bem organizadas",
+        "explicacao": "O tema aproxima ambiente, cidadania e organização do espaço urbano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos"
+        ],
+        "respostaCorreta": "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Enfrentar problemas ambientais urbanos exige ações do poder público e da sociedade. Isso inclui planejamento, infraestrutura, educação ambiental e participação coletiva na construção de cidades mais sustentáveis"
+        ],
+        "respostaCorreta": "Enfrentar problemas ambientais urbanos exige ações do poder público e da sociedade. Isso inclui planejamento, infraestrutura, educação ambiental e participação coletiva na construção de cidades mais sustentáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em soluções que envolvam prevenção, organização e participação social",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense em soluções que envolvam prevenção, organização e participação social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma cidade com muitos resíduos descartados de forma inadequada",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine uma cidade com muitos resíduos descartados de forma inadequada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de questão ambiental urbana que exige resposta coletiva e planejamento",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de questão ambiental urbana que exige resposta coletiva e planejamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe os efeitos sobre rios, ruas e saúde da população"
+        ],
+        "respostaCorreta": "Observe os efeitos sobre rios, ruas e saúde da população",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que o problema envolve hábitos individuais e políticas públicas",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que o problema envolve hábitos individuais e políticas públicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As cidades concentram problemas ambientais ligados ao crescimento urbano e ao uso do espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Poluição, resíduos e ocupação inadequada são exemplos de desafios ambientais urbanos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-questao-ambiental-urbana-sim-01",
+        "enunciado": "A principal ideia ao estudar a questão ambiental urbana é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a forma de ocupar e organizar as cidades interfere diretamente no ambiente e na qualidade de vida",
+          "as cidades não geram impactos ambientais",
+          "planejamento urbano não tem relação com o ambiente",
+          "o tema se resume apenas ao lixo"
+        ],
+        "respostaCorreta": "a forma de ocupar e organizar as cidades interfere diretamente no ambiente e na qualidade de vida",
+        "explicacao": "O espaço urbano depende de planejamento e responsabilidade coletiva para reduzir impactos ambientais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a pensar em soluções mais responsáveis para a vida nas cidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana"
+        ],
+        "respostaCorreta": "O crescimento das cidades pode gerar impactos ambientais quando ocorre sem planejamento suficiente. Poluição do ar, lixo acumulado, enchentes e ocupações em áreas de risco são alguns dos problemas que afetam a vida urbana",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como a forma de ocupar o espaço interfere nas condições ambientais da cidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Enfrentar problemas ambientais urbanos exige ações do poder público e da sociedade. Isso inclui planejamento, infraestrutura, educação ambiental e participação coletiva na construção de cidades mais sustentáveis",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Enfrentar problemas ambientais urbanos exige ações do poder público e da sociedade. Isso inclui planejamento, infraestrutura, educação ambiental e participação coletiva na construção de cidades mais sustentáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em soluções que envolvam prevenção, organização e participação social",
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense em soluções que envolvam prevenção, organização e participação social",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-questao-ambiental-urbana-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de questão ambiental urbana se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Questão ambiental urbana pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com questão ambiental urbana dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine uma cidade com muitos resíduos descartados de forma inadequada"
+        ],
+        "respostaCorreta": "Imagine uma cidade com muitos resíduos descartados de forma inadequada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Questão ambiental urbana, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

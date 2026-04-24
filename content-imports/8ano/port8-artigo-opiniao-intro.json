@@ -1,0 +1,427 @@
+[
+  {
+    "id": "port8-artigo-opiniao-intro",
+    "titulo": "Introdução ao artigo de opinião",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "O artigo de opinião apresenta um ponto de vista sobre um tema relevante.",
+      "Esse gênero usa argumentos para convencer o leitor.",
+      "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Posicionamento do autor",
+        "texto": "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas.",
+        "dica": "Procure identificar com clareza qual ideia o autor está defendendo."
+      },
+      {
+        "subtitulo": "Argumentação e convencimento",
+        "texto": "Esse gênero não apresenta apenas uma opinião solta. Ele desenvolve raciocínios que buscam convencer o leitor, o que exige coerência, clareza e boa organização textual.",
+        "dica": "Observe como os argumentos são usados para dar força ao ponto de vista apresentado."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que defende maior incentivo à leitura entre os jovens.",
+        "passos": [
+          "Identifique a opinião central do autor.",
+          "Observe os argumentos usados para sustentar essa posição.",
+          "Perceba se o texto busca convencer o leitor."
+        ],
+        "resposta": "Esse é um exemplo de construção típica de um artigo de opinião."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução ao artigo de opinião\".",
+        "passos": [
+          "O artigo de opinião apresenta um ponto de vista sobre um tema relevante",
+          "Esse gênero usa argumentos para convencer o leitor",
+          "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao artigo de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução ao artigo de opinião\".",
+        "passos": [
+          "Esse gênero usa argumentos para convencer o leitor",
+          "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+          "Posicionamento do autor"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao artigo de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução ao artigo de opinião\".",
+        "passos": [
+          "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+          "Posicionamento do autor",
+          "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao artigo de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução ao artigo de opinião\".",
+        "passos": [
+          "Posicionamento do autor",
+          "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas",
+          "Procure identificar com clareza qual ideia o autor está defendendo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução ao artigo de opinião pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-artigo-opiniao-intro-ex-01",
+        "enunciado": "O artigo de opinião tem como característica principal:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "defender um ponto de vista sobre um tema",
+          "apresentar apenas diálogos ficcionais",
+          "listar palavras sem relação",
+          "descrever somente experimentos científicos"
+        ],
+        "respostaCorreta": "defender um ponto de vista sobre um tema",
+        "explicacao": "Nesse gênero, o autor apresenta e sustenta uma opinião por meio de argumentos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-ex-02",
+        "enunciado": "Para convencer o leitor, o artigo de opinião utiliza:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "argumentos",
+          "apenas desenhos",
+          "somente números aleatórios",
+          "rimas obrigatórias"
+        ],
+        "respostaCorreta": "argumentos",
+        "explicacao": "Os argumentos sustentam a posição do autor e organizam o convencimento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O artigo de opinião exige organização e coerência na defesa das ideias.",
+          "Esse gênero não apresenta tema definido.",
+          "A opinião aparece sem justificativas ou desenvolvimento.",
+          "O artigo de opinião não busca dialogar com o leitor."
+        ],
+        "respostaCorreta": "O artigo de opinião exige organização e coerência na defesa das ideias.",
+        "explicacao": "A força desse gênero depende da clareza do ponto de vista e da qualidade dos argumentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-ex-04",
+        "enunciado": "Estudar o artigo de opinião ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler e argumentar com mais criticidade",
+          "evitar todo debate de ideias",
+          "substituir argumentos por frases soltas",
+          "dispensar a análise de temas sociais"
+        ],
+        "respostaCorreta": "ler e argumentar com mais criticidade",
+        "explicacao": "Esse gênero fortalece a capacidade de analisar ideias e construir posicionamentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O artigo de opinião apresenta um ponto de vista sobre um tema relevante",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O artigo de opinião apresenta um ponto de vista sobre um tema relevante",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse gênero usa argumentos para convencer o leitor"
+        ],
+        "respostaCorreta": "Esse gênero usa argumentos para convencer o leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Procure identificar com clareza qual ideia o autor está defendendo",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Procure identificar com clareza qual ideia o autor está defendendo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse gênero não apresenta apenas uma opinião solta. Ele desenvolve raciocínios que buscam convencer o leitor, o que exige coerência, clareza e boa organização textual"
+        ],
+        "respostaCorreta": "Esse gênero não apresenta apenas uma opinião solta. Ele desenvolve raciocínios que buscam convencer o leitor, o que exige coerência, clareza e boa organização textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como os argumentos são usados para dar força ao ponto de vista apresentado",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como os argumentos são usados para dar força ao ponto de vista apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que defende maior incentivo à leitura entre os jovens",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia um texto que defende maior incentivo à leitura entre os jovens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de construção típica de um artigo de opinião",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de construção típica de um artigo de opinião",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique a opinião central do autor"
+        ],
+        "respostaCorreta": "Identifique a opinião central do autor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe os argumentos usados para sustentar essa posição",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe os argumentos usados para sustentar essa posição",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba se o texto busca convencer o leitor",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Perceba se o texto busca convencer o leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O artigo de opinião apresenta um ponto de vista sobre um tema relevante",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O artigo de opinião apresenta um ponto de vista sobre um tema relevante",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse gênero usa argumentos para convencer o leitor"
+        ],
+        "respostaCorreta": "Esse gênero usa argumentos para convencer o leitor",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-artigo-opiniao-intro-sim-01",
+        "enunciado": "A função central do artigo de opinião é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apresentar e sustentar um ponto de vista",
+          "contar apenas uma sequência de ações",
+          "listar objetos sem contexto",
+          "explicar unicamente regras gramaticais"
+        ],
+        "respostaCorreta": "apresentar e sustentar um ponto de vista",
+        "explicacao": "O artigo de opinião se organiza para expor e defender uma posição sobre determinado tema.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar o artigo de opinião fortalece leitura crítica e escrita argumentativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas"
+        ],
+        "respostaCorreta": "No artigo de opinião, o autor assume uma posição diante de um tema social, cultural, político ou cotidiano. Para sustentar esse posicionamento, ele organiza argumentos, exemplos e justificativas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Procure identificar com clareza qual ideia o autor está defendendo",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Procure identificar com clareza qual ideia o autor está defendendo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse gênero não apresenta apenas uma opinião solta. Ele desenvolve raciocínios que buscam convencer o leitor, o que exige coerência, clareza e boa organização textual",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Esse gênero não apresenta apenas uma opinião solta. Ele desenvolve raciocínios que buscam convencer o leitor, o que exige coerência, clareza e boa organização textual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como os argumentos são usados para dar força ao ponto de vista apresentado",
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como os argumentos são usados para dar força ao ponto de vista apresentado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-artigo-opiniao-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução ao artigo de opinião se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução ao artigo de opinião pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução ao artigo de opinião dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que defende maior incentivo à leitura entre os jovens"
+        ],
+        "respostaCorreta": "Leia um texto que defende maior incentivo à leitura entre os jovens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução ao artigo de opinião, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

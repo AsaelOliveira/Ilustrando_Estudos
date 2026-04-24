@@ -31,16 +31,397 @@
           "Relacione a fotografia a uma questão social presente no cenário."
         ],
         "resposta": "Esse tipo de leitura mostra que a fotografia também constrói sentidos sobre a realidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Fotografia e olhar social\".",
+        "passos": [
+          "A fotografia pode registrar, interpretar e questionar aspectos da realidade social",
+          "O olhar do fotógrafo influencia enquadramento, foco e sentidos da imagem",
+          "Estudar esse tema amplia a leitura crítica das imagens no cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Fotografia e olhar social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Fotografia e olhar social\".",
+        "passos": [
+          "O olhar do fotógrafo influencia enquadramento, foco e sentidos da imagem",
+          "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+          "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público"
+        ],
+        "resposta": "Esse exemplo mostra como Fotografia e olhar social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Fotografia e olhar social\".",
+        "passos": [
+          "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+          "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público",
+          "Observe o que aparece na imagem e também o que ficou fora dela"
+        ],
+        "resposta": "Esse exemplo mostra como Fotografia e olhar social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Fotografia e olhar social\".",
+        "passos": [
+          "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público",
+          "Observe o que aparece na imagem e também o que ficou fora dela",
+          "Fotografia como linguagem"
+        ],
+        "resposta": "Esse exemplo mostra como Fotografia e olhar social pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"art9-fotografia-olhar-social-ex-01","enunciado":"A fotografia pode ser entendida como:","tipo":"multipla_escolha","alternativas":["uma linguagem visual que produz sentidos","apenas uma cópia neutra da realidade","somente uma técnica sem intenção","um tipo de texto matemático"],"respostaCorreta":"uma linguagem visual que produz sentidos","explicacao":"A fotografia envolve escolhas que influenciam a interpretação da imagem.","dificuldade":"facil"},
-      {"id":"art9-fotografia-olhar-social-ex-02","enunciado":"O enquadramento em uma fotografia ajuda a:","tipo":"multipla_escolha","alternativas":["direcionar o olhar e construir significados","eliminar qualquer interpretação","apagar o tema fotografado","transformar imagem em regra gramatical"],"respostaCorreta":"direcionar o olhar e construir significados","explicacao":"A forma como a cena é enquadrada interfere no destaque e na leitura da imagem.","dificuldade":"facil"},
-      {"id":"art9-fotografia-olhar-social-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Fotografias podem contribuir para reflexão sobre questões sociais.","Toda imagem é neutra e sem contexto.","A fotografia não se relaciona com a realidade vivida.","O olhar do fotógrafo não interfere no resultado da imagem."],"respostaCorreta":"Fotografias podem contribuir para reflexão sobre questões sociais.","explicacao":"Muitas imagens trazem recortes da realidade e convidam à análise crítica de contextos sociais.","dificuldade":"medio"},
-      {"id":"art9-fotografia-olhar-social-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ler imagens de modo mais crítico e atento","considerar toda fotografia como simples reprodução mecânica","ignorar contexto e intenção na análise visual","reduzir imagem a enfeite sem sentido"],"respostaCorreta":"ler imagens de modo mais crítico e atento","explicacao":"O conteúdo fortalece observação, interpretação e consciência visual.","dificuldade":"medio"}
+      {
+        "id": "art9-fotografia-olhar-social-ex-01",
+        "enunciado": "A fotografia pode ser entendida como:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma linguagem visual que produz sentidos",
+          "apenas uma cópia neutra da realidade",
+          "somente uma técnica sem intenção",
+          "um tipo de texto matemático"
+        ],
+        "respostaCorreta": "uma linguagem visual que produz sentidos",
+        "explicacao": "A fotografia envolve escolhas que influenciam a interpretação da imagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-ex-02",
+        "enunciado": "O enquadramento em uma fotografia ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "direcionar o olhar e construir significados",
+          "eliminar qualquer interpretação",
+          "apagar o tema fotografado",
+          "transformar imagem em regra gramatical"
+        ],
+        "respostaCorreta": "direcionar o olhar e construir significados",
+        "explicacao": "A forma como a cena é enquadrada interfere no destaque e na leitura da imagem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fotografias podem contribuir para reflexão sobre questões sociais.",
+          "Toda imagem é neutra e sem contexto.",
+          "A fotografia não se relaciona com a realidade vivida.",
+          "O olhar do fotógrafo não interfere no resultado da imagem."
+        ],
+        "respostaCorreta": "Fotografias podem contribuir para reflexão sobre questões sociais.",
+        "explicacao": "Muitas imagens trazem recortes da realidade e convidam à análise crítica de contextos sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler imagens de modo mais crítico e atento",
+          "considerar toda fotografia como simples reprodução mecânica",
+          "ignorar contexto e intenção na análise visual",
+          "reduzir imagem a enfeite sem sentido"
+        ],
+        "respostaCorreta": "ler imagens de modo mais crítico e atento",
+        "explicacao": "O conteúdo fortalece observação, interpretação e consciência visual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Fotografia e olhar social\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A fotografia pode registrar, interpretar e questionar aspectos da realidade social",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A fotografia pode registrar, interpretar e questionar aspectos da realidade social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-02",
+        "enunciado": "Ao estudar \"Fotografia e olhar social\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O olhar do fotógrafo influencia enquadramento, foco e sentidos da imagem"
+        ],
+        "respostaCorreta": "O olhar do fotógrafo influencia enquadramento, foco e sentidos da imagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-05",
+        "enunciado": "No contexto de \"Fotografia e olhar social\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe o que aparece na imagem e também o que ficou fora dela",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe o que aparece na imagem e também o que ficou fora dela",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-06",
+        "enunciado": "O estudo de \"Fotografia e olhar social\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender fotografia como linguagem"
+        ],
+        "respostaCorreta": "compreender fotografia como linguagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Fotografias podem revelar desigualdades, costumes, paisagens urbanas, trabalho, memória e experiências coletivas. Por isso, interpretar imagens também é refletir sobre sociedade, contexto e intenção comunicativa",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Fotografias podem revelar desigualdades, costumes, paisagens urbanas, trabalho, memória e experiências coletivas. Por isso, interpretar imagens também é refletir sobre sociedade, contexto e intenção comunicativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte que tema social a fotografia evidencia e como os elementos visuais contribuem para essa leitura",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte que tema social a fotografia evidencia e como os elementos visuais contribuem para essa leitura",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender imagem e questão social",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender imagem e questão social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma fotografia que retrata uma situação do cotidiano urbano"
+        ],
+        "respostaCorreta": "Observe uma fotografia que retrata uma situação do cotidiano urbano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Fotografia e olhar social\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de leitura mostra que a fotografia também constrói sentidos sobre a realidade",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de leitura mostra que a fotografia também constrói sentidos sobre a realidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-12",
+        "enunciado": "Ao estudar \"Fotografia e olhar social\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o foco principal da imagem",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o foco principal da imagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como o enquadramento orienta o olhar do observador",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como o enquadramento orienta o olhar do observador",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a fotografia a uma questão social presente no cenário"
+        ],
+        "respostaCorreta": "Relacione a fotografia a uma questão social presente no cenário",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"art9-fotografia-olhar-social-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["fotografias também expressam escolhas, recortes e olhares sobre a realidade social","fotografia não produz sentido algum","imagens sempre mostram a realidade de forma totalmente neutra","o enquadramento não influencia a leitura visual"],"respostaCorreta":"fotografias também expressam escolhas, recortes e olhares sobre a realidade social","explicacao":"O tema mostra que a fotografia é linguagem e pode revelar perspectivas sobre o mundo.","dificuldade":"medio"}
+      {
+        "id": "art9-fotografia-olhar-social-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fotografias também expressam escolhas, recortes e olhares sobre a realidade social",
+          "fotografia não produz sentido algum",
+          "imagens sempre mostram a realidade de forma totalmente neutra",
+          "o enquadramento não influencia a leitura visual"
+        ],
+        "respostaCorreta": "fotografias também expressam escolhas, recortes e olhares sobre a realidade social",
+        "explicacao": "O tema mostra que a fotografia é linguagem e pode revelar perspectivas sobre o mundo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Fotografia e olhar social\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a leitura crítica das imagens no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Fotografia e olhar social\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público"
+        ],
+        "respostaCorreta": "A fotografia não é apenas registro automático da realidade. Ela envolve escolhas de enquadramento, luz, ângulo e foco, que interferem na forma como o tema é apresentado ao público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe o que aparece na imagem e também o que ficou fora dela",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe o que aparece na imagem e também o que ficou fora dela",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Fotografia e olhar social\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender fotografia como linguagem",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender fotografia como linguagem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fotografias podem revelar desigualdades, costumes, paisagens urbanas, trabalho, memória e experiências coletivas. Por isso, interpretar imagens também é refletir sobre sociedade, contexto e intenção comunicativa",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Fotografias podem revelar desigualdades, costumes, paisagens urbanas, trabalho, memória e experiências coletivas. Por isso, interpretar imagens também é refletir sobre sociedade, contexto e intenção comunicativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-fotografia-olhar-social-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte que tema social a fotografia evidencia e como os elementos visuais contribuem para essa leitura"
+        ],
+        "respostaCorreta": "Pergunte que tema social a fotografia evidencia e como os elementos visuais contribuem para essa leitura",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Fotografia e olhar social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

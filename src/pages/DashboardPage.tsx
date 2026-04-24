@@ -128,9 +128,9 @@ export default function DashboardPage() {
           </p>
         </motion.div>
 
-        <div className="flex gap-6">
+        <div className="flex flex-col gap-6 lg:flex-row">
           {/* Conteúdo principal */}
-          <div className="min-w-0 flex-1">
+          <div className="order-2 min-w-0 flex-1 lg:order-1">
             {/* Streak banner */}
             {streakDays > 0 && (
               <motion.div
@@ -356,7 +356,7 @@ export default function DashboardPage() {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.2 }}
-            className="hidden w-52 flex-shrink-0 lg:block"
+            className="order-1 w-full flex-shrink-0 lg:order-2 lg:w-52"
           >
             <div className="sticky top-20 space-y-3">
               <h3 className="flex items-center gap-1.5 font-heading text-xs font-bold uppercase tracking-wide text-muted-foreground">

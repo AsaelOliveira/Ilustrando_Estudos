@@ -31,16 +31,397 @@
           "Relacione essa prática à empatia e ao respeito."
         ],
         "resposta": "Esse exemplo mostra que atitudes éticas podem melhorar a convivência e favorecer soluções mais justas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Empatia, respeito e responsabilidade social\".",
+        "passos": [
+          "Empatia é a capacidade de considerar sentimentos, perspectivas e necessidades de outras pessoas",
+          "O respeito e a responsabilidade social fortalecem a convivência em diferentes espaços",
+          "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas"
+        ],
+        "resposta": "Esse exemplo mostra como Empatia, respeito e responsabilidade social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Empatia, respeito e responsabilidade social\".",
+        "passos": [
+          "O respeito e a responsabilidade social fortalecem a convivência em diferentes espaços",
+          "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+          "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana"
+        ],
+        "resposta": "Esse exemplo mostra como Empatia, respeito e responsabilidade social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Empatia, respeito e responsabilidade social\".",
+        "passos": [
+          "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+          "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana",
+          "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido"
+        ],
+        "resposta": "Esse exemplo mostra como Empatia, respeito e responsabilidade social pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Empatia, respeito e responsabilidade social\".",
+        "passos": [
+          "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana",
+          "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido",
+          "Empatia e convivência"
+        ],
+        "resposta": "Esse exemplo mostra como Empatia, respeito e responsabilidade social pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"eti9-empatia-responsabilidade-social-ex-01","enunciado":"Empatia é a capacidade de:","tipo":"multipla_escolha","alternativas":["considerar sentimentos e perspectivas de outras pessoas","ignorar totalmente o outro","agir apenas por impulso","rejeitar qualquer diálogo"],"respostaCorreta":"considerar sentimentos e perspectivas de outras pessoas","explicacao":"A empatia envolve compreensão e escuta em relação às experiências do outro.","dificuldade":"facil"},
-      {"id":"eti9-empatia-responsabilidade-social-ex-02","enunciado":"Responsabilidade social está relacionada a:","tipo":"multipla_escolha","alternativas":["reconhecer que nossas ações afetam a coletividade","pensar somente em vantagens individuais imediatas","evitar qualquer compromisso com o grupo","reduzir convivência a regras sem reflexão"],"respostaCorreta":"reconhecer que nossas ações afetam a coletividade","explicacao":"Esse conceito envolve considerar impactos das escolhas na vida em sociedade.","dificuldade":"facil"},
-      {"id":"eti9-empatia-responsabilidade-social-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Empatia e respeito favorecem a convivência e o diálogo.","A ética não tem relação com a vida cotidiana.","Responsabilidade social impede a cooperação.","Ouvir o outro sempre enfraquece a convivência."],"respostaCorreta":"Empatia e respeito favorecem a convivência e o diálogo.","explicacao":"Esses valores ajudam a construir relações mais justas e humanas.","dificuldade":"medio"},
-      {"id":"eti9-empatia-responsabilidade-social-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["refletir sobre atitudes individuais e coletivas","desconsiderar efeitos das próprias ações","separar ética da convivência social","tratar conflitos sem escuta ou diálogo"],"respostaCorreta":"refletir sobre atitudes individuais e coletivas","explicacao":"O tema fortalece consciência ética e responsabilidade nas relações sociais.","dificuldade":"medio"}
+      {
+        "id": "eti9-empatia-responsabilidade-social-ex-01",
+        "enunciado": "Empatia é a capacidade de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar sentimentos e perspectivas de outras pessoas",
+          "ignorar totalmente o outro",
+          "agir apenas por impulso",
+          "rejeitar qualquer diálogo"
+        ],
+        "respostaCorreta": "considerar sentimentos e perspectivas de outras pessoas",
+        "explicacao": "A empatia envolve compreensão e escuta em relação às experiências do outro.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-ex-02",
+        "enunciado": "Responsabilidade social está relacionada a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "reconhecer que nossas ações afetam a coletividade",
+          "pensar somente em vantagens individuais imediatas",
+          "evitar qualquer compromisso com o grupo",
+          "reduzir convivência a regras sem reflexão"
+        ],
+        "respostaCorreta": "reconhecer que nossas ações afetam a coletividade",
+        "explicacao": "Esse conceito envolve considerar impactos das escolhas na vida em sociedade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Empatia e respeito favorecem a convivência e o diálogo.",
+          "A ética não tem relação com a vida cotidiana.",
+          "Responsabilidade social impede a cooperação.",
+          "Ouvir o outro sempre enfraquece a convivência."
+        ],
+        "respostaCorreta": "Empatia e respeito favorecem a convivência e o diálogo.",
+        "explicacao": "Esses valores ajudam a construir relações mais justas e humanas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "refletir sobre atitudes individuais e coletivas",
+          "desconsiderar efeitos das próprias ações",
+          "separar ética da convivência social",
+          "tratar conflitos sem escuta ou diálogo"
+        ],
+        "respostaCorreta": "refletir sobre atitudes individuais e coletivas",
+        "explicacao": "O tema fortalece consciência ética e responsabilidade nas relações sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Empatia, respeito e responsabilidade social\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Empatia é a capacidade de considerar sentimentos, perspectivas e necessidades de outras pessoas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Empatia é a capacidade de considerar sentimentos, perspectivas e necessidades de outras pessoas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-02",
+        "enunciado": "Ao estudar \"Empatia, respeito e responsabilidade social\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O respeito e a responsabilidade social fortalecem a convivência em diferentes espaços"
+        ],
+        "respostaCorreta": "O respeito e a responsabilidade social fortalecem a convivência em diferentes espaços",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-05",
+        "enunciado": "No contexto de \"Empatia, respeito e responsabilidade social\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-06",
+        "enunciado": "O estudo de \"Empatia, respeito e responsabilidade social\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender empatia e convivência"
+        ],
+        "respostaCorreta": "compreender empatia e convivência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Responsabilidade social significa reconhecer que nossas escolhas afetam outras pessoas. Esse entendimento favorece atitudes éticas, compromisso com o bem comum e maior cuidado com direitos, deveres e relações coletivas",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Responsabilidade social significa reconhecer que nossas escolhas afetam outras pessoas. Esse entendimento favorece atitudes éticas, compromisso com o bem comum e maior cuidado com direitos, deveres e relações coletivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em como pequenas ações cotidianas podem gerar efeitos positivos ou negativos no grupo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em como pequenas ações cotidianas podem gerar efeitos positivos ou negativos no grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender responsabilidade em sociedade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender responsabilidade em sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação de conflito em que uma pessoa decide ouvir o outro antes de responder"
+        ],
+        "respostaCorreta": "Analise uma situação de conflito em que uma pessoa decide ouvir o outro antes de responder",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Empatia, respeito e responsabilidade social\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que atitudes éticas podem melhorar a convivência e favorecer soluções mais justas",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que atitudes éticas podem melhorar a convivência e favorecer soluções mais justas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-12",
+        "enunciado": "Ao estudar \"Empatia, respeito e responsabilidade social\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a mudança de atitude adotada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a mudança de atitude adotada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como a escuta pode diminuir tensões",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como a escuta pode diminuir tensões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione essa prática à empatia e ao respeito"
+        ],
+        "respostaCorreta": "Relacione essa prática à empatia e ao respeito",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"eti9-empatia-responsabilidade-social-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["conviver melhor exige empatia, respeito e responsabilidade social","a vida coletiva não depende de atitudes éticas","empatia não influencia relações humanas","responsabilidade social se limita a regras sem reflexão"],"respostaCorreta":"conviver melhor exige empatia, respeito e responsabilidade social","explicacao":"O conteúdo mostra que valores éticos são fundamentais para a qualidade das relações sociais.","dificuldade":"medio"}
+      {
+        "id": "eti9-empatia-responsabilidade-social-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conviver melhor exige empatia, respeito e responsabilidade social",
+          "a vida coletiva não depende de atitudes éticas",
+          "empatia não influencia relações humanas",
+          "responsabilidade social se limita a regras sem reflexão"
+        ],
+        "respostaCorreta": "conviver melhor exige empatia, respeito e responsabilidade social",
+        "explicacao": "O conteúdo mostra que valores éticos são fundamentais para a qualidade das relações sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Empatia, respeito e responsabilidade social\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a refletir sobre atitudes individuais e coletivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Empatia, respeito e responsabilidade social\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana"
+        ],
+        "respostaCorreta": "A empatia contribui para relações mais respeitosas, pois incentiva a escuta, o diálogo e a compreensão das diferenças. Em contextos escolares e sociais, ela ajuda a reduzir conflitos e a promover convivência mais humana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de julgar uma situação, tente compreender o ponto de vista de quem está envolvido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Empatia, respeito e responsabilidade social\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender empatia e convivência",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender empatia e convivência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Responsabilidade social significa reconhecer que nossas escolhas afetam outras pessoas. Esse entendimento favorece atitudes éticas, compromisso com o bem comum e maior cuidado com direitos, deveres e relações coletivas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Responsabilidade social significa reconhecer que nossas escolhas afetam outras pessoas. Esse entendimento favorece atitudes éticas, compromisso com o bem comum e maior cuidado com direitos, deveres e relações coletivas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "eti9-empatia-responsabilidade-social-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como pequenas ações cotidianas podem gerar efeitos positivos ou negativos no grupo"
+        ],
+        "respostaCorreta": "Pense em como pequenas ações cotidianas podem gerar efeitos positivos ou negativos no grupo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Empatia, respeito e responsabilidade social apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -31,16 +31,397 @@
           "Relacione os efeitos desse processo com a sociedade atual."
         ],
         "resposta": "Esse tipo de análise mostra como a história republicana ajuda a compreender desafios contemporâneos."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Brasil republicano e desafios contemporâneos\".",
+        "passos": [
+          "O período republicano brasileiro passou por diferentes fases políticas e sociais",
+          "Mudanças econômicas, urbanas e institucionais marcaram a história recente do país",
+          "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil republicano e desafios contemporâneos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Brasil republicano e desafios contemporâneos\".",
+        "passos": [
+          "Mudanças econômicas, urbanas e institucionais marcaram a história recente do país",
+          "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+          "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil republicano e desafios contemporâneos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Brasil republicano e desafios contemporâneos\".",
+        "passos": [
+          "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+          "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas",
+          "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil republicano e desafios contemporâneos pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Brasil republicano e desafios contemporâneos\".",
+        "passos": [
+          "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas",
+          "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior",
+          "Transformações políticas e sociais"
+        ],
+        "resposta": "Esse exemplo mostra como Brasil republicano e desafios contemporâneos pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-brasil-republica-contemporanea-ex-01","enunciado":"Estudar o Brasil republicano é importante porque permite:","tipo":"multipla_escolha","alternativas":["compreender mudanças políticas e sociais da história recente","decorar datas sem interpretar processos","ignorar relações entre passado e presente","analisar apenas períodos coloniais"],"respostaCorreta":"compreender mudanças políticas e sociais da história recente","explicacao":"O período republicano ajuda a entender transformações que influenciam a sociedade atual.","dificuldade":"facil"},
-      {"id":"hist9-brasil-republica-contemporanea-ex-02","enunciado":"Ao longo da República, o Brasil vivenciou:","tipo":"multipla_escolha","alternativas":["mudanças de governo, conflitos e ampliação de direitos","uma história sem disputas políticas","apenas estabilidade absoluta em todos os períodos","somente acontecimentos sem impacto social"],"respostaCorreta":"mudanças de governo, conflitos e ampliação de direitos","explicacao":"A história republicana brasileira reúne processos complexos e transformações diversas.","dificuldade":"facil"},
-      {"id":"hist9-brasil-republica-contemporanea-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A história recente do Brasil ajuda a interpretar debates atuais sobre democracia e cidadania.","O estudo do período republicano não tem relação com o presente.","Cidadania é um tema sem importância histórica.","Os acontecimentos republicanos não influenciaram a sociedade brasileira."],"respostaCorreta":"A história recente do Brasil ajuda a interpretar debates atuais sobre democracia e cidadania.","explicacao":"Muitos temas atuais têm raízes em processos históricos da República brasileira.","dificuldade":"medio"},
-      {"id":"hist9-brasil-republica-contemporanea-ex-04","enunciado":"Uma leitura histórica cuidadosa deve:","tipo":"multipla_escolha","alternativas":["relacionar contextos, agentes sociais e consequências","restringir-se a nomes soltos sem análise","ignorar mudanças sociais de longo prazo","substituir interpretação por opinião sem fundamento"],"respostaCorreta":"relacionar contextos, agentes sociais e consequências","explicacao":"A compreensão histórica exige observar causas, contextos e efeitos dos acontecimentos.","dificuldade":"medio"}
+      {
+        "id": "hist9-brasil-republica-contemporanea-ex-01",
+        "enunciado": "Estudar o Brasil republicano é importante porque permite:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender mudanças políticas e sociais da história recente",
+          "decorar datas sem interpretar processos",
+          "ignorar relações entre passado e presente",
+          "analisar apenas períodos coloniais"
+        ],
+        "respostaCorreta": "compreender mudanças políticas e sociais da história recente",
+        "explicacao": "O período republicano ajuda a entender transformações que influenciam a sociedade atual.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-ex-02",
+        "enunciado": "Ao longo da República, o Brasil vivenciou:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mudanças de governo, conflitos e ampliação de direitos",
+          "uma história sem disputas políticas",
+          "apenas estabilidade absoluta em todos os períodos",
+          "somente acontecimentos sem impacto social"
+        ],
+        "respostaCorreta": "mudanças de governo, conflitos e ampliação de direitos",
+        "explicacao": "A história republicana brasileira reúne processos complexos e transformações diversas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A história recente do Brasil ajuda a interpretar debates atuais sobre democracia e cidadania.",
+          "O estudo do período republicano não tem relação com o presente.",
+          "Cidadania é um tema sem importância histórica.",
+          "Os acontecimentos republicanos não influenciaram a sociedade brasileira."
+        ],
+        "respostaCorreta": "A história recente do Brasil ajuda a interpretar debates atuais sobre democracia e cidadania.",
+        "explicacao": "Muitos temas atuais têm raízes em processos históricos da República brasileira.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-ex-04",
+        "enunciado": "Uma leitura histórica cuidadosa deve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar contextos, agentes sociais e consequências",
+          "restringir-se a nomes soltos sem análise",
+          "ignorar mudanças sociais de longo prazo",
+          "substituir interpretação por opinião sem fundamento"
+        ],
+        "respostaCorreta": "relacionar contextos, agentes sociais e consequências",
+        "explicacao": "A compreensão histórica exige observar causas, contextos e efeitos dos acontecimentos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Brasil republicano e desafios contemporâneos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O período republicano brasileiro passou por diferentes fases políticas e sociais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O período republicano brasileiro passou por diferentes fases políticas e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-02",
+        "enunciado": "Ao estudar \"Brasil republicano e desafios contemporâneos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Mudanças econômicas, urbanas e institucionais marcaram a história recente do país"
+        ],
+        "respostaCorreta": "Mudanças econômicas, urbanas e institucionais marcaram a história recente do país",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-05",
+        "enunciado": "No contexto de \"Brasil republicano e desafios contemporâneos\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-06",
+        "enunciado": "O estudo de \"Brasil republicano e desafios contemporâneos\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender transformações políticas e sociais"
+        ],
+        "respostaCorreta": "compreender transformações políticas e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compreender a história republicana ajuda a interpretar debates atuais sobre cidadania, desigualdade, participação política e democracia. O passado recente contribui para explicar muitos desafios do presente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Compreender a história republicana ajuda a interpretar debates atuais sobre cidadania, desigualdade, participação política e democracia. O passado recente contribui para explicar muitos desafios do presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Procure relacionar acontecimentos históricos a temas ainda discutidos na sociedade brasileira",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Procure relacionar acontecimentos históricos a temas ainda discutidos na sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender relação entre passado e presente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender relação entre passado e presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação em que mudanças políticas alteram direitos e formas de participação social"
+        ],
+        "respostaCorreta": "Analise uma situação em que mudanças políticas alteram direitos e formas de participação social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Brasil republicano e desafios contemporâneos\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de análise mostra como a história republicana ajuda a compreender desafios contemporâneos",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de análise mostra como a história republicana ajuda a compreender desafios contemporâneos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-12",
+        "enunciado": "Ao estudar \"Brasil republicano e desafios contemporâneos\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique o contexto histórico do período analisado",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique o contexto histórico do período analisado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quais grupos sociais foram afetados pelas mudanças",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe quais grupos sociais foram afetados pelas mudanças",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione os efeitos desse processo com a sociedade atual"
+        ],
+        "respostaCorreta": "Relacione os efeitos desse processo com a sociedade atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-brasil-republica-contemporanea-sim-01","enunciado":"A melhor justificativa para estudar o Brasil republicano no 9º ano é:","tipo":"multipla_escolha","alternativas":["entender como processos históricos ajudam a explicar desafios contemporâneos","decorar acontecimentos sem reflexão crítica","substituir a análise histórica por opiniões isoladas","tratar o passado como algo sem ligação com o presente"],"respostaCorreta":"entender como processos históricos ajudam a explicar desafios contemporâneos","explicacao":"O estudo do período republicano permite interpretar questões políticas e sociais ainda relevantes.","dificuldade":"medio"}
+      {
+        "id": "hist9-brasil-republica-contemporanea-sim-01",
+        "enunciado": "A melhor justificativa para estudar o Brasil republicano no 9º ano é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "entender como processos históricos ajudam a explicar desafios contemporâneos",
+          "decorar acontecimentos sem reflexão crítica",
+          "substituir a análise histórica por opiniões isoladas",
+          "tratar o passado como algo sem ligação com o presente"
+        ],
+        "respostaCorreta": "entender como processos históricos ajudam a explicar desafios contemporâneos",
+        "explicacao": "O estudo do período republicano permite interpretar questões políticas e sociais ainda relevantes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Brasil republicano e desafios contemporâneos\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse processo ajuda a compreender problemas e debates atuais da sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Brasil republicano e desafios contemporâneos\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas"
+        ],
+        "respostaCorreta": "Ao longo da República, o Brasil viveu mudanças de governo, reformas, crises, mobilizações populares e ampliação de direitos. Essas transformações influenciaram a vida política e social do país de maneiras variadas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como cada período histórico traz continuidades e rupturas em relação ao anterior",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Brasil republicano e desafios contemporâneos\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender transformações políticas e sociais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender transformações políticas e sociais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender a história republicana ajuda a interpretar debates atuais sobre cidadania, desigualdade, participação política e democracia. O passado recente contribui para explicar muitos desafios do presente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Compreender a história republicana ajuda a interpretar debates atuais sobre cidadania, desigualdade, participação política e democracia. O passado recente contribui para explicar muitos desafios do presente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-brasil-republica-contemporanea-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Procure relacionar acontecimentos históricos a temas ainda discutidos na sociedade brasileira"
+        ],
+        "respostaCorreta": "Procure relacionar acontecimentos históricos a temas ainda discutidos na sociedade brasileira",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Brasil republicano e desafios contemporâneos apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

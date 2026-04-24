@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-saude-prevencao-doencas",
+    "titulo": "Saúde e prevenção de doenças",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano e saúde",
+    "resumo": [
+      "A prevenção é uma parte fundamental dos cuidados com a saúde.",
+      "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças.",
+      "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Cuidados preventivos",
+        "texto": "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade.",
+        "dica": "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas."
+      },
+      {
+        "subtitulo": "Informação e responsabilidade",
+        "texto": "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado.",
+        "dica": "Prefira sempre fontes seguras e orientações confiáveis."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação.",
+        "passos": [
+          "Observe que essas medidas reduzem a chance de transmissão de doenças.",
+          "Perceba que o cuidado beneficia tanto o indivíduo quanto o grupo."
+        ],
+        "resposta": "Esse é um exemplo de prevenção voltada à saúde individual e coletiva."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Saúde e prevenção de doenças\".",
+        "passos": [
+          "A prevenção é uma parte fundamental dos cuidados com a saúde",
+          "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças",
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva"
+        ],
+        "resposta": "Esse exemplo mostra como Saúde e prevenção de doenças pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Saúde e prevenção de doenças\".",
+        "passos": [
+          "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças",
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+          "Cuidados preventivos"
+        ],
+        "resposta": "Esse exemplo mostra como Saúde e prevenção de doenças pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Saúde e prevenção de doenças\".",
+        "passos": [
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+          "Cuidados preventivos",
+          "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade"
+        ],
+        "resposta": "Esse exemplo mostra como Saúde e prevenção de doenças pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Saúde e prevenção de doenças\".",
+        "passos": [
+          "Cuidados preventivos",
+          "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade",
+          "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas"
+        ],
+        "resposta": "Esse exemplo mostra como Saúde e prevenção de doenças pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-saude-prevencao-doencas-ex-01",
+        "enunciado": "A prevenção em saúde envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "hábitos e cuidados que reduzem riscos de doenças",
+          "somente tratamento depois da doença instalada",
+          "apenas repouso após sintomas graves",
+          "unicamente o uso de medicamentos sem orientação"
+        ],
+        "respostaCorreta": "hábitos e cuidados que reduzem riscos de doenças",
+        "explicacao": "A prevenção inclui atitudes cotidianas que ajudam a proteger a saúde antes do aparecimento de problemas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-ex-02",
+        "enunciado": "Qual atitude contribui para a prevenção de doenças?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "higiene adequada e busca de orientação confiável",
+          "espalhar informações sem verificar",
+          "ignorar recomendações de saúde",
+          "substituir cuidados por boatos"
+        ],
+        "respostaCorreta": "higiene adequada e busca de orientação confiável",
+        "explicacao": "Práticas preventivas e informação segura são fundamentais para a proteção da saúde.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Algumas ações de saúde individual também protegem a coletividade.",
+          "A prevenção não tem relação com a vida em sociedade.",
+          "Informações falsas ajudam a cuidar melhor da saúde.",
+          "Vacinação e higiene não interferem na prevenção."
+        ],
+        "respostaCorreta": "Algumas ações de saúde individual também protegem a coletividade.",
+        "explicacao": "Muitas medidas preventivas beneficiam o indivíduo e também reduzem riscos para o grupo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-ex-04",
+        "enunciado": "Estudar prevenção de doenças ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver autocuidado e responsabilidade social",
+          "ignorar hábitos saudáveis",
+          "substituir ciência por boatos",
+          "pensar que a saúde depende apenas de sorte"
+        ],
+        "respostaCorreta": "desenvolver autocuidado e responsabilidade social",
+        "explicacao": "Esse conteúdo fortalece atitudes conscientes em relação ao próprio corpo e à convivência com os outros.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A prevenção é uma parte fundamental dos cuidados com a saúde",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A prevenção é uma parte fundamental dos cuidados com a saúde",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças"
+        ],
+        "respostaCorreta": "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado"
+        ],
+        "respostaCorreta": "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Prefira sempre fontes seguras e orientações confiáveis",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Prefira sempre fontes seguras e orientações confiáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo de prevenção voltada à saúde individual e coletiva",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo de prevenção voltada à saúde individual e coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que essas medidas reduzem a chance de transmissão de doenças"
+        ],
+        "respostaCorreta": "Observe que essas medidas reduzem a chance de transmissão de doenças",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que o cuidado beneficia tanto o indivíduo quanto o grupo",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que o cuidado beneficia tanto o indivíduo quanto o grupo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A prevenção é uma parte fundamental dos cuidados com a saúde",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A prevenção é uma parte fundamental dos cuidados com a saúde",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Hábitos adequados e informação confiável ajudam a reduzir riscos de doenças",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-saude-prevencao-doencas-sim-01",
+        "enunciado": "A principal ideia do estudo da prevenção em saúde é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "cuidar da saúde envolve hábitos, informação e responsabilidade",
+          "a saúde depende apenas de tratamentos médicos depois da doença",
+          "o tema não se relaciona ao cotidiano",
+          "ações preventivas não têm efeito coletivo"
+        ],
+        "respostaCorreta": "cuidar da saúde envolve hábitos, informação e responsabilidade",
+        "explicacao": "A prevenção reúne práticas cotidianas e conhecimento confiável para proteger o bem-estar individual e coletivo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece atitudes de autocuidado e responsabilidade coletiva",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade"
+        ],
+        "respostaCorreta": "A prevenção envolve atitudes como higiene, alimentação equilibrada, vacinação, atividade física e acompanhamento de orientações de saúde. Essas práticas ajudam a proteger o organismo e a comunidade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense na saúde como resultado de cuidados cotidianos, e não apenas de tratamento quando surgem sintomas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Buscar informação correta sobre saúde é essencial para evitar riscos e combater desinformação. Além disso, algumas ações individuais também protegem outras pessoas, mostrando a dimensão coletiva do cuidado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Prefira sempre fontes seguras e orientações confiáveis",
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Prefira sempre fontes seguras e orientações confiáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-saude-prevencao-doencas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de saúde e prevenção de doenças se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Saúde e prevenção de doenças pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com saúde e prevenção de doenças dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação"
+        ],
+        "respostaCorreta": "Considere uma turma que recebe orientações sobre higiene das mãos e vacinação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Saúde e prevenção de doenças, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

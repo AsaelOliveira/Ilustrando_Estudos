@@ -31,16 +31,397 @@
           "Relacione essa adaptação à ideia de adequação linguística."
         ],
         "resposta": "Esse contraste mostra que escrever também é escolher linguagem conforme leitor e contexto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Adequação de linguagem ao leitor e ao contexto\".",
+        "passos": [
+          "Escrever bem também exige considerar quem vai ler o texto e em que situação ele circula",
+          "A linguagem pode variar conforme objetivo, gênero, interlocutor e contexto de produção",
+          "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação de linguagem ao leitor e ao contexto pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Adequação de linguagem ao leitor e ao contexto\".",
+        "passos": [
+          "A linguagem pode variar conforme objetivo, gênero, interlocutor e contexto de produção",
+          "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+          "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação de linguagem ao leitor e ao contexto pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Adequação de linguagem ao leitor e ao contexto\".",
+        "passos": [
+          "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+          "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa",
+          "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação de linguagem ao leitor e ao contexto pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Adequação de linguagem ao leitor e ao contexto\".",
+        "passos": [
+          "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa",
+          "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir",
+          "Escrita e interlocutor"
+        ],
+        "resposta": "Esse exemplo mostra como Adequação de linguagem ao leitor e ao contexto pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"red9-adequacao-linguagem-leitor-ex-01","enunciado":"Adequar a linguagem de um texto significa:","tipo":"multipla_escolha","alternativas":["ajustar a escrita ao leitor, ao gênero e ao contexto","escrever sempre do mesmo modo em qualquer situação","ignorar quem vai ler o texto","trocar clareza por excesso de informalidade"],"respostaCorreta":"ajustar a escrita ao leitor, ao gênero e ao contexto","explicacao":"A adequação torna o texto mais pertinente e eficaz na situação comunicativa.","dificuldade":"facil"},
-      {"id":"red9-adequacao-linguagem-leitor-ex-02","enunciado":"Pensar no interlocutor ajuda a escolher:","tipo":"multipla_escolha","alternativas":["vocabulário e grau de formalidade","apenas o tamanho da letra","somente a quantidade de linhas","unicamente o título do texto"],"respostaCorreta":"vocabulário e grau de formalidade","explicacao":"Quem vai ler o texto influencia decisões sobre linguagem e estratégia de escrita.","dificuldade":"facil"},
-      {"id":"red9-adequacao-linguagem-leitor-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.","Todo texto deve ignorar o contexto de circulação.","Leitor e objetivo não interferem na escrita.","Adequação significa abandonar qualquer organização textual."],"respostaCorreta":"Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.","explicacao":"A relação entre escrita, público e finalidade é essencial para a qualidade da produção textual.","dificuldade":"medio"},
-      {"id":"red9-adequacao-linguagem-leitor-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["produzir textos mais claros e adequados à situação","escrever sem considerar leitor nem objetivo","usar a mesma linguagem em qualquer contexto","separar redação de comunicação real"],"respostaCorreta":"produzir textos mais claros e adequados à situação","explicacao":"O conteúdo fortalece a relação entre escrita, contexto e interlocutor.","dificuldade":"medio"}
+      {
+        "id": "red9-adequacao-linguagem-leitor-ex-01",
+        "enunciado": "Adequar a linguagem de um texto significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajustar a escrita ao leitor, ao gênero e ao contexto",
+          "escrever sempre do mesmo modo em qualquer situação",
+          "ignorar quem vai ler o texto",
+          "trocar clareza por excesso de informalidade"
+        ],
+        "respostaCorreta": "ajustar a escrita ao leitor, ao gênero e ao contexto",
+        "explicacao": "A adequação torna o texto mais pertinente e eficaz na situação comunicativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-ex-02",
+        "enunciado": "Pensar no interlocutor ajuda a escolher:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "vocabulário e grau de formalidade",
+          "apenas o tamanho da letra",
+          "somente a quantidade de linhas",
+          "unicamente o título do texto"
+        ],
+        "respostaCorreta": "vocabulário e grau de formalidade",
+        "explicacao": "Quem vai ler o texto influencia decisões sobre linguagem e estratégia de escrita.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.",
+          "Todo texto deve ignorar o contexto de circulação.",
+          "Leitor e objetivo não interferem na escrita.",
+          "Adequação significa abandonar qualquer organização textual."
+        ],
+        "respostaCorreta": "Um texto mais adequado ao contexto tende a comunicar melhor sua intenção.",
+        "explicacao": "A relação entre escrita, público e finalidade é essencial para a qualidade da produção textual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "produzir textos mais claros e adequados à situação",
+          "escrever sem considerar leitor nem objetivo",
+          "usar a mesma linguagem em qualquer contexto",
+          "separar redação de comunicação real"
+        ],
+        "respostaCorreta": "produzir textos mais claros e adequados à situação",
+        "explicacao": "O conteúdo fortalece a relação entre escrita, contexto e interlocutor.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Adequação de linguagem ao leitor e ao contexto\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Escrever bem também exige considerar quem vai ler o texto e em que situação ele circula",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Escrever bem também exige considerar quem vai ler o texto e em que situação ele circula",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-02",
+        "enunciado": "Ao estudar \"Adequação de linguagem ao leitor e ao contexto\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A linguagem pode variar conforme objetivo, gênero, interlocutor e contexto de produção"
+        ],
+        "respostaCorreta": "A linguagem pode variar conforme objetivo, gênero, interlocutor e contexto de produção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-05",
+        "enunciado": "No contexto de \"Adequação de linguagem ao leitor e ao contexto\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-06",
+        "enunciado": "O estudo de \"Adequação de linguagem ao leitor e ao contexto\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender escrita e interlocutor"
+        ],
+        "respostaCorreta": "compreender escrita e interlocutor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A adequação linguística não significa escrever de qualquer modo, mas ajustar a linguagem ao gênero, ao tema e ao contexto. Em uma redação argumentativa, isso ajuda a tornar o texto mais claro, pertinente e convincente",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A adequação linguística não significa escrever de qualquer modo, mas ajustar a linguagem ao gênero, ao tema e ao contexto. Em uma redação argumentativa, isso ajuda a tornar o texto mais claro, pertinente e convincente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe se o modo de escrever combina com a finalidade do texto e com o espaço em que ele circula",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe se o modo de escrever combina com a finalidade do texto e com o espaço em que ele circula",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender contexto e escolha linguística",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender contexto e escolha linguística",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare dois textos sobre o mesmo tema: um destinado a colegas da escola e outro a um público mais amplo"
+        ],
+        "respostaCorreta": "Compare dois textos sobre o mesmo tema: um destinado a colegas da escola e outro a um público mais amplo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Adequação de linguagem ao leitor e ao contexto\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse contraste mostra que escrever também é escolher linguagem conforme leitor e contexto",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse contraste mostra que escrever também é escolher linguagem conforme leitor e contexto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-12",
+        "enunciado": "Ao estudar \"Adequação de linguagem ao leitor e ao contexto\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe diferenças na linguagem usada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe diferenças na linguagem usada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como o interlocutor influencia o texto",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como o interlocutor influencia o texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione essa adaptação à ideia de adequação linguística"
+        ],
+        "respostaCorreta": "Relacione essa adaptação à ideia de adequação linguística",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"red9-adequacao-linguagem-leitor-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["escrever bem exige considerar contexto, leitor e objetivo do texto","todo texto deve manter a mesma linguagem em qualquer situação","o leitor não interfere na produção textual","adequação não tem relação com comunicação"],"respostaCorreta":"escrever bem exige considerar contexto, leitor e objetivo do texto","explicacao":"O tema mostra que a eficácia de um texto depende também da adequação de sua linguagem.","dificuldade":"medio"}
+      {
+        "id": "red9-adequacao-linguagem-leitor-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "escrever bem exige considerar contexto, leitor e objetivo do texto",
+          "todo texto deve manter a mesma linguagem em qualquer situação",
+          "o leitor não interfere na produção textual",
+          "adequação não tem relação com comunicação"
+        ],
+        "respostaCorreta": "escrever bem exige considerar contexto, leitor e objetivo do texto",
+        "explicacao": "O tema mostra que a eficácia de um texto depende também da adequação de sua linguagem.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Adequação de linguagem ao leitor e ao contexto\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a tornar a redação mais adequada e eficaz",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Adequação de linguagem ao leitor e ao contexto\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa"
+        ],
+        "respostaCorreta": "Todo texto é produzido para alguém, mesmo quando o leitor não está explicitamente indicado. Pensar no interlocutor ajuda a escolher vocabulário, grau de formalidade, exemplos e estratégias mais adequadas para a situação comunicativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de escrever, pergunte quem vai ler o texto e qual efeito você deseja produzir",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Adequação de linguagem ao leitor e ao contexto\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender escrita e interlocutor",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender escrita e interlocutor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A adequação linguística não significa escrever de qualquer modo, mas ajustar a linguagem ao gênero, ao tema e ao contexto. Em uma redação argumentativa, isso ajuda a tornar o texto mais claro, pertinente e convincente",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A adequação linguística não significa escrever de qualquer modo, mas ajustar a linguagem ao gênero, ao tema e ao contexto. Em uma redação argumentativa, isso ajuda a tornar o texto mais claro, pertinente e convincente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "red9-adequacao-linguagem-leitor-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe se o modo de escrever combina com a finalidade do texto e com o espaço em que ele circula"
+        ],
+        "respostaCorreta": "Observe se o modo de escrever combina com a finalidade do texto e com o espaço em que ele circula",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Adequação de linguagem ao leitor e ao contexto apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

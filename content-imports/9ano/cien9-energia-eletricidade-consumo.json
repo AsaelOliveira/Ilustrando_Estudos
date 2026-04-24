@@ -31,16 +31,397 @@
           "Reflita sobre o impacto econômico e ambiental dessas escolhas."
         ],
         "resposta": "Esse exemplo mostra que o consumo de energia depende de decisões cotidianas e pode ser mais sustentável."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Energia elétrica, consumo e sustentabilidade\".",
+        "passos": [
+          "A energia elétrica está presente em muitas atividades cotidianas e processos tecnológicos",
+          "O consumo de energia envolve escolhas, custos e impactos ambientais",
+          "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável"
+        ],
+        "resposta": "Esse exemplo mostra como Energia elétrica, consumo e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Energia elétrica, consumo e sustentabilidade\".",
+        "passos": [
+          "O consumo de energia envolve escolhas, custos e impactos ambientais",
+          "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+          "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna"
+        ],
+        "resposta": "Esse exemplo mostra como Energia elétrica, consumo e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Energia elétrica, consumo e sustentabilidade\".",
+        "passos": [
+          "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+          "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna",
+          "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar"
+        ],
+        "resposta": "Esse exemplo mostra como Energia elétrica, consumo e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Energia elétrica, consumo e sustentabilidade\".",
+        "passos": [
+          "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna",
+          "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar",
+          "Uso da energia elétrica no cotidiano"
+        ],
+        "resposta": "Esse exemplo mostra como Energia elétrica, consumo e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-energia-eletricidade-consumo-ex-01","enunciado":"A energia elétrica está presente no cotidiano porque:","tipo":"multipla_escolha","alternativas":["alimenta aparelhos e sistemas usados no dia a dia","serve apenas para decorar ambientes","não interfere na vida moderna","é usada somente em laboratórios"],"respostaCorreta":"alimenta aparelhos e sistemas usados no dia a dia","explicacao":"A energia elétrica é fundamental para o funcionamento de muitos equipamentos e serviços.","dificuldade":"facil"},
-      {"id":"cien9-energia-eletricidade-consumo-ex-02","enunciado":"Falar em consumo consciente de energia significa:","tipo":"multipla_escolha","alternativas":["usar a energia de modo responsável e evitar desperdícios","deixar todos os aparelhos ligados o tempo todo","ignorar custos e impactos ambientais","considerar a energia um recurso sem limites"],"respostaCorreta":"usar a energia de modo responsável e evitar desperdícios","explicacao":"O consumo consciente busca equilíbrio entre necessidade, economia e sustentabilidade.","dificuldade":"facil"},
-      {"id":"cien9-energia-eletricidade-consumo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O consumo de energia envolve dimensões econômicas e ambientais.","A produção de energia não causa nenhum impacto ambiental.","Economizar energia não altera o consumo total.","Sustentabilidade não tem relação com eletricidade."],"respostaCorreta":"O consumo de energia envolve dimensões econômicas e ambientais.","explicacao":"Usar energia implica custos e também efeitos sobre os recursos e o ambiente.","dificuldade":"medio"},
-      {"id":"cien9-energia-eletricidade-consumo-ex-04","enunciado":"Uma atitude coerente com o tema é:","tipo":"multipla_escolha","alternativas":["apagar luzes desnecessárias e usar equipamentos com responsabilidade","desperdiçar energia sempre que houver tomada disponível","deixar aparelhos ligados sem uso","considerar irrelevante o impacto do consumo"],"respostaCorreta":"apagar luzes desnecessárias e usar equipamentos com responsabilidade","explicacao":"Pequenas atitudes no dia a dia podem reduzir desperdícios e estimular o uso consciente da energia.","dificuldade":"medio"}
+      {
+        "id": "cien9-energia-eletricidade-consumo-ex-01",
+        "enunciado": "A energia elétrica está presente no cotidiano porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alimenta aparelhos e sistemas usados no dia a dia",
+          "serve apenas para decorar ambientes",
+          "não interfere na vida moderna",
+          "é usada somente em laboratórios"
+        ],
+        "respostaCorreta": "alimenta aparelhos e sistemas usados no dia a dia",
+        "explicacao": "A energia elétrica é fundamental para o funcionamento de muitos equipamentos e serviços.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-ex-02",
+        "enunciado": "Falar em consumo consciente de energia significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar a energia de modo responsável e evitar desperdícios",
+          "deixar todos os aparelhos ligados o tempo todo",
+          "ignorar custos e impactos ambientais",
+          "considerar a energia um recurso sem limites"
+        ],
+        "respostaCorreta": "usar a energia de modo responsável e evitar desperdícios",
+        "explicacao": "O consumo consciente busca equilíbrio entre necessidade, economia e sustentabilidade.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O consumo de energia envolve dimensões econômicas e ambientais.",
+          "A produção de energia não causa nenhum impacto ambiental.",
+          "Economizar energia não altera o consumo total.",
+          "Sustentabilidade não tem relação com eletricidade."
+        ],
+        "respostaCorreta": "O consumo de energia envolve dimensões econômicas e ambientais.",
+        "explicacao": "Usar energia implica custos e também efeitos sobre os recursos e o ambiente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-ex-04",
+        "enunciado": "Uma atitude coerente com o tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "apagar luzes desnecessárias e usar equipamentos com responsabilidade",
+          "desperdiçar energia sempre que houver tomada disponível",
+          "deixar aparelhos ligados sem uso",
+          "considerar irrelevante o impacto do consumo"
+        ],
+        "respostaCorreta": "apagar luzes desnecessárias e usar equipamentos com responsabilidade",
+        "explicacao": "Pequenas atitudes no dia a dia podem reduzir desperdícios e estimular o uso consciente da energia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Energia elétrica, consumo e sustentabilidade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A energia elétrica está presente em muitas atividades cotidianas e processos tecnológicos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A energia elétrica está presente em muitas atividades cotidianas e processos tecnológicos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-02",
+        "enunciado": "Ao estudar \"Energia elétrica, consumo e sustentabilidade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O consumo de energia envolve escolhas, custos e impactos ambientais"
+        ],
+        "respostaCorreta": "O consumo de energia envolve escolhas, custos e impactos ambientais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-05",
+        "enunciado": "No contexto de \"Energia elétrica, consumo e sustentabilidade\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-06",
+        "enunciado": "O estudo de \"Energia elétrica, consumo e sustentabilidade\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender uso da energia elétrica no cotidiano"
+        ],
+        "respostaCorreta": "compreender uso da energia elétrica no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "O consumo de energia está relacionado ao gasto financeiro e também aos impactos ambientais da produção elétrica. Por isso, discutir eficiência e uso responsável é essencial para pensar sustentabilidade e cidadania",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "O consumo de energia está relacionado ao gasto financeiro e também aos impactos ambientais da produção elétrica. Por isso, discutir eficiência e uso responsável é essencial para pensar sustentabilidade e cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Compare hábitos que economizam energia com práticas de desperdício no dia a dia",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Compare hábitos que economizam energia com práticas de desperdício no dia a dia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender consumo consciente e impactos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender consumo consciente e impactos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise duas casas: uma com lâmpadas eficientes e outra com desperdício frequente de energia"
+        ],
+        "respostaCorreta": "Analise duas casas: uma com lâmpadas eficientes e outra com desperdício frequente de energia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Energia elétrica, consumo e sustentabilidade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que o consumo de energia depende de decisões cotidianas e pode ser mais sustentável",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que o consumo de energia depende de decisões cotidianas e pode ser mais sustentável",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-12",
+        "enunciado": "Ao estudar \"Energia elétrica, consumo e sustentabilidade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os hábitos de uso dos aparelhos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os hábitos de uso dos aparelhos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare possíveis diferenças no consumo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Compare possíveis diferenças no consumo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Reflita sobre o impacto econômico e ambiental dessas escolhas"
+        ],
+        "respostaCorreta": "Reflita sobre o impacto econômico e ambiental dessas escolhas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-energia-eletricidade-consumo-sim-01","enunciado":"A principal contribuição do estudo da energia elétrica no 9º ano é:","tipo":"multipla_escolha","alternativas":["compreender o uso da eletricidade e refletir sobre consumo responsável","decorar nomes de aparelhos sem entender sua função","eliminar a relação entre ciência e cotidiano","tratar o consumo de energia como um tema sem importância social"],"respostaCorreta":"compreender o uso da eletricidade e refletir sobre consumo responsável","explicacao":"O tema aproxima ciência, tecnologia e cidadania ao discutir uso e impacto da energia elétrica.","dificuldade":"medio"}
+      {
+        "id": "cien9-energia-eletricidade-consumo-sim-01",
+        "enunciado": "A principal contribuição do estudo da energia elétrica no 9º ano é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender o uso da eletricidade e refletir sobre consumo responsável",
+          "decorar nomes de aparelhos sem entender sua função",
+          "eliminar a relação entre ciência e cotidiano",
+          "tratar o consumo de energia como um tema sem importância social"
+        ],
+        "respostaCorreta": "compreender o uso da eletricidade e refletir sobre consumo responsável",
+        "explicacao": "O tema aproxima ciência, tecnologia e cidadania ao discutir uso e impacto da energia elétrica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Energia elétrica, consumo e sustentabilidade\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a usar recursos de forma mais consciente e responsável",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Energia elétrica, consumo e sustentabilidade\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna"
+        ],
+        "respostaCorreta": "A energia elétrica movimenta aparelhos, ilumina ambientes e permite o funcionamento de vários sistemas presentes na vida diária. Entender seu uso é importante para compreender tecnologia, conforto e organização da sociedade moderna",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe quantos equipamentos da sua rotina dependem de energia elétrica para funcionar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Energia elétrica, consumo e sustentabilidade\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender uso da energia elétrica no cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender uso da energia elétrica no cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O consumo de energia está relacionado ao gasto financeiro e também aos impactos ambientais da produção elétrica. Por isso, discutir eficiência e uso responsável é essencial para pensar sustentabilidade e cidadania",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "O consumo de energia está relacionado ao gasto financeiro e também aos impactos ambientais da produção elétrica. Por isso, discutir eficiência e uso responsável é essencial para pensar sustentabilidade e cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-energia-eletricidade-consumo-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare hábitos que economizam energia com práticas de desperdício no dia a dia"
+        ],
+        "respostaCorreta": "Compare hábitos que economizam energia com práticas de desperdício no dia a dia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Energia elétrica, consumo e sustentabilidade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -31,16 +31,397 @@
           "Analise qual mensagem ou reflexão pode estar sendo proposta."
         ],
         "resposta": "Esse exemplo mostra como a arte contemporânea pode unir materiais, espaço e ideia em uma mesma produção."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Arte contemporânea e múltiplas linguagens\".",
+        "passos": [
+          "A arte contemporânea reúne diferentes linguagens, materiais e formas de expressão",
+          "Nesse campo, a obra pode provocar reflexão, questionamento e participação do público",
+          "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas"
+        ],
+        "resposta": "Esse exemplo mostra como Arte contemporânea e múltiplas linguagens pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Arte contemporânea e múltiplas linguagens\".",
+        "passos": [
+          "Nesse campo, a obra pode provocar reflexão, questionamento e participação do público",
+          "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+          "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público"
+        ],
+        "resposta": "Esse exemplo mostra como Arte contemporânea e múltiplas linguagens pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Arte contemporânea e múltiplas linguagens\".",
+        "passos": [
+          "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+          "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público",
+          "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra"
+        ],
+        "resposta": "Esse exemplo mostra como Arte contemporânea e múltiplas linguagens pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Arte contemporânea e múltiplas linguagens\".",
+        "passos": [
+          "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público",
+          "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra",
+          "Pluralidade de linguagens"
+        ],
+        "resposta": "Esse exemplo mostra como Arte contemporânea e múltiplas linguagens pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"art9-arte-contemporanea-linguagens-ex-01","enunciado":"A arte contemporânea se caracteriza por:","tipo":"multipla_escolha","alternativas":["usar diferentes linguagens e formas de expressão","aceitar apenas pintura clássica","rejeitar qualquer tema atual","limitar-se a uma única técnica"],"respostaCorreta":"usar diferentes linguagens e formas de expressão","explicacao":"A arte contemporânea amplia materiais, linguagens e modos de criação artística.","dificuldade":"facil"},
-      {"id":"art9-arte-contemporanea-linguagens-ex-02","enunciado":"Uma instalação artística pode envolver:","tipo":"multipla_escolha","alternativas":["objetos, espaço e participação do público","somente frases sem forma visual","apenas exercícios matemáticos","somente regras gramaticais"],"respostaCorreta":"objetos, espaço e participação do público","explicacao":"A instalação é uma linguagem em que materiais e ambiente fazem parte da obra.","dificuldade":"facil"},
-      {"id":"art9-arte-contemporanea-linguagens-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A arte contemporânea pode dialogar com questões sociais e culturais.","Arte contemporânea não permite reflexão crítica.","Toda obra contemporânea segue o mesmo formato tradicional.","O público nunca participa da experiência artística."],"respostaCorreta":"A arte contemporânea pode dialogar com questões sociais e culturais.","explicacao":"Muitas obras contemporâneas abordam temas relevantes da vida em sociedade.","dificuldade":"medio"},
-      {"id":"art9-arte-contemporanea-linguagens-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["ampliar repertório cultural e leitura crítica de obras","decorar nomes sem interpretar produções artísticas","reduzir arte a um único padrão","ignorar relações entre arte e sociedade"],"respostaCorreta":"ampliar repertório cultural e leitura crítica de obras","explicacao":"O tema favorece análise, sensibilidade e compreensão de produções artísticas diversas.","dificuldade":"medio"}
+      {
+        "id": "art9-arte-contemporanea-linguagens-ex-01",
+        "enunciado": "A arte contemporânea se caracteriza por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar diferentes linguagens e formas de expressão",
+          "aceitar apenas pintura clássica",
+          "rejeitar qualquer tema atual",
+          "limitar-se a uma única técnica"
+        ],
+        "respostaCorreta": "usar diferentes linguagens e formas de expressão",
+        "explicacao": "A arte contemporânea amplia materiais, linguagens e modos de criação artística.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-ex-02",
+        "enunciado": "Uma instalação artística pode envolver:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "objetos, espaço e participação do público",
+          "somente frases sem forma visual",
+          "apenas exercícios matemáticos",
+          "somente regras gramaticais"
+        ],
+        "respostaCorreta": "objetos, espaço e participação do público",
+        "explicacao": "A instalação é uma linguagem em que materiais e ambiente fazem parte da obra.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A arte contemporânea pode dialogar com questões sociais e culturais.",
+          "Arte contemporânea não permite reflexão crítica.",
+          "Toda obra contemporânea segue o mesmo formato tradicional.",
+          "O público nunca participa da experiência artística."
+        ],
+        "respostaCorreta": "A arte contemporânea pode dialogar com questões sociais e culturais.",
+        "explicacao": "Muitas obras contemporâneas abordam temas relevantes da vida em sociedade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ampliar repertório cultural e leitura crítica de obras",
+          "decorar nomes sem interpretar produções artísticas",
+          "reduzir arte a um único padrão",
+          "ignorar relações entre arte e sociedade"
+        ],
+        "respostaCorreta": "ampliar repertório cultural e leitura crítica de obras",
+        "explicacao": "O tema favorece análise, sensibilidade e compreensão de produções artísticas diversas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Arte contemporânea e múltiplas linguagens\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A arte contemporânea reúne diferentes linguagens, materiais e formas de expressão",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A arte contemporânea reúne diferentes linguagens, materiais e formas de expressão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-02",
+        "enunciado": "Ao estudar \"Arte contemporânea e múltiplas linguagens\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Nesse campo, a obra pode provocar reflexão, questionamento e participação do público"
+        ],
+        "respostaCorreta": "Nesse campo, a obra pode provocar reflexão, questionamento e participação do público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-05",
+        "enunciado": "No contexto de \"Arte contemporânea e múltiplas linguagens\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-06",
+        "enunciado": "O estudo de \"Arte contemporânea e múltiplas linguagens\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender pluralidade de linguagens"
+        ],
+        "respostaCorreta": "compreender pluralidade de linguagens",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Muitas produções contemporâneas abordam temas como identidade, memória, consumo, desigualdade e meio ambiente. Por isso, analisar essas obras também é uma forma de refletir sobre questões da sociedade atual",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Muitas produções contemporâneas abordam temas como identidade, memória, consumo, desigualdade e meio ambiente. Por isso, analisar essas obras também é uma forma de refletir sobre questões da sociedade atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte o que a obra quer comunicar e quais sensações ou ideias ela desperta",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte o que a obra quer comunicar e quais sensações ou ideias ela desperta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender arte e reflexão social",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender arte e reflexão social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma instalação artística que utiliza objetos do cotidiano em um espaço expositivo"
+        ],
+        "respostaCorreta": "Observe uma instalação artística que utiliza objetos do cotidiano em um espaço expositivo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Arte contemporânea e múltiplas linguagens\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como a arte contemporânea pode unir materiais, espaço e ideia em uma mesma produção",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como a arte contemporânea pode unir materiais, espaço e ideia em uma mesma produção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-12",
+        "enunciado": "Ao estudar \"Arte contemporânea e múltiplas linguagens\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique os materiais utilizados",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique os materiais utilizados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como o espaço participa da obra",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como o espaço participa da obra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Analise qual mensagem ou reflexão pode estar sendo proposta"
+        ],
+        "respostaCorreta": "Analise qual mensagem ou reflexão pode estar sendo proposta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"art9-arte-contemporanea-linguagens-sim-01","enunciado":"A principal característica da arte contemporânea destacada nesse tema é:","tipo":"multipla_escolha","alternativas":["a diversidade de linguagens e possibilidades de reflexão","a obrigação de seguir uma técnica única","a recusa de qualquer tema social","a ausência de experimentação artística"],"respostaCorreta":"a diversidade de linguagens e possibilidades de reflexão","explicacao":"A arte contemporânea se destaca pela variedade de formas, materiais e sentidos produzidos.","dificuldade":"medio"}
+      {
+        "id": "art9-arte-contemporanea-linguagens-sim-01",
+        "enunciado": "A principal característica da arte contemporânea destacada nesse tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a diversidade de linguagens e possibilidades de reflexão",
+          "a obrigação de seguir uma técnica única",
+          "a recusa de qualquer tema social",
+          "a ausência de experimentação artística"
+        ],
+        "respostaCorreta": "a diversidade de linguagens e possibilidades de reflexão",
+        "explicacao": "A arte contemporânea se destaca pela variedade de formas, materiais e sentidos produzidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Arte contemporânea e múltiplas linguagens\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia o repertório cultural e a leitura crítica de produções artísticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Arte contemporânea e múltiplas linguagens\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público"
+        ],
+        "respostaCorreta": "A arte contemporânea pode envolver pintura, fotografia, instalação, performance, vídeo e outras linguagens. Essa diversidade mostra que a arte não se limita a técnicas tradicionais, mas se expande para diferentes formas de expressão e diálogo com o público",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe de que modo materiais, espaço e participação das pessoas podem fazer parte da obra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Arte contemporânea e múltiplas linguagens\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender pluralidade de linguagens",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender pluralidade de linguagens",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Muitas produções contemporâneas abordam temas como identidade, memória, consumo, desigualdade e meio ambiente. Por isso, analisar essas obras também é uma forma de refletir sobre questões da sociedade atual",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Muitas produções contemporâneas abordam temas como identidade, memória, consumo, desigualdade e meio ambiente. Por isso, analisar essas obras também é uma forma de refletir sobre questões da sociedade atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "art9-arte-contemporanea-linguagens-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte o que a obra quer comunicar e quais sensações ou ideias ela desperta"
+        ],
+        "respostaCorreta": "Pergunte o que a obra quer comunicar e quais sensações ou ideias ela desperta",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Arte contemporânea e múltiplas linguagens apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

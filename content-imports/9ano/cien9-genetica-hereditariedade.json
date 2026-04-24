@@ -30,16 +30,397 @@
           "Perceba que também existem diferenças individuais."
         ],
         "resposta": "Esse exemplo ajuda a compreender a relação entre hereditariedade e diversidade."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Genética e hereditariedade\".",
+        "passos": [
+          "A genética estuda a transmissão de características entre gerações",
+          "A hereditariedade ajuda a explicar semelhanças e diferenças entre os seres vivos",
+          "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento"
+        ],
+        "resposta": "Esse exemplo mostra como Genética e hereditariedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Genética e hereditariedade\".",
+        "passos": [
+          "A hereditariedade ajuda a explicar semelhanças e diferenças entre os seres vivos",
+          "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+          "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família"
+        ],
+        "resposta": "Esse exemplo mostra como Genética e hereditariedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Genética e hereditariedade\".",
+        "passos": [
+          "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+          "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família",
+          "Observe que herança biológica não significa repetição exata, mas transmissão de informações"
+        ],
+        "resposta": "Esse exemplo mostra como Genética e hereditariedade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Genética e hereditariedade\".",
+        "passos": [
+          "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família",
+          "Observe que herança biológica não significa repetição exata, mas transmissão de informações",
+          "Transmissão de características"
+        ],
+        "resposta": "Esse exemplo mostra como Genética e hereditariedade pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"cien9-genetica-hereditariedade-ex-01","enunciado":"A hereditariedade está relacionada à:","tipo":"multipla_escolha","alternativas":["transmissão de características entre gerações","mudança do clima em curto prazo","classificação de verbos em frases","localização de cidades no mapa"],"respostaCorreta":"transmissão de características entre gerações","explicacao":"Esse é o núcleo do estudo da herança biológica em genética.","dificuldade":"facil"},
-      {"id":"cien9-genetica-hereditariedade-ex-02","enunciado":"A genética ajuda a compreender:","tipo":"multipla_escolha","alternativas":["semelhanças e diferenças entre os seres vivos","somente o ciclo da água","apenas a formação das rochas","exclusivamente a pontuação dos textos"],"respostaCorreta":"semelhanças e diferenças entre os seres vivos","explicacao":"A genética explica como características são transmitidas e por que há variações biológicas.","dificuldade":"facil"},
-      {"id":"cien9-genetica-hereditariedade-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A hereditariedade ajuda a explicar traços compartilhados entre gerações.","Todos os indivíduos de uma família são biologicamente idênticos.","Genética não tem relação com diversidade biológica.","Características herdadas não variam entre os seres vivos."],"respostaCorreta":"A hereditariedade ajuda a explicar traços compartilhados entre gerações.","explicacao":"A transmissão de características está ligada à herança biológica observada em diferentes organismos.","dificuldade":"medio"},
-      {"id":"cien9-genetica-hereditariedade-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a diversidade e a herança biológica","pensar que todos os organismos são iguais","ignorar a transmissão de características","separar totalmente genética e vida cotidiana"],"respostaCorreta":"compreender melhor a diversidade e a herança biológica","explicacao":"O tema fortalece a compreensão científica sobre características, variações e transmissão biológica.","dificuldade":"medio"}
+      {
+        "id": "cien9-genetica-hereditariedade-ex-01",
+        "enunciado": "A hereditariedade está relacionada à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transmissão de características entre gerações",
+          "mudança do clima em curto prazo",
+          "classificação de verbos em frases",
+          "localização de cidades no mapa"
+        ],
+        "respostaCorreta": "transmissão de características entre gerações",
+        "explicacao": "Esse é o núcleo do estudo da herança biológica em genética.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-ex-02",
+        "enunciado": "A genética ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "semelhanças e diferenças entre os seres vivos",
+          "somente o ciclo da água",
+          "apenas a formação das rochas",
+          "exclusivamente a pontuação dos textos"
+        ],
+        "respostaCorreta": "semelhanças e diferenças entre os seres vivos",
+        "explicacao": "A genética explica como características são transmitidas e por que há variações biológicas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A hereditariedade ajuda a explicar traços compartilhados entre gerações.",
+          "Todos os indivíduos de uma família são biologicamente idênticos.",
+          "Genética não tem relação com diversidade biológica.",
+          "Características herdadas não variam entre os seres vivos."
+        ],
+        "respostaCorreta": "A hereditariedade ajuda a explicar traços compartilhados entre gerações.",
+        "explicacao": "A transmissão de características está ligada à herança biológica observada em diferentes organismos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor a diversidade e a herança biológica",
+          "pensar que todos os organismos são iguais",
+          "ignorar a transmissão de características",
+          "separar totalmente genética e vida cotidiana"
+        ],
+        "respostaCorreta": "compreender melhor a diversidade e a herança biológica",
+        "explicacao": "O tema fortalece a compreensão científica sobre características, variações e transmissão biológica.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Genética e hereditariedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A genética estuda a transmissão de características entre gerações",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A genética estuda a transmissão de características entre gerações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-02",
+        "enunciado": "Ao estudar \"Genética e hereditariedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A hereditariedade ajuda a explicar semelhanças e diferenças entre os seres vivos"
+        ],
+        "respostaCorreta": "A hereditariedade ajuda a explicar semelhanças e diferenças entre os seres vivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-05",
+        "enunciado": "No contexto de \"Genética e hereditariedade\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que herança biológica não significa repetição exata, mas transmissão de informações",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe que herança biológica não significa repetição exata, mas transmissão de informações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-06",
+        "enunciado": "O estudo de \"Genética e hereditariedade\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender transmissão de características"
+        ],
+        "respostaCorreta": "compreender transmissão de características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A genética também ajuda a compreender por que os seres vivos apresentam variações entre si. Essas diferenças fazem parte da diversidade biológica e estão ligadas aos mecanismos de herança",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A genética também ajuda a compreender por que os seres vivos apresentam variações entre si. Essas diferenças fazem parte da diversidade biológica e estão ligadas aos mecanismos de herança",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense em como semelhanças e diferenças podem coexistir dentro de um mesmo grupo familiar",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense em como semelhanças e diferenças podem coexistir dentro de um mesmo grupo familiar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender genética e diversidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender genética e diversidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma família em que algumas pessoas possuem características físicas semelhantes, mas não idênticas"
+        ],
+        "respostaCorreta": "Considere uma família em que algumas pessoas possuem características físicas semelhantes, mas não idênticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Genética e hereditariedade\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a relação entre hereditariedade e diversidade",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a relação entre hereditariedade e diversidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-12",
+        "enunciado": "Ao estudar \"Genética e hereditariedade\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe que há traços herdados entre gerações",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe que há traços herdados entre gerações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que também existem diferenças individuais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que também existem diferenças individuais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A genética estuda a transmissão de características entre gerações"
+        ],
+        "respostaCorreta": "A genética estuda a transmissão de características entre gerações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"cien9-genetica-hereditariedade-sim-01","enunciado":"A principal ideia desse tema é compreender que a genética:","tipo":"multipla_escolha","alternativas":["estuda a herança biológica e a diversidade dos seres vivos","se limita apenas a nomes científicos decorados","não tem relação com famílias ou gerações","explica apenas fenômenos geológicos"],"respostaCorreta":"estuda a herança biológica e a diversidade dos seres vivos","explicacao":"A genética ajuda a explicar tanto a transmissão de características quanto as variações entre organismos.","dificuldade":"medio"}
+      {
+        "id": "cien9-genetica-hereditariedade-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a genética:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "estuda a herança biológica e a diversidade dos seres vivos",
+          "se limita apenas a nomes científicos decorados",
+          "não tem relação com famílias ou gerações",
+          "explica apenas fenômenos geológicos"
+        ],
+        "respostaCorreta": "estuda a herança biológica e a diversidade dos seres vivos",
+        "explicacao": "A genética ajuda a explicar tanto a transmissão de características quanto as variações entre organismos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Genética e hereditariedade\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a compreensão sobre diversidade biológica e desenvolvimento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Genética e hereditariedade\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família"
+        ],
+        "respostaCorreta": "A hereditariedade está ligada à passagem de informações biológicas de uma geração para outra. Esse processo ajuda a explicar por que certas características aparecem em membros de uma mesma família",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe que herança biológica não significa repetição exata, mas transmissão de informações",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe que herança biológica não significa repetição exata, mas transmissão de informações",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Genética e hereditariedade\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender transmissão de características",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender transmissão de características",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A genética também ajuda a compreender por que os seres vivos apresentam variações entre si. Essas diferenças fazem parte da diversidade biológica e estão ligadas aos mecanismos de herança",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A genética também ajuda a compreender por que os seres vivos apresentam variações entre si. Essas diferenças fazem parte da diversidade biológica e estão ligadas aos mecanismos de herança",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien9-genetica-hereditariedade-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em como semelhanças e diferenças podem coexistir dentro de um mesmo grupo familiar"
+        ],
+        "respostaCorreta": "Pense em como semelhanças e diferenças podem coexistir dentro de um mesmo grupo familiar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Genética e hereditariedade apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "edf8-lutas-respeito-regras",
+    "titulo": "Lutas, respeito e regras",
+    "disciplinaId": "edf8",
+    "turmaId": "8ano",
+    "unidade": "Práticas corporais",
+    "resumo": [
+      "As lutas são práticas corporais com regras, técnicas e valores específicos.",
+      "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade.",
+      "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lutas como prática corporal",
+        "texto": "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites.",
+        "dica": "Observe a diferença entre prática corporal orientada e violência."
+      },
+      {
+        "subtitulo": "Ética e segurança",
+        "texto": "Nas lutas, o cuidado com o corpo, o respeito ao colega e o cumprimento das regras são essenciais. Esse aprendizado fortalece responsabilidade, autocontrole e convivência ética.",
+        "dica": "Pense em como regras e respeito tornam a prática mais segura e educativa."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere uma atividade em que dois colegas praticam movimentos orientados sob supervisão.",
+        "passos": [
+          "Observe a presença de regras e controle corporal.",
+          "Perceba que a prática depende de respeito entre os participantes."
+        ],
+        "resposta": "Esse exemplo mostra que a luta pode ser trabalhada como prática corporal educativa."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Lutas, respeito e regras\".",
+        "passos": [
+          "As lutas são práticas corporais com regras, técnicas e valores específicos",
+          "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade",
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas"
+        ],
+        "resposta": "Esse exemplo mostra como Lutas, respeito e regras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Lutas, respeito e regras\".",
+        "passos": [
+          "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade",
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+          "Lutas como prática corporal"
+        ],
+        "resposta": "Esse exemplo mostra como Lutas, respeito e regras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Lutas, respeito e regras\".",
+        "passos": [
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+          "Lutas como prática corporal",
+          "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites"
+        ],
+        "resposta": "Esse exemplo mostra como Lutas, respeito e regras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Lutas, respeito e regras\".",
+        "passos": [
+          "Lutas como prática corporal",
+          "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites",
+          "Observe a diferença entre prática corporal orientada e violência"
+        ],
+        "resposta": "Esse exemplo mostra como Lutas, respeito e regras pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "edf8-lutas-respeito-regras-ex-01",
+        "enunciado": "Nas lutas, um elemento fundamental é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "respeito às regras",
+          "agressividade sem controle",
+          "ausência de limites",
+          "desorganização corporal"
+        ],
+        "respostaCorreta": "respeito às regras",
+        "explicacao": "As lutas dependem de normas, cuidado e respeito entre os participantes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-ex-02",
+        "enunciado": "Qual valor é importante no estudo das lutas?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "autocontrole",
+          "impulsividade",
+          "desrespeito",
+          "indiferença"
+        ],
+        "respostaCorreta": "autocontrole",
+        "explicacao": "O autocontrole ajuda a praticar com responsabilidade e segurança.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lutas podem ser compreendidas como práticas corporais orientadas e educativas.",
+          "Toda luta é sinônimo de violência.",
+          "Lutas não exigem regras nem técnica.",
+          "Essas práticas não têm valor cultural."
+        ],
+        "respostaCorreta": "Lutas podem ser compreendidas como práticas corporais orientadas e educativas.",
+        "explicacao": "O estudo das lutas destaca técnica, cultura, respeito e controle corporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor regras, respeito e segurança nas lutas",
+          "reforçar preconceitos sobre essas práticas",
+          "confundir luta com agressão sem contexto",
+          "ignorar o cuidado corporal"
+        ],
+        "respostaCorreta": "compreender melhor regras, respeito e segurança nas lutas",
+        "explicacao": "O conteúdo amplia a leitura crítica e educativa das lutas como prática corporal.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As lutas são práticas corporais com regras, técnicas e valores específicos",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As lutas são práticas corporais com regras, técnicas e valores específicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade"
+        ],
+        "respostaCorreta": "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe a diferença entre prática corporal orientada e violência",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe a diferença entre prática corporal orientada e violência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nas lutas, o cuidado com o corpo, o respeito ao colega e o cumprimento das regras são essenciais. Esse aprendizado fortalece responsabilidade, autocontrole e convivência ética"
+        ],
+        "respostaCorreta": "Nas lutas, o cuidado com o corpo, o respeito ao colega e o cumprimento das regras são essenciais. Esse aprendizado fortalece responsabilidade, autocontrole e convivência ética",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em como regras e respeito tornam a prática mais segura e educativa",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pense em como regras e respeito tornam a prática mais segura e educativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma atividade em que dois colegas praticam movimentos orientados sob supervisão",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere uma atividade em que dois colegas praticam movimentos orientados sob supervisão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra que a luta pode ser trabalhada como prática corporal educativa",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que a luta pode ser trabalhada como prática corporal educativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a presença de regras e controle corporal"
+        ],
+        "respostaCorreta": "Observe a presença de regras e controle corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba que a prática depende de respeito entre os participantes",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Perceba que a prática depende de respeito entre os participantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As lutas são práticas corporais com regras, técnicas e valores específicos",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As lutas são práticas corporais com regras, técnicas e valores específicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Respeito, autocontrole e segurança são fundamentais nesse tipo de atividade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "edf8-lutas-respeito-regras-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que as lutas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "envolvem técnica, regras e respeito",
+          "dependem de agressão descontrolada",
+          "não têm relação com cultura",
+          "dispensam segurança e limites"
+        ],
+        "respostaCorreta": "envolvem técnica, regras e respeito",
+        "explicacao": "A abordagem educativa das lutas valoriza cultura corporal, controle e convivência ética.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a combater preconceitos e compreender melhor essas práticas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites"
+        ],
+        "respostaCorreta": "As lutas fazem parte de diferentes culturas e não se resumem à agressividade. Elas envolvem disciplina, técnica, respeito ao outro e compreensão de regras e limites",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a diferença entre prática corporal orientada e violência",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a diferença entre prática corporal orientada e violência",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nas lutas, o cuidado com o corpo, o respeito ao colega e o cumprimento das regras são essenciais. Esse aprendizado fortalece responsabilidade, autocontrole e convivência ética",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nas lutas, o cuidado com o corpo, o respeito ao colega e o cumprimento das regras são essenciais. Esse aprendizado fortalece responsabilidade, autocontrole e convivência ética",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em como regras e respeito tornam a prática mais segura e educativa",
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pense em como regras e respeito tornam a prática mais segura e educativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf8-lutas-respeito-regras-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de lutas, respeito e regras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Lutas, respeito e regras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com lutas, respeito e regras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere uma atividade em que dois colegas praticam movimentos orientados sob supervisão"
+        ],
+        "respostaCorreta": "Considere uma atividade em que dois colegas praticam movimentos orientados sob supervisão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Lutas, respeito e regras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

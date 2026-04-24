@@ -30,16 +30,397 @@
           "Perceba como redes econômicas e logísticas tornam esse processo possível."
         ],
         "resposta": "Esse exemplo mostra a relação entre globalização, redes e economia no mundo atual."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Globalização, redes e economia\".",
+        "passos": [
+          "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares",
+          "As redes técnicas e logísticas ajudam a integrar territórios em diferentes escalas",
+          "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização, redes e economia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Globalização, redes e economia\".",
+        "passos": [
+          "As redes técnicas e logísticas ajudam a integrar territórios em diferentes escalas",
+          "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+          "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização, redes e economia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Globalização, redes e economia\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+          "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos",
+          "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização, redes e economia pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Globalização, redes e economia\".",
+        "passos": [
+          "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos",
+          "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso",
+          "Integração e circulação"
+        ],
+        "resposta": "Esse exemplo mostra como Globalização, redes e economia pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-globalizacao-redes-economia-ex-01","enunciado":"A globalização intensifica principalmente:","tipo":"multipla_escolha","alternativas":["conexões entre diferentes lugares","o isolamento total dos territórios","a interrupção da circulação de informações","a eliminação de toda desigualdade"],"respostaCorreta":"conexões entre diferentes lugares","explicacao":"A globalização amplia fluxos e relações econômicas, culturais e informacionais entre espaços distintos.","dificuldade":"facil"},
-      {"id":"geo9-globalizacao-redes-economia-ex-02","enunciado":"As redes técnicas ajudam a:","tipo":"multipla_escolha","alternativas":["integrar territórios por meio de fluxos","eliminar todo transporte e comunicação","substituir o espaço geográfico","impedir relações econômicas"],"respostaCorreta":"integrar territórios por meio de fluxos","explicacao":"Transporte, comunicação e logística são fundamentais para a circulação no mundo globalizado.","dificuldade":"facil"},
-      {"id":"geo9-globalizacao-redes-economia-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A globalização integra territórios, mas também evidencia desigualdades.","Todos os lugares participam da globalização do mesmo modo.","A economia global não afeta o trabalho e o consumo.","As redes não interferem no espaço geográfico."],"respostaCorreta":"A globalização integra territórios, mas também evidencia desigualdades.","explicacao":"As conexões globais ampliam relações, mas o acesso às redes e aos benefícios da globalização é desigual.","dificuldade":"medio"},
-      {"id":"geo9-globalizacao-redes-economia-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender interdependências e contrastes do mundo contemporâneo","pensar que a economia atual funciona sem circulação","ignorar o papel das redes no território","separar completamente espaço e economia"],"respostaCorreta":"compreender interdependências e contrastes do mundo contemporâneo","explicacao":"O conteúdo aproxima circulação, economia, tecnologia e desigualdades no espaço geográfico atual.","dificuldade":"medio"}
+      {
+        "id": "geo9-globalizacao-redes-economia-ex-01",
+        "enunciado": "A globalização intensifica principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "conexões entre diferentes lugares",
+          "o isolamento total dos territórios",
+          "a interrupção da circulação de informações",
+          "a eliminação de toda desigualdade"
+        ],
+        "respostaCorreta": "conexões entre diferentes lugares",
+        "explicacao": "A globalização amplia fluxos e relações econômicas, culturais e informacionais entre espaços distintos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-ex-02",
+        "enunciado": "As redes técnicas ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "integrar territórios por meio de fluxos",
+          "eliminar todo transporte e comunicação",
+          "substituir o espaço geográfico",
+          "impedir relações econômicas"
+        ],
+        "respostaCorreta": "integrar territórios por meio de fluxos",
+        "explicacao": "Transporte, comunicação e logística são fundamentais para a circulação no mundo globalizado.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A globalização integra territórios, mas também evidencia desigualdades.",
+          "Todos os lugares participam da globalização do mesmo modo.",
+          "A economia global não afeta o trabalho e o consumo.",
+          "As redes não interferem no espaço geográfico."
+        ],
+        "respostaCorreta": "A globalização integra territórios, mas também evidencia desigualdades.",
+        "explicacao": "As conexões globais ampliam relações, mas o acesso às redes e aos benefícios da globalização é desigual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender interdependências e contrastes do mundo contemporâneo",
+          "pensar que a economia atual funciona sem circulação",
+          "ignorar o papel das redes no território",
+          "separar completamente espaço e economia"
+        ],
+        "respostaCorreta": "compreender interdependências e contrastes do mundo contemporâneo",
+        "explicacao": "O conteúdo aproxima circulação, economia, tecnologia e desigualdades no espaço geográfico atual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Globalização, redes e economia\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-02",
+        "enunciado": "Ao estudar \"Globalização, redes e economia\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "As redes técnicas e logísticas ajudam a integrar territórios em diferentes escalas"
+        ],
+        "respostaCorreta": "As redes técnicas e logísticas ajudam a integrar territórios em diferentes escalas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-05",
+        "enunciado": "No contexto de \"Globalização, redes e economia\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-06",
+        "enunciado": "O estudo de \"Globalização, redes e economia\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender integração e circulação"
+        ],
+        "respostaCorreta": "compreender integração e circulação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "No mundo globalizado, a economia envolve relações entre diferentes países, empresas e mercados. Isso afeta produção, consumo, trabalho e organização do espaço geográfico de forma complexa",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "No mundo globalizado, a economia envolve relações entre diferentes países, empresas e mercados. Isso afeta produção, consumo, trabalho e organização do espaço geográfico de forma complexa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como um produto, uma informação ou um serviço circula entre vários lugares",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como um produto, uma informação ou um serviço circula entre vários lugares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender economia em escala ampla",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender economia em escala ampla",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em um produto fabricado em um país, distribuído por outro e vendido em sua cidade"
+        ],
+        "respostaCorreta": "Pense em um produto fabricado em um país, distribuído por outro e vendido em sua cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Globalização, redes e economia\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra a relação entre globalização, redes e economia no mundo atual",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra a relação entre globalização, redes e economia no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-12",
+        "enunciado": "Ao estudar \"Globalização, redes e economia\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a circulação entre diferentes territórios",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a circulação entre diferentes territórios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como redes econômicas e logísticas tornam esse processo possível",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como redes econômicas e logísticas tornam esse processo possível",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares"
+        ],
+        "respostaCorreta": "A globalização intensifica conexões econômicas, informacionais e culturais entre diferentes lugares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-globalizacao-redes-economia-sim-01","enunciado":"A principal ideia desse tema é compreender que o mundo atual:","tipo":"multipla_escolha","alternativas":["funciona por redes e conexões que integram territórios, mas de forma desigual","é totalmente isolado entre países e regiões","não depende de circulação de mercadorias e informações","dispensa relações entre espaço e economia"],"respostaCorreta":"funciona por redes e conexões que integram territórios, mas de forma desigual","explicacao":"Globalização e redes ajudam a explicar integração espacial e também contrastes econômicos e sociais.","dificuldade":"medio"}
+      {
+        "id": "geo9-globalizacao-redes-economia-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o mundo atual:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "funciona por redes e conexões que integram territórios, mas de forma desigual",
+          "é totalmente isolado entre países e regiões",
+          "não depende de circulação de mercadorias e informações",
+          "dispensa relações entre espaço e economia"
+        ],
+        "respostaCorreta": "funciona por redes e conexões que integram territórios, mas de forma desigual",
+        "explicacao": "Globalização e redes ajudam a explicar integração espacial e também contrastes econômicos e sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Globalização, redes e economia\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desigualdades e interdependências do mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Globalização, redes e economia\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos"
+        ],
+        "respostaCorreta": "A globalização se apoia em redes de transporte, comunicação, tecnologia e finanças que aproximam lugares e intensificam fluxos de mercadorias, informações e pessoas. Essa integração, porém, não ocorre de modo igual para todos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como as redes conectam territórios, mas também podem revelar desigualdades de acesso",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Globalização, redes e economia\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender integração e circulação",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender integração e circulação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "No mundo globalizado, a economia envolve relações entre diferentes países, empresas e mercados. Isso afeta produção, consumo, trabalho e organização do espaço geográfico de forma complexa",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "No mundo globalizado, a economia envolve relações entre diferentes países, empresas e mercados. Isso afeta produção, consumo, trabalho e organização do espaço geográfico de forma complexa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-globalizacao-redes-economia-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como um produto, uma informação ou um serviço circula entre vários lugares"
+        ],
+        "respostaCorreta": "Pergunte como um produto, uma informação ou um serviço circula entre vários lugares",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Globalização, redes e economia apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

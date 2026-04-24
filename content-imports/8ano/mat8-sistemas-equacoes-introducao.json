@@ -1,0 +1,427 @@
+[
+  {
+    "id": "mat8-sistemas-equacoes-introducao",
+    "titulo": "Introdução aos sistemas de equações",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Álgebra",
+    "resumo": [
+      "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas.",
+      "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo.",
+      "A comparação entre as equações ajuda a identificar a solução."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "O que é um sistema",
+        "texto": "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema.",
+        "dica": "Verifique se o mesmo par de valores resolve as duas equações."
+      },
+      {
+        "subtitulo": "Leitura do problema",
+        "texto": "Muitos problemas do cotidiano podem ser representados por sistemas, especialmente quando há duas quantidades desconhecidas e duas relações entre elas.",
+        "dica": "Transforme as informações do enunciado em igualdades."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere o sistema x + y = 10 e x = 6.",
+        "passos": [
+          "Substitua x por 6 na primeira equação.",
+          "Resolva 6 + y = 10.",
+          "Encontre y = 4."
+        ],
+        "resposta": "A solução do sistema é x = 6 e y = 4."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução aos sistemas de equações\".",
+        "passos": [
+          "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas",
+          "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+          "A comparação entre as equações ajuda a identificar a solução"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos sistemas de equações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução aos sistemas de equações\".",
+        "passos": [
+          "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+          "A comparação entre as equações ajuda a identificar a solução",
+          "O que é um sistema"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos sistemas de equações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução aos sistemas de equações\".",
+        "passos": [
+          "A comparação entre as equações ajuda a identificar a solução",
+          "O que é um sistema",
+          "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos sistemas de equações pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução aos sistemas de equações\".",
+        "passos": [
+          "O que é um sistema",
+          "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema",
+          "Verifique se o mesmo par de valores resolve as duas equações"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução aos sistemas de equações pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-sistemas-equacoes-introducao-ex-01",
+        "enunciado": "Resolver um sistema de equações significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "encontrar valores que satisfaçam todas as equações",
+          "eliminar todos os números do problema",
+          "escolher qualquer valor para x",
+          "transformar a equação em desenho"
+        ],
+        "respostaCorreta": "encontrar valores que satisfaçam todas as equações",
+        "explicacao": "A solução precisa tornar verdadeiras todas as equações do sistema.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-ex-02",
+        "enunciado": "No sistema x + y = 8 e x = 3, o valor de y é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "5",
+          "3",
+          "8",
+          "11"
+        ],
+        "respostaCorreta": "5",
+        "explicacao": "Substituindo x por 3, temos 3 + y = 8, então y = 5.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-ex-03",
+        "enunciado": "Qual afirmação está correta sobre sistemas de equações?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A solução deve atender simultaneamente às equações do sistema.",
+          "Todo sistema tem três incógnitas obrigatoriamente.",
+          "Resolver um sistema é apenas copiar os números do enunciado.",
+          "Os sistemas não servem para representar problemas."
+        ],
+        "respostaCorreta": "A solução deve atender simultaneamente às equações do sistema.",
+        "explicacao": "Essa é a ideia central do estudo de sistemas de equações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-ex-04",
+        "enunciado": "Em problemas cotidianos, os sistemas de equações são úteis para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "relacionar duas quantidades desconhecidas",
+          "evitar qualquer cálculo",
+          "substituir todas as medidas por palavras",
+          "eliminar a interpretação do enunciado"
+        ],
+        "respostaCorreta": "relacionar duas quantidades desconhecidas",
+        "explicacao": "Os sistemas ajudam a organizar e resolver situações com duas relações matemáticas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo"
+        ],
+        "respostaCorreta": "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A comparação entre as equações ajuda a identificar a solução",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A comparação entre as equações ajuda a identificar a solução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Verifique se o mesmo par de valores resolve as duas equações",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Verifique se o mesmo par de valores resolve as duas equações",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Muitos problemas do cotidiano podem ser representados por sistemas, especialmente quando há duas quantidades desconhecidas e duas relações entre elas"
+        ],
+        "respostaCorreta": "Muitos problemas do cotidiano podem ser representados por sistemas, especialmente quando há duas quantidades desconhecidas e duas relações entre elas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Transforme as informações do enunciado em igualdades",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Transforme as informações do enunciado em igualdades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere o sistema x + y = 10 e x = 6",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere o sistema x + y = 10 e x = 6",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A solução do sistema é x = 6 e y = 4",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A solução do sistema é x = 6 e y = 4",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Substitua x por 6 na primeira equação"
+        ],
+        "respostaCorreta": "Substitua x por 6 na primeira equação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Um sistema de equações reúne duas ou mais equações com as mesmas incógnitas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Resolver um sistema é encontrar valores que satisfaçam todas as equações ao mesmo tempo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A comparação entre as equações ajuda a identificar a solução",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A comparação entre as equações ajuda a identificar a solução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema"
+        ],
+        "respostaCorreta": "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-sistemas-equacoes-introducao-sim-01",
+        "enunciado": "Se um par de valores resolve apenas uma das equações de um sistema, então ele:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "não é a solução completa do sistema",
+          "já resolve o sistema inteiro",
+          "sempre é a resposta correta",
+          "dispensa a verificação da outra equação"
+        ],
+        "respostaCorreta": "não é a solução completa do sistema",
+        "explicacao": "É preciso satisfazer todas as equações, e não apenas uma delas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A comparação entre as equações ajuda a identificar a solução",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A comparação entre as equações ajuda a identificar a solução",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema"
+        ],
+        "respostaCorreta": "Um sistema de equações do 1º grau relaciona duas informações matemáticas ao mesmo tempo. A solução deve tornar verdadeiras todas as equações do sistema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Verifique se o mesmo par de valores resolve as duas equações",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Verifique se o mesmo par de valores resolve as duas equações",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Muitos problemas do cotidiano podem ser representados por sistemas, especialmente quando há duas quantidades desconhecidas e duas relações entre elas",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Muitos problemas do cotidiano podem ser representados por sistemas, especialmente quando há duas quantidades desconhecidas e duas relações entre elas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Transforme as informações do enunciado em igualdades",
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Transforme as informações do enunciado em igualdades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-sistemas-equacoes-introducao-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução aos sistemas de equações se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução aos sistemas de equações pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução aos sistemas de equações dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere o sistema x + y = 10 e x = 6"
+        ],
+        "respostaCorreta": "Considere o sistema x + y = 10 e x = 6",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução aos sistemas de equações, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

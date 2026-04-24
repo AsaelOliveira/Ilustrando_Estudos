@@ -1,0 +1,427 @@
+[
+  {
+    "id": "hist8-independencia-americas",
+    "titulo": "Independências na América",
+    "disciplinaId": "hist8",
+    "turmaId": "8ano",
+    "unidade": "Mundo moderno e contemporâneo",
+    "resumo": [
+      "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas.",
+      "Ideias iluministas influenciaram muitos movimentos de emancipação.",
+      "Cada processo histórico teve características próprias e resultados distintos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Contexto das independências",
+        "texto": "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles.",
+        "dica": "Compare sempre as causas com o contexto de cada território."
+      },
+      {
+        "subtitulo": "Influências políticas",
+        "texto": "As ideias de liberdade, igualdade e representação política circularam no período e influenciaram grupos sociais que defendiam mudanças no poder colonial. Ainda assim, nem todos os grupos sociais participaram da mesma forma desses processos.",
+        "dica": "Observe quem liderou o movimento e quem ficou à margem dele."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Analise um movimento de independência que questiona o controle político da metrópole.",
+        "passos": [
+          "Identifique as reclamações contra o domínio colonial.",
+          "Observe as ideias políticas que circularam no período.",
+          "Perceba quais grupos sociais se beneficiaram mais do processo."
+        ],
+        "resposta": "As independências americanas precisam ser compreendidas a partir de seu contexto específico."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Independências na América\".",
+        "passos": [
+          "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas",
+          "Ideias iluministas influenciaram muitos movimentos de emancipação",
+          "Cada processo histórico teve características próprias e resultados distintos"
+        ],
+        "resposta": "Esse exemplo mostra como Independências na América pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Independências na América\".",
+        "passos": [
+          "Ideias iluministas influenciaram muitos movimentos de emancipação",
+          "Cada processo histórico teve características próprias e resultados distintos",
+          "Contexto das independências"
+        ],
+        "resposta": "Esse exemplo mostra como Independências na América pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Independências na América\".",
+        "passos": [
+          "Cada processo histórico teve características próprias e resultados distintos",
+          "Contexto das independências",
+          "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles"
+        ],
+        "resposta": "Esse exemplo mostra como Independências na América pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Independências na América\".",
+        "passos": [
+          "Contexto das independências",
+          "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles",
+          "Compare sempre as causas com o contexto de cada território"
+        ],
+        "resposta": "Esse exemplo mostra como Independências na América pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "hist8-independencia-americas-ex-01",
+        "enunciado": "As independências na América ocorreram:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "em contextos variados, com causas e resultados diferentes",
+          "de forma idêntica em todos os territórios",
+          "sem influência de ideias políticas",
+          "sem conflitos de poder"
+        ],
+        "respostaCorreta": "em contextos variados, com causas e resultados diferentes",
+        "explicacao": "Cada processo de independência teve características próprias, embora existam elementos em comum.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-ex-02",
+        "enunciado": "Uma influência importante em vários movimentos de independência foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o Iluminismo",
+          "a ausência de debates políticos",
+          "o fim de toda desigualdade social imediata",
+          "a eliminação de disputas econômicas"
+        ],
+        "respostaCorreta": "o Iluminismo",
+        "explicacao": "As ideias iluministas influenciaram discussões sobre liberdade e representação política.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Nem todos os grupos sociais participaram das independências do mesmo modo.",
+          "Todos os grupos tiveram os mesmos interesses políticos.",
+          "As metrópoles apoiaram plenamente todos os movimentos.",
+          "As independências acabaram imediatamente com todos os conflitos."
+        ],
+        "respostaCorreta": "Nem todos os grupos sociais participaram das independências do mesmo modo.",
+        "explicacao": "Os processos de independência envolveram disputas e interesses diferentes entre os grupos sociais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-ex-04",
+        "enunciado": "Estudar as independências americanas exige considerar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o contexto histórico de cada território",
+          "apenas uma causa única para todo o continente",
+          "somente a data final de cada processo",
+          "apenas o nome dos líderes"
+        ],
+        "respostaCorreta": "o contexto histórico de cada território",
+        "explicacao": "As independências foram diversas e precisam ser analisadas em seu contexto político e social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ideias iluministas influenciaram muitos movimentos de emancipação"
+        ],
+        "respostaCorreta": "Ideias iluministas influenciaram muitos movimentos de emancipação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada processo histórico teve características próprias e resultados distintos",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Cada processo histórico teve características próprias e resultados distintos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare sempre as causas com o contexto de cada território",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare sempre as causas com o contexto de cada território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As ideias de liberdade, igualdade e representação política circularam no período e influenciaram grupos sociais que defendiam mudanças no poder colonial. Ainda assim, nem todos os grupos sociais participaram da mesma forma desses processos"
+        ],
+        "respostaCorreta": "As ideias de liberdade, igualdade e representação política circularam no período e influenciaram grupos sociais que defendiam mudanças no poder colonial. Ainda assim, nem todos os grupos sociais participaram da mesma forma desses processos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe quem liderou o movimento e quem ficou à margem dele",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe quem liderou o movimento e quem ficou à margem dele",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise um movimento de independência que questiona o controle político da metrópole",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Analise um movimento de independência que questiona o controle político da metrópole",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As independências americanas precisam ser compreendidas a partir de seu contexto específico",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As independências americanas precisam ser compreendidas a partir de seu contexto específico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique as reclamações contra o domínio colonial"
+        ],
+        "respostaCorreta": "Identifique as reclamações contra o domínio colonial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe as ideias políticas que circularam no período",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe as ideias políticas que circularam no período",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceba quais grupos sociais se beneficiaram mais do processo",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Perceba quais grupos sociais se beneficiaram mais do processo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As independências na América ocorreram em contextos diferentes, mas tiveram relação com mudanças políticas e econômicas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ideias iluministas influenciaram muitos movimentos de emancipação"
+        ],
+        "respostaCorreta": "Ideias iluministas influenciaram muitos movimentos de emancipação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "hist8-independencia-americas-sim-01",
+        "enunciado": "Ao comparar diferentes independências na América, é correto concluir que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "houve semelhanças, mas também diferenças importantes entre os processos",
+          "todos os movimentos seguiram exatamente o mesmo roteiro",
+          "nenhuma ideia política circulou nesse período",
+          "os grupos sociais agiram sempre de forma unificada"
+        ],
+        "respostaCorreta": "houve semelhanças, mas também diferenças importantes entre os processos",
+        "explicacao": "A comparação histórica mostra elementos comuns e particularidades em cada experiência de emancipação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cada processo histórico teve características próprias e resultados distintos",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Cada processo histórico teve características próprias e resultados distintos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles"
+        ],
+        "respostaCorreta": "Os movimentos de independência na América não aconteceram todos do mesmo modo. Em várias regiões, houve insatisfação com o domínio colonial, cobrança de impostos e limitações políticas impostas pelas metrópoles",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare sempre as causas com o contexto de cada território",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare sempre as causas com o contexto de cada território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As ideias de liberdade, igualdade e representação política circularam no período e influenciaram grupos sociais que defendiam mudanças no poder colonial. Ainda assim, nem todos os grupos sociais participaram da mesma forma desses processos",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As ideias de liberdade, igualdade e representação política circularam no período e influenciaram grupos sociais que defendiam mudanças no poder colonial. Ainda assim, nem todos os grupos sociais participaram da mesma forma desses processos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe quem liderou o movimento e quem ficou à margem dele",
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe quem liderou o movimento e quem ficou à margem dele",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist8-independencia-americas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de independências na américa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Independências na américa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com independências na américa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Analise um movimento de independência que questiona o controle político da metrópole"
+        ],
+        "respostaCorreta": "Analise um movimento de independência que questiona o controle político da metrópole",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Independências na América, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

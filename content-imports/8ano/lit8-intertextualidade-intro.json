@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lit8-intertextualidade-intro",
+    "titulo": "Introdução à intertextualidade",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita.",
+      "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação.",
+      "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Textos em diálogo",
+        "texto": "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras.",
+        "dica": "Observe se o texto faz referência a outra obra, personagem ou situação conhecida."
+      },
+      {
+        "subtitulo": "Leitura comparativa",
+        "texto": "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica.",
+        "dica": "Pergunte o que muda quando um texto retoma outro em novo contexto."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia um texto que recria um conto tradicional em linguagem atual.",
+        "passos": [
+          "Identifique elementos que lembram a história original.",
+          "Observe como eles foram transformados na nova versão."
+        ],
+        "resposta": "Esse exemplo mostra uma forma de intertextualidade na literatura."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à intertextualidade\".",
+        "passos": [
+          "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita",
+          "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação",
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à intertextualidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à intertextualidade\".",
+        "passos": [
+          "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação",
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+          "Textos em diálogo"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à intertextualidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à intertextualidade\".",
+        "passos": [
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+          "Textos em diálogo",
+          "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à intertextualidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à intertextualidade\".",
+        "passos": [
+          "Textos em diálogo",
+          "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras",
+          "Observe se o texto faz referência a outra obra, personagem ou situação conhecida"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à intertextualidade pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "lit8-intertextualidade-intro-ex-01",
+        "enunciado": "A intertextualidade acontece quando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um texto dialoga com outro",
+          "todo texto elimina referências anteriores",
+          "uma obra surge sem relação com nenhuma outra",
+          "apenas uma palavra é repetida sem sentido"
+        ],
+        "respostaCorreta": "um texto dialoga com outro",
+        "explicacao": "Intertextualidade é a relação construída entre textos de formas variadas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-ex-02",
+        "enunciado": "Uma forma de intertextualidade pode aparecer por meio de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "referência ou recriação",
+          "ausência total de sentido",
+          "apagamento de toda memória cultural",
+          "eliminação de qualquer leitura comparativa"
+        ],
+        "respostaCorreta": "referência ou recriação",
+        "explicacao": "Textos podem dialogar por citação, adaptação, paródia, alusão e outras estratégias. ",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceber a intertextualidade amplia a interpretação e o repertório do leitor.",
+          "Todo texto deve ser lido sempre sem comparação alguma.",
+          "Intertextualidade não existe na literatura.",
+          "Textos não podem retomar personagens ou ideias de outras obras."
+        ],
+        "respostaCorreta": "Perceber a intertextualidade amplia a interpretação e o repertório do leitor.",
+        "explicacao": "Esse estudo ajuda a reconhecer como as obras dialogam e produzem novos sentidos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comparar obras e perceber novas camadas de sentido",
+          "ignorar referências culturais nos textos",
+          "achar que toda obra nasce isolada",
+          "reduzir a leitura a uma interpretação única e fechada"
+        ],
+        "respostaCorreta": "comparar obras e perceber novas camadas de sentido",
+        "explicacao": "A intertextualidade fortalece a leitura crítica e a percepção das relações entre produções culturais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação"
+        ],
+        "respostaCorreta": "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o texto faz referência a outra obra, personagem ou situação conhecida",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se o texto faz referência a outra obra, personagem ou situação conhecida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica"
+        ],
+        "respostaCorreta": "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte o que muda quando um texto retoma outro em novo contexto",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte o que muda quando um texto retoma outro em novo contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que recria um conto tradicional em linguagem atual",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia um texto que recria um conto tradicional em linguagem atual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra uma forma de intertextualidade na literatura",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra uma forma de intertextualidade na literatura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique elementos que lembram a história original"
+        ],
+        "respostaCorreta": "Identifique elementos que lembram a história original",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como eles foram transformados na nova versão",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como eles foram transformados na nova versão",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A intertextualidade ocorre quando um texto dialoga com outro de forma explícita ou implícita",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse diálogo pode aparecer por referência, adaptação, citação ou recriação",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "lit8-intertextualidade-intro-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que os textos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem dialogar entre si e produzir novos sentidos",
+          "funcionam sempre de forma isolada",
+          "não retomam referências culturais",
+          "dispensam comparação na leitura"
+        ],
+        "respostaCorreta": "podem dialogar entre si e produzir novos sentidos",
+        "explicacao": "A intertextualidade mostra que a leitura literária também envolve relações entre obras e contextos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a perceber relações entre obras e ampliar a interpretação literária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras"
+        ],
+        "respostaCorreta": "Nenhum texto circula completamente isolado. Em muitos casos, obras literárias e produções culturais retomam ideias, imagens, personagens ou estruturas de outros textos, criando novas leituras",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se o texto faz referência a outra obra, personagem ou situação conhecida",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se o texto faz referência a outra obra, personagem ou situação conhecida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Perceber a intertextualidade ajuda o leitor a identificar sentidos mais amplos e a compreender como diferentes textos conversam entre si. Esse processo amplia o repertório e a interpretação crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte o que muda quando um texto retoma outro em novo contexto",
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte o que muda quando um texto retoma outro em novo contexto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-intertextualidade-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à intertextualidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à intertextualidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à intertextualidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia um texto que recria um conto tradicional em linguagem atual"
+        ],
+        "respostaCorreta": "Leia um texto que recria um conto tradicional em linguagem atual",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à intertextualidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

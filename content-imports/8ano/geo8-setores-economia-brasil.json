@@ -1,0 +1,427 @@
+[
+  {
+    "id": "geo8-setores-economia-brasil",
+    "titulo": "Setores da economia no Brasil",
+    "disciplinaId": "geo8",
+    "turmaId": "8ano",
+    "unidade": "Espaço econômico brasileiro",
+    "resumo": [
+      "As atividades econômicas podem ser agrupadas em setores com funções diferentes.",
+      "Os setores primário, secundário e terciário participam da organização do espaço geográfico.",
+      "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Organização por setores",
+        "texto": "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços.",
+        "dica": "Associe cada setor ao tipo de atividade econômica que ele realiza."
+      },
+      {
+        "subtitulo": "Importância para o território",
+        "texto": "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território.",
+        "dica": "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense em uma fazenda, uma fábrica e um supermercado.",
+        "passos": [
+          "A fazenda se relaciona à produção primária.",
+          "A fábrica transforma matérias-primas.",
+          "O supermercado participa do comércio e da circulação de mercadorias."
+        ],
+        "resposta": "Esses três exemplos mostram a atuação dos diferentes setores da economia."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Setores da economia no Brasil\".",
+        "passos": [
+          "As atividades econômicas podem ser agrupadas em setores com funções diferentes",
+          "Os setores primário, secundário e terciário participam da organização do espaço geográfico",
+          "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas"
+        ],
+        "resposta": "Esse exemplo mostra como Setores da economia no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Setores da economia no Brasil\".",
+        "passos": [
+          "Os setores primário, secundário e terciário participam da organização do espaço geográfico",
+          "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+          "Organização por setores"
+        ],
+        "resposta": "Esse exemplo mostra como Setores da economia no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Setores da economia no Brasil\".",
+        "passos": [
+          "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+          "Organização por setores",
+          "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços"
+        ],
+        "resposta": "Esse exemplo mostra como Setores da economia no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Setores da economia no Brasil\".",
+        "passos": [
+          "Organização por setores",
+          "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços",
+          "Associe cada setor ao tipo de atividade econômica que ele realiza"
+        ],
+        "resposta": "Esse exemplo mostra como Setores da economia no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "geo8-setores-economia-brasil-ex-01",
+        "enunciado": "O setor primário está ligado principalmente a atividades de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "extração e produção de recursos naturais",
+          "comércio bancário exclusivamente",
+          "produção de textos escolares",
+          "organização de arquivos digitais"
+        ],
+        "respostaCorreta": "extração e produção de recursos naturais",
+        "explicacao": "Esse setor envolve atividades como agricultura, pecuária, pesca e extrativismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-ex-02",
+        "enunciado": "O setor secundário se caracteriza por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "transformar matérias-primas em produtos",
+          "realizar apenas atividades agrícolas",
+          "cuidar somente do turismo",
+          "eliminar a circulação de mercadorias"
+        ],
+        "respostaCorreta": "transformar matérias-primas em produtos",
+        "explicacao": "A indústria é um dos principais exemplos de atividade do setor secundário.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-ex-03",
+        "enunciado": "Qual alternativa apresenta um exemplo do setor terciário?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comércio e serviços",
+          "extração mineral",
+          "plantio agrícola",
+          "produção industrial de aço"
+        ],
+        "respostaCorreta": "comércio e serviços",
+        "explicacao": "O setor terciário reúne atividades como transporte, comércio, saúde, educação e outros serviços.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-ex-04",
+        "enunciado": "Estudar os setores da economia ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como produção, trabalho e circulação se organizam no território",
+          "apenas nomes de capitais estaduais",
+          "somente fenômenos astronômicos",
+          "exclusivamente regras gramaticais"
+        ],
+        "respostaCorreta": "como produção, trabalho e circulação se organizam no território",
+        "explicacao": "Os setores econômicos influenciam diretamente a organização do espaço geográfico.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As atividades econômicas podem ser agrupadas em setores com funções diferentes",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As atividades econômicas podem ser agrupadas em setores com funções diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os setores primário, secundário e terciário participam da organização do espaço geográfico"
+        ],
+        "respostaCorreta": "Os setores primário, secundário e terciário participam da organização do espaço geográfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe cada setor ao tipo de atividade econômica que ele realiza",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe cada setor ao tipo de atividade econômica que ele realiza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território"
+        ],
+        "respostaCorreta": "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma fazenda, uma fábrica e um supermercado",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense em uma fazenda, uma fábrica e um supermercado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esses três exemplos mostram a atuação dos diferentes setores da economia",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esses três exemplos mostram a atuação dos diferentes setores da economia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A fazenda se relaciona à produção primária"
+        ],
+        "respostaCorreta": "A fazenda se relaciona à produção primária",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A fábrica transforma matérias-primas",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "A fábrica transforma matérias-primas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O supermercado participa do comércio e da circulação de mercadorias",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O supermercado participa do comércio e da circulação de mercadorias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As atividades econômicas podem ser agrupadas em setores com funções diferentes",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As atividades econômicas podem ser agrupadas em setores com funções diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os setores primário, secundário e terciário participam da organização do espaço geográfico"
+        ],
+        "respostaCorreta": "Os setores primário, secundário e terciário participam da organização do espaço geográfico",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "geo8-setores-economia-brasil-sim-01",
+        "enunciado": "Ao comparar os setores primário, secundário e terciário, o estudante deve perceber que eles:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desempenham funções diferentes, mas se relacionam na economia",
+          "funcionam isoladamente e sem ligação",
+          "têm exatamente a mesma função",
+          "existem apenas nas grandes cidades"
+        ],
+        "respostaCorreta": "desempenham funções diferentes, mas se relacionam na economia",
+        "explicacao": "Os setores econômicos são distintos, porém articulados na produção e na circulação de riquezas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Entender esses setores ajuda a analisar trabalho, produção e circulação de riquezas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços"
+        ],
+        "respostaCorreta": "O setor primário está ligado à extração e à produção direta de recursos naturais. O setor secundário transforma matérias-primas em produtos. O setor terciário reúne comércio e serviços",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe cada setor ao tipo de atividade econômica que ele realiza",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe cada setor ao tipo de atividade econômica que ele realiza",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os setores da economia influenciam o espaço geográfico, o mercado de trabalho e a vida das cidades e do campo. Por isso, estudar economia também ajuda a compreender a organização do território",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano",
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe como produção, indústria, comércio e serviços se relacionam no cotidiano",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo8-setores-economia-brasil-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de setores da economia no brasil se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Setores da economia no brasil pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com setores da economia no brasil dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense em uma fazenda, uma fábrica e um supermercado"
+        ],
+        "respostaCorreta": "Pense em uma fazenda, uma fábrica e um supermercado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Setores da economia no Brasil, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

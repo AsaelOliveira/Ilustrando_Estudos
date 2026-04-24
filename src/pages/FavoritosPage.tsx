@@ -14,8 +14,8 @@ export default function FavoritosPage() {
           </div>
           <h1 className="mt-6 font-heading text-3xl font-bold text-foreground">Favoritos</h1>
           <p className="mt-3 max-w-xl font-body text-muted-foreground">
-            Esta ?rea foi separada para reunir temas, aulas e simulados salvos pelo aluno. A estrutura da rota j?
-            est? pronta e a p?gina fica isolada dentro da ?rea autenticada.
+            Esta área foi separada para reunir temas, aulas e simulados salvos pelo aluno. A estrutura da rota já
+            está pronta e a página fica isolada dentro da área autenticada.
           </p>
           <div className="mt-8 rounded-2xl border border-dashed border-border bg-background/70 p-6">
             <p className="font-heading text-lg font-semibold text-foreground">Nenhum favorito salvo ainda.</p>

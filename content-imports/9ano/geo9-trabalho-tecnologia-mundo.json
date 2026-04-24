@@ -31,16 +31,397 @@
           "Relacione a mudança a possíveis impactos sociais e espaciais."
         ],
         "resposta": "Esse tipo de análise mostra que tecnologia e trabalho transformam o espaço geográfico e a vida social."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Trabalho, tecnologia e transformações no mundo\".",
+        "passos": [
+          "As transformações tecnológicas modificam formas de trabalho e organização da produção",
+          "Mudanças no mundo do trabalho afetam cidades, regiões, consumo e desigualdades",
+          "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade"
+        ],
+        "resposta": "Esse exemplo mostra como Trabalho, tecnologia e transformações no mundo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Trabalho, tecnologia e transformações no mundo\".",
+        "passos": [
+          "Mudanças no mundo do trabalho afetam cidades, regiões, consumo e desigualdades",
+          "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+          "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias"
+        ],
+        "resposta": "Esse exemplo mostra como Trabalho, tecnologia e transformações no mundo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Trabalho, tecnologia e transformações no mundo\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+          "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias",
+          "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais"
+        ],
+        "resposta": "Esse exemplo mostra como Trabalho, tecnologia e transformações no mundo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Trabalho, tecnologia e transformações no mundo\".",
+        "passos": [
+          "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias",
+          "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais",
+          "Tecnologia e reorganização produtiva"
+        ],
+        "resposta": "Esse exemplo mostra como Trabalho, tecnologia e transformações no mundo pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-trabalho-tecnologia-mundo-ex-01","enunciado":"As transformações tecnológicas podem alterar:","tipo":"multipla_escolha","alternativas":["formas de trabalho e produção","apenas a ortografia das palavras","somente a cor dos mapas","unicamente os nomes dos países"],"respostaCorreta":"formas de trabalho e produção","explicacao":"Tecnologia e inovação influenciam diretamente a organização econômica e laboral.","dificuldade":"facil"},
-      {"id":"geo9-trabalho-tecnologia-mundo-ex-02","enunciado":"O estudo desse tema envolve a relação entre:","tipo":"multipla_escolha","alternativas":["economia, território e sociedade","pontuação, acentuação e sílabas","apenas clima e vegetação","somente tradições literárias"],"respostaCorreta":"economia, território e sociedade","explicacao":"A geografia do trabalho analisa como processos econômicos transformam o espaço e afetam a vida social.","dificuldade":"facil"},
-      {"id":"geo9-trabalho-tecnologia-mundo-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Mudanças tecnológicas podem gerar efeitos diferentes em cada região.","Toda transformação tecnológica beneficia igualmente todos os grupos sociais.","Tecnologia e trabalho não têm impacto territorial.","Desigualdade não se relaciona ao mundo do trabalho."],"respostaCorreta":"Mudanças tecnológicas podem gerar efeitos diferentes em cada região.","explicacao":"Os impactos variam conforme investimentos, infraestrutura, qualificação e condições sociais de cada lugar.","dificuldade":"medio"},
-      {"id":"geo9-trabalho-tecnologia-mundo-ex-04","enunciado":"Estudar esse tema ajuda a compreender:","tipo":"multipla_escolha","alternativas":["como tecnologia, produção e trabalho transformam a sociedade","apenas listas de profissões sem contexto","o espaço geográfico sem relação com a economia","mudanças sociais sem nenhuma base material"],"respostaCorreta":"como tecnologia, produção e trabalho transformam a sociedade","explicacao":"O tema integra aspectos econômicos, sociais e espaciais das transformações contemporâneas.","dificuldade":"medio"}
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-ex-01",
+        "enunciado": "As transformações tecnológicas podem alterar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "formas de trabalho e produção",
+          "apenas a ortografia das palavras",
+          "somente a cor dos mapas",
+          "unicamente os nomes dos países"
+        ],
+        "respostaCorreta": "formas de trabalho e produção",
+        "explicacao": "Tecnologia e inovação influenciam diretamente a organização econômica e laboral.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-ex-02",
+        "enunciado": "O estudo desse tema envolve a relação entre:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "economia, território e sociedade",
+          "pontuação, acentuação e sílabas",
+          "apenas clima e vegetação",
+          "somente tradições literárias"
+        ],
+        "respostaCorreta": "economia, território e sociedade",
+        "explicacao": "A geografia do trabalho analisa como processos econômicos transformam o espaço e afetam a vida social.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Mudanças tecnológicas podem gerar efeitos diferentes em cada região.",
+          "Toda transformação tecnológica beneficia igualmente todos os grupos sociais.",
+          "Tecnologia e trabalho não têm impacto territorial.",
+          "Desigualdade não se relaciona ao mundo do trabalho."
+        ],
+        "respostaCorreta": "Mudanças tecnológicas podem gerar efeitos diferentes em cada região.",
+        "explicacao": "Os impactos variam conforme investimentos, infraestrutura, qualificação e condições sociais de cada lugar.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-ex-04",
+        "enunciado": "Estudar esse tema ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como tecnologia, produção e trabalho transformam a sociedade",
+          "apenas listas de profissões sem contexto",
+          "o espaço geográfico sem relação com a economia",
+          "mudanças sociais sem nenhuma base material"
+        ],
+        "respostaCorreta": "como tecnologia, produção e trabalho transformam a sociedade",
+        "explicacao": "O tema integra aspectos econômicos, sociais e espaciais das transformações contemporâneas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Trabalho, tecnologia e transformações no mundo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As transformações tecnológicas modificam formas de trabalho e organização da produção",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "As transformações tecnológicas modificam formas de trabalho e organização da produção",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-02",
+        "enunciado": "Ao estudar \"Trabalho, tecnologia e transformações no mundo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Mudanças no mundo do trabalho afetam cidades, regiões, consumo e desigualdades"
+        ],
+        "respostaCorreta": "Mudanças no mundo do trabalho afetam cidades, regiões, consumo e desigualdades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-05",
+        "enunciado": "No contexto de \"Trabalho, tecnologia e transformações no mundo\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-06",
+        "enunciado": "O estudo de \"Trabalho, tecnologia e transformações no mundo\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender tecnologia e reorganização produtiva"
+        ],
+        "respostaCorreta": "compreender tecnologia e reorganização produtiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "As mudanças no trabalho não acontecem da mesma forma em todos os lugares. Algumas regiões concentram investimentos e tecnologia, enquanto outras enfrentam mais precarização, desemprego ou exclusão de oportunidades",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "As mudanças no trabalho não acontecem da mesma forma em todos os lugares. Algumas regiões concentram investimentos e tecnologia, enquanto outras enfrentam mais precarização, desemprego ou exclusão de oportunidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Procure relacionar transformações econômicas com seus impactos sociais e territoriais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Procure relacionar transformações econômicas com seus impactos sociais e territoriais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender trabalho, espaço e desigualdade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender trabalho, espaço e desigualdade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Analise uma situação em que a automação altera a forma de produção em uma empresa ou setor econômico"
+        ],
+        "respostaCorreta": "Analise uma situação em que a automação altera a forma de produção em uma empresa ou setor econômico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Trabalho, tecnologia e transformações no mundo\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de análise mostra que tecnologia e trabalho transformam o espaço geográfico e a vida social",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de análise mostra que tecnologia e trabalho transformam o espaço geográfico e a vida social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-12",
+        "enunciado": "Ao estudar \"Trabalho, tecnologia e transformações no mundo\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique qual tecnologia foi incorporada",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique qual tecnologia foi incorporada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o trabalho foi reorganizado",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe como o trabalho foi reorganizado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione a mudança a possíveis impactos sociais e espaciais"
+        ],
+        "respostaCorreta": "Relacione a mudança a possíveis impactos sociais e espaciais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-trabalho-tecnologia-mundo-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["as mudanças tecnológicas reorganizam o trabalho e produzem efeitos sociais e territoriais","tecnologia não interfere na economia nem no espaço geográfico","o mundo do trabalho permanece igual em todos os lugares","produção e território não se relacionam"],"respostaCorreta":"as mudanças tecnológicas reorganizam o trabalho e produzem efeitos sociais e territoriais","explicacao":"O tema mostra como inovação, economia e sociedade se articulam na produção do espaço.","dificuldade":"medio"}
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "as mudanças tecnológicas reorganizam o trabalho e produzem efeitos sociais e territoriais",
+          "tecnologia não interfere na economia nem no espaço geográfico",
+          "o mundo do trabalho permanece igual em todos os lugares",
+          "produção e território não se relacionam"
+        ],
+        "respostaCorreta": "as mudanças tecnológicas reorganizam o trabalho e produzem efeitos sociais e territoriais",
+        "explicacao": "O tema mostra como inovação, economia e sociedade se articulam na produção do espaço.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Trabalho, tecnologia e transformações no mundo\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações entre economia, território e sociedade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Trabalho, tecnologia e transformações no mundo\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias"
+        ],
+        "respostaCorreta": "O avanço tecnológico alterou processos produtivos, meios de comunicação e formas de circulação de mercadorias. Isso mudou a dinâmica do trabalho em diferentes setores e ampliou conexões entre lugares e economias",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como novas tecnologias podem aumentar a produtividade, mas também gerar mudanças nas exigências profissionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Trabalho, tecnologia e transformações no mundo\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender tecnologia e reorganização produtiva",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender tecnologia e reorganização produtiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As mudanças no trabalho não acontecem da mesma forma em todos os lugares. Algumas regiões concentram investimentos e tecnologia, enquanto outras enfrentam mais precarização, desemprego ou exclusão de oportunidades",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "As mudanças no trabalho não acontecem da mesma forma em todos os lugares. Algumas regiões concentram investimentos e tecnologia, enquanto outras enfrentam mais precarização, desemprego ou exclusão de oportunidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-trabalho-tecnologia-mundo-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Procure relacionar transformações econômicas com seus impactos sociais e territoriais"
+        ],
+        "respostaCorreta": "Procure relacionar transformações econômicas com seus impactos sociais e territoriais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Trabalho, tecnologia e transformações no mundo apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

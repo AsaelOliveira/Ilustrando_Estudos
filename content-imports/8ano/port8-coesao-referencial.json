@@ -1,0 +1,426 @@
+[
+  {
+    "id": "port8-coesao-referencial",
+    "titulo": "Coesão referencial",
+    "disciplinaId": "port8",
+    "turmaId": "8ano",
+    "unidade": "Leitura e produção textual",
+    "resumo": [
+      "A coesão referencial evita repetições desnecessárias no texto.",
+      "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas.",
+      "Esse recurso contribui para a clareza e a continuidade do sentido."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Retomada de informações",
+        "texto": "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas.",
+        "dica": "Observe a que palavra um pronome está se referindo."
+      },
+      {
+        "subtitulo": "Clareza textual",
+        "texto": "Quando a retomada é bem feita, o leitor entende com facilidade quem pratica a ação ou a que ideia o texto se refere. Quando é mal usada, o texto pode ficar confuso.",
+        "dica": "Leia o período inteiro para confirmar se a referência ficou clara."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'Marina comprou um livro. Ela começou a leitura no mesmo dia.'",
+        "passos": [
+          "Identifique o termo que aparece primeiro: 'Marina'.",
+          "Observe que 'Ela' retoma a mesma pessoa no segundo período."
+        ],
+        "resposta": "O pronome 'Ela' estabelece uma relação de coesão referencial com 'Marina'."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Coesão referencial\".",
+        "passos": [
+          "A coesão referencial evita repetições desnecessárias no texto",
+          "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas",
+          "Esse recurso contribui para a clareza e a continuidade do sentido"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão referencial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Coesão referencial\".",
+        "passos": [
+          "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas",
+          "Esse recurso contribui para a clareza e a continuidade do sentido",
+          "Retomada de informações"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão referencial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Coesão referencial\".",
+        "passos": [
+          "Esse recurso contribui para a clareza e a continuidade do sentido",
+          "Retomada de informações",
+          "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão referencial pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Coesão referencial\".",
+        "passos": [
+          "Retomada de informações",
+          "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas",
+          "Observe a que palavra um pronome está se referindo"
+        ],
+        "resposta": "Esse exemplo mostra como Coesão referencial pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "port8-coesao-referencial-ex-01",
+        "enunciado": "A coesão referencial tem como função principal:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "retomar informações no texto",
+          "eliminar todos os pronomes",
+          "substituir o tema principal",
+          "separar frases sem relação"
+        ],
+        "respostaCorreta": "retomar informações no texto",
+        "explicacao": "Esse recurso liga partes do texto ao retomar termos e ideias já apresentados.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-ex-02",
+        "enunciado": "Na frase 'João chegou cedo. Ele organizou a sala.', o termo 'Ele' retoma:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "João",
+          "cedo",
+          "sala",
+          "organizou"
+        ],
+        "respostaCorreta": "João",
+        "explicacao": "O pronome 'Ele' faz referência ao nome citado anteriormente, que é 'João'.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-ex-03",
+        "enunciado": "Qual alternativa apresenta um uso adequado de coesão referencial?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A professora explicou o conteúdo. Ela tirou as dúvidas da turma.",
+          "A professora explicou o conteúdo. Conteúdo professora dúvidas.",
+          "A professora explicou o conteúdo. Eles conteúdo professora.",
+          "A professora explicou o conteúdo. Porque sala conteúdo."
+        ],
+        "respostaCorreta": "A professora explicou o conteúdo. Ela tirou as dúvidas da turma.",
+        "explicacao": "O pronome 'Ela' retoma corretamente 'A professora' e mantém o texto claro.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-ex-04",
+        "enunciado": "Quando a coesão referencial é mal empregada, o texto pode ficar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "confuso",
+          "musical",
+          "mais curto",
+          "colorido"
+        ],
+        "respostaCorreta": "confuso",
+        "explicacao": "Se o leitor não entende a referência, a compreensão do texto fica prejudicada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A coesão referencial evita repetições desnecessárias no texto",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A coesão referencial evita repetições desnecessárias no texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas"
+        ],
+        "respostaCorreta": "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse recurso contribui para a clareza e a continuidade do sentido",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse recurso contribui para a clareza e a continuidade do sentido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe a que palavra um pronome está se referindo",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe a que palavra um pronome está se referindo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando a retomada é bem feita, o leitor entende com facilidade quem pratica a ação ou a que ideia o texto se refere. Quando é mal usada, o texto pode ficar confuso"
+        ],
+        "respostaCorreta": "Quando a retomada é bem feita, o leitor entende com facilidade quem pratica a ação ou a que ideia o texto se refere. Quando é mal usada, o texto pode ficar confuso",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia o período inteiro para confirmar se a referência ficou clara",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Leia o período inteiro para confirmar se a referência ficou clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Marina comprou um livro. Ela começou a leitura no mesmo dia.'",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'Marina comprou um livro. Ela começou a leitura no mesmo dia.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O pronome 'Ela' estabelece uma relação de coesão referencial com 'Marina'",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O pronome 'Ela' estabelece uma relação de coesão referencial com 'Marina'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o termo que aparece primeiro: 'Marina'"
+        ],
+        "respostaCorreta": "Identifique o termo que aparece primeiro: 'Marina'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que 'Ela' retoma a mesma pessoa no segundo período",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que 'Ela' retoma a mesma pessoa no segundo período",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão referencial evita repetições desnecessárias no texto",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A coesão referencial evita repetições desnecessárias no texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pronomes e expressões equivalentes ajudam a retomar ideias já apresentadas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse recurso contribui para a clareza e a continuidade do sentido"
+        ],
+        "respostaCorreta": "Esse recurso contribui para a clareza e a continuidade do sentido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "port8-coesao-referencial-sim-01",
+        "enunciado": "Em um texto bem escrito, a coesão referencial contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a continuidade das ideias",
+          "a retirada de informações",
+          "a troca do assunto central",
+          "a ausência de conectivos e pronomes"
+        ],
+        "respostaCorreta": "a continuidade das ideias",
+        "explicacao": "A retomada adequada de termos ajuda o texto a avançar com clareza e unidade de sentido.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse recurso contribui para a clareza e a continuidade do sentido",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse recurso contribui para a clareza e a continuidade do sentido",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas"
+        ],
+        "respostaCorreta": "A coesão referencial ocorre quando uma palavra ou expressão retoma outra já mencionada no texto. Isso ajuda a manter a ligação entre as partes e evita repetições excessivas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a que palavra um pronome está se referindo",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a que palavra um pronome está se referindo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando a retomada é bem feita, o leitor entende com facilidade quem pratica a ação ou a que ideia o texto se refere. Quando é mal usada, o texto pode ficar confuso",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando a retomada é bem feita, o leitor entende com facilidade quem pratica a ação ou a que ideia o texto se refere. Quando é mal usada, o texto pode ficar confuso",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leia o período inteiro para confirmar se a referência ficou clara",
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Leia o período inteiro para confirmar se a referência ficou clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port8-coesao-referencial-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de coesão referencial se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Coesão referencial pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com coesão referencial dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'Marina comprou um livro. Ela começou a leitura no mesmo dia.'"
+        ],
+        "respostaCorreta": "Leia: 'Marina comprou um livro. Ela começou a leitura no mesmo dia.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Coesão referencial, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

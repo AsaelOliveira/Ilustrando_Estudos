@@ -31,16 +31,397 @@
           "Analise como a citação reforça o argumento do autor."
         ],
         "resposta": "Esse exemplo mostra que a citação pode fortalecer a argumentação quando é bem articulada ao texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Discurso, citação e argumentação\".",
+        "passos": [
+          "Citações e diferentes formas de discurso podem fortalecer a argumentação em um texto",
+          "O uso adequado da voz de outras pessoas exige clareza, contexto e responsabilidade",
+          "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso, citação e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Discurso, citação e argumentação\".",
+        "passos": [
+          "O uso adequado da voz de outras pessoas exige clareza, contexto e responsabilidade",
+          "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+          "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso, citação e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Discurso, citação e argumentação\".",
+        "passos": [
+          "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+          "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido",
+          "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso, citação e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Discurso, citação e argumentação\".",
+        "passos": [
+          "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido",
+          "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto",
+          "Uso de vozes no texto"
+        ],
+        "resposta": "Esse exemplo mostra como Discurso, citação e argumentação pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"port9-discurso-citacao-argumentacao-ex-01","enunciado":"Em um texto argumentativo, uma citação pode servir para:","tipo":"multipla_escolha","alternativas":["fortalecer a defesa de uma ideia","substituir totalmente a opinião do autor","eliminar a necessidade de coerência","dispensar a organização do texto"],"respostaCorreta":"fortalecer a defesa de uma ideia","explicacao":"A citação pode funcionar como apoio ao ponto de vista defendido no texto.","dificuldade":"facil"},
-      {"id":"port9-discurso-citacao-argumentacao-ex-02","enunciado":"Uma citação é mais adequada quando:","tipo":"multipla_escolha","alternativas":["tem relação clara com o argumento apresentado","aparece sem explicação e sem contexto","é usada apenas para ocupar espaço","contradiz totalmente o texto sem análise"],"respostaCorreta":"tem relação clara com o argumento apresentado","explicacao":"A citação precisa dialogar com a tese e com o desenvolvimento do texto.","dificuldade":"facil"},
-      {"id":"port9-discurso-citacao-argumentacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Citações ajudam na argumentação, mas não substituem a análise do autor.","Citar uma fonte dispensa qualquer explicação posterior.","A voz do autor deixa de existir quando uma citação aparece.","Toda citação fortalece um texto automaticamente, mesmo sem contexto."],"respostaCorreta":"Citações ajudam na argumentação, mas não substituem a análise do autor.","explicacao":"O autor continua responsável por interpretar e articular a informação usada como apoio.","dificuldade":"medio"},
-      {"id":"port9-discurso-citacao-argumentacao-ex-04","enunciado":"Ao usar a voz de outra pessoa em um texto, é importante:","tipo":"multipla_escolha","alternativas":["explicar a relação entre a citação e a tese","deixar o leitor adivinhar o motivo da citação","usar qualquer fala sem verificar o contexto","substituir todos os argumentos por trechos copiados"],"respostaCorreta":"explicar a relação entre a citação e a tese","explicacao":"A interpretação da citação é essencial para a construção do texto argumentativo.","dificuldade":"medio"}
+      {
+        "id": "port9-discurso-citacao-argumentacao-ex-01",
+        "enunciado": "Em um texto argumentativo, uma citação pode servir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fortalecer a defesa de uma ideia",
+          "substituir totalmente a opinião do autor",
+          "eliminar a necessidade de coerência",
+          "dispensar a organização do texto"
+        ],
+        "respostaCorreta": "fortalecer a defesa de uma ideia",
+        "explicacao": "A citação pode funcionar como apoio ao ponto de vista defendido no texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-ex-02",
+        "enunciado": "Uma citação é mais adequada quando:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tem relação clara com o argumento apresentado",
+          "aparece sem explicação e sem contexto",
+          "é usada apenas para ocupar espaço",
+          "contradiz totalmente o texto sem análise"
+        ],
+        "respostaCorreta": "tem relação clara com o argumento apresentado",
+        "explicacao": "A citação precisa dialogar com a tese e com o desenvolvimento do texto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Citações ajudam na argumentação, mas não substituem a análise do autor.",
+          "Citar uma fonte dispensa qualquer explicação posterior.",
+          "A voz do autor deixa de existir quando uma citação aparece.",
+          "Toda citação fortalece um texto automaticamente, mesmo sem contexto."
+        ],
+        "respostaCorreta": "Citações ajudam na argumentação, mas não substituem a análise do autor.",
+        "explicacao": "O autor continua responsável por interpretar e articular a informação usada como apoio.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-ex-04",
+        "enunciado": "Ao usar a voz de outra pessoa em um texto, é importante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "explicar a relação entre a citação e a tese",
+          "deixar o leitor adivinhar o motivo da citação",
+          "usar qualquer fala sem verificar o contexto",
+          "substituir todos os argumentos por trechos copiados"
+        ],
+        "respostaCorreta": "explicar a relação entre a citação e a tese",
+        "explicacao": "A interpretação da citação é essencial para a construção do texto argumentativo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Discurso, citação e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Citações e diferentes formas de discurso podem fortalecer a argumentação em um texto",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Citações e diferentes formas de discurso podem fortalecer a argumentação em um texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-02",
+        "enunciado": "Ao estudar \"Discurso, citação e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O uso adequado da voz de outras pessoas exige clareza, contexto e responsabilidade"
+        ],
+        "respostaCorreta": "O uso adequado da voz de outras pessoas exige clareza, contexto e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-05",
+        "enunciado": "No contexto de \"Discurso, citação e argumentação\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-06",
+        "enunciado": "O estudo de \"Discurso, citação e argumentação\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender uso de vozes no texto"
+        ],
+        "respostaCorreta": "compreender uso de vozes no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Uma citação não substitui a argumentação do autor. Ela funciona como apoio e precisa ser interpretada, explicada e articulada ao ponto de vista defendido, para que o texto mantenha coerência e força argumentativa",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Uma citação não substitui a argumentação do autor. Ela funciona como apoio e precisa ser interpretada, explicada e articulada ao ponto de vista defendido, para que o texto mantenha coerência e força argumentativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Depois de citar uma fonte, explique por que ela é importante para o argumento apresentado",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Depois de citar uma fonte, explique por que ela é importante para o argumento apresentado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender relação entre citação e argumento",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender relação entre citação e argumento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Leia um trecho em que o autor apresenta uma opinião e, em seguida, cita uma pesquisa para sustentá-la"
+        ],
+        "respostaCorreta": "Leia um trecho em que o autor apresenta uma opinião e, em seguida, cita uma pesquisa para sustentá-la",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Discurso, citação e argumentação\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que a citação pode fortalecer a argumentação quando é bem articulada ao texto",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que a citação pode fortalecer a argumentação quando é bem articulada ao texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-12",
+        "enunciado": "Ao estudar \"Discurso, citação e argumentação\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique a tese defendida no texto",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique a tese defendida no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe qual informação da pesquisa foi usada",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe qual informação da pesquisa foi usada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Analise como a citação reforça o argumento do autor"
+        ],
+        "respostaCorreta": "Analise como a citação reforça o argumento do autor",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"port9-discurso-citacao-argumentacao-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["usar citações com clareza e análise fortalece a argumentação","citar fontes dispensa qualquer ponto de vista próprio","todo texto precisa apenas de citações para convencer","a argumentação perde importância quando há discurso citado"],"respostaCorreta":"usar citações com clareza e análise fortalece a argumentação","explicacao":"O uso de outras vozes no texto só é produtivo quando dialoga com a tese e é interpretado pelo autor.","dificuldade":"medio"}
+      {
+        "id": "port9-discurso-citacao-argumentacao-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar citações com clareza e análise fortalece a argumentação",
+          "citar fontes dispensa qualquer ponto de vista próprio",
+          "todo texto precisa apenas de citações para convencer",
+          "a argumentação perde importância quando há discurso citado"
+        ],
+        "respostaCorreta": "usar citações com clareza e análise fortalece a argumentação",
+        "explicacao": "O uso de outras vozes no texto só é produtivo quando dialoga com a tese e é interpretado pelo autor.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Discurso, citação e argumentação\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a construir textos mais consistentes e bem fundamentados",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Discurso, citação e argumentação\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido"
+        ],
+        "respostaCorreta": "Em textos argumentativos, o autor pode incorporar falas, opiniões e referências de outras pessoas para sustentar sua tese. Isso amplia a credibilidade do texto, desde que as citações sejam bem integradas ao contexto e ao raciocínio desenvolvido",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Ao usar uma citação, pergunte se ela realmente contribui para defender a ideia central do texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Discurso, citação e argumentação\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender uso de vozes no texto",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender uso de vozes no texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Uma citação não substitui a argumentação do autor. Ela funciona como apoio e precisa ser interpretada, explicada e articulada ao ponto de vista defendido, para que o texto mantenha coerência e força argumentativa",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Uma citação não substitui a argumentação do autor. Ela funciona como apoio e precisa ser interpretada, explicada e articulada ao ponto de vista defendido, para que o texto mantenha coerência e força argumentativa",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "port9-discurso-citacao-argumentacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Depois de citar uma fonte, explique por que ela é importante para o argumento apresentado"
+        ],
+        "respostaCorreta": "Depois de citar uma fonte, explique por que ela é importante para o argumento apresentado",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Discurso, citação e argumentação apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

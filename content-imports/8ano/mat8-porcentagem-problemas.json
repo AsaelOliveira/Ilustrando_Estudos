@@ -1,0 +1,427 @@
+[
+  {
+    "id": "mat8-porcentagem-problemas",
+    "titulo": "Porcentagem em problemas do cotidiano",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Números e proporcionalidade",
+    "resumo": [
+      "A porcentagem representa uma razão com base em 100.",
+      "Ela é usada em descontos, acréscimos, juros e comparações de quantidades.",
+      "Compreender porcentagem ajuda a interpretar situações reais do dia a dia."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Ideia de porcentagem",
+        "texto": "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos.",
+        "dica": "Associe o símbolo % à ideia de 'em cada 100'."
+      },
+      {
+        "subtitulo": "Aplicação prática",
+        "texto": "Problemas com porcentagem pedem atenção ao valor total e ao valor procurado. Em muitas situações, é preciso calcular quanto representa certa parte do todo ou quanto o total muda após desconto ou aumento.",
+        "dica": "Identifique primeiro qual é o valor de referência do problema."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Um produto custa 200 reais e recebe desconto de 10%.",
+        "passos": [
+          "Calcule 10% de 200.",
+          "Encontre 20 reais como valor do desconto.",
+          "Subtraia o desconto do preço inicial."
+        ],
+        "resposta": "O produto passa a custar 180 reais."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Porcentagem em problemas do cotidiano\".",
+        "passos": [
+          "A porcentagem representa uma razão com base em 100",
+          "Ela é usada em descontos, acréscimos, juros e comparações de quantidades",
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia"
+        ],
+        "resposta": "Esse exemplo mostra como Porcentagem em problemas do cotidiano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Porcentagem em problemas do cotidiano\".",
+        "passos": [
+          "Ela é usada em descontos, acréscimos, juros e comparações de quantidades",
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+          "Ideia de porcentagem"
+        ],
+        "resposta": "Esse exemplo mostra como Porcentagem em problemas do cotidiano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Porcentagem em problemas do cotidiano\".",
+        "passos": [
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+          "Ideia de porcentagem",
+          "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos"
+        ],
+        "resposta": "Esse exemplo mostra como Porcentagem em problemas do cotidiano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Porcentagem em problemas do cotidiano\".",
+        "passos": [
+          "Ideia de porcentagem",
+          "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos",
+          "Associe o símbolo % à ideia de 'em cada 100'"
+        ],
+        "resposta": "Esse exemplo mostra como Porcentagem em problemas do cotidiano pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-porcentagem-problemas-ex-01",
+        "enunciado": "A porcentagem indica uma razão com base em:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "100",
+          "10",
+          "1000",
+          "2"
+        ],
+        "respostaCorreta": "100",
+        "explicacao": "O símbolo % representa uma taxa por cento, isto é, por 100.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-ex-02",
+        "enunciado": "Em um desconto de 25%, o valor do produto:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "diminui",
+          "aumenta obrigatoriamente",
+          "fica sempre igual",
+          "deixa de existir"
+        ],
+        "respostaCorreta": "diminui",
+        "explicacao": "Desconto representa redução no valor inicial.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-ex-03",
+        "enunciado": "Se 50% de uma quantidade corresponde à metade dela, então 25% corresponde a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um quarto da quantidade",
+          "o dobro da quantidade",
+          "a quantidade inteira",
+          "três quartos da quantidade"
+        ],
+        "respostaCorreta": "um quarto da quantidade",
+        "explicacao": "Vinte e cinco por cento é equivalente a 25/100, isto é, 1/4.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-ex-04",
+        "enunciado": "Em problemas de porcentagem, um passo importante é identificar:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o valor total de referência",
+          "a cor do objeto citado",
+          "a ordem alfabética dos números",
+          "o tamanho da frase"
+        ],
+        "respostaCorreta": "o valor total de referência",
+        "explicacao": "Sem identificar o valor de referência, o cálculo da porcentagem pode ficar incorreto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A porcentagem representa uma razão com base em 100",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A porcentagem representa uma razão com base em 100",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ela é usada em descontos, acréscimos, juros e comparações de quantidades"
+        ],
+        "respostaCorreta": "Ela é usada em descontos, acréscimos, juros e comparações de quantidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe o símbolo % à ideia de 'em cada 100'",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe o símbolo % à ideia de 'em cada 100'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Problemas com porcentagem pedem atenção ao valor total e ao valor procurado. Em muitas situações, é preciso calcular quanto representa certa parte do todo ou quanto o total muda após desconto ou aumento"
+        ],
+        "respostaCorreta": "Problemas com porcentagem pedem atenção ao valor total e ao valor procurado. Em muitas situações, é preciso calcular quanto representa certa parte do todo ou quanto o total muda após desconto ou aumento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique primeiro qual é o valor de referência do problema",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Identifique primeiro qual é o valor de referência do problema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um produto custa 200 reais e recebe desconto de 10%",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Um produto custa 200 reais e recebe desconto de 10%",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O produto passa a custar 180 reais",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O produto passa a custar 180 reais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Encontre 20 reais como valor do desconto"
+        ],
+        "respostaCorreta": "Encontre 20 reais como valor do desconto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Subtraia o desconto do preço inicial",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Subtraia o desconto do preço inicial",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A porcentagem representa uma razão com base em 100",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A porcentagem representa uma razão com base em 100",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Ela é usada em descontos, acréscimos, juros e comparações de quantidades",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Ela é usada em descontos, acréscimos, juros e comparações de quantidades",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia"
+        ],
+        "respostaCorreta": "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-porcentagem-problemas-sim-01",
+        "enunciado": "Ao calcular uma porcentagem em uma situação do cotidiano, o estudante precisa relacionar principalmente:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "a parte e o todo de referência",
+          "apenas a ordem dos números no texto",
+          "somente o sinal de porcentagem",
+          "a quantidade de palavras do enunciado"
+        ],
+        "respostaCorreta": "a parte e o todo de referência",
+        "explicacao": "A porcentagem sempre relaciona uma parte a um total tomado como referência.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compreender porcentagem ajuda a interpretar situações reais do dia a dia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos"
+        ],
+        "respostaCorreta": "Quando falamos em porcentagem, estamos considerando uma parte de um total de 100. Por isso, esse conceito aparece com frequência em preços, pesquisas e dados estatísticos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe o símbolo % à ideia de 'em cada 100'",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe o símbolo % à ideia de 'em cada 100'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Problemas com porcentagem pedem atenção ao valor total e ao valor procurado. Em muitas situações, é preciso calcular quanto representa certa parte do todo ou quanto o total muda após desconto ou aumento",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Problemas com porcentagem pedem atenção ao valor total e ao valor procurado. Em muitas situações, é preciso calcular quanto representa certa parte do todo ou quanto o total muda após desconto ou aumento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Identifique primeiro qual é o valor de referência do problema",
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Identifique primeiro qual é o valor de referência do problema",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-porcentagem-problemas-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de porcentagem em problemas do cotidiano se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Porcentagem em problemas do cotidiano pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com porcentagem em problemas do cotidiano dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Um produto custa 200 reais e recebe desconto de 10%"
+        ],
+        "respostaCorreta": "Um produto custa 200 reais e recebe desconto de 10%",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Porcentagem em problemas do cotidiano, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

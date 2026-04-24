@@ -31,16 +31,397 @@
           "Analiza si hay opinión, orientación o llamada a la acción."
         ],
         "resposta": "Este ejemplo muestra que leer críticamente ayuda a comprender mejor el sentido y la intención de un texto."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Lectura crítica de mensajes\".",
+        "passos": [
+          "Leer críticamente implica identificar intención, información y punto de vista en un mensaje",
+          "El español puede ser estudiado por medio de textos breves que circulan en la vida cotidiana",
+          "Este tema fortalece comprensión, análisis y uso consciente de la lengua"
+        ],
+        "resposta": "Esse exemplo mostra como Lectura crítica de mensajes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Lectura crítica de mensajes\".",
+        "passos": [
+          "El español puede ser estudiado por medio de textos breves que circulan en la vida cotidiana",
+          "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+          "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista"
+        ],
+        "resposta": "Esse exemplo mostra como Lectura crítica de mensajes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Lectura crítica de mensajes\".",
+        "passos": [
+          "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+          "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista",
+          "Observa si el texto informa, opina, invita, critica o intenta convencer"
+        ],
+        "resposta": "Esse exemplo mostra como Lectura crítica de mensajes pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Lectura crítica de mensajes\".",
+        "passos": [
+          "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista",
+          "Observa si el texto informa, opina, invita, critica o intenta convencer",
+          "Leer más allá de las palabras"
+        ],
+        "resposta": "Esse exemplo mostra como Lectura crítica de mensajes pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"esp9-lectura-critica-mensajes-ex-01","enunciado":"Leer críticamente significa:","tipo":"multipla_escolha","alternativas":["analizar intención y sentido del mensaje","solo repetir palabras del texto","ignorar el punto de vista presentado","memorizar frases sin contexto"],"respostaCorreta":"analizar intención y sentido del mensaje","explicacao":"La lectura crítica busca comprender no solo qué se dice, sino también cómo y con qué objetivo.","dificuldade":"facil"},
-      {"id":"esp9-lectura-critica-mensajes-ex-02","enunciado":"Un mensaje puede tener la intención de:","tipo":"multipla_escolha","alternativas":["informar, opinar o convencer","solo decorar una página","eliminar la comunicación","evitar cualquier interpretación"],"respostaCorreta":"informar, opinar o convencer","explicacao":"Los textos pueden cumplir distintas funciones comunicativas según su contexto.","dificuldade":"facil"},
-      {"id":"esp9-lectura-critica-mensajes-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Los textos breves también pueden ser analizados de forma crítica.","Solo textos largos permiten interpretación.","La intención del mensaje no importa en la lectura.","Comprender un texto es repetir cada palabra sin pensar."],"respostaCorreta":"Los textos breves también pueden ser analizados de forma crítica.","explicacao":"La lectura crítica puede aplicarse a distintos tipos de mensajes, incluso breves y cotidianos.","dificuldade":"medio"},
-      {"id":"esp9-lectura-critica-mensajes-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar el español para comprender mensajes de manera consciente y crítica","leer sin observar intención ni contexto","separar lengua y comunicación","evitar el análisis de textos cotidianos"],"respostaCorreta":"usar el español para comprender mensajes de manera consciente y crítica","explicacao":"El contenido fortalece interpretación, análisis y uso significativo de la lengua.","dificuldade":"medio"}
+      {
+        "id": "esp9-lectura-critica-mensajes-ex-01",
+        "enunciado": "Leer críticamente significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "analizar intención y sentido del mensaje",
+          "solo repetir palabras del texto",
+          "ignorar el punto de vista presentado",
+          "memorizar frases sin contexto"
+        ],
+        "respostaCorreta": "analizar intención y sentido del mensaje",
+        "explicacao": "La lectura crítica busca comprender no solo qué se dice, sino también cómo y con qué objetivo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-ex-02",
+        "enunciado": "Un mensaje puede tener la intención de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "informar, opinar o convencer",
+          "solo decorar una página",
+          "eliminar la comunicación",
+          "evitar cualquier interpretación"
+        ],
+        "respostaCorreta": "informar, opinar o convencer",
+        "explicacao": "Los textos pueden cumplir distintas funciones comunicativas según su contexto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-ex-03",
+        "enunciado": "¿Cuál afirmación es correcta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Los textos breves también pueden ser analizados de forma crítica.",
+          "Solo textos largos permiten interpretación.",
+          "La intención del mensaje no importa en la lectura.",
+          "Comprender un texto es repetir cada palabra sin pensar."
+        ],
+        "respostaCorreta": "Los textos breves también pueden ser analizados de forma crítica.",
+        "explicacao": "La lectura crítica puede aplicarse a distintos tipos de mensajes, incluso breves y cotidianos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-ex-04",
+        "enunciado": "La idea principal del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar el español para comprender mensajes de manera consciente y crítica",
+          "leer sin observar intención ni contexto",
+          "separar lengua y comunicación",
+          "evitar el análisis de textos cotidianos"
+        ],
+        "respostaCorreta": "usar el español para comprender mensajes de manera consciente y crítica",
+        "explicacao": "El contenido fortalece interpretación, análisis y uso significativo de la lengua.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Lectura crítica de mensajes\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leer críticamente implica identificar intención, información y punto de vista en un mensaje",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Leer críticamente implica identificar intención, información y punto de vista en un mensaje",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-02",
+        "enunciado": "Ao estudar \"Lectura crítica de mensajes\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "El español puede ser estudiado por medio de textos breves que circulan en la vida cotidiana"
+        ],
+        "respostaCorreta": "El español puede ser estudiado por medio de textos breves que circulan en la vida cotidiana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-05",
+        "enunciado": "No contexto de \"Lectura crítica de mensajes\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa si el texto informa, opina, invita, critica o intenta convencer",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observa si el texto informa, opina, invita, critica o intenta convencer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-06",
+        "enunciado": "O estudo de \"Lectura crítica de mensajes\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender leer más allá de las palabras"
+        ],
+        "respostaCorreta": "compreender leer más allá de las palabras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Comentarios, avisos, publicaciones y noticias breves permiten estudiar el español en contextos vivos y cercanos. Esa práctica fortalece la relación entre lengua, comunicación e interpretación crítica",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Comentarios, avisos, publicaciones y noticias breves permiten estudiar el español en contextos vivos y cercanos. Esa práctica fortalece la relación entre lengua, comunicación e interpretación crítica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona el texto leído con situaciones reales de comunicación en el cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Relaciona el texto leído con situaciones reales de comunicación en el cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender mensajes y vida cotidiana",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender mensajes y vida cotidiana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lee un mensaje breve en español sobre convivencia en la escuela"
+        ],
+        "respostaCorreta": "Lee un mensaje breve en español sobre convivencia en la escuela",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Lectura crítica de mensajes\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Este ejemplo muestra que leer críticamente ayuda a comprender mejor el sentido y la intención de un texto",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Este ejemplo muestra que leer críticamente ayuda a comprender mejor el sentido y la intención de un texto",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-12",
+        "enunciado": "Ao estudar \"Lectura crítica de mensajes\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifica el tema principal",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifica el tema principal",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa la intención del mensaje",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observa la intención del mensaje",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Analiza si hay opinión, orientación o llamada a la acción"
+        ],
+        "respostaCorreta": "Analiza si hay opinión, orientación o llamada a la acción",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"esp9-lectura-critica-mensajes-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["leer críticamente es comprender intención, punto de vista y sentido en los mensajes","todo texto debe leerse sin reflexión","la intención del mensaje no forma parte de la comprensión","la lengua no se relaciona con contextos cotidianos"],"respostaCorreta":"leer críticamente es comprender intención, punto de vista y sentido en los mensajes","explicacao":"El tema une comprensión lectora, análisis del mensaje y uso real del idioma.","dificuldade":"medio"}
+      {
+        "id": "esp9-lectura-critica-mensajes-sim-01",
+        "enunciado": "La mejor síntesis del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "leer críticamente es comprender intención, punto de vista y sentido en los mensajes",
+          "todo texto debe leerse sin reflexión",
+          "la intención del mensaje no forma parte de la comprensión",
+          "la lengua no se relaciona con contextos cotidianos"
+        ],
+        "respostaCorreta": "leer críticamente es comprender intención, punto de vista y sentido en los mensajes",
+        "explicacao": "El tema une comprensión lectora, análisis del mensaje y uso real del idioma.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Lectura crítica de mensajes\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Este tema fortalece comprensión, análisis y uso consciente de la lengua",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Lectura crítica de mensajes\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista"
+        ],
+        "respostaCorreta": "Comprender un mensaje no significa solo reconocer vocabulario. También implica analizar quién habla, qué quiere comunicar y cómo construye su punto de vista",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observa si el texto informa, opina, invita, critica o intenta convencer",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observa si el texto informa, opina, invita, critica o intenta convencer",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Lectura crítica de mensajes\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender leer más allá de las palabras",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender leer más allá de las palabras",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Comentarios, avisos, publicaciones y noticias breves permiten estudiar el español en contextos vivos y cercanos. Esa práctica fortalece la relación entre lengua, comunicación e interpretación crítica",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Comentarios, avisos, publicaciones y noticias breves permiten estudiar el español en contextos vivos y cercanos. Esa práctica fortalece la relación entre lengua, comunicación e interpretación crítica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-lectura-critica-mensajes-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relaciona el texto leído con situaciones reales de comunicación en el cotidiano"
+        ],
+        "respostaCorreta": "Relaciona el texto leído con situaciones reales de comunicación en el cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Lectura crítica de mensajes apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

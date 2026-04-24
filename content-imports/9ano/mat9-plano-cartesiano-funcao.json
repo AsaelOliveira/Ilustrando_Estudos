@@ -31,17 +31,397 @@
           "Represente o ponto correspondente no plano cartesiano."
         ],
         "resposta": "O ponto (1, 3) representa essa relação no gráfico."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Plano cartesiano e representação de funções\".",
+        "passos": [
+          "O plano cartesiano permite localizar pontos e representar relações matemáticas graficamente",
+          "A representação de funções no plano ajuda a visualizar variações entre grandezas",
+          "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas"
+        ],
+        "resposta": "Esse exemplo mostra como Plano cartesiano e representação de funções pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Plano cartesiano e representação de funções\".",
+        "passos": [
+          "A representação de funções no plano ajuda a visualizar variações entre grandezas",
+          "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+          "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico"
+        ],
+        "resposta": "Esse exemplo mostra como Plano cartesiano e representação de funções pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Plano cartesiano e representação de funções\".",
+        "passos": [
+          "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+          "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico",
+          "Observe sempre a posição do ponto em relação aos dois eixos"
+        ],
+        "resposta": "Esse exemplo mostra como Plano cartesiano e representação de funções pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Plano cartesiano e representação de funções\".",
+        "passos": [
+          "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico",
+          "Observe sempre a posição do ponto em relação aos dois eixos",
+          "Localização de pontos"
+        ],
+        "resposta": "Esse exemplo mostra como Plano cartesiano e representação de funções pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"mat9-plano-cartesiano-funcao-ex-01","enunciado":"O plano cartesiano serve para:","tipo":"multipla_escolha","alternativas":["localizar pontos e representar relações graficamente","substituir todas as expressões algébricas","eliminar o uso de números em gráficos","desenhar apenas figuras sem medida"],"respostaCorreta":"localizar pontos e representar relações graficamente","explicacao":"O plano cartesiano é uma ferramenta importante para a leitura e a representação de relações matemáticas.","dificuldade":"facil"},
-      {"id":"mat9-plano-cartesiano-funcao-ex-02","enunciado":"Um ponto no plano cartesiano é identificado por:","tipo":"multipla_escolha","alternativas":["um par ordenado","uma cor específica","uma frase escrita","um tipo de triângulo"],"respostaCorreta":"um par ordenado","explicacao":"As coordenadas do ponto indicam sua posição em relação aos eixos do plano.","dificuldade":"facil"},
-      {"id":"mat9-plano-cartesiano-funcao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.","Funções não podem ser representadas graficamente.","O plano cartesiano não se relaciona à álgebra.","Todo gráfico dispensa interpretação dos valores."
-],"respostaCorreta":"O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.","explicacao":"A representação gráfica permite compreender melhor a dependência entre variáveis.","dificuldade":"medio"},
-      {"id":"mat9-plano-cartesiano-funcao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar relações algébricas por meio de gráficos","ignorar o comportamento das funções","substituir toda leitura gráfica por adivinhação","pensar que eixos e coordenadas não têm utilidade"],"respostaCorreta":"interpretar relações algébricas por meio de gráficos","explicacao":"O conteúdo fortalece a leitura gráfica e a articulação entre expressão algébrica e representação no plano.","dificuldade":"medio"}
+      {
+        "id": "mat9-plano-cartesiano-funcao-ex-01",
+        "enunciado": "O plano cartesiano serve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "localizar pontos e representar relações graficamente",
+          "substituir todas as expressões algébricas",
+          "eliminar o uso de números em gráficos",
+          "desenhar apenas figuras sem medida"
+        ],
+        "respostaCorreta": "localizar pontos e representar relações graficamente",
+        "explicacao": "O plano cartesiano é uma ferramenta importante para a leitura e a representação de relações matemáticas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-ex-02",
+        "enunciado": "Um ponto no plano cartesiano é identificado por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "um par ordenado",
+          "uma cor específica",
+          "uma frase escrita",
+          "um tipo de triângulo"
+        ],
+        "respostaCorreta": "um par ordenado",
+        "explicacao": "As coordenadas do ponto indicam sua posição em relação aos eixos do plano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.",
+          "Funções não podem ser representadas graficamente.",
+          "O plano cartesiano não se relaciona à álgebra.",
+          "Todo gráfico dispensa interpretação dos valores."
+        ],
+        "respostaCorreta": "O gráfico de uma função ajuda a visualizar como uma grandeza varia em relação à outra.",
+        "explicacao": "A representação gráfica permite compreender melhor a dependência entre variáveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar relações algébricas por meio de gráficos",
+          "ignorar o comportamento das funções",
+          "substituir toda leitura gráfica por adivinhação",
+          "pensar que eixos e coordenadas não têm utilidade"
+        ],
+        "respostaCorreta": "interpretar relações algébricas por meio de gráficos",
+        "explicacao": "O conteúdo fortalece a leitura gráfica e a articulação entre expressão algébrica e representação no plano.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Plano cartesiano e representação de funções\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O plano cartesiano permite localizar pontos e representar relações matemáticas graficamente",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O plano cartesiano permite localizar pontos e representar relações matemáticas graficamente",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-02",
+        "enunciado": "Ao estudar \"Plano cartesiano e representação de funções\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A representação de funções no plano ajuda a visualizar variações entre grandezas"
+        ],
+        "respostaCorreta": "A representação de funções no plano ajuda a visualizar variações entre grandezas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-05",
+        "enunciado": "No contexto de \"Plano cartesiano e representação de funções\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe sempre a posição do ponto em relação aos dois eixos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe sempre a posição do ponto em relação aos dois eixos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-06",
+        "enunciado": "O estudo de \"Plano cartesiano e representação de funções\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender localização de pontos"
+        ],
+        "respostaCorreta": "compreender localização de pontos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Quando representamos uma função no plano cartesiano, podemos visualizar como os valores de uma grandeza dependem dos valores da outra. O gráfico ajuda a perceber crescimento, variação e comportamento da função",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Quando representamos uma função no plano cartesiano, podemos visualizar como os valores de uma grandeza dependem dos valores da outra. O gráfico ajuda a perceber crescimento, variação e comportamento da função",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Compare os valores da expressão com sua posição no gráfico para entender a relação entre as grandezas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Compare os valores da expressão com sua posição no gráfico para entender a relação entre as grandezas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender função em forma de gráfico",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender função em forma de gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere a função y = x + 2 e o valor x = 1"
+        ],
+        "respostaCorreta": "Considere a função y = x + 2 e o valor x = 1",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Plano cartesiano e representação de funções\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O ponto (1, 3) representa essa relação no gráfico",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "O ponto (1, 3) representa essa relação no gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-12",
+        "enunciado": "Ao estudar \"Plano cartesiano e representação de funções\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Substitua x por 1 na expressão",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Substitua x por 1 na expressão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Encontre y = 3",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Encontre y = 3",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Represente o ponto correspondente no plano cartesiano"
+        ],
+        "respostaCorreta": "Represente o ponto correspondente no plano cartesiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"mat9-plano-cartesiano-funcao-sim-01","enunciado":"A principal ideia desse tema é compreender que o plano cartesiano:","tipo":"multipla_escolha","alternativas":["ajuda a representar e interpretar relações entre variáveis","serve apenas para decorar nomes de eixos","não tem relação com funções","substitui qualquer cálculo algébrico"],"respostaCorreta":"ajuda a representar e interpretar relações entre variáveis","explicacao":"O plano cartesiano amplia a leitura de funções e de suas representações gráficas.","dificuldade":"medio"}
+      {
+        "id": "mat9-plano-cartesiano-funcao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que o plano cartesiano:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ajuda a representar e interpretar relações entre variáveis",
+          "serve apenas para decorar nomes de eixos",
+          "não tem relação com funções",
+          "substitui qualquer cálculo algébrico"
+        ],
+        "respostaCorreta": "ajuda a representar e interpretar relações entre variáveis",
+        "explicacao": "O plano cartesiano amplia a leitura de funções e de suas representações gráficas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Plano cartesiano e representação de funções\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema fortalece a interpretação de gráficos e expressões algébricas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Plano cartesiano e representação de funções\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico"
+        ],
+        "respostaCorreta": "No plano cartesiano, cada ponto é determinado por um par ordenado, formado por duas coordenadas. Esse sistema facilita a representação e a leitura de relações matemáticas em um espaço gráfico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe sempre a posição do ponto em relação aos dois eixos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe sempre a posição do ponto em relação aos dois eixos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Plano cartesiano e representação de funções\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender localização de pontos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender localização de pontos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Quando representamos uma função no plano cartesiano, podemos visualizar como os valores de uma grandeza dependem dos valores da outra. O gráfico ajuda a perceber crescimento, variação e comportamento da função",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Quando representamos uma função no plano cartesiano, podemos visualizar como os valores de uma grandeza dependem dos valores da outra. O gráfico ajuda a perceber crescimento, variação e comportamento da função",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat9-plano-cartesiano-funcao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare os valores da expressão com sua posição no gráfico para entender a relação entre as grandezas"
+        ],
+        "respostaCorreta": "Compare os valores da expressão com sua posição no gráfico para entender a relação entre as grandezas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Plano cartesiano e representação de funções apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

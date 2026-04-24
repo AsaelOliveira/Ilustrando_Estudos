@@ -30,16 +30,397 @@
           "Perceba que a reorganização das instituições faz parte desse processo."
         ],
         "resposta": "Esse exemplo ajuda a compreender características da redemocratização."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Redemocratização no Brasil\".",
+        "passos": [
+          "A redemocratização marca o processo de retomada das liberdades políticas e da participação democrática no Brasil",
+          "Esse período envolve mobilizações sociais, reconstrução institucional e ampliação de direitos",
+          "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã"
+        ],
+        "resposta": "Esse exemplo mostra como Redemocratização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Redemocratização no Brasil\".",
+        "passos": [
+          "Esse período envolve mobilizações sociais, reconstrução institucional e ampliação de direitos",
+          "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+          "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais"
+        ],
+        "resposta": "Esse exemplo mostra como Redemocratização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Redemocratização no Brasil\".",
+        "passos": [
+          "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+          "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais",
+          "Observe como a volta da democracia está ligada à participação social e à defesa de direitos"
+        ],
+        "resposta": "Esse exemplo mostra como Redemocratização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Redemocratização no Brasil\".",
+        "passos": [
+          "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais",
+          "Observe como a volta da democracia está ligada à participação social e à defesa de direitos",
+          "Retomada da vida democrática"
+        ],
+        "resposta": "Esse exemplo mostra como Redemocratização no Brasil pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-redemocratizacao-brasil-ex-01","enunciado":"A redemocratização está relacionada à:","tipo":"multipla_escolha","alternativas":["retomada das liberdades políticas e da vida democrática","eliminação da participação popular","manutenção do autoritarismo como modelo político","ausência de mobilização social"],"respostaCorreta":"retomada das liberdades políticas e da vida democrática","explicacao":"A redemocratização envolve reconstrução democrática, participação e ampliação de direitos.","dificuldade":"facil"},
-      {"id":"hist9-redemocratizacao-brasil-ex-02","enunciado":"Um aspecto importante desse processo foi:","tipo":"multipla_escolha","alternativas":["mobilização social em defesa de direitos","proibição completa do debate público","fim da participação cidadã","substituição da democracia por censura"],"respostaCorreta":"mobilização social em defesa de direitos","explicacao":"A sociedade teve papel importante na retomada da democracia e na reconstrução institucional.","dificuldade":"facil"},
-      {"id":"hist9-redemocratizacao-brasil-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A redemocratização ajuda a compreender o valor da democracia e da participação cidadã.","Democracia e cidadania não têm relação entre si.","Esse processo ocorre sem mobilização social ou mudanças institucionais.","Redemocratização significa retorno ao autoritarismo."],"respostaCorreta":"A redemocratização ajuda a compreender o valor da democracia e da participação cidadã.","explicacao":"O tema mostra como direitos, participação e reconstrução institucional são importantes na vida democrática.","dificuldade":"medio"},
-      {"id":"hist9-redemocratizacao-brasil-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["valorizar a democracia e a participação social","achar que direitos políticos surgem sem mobilização","ignorar a importância das instituições democráticas","separar cidadania de vida coletiva"],"respostaCorreta":"valorizar a democracia e a participação social","explicacao":"A redemocratização reforça a importância da ação cidadã e da organização institucional para a vida democrática.","dificuldade":"medio"}
+      {
+        "id": "hist9-redemocratizacao-brasil-ex-01",
+        "enunciado": "A redemocratização está relacionada à:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "retomada das liberdades políticas e da vida democrática",
+          "eliminação da participação popular",
+          "manutenção do autoritarismo como modelo político",
+          "ausência de mobilização social"
+        ],
+        "respostaCorreta": "retomada das liberdades políticas e da vida democrática",
+        "explicacao": "A redemocratização envolve reconstrução democrática, participação e ampliação de direitos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-ex-02",
+        "enunciado": "Um aspecto importante desse processo foi:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mobilização social em defesa de direitos",
+          "proibição completa do debate público",
+          "fim da participação cidadã",
+          "substituição da democracia por censura"
+        ],
+        "respostaCorreta": "mobilização social em defesa de direitos",
+        "explicacao": "A sociedade teve papel importante na retomada da democracia e na reconstrução institucional.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A redemocratização ajuda a compreender o valor da democracia e da participação cidadã.",
+          "Democracia e cidadania não têm relação entre si.",
+          "Esse processo ocorre sem mobilização social ou mudanças institucionais.",
+          "Redemocratização significa retorno ao autoritarismo."
+        ],
+        "respostaCorreta": "A redemocratização ajuda a compreender o valor da democracia e da participação cidadã.",
+        "explicacao": "O tema mostra como direitos, participação e reconstrução institucional são importantes na vida democrática.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "valorizar a democracia e a participação social",
+          "achar que direitos políticos surgem sem mobilização",
+          "ignorar a importância das instituições democráticas",
+          "separar cidadania de vida coletiva"
+        ],
+        "respostaCorreta": "valorizar a democracia e a participação social",
+        "explicacao": "A redemocratização reforça a importância da ação cidadã e da organização institucional para a vida democrática.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Redemocratização no Brasil\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A redemocratização marca o processo de retomada das liberdades políticas e da participação democrática no Brasil",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "A redemocratização marca o processo de retomada das liberdades políticas e da participação democrática no Brasil",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-02",
+        "enunciado": "Ao estudar \"Redemocratização no Brasil\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse período envolve mobilizações sociais, reconstrução institucional e ampliação de direitos"
+        ],
+        "respostaCorreta": "Esse período envolve mobilizações sociais, reconstrução institucional e ampliação de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-05",
+        "enunciado": "No contexto de \"Redemocratização no Brasil\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como a volta da democracia está ligada à participação social e à defesa de direitos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como a volta da democracia está ligada à participação social e à defesa de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-06",
+        "enunciado": "O estudo de \"Redemocratização no Brasil\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender retomada da vida democrática"
+        ],
+        "respostaCorreta": "compreender retomada da vida democrática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Movimentos sociais, participação popular e reconstrução das instituições tiveram papel importante nesse processo. Compreender a redemocratização ajuda a valorizar a cidadania e a importância da vida democrática",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Movimentos sociais, participação popular e reconstrução das instituições tiveram papel importante nesse processo. Compreender a redemocratização ajuda a valorizar a cidadania e a importância da vida democrática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como a sociedade participa da construção e da manutenção da democracia",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como a sociedade participa da construção e da manutenção da democracia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender mobilização e cidadania",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender mobilização e cidadania",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere um contexto em que a população volta a reivindicar participação política e ampliação de direitos"
+        ],
+        "respostaCorreta": "Considere um contexto em que a população volta a reivindicar participação política e ampliação de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Redemocratização no Brasil\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender características da redemocratização",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender características da redemocratização",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-12",
+        "enunciado": "Ao estudar \"Redemocratização no Brasil\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe a mobilização social em defesa da democracia",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe a mobilização social em defesa da democracia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba que a reorganização das instituições faz parte desse processo",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba que a reorganização das instituições faz parte desse processo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A redemocratização marca o processo de retomada das liberdades políticas e da participação democrática no Brasil"
+        ],
+        "respostaCorreta": "A redemocratização marca o processo de retomada das liberdades políticas e da participação democrática no Brasil",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-redemocratizacao-brasil-sim-01","enunciado":"A principal ideia desse tema é compreender que a democracia:","tipo":"multipla_escolha","alternativas":["se fortalece com participação social, direitos e instituições democráticas","não depende de mobilização cidadã","dispensa liberdade política e debate público","se organiza melhor sob autoritarismo"],"respostaCorreta":"se fortalece com participação social, direitos e instituições democráticas","explicacao":"A redemocratização mostra que a democracia é construída e preservada por meio de participação, direitos e compromisso institucional.","dificuldade":"medio"}
+      {
+        "id": "hist9-redemocratizacao-brasil-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a democracia:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se fortalece com participação social, direitos e instituições democráticas",
+          "não depende de mobilização cidadã",
+          "dispensa liberdade política e debate público",
+          "se organiza melhor sob autoritarismo"
+        ],
+        "respostaCorreta": "se fortalece com participação social, direitos e instituições democráticas",
+        "explicacao": "A redemocratização mostra que a democracia é construída e preservada por meio de participação, direitos e compromisso institucional.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Redemocratização no Brasil\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender a importância da democracia e da participação cidadã",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Redemocratização no Brasil\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais"
+        ],
+        "respostaCorreta": "Após um período autoritário, a redemocratização representa a reconstrução de mecanismos de participação política, debate público e garantia de direitos. Esse processo não acontece de forma instantânea, mas por meio de lutas e transformações institucionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como a volta da democracia está ligada à participação social e à defesa de direitos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como a volta da democracia está ligada à participação social e à defesa de direitos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Redemocratização no Brasil\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender retomada da vida democrática",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender retomada da vida democrática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Movimentos sociais, participação popular e reconstrução das instituições tiveram papel importante nesse processo. Compreender a redemocratização ajuda a valorizar a cidadania e a importância da vida democrática",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Movimentos sociais, participação popular e reconstrução das instituições tiveram papel importante nesse processo. Compreender a redemocratização ajuda a valorizar a cidadania e a importância da vida democrática",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-redemocratizacao-brasil-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como a sociedade participa da construção e da manutenção da democracia"
+        ],
+        "respostaCorreta": "Pergunte como a sociedade participa da construção e da manutenção da democracia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Redemocratização no Brasil apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

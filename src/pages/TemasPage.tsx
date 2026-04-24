@@ -70,10 +70,6 @@ export default function TemasPage() {
   const userTurma = profile?.turma_id ?? metadataTurma;
   const isAdmin = role === "admin";
 
-  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
-    return <Navigate to="/app/turmas" replace />;
-  }
-
   const filtered = useMemo(() => {
     if (!search.trim()) return allTemas;
     const query = search.toLowerCase();
@@ -84,6 +80,10 @@ export default function TemasPage() {
         tema.unidade?.toLowerCase().includes(query),
     );
   }, [allTemas, search]);
+
+  if (user && !isAdmin && userTurma && turmaId && !canAccessTurma(userTurma, turmaId)) {
+    return <Navigate to="/app/turmas" replace />;
+  }
 
   if (loading || contentDisplayLoading) {
     return (

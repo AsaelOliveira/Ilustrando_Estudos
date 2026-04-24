@@ -31,16 +31,397 @@
           "Avalie quais decisões precisam ser tomadas para que o projeto funcione."
         ],
         "resposta": "Esse exemplo mostra como planejamento e decisão ajudam a transformar ideias em ações concretas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Planejamento, projetos e tomada de decisão\".",
+        "passos": [
+          "Planejar é definir objetivos, etapas, recursos e estratégias para realizar uma ação",
+          "Projetos exigem organização, cooperação, análise de problemas e tomada de decisão",
+          "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, projetos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Planejamento, projetos e tomada de decisão\".",
+        "passos": [
+          "Projetos exigem organização, cooperação, análise de problemas e tomada de decisão",
+          "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+          "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, projetos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Planejamento, projetos e tomada de decisão\".",
+        "passos": [
+          "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+          "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência",
+          "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários?"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, projetos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Planejamento, projetos e tomada de decisão\".",
+        "passos": [
+          "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência",
+          "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários?",
+          "Planejamento e clareza de objetivos"
+        ],
+        "resposta": "Esse exemplo mostra como Planejamento, projetos e tomada de decisão pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"erl9-planejamento-projetos-ex-01","enunciado":"Planejar significa:","tipo":"multipla_escolha","alternativas":["organizar objetivos, etapas e recursos","agir sem definir metas","tomar decisões aleatórias","ignorar possíveis dificuldades"],"respostaCorreta":"organizar objetivos, etapas e recursos","explicacao":"O planejamento dá direção e estrutura a uma ação ou projeto.","dificuldade":"facil"},
-      {"id":"erl9-planejamento-projetos-ex-02","enunciado":"Um projeto bem organizado costuma envolver:","tipo":"multipla_escolha","alternativas":["metas claras e divisão de tarefas","falta de objetivo","improvisação permanente","ausência de acompanhamento"],"respostaCorreta":"metas claras e divisão de tarefas","explicacao":"Projetos funcionam melhor quando há objetivos definidos e responsabilidades distribuídas.","dificuldade":"facil"},
-      {"id":"erl9-planejamento-projetos-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Tomar decisões exige analisar alternativas e consequências.","Toda decisão deve ser tomada sem informação.","Planejamento não ajuda em projetos escolares ou sociais.","Organização impede a criatividade."],"respostaCorreta":"Tomar decisões exige analisar alternativas e consequências.","explicacao":"Decidir bem envolve reflexão, análise e responsabilidade.","dificuldade":"medio"},
-      {"id":"erl9-planejamento-projetos-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["agir com mais autonomia e responsabilidade","evitar qualquer forma de cooperação","dispensar metas e prazos","reduzir projetos a ideias sem execução"],"respostaCorreta":"agir com mais autonomia e responsabilidade","explicacao":"Planejamento e tomada de decisão fortalecem iniciativa e organização.","dificuldade":"medio"}
+      {
+        "id": "erl9-planejamento-projetos-ex-01",
+        "enunciado": "Planejar significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organizar objetivos, etapas e recursos",
+          "agir sem definir metas",
+          "tomar decisões aleatórias",
+          "ignorar possíveis dificuldades"
+        ],
+        "respostaCorreta": "organizar objetivos, etapas e recursos",
+        "explicacao": "O planejamento dá direção e estrutura a uma ação ou projeto.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-ex-02",
+        "enunciado": "Um projeto bem organizado costuma envolver:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "metas claras e divisão de tarefas",
+          "falta de objetivo",
+          "improvisação permanente",
+          "ausência de acompanhamento"
+        ],
+        "respostaCorreta": "metas claras e divisão de tarefas",
+        "explicacao": "Projetos funcionam melhor quando há objetivos definidos e responsabilidades distribuídas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tomar decisões exige analisar alternativas e consequências.",
+          "Toda decisão deve ser tomada sem informação.",
+          "Planejamento não ajuda em projetos escolares ou sociais.",
+          "Organização impede a criatividade."
+        ],
+        "respostaCorreta": "Tomar decisões exige analisar alternativas e consequências.",
+        "explicacao": "Decidir bem envolve reflexão, análise e responsabilidade.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "agir com mais autonomia e responsabilidade",
+          "evitar qualquer forma de cooperação",
+          "dispensar metas e prazos",
+          "reduzir projetos a ideias sem execução"
+        ],
+        "respostaCorreta": "agir com mais autonomia e responsabilidade",
+        "explicacao": "Planejamento e tomada de decisão fortalecem iniciativa e organização.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Planejamento, projetos e tomada de decisão\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Planejar é definir objetivos, etapas, recursos e estratégias para realizar uma ação",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Planejar é definir objetivos, etapas, recursos e estratégias para realizar uma ação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-02",
+        "enunciado": "Ao estudar \"Planejamento, projetos e tomada de decisão\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Projetos exigem organização, cooperação, análise de problemas e tomada de decisão"
+        ],
+        "respostaCorreta": "Projetos exigem organização, cooperação, análise de problemas e tomada de decisão",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-05",
+        "enunciado": "No contexto de \"Planejamento, projetos e tomada de decisão\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários\"",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários\"",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-06",
+        "enunciado": "O estudo de \"Planejamento, projetos e tomada de decisão\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender planejamento e clareza de objetivos"
+        ],
+        "respostaCorreta": "compreender planejamento e clareza de objetivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Tomar decisões em projetos envolve analisar possibilidades, consequências e prioridades. Esse processo desenvolve raciocínio lógico, organização e responsabilidade diante de desafios reais",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Tomar decisões em projetos envolve analisar possibilidades, consequências e prioridades. Esse processo desenvolve raciocínio lógico, organização e responsabilidade diante de desafios reais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Boas decisões costumam considerar informações, alternativas e impactos das escolhas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Boas decisões costumam considerar informações, alternativas e impactos das escolhas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender decidir com responsabilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender decidir com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Imagine um grupo que precisa organizar uma ação solidária na escola"
+        ],
+        "respostaCorreta": "Imagine um grupo que precisa organizar uma ação solidária na escola",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Planejamento, projetos e tomada de decisão\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra como planejamento e decisão ajudam a transformar ideias em ações concretas",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como planejamento e decisão ajudam a transformar ideias em ações concretas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-12",
+        "enunciado": "Ao estudar \"Planejamento, projetos e tomada de decisão\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Defina o objetivo da ação",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Defina o objetivo da ação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Liste materiais, tempo e responsabilidades",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Liste materiais, tempo e responsabilidades",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Avalie quais decisões precisam ser tomadas para que o projeto funcione"
+        ],
+        "respostaCorreta": "Avalie quais decisões precisam ser tomadas para que o projeto funcione",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"erl9-planejamento-projetos-sim-01","enunciado":"A principal contribuição do tema é:","tipo":"multipla_escolha","alternativas":["desenvolver organização, iniciativa e decisões mais conscientes","substituir toda ação por improviso","eliminar a necessidade de objetivos em projetos","tratar decisões como escolhas sem consequência"],"respostaCorreta":"desenvolver organização, iniciativa e decisões mais conscientes","explicacao":"O conteúdo ajuda a planejar melhor ações, projetos e soluções para problemas reais.","dificuldade":"medio"}
+      {
+        "id": "erl9-planejamento-projetos-sim-01",
+        "enunciado": "A principal contribuição do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver organização, iniciativa e decisões mais conscientes",
+          "substituir toda ação por improviso",
+          "eliminar a necessidade de objetivos em projetos",
+          "tratar decisões como escolhas sem consequência"
+        ],
+        "respostaCorreta": "desenvolver organização, iniciativa e decisões mais conscientes",
+        "explicacao": "O conteúdo ajuda a planejar melhor ações, projetos e soluções para problemas reais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Planejamento, projetos e tomada de decisão\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda o estudante a agir com mais autonomia e responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Planejamento, projetos e tomada de decisão\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência"
+        ],
+        "respostaCorreta": "Todo projeto começa com a definição do que se deseja alcançar. A partir disso, é possível organizar etapas, prever dificuldades, escolher recursos e acompanhar resultados com mais eficiência",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários\"",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Antes de começar uma atividade, pergunte: qual é o objetivo e quais passos serão necessários\"",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Planejamento, projetos e tomada de decisão\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender planejamento e clareza de objetivos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender planejamento e clareza de objetivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tomar decisões em projetos envolve analisar possibilidades, consequências e prioridades. Esse processo desenvolve raciocínio lógico, organização e responsabilidade diante de desafios reais",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Tomar decisões em projetos envolve analisar possibilidades, consequências e prioridades. Esse processo desenvolve raciocínio lógico, organização e responsabilidade diante de desafios reais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "erl9-planejamento-projetos-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Boas decisões costumam considerar informações, alternativas e impactos das escolhas"
+        ],
+        "respostaCorreta": "Boas decisões costumam considerar informações, alternativas e impactos das escolhas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Planejamento, projetos e tomada de decisão apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

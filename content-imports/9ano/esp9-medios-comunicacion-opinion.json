@@ -31,16 +31,397 @@
           "Relaciona la estructura con otras situaciones de comunicación."
         ],
         "resposta": "Este ejemplo muestra cómo la lengua puede ser usada para leer y comentar información en contextos actuales."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Medios de comunicación y opinión\".",
+        "passos": [
+          "Los medios de comunicación influyen en la circulación de información y opiniones",
+          "Aprender vocabulario y estructuras sobre este tema fortalece la comprensión crítica del idioma",
+          "El estudio favorece la lectura y la expresión en contextos actuales"
+        ],
+        "resposta": "Esse exemplo mostra como Medios de comunicación y opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Medios de comunicación y opinión\".",
+        "passos": [
+          "Aprender vocabulario y estructuras sobre este tema fortalece la comprensión crítica del idioma",
+          "El estudio favorece la lectura y la expresión en contextos actuales",
+          "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales"
+        ],
+        "resposta": "Esse exemplo mostra como Medios de comunicación y opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Medios de comunicación y opinión\".",
+        "passos": [
+          "El estudio favorece la lectura y la expresión en contextos actuales",
+          "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales",
+          "Observa palabras relacionadas con noticia, opinión, información y red social"
+        ],
+        "resposta": "Esse exemplo mostra como Medios de comunicación y opinión pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Medios de comunicación y opinión\".",
+        "passos": [
+          "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales",
+          "Observa palabras relacionadas con noticia, opinión, información y red social",
+          "Lengua y medios"
+        ],
+        "resposta": "Esse exemplo mostra como Medios de comunicación y opinión pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"esp9-medios-comunicacion-opinion-ex-01","enunciado":"Los medios de comunicación ayudan a circular:","tipo":"multipla_escolha","alternativas":["información y opiniones","solo operaciones matemáticas","únicamente nombres de colores","apenas reglas de puntuación"],"respostaCorreta":"información y opiniones","explicacao":"Los medios permiten difundir noticias, ideas y comentarios en diferentes contextos.","dificuldade":"facil"},
-      {"id":"esp9-medios-comunicacion-opinion-ex-02","enunciado":"Estudiar este tema ayuda a:","tipo":"multipla_escolha","alternativas":["comprender mejor textos actuales en español","evitar cualquier uso real de la lengua","memorizar palabras sin contexto","ignorar la presencia del idioma en la comunicación"],"respostaCorreta":"comprender mejor textos actuales en español","explicacao":"El contenido aproxima la lengua a situaciones reales de lectura y opinión.","dificuldade":"facil"},
-      {"id":"esp9-medios-comunicacion-opinion-ex-03","enunciado":"¿Cuál afirmación es correcta?","tipo":"multipla_escolha","alternativas":["Leer medios también implica identificar puntos de vista.","Los medios nunca presentan opiniones.","La lengua no se usa en contextos sociales reales.","Opinar en español no forma parte de la comunicación."],"respostaCorreta":"Leer medios también implica identificar puntos de vista.","explicacao":"El análisis de mensajes incluye comprender información y reconocer opiniones. ","dificuldade":"medio"},
-      {"id":"esp9-medios-comunicacion-opinion-ex-04","enunciado":"La idea principal del tema es:","tipo":"multipla_escolha","alternativas":["usar el español para leer, comprender y opinar sobre mensajes actuales","estudiar solo listas aisladas de palabras","evitar la lectura crítica","separar el idioma de la vida cotidiana"],"respostaCorreta":"usar el español para leer, comprender y opinar sobre mensajes actuales","explicacao":"El tema integra comunicación, vocabulario y lectura crítica en contextos contemporáneos.","dificuldade":"medio"}
+      {
+        "id": "esp9-medios-comunicacion-opinion-ex-01",
+        "enunciado": "Los medios de comunicación ayudan a circular:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "información y opiniones",
+          "solo operaciones matemáticas",
+          "únicamente nombres de colores",
+          "apenas reglas de puntuación"
+        ],
+        "respostaCorreta": "información y opiniones",
+        "explicacao": "Los medios permiten difundir noticias, ideas y comentarios en diferentes contextos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-ex-02",
+        "enunciado": "Estudiar este tema ayuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "comprender mejor textos actuales en español",
+          "evitar cualquier uso real de la lengua",
+          "memorizar palabras sin contexto",
+          "ignorar la presencia del idioma en la comunicación"
+        ],
+        "respostaCorreta": "comprender mejor textos actuales en español",
+        "explicacao": "El contenido aproxima la lengua a situaciones reales de lectura y opinión.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-ex-03",
+        "enunciado": "¿Cuál afirmación es correcta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Leer medios también implica identificar puntos de vista.",
+          "Los medios nunca presentan opiniones.",
+          "La lengua no se usa en contextos sociales reales.",
+          "Opinar en español no forma parte de la comunicación."
+        ],
+        "respostaCorreta": "Leer medios también implica identificar puntos de vista.",
+        "explicacao": "El análisis de mensajes incluye comprender información y reconocer opiniones. ",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-ex-04",
+        "enunciado": "La idea principal del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "usar el español para leer, comprender y opinar sobre mensajes actuales",
+          "estudiar solo listas aisladas de palabras",
+          "evitar la lectura crítica",
+          "separar el idioma de la vida cotidiana"
+        ],
+        "respostaCorreta": "usar el español para leer, comprender y opinar sobre mensajes actuales",
+        "explicacao": "El tema integra comunicación, vocabulario y lectura crítica en contextos contemporáneos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Medios de comunicación y opinión\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Los medios de comunicación influyen en la circulación de información y opiniones",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Los medios de comunicación influyen en la circulación de información y opiniones",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-02",
+        "enunciado": "Ao estudar \"Medios de comunicación y opinión\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Aprender vocabulario y estructuras sobre este tema fortalece la comprensión crítica del idioma"
+        ],
+        "respostaCorreta": "Aprender vocabulario y estructuras sobre este tema fortalece la comprensión crítica del idioma",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "El estudio favorece la lectura y la expresión en contextos actuales",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "El estudio favorece la lectura y la expresión en contextos actuales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-05",
+        "enunciado": "No contexto de \"Medios de comunicación y opinión\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa palabras relacionadas con noticia, opinión, información y red social",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observa palabras relacionadas con noticia, opinión, información y red social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-06",
+        "enunciado": "O estudo de \"Medios de comunicación y opinión\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender lengua y medios"
+        ],
+        "respostaCorreta": "compreender lengua y medios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Además de entender mensajes, el estudiante puede aprender a identificar puntos de vista y expresar opiniones sencillas sobre temas presentes en los medios. Eso fortalece comunicación y análisis crítico",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Además de entender mensajes, el estudiante puede aprender a identificar puntos de vista y expresar opiniones sencillas sobre temas presentes en los medios. Eso fortalece comunicación y análisis crítico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona el aprendizaje del idioma con textos breves que circulan en el cotidiano",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Relaciona el aprendizaje del idioma con textos breves que circulan en el cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender opinión y lectura crítica",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender opinión y lectura crítica",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Lee un comentario breve sobre una noticia y observa cómo aparece la opinión del hablante"
+        ],
+        "respostaCorreta": "Lee un comentario breve sobre una noticia y observa cómo aparece la opinión del hablante",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Medios de comunicación y opinión\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Este ejemplo muestra cómo la lengua puede ser usada para leer y comentar información en contextos actuales",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Este ejemplo muestra cómo la lengua puede ser usada para leer y comentar información en contextos actuales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-12",
+        "enunciado": "Ao estudar \"Medios de comunicación y opinión\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifica el tema principal del mensaje",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifica el tema principal del mensaje",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observa las palabras usadas para opinar",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observa las palabras usadas para opinar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relaciona la estructura con otras situaciones de comunicación"
+        ],
+        "respostaCorreta": "Relaciona la estructura con otras situaciones de comunicación",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"esp9-medios-comunicacion-opinion-sim-01","enunciado":"La mejor síntesis del tema es:","tipo":"multipla_escolha","alternativas":["los medios y la opinión ayudan a estudiar el español en contextos reales","aprender español no necesita textos actuales","la comunicación no incluye puntos de vista","el idioma debe estudiarse sin relación con la sociedad"],"respostaCorreta":"los medios y la opinión ayudan a estudiar el español en contextos reales","explicacao":"El contenido conecta lengua, comunicación y análisis de mensajes del presente.","dificuldade":"medio"}
+      {
+        "id": "esp9-medios-comunicacion-opinion-sim-01",
+        "enunciado": "La mejor síntesis del tema es:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "los medios y la opinión ayudan a estudiar el español en contextos reales",
+          "aprender español no necesita textos actuales",
+          "la comunicación no incluye puntos de vista",
+          "el idioma debe estudiarse sin relación con la sociedad"
+        ],
+        "respostaCorreta": "los medios y la opinión ayudan a estudiar el español en contextos reales",
+        "explicacao": "El contenido conecta lengua, comunicación y análisis de mensajes del presente.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Medios de comunicación y opinión\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "El estudio favorece la lectura y la expresión en contextos actuales",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "El estudio favorece la lectura y la expresión en contextos actuales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Medios de comunicación y opinión\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales"
+        ],
+        "respostaCorreta": "En español, los medios de comunicación pueden aparecer en noticias, comentarios, publicaciones y debates. El contacto con este vocabulario amplía la comprensión del idioma en situaciones sociales reales",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observa palabras relacionadas con noticia, opinión, información y red social",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observa palabras relacionadas con noticia, opinión, información y red social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Medios de comunicación y opinión\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender lengua y medios",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender lengua y medios",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Además de entender mensajes, el estudiante puede aprender a identificar puntos de vista y expresar opiniones sencillas sobre temas presentes en los medios. Eso fortalece comunicación y análisis crítico",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Además de entender mensajes, el estudiante puede aprender a identificar puntos de vista y expresar opiniones sencillas sobre temas presentes en los medios. Eso fortalece comunicación y análisis crítico",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp9-medios-comunicacion-opinion-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relaciona el aprendizaje del idioma con textos breves que circulan en el cotidiano"
+        ],
+        "respostaCorreta": "Relaciona el aprendizaje del idioma con textos breves que circulan en el cotidiano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Medios de comunicación y opinión apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

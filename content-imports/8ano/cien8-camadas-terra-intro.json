@@ -1,0 +1,427 @@
+[
+  {
+    "id": "cien8-camadas-terra-intro",
+    "titulo": "Introdução às camadas da Terra",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Terra e Universo",
+    "resumo": [
+      "A Terra apresenta camadas com características diferentes.",
+      "Crosta, manto e núcleo fazem parte da estrutura interna do planeta.",
+      "Conhecer essa organização ajuda a entender fenômenos geológicos."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Estrutura interna",
+        "texto": "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta.",
+        "dica": "Tente relacionar cada camada à posição que ela ocupa no interior da Terra."
+      },
+      {
+        "subtitulo": "Importância do estudo",
+        "texto": "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório.",
+        "dica": "Associe a estrutura interna do planeta a fenômenos observados na superfície."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine um modelo em corte mostrando o interior da Terra.",
+        "passos": [
+          "A camada mais externa é a crosta.",
+          "Abaixo dela está o manto.",
+          "Na parte mais interna está o núcleo."
+        ],
+        "resposta": "Esse modelo ajuda a visualizar a organização interna do planeta."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução às camadas da Terra\".",
+        "passos": [
+          "A Terra apresenta camadas com características diferentes",
+          "Crosta, manto e núcleo fazem parte da estrutura interna do planeta",
+          "Conhecer essa organização ajuda a entender fenômenos geológicos"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às camadas da Terra pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução às camadas da Terra\".",
+        "passos": [
+          "Crosta, manto e núcleo fazem parte da estrutura interna do planeta",
+          "Conhecer essa organização ajuda a entender fenômenos geológicos",
+          "Estrutura interna"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às camadas da Terra pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução às camadas da Terra\".",
+        "passos": [
+          "Conhecer essa organização ajuda a entender fenômenos geológicos",
+          "Estrutura interna",
+          "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às camadas da Terra pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução às camadas da Terra\".",
+        "passos": [
+          "Estrutura interna",
+          "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta",
+          "Tente relacionar cada camada à posição que ela ocupa no interior da Terra"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução às camadas da Terra pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-camadas-terra-intro-ex-01",
+        "enunciado": "Uma camada externa da Terra é a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "crosta",
+          "órbita",
+          "galáxia",
+          "atmosfera solar"
+        ],
+        "respostaCorreta": "crosta",
+        "explicacao": "A crosta é a parte mais externa da estrutura sólida do planeta.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-ex-02",
+        "enunciado": "A estrutura interna da Terra é formada por:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "camadas com características diferentes",
+          "uma única massa uniforme",
+          "somente água e ar",
+          "apenas rochas superficiais"
+        ],
+        "respostaCorreta": "camadas com características diferentes",
+        "explicacao": "Crosta, manto e núcleo apresentam composições e condições distintas.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-ex-03",
+        "enunciado": "Estudar as camadas da Terra ajuda a compreender melhor:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fenômenos geológicos",
+          "somente a fotossíntese",
+          "apenas a cadeia alimentar",
+          "exclusivamente a pontuação"
+        ],
+        "respostaCorreta": "fenômenos geológicos",
+        "explicacao": "A estrutura interna do planeta se relaciona a processos como terremotos e vulcanismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-ex-04",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Terra possui uma estrutura interna organizada em camadas.",
+          "A Terra é totalmente igual em todas as suas partes internas.",
+          "O planeta não apresenta núcleo.",
+          "A crosta é a parte mais interna da Terra."
+        ],
+        "respostaCorreta": "A Terra possui uma estrutura interna organizada em camadas.",
+        "explicacao": "Essa é a ideia central do tema introdutório sobre a estrutura interna terrestre.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Terra apresenta camadas com características diferentes",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A Terra apresenta camadas com características diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Crosta, manto e núcleo fazem parte da estrutura interna do planeta"
+        ],
+        "respostaCorreta": "Crosta, manto e núcleo fazem parte da estrutura interna do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer essa organização ajuda a entender fenômenos geológicos",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Conhecer essa organização ajuda a entender fenômenos geológicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Tente relacionar cada camada à posição que ela ocupa no interior da Terra",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Tente relacionar cada camada à posição que ela ocupa no interior da Terra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório"
+        ],
+        "respostaCorreta": "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe a estrutura interna do planeta a fenômenos observados na superfície",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe a estrutura interna do planeta a fenômenos observados na superfície",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um modelo em corte mostrando o interior da Terra",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine um modelo em corte mostrando o interior da Terra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse modelo ajuda a visualizar a organização interna do planeta",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse modelo ajuda a visualizar a organização interna do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A camada mais externa é a crosta"
+        ],
+        "respostaCorreta": "A camada mais externa é a crosta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Na parte mais interna está o núcleo",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Na parte mais interna está o núcleo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Terra apresenta camadas com características diferentes",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A Terra apresenta camadas com características diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Crosta, manto e núcleo fazem parte da estrutura interna do planeta",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Crosta, manto e núcleo fazem parte da estrutura interna do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Conhecer essa organização ajuda a entender fenômenos geológicos"
+        ],
+        "respostaCorreta": "Conhecer essa organização ajuda a entender fenômenos geológicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-camadas-terra-intro-sim-01",
+        "enunciado": "O principal objetivo de estudar as camadas da Terra é entender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como a estrutura interna do planeta se organiza e influencia fenômenos geológicos",
+          "apenas o formato das nuvens",
+          "somente a classificação dos mamíferos",
+          "exclusivamente a ortografia"
+        ],
+        "respostaCorreta": "como a estrutura interna do planeta se organiza e influencia fenômenos geológicos",
+        "explicacao": "Esse conteúdo relaciona a estrutura interna da Terra a processos importantes do planeta.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Conhecer essa organização ajuda a entender fenômenos geológicos",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Conhecer essa organização ajuda a entender fenômenos geológicos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta"
+        ],
+        "respostaCorreta": "A Terra não é homogênea por dentro. Sua estrutura interna é organizada em camadas com composição, temperatura e propriedades distintas, o que influencia o funcionamento do planeta",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Tente relacionar cada camada à posição que ela ocupa no interior da Terra",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Tente relacionar cada camada à posição que ela ocupa no interior da Terra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Ao compreender as camadas da Terra, o estudante consegue interpretar melhor fenômenos como vulcanismo, terremotos e movimentação das placas tectônicas, ainda que de modo introdutório",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe a estrutura interna do planeta a fenômenos observados na superfície",
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe a estrutura interna do planeta a fenômenos observados na superfície",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-camadas-terra-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução às camadas da terra se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução às camadas da terra pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução às camadas da terra dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine um modelo em corte mostrando o interior da Terra"
+        ],
+        "respostaCorreta": "Imagine um modelo em corte mostrando o interior da Terra",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução às camadas da Terra, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

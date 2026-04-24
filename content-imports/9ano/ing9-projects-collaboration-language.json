@@ -31,16 +31,397 @@
           "Relate collaboration to language use in the activity."
         ],
         "resposta": "This example shows that English can be used as a tool for cooperation and collective production."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Projects, collaboration and language use\".",
+        "passos": [
+          "English can be used in collaborative tasks, projects and shared communication activities",
+          "Working with language in groups strengthens interaction, planning and meaningful use",
+          "This topic connects English learning with participation and cooperation"
+        ],
+        "resposta": "Esse exemplo mostra como Projects, collaboration and language use pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Projects, collaboration and language use\".",
+        "passos": [
+          "Working with language in groups strengthens interaction, planning and meaningful use",
+          "This topic connects English learning with participation and cooperation",
+          "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals"
+        ],
+        "resposta": "Esse exemplo mostra como Projects, collaboration and language use pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Projects, collaboration and language use\".",
+        "passos": [
+          "This topic connects English learning with participation and cooperation",
+          "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals",
+          "Think about language as a tool for doing something with others, not only as isolated vocabulary"
+        ],
+        "resposta": "Esse exemplo mostra como Projects, collaboration and language use pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Projects, collaboration and language use\".",
+        "passos": [
+          "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals",
+          "Think about language as a tool for doing something with others, not only as isolated vocabulary",
+          "Language in collaborative action"
+        ],
+        "resposta": "Esse exemplo mostra como Projects, collaboration and language use pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"ing9-projects-collaboration-language-ex-01","enunciado":"Using English in projects can help students:","tipo":"multipla_escolha","alternativas":["communicate and work together with purpose","avoid all interaction in class","use language without meaning","ignore shared objectives"],"respostaCorreta":"communicate and work together with purpose","explicacao":"Projects create opportunities for meaningful language use in collective tasks.","dificuldade":"facil"},
-      {"id":"ing9-projects-collaboration-language-ex-02","enunciado":"Collaboration in language activities involves:","tipo":"multipla_escolha","alternativas":["listening, sharing roles and contributing to a common goal","working without any communication","rejecting participation from others","studying words with no context"],"respostaCorreta":"listening, sharing roles and contributing to a common goal","explicacao":"Collaborative work depends on interaction and shared responsibility.","dificuldade":"facil"},
-      {"id":"ing9-projects-collaboration-language-ex-03","enunciado":"Which statement is correct?","tipo":"multipla_escolha","alternativas":["English learning can become more meaningful in cooperative projects.","Projects have no relation to communication practice.","Language use should avoid real interaction.","Working in groups prevents learning."],"respostaCorreta":"English learning can become more meaningful in cooperative projects.","explicacao":"The topic links language learning with purposeful participation and collaboration.","dificuldade":"medio"},
-      {"id":"ing9-projects-collaboration-language-ex-04","enunciado":"Studying this topic helps students:","tipo":"multipla_escolha","alternativas":["connect language use with participation and cooperation","separate English from shared activities","ignore communication in group work","treat language as only memorization"],"respostaCorreta":"connect language use with participation and cooperation","explicacao":"The content encourages active and collaborative use of English in practical contexts.","dificuldade":"medio"}
+      {
+        "id": "ing9-projects-collaboration-language-ex-01",
+        "enunciado": "Using English in projects can help students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "communicate and work together with purpose",
+          "avoid all interaction in class",
+          "use language without meaning",
+          "ignore shared objectives"
+        ],
+        "respostaCorreta": "communicate and work together with purpose",
+        "explicacao": "Projects create opportunities for meaningful language use in collective tasks.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-ex-02",
+        "enunciado": "Collaboration in language activities involves:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "listening, sharing roles and contributing to a common goal",
+          "working without any communication",
+          "rejecting participation from others",
+          "studying words with no context"
+        ],
+        "respostaCorreta": "listening, sharing roles and contributing to a common goal",
+        "explicacao": "Collaborative work depends on interaction and shared responsibility.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "English learning can become more meaningful in cooperative projects.",
+          "Projects have no relation to communication practice.",
+          "Language use should avoid real interaction.",
+          "Working in groups prevents learning."
+        ],
+        "respostaCorreta": "English learning can become more meaningful in cooperative projects.",
+        "explicacao": "The topic links language learning with purposeful participation and collaboration.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-ex-04",
+        "enunciado": "Studying this topic helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "connect language use with participation and cooperation",
+          "separate English from shared activities",
+          "ignore communication in group work",
+          "treat language as only memorization"
+        ],
+        "respostaCorreta": "connect language use with participation and cooperation",
+        "explicacao": "The content encourages active and collaborative use of English in practical contexts.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Projects, collaboration and language use\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "English can be used in collaborative tasks, projects and shared communication activities",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "English can be used in collaborative tasks, projects and shared communication activities",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-02",
+        "enunciado": "Ao estudar \"Projects, collaboration and language use\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Working with language in groups strengthens interaction, planning and meaningful use"
+        ],
+        "respostaCorreta": "Working with language in groups strengthens interaction, planning and meaningful use",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "This topic connects English learning with participation and cooperation",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "This topic connects English learning with participation and cooperation",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-05",
+        "enunciado": "No contexto de \"Projects, collaboration and language use\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Think about language as a tool for doing something with others, not only as isolated vocabulary",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Think about language as a tool for doing something with others, not only as isolated vocabulary",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-06",
+        "enunciado": "O estudo de \"Projects, collaboration and language use\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender language in collaborative action"
+        ],
+        "respostaCorreta": "compreender language in collaborative action",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Collaboration requires listening, responding, negotiating and contributing to a common objective. In this process, English becomes part of interaction and helps students practice communication in a more active way",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Collaboration requires listening, responding, negotiating and contributing to a common objective. In this process, English becomes part of interaction and helps students practice communication in a more active way",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe how shared tasks can make language practice more dynamic and meaningful",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe how shared tasks can make language practice more dynamic and meaningful",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender communication and cooperation",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender communication and cooperation",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Imagine a group preparing a short presentation in English about environmental action at school"
+        ],
+        "respostaCorreta": "Imagine a group preparing a short presentation in English about environmental action at school",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Projects, collaboration and language use\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "This example shows that English can be used as a tool for cooperation and collective production",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "This example shows that English can be used as a tool for cooperation and collective production",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-12",
+        "enunciado": "Ao estudar \"Projects, collaboration and language use\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identify what the group needs to communicate",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identify what the group needs to communicate",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe how roles can be shared among students",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe how roles can be shared among students",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relate collaboration to language use in the activity"
+        ],
+        "respostaCorreta": "Relate collaboration to language use in the activity",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"ing9-projects-collaboration-language-sim-01","enunciado":"The main idea of this topic is:","tipo":"multipla_escolha","alternativas":["English can be used collaboratively in projects and shared communication tasks","language learning should happen without cooperation","projects are unrelated to communication","English should only be studied in isolation"],"respostaCorreta":"English can be used collaboratively in projects and shared communication tasks","explicacao":"The topic values interaction, collaboration and purposeful language use.","dificuldade":"medio"}
+      {
+        "id": "ing9-projects-collaboration-language-sim-01",
+        "enunciado": "The main idea of this topic is:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "English can be used collaboratively in projects and shared communication tasks",
+          "language learning should happen without cooperation",
+          "projects are unrelated to communication",
+          "English should only be studied in isolation"
+        ],
+        "respostaCorreta": "English can be used collaboratively in projects and shared communication tasks",
+        "explicacao": "The topic values interaction, collaboration and purposeful language use.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Projects, collaboration and language use\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic connects English learning with participation and cooperation",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "This topic connects English learning with participation and cooperation",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Projects, collaboration and language use\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals"
+        ],
+        "respostaCorreta": "Using English in projects allows students to read, write, speak and organize ideas together. Group tasks create opportunities to use language with purpose, especially when learners share roles and goals",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Think about language as a tool for doing something with others, not only as isolated vocabulary",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Think about language as a tool for doing something with others, not only as isolated vocabulary",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Projects, collaboration and language use\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender language in collaborative action",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender language in collaborative action",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Collaboration requires listening, responding, negotiating and contributing to a common objective. In this process, English becomes part of interaction and helps students practice communication in a more active way",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Collaboration requires listening, responding, negotiating and contributing to a common objective. In this process, English becomes part of interaction and helps students practice communication in a more active way",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing9-projects-collaboration-language-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe how shared tasks can make language practice more dynamic and meaningful"
+        ],
+        "respostaCorreta": "Observe how shared tasks can make language practice more dynamic and meaningful",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Projects, collaboration and language use apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

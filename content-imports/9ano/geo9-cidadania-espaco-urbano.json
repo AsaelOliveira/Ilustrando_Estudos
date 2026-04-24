@@ -30,16 +30,397 @@
           "Perceba como isso afeta a experiência de cidadania nos dois espaços."
         ],
         "resposta": "Esse exemplo ajuda a compreender a relação entre direito à cidade e desigualdade urbana."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Cidadania e espaço urbano\".",
+        "passos": [
+          "O espaço urbano é resultado de decisões sociais, econômicas e políticas",
+          "A cidadania se relaciona ao direito à cidade, ao acesso a serviços e à participação social",
+          "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana"
+        ],
+        "resposta": "Esse exemplo mostra como Cidadania e espaço urbano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Cidadania e espaço urbano\".",
+        "passos": [
+          "A cidadania se relaciona ao direito à cidade, ao acesso a serviços e à participação social",
+          "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+          "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva"
+        ],
+        "resposta": "Esse exemplo mostra como Cidadania e espaço urbano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Cidadania e espaço urbano\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+          "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva",
+          "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade"
+        ],
+        "resposta": "Esse exemplo mostra como Cidadania e espaço urbano pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Cidadania e espaço urbano\".",
+        "passos": [
+          "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva",
+          "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade",
+          "Direito à cidade"
+        ],
+        "resposta": "Esse exemplo mostra como Cidadania e espaço urbano pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-cidadania-espaco-urbano-ex-01","enunciado":"A cidadania no espaço urbano se relaciona a:","tipo":"multipla_escolha","alternativas":["direitos e acesso a serviços na cidade","apenas o nome das ruas","somente o formato dos bairros","exclusivamente a altitude dos lugares"],"respostaCorreta":"direitos e acesso a serviços na cidade","explicacao":"Cidadania urbana envolve condições de vida, participação e acesso a estruturas e direitos no espaço citadino.","dificuldade":"facil"},
-      {"id":"geo9-cidadania-espaco-urbano-ex-02","enunciado":"O direito à cidade envolve:","tipo":"multipla_escolha","alternativas":["acesso a moradia, transporte, saneamento e outros serviços","somente a possibilidade de caminhar no centro","apenas a construção de prédios altos","exclusivamente a nomeação de avenidas"],"respostaCorreta":"acesso a moradia, transporte, saneamento e outros serviços","explicacao":"O direito à cidade está ligado a condições dignas de vida e participação no espaço urbano.","dificuldade":"facil"},
-      {"id":"geo9-cidadania-espaco-urbano-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A organização do espaço urbano reflete desigualdades e decisões sociais e políticas.","A cidade se constrói sem participação humana.","Todos os grupos urbanos têm acesso igual a serviços e oportunidades.","Cidadania não tem relação com o espaço geográfico."],"respostaCorreta":"A organização do espaço urbano reflete desigualdades e decisões sociais e políticas.","explicacao":"O espaço urbano resulta de processos sociais e revela contrastes na distribuição de recursos e direitos.","dificuldade":"medio"},
-      {"id":"geo9-cidadania-espaco-urbano-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["compreender melhor a relação entre cidade, direitos e participação social","ignorar desigualdades urbanas","achar que o espaço urbano não muda com decisões humanas","reduzir a cidade a um conjunto de ruas sem vida social"],"respostaCorreta":"compreender melhor a relação entre cidade, direitos e participação social","explicacao":"O conteúdo amplia a leitura geográfica da cidade como espaço de direitos, conflitos e construção coletiva.","dificuldade":"medio"}
+      {
+        "id": "geo9-cidadania-espaco-urbano-ex-01",
+        "enunciado": "A cidadania no espaço urbano se relaciona a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "direitos e acesso a serviços na cidade",
+          "apenas o nome das ruas",
+          "somente o formato dos bairros",
+          "exclusivamente a altitude dos lugares"
+        ],
+        "respostaCorreta": "direitos e acesso a serviços na cidade",
+        "explicacao": "Cidadania urbana envolve condições de vida, participação e acesso a estruturas e direitos no espaço citadino.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-ex-02",
+        "enunciado": "O direito à cidade envolve:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "acesso a moradia, transporte, saneamento e outros serviços",
+          "somente a possibilidade de caminhar no centro",
+          "apenas a construção de prédios altos",
+          "exclusivamente a nomeação de avenidas"
+        ],
+        "respostaCorreta": "acesso a moradia, transporte, saneamento e outros serviços",
+        "explicacao": "O direito à cidade está ligado a condições dignas de vida e participação no espaço urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A organização do espaço urbano reflete desigualdades e decisões sociais e políticas.",
+          "A cidade se constrói sem participação humana.",
+          "Todos os grupos urbanos têm acesso igual a serviços e oportunidades.",
+          "Cidadania não tem relação com o espaço geográfico."
+        ],
+        "respostaCorreta": "A organização do espaço urbano reflete desigualdades e decisões sociais e políticas.",
+        "explicacao": "O espaço urbano resulta de processos sociais e revela contrastes na distribuição de recursos e direitos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender melhor a relação entre cidade, direitos e participação social",
+          "ignorar desigualdades urbanas",
+          "achar que o espaço urbano não muda com decisões humanas",
+          "reduzir a cidade a um conjunto de ruas sem vida social"
+        ],
+        "respostaCorreta": "compreender melhor a relação entre cidade, direitos e participação social",
+        "explicacao": "O conteúdo amplia a leitura geográfica da cidade como espaço de direitos, conflitos e construção coletiva.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Cidadania e espaço urbano\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O espaço urbano é resultado de decisões sociais, econômicas e políticas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "O espaço urbano é resultado de decisões sociais, econômicas e políticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-02",
+        "enunciado": "Ao estudar \"Cidadania e espaço urbano\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A cidadania se relaciona ao direito à cidade, ao acesso a serviços e à participação social"
+        ],
+        "respostaCorreta": "A cidadania se relaciona ao direito à cidade, ao acesso a serviços e à participação social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-05",
+        "enunciado": "No contexto de \"Cidadania e espaço urbano\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-06",
+        "enunciado": "O estudo de \"Cidadania e espaço urbano\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender direito à cidade"
+        ],
+        "respostaCorreta": "compreender direito à cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A cidade não é apenas um cenário fixo. Ela é produzida por decisões, conflitos, políticas públicas e ações da população. Compreender isso ajuda a perceber a ligação entre cidadania e organização do espaço urbano",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A cidade não é apenas um cenário fixo. Ela é produzida por decisões, conflitos, políticas públicas e ações da população. Compreender isso ajuda a perceber a ligação entre cidadania e organização do espaço urbano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como moradores, governo e grupos sociais interferem na construção da cidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como moradores, governo e grupos sociais interferem na construção da cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender participação e organização do espaço",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender participação e organização do espaço",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare dois bairros com diferenças no acesso a transporte, lazer e saneamento"
+        ],
+        "respostaCorreta": "Compare dois bairros com diferenças no acesso a transporte, lazer e saneamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Cidadania e espaço urbano\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a relação entre direito à cidade e desigualdade urbana",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a relação entre direito à cidade e desigualdade urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-12",
+        "enunciado": "Ao estudar \"Cidadania e espaço urbano\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe os contrastes nas condições urbanas",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe os contrastes nas condições urbanas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Perceba como isso afeta a experiência de cidadania nos dois espaços",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Perceba como isso afeta a experiência de cidadania nos dois espaços",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "O espaço urbano é resultado de decisões sociais, econômicas e políticas"
+        ],
+        "respostaCorreta": "O espaço urbano é resultado de decisões sociais, econômicas e políticas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-cidadania-espaco-urbano-sim-01","enunciado":"A principal ideia desse tema é compreender que a cidade:","tipo":"multipla_escolha","alternativas":["é espaço de direitos, desigualdades e participação social","funciona sem relação com cidadania","se organiza sem decisões políticas e sociais","não interfere na vida cotidiana das pessoas"],"respostaCorreta":"é espaço de direitos, desigualdades e participação social","explicacao":"O estudo do espaço urbano mostra como cidadania, acesso a serviços e organização territorial estão profundamente ligados.","dificuldade":"medio"}
+      {
+        "id": "geo9-cidadania-espaco-urbano-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a cidade:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "é espaço de direitos, desigualdades e participação social",
+          "funciona sem relação com cidadania",
+          "se organiza sem decisões políticas e sociais",
+          "não interfere na vida cotidiana das pessoas"
+        ],
+        "respostaCorreta": "é espaço de direitos, desigualdades e participação social",
+        "explicacao": "O estudo do espaço urbano mostra como cidadania, acesso a serviços e organização territorial estão profundamente ligados.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Cidadania e espaço urbano\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender desigualdades e responsabilidades na vida urbana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Cidadania e espaço urbano\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva"
+        ],
+        "respostaCorreta": "Pensar em cidadania urbana significa refletir sobre acesso a transporte, moradia, saneamento, lazer, segurança e outros direitos que influenciam a vida nas cidades. O espaço urbano revela desigualdades, mas também possibilidades de participação coletiva",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe como o acesso aos serviços urbanos pode variar entre diferentes partes da cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Cidadania e espaço urbano\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender direito à cidade",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender direito à cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A cidade não é apenas um cenário fixo. Ela é produzida por decisões, conflitos, políticas públicas e ações da população. Compreender isso ajuda a perceber a ligação entre cidadania e organização do espaço urbano",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A cidade não é apenas um cenário fixo. Ela é produzida por decisões, conflitos, políticas públicas e ações da população. Compreender isso ajuda a perceber a ligação entre cidadania e organização do espaço urbano",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-cidadania-espaco-urbano-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como moradores, governo e grupos sociais interferem na construção da cidade"
+        ],
+        "respostaCorreta": "Pergunte como moradores, governo e grupos sociais interferem na construção da cidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Cidadania e espaço urbano apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

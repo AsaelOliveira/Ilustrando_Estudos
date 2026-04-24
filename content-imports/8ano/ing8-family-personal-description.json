@@ -1,0 +1,426 @@
+[
+  {
+    "id": "ing8-family-personal-description",
+    "titulo": "Family and personal description",
+    "disciplinaId": "ing8",
+    "turmaId": "8ano",
+    "unidade": "Everyday communication",
+    "resumo": [
+      "Talking about family and personal characteristics expands basic communication in English.",
+      "This topic helps students describe people and family relationships more clearly.",
+      "Learning this vocabulary supports reading, speaking and writing in simple contexts."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Family vocabulary",
+        "texto": "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences.",
+        "dica": "Connect each word to real people and familiar situations to memorize it better."
+      },
+      {
+        "subtitulo": "Describing people",
+        "texto": "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English.",
+        "dica": "Start with short descriptions before producing longer sentences."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Read: 'My brother is tall and friendly.'",
+        "passos": [
+          "Identify the family word used in the sentence.",
+          "Observe the adjectives that describe the person."
+        ],
+        "resposta": "This is a simple example of personal description in English."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Family and personal description\".",
+        "passos": [
+          "Talking about family and personal characteristics expands basic communication in English",
+          "This topic helps students describe people and family relationships more clearly",
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts"
+        ],
+        "resposta": "Esse exemplo mostra como Family and personal description pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Family and personal description\".",
+        "passos": [
+          "This topic helps students describe people and family relationships more clearly",
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+          "Family vocabulary"
+        ],
+        "resposta": "Esse exemplo mostra como Family and personal description pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Family and personal description\".",
+        "passos": [
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+          "Family vocabulary",
+          "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences"
+        ],
+        "resposta": "Esse exemplo mostra como Family and personal description pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Family and personal description\".",
+        "passos": [
+          "Family vocabulary",
+          "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences",
+          "Connect each word to real people and familiar situations to memorize it better"
+        ],
+        "resposta": "Esse exemplo mostra como Family and personal description pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "ing8-family-personal-description-ex-01",
+        "enunciado": "The word 'sister' means:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "irmã",
+          "irmão",
+          "mãe",
+          "tia"
+        ],
+        "respostaCorreta": "irmã",
+        "explicacao": "'Sister' is the English word used for 'irmã'.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-ex-02",
+        "enunciado": "Describing people helps students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "communicate more clearly in everyday situations",
+          "avoid using adjectives forever",
+          "replace language with numbers only",
+          "stop building complete sentences"
+        ],
+        "respostaCorreta": "communicate more clearly in everyday situations",
+        "explicacao": "Descriptions make communication richer and more precise in real interactions.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-ex-03",
+        "enunciado": "Which statement is correct?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Family vocabulary and descriptions support basic communication in English.",
+          "This topic has no practical use.",
+          "Students cannot describe people with simple sentences.",
+          "Family words are not part of everyday English."
+        ],
+        "respostaCorreta": "Family vocabulary and descriptions support basic communication in English.",
+        "explicacao": "This content helps students talk about people and relationships with more confidence.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-ex-04",
+        "enunciado": "Studying this topic helps the student:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "talk about people and relationships with more vocabulary",
+          "avoid communication in English",
+          "replace all speaking with isolated words",
+          "ignore personal information in conversations"
+        ],
+        "respostaCorreta": "talk about people and relationships with more vocabulary",
+        "explicacao": "This topic expands useful vocabulary for everyday communication in English.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Talking about family and personal characteristics expands basic communication in English",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Talking about family and personal characteristics expands basic communication in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "This topic helps students describe people and family relationships more clearly"
+        ],
+        "respostaCorreta": "This topic helps students describe people and family relationships more clearly",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Connect each word to real people and familiar situations to memorize it better",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Connect each word to real people and familiar situations to memorize it better",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English"
+        ],
+        "respostaCorreta": "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Start with short descriptions before producing longer sentences",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Start with short descriptions before producing longer sentences",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'My brother is tall and friendly.'",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Read: 'My brother is tall and friendly.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This is a simple example of personal description in English",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This is a simple example of personal description in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identify the family word used in the sentence"
+        ],
+        "respostaCorreta": "Identify the family word used in the sentence",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe the adjectives that describe the person",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe the adjectives that describe the person",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Talking about family and personal characteristics expands basic communication in English",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Talking about family and personal characteristics expands basic communication in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "This topic helps students describe people and family relationships more clearly",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "This topic helps students describe people and family relationships more clearly",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts"
+        ],
+        "respostaCorreta": "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "ing8-family-personal-description-sim-01",
+        "enunciado": "The main goal of this topic is to help students:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "describe family members and people more clearly",
+          "avoid personal interaction in English",
+          "use only random vocabulary",
+          "stop building meaningful sentences"
+        ],
+        "respostaCorreta": "describe family members and people more clearly",
+        "explicacao": "This content supports basic description and communication in familiar situations.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Learning this vocabulary supports reading, speaking and writing in simple contexts",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences"
+        ],
+        "respostaCorreta": "Words such as 'mother', 'father', 'brother', 'sister' and others are useful for talking about family in everyday situations. This vocabulary helps students build simple and meaningful sentences",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Connect each word to real people and familiar situations to memorize it better",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Connect each word to real people and familiar situations to memorize it better",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Students can use adjectives and simple structures to describe physical traits and personality. These descriptions make communication more complete and expressive in English",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Start with short descriptions before producing longer sentences",
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Start with short descriptions before producing longer sentences",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "ing8-family-personal-description-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de family and personal description se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Family and personal description pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com family and personal description dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Read: 'My brother is tall and friendly.'"
+        ],
+        "respostaCorreta": "Read: 'My brother is tall and friendly.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Family and personal description, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

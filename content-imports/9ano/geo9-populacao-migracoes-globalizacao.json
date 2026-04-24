@@ -30,16 +30,397 @@
           "Observe que essa mudança afeta tanto a vida da família quanto o espaço para onde ela vai."
         ],
         "resposta": "Esse exemplo ajuda a compreender a relação entre migração, trabalho e organização do território."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"População, migrações e globalização\".",
+        "passos": [
+          "Os movimentos migratórios fazem parte da dinâmica populacional em diferentes escalas",
+          "A globalização influencia deslocamentos, trabalho, circulação e formas de organização social",
+          "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual"
+        ],
+        "resposta": "Esse exemplo mostra como População, migrações e globalização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"População, migrações e globalização\".",
+        "passos": [
+          "A globalização influencia deslocamentos, trabalho, circulação e formas de organização social",
+          "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+          "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões"
+        ],
+        "resposta": "Esse exemplo mostra como População, migrações e globalização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"População, migrações e globalização\".",
+        "passos": [
+          "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+          "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões",
+          "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino"
+        ],
+        "resposta": "Esse exemplo mostra como População, migrações e globalização pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"População, migrações e globalização\".",
+        "passos": [
+          "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões",
+          "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino",
+          "Deslocamentos populacionais"
+        ],
+        "resposta": "Esse exemplo mostra como População, migrações e globalização pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"geo9-populacao-migracoes-globalizacao-ex-01","enunciado":"As migrações podem ocorrer por motivos:","tipo":"multipla_escolha","alternativas":["econômicos, sociais, políticos e ambientais","apenas linguísticos","somente esportivos","exclusivamente literários"],"respostaCorreta":"econômicos, sociais, políticos e ambientais","explicacao":"Os deslocamentos populacionais podem ter causas variadas ligadas às condições de vida e ao contexto dos territórios.","dificuldade":"facil"},
-      {"id":"geo9-populacao-migracoes-globalizacao-ex-02","enunciado":"A globalização influencia as migrações porque:","tipo":"multipla_escolha","alternativas":["interfere em trabalho, circulação e oportunidades","elimina toda desigualdade entre os lugares","impede qualquer deslocamento humano","substitui completamente os territórios"],"respostaCorreta":"interfere em trabalho, circulação e oportunidades","explicacao":"A globalização altera redes econômicas e sociais que influenciam decisões de mobilidade humana.","dificuldade":"facil"},
-      {"id":"geo9-populacao-migracoes-globalizacao-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Migrações e globalização ajudam a compreender mobilidade e desigualdades no mundo atual.","Deslocamentos humanos não alteram o território.","A população se move sem qualquer motivo social ou econômico.","Globalização e migração não têm relação entre si."],"respostaCorreta":"Migrações e globalização ajudam a compreender mobilidade e desigualdades no mundo atual.","explicacao":"Esse tema relaciona deslocamentos humanos a trabalho, redes, oportunidades e contrastes socioespaciais.","dificuldade":"medio"},
-      {"id":"geo9-populacao-migracoes-globalizacao-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["interpretar melhor os movimentos populacionais e seus impactos","ignorar a relação entre trabalho e migração","achar que o espaço geográfico não muda com a mobilidade humana","separar totalmente população e território"],"respostaCorreta":"interpretar melhor os movimentos populacionais e seus impactos","explicacao":"O conteúdo fortalece a análise das dinâmicas populacionais no mundo contemporâneo.","dificuldade":"medio"}
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-ex-01",
+        "enunciado": "As migrações podem ocorrer por motivos:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "econômicos, sociais, políticos e ambientais",
+          "apenas linguísticos",
+          "somente esportivos",
+          "exclusivamente literários"
+        ],
+        "respostaCorreta": "econômicos, sociais, políticos e ambientais",
+        "explicacao": "Os deslocamentos populacionais podem ter causas variadas ligadas às condições de vida e ao contexto dos territórios.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-ex-02",
+        "enunciado": "A globalização influencia as migrações porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interfere em trabalho, circulação e oportunidades",
+          "elimina toda desigualdade entre os lugares",
+          "impede qualquer deslocamento humano",
+          "substitui completamente os territórios"
+        ],
+        "respostaCorreta": "interfere em trabalho, circulação e oportunidades",
+        "explicacao": "A globalização altera redes econômicas e sociais que influenciam decisões de mobilidade humana.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Migrações e globalização ajudam a compreender mobilidade e desigualdades no mundo atual.",
+          "Deslocamentos humanos não alteram o território.",
+          "A população se move sem qualquer motivo social ou econômico.",
+          "Globalização e migração não têm relação entre si."
+        ],
+        "respostaCorreta": "Migrações e globalização ajudam a compreender mobilidade e desigualdades no mundo atual.",
+        "explicacao": "Esse tema relaciona deslocamentos humanos a trabalho, redes, oportunidades e contrastes socioespaciais.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "interpretar melhor os movimentos populacionais e seus impactos",
+          "ignorar a relação entre trabalho e migração",
+          "achar que o espaço geográfico não muda com a mobilidade humana",
+          "separar totalmente população e território"
+        ],
+        "respostaCorreta": "interpretar melhor os movimentos populacionais e seus impactos",
+        "explicacao": "O conteúdo fortalece a análise das dinâmicas populacionais no mundo contemporâneo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-01",
+        "enunciado": "De acordo com o tema \"População, migrações e globalização\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os movimentos migratórios fazem parte da dinâmica populacional em diferentes escalas",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Os movimentos migratórios fazem parte da dinâmica populacional em diferentes escalas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-02",
+        "enunciado": "Ao estudar \"População, migrações e globalização\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A globalização influencia deslocamentos, trabalho, circulação e formas de organização social"
+        ],
+        "respostaCorreta": "A globalização influencia deslocamentos, trabalho, circulação e formas de organização social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-05",
+        "enunciado": "No contexto de \"População, migrações e globalização\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-06",
+        "enunciado": "O estudo de \"População, migrações e globalização\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender deslocamentos populacionais"
+        ],
+        "respostaCorreta": "compreender deslocamentos populacionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "No mundo globalizado, redes de informação, trabalho e circulação influenciam os movimentos populacionais. Ao mesmo tempo, desigualdades econômicas e políticas também condicionam a mobilidade humana",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "No mundo globalizado, redes de informação, trabalho e circulação influenciam os movimentos populacionais. Ao mesmo tempo, desigualdades econômicas e políticas também condicionam a mobilidade humana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pergunte como oportunidades e desigualdades interferem nas decisões de migração",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pergunte como oportunidades e desigualdades interferem nas decisões de migração",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender globalização e mobilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender globalização e mobilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Considere uma família que se desloca para outra região em busca de melhores condições de trabalho"
+        ],
+        "respostaCorreta": "Considere uma família que se desloca para outra região em busca de melhores condições de trabalho",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-11",
+        "enunciado": "De acordo com o tema \"População, migrações e globalização\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo ajuda a compreender a relação entre migração, trabalho e organização do território",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo ajuda a compreender a relação entre migração, trabalho e organização do território",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-12",
+        "enunciado": "Ao estudar \"População, migrações e globalização\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique a motivação do deslocamento",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique a motivação do deslocamento",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que essa mudança afeta tanto a vida da família quanto o espaço para onde ela vai",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Observe que essa mudança afeta tanto a vida da família quanto o espaço para onde ela vai",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Os movimentos migratórios fazem parte da dinâmica populacional em diferentes escalas"
+        ],
+        "respostaCorreta": "Os movimentos migratórios fazem parte da dinâmica populacional em diferentes escalas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"geo9-populacao-migracoes-globalizacao-sim-01","enunciado":"A principal ideia desse tema é compreender que a mobilidade humana:","tipo":"multipla_escolha","alternativas":["se relaciona a oportunidades, desigualdades e transformações do território","acontece sem causa ou consequência","não interfere na distribuição da população","não tem relação com o mundo globalizado"],"respostaCorreta":"se relaciona a oportunidades, desigualdades e transformações do território","explicacao":"Migração, trabalho e globalização se articulam na organização espacial e social do mundo atual.","dificuldade":"medio"}
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que a mobilidade humana:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se relaciona a oportunidades, desigualdades e transformações do território",
+          "acontece sem causa ou consequência",
+          "não interfere na distribuição da população",
+          "não tem relação com o mundo globalizado"
+        ],
+        "respostaCorreta": "se relaciona a oportunidades, desigualdades e transformações do território",
+        "explicacao": "Migração, trabalho e globalização se articulam na organização espacial e social do mundo atual.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"População, migrações e globalização\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar o tema ajuda a compreender mobilidade humana e desigualdades no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"População, migrações e globalização\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões"
+        ],
+        "respostaCorreta": "As migrações podem acontecer por motivos econômicos, sociais, ambientais, políticos e culturais. Esses deslocamentos transformam territórios e alteram a distribuição da população em diferentes regiões",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Observe as causas dos deslocamentos e os efeitos que eles produzem nos lugares de origem e de destino",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"População, migrações e globalização\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender deslocamentos populacionais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender deslocamentos populacionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "No mundo globalizado, redes de informação, trabalho e circulação influenciam os movimentos populacionais. Ao mesmo tempo, desigualdades econômicas e políticas também condicionam a mobilidade humana",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "No mundo globalizado, redes de informação, trabalho e circulação influenciam os movimentos populacionais. Ao mesmo tempo, desigualdades econômicas e políticas também condicionam a mobilidade humana",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "geo9-populacao-migracoes-globalizacao-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pergunte como oportunidades e desigualdades interferem nas decisões de migração"
+        ],
+        "respostaCorreta": "Pergunte como oportunidades e desigualdades interferem nas decisões de migração",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema População, migrações e globalização apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

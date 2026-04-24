@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-sistemas-organismo",
+    "titulo": "Sistemas do organismo",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Corpo humano",
+    "resumo": [
+      "Os sistemas do corpo atuam de forma integrada.",
+      "Cada sistema possui fun��es espec�ficas.",
+      "Esse estudo ajuda a compreender o organismo como conjunto."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Integra��o",
+        "texto": "Os sistemas do corpo se relacionam para manter o funcionamento do organismo.",
+        "dica": "O corpo funciona como um conjunto organizado."
+      },
+      {
+        "subtitulo": "Fun��es",
+        "texto": "Cada sistema tem um papel pr�prio, mas depende dos demais para manter o equil�brio corporal.",
+        "dica": "Observar rela��es entre sistemas ajuda a compreender a sa�de."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Pense na rela��o entre respira��o e circula��o.",
+        "passos": [
+          "Cada sistema possui fun��o pr�pria.",
+          "Eles se conectam no funcionamento corporal."
+        ],
+        "resposta": "Esse � um exemplo de integra��o entre sistemas."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Sistemas do organismo\".",
+        "passos": [
+          "Os sistemas do corpo atuam de forma integrada",
+          "Cada sistema possui funes especficas",
+          "Esse estudo ajuda a compreender o organismo como conjunto"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas do organismo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Sistemas do organismo\".",
+        "passos": [
+          "Cada sistema possui funes especficas",
+          "Esse estudo ajuda a compreender o organismo como conjunto",
+          "Integrao"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas do organismo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Sistemas do organismo\".",
+        "passos": [
+          "Esse estudo ajuda a compreender o organismo como conjunto",
+          "Integrao",
+          "Os sistemas do corpo se relacionam para manter o funcionamento do organismo"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas do organismo pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Sistemas do organismo\".",
+        "passos": [
+          "Integrao",
+          "Os sistemas do corpo se relacionam para manter o funcionamento do organismo",
+          "O corpo funciona como um conjunto organizado"
+        ],
+        "resposta": "Esse exemplo mostra como Sistemas do organismo pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-sistemas-organismo-ex-01",
+        "enunciado": "Os sistemas do corpo atuam:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "de forma integrada",
+          "sempre isolados",
+          "sem fun��o alguma",
+          "somente em desenhos"
+        ],
+        "respostaCorreta": "de forma integrada",
+        "explicacao": "Os sistemas trabalham em conjunto no organismo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-ex-02",
+        "enunciado": "Cada sistema possui:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "fun��es espec�ficas",
+          "nenhuma fun��o",
+          "apenas nomes",
+          "somente cores"
+        ],
+        "respostaCorreta": "fun��es espec�ficas",
+        "explicacao": "Cada sistema realiza pap�is pr�prios no corpo.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-ex-03",
+        "enunciado": "Qual afirma��o est� correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O organismo depende da integra��o entre sistemas.",
+          "Os sistemas n�o se relacionam.",
+          "Corpo humano funciona sem organiza��o.",
+          "Sa�de dispensa o funcionamento dos sistemas."
+        ],
+        "respostaCorreta": "O organismo depende da integra��o entre sistemas.",
+        "explicacao": "A coopera��o entre sistemas � essencial � vida.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-ex-04",
+        "enunciado": "A principal ideia desse tema � compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o corpo como conjunto organizado",
+          "a elimina��o dos sistemas",
+          "o fim da integra��o corporal",
+          "a aus�ncia de fun��es"
+        ],
+        "respostaCorreta": "o corpo como conjunto organizado",
+        "explicacao": "O tema mostra a rela��o entre diferentes sistemas do organismo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Os sistemas do corpo atuam de forma integrada",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Os sistemas do corpo atuam de forma integrada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada sistema possui funes especficas"
+        ],
+        "respostaCorreta": "Cada sistema possui funes especficas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse estudo ajuda a compreender o organismo como conjunto",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse estudo ajuda a compreender o organismo como conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os sistemas do corpo se relacionam para manter o funcionamento do organismo",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os sistemas do corpo se relacionam para manter o funcionamento do organismo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O corpo funciona como um conjunto organizado",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "O corpo funciona como um conjunto organizado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada sistema tem um papel prprio, mas depende dos demais para manter o equilbrio corporal"
+        ],
+        "respostaCorreta": "Cada sistema tem um papel prprio, mas depende dos demais para manter o equilbrio corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observar relaes entre sistemas ajuda a compreender a sade",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observar relaes entre sistemas ajuda a compreender a sade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense na relao entre respirao e circulao",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pense na relao entre respirao e circulao",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse um exemplo de integrao entre sistemas",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse um exemplo de integrao entre sistemas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada sistema possui funo prpria"
+        ],
+        "respostaCorreta": "Cada sistema possui funo prpria",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Eles se conectam no funcionamento corporal",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Eles se conectam no funcionamento corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os sistemas do corpo atuam de forma integrada",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os sistemas do corpo atuam de forma integrada",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cada sistema possui funes especficas",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Cada sistema possui funes especficas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse estudo ajuda a compreender o organismo como conjunto"
+        ],
+        "respostaCorreta": "Esse estudo ajuda a compreender o organismo como conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-sistemas-organismo-sim-01",
+        "enunciado": "Esse tema ajuda a entender por que o corpo:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "funciona com integra��o entre sistemas",
+          "dispensa rela��es internas",
+          "n�o precisa de organiza��o",
+          "atua sem coopera��o"
+        ],
+        "respostaCorreta": "funciona com integra��o entre sistemas",
+        "explicacao": "Os sistemas corporais atuam de maneira articulada.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse estudo ajuda a compreender o organismo como conjunto",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse estudo ajuda a compreender o organismo como conjunto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os sistemas do corpo se relacionam para manter o funcionamento do organismo"
+        ],
+        "respostaCorreta": "Os sistemas do corpo se relacionam para manter o funcionamento do organismo",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O corpo funciona como um conjunto organizado",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "O corpo funciona como um conjunto organizado",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada sistema tem um papel prprio, mas depende dos demais para manter o equilbrio corporal",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Cada sistema tem um papel prprio, mas depende dos demais para manter o equilbrio corporal",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observar relaes entre sistemas ajuda a compreender a sade",
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observar relaes entre sistemas ajuda a compreender a sade",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-sistemas-organismo-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de sistemas do organismo se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Sistemas do organismo pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com sistemas do organismo dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pense na relao entre respirao e circulao"
+        ],
+        "respostaCorreta": "Pense na relao entre respirao e circulao",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Sistemas do organismo, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

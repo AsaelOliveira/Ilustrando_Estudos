@@ -183,10 +183,6 @@ function getTemaQuestionsForDuel({
 // ============================================================
 // Utilidades
 // ============================================================
-function calcScore(questions: Questao[], answers: (string | null)[]): number {
-  return questions.filter((q, i) => answers[i] === q.respostaCorreta).length;
-}
-
 function fmtTime(s: number) {
   return `${Math.floor(s / 60)}:${(s % 60).toString().padStart(2, "0")}`;
 }
@@ -209,6 +205,10 @@ function timeAgo(dateStr: string) {
   const hrs = Math.floor(mins / 60);
   if (hrs < 24) return `${hrs}h atrás`;
   return `${Math.floor(hrs / 24)}d atrás`;
+}
+
+function toAnswerPayload(answers: Array<string | null>) {
+  return answers.map((answer) => answer ?? "");
 }
 
 // ============================================================
@@ -654,11 +654,9 @@ function LobbyView({
       load();
       return;
     }
-    // Aceitar: marcar o desafiado e mudar status
-    const { error } = await supabase.from("duels").update({
-      challenged_id: user.id,
-      status: "em_batalha",
-    }).eq("id", duel.id);
+    const { error } = await supabase.rpc("accept_duel", {
+      p_duel_id: duel.id,
+    });
     setAccepting(null);
     if (error) {
       toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
@@ -1063,10 +1061,9 @@ function ConfigView({
         return;
       }
 
-      const { error } = await supabase.from("duels").update({
-        challenged_id: user.id,
-        status: "em_batalha",
-      }).eq("id", match.id);
+      const { error } = await supabase.rpc("accept_duel", {
+        p_duel_id: match.id,
+      });
 
       if (error) {
         toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
@@ -1580,39 +1577,27 @@ function BattleArena({
     setSubmitting(true);
     clearInterval(timerRef.current);
 
-    // Usar questionsRef (pode ter sido trocada pelo anti-cheat)
-    const qs = questionsRef.current;
-    const score = calcScore(qs, answersRef.current);
     const elapsed = Math.floor((Date.now() - startTimeRef.current) / 1000);
     const antiCheat = flagsRef.current;
+    const { data: fresh, error } = await supabase.rpc("submit_duel_attempt", {
+      p_duel_id: duel.id,
+      p_answers: toAnswerPayload(answersRef.current),
+      p_time_spent_seconds: elapsed,
+      p_anti_cheat_flags: antiCheat,
+    });
 
-    const update: Record<string, unknown> = playerRole === "challenger"
-      ? {
-        challenger_answers: answersRef.current,
-        challenger_score: score,
-        challenger_time_seconds: elapsed,
-        challenger_anti_cheat: antiCheat,
-        challenger_finished_at: new Date().toISOString(),
-        status: "aguardando",
-      }
-      : {
-        challenged_answers: answersRef.current,
-        challenged_score: score,
-        challenged_time_seconds: elapsed,
-        challenged_anti_cheat: antiCheat,
-        challenged_finished_at: new Date().toISOString(),
-      };
+    setSubmitting(false);
 
-    await supabase.from("duels").update(update).eq("id", duel.id);
-
-    // Se sou o desafiado, tentar finalizar o duelo
-    if (playerRole === "challenged") {
-      await supabase.rpc("finalize_duel", { p_duel_id: duel.id });
+    if (error) {
+      submitGuard.current = false;
+      toast({
+        title: "Erro ao enviar duelo",
+        description: error.message || "Não foi possível registrar suas respostas.",
+        variant: "destructive",
+      });
+      return;
     }
 
-    // Buscar duelo atualizado
-    const { data: fresh } = await supabase.from("duels").select("*").eq("id", duel.id).single();
-    setSubmitting(false);
     setSubmitted(true);
     if (fresh) onDone(fresh as Duel);
   }, [duel, playerRole, flagsRef, onDone]);
@@ -1959,7 +1944,7 @@ function WaitingView({
 
   const cancel = async () => {
     setCanceling(true);
-    await supabase.from("duels").update({ status: "expirado" }).eq("id", duelId).eq("challenger_id", userId);
+    await supabase.rpc("cancel_duel", { p_duel_id: duelId });
     onBack();
   };
 

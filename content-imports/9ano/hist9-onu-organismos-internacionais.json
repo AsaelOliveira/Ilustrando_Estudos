@@ -31,16 +31,397 @@
           "Perceba como a cooperação entre nações pode influenciar a situação."
         ],
         "resposta": "Esse tipo de caso ajuda a compreender o papel de instituições internacionais no mundo atual."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"ONU e organismos internacionais\".",
+        "passos": [
+          "Após grandes conflitos, surgiram organismos internacionais voltados à cooperação entre países",
+          "A ONU é uma das principais instituições ligadas à busca de paz, diálogo e direitos humanos",
+          "Estudar esse tema ajuda a compreender relações internacionais e desafios globais"
+        ],
+        "resposta": "Esse exemplo mostra como ONU e organismos internacionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"ONU e organismos internacionais\".",
+        "passos": [
+          "A ONU é uma das principais instituições ligadas à busca de paz, diálogo e direitos humanos",
+          "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+          "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos"
+        ],
+        "resposta": "Esse exemplo mostra como ONU e organismos internacionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"ONU e organismos internacionais\".",
+        "passos": [
+          "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+          "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos",
+          "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala"
+        ],
+        "resposta": "Esse exemplo mostra como ONU e organismos internacionais pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"ONU e organismos internacionais\".",
+        "passos": [
+          "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos",
+          "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala",
+          "Cooperação internacional no pós-guerra"
+        ],
+        "resposta": "Esse exemplo mostra como ONU e organismos internacionais pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"hist9-onu-organismos-internacionais-ex-01","enunciado":"A ONU é um exemplo de:","tipo":"multipla_escolha","alternativas":["organismo internacional","partido político local","movimento artístico regional","instituição escolar municipal"],"respostaCorreta":"organismo internacional","explicacao":"A ONU reúne diversos países em torno de debates e ações de alcance global.","dificuldade":"facil"},
-      {"id":"hist9-onu-organismos-internacionais-ex-02","enunciado":"Esses organismos ganharam destaque principalmente após:","tipo":"multipla_escolha","alternativas":["grandes conflitos mundiais","mudanças na caligrafia escolar","criação dos primeiros livros","invenção dos mapas antigos"],"respostaCorreta":"grandes conflitos mundiais","explicacao":"As guerras evidenciaram a necessidade de cooperação internacional e mediação entre países.","dificuldade":"facil"},
-      {"id":"hist9-onu-organismos-internacionais-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["A ONU atua em temas como paz, direitos humanos e ajuda humanitária.","A ONU resolve automaticamente todos os conflitos do mundo.","Organismos internacionais não têm relação com a política global.","Essas instituições não surgiram em contextos históricos específicos."],"respostaCorreta":"A ONU atua em temas como paz, direitos humanos e ajuda humanitária.","explicacao":"A organização participa de ações e discussões ligadas a questões centrais da ordem internacional contemporânea.","dificuldade":"medio"},
-      {"id":"hist9-onu-organismos-internacionais-ex-04","enunciado":"Estudar esse tema ajuda a entender:","tipo":"multipla_escolha","alternativas":["como países se articulam diante de problemas globais","somente fatos isolados sem contexto","apenas acontecimentos da Antiguidade","questões sem ligação com a atualidade"],"respostaCorreta":"como países se articulam diante de problemas globais","explicacao":"O tema aproxima o aluno das dinâmicas da política internacional e da cooperação entre nações.","dificuldade":"medio"}
+      {
+        "id": "hist9-onu-organismos-internacionais-ex-01",
+        "enunciado": "A ONU é um exemplo de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organismo internacional",
+          "partido político local",
+          "movimento artístico regional",
+          "instituição escolar municipal"
+        ],
+        "respostaCorreta": "organismo internacional",
+        "explicacao": "A ONU reúne diversos países em torno de debates e ações de alcance global.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-ex-02",
+        "enunciado": "Esses organismos ganharam destaque principalmente após:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "grandes conflitos mundiais",
+          "mudanças na caligrafia escolar",
+          "criação dos primeiros livros",
+          "invenção dos mapas antigos"
+        ],
+        "respostaCorreta": "grandes conflitos mundiais",
+        "explicacao": "As guerras evidenciaram a necessidade de cooperação internacional e mediação entre países.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A ONU atua em temas como paz, direitos humanos e ajuda humanitária.",
+          "A ONU resolve automaticamente todos os conflitos do mundo.",
+          "Organismos internacionais não têm relação com a política global.",
+          "Essas instituições não surgiram em contextos históricos específicos."
+        ],
+        "respostaCorreta": "A ONU atua em temas como paz, direitos humanos e ajuda humanitária.",
+        "explicacao": "A organização participa de ações e discussões ligadas a questões centrais da ordem internacional contemporânea.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-ex-04",
+        "enunciado": "Estudar esse tema ajuda a entender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "como países se articulam diante de problemas globais",
+          "somente fatos isolados sem contexto",
+          "apenas acontecimentos da Antiguidade",
+          "questões sem ligação com a atualidade"
+        ],
+        "respostaCorreta": "como países se articulam diante de problemas globais",
+        "explicacao": "O tema aproxima o aluno das dinâmicas da política internacional e da cooperação entre nações.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-01",
+        "enunciado": "De acordo com o tema \"ONU e organismos internacionais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Após grandes conflitos, surgiram organismos internacionais voltados à cooperação entre países",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Após grandes conflitos, surgiram organismos internacionais voltados à cooperação entre países",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-02",
+        "enunciado": "Ao estudar \"ONU e organismos internacionais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "A ONU é uma das principais instituições ligadas à busca de paz, diálogo e direitos humanos"
+        ],
+        "respostaCorreta": "A ONU é uma das principais instituições ligadas à busca de paz, diálogo e direitos humanos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-05",
+        "enunciado": "No contexto de \"ONU e organismos internacionais\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-06",
+        "enunciado": "O estudo de \"ONU e organismos internacionais\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender cooperação internacional no pós-guerra"
+        ],
+        "respostaCorreta": "compreender cooperação internacional no pós-guerra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "A Organização das Nações Unidas busca promover negociações, mediação de conflitos, ajuda humanitária e defesa de direitos. Embora enfrente limites e desafios, sua atuação é importante para compreender a política internacional contemporânea",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "A Organização das Nações Unidas busca promover negociações, mediação de conflitos, ajuda humanitária e defesa de direitos. Embora enfrente limites e desafios, sua atuação é importante para compreender a política internacional contemporânea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Pense na ONU como um espaço de articulação entre países, e não como solução automática para todos os problemas",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Pense na ONU como um espaço de articulação entre países, e não como solução automática para todos os problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender função da onu no mundo atual",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender função da onu no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe uma notícia sobre atuação internacional em conflitos, crises humanitárias ou campanhas de saúde global"
+        ],
+        "respostaCorreta": "Observe uma notícia sobre atuação internacional em conflitos, crises humanitárias ou campanhas de saúde global",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-11",
+        "enunciado": "De acordo com o tema \"ONU e organismos internacionais\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse tipo de caso ajuda a compreender o papel de instituições internacionais no mundo atual",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse tipo de caso ajuda a compreender o papel de instituições internacionais no mundo atual",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-12",
+        "enunciado": "Ao estudar \"ONU e organismos internacionais\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Identifique quais países ou grupos estão envolvidos",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Identifique quais países ou grupos estão envolvidos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise se há participação de organismos internacionais",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Analise se há participação de organismos internacionais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Perceba como a cooperação entre nações pode influenciar a situação"
+        ],
+        "respostaCorreta": "Perceba como a cooperação entre nações pode influenciar a situação",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"hist9-onu-organismos-internacionais-sim-01","enunciado":"A melhor síntese do tema é:","tipo":"multipla_escolha","alternativas":["organismos internacionais surgiram para ampliar cooperação e enfrentar desafios comuns entre países","essas instituições não têm função histórica relevante","a política internacional pode ser entendida sem considerar organismos multilaterais","a ONU é apenas um símbolo sem atuação concreta"],"respostaCorreta":"organismos internacionais surgiram para ampliar cooperação e enfrentar desafios comuns entre países","explicacao":"Essas instituições ajudam a interpretar a organização do mundo contemporâneo e suas tensões.","dificuldade":"medio"}
+      {
+        "id": "hist9-onu-organismos-internacionais-sim-01",
+        "enunciado": "A melhor síntese do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "organismos internacionais surgiram para ampliar cooperação e enfrentar desafios comuns entre países",
+          "essas instituições não têm função histórica relevante",
+          "a política internacional pode ser entendida sem considerar organismos multilaterais",
+          "a ONU é apenas um símbolo sem atuação concreta"
+        ],
+        "respostaCorreta": "organismos internacionais surgiram para ampliar cooperação e enfrentar desafios comuns entre países",
+        "explicacao": "Essas instituições ajudam a interpretar a organização do mundo contemporâneo e suas tensões.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"ONU e organismos internacionais\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a compreender relações internacionais e desafios globais",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"ONU e organismos internacionais\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos"
+        ],
+        "respostaCorreta": "Depois das guerras mundiais, a necessidade de criar mecanismos de diálogo e cooperação entre países tornou-se mais evidente. Nesse contexto, organismos internacionais passaram a atuar em temas como segurança, saúde, educação e direitos humanos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Relacione o surgimento dessas instituições ao desejo de evitar novos conflitos de grande escala",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"ONU e organismos internacionais\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender cooperação internacional no pós-guerra",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender cooperação internacional no pós-guerra",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A Organização das Nações Unidas busca promover negociações, mediação de conflitos, ajuda humanitária e defesa de direitos. Embora enfrente limites e desafios, sua atuação é importante para compreender a política internacional contemporânea",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "A Organização das Nações Unidas busca promover negociações, mediação de conflitos, ajuda humanitária e defesa de direitos. Embora enfrente limites e desafios, sua atuação é importante para compreender a política internacional contemporânea",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "hist9-onu-organismos-internacionais-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense na ONU como um espaço de articulação entre países, e não como solução automática para todos os problemas"
+        ],
+        "respostaCorreta": "Pense na ONU como um espaço de articulação entre países, e não como solução automática para todos os problemas",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema ONU e organismos internacionais apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

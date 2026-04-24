@@ -1,0 +1,426 @@
+[
+  {
+    "id": "esp8-ciudad-direcciones",
+    "titulo": "La ciudad y direcciones básicas",
+    "disciplinaId": "esp8",
+    "turmaId": "8ano",
+    "unidade": "Comunicación cotidiana",
+    "resumo": [
+      "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol.",
+      "Esse tema trabalha vocabulário de lugares, deslocamentos e localização.",
+      "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Lugares e localização",
+        "texto": "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento.",
+        "dica": "Associe as palavras a lugares que você conhece para facilitar a memorização."
+      },
+      {
+        "subtitulo": "Direções básicas",
+        "texto": "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara.",
+        "dica": "Pratique frases curtas com referência de lugar e direção."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia: 'La biblioteca está cerca de la plaza.'",
+        "passos": [
+          "Identifique o lugar principal mencionado na frase.",
+          "Observe a expressão que indica localização."
+        ],
+        "resposta": "Esse é um exemplo simples de descrição de lugar em espanhol."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"La ciudad y direcciones básicas\".",
+        "passos": [
+          "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol",
+          "Esse tema trabalha vocabulário de lugares, deslocamentos e localização",
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço"
+        ],
+        "resposta": "Esse exemplo mostra como La ciudad y direcciones básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"La ciudad y direcciones básicas\".",
+        "passos": [
+          "Esse tema trabalha vocabulário de lugares, deslocamentos e localização",
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+          "Lugares e localização"
+        ],
+        "resposta": "Esse exemplo mostra como La ciudad y direcciones básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"La ciudad y direcciones básicas\".",
+        "passos": [
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+          "Lugares e localização",
+          "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento"
+        ],
+        "resposta": "Esse exemplo mostra como La ciudad y direcciones básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"La ciudad y direcciones básicas\".",
+        "passos": [
+          "Lugares e localização",
+          "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento",
+          "Associe as palavras a lugares que você conhece para facilitar a memorização"
+        ],
+        "resposta": "Esse exemplo mostra como La ciudad y direcciones básicas pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "esp8-ciudad-direcciones-ex-01",
+        "enunciado": "Falar sobre a cidade em espanhol ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "descrever lugares e compreender deslocamentos",
+          "evitar qualquer situação prática de comunicação",
+          "eliminar o uso de vocabulário espacial",
+          "substituir frases por listas sem contexto"
+        ],
+        "respostaCorreta": "descrever lugares e compreender deslocamentos",
+        "explicacao": "Esse conteúdo amplia a comunicação em contextos cotidianos ligados ao espaço urbano.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-ex-02",
+        "enunciado": "Uma expressão de localização serve para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "indicar onde algo está",
+          "apagar o sentido da frase",
+          "trocar todo o vocabulário por números",
+          "eliminar a referência espacial"
+        ],
+        "respostaCorreta": "indicar onde algo está",
+        "explicacao": "Essas expressões ajudam a localizar pessoas, objetos e lugares. ",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Vocabulário de cidade e direções ajuda em situações reais de comunicação.",
+          "Esse tema não aparece no cotidiano.",
+          "Não é possível pedir orientação com frases simples em espanhol.",
+          "Lugares e deslocamentos não fazem parte da comunicação básica."
+        ],
+        "respostaCorreta": "Vocabulário de cidade e direções ajuda em situações reais de comunicação.",
+        "explicacao": "Esse repertório é útil para compreender e dar informações simples sobre localização e caminho.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "falar sobre lugares e localização com mais segurança",
+          "evitar toda referência ao espaço",
+          "ignorar o vocabulário de circulação urbana",
+          "substituir diálogo por silêncio"
+        ],
+        "respostaCorreta": "falar sobre lugares e localização com mais segurança",
+        "explicacao": "O conteúdo fortalece a comunicação prática em espanhol no dia a dia.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse tema trabalha vocabulário de lugares, deslocamentos e localização"
+        ],
+        "respostaCorreta": "Esse tema trabalha vocabulário de lugares, deslocamentos e localização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe as palavras a lugares que você conhece para facilitar a memorização",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe as palavras a lugares que você conhece para facilitar a memorização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara"
+        ],
+        "respostaCorreta": "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pratique frases curtas com referência de lugar e direção",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pratique frases curtas com referência de lugar e direção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'La biblioteca está cerca de la plaza.'",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia: 'La biblioteca está cerca de la plaza.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse é um exemplo simples de descrição de lugar em espanhol",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse é um exemplo simples de descrição de lugar em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique o lugar principal mencionado na frase"
+        ],
+        "respostaCorreta": "Identifique o lugar principal mencionado na frase",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe a expressão que indica localização",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe a expressão que indica localização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Falar sobre a cidade e pedir direções amplia a comunicação prática em espanhol",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse tema trabalha vocabulário de lugares, deslocamentos e localização",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse tema trabalha vocabulário de lugares, deslocamentos e localização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço"
+        ],
+        "respostaCorreta": "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "esp8-ciudad-direcciones-sim-01",
+        "enunciado": "A principal utilidade desse tema é permitir que o estudante:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreenda e expresse localização e direções básicas em espanhol",
+          "substitua toda a comunicação por gestos",
+          "ignore a organização do espaço",
+          "dispense o uso de frases"
+        ],
+        "respostaCorreta": "compreenda e expresse localização e direções básicas em espanhol",
+        "explicacao": "O vocabulário de lugares e direções fortalece a participação em situações reais de comunicação.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Aprender essas expressões ajuda o estudante a compreender situações reais de circulação no espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento"
+        ],
+        "respostaCorreta": "O vocabulário da cidade inclui palavras ligadas a ruas, praças, escolas, lojas e outros espaços urbanos. Esse repertório ajuda a indicar onde algo está e a compreender melhor instruções de deslocamento",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe as palavras a lugares que você conhece para facilitar a memorização",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe as palavras a lugares que você conhece para facilitar a memorização",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pedir e compreender direções é uma habilidade importante para a comunicação cotidiana. Expressões simples permitem indicar caminho, proximidade e posição de forma clara",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pratique frases curtas com referência de lugar e direção",
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pratique frases curtas com referência de lugar e direção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "esp8-ciudad-direcciones-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de la ciudad y direcciones básicas se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "La ciudad y direcciones básicas pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com la ciudad y direcciones básicas dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia: 'La biblioteca está cerca de la plaza.'"
+        ],
+        "respostaCorreta": "Leia: 'La biblioteca está cerca de la plaza.'",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em La ciudad y direcciones básicas, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

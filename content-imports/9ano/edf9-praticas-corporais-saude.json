@@ -31,16 +31,397 @@
           "Relacione essas escolhas à qualidade de vida."
         ],
         "resposta": "Esse exemplo mostra que saúde e movimento estão ligados a hábitos consistentes no dia a dia."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Práticas corporais, saúde e qualidade de vida\".",
+        "passos": [
+          "As práticas corporais contribuem para a saúde física, mental e social",
+          "Exercícios, esportes, danças e alongamentos podem fazer parte de uma rotina equilibrada",
+          "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo"
+        ],
+        "resposta": "Esse exemplo mostra como Práticas corporais, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Práticas corporais, saúde e qualidade de vida\".",
+        "passos": [
+          "Exercícios, esportes, danças e alongamentos podem fazer parte de uma rotina equilibrada",
+          "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+          "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida"
+        ],
+        "resposta": "Esse exemplo mostra como Práticas corporais, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Práticas corporais, saúde e qualidade de vida\".",
+        "passos": [
+          "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+          "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida",
+          "Pense em atividades corporais variadas, e não apenas em esportes competitivos"
+        ],
+        "resposta": "Esse exemplo mostra como Práticas corporais, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Práticas corporais, saúde e qualidade de vida\".",
+        "passos": [
+          "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida",
+          "Pense em atividades corporais variadas, e não apenas em esportes competitivos",
+          "Movimento e bem-estar"
+        ],
+        "resposta": "Esse exemplo mostra como Práticas corporais, saúde e qualidade de vida pode ser analisado, interpretado e aplicado com mais clareza."
       }
     ],
     "exercicios": [
-      {"id":"edf9-praticas-corporais-saude-ex-01","enunciado":"As práticas corporais podem contribuir para:","tipo":"multipla_escolha","alternativas":["saúde e qualidade de vida","apenas decoração de ambientes","somente memorização de regras","redução da importância do descanso"],"respostaCorreta":"saúde e qualidade de vida","explicacao":"Movimento corporal está ligado ao bem-estar físico, mental e social.","dificuldade":"facil"},
-      {"id":"edf9-praticas-corporais-saude-ex-02","enunciado":"Qual opção apresenta uma prática corporal?","tipo":"multipla_escolha","alternativas":["alongamento","pontuação","divisão silábica","classificação gramatical"],"respostaCorreta":"alongamento","explicacao":"Alongamento é uma prática corporal relacionada ao cuidado com o corpo e ao movimento.","dificuldade":"facil"},
-      {"id":"edf9-praticas-corporais-saude-ex-03","enunciado":"Qual afirmação está correta?","tipo":"multipla_escolha","alternativas":["Saúde também depende de hábitos cotidianos, como descanso e atividade física.","Qualidade de vida não tem relação com movimento corporal.","Somente atletas precisam cuidar do corpo.","A Educação Física se resume a competição."],"respostaCorreta":"Saúde também depende de hábitos cotidianos, como descanso e atividade física.","explicacao":"O cuidado com o corpo envolve rotina, equilíbrio e escolhas conscientes.","dificuldade":"medio"},
-      {"id":"edf9-praticas-corporais-saude-ex-04","enunciado":"Estudar esse tema ajuda o aluno a:","tipo":"multipla_escolha","alternativas":["desenvolver hábitos mais conscientes de cuidado com o corpo","ignorar a importância do bem-estar","reduzir saúde a aparência física","separar movimento de qualidade de vida"],"respostaCorreta":"desenvolver hábitos mais conscientes de cuidado com o corpo","explicacao":"O tema estimula autonomia e reflexão sobre práticas saudáveis.","dificuldade":"medio"}
+      {
+        "id": "edf9-praticas-corporais-saude-ex-01",
+        "enunciado": "As práticas corporais podem contribuir para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "saúde e qualidade de vida",
+          "apenas decoração de ambientes",
+          "somente memorização de regras",
+          "redução da importância do descanso"
+        ],
+        "respostaCorreta": "saúde e qualidade de vida",
+        "explicacao": "Movimento corporal está ligado ao bem-estar físico, mental e social.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-ex-02",
+        "enunciado": "Qual opção apresenta uma prática corporal?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "alongamento",
+          "pontuação",
+          "divisão silábica",
+          "classificação gramatical"
+        ],
+        "respostaCorreta": "alongamento",
+        "explicacao": "Alongamento é uma prática corporal relacionada ao cuidado com o corpo e ao movimento.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Saúde também depende de hábitos cotidianos, como descanso e atividade física.",
+          "Qualidade de vida não tem relação com movimento corporal.",
+          "Somente atletas precisam cuidar do corpo.",
+          "A Educação Física se resume a competição."
+        ],
+        "respostaCorreta": "Saúde também depende de hábitos cotidianos, como descanso e atividade física.",
+        "explicacao": "O cuidado com o corpo envolve rotina, equilíbrio e escolhas conscientes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "desenvolver hábitos mais conscientes de cuidado com o corpo",
+          "ignorar a importância do bem-estar",
+          "reduzir saúde a aparência física",
+          "separar movimento de qualidade de vida"
+        ],
+        "respostaCorreta": "desenvolver hábitos mais conscientes de cuidado com o corpo",
+        "explicacao": "O tema estimula autonomia e reflexão sobre práticas saudáveis.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-01",
+        "enunciado": "De acordo com o tema \"Práticas corporais, saúde e qualidade de vida\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As práticas corporais contribuem para a saúde física, mental e social",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "As práticas corporais contribuem para a saúde física, mental e social",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-02",
+        "enunciado": "Ao estudar \"Práticas corporais, saúde e qualidade de vida\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Exercícios, esportes, danças e alongamentos podem fazer parte de uma rotina equilibrada"
+        ],
+        "respostaCorreta": "Exercícios, esportes, danças e alongamentos podem fazer parte de uma rotina equilibrada",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-03",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+          "afastar o conteudo de situacoes concretas"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-04",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ignorar analise, comparacao e argumentacao",
+          "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade"
+        ],
+        "respostaCorreta": "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-05",
+        "enunciado": "No contexto de \"Práticas corporais, saúde e qualidade de vida\", e correto afirmar que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pense em atividades corporais variadas, e não apenas em esportes competitivos",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Pense em atividades corporais variadas, e não apenas em esportes competitivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-06",
+        "enunciado": "O estudo de \"Práticas corporais, saúde e qualidade de vida\" ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "compreender movimento e bem-estar"
+        ],
+        "respostaCorreta": "compreender movimento e bem-estar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-07",
+        "enunciado": "Uma conclusao valida sobre esse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Educação Física também envolve refletir sobre descanso, alimentação, postura e escolhas cotidianas ligadas ao corpo. Ao compreender esses aspectos, o estudante desenvolve maior autonomia para cuidar de si com responsabilidade",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Educação Física também envolve refletir sobre descanso, alimentação, postura e escolhas cotidianas ligadas ao corpo. Ao compreender esses aspectos, o estudante desenvolve maior autonomia para cuidar de si com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-08",
+        "enunciado": "Ao revisar esse conteudo, a ideia mais importante e que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "Observe como pequenas escolhas diárias influenciam a saúde ao longo do tempo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "Observe como pequenas escolhas diárias influenciam a saúde ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-09",
+        "enunciado": "No 9o ano, esse tema e relevante porque:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "compreender hábitos saudáveis e autonomia",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "compreender hábitos saudáveis e autonomia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-10",
+        "enunciado": "A leitura correta do tema permite perceber que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Compare a rotina de uma pessoa sedentária com a de outra que reserva tempo para caminhar, alongar e dormir bem"
+        ],
+        "respostaCorreta": "Compare a rotina de uma pessoa sedentária com a de outra que reserva tempo para caminhar, alongar e dormir bem",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-11",
+        "enunciado": "De acordo com o tema \"Práticas corporais, saúde e qualidade de vida\", qual afirmacao esta correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Esse exemplo mostra que saúde e movimento estão ligados a hábitos consistentes no dia a dia",
+          "dispensar leitura atenta e interpretacao"
+        ],
+        "respostaCorreta": "Esse exemplo mostra que saúde e movimento estão ligados a hábitos consistentes no dia a dia",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-12",
+        "enunciado": "Ao estudar \"Práticas corporais, saúde e qualidade de vida\", o estudante precisa compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "evitar relacoes entre conceitos e pratica",
+          "Observe diferenças nos hábitos diários",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado"
+        ],
+        "respostaCorreta": "Observe diferenças nos hábitos diários",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-13",
+        "enunciado": "Qual ideia representa melhor uma aprendizagem desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Analise possíveis efeitos no bem-estar",
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao"
+        ],
+        "respostaCorreta": "Analise possíveis efeitos no bem-estar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-ex-14",
+        "enunciado": "Esse tema contribui principalmente para:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias",
+          "Relacione essas escolhas à qualidade de vida"
+        ],
+        "respostaCorreta": "Relacione essas escolhas à qualidade de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      }
     ],
     "simulado": [
-      {"id":"edf9-praticas-corporais-saude-sim-01","enunciado":"A principal ideia do tema é:","tipo":"multipla_escolha","alternativas":["movimento, hábitos e saúde se relacionam na construção da qualidade de vida","atividade física serve apenas para competição","saúde não depende das escolhas do cotidiano","o corpo deve ser estudado sem relação com a vida prática"],"respostaCorreta":"movimento, hábitos e saúde se relacionam na construção da qualidade de vida","explicacao":"O conteúdo aproxima práticas corporais do cuidado integral com a saúde.","dificuldade":"medio"}
+      {
+        "id": "edf9-praticas-corporais-saude-sim-01",
+        "enunciado": "A principal ideia do tema é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "movimento, hábitos e saúde se relacionam na construção da qualidade de vida",
+          "atividade física serve apenas para competição",
+          "saúde não depende das escolhas do cotidiano",
+          "o corpo deve ser estudado sem relação com a vida prática"
+        ],
+        "respostaCorreta": "movimento, hábitos e saúde se relacionam na construção da qualidade de vida",
+        "explicacao": "O conteúdo aproxima práticas corporais do cuidado integral com a saúde.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-01",
+        "enunciado": "Em uma avaliacao sobre \"Práticas corporais, saúde e qualidade de vida\", a conclusao mais adequada e que o tema ajuda a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias",
+          "substituir reflexao por respostas aleatorias"
+        ],
+        "respostaCorreta": "Estudar esse tema ajuda a desenvolver hábitos mais conscientes de cuidado com o corpo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-02",
+        "enunciado": "A melhor sintese para o tema \"Práticas corporais, saúde e qualidade de vida\" e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica",
+          "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida"
+        ],
+        "respostaCorreta": "A prática regular de atividades corporais favorece disposição, fortalecimento muscular, coordenação, socialização e prevenção de problemas de saúde. Além disso, movimentar o corpo também pode contribuir para reduzir estresse e melhorar a qualidade de vida",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-03",
+        "enunciado": "Num simulado sobre esse conteudo, a ideia central mais adequada seria:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Pense em atividades corporais variadas, e não apenas em esportes competitivos",
+          "decorar informacoes sem compreender o assunto"
+        ],
+        "respostaCorreta": "Pense em atividades corporais variadas, e não apenas em esportes competitivos",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-04",
+        "enunciado": "Ao relacionar teoria e pratica em \"Práticas corporais, saúde e qualidade de vida\", conclui-se que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "substituir reflexao por respostas aleatorias",
+          "compreender movimento e bem-estar",
+          "dispensar leitura atenta e interpretacao",
+          "eliminar a necessidade de observar exemplos e evidencias"
+        ],
+        "respostaCorreta": "compreender movimento e bem-estar",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-05",
+        "enunciado": "Qual interpretacao mostra melhor o objetivo desse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Educação Física também envolve refletir sobre descanso, alimentação, postura e escolhas cotidianas ligadas ao corpo. Ao compreender esses aspectos, o estudante desenvolve maior autonomia para cuidar de si com responsabilidade",
+          "afastar o conteudo de situacoes concretas",
+          "memorizar termos sem construir significado",
+          "evitar relacoes entre conceitos e pratica"
+        ],
+        "respostaCorreta": "Educação Física também envolve refletir sobre descanso, alimentação, postura e escolhas cotidianas ligadas ao corpo. Ao compreender esses aspectos, o estudante desenvolve maior autonomia para cuidar de si com responsabilidade",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "edf9-praticas-corporais-saude-auto-sim-06",
+        "enunciado": "O principal resultado esperado do estudo desse tema e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "decorar informacoes sem compreender o assunto",
+          "tratar o conteudo como algo sem relacao com a realidade",
+          "ignorar analise, comparacao e argumentacao",
+          "Observe como pequenas escolhas diárias influenciam a saúde ao longo do tempo"
+        ],
+        "respostaCorreta": "Observe como pequenas escolhas diárias influenciam a saúde ao longo do tempo",
+        "explicacao": "A ideia correta retoma os pontos centrais do tema Práticas corporais, saúde e qualidade de vida apresentados no resumo, na explicacao e nos exemplos.",
+        "dificuldade": "dificil"
+      }
     ]
   }
 ]

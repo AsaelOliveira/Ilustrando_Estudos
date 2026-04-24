@@ -1,0 +1,426 @@
+[
+  {
+    "id": "mat8-semelhanca-figuras-intro",
+    "titulo": "Introdução à semelhança de figuras",
+    "disciplinaId": "mat8",
+    "turmaId": "8ano",
+    "unidade": "Geometria",
+    "resumo": [
+      "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes.",
+      "A semelhança envolve proporção entre medidas correspondentes.",
+      "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Mesma forma, tamanhos diferentes",
+        "texto": "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos.",
+        "dica": "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles."
+      },
+      {
+        "subtitulo": "Uso da semelhança",
+        "texto": "A semelhança aparece em mapas, maquetes, desenhos ampliados, fotografias e muitas outras representações. Esse estudo ajuda a compreender relações de escala e proporcionalidade em figuras geométricas.",
+        "dica": "Associe a ideia de semelhança a ampliações e reduções feitas sem deformar a figura."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Considere dois triângulos com os mesmos ângulos, mas tamanhos diferentes.",
+        "passos": [
+          "Observe que a forma foi mantida.",
+          "Compare os lados correspondentes e verifique se há proporção."
+        ],
+        "resposta": "Se os lados forem proporcionais, os triângulos são semelhantes."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Introdução à semelhança de figuras\".",
+        "passos": [
+          "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes",
+          "A semelhança envolve proporção entre medidas correspondentes",
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à semelhança de figuras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Introdução à semelhança de figuras\".",
+        "passos": [
+          "A semelhança envolve proporção entre medidas correspondentes",
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+          "Mesma forma, tamanhos diferentes"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à semelhança de figuras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Introdução à semelhança de figuras\".",
+        "passos": [
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+          "Mesma forma, tamanhos diferentes",
+          "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à semelhança de figuras pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Introdução à semelhança de figuras\".",
+        "passos": [
+          "Mesma forma, tamanhos diferentes",
+          "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos",
+          "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles"
+        ],
+        "resposta": "Esse exemplo mostra como Introdução à semelhança de figuras pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "mat8-semelhanca-figuras-intro-ex-01",
+        "enunciado": "Figuras semelhantes são aquelas que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "mantêm a mesma forma com medidas proporcionais",
+          "têm exatamente o mesmo tamanho sempre",
+          "possuem apenas a mesma cor",
+          "apresentam lados sem relação alguma"
+        ],
+        "respostaCorreta": "mantêm a mesma forma com medidas proporcionais",
+        "explicacao": "A semelhança preserva a forma e exige proporção entre as medidas correspondentes.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-ex-02",
+        "enunciado": "A semelhança entre figuras está ligada à ideia de:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "proporcionalidade",
+          "pontuação",
+          "aliteração",
+          "divisão silábica"
+        ],
+        "respostaCorreta": "proporcionalidade",
+        "explicacao": "A comparação entre medidas proporcionais é central no estudo da semelhança.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-ex-03",
+        "enunciado": "Qual situação envolve semelhança de figuras?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "uma maquete feita em escala",
+          "uma frase com sujeito simples",
+          "a classificação de um substantivo",
+          "a leitura de um poema"
+        ],
+        "respostaCorreta": "uma maquete feita em escala",
+        "explicacao": "Maquetes e mapas usam redução proporcional, preservando a forma original.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-ex-04",
+        "enunciado": "Estudar semelhança ajuda a compreender:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ampliações e reduções sem deformação",
+          "apenas cálculos de perímetro",
+          "somente a ordem dos números naturais",
+          "exclusivamente operações com inteiros"
+        ],
+        "respostaCorreta": "ampliações e reduções sem deformação",
+        "explicacao": "Esse conceito permite analisar figuras que mantêm a forma em tamanhos diferentes.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A semelhança envolve proporção entre medidas correspondentes"
+        ],
+        "respostaCorreta": "A semelhança envolve proporção entre medidas correspondentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A semelhança aparece em mapas, maquetes, desenhos ampliados, fotografias e muitas outras representações. Esse estudo ajuda a compreender relações de escala e proporcionalidade em figuras geométricas"
+        ],
+        "respostaCorreta": "A semelhança aparece em mapas, maquetes, desenhos ampliados, fotografias e muitas outras representações. Esse estudo ajuda a compreender relações de escala e proporcionalidade em figuras geométricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Associe a ideia de semelhança a ampliações e reduções feitas sem deformar a figura",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Associe a ideia de semelhança a ampliações e reduções feitas sem deformar a figura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere dois triângulos com os mesmos ângulos, mas tamanhos diferentes",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Considere dois triângulos com os mesmos ângulos, mas tamanhos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Se os lados forem proporcionais, os triângulos são semelhantes",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Se os lados forem proporcionais, os triângulos são semelhantes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que a forma foi mantida"
+        ],
+        "respostaCorreta": "Observe que a forma foi mantida",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare os lados correspondentes e verifique se há proporção",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare os lados correspondentes e verifique se há proporção",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Figuras semelhantes mantêm a mesma forma, mesmo quando têm tamanhos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "A semelhança envolve proporção entre medidas correspondentes",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "A semelhança envolve proporção entre medidas correspondentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas"
+        ],
+        "respostaCorreta": "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "mat8-semelhanca-figuras-intro-sim-01",
+        "enunciado": "A ideia central da semelhança geométrica é que duas figuras:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "podem ter tamanhos diferentes, mas conservar a mesma forma",
+          "precisam ter o mesmo tamanho sempre",
+          "devem ter apenas o mesmo perímetro",
+          "não podem ter nenhuma relação entre si"
+        ],
+        "respostaCorreta": "podem ter tamanhos diferentes, mas conservar a mesma forma",
+        "explicacao": "A semelhança se baseia na conservação da forma e na proporcionalidade entre medidas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse conceito ajuda a interpretar ampliações, reduções e representações geométricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos"
+        ],
+        "respostaCorreta": "Quando duas figuras são semelhantes, elas apresentam a mesma forma geral, mas não necessariamente o mesmo tamanho. O que importa é a proporção entre lados correspondentes e a conservação dos ângulos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare sempre lados correspondentes e observe se há proporcionalidade entre eles",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A semelhança aparece em mapas, maquetes, desenhos ampliados, fotografias e muitas outras representações. Esse estudo ajuda a compreender relações de escala e proporcionalidade em figuras geométricas",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A semelhança aparece em mapas, maquetes, desenhos ampliados, fotografias e muitas outras representações. Esse estudo ajuda a compreender relações de escala e proporcionalidade em figuras geométricas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Associe a ideia de semelhança a ampliações e reduções feitas sem deformar a figura",
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Associe a ideia de semelhança a ampliações e reduções feitas sem deformar a figura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "mat8-semelhanca-figuras-intro-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de introdução à semelhança de figuras se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Introdução à semelhança de figuras pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com introdução à semelhança de figuras dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Considere dois triângulos com os mesmos ângulos, mas tamanhos diferentes"
+        ],
+        "respostaCorreta": "Considere dois triângulos com os mesmos ângulos, mas tamanhos diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Introdução à semelhança de figuras, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

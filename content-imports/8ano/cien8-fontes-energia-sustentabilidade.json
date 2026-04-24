@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cien8-fontes-energia-sustentabilidade",
+    "titulo": "Fontes de energia e sustentabilidade",
+    "disciplinaId": "cien8",
+    "turmaId": "8ano",
+    "unidade": "Matéria e energia",
+    "resumo": [
+      "As atividades humanas dependem de diferentes fontes de energia.",
+      "Cada fonte apresenta vantagens, limites e impactos ambientais distintos.",
+      "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Diversidade de fontes",
+        "texto": "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental.",
+        "dica": "Compare as fontes de energia considerando origem, renovação e impacto."
+      },
+      {
+        "subtitulo": "Sustentabilidade e uso consciente",
+        "texto": "Pensar em sustentabilidade significa analisar como a produção e o consumo de energia afetam o ambiente e a sociedade. Isso envolve discutir economia de energia, tecnologias e alternativas mais limpas.",
+        "dica": "Observe que eficiência e responsabilidade também fazem parte do debate sobre energia."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Imagine duas formas de gerar eletricidade: uma por painéis solares e outra pela queima de combustível.",
+        "passos": [
+          "Compare a origem da energia em cada caso.",
+          "Observe que as duas opções têm impactos e características diferentes."
+        ],
+        "resposta": "Esse exemplo mostra por que é importante analisar as fontes de energia de forma crítica."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Fontes de energia e sustentabilidade\".",
+        "passos": [
+          "As atividades humanas dependem de diferentes fontes de energia",
+          "Cada fonte apresenta vantagens, limites e impactos ambientais distintos",
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis"
+        ],
+        "resposta": "Esse exemplo mostra como Fontes de energia e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Fontes de energia e sustentabilidade\".",
+        "passos": [
+          "Cada fonte apresenta vantagens, limites e impactos ambientais distintos",
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+          "Diversidade de fontes"
+        ],
+        "resposta": "Esse exemplo mostra como Fontes de energia e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Fontes de energia e sustentabilidade\".",
+        "passos": [
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+          "Diversidade de fontes",
+          "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental"
+        ],
+        "resposta": "Esse exemplo mostra como Fontes de energia e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Fontes de energia e sustentabilidade\".",
+        "passos": [
+          "Diversidade de fontes",
+          "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental",
+          "Compare as fontes de energia considerando origem, renovação e impacto"
+        ],
+        "resposta": "Esse exemplo mostra como Fontes de energia e sustentabilidade pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-ex-01",
+        "enunciado": "As fontes de energia podem ser diferentes quanto a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "origem e impacto ambiental",
+          "somente cor e tamanho",
+          "apenas vocabulário técnico",
+          "ordem alfabética dos nomes"
+        ],
+        "respostaCorreta": "origem e impacto ambiental",
+        "explicacao": "Cada fonte apresenta modos de obtenção e efeitos ambientais distintos.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-ex-02",
+        "enunciado": "Pensar em sustentabilidade no uso da energia significa:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "considerar impactos ambientais e uso responsável",
+          "usar energia sem limites",
+          "ignorar os efeitos ambientais",
+          "produzir energia sem planejamento"
+        ],
+        "respostaCorreta": "considerar impactos ambientais e uso responsável",
+        "explicacao": "A sustentabilidade envolve responsabilidade no consumo e na produção de energia.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Diferentes fontes de energia apresentam vantagens e limites distintos.",
+          "Todas as fontes de energia causam exatamente os mesmos efeitos.",
+          "Energia e sustentabilidade não têm relação.",
+          "O tema interessa apenas à indústria e não ao cotidiano."
+        ],
+        "respostaCorreta": "Diferentes fontes de energia apresentam vantagens e limites distintos.",
+        "explicacao": "Cada fonte precisa ser analisada considerando funcionamento, disponibilidade e impacto.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-ex-04",
+        "enunciado": "Estudar fontes de energia ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "pensar em escolhas mais conscientes e sustentáveis",
+          "desconsiderar o ambiente nas decisões humanas",
+          "substituir ciência por opinião sem base",
+          "ignorar a relação entre tecnologia e natureza"
+        ],
+        "respostaCorreta": "pensar em escolhas mais conscientes e sustentáveis",
+        "explicacao": "Esse tema aproxima ciência, ambiente, tecnologia e responsabilidade social.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As atividades humanas dependem de diferentes fontes de energia",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As atividades humanas dependem de diferentes fontes de energia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Cada fonte apresenta vantagens, limites e impactos ambientais distintos"
+        ],
+        "respostaCorreta": "Cada fonte apresenta vantagens, limites e impactos ambientais distintos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Compare as fontes de energia considerando origem, renovação e impacto",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Compare as fontes de energia considerando origem, renovação e impacto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pensar em sustentabilidade significa analisar como a produção e o consumo de energia afetam o ambiente e a sociedade. Isso envolve discutir economia de energia, tecnologias e alternativas mais limpas"
+        ],
+        "respostaCorreta": "Pensar em sustentabilidade significa analisar como a produção e o consumo de energia afetam o ambiente e a sociedade. Isso envolve discutir economia de energia, tecnologias e alternativas mais limpas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que eficiência e responsabilidade também fazem parte do debate sobre energia",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que eficiência e responsabilidade também fazem parte do debate sobre energia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine duas formas de gerar eletricidade: uma por painéis solares e outra pela queima de combustível",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Imagine duas formas de gerar eletricidade: uma por painéis solares e outra pela queima de combustível",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra por que é importante analisar as fontes de energia de forma crítica",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra por que é importante analisar as fontes de energia de forma crítica",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare a origem da energia em cada caso"
+        ],
+        "respostaCorreta": "Compare a origem da energia em cada caso",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe que as duas opções têm impactos e características diferentes",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe que as duas opções têm impactos e características diferentes",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As atividades humanas dependem de diferentes fontes de energia",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As atividades humanas dependem de diferentes fontes de energia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Cada fonte apresenta vantagens, limites e impactos ambientais distintos",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Cada fonte apresenta vantagens, limites e impactos ambientais distintos",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis"
+        ],
+        "respostaCorreta": "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-sim-01",
+        "enunciado": "A principal contribuição do estudo das fontes de energia é compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "o uso da energia envolve impactos, escolhas e responsabilidade",
+          "toda energia é obtida da mesma maneira",
+          "não existe relação entre energia e ambiente",
+          "o tema não interfere no cotidiano"
+        ],
+        "respostaCorreta": "o uso da energia envolve impactos, escolhas e responsabilidade",
+        "explicacao": "A análise das fontes energéticas exige considerar ambiente, sociedade e formas de consumo.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar energia e sustentabilidade ajuda a pensar em escolhas mais responsáveis",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental"
+        ],
+        "respostaCorreta": "A energia pode vir de várias fontes, como água, vento, sol, combustíveis fósseis e biomassa. Cada uma delas possui características próprias de obtenção, uso e impacto ambiental",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Compare as fontes de energia considerando origem, renovação e impacto",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Compare as fontes de energia considerando origem, renovação e impacto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pensar em sustentabilidade significa analisar como a produção e o consumo de energia afetam o ambiente e a sociedade. Isso envolve discutir economia de energia, tecnologias e alternativas mais limpas",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Pensar em sustentabilidade significa analisar como a produção e o consumo de energia afetam o ambiente e a sociedade. Isso envolve discutir economia de energia, tecnologias e alternativas mais limpas",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe que eficiência e responsabilidade também fazem parte do debate sobre energia",
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe que eficiência e responsabilidade também fazem parte do debate sobre energia",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "cien8-fontes-energia-sustentabilidade-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de fontes de energia e sustentabilidade se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Fontes de energia e sustentabilidade pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com fontes de energia e sustentabilidade dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Imagine duas formas de gerar eletricidade: uma por painéis solares e outra pela queima de combustível"
+        ],
+        "respostaCorreta": "Imagine duas formas de gerar eletricidade: uma por painéis solares e outra pela queima de combustível",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Fontes de energia e sustentabilidade, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]

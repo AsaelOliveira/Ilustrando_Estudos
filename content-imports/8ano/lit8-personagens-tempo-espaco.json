@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lit8-personagens-tempo-espaco",
+    "titulo": "Personagens, tempo e espaço na narrativa",
+    "disciplinaId": "lit8",
+    "turmaId": "8ano",
+    "unidade": "Leitura literária",
+    "resumo": [
+      "As narrativas se organizam por elementos como personagens, tempo e espaço.",
+      "Esses elementos ajudam a construir o enredo e a experiência de leitura.",
+      "Estudar esse tema amplia a compreensão da estrutura das histórias."
+    ],
+    "explicacao": [
+      {
+        "subtitulo": "Quem participa da narrativa",
+        "texto": "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto.",
+        "dica": "Pergunte quais personagens têm mais influência nos acontecimentos narrados."
+      },
+      {
+        "subtitulo": "Quando e onde a história acontece",
+        "texto": "Tempo e espaço ajudam a situar a narrativa. Eles influenciam o ritmo da história, o clima do texto e as possibilidades de ação dos personagens.",
+        "dica": "Observe se o ambiente e o momento histórico alteram a maneira como a história se desenvolve."
+      }
+    ],
+    "exemplos": [
+      {
+        "enunciado": "Leia uma narrativa ambientada em uma cidade pequena durante um período de férias.",
+        "passos": [
+          "Identifique quem são os personagens principais.",
+          "Observe como o espaço e o tempo interferem nas ações da história."
+        ],
+        "resposta": "Esse exemplo mostra como personagens, tempo e espaço estruturam a narrativa."
+      },
+      {
+        "enunciado": "Observe uma situacao de estudo relacionada a \"Personagens, tempo e espaço na narrativa\".",
+        "passos": [
+          "As narrativas se organizam por elementos como personagens, tempo e espaço",
+          "Esses elementos ajudam a construir o enredo e a experiência de leitura",
+          "Estudar esse tema amplia a compreensão da estrutura das histórias"
+        ],
+        "resposta": "Esse exemplo mostra como Personagens, tempo e espaço na narrativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Leia um caso simples ligado ao tema \"Personagens, tempo e espaço na narrativa\".",
+        "passos": [
+          "Esses elementos ajudam a construir o enredo e a experiência de leitura",
+          "Estudar esse tema amplia a compreensão da estrutura das histórias",
+          "Quem participa da narrativa"
+        ],
+        "resposta": "Esse exemplo mostra como Personagens, tempo e espaço na narrativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Considere uma atividade em sala sobre \"Personagens, tempo e espaço na narrativa\".",
+        "passos": [
+          "Estudar esse tema amplia a compreensão da estrutura das histórias",
+          "Quem participa da narrativa",
+          "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto"
+        ],
+        "resposta": "Esse exemplo mostra como Personagens, tempo e espaço na narrativa pode ser analisado, interpretado e aplicado com mais clareza."
+      },
+      {
+        "enunciado": "Analise um exemplo aplicado de \"Personagens, tempo e espaço na narrativa\".",
+        "passos": [
+          "Quem participa da narrativa",
+          "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto",
+          "Pergunte quais personagens têm mais influência nos acontecimentos narrados"
+        ],
+        "resposta": "Esse exemplo mostra como Personagens, tempo e espaço na narrativa pode ser analisado, interpretado e aplicado com mais clareza."
+      }
+    ],
+    "exercicios": [
+      {
+        "id": "lit8-personagens-tempo-espaco-ex-01",
+        "enunciado": "Um elemento importante da narrativa é:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "personagem",
+          "vírgula obrigatória",
+          "equação do 1º grau",
+          "meridiano"
+        ],
+        "respostaCorreta": "personagem",
+        "explicacao": "Os personagens participam das ações e ajudam a construir o enredo da narrativa.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-ex-02",
+        "enunciado": "Tempo e espaço em um texto narrativo ajudam a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "situar a história",
+          "eliminar o enredo",
+          "substituir os personagens",
+          "impedir a imaginação do leitor"
+        ],
+        "respostaCorreta": "situar a história",
+        "explicacao": "Esses elementos mostram quando e onde os acontecimentos se desenvolvem.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-ex-03",
+        "enunciado": "Qual afirmação está correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, tempo e espaço ajudam a construir o sentido da narrativa.",
+          "Esses elementos não interferem na leitura do texto.",
+          "Toda narrativa dispensa ambientação.",
+          "Tempo e espaço nunca influenciam as ações dos personagens."
+        ],
+        "respostaCorreta": "Personagens, tempo e espaço ajudam a construir o sentido da narrativa.",
+        "explicacao": "A estrutura narrativa depende desses elementos para organizar e dar profundidade à história.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-ex-04",
+        "enunciado": "Estudar esse tema ajuda o aluno a:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "ler narrativas com mais atenção à sua construção",
+          "reduzir a leitura ao resumo do enredo",
+          "ignorar o ambiente e o contexto do texto",
+          "achar que personagens não têm função na história"
+        ],
+        "respostaCorreta": "ler narrativas com mais atenção à sua construção",
+        "explicacao": "O conteúdo amplia a percepção dos elementos que organizam a narrativa literária.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-01",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "As narrativas se organizam por elementos como personagens, tempo e espaço",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "As narrativas se organizam por elementos como personagens, tempo e espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-02",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Esses elementos ajudam a construir o enredo e a experiência de leitura"
+        ],
+        "respostaCorreta": "Esses elementos ajudam a construir o enredo e a experiência de leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-03",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia a compreensão da estrutura das histórias",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a compreensão da estrutura das histórias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-04",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-05",
+        "enunciado": "Qual proposicao esta de acordo com o desenvolvimento do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Pergunte quais personagens têm mais influência nos acontecimentos narrados",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Pergunte quais personagens têm mais influência nos acontecimentos narrados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-06",
+        "enunciado": "Ao relacionar resumo e explicacoes, qual conclusao e mais correta?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Tempo e espaço ajudam a situar a narrativa. Eles influenciam o ritmo da história, o clima do texto e as possibilidades de ação dos personagens"
+        ],
+        "respostaCorreta": "Tempo e espaço ajudam a situar a narrativa. Eles influenciam o ritmo da história, o clima do texto e as possibilidades de ação dos personagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-07",
+        "enunciado": "Qual sintese mostra compreensao efetiva do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe se o ambiente e o momento histórico alteram a maneira como a história se desenvolve",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe se o ambiente e o momento histórico alteram a maneira como a história se desenvolve",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-08",
+        "enunciado": "Em vez de decorar informacoes soltas, o estudante deve compreender que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia uma narrativa ambientada em uma cidade pequena durante um período de férias",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Leia uma narrativa ambientada em uma cidade pequena durante um período de férias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-09",
+        "enunciado": "Qual interpretacao esta mais alinhada aos conceitos apresentados?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esse exemplo mostra como personagens, tempo e espaço estruturam a narrativa",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esse exemplo mostra como personagens, tempo e espaço estruturam a narrativa",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-10",
+        "enunciado": "Ao revisar esse tema, qual enunciado seria defensavel em uma avaliacao?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Identifique quem são os personagens principais"
+        ],
+        "respostaCorreta": "Identifique quem são os personagens principais",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-11",
+        "enunciado": "Considerando o conteudo estudado, qual leitura e mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Observe como o espaço e o tempo interferem nas ações da história",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Observe como o espaço e o tempo interferem nas ações da história",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-12",
+        "enunciado": "Qual afirmacao preserva melhor a ideia central trabalhada nesse tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "As narrativas se organizam por elementos como personagens, tempo e espaço",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "As narrativas se organizam por elementos como personagens, tempo e espaço",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-13",
+        "enunciado": "Ao aplicar esse conhecimento em uma situacao de estudo, o estudante precisa reconhecer que:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Esses elementos ajudam a construir o enredo e a experiência de leitura",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Esses elementos ajudam a construir o enredo e a experiência de leitura",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-ex-14",
+        "enunciado": "Em uma analise critica do tema, qual alternativa e adequada?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Estudar esse tema amplia a compreensão da estrutura das histórias"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a compreensão da estrutura das histórias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      }
+    ],
+    "simulado": [
+      {
+        "id": "lit8-personagens-tempo-espaco-sim-01",
+        "enunciado": "A principal ideia desse tema é compreender que as narrativas:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "se organizam por elementos que estruturam a história",
+          "não precisam de personagens nem ambientação",
+          "funcionam sempre do mesmo jeito sem contexto",
+          "dependem apenas do título"
+        ],
+        "respostaCorreta": "se organizam por elementos que estruturam a história",
+        "explicacao": "Personagens, tempo e espaço são fundamentais para o desenvolvimento e a interpretação das narrativas.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-01",
+        "enunciado": "Em uma questao de maior exigencia, qual alternativa melhor sintetiza o conteudo estudado?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Estudar esse tema amplia a compreensão da estrutura das histórias",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Estudar esse tema amplia a compreensão da estrutura das histórias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-02",
+        "enunciado": "Se o objetivo for mobilizar o tema em uma prova, a conclusao mais adequada e:",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto"
+        ],
+        "respostaCorreta": "Os personagens são os seres que atuam na história, e suas ações ajudam a movimentar o enredo. Observar como eles se relacionam é importante para entender conflitos, mudanças e significados do texto",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-03",
+        "enunciado": "Qual formulacao demonstra compreensao mais madura do assunto?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Pergunte quais personagens têm mais influência nos acontecimentos narrados",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao"
+        ],
+        "respostaCorreta": "Pergunte quais personagens têm mais influência nos acontecimentos narrados",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-04",
+        "enunciado": "Considerando os conceitos trabalhados, qual resposta seria a mais consistente?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Tempo e espaço ajudam a situar a narrativa. Eles influenciam o ritmo da história, o clima do texto e as possibilidades de ação dos personagens",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo"
+        ],
+        "respostaCorreta": "Tempo e espaço ajudam a situar a narrativa. Eles influenciam o ritmo da história, o clima do texto e as possibilidades de ação dos personagens",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "facil"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-05",
+        "enunciado": "Em um item de simulado, qual alternativa melhor articula a ideia central do tema?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "Observe se o ambiente e o momento histórico alteram a maneira como a história se desenvolve",
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas"
+        ],
+        "respostaCorreta": "Observe se o ambiente e o momento histórico alteram a maneira como a história se desenvolve",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "medio"
+      },
+      {
+        "id": "lit8-personagens-tempo-espaco-auto-sim-06",
+        "enunciado": "Qual interpretacao evita simplificacoes e mantem o sentido correto do conteudo?",
+        "tipo": "multipla_escolha",
+        "alternativas": [
+          "O estudo de personagens, tempo e espaço na narrativa se resume a memorizacao de definicoes, sem necessidade de analise ou aplicacao",
+          "Personagens, tempo e espaço na narrativa pode ser compreendido sem relacionar conceitos, exemplos ou contexto de estudo",
+          "O trabalho com personagens, tempo e espaço na narrativa dispensa interpretacao critica e serve apenas para repetir informacoes isoladas",
+          "Leia uma narrativa ambientada em uma cidade pequena durante um período de férias"
+        ],
+        "respostaCorreta": "Leia uma narrativa ambientada em uma cidade pequena durante um período de férias",
+        "explicacao": "A alternativa correta retoma uma ideia compativel com o conteudo estudado em Personagens, tempo e espaço na narrativa, articulando conceito, interpretacao e aplicacao.",
+        "dificuldade": "dificil"
+      }
+    ]
+  }
+]
