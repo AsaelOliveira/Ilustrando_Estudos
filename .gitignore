@@ -34,3 +34,6 @@ supabase/.temp/
 
 # Local archives
 *.zip
+
+# Local workspace files
+*.code-workspace
