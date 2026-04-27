@@ -41,6 +41,7 @@ import type { Questao, Tema } from "@/data/content-types";
 import { toast } from "@/hooks/use-toast";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
 import { pickRandomItems } from "@/lib/random";
+import { acceptDuel, cancelDuel, createDuel, findJoinableDuelByCode, submitDuelAttempt } from "@/lib/duel-access";
 import {
   getQuestionsByIds as fetchQuestionsByIds,
   getQuestionsForMission,
@@ -205,10 +206,6 @@ function timeAgo(dateStr: string) {
   const hrs = Math.floor(mins / 60);
   if (hrs < 24) return `${hrs}h atrás`;
   return `${Math.floor(hrs / 24)}d atrás`;
-}
-
-function toAnswerPayload(answers: Array<string | null>) {
-  return answers.map((answer) => answer ?? "");
 }
 
 // ============================================================
@@ -654,9 +651,7 @@ function LobbyView({
       load();
       return;
     }
-    const { error } = await supabase.rpc("accept_duel", {
-      p_duel_id: duel.id,
-    });
+    const { error } = await acceptDuel(duel.id, user.id);
     setAccepting(null);
     if (error) {
       toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
@@ -989,21 +984,20 @@ function ConfigView({
       const displayName = cfg.mode === "anonimo" ? "Anônimo" : profile.nome;
       const displayTurma = cfg.mode === "anonimo" ? null : userTurma;
 
-      const { data, error } = await supabase.from("duels").insert({
-        challenger_id: user.id,
-        challenged_id: cfg.targetType === "privado" ? cfg.targetUserId : null,
+      const { data, error } = await createDuel({
+        challengerId: user.id,
+        challengedId: cfg.targetType === "privado" ? cfg.targetUserId : null,
         mode: cfg.mode,
         visibility: cfg.targetType === "privado" ? "privado" : "publico",
-        challenger_display_name: displayName,
-        challenger_display_turma: displayTurma,
-        question_ids: questions.map((q) => q.id),
-        turma_id: userTurma,
-        discipline_id: cfg.disciplineId,
+        challengerDisplayName: displayName,
+        challengerDisplayTurma: displayTurma,
+        questionIds: questions.map((q) => q.id),
+        turmaId: userTurma,
+        disciplineId: cfg.disciplineId,
         interclass: cfg.interclass,
-        num_questions: cfg.numQuestions,
-        time_limit: cfg.timeLimit,
-        status: "aberto",
-      }).select("id").single();
+        numQuestions: cfg.numQuestions,
+        timeLimit: cfg.timeLimit,
+      });
 
       if (error || !data) {
         toast({
@@ -1037,19 +1031,7 @@ function ConfigView({
     if (!user || inviteCode.length < 4) return;
     setCreating(true);
     try {
-      const normalized = inviteCode.trim().toUpperCase();
-
-      const { data: duels } = await supabase
-        .from("duels")
-        .select("id, status, challenger_id, challenged_id")
-        .eq("status", "aguardando")
-        .gt("expires_at", new Date().toISOString())
-        .limit(50);
-
-      const match = duels?.find(d =>
-        d.id.replace(/-/g, "").slice(0, 6).toUpperCase() === normalized
-        && d.challenger_id !== user.id
-      );
+      const match = await findJoinableDuelByCode(inviteCode, user.id);
 
       if (!match) {
         toast({ title: "Código não encontrado", description: "Verifique o código e tente novamente.", variant: "destructive" });
@@ -1061,9 +1043,7 @@ function ConfigView({
         return;
       }
 
-      const { error } = await supabase.rpc("accept_duel", {
-        p_duel_id: match.id,
-      });
+      const { error } = await acceptDuel(match.id, user.id);
 
       if (error) {
         toast({ title: "Erro", description: "Não foi possível aceitar o desafio.", variant: "destructive" });
@@ -1579,11 +1559,14 @@ function BattleArena({
 
     const elapsed = Math.floor((Date.now() - startTimeRef.current) / 1000);
     const antiCheat = flagsRef.current;
-    const { data: fresh, error } = await supabase.rpc("submit_duel_attempt", {
-      p_duel_id: duel.id,
-      p_answers: toAnswerPayload(answersRef.current),
-      p_time_spent_seconds: elapsed,
-      p_anti_cheat_flags: antiCheat,
+    const { data: fresh, error } = await submitDuelAttempt({
+      duelId: duel.id,
+      playerRole,
+      userId,
+      answers: answersRef.current,
+      questions: questionsRef.current,
+      timeSpentSeconds: elapsed,
+      antiCheatFlags: antiCheat,
     });
 
     setSubmitting(false);
@@ -1600,7 +1583,7 @@ function BattleArena({
 
     setSubmitted(true);
     if (fresh) onDone(fresh as Duel);
-  }, [duel, playerRole, flagsRef, onDone]);
+  }, [duel, flagsRef, onDone, playerRole, userId]);
 
   // Tela VS
   if (showVS || !duel || questions.length === 0) {
@@ -1944,7 +1927,7 @@ function WaitingView({
 
   const cancel = async () => {
     setCanceling(true);
-    await supabase.rpc("cancel_duel", { p_duel_id: duelId });
+    await cancelDuel(duelId);
     onBack();
   };
 

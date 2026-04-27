@@ -8,10 +8,13 @@ import SimpleProfileAvatar from "@/components/SimpleProfileAvatar";
 import { turmas } from "@/data/catalog";
 import type { Questao } from "@/data/content-types";
 import { useAuth } from "@/hooks/useAuth";
+import { useAppAlerts } from "@/hooks/useAppAlerts";
 import { useStudyContent } from "@/hooks/useStudyContent";
 import { toast } from "@/hooks/use-toast";
 import { supabase } from "@/integrations/supabase/client";
+import { getPreviousSaoPauloDateStamp, getSaoPauloDateStamp } from "@/lib/date-utils";
 import { fetchLeaderboardSnapshot } from "@/lib/leaderboard";
+import { submitDailyMission } from "@/lib/mission-access";
 import { pickRandomItems } from "@/lib/random";
 import {
   getStreakBonus,
@@ -73,23 +76,9 @@ type MissionTabProps = {
   formatTime: (seconds: number) => string;
 };
 
-function getLocalDateStamp(date = new Date()) {
-  return new Intl.DateTimeFormat("en-CA", {
-    timeZone: "America/Sao_Paulo",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(date);
-}
-
-function getPreviousLocalDateStamp() {
-  const previousDate = new Date();
-  previousDate.setDate(previousDate.getDate() - 1);
-  return getLocalDateStamp(previousDate);
-}
-
 export default function Competicao() {
   const { user, profile } = useAuth();
+  const { refresh: refreshAlerts } = useAppAlerts();
   const { temas, loading: contentLoading } = useStudyContent();
   const [tab, setTab] = useState<"missao" | "turma" | "geral">("missao");
   const [turmaRanking, setTurmaRanking] = useState<LeaderboardEntry[]>([]);
@@ -135,7 +124,7 @@ export default function Competicao() {
 
     // Check if today's mission is done + fetch current streak
     if (user) {
-      const today = getLocalDateStamp();
+      const today = getSaoPauloDateStamp();
       const [attemptRes, streakRes] = await Promise.all([
         supabase.from("mission_attempts").select("id").eq("user_id", user.id).eq("mission_date", today).maybeSingle(),
         supabase.from("student_scores").select("streak_days, last_mission_date").eq("user_id", user.id).maybeSingle(),
@@ -144,7 +133,7 @@ export default function Competicao() {
       if (streakRes.data) {
         // Se fez ontem ou hoje, streak é válido
         const last = streakRes.data.last_mission_date;
-        const valid = last === today || last === getPreviousLocalDateStamp();
+        const valid = last === today || last === getPreviousSaoPauloDateStamp();
         setCurrentStreak(valid ? streakRes.data.streak_days : 0);
       }
     }
@@ -244,12 +233,15 @@ export default function Competicao() {
       return;
     }
 
-    const { data, error } = await supabase.rpc("submit_daily_mission", {
-      p_turma_id: userTurma,
-      p_question_ids: missionQuestionsRef.current.map((question) => question.id),
-      p_answers: answersRef.current.map((answer) => answer ?? ""),
-      p_time_spent_seconds: 300 - timeLeftRef.current,
-      p_anti_cheat_flags: { flags: antiCheatFlagsRef.current },
+    const { data, error } = await submitDailyMission({
+      userId: user.id,
+      turmaId: userTurma,
+      questionIds: missionQuestionsRef.current.map((question) => question.id),
+      answers: answersRef.current,
+      questions: missionQuestionsRef.current,
+      antiCheatFlags: antiCheatFlagsRef.current,
+      timeSpentSeconds: 300 - timeLeftRef.current,
+      scoringConfig,
     });
 
     if (error) {
@@ -293,8 +285,10 @@ export default function Competicao() {
     });
 
     setMissionSaving(false);
+    window.dispatchEvent(new Event("app:student-score-updated"));
+    await refreshAlerts();
     fetchRankings();
-  }, [currentStreak, fetchRankings, user, userTurma]);
+  }, [currentStreak, fetchRankings, refreshAlerts, scoringConfig, user, userTurma]);
 
   useEffect(() => {
     if (!missionActive || missionComplete) return;

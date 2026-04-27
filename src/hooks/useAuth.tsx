@@ -4,7 +4,6 @@ import { supabase } from "@/integrations/supabase/client";
 
 export type AuthProfile = {
   nome: string;
-  login_identifier?: string | null;
   avatar_url: string | null;
   turma_id: string | null;
   avatar_locked: boolean;
@@ -55,7 +54,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const userId = nextUser.id;
     const { data: profileData } = await supabase
       .from("profiles")
-      .select("nome, login_identifier, avatar_url, turma_id, avatar_locked, avatar_style, avatar_unlocks, avatar_shop_spent")
+      .select("nome, avatar_url, turma_id, avatar_locked, avatar_style, avatar_unlocks, avatar_shop_spent")
       .eq("user_id", userId)
       .single();
 
@@ -99,7 +98,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     } else {
       setProfile({
         nome: typeof nextUser.user_metadata?.nome === "string" ? nextUser.user_metadata.nome : nextUser.email ?? "Aluno",
-        login_identifier: null,
         avatar_url: null,
         turma_id: resolvedTurmaId,
         avatar_locked: false,

@@ -1,3 +1,5 @@
+const APP_TIME_ZONE = "America/Sao_Paulo";
+
 export function parseAppDate(value: string | null | undefined) {
   if (!value) return null;
 
@@ -19,4 +21,19 @@ export function formatAppDate(
   const parsed = parseAppDate(value);
   if (!parsed) return fallback;
   return new Intl.DateTimeFormat("pt-BR", options).format(parsed);
+}
+
+export function getSaoPauloDateStamp(date = new Date()) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: APP_TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
+}
+
+export function getPreviousSaoPauloDateStamp(date = new Date()) {
+  const previousDate = new Date(date);
+  previousDate.setDate(previousDate.getDate() - 1);
+  return getSaoPauloDateStamp(previousDate);
 }

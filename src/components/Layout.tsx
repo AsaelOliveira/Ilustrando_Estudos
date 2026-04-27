@@ -1,4 +1,4 @@
-import { ReactNode, useEffect, useMemo, useState } from "react";
+import { ReactNode, useCallback, useEffect, useMemo, useState } from "react";
 import { supabase } from "@/integrations/supabase/client";
 import type { User } from "@supabase/supabase-js";
 import { AnimatePresence, motion } from "framer-motion";
@@ -80,33 +80,67 @@ export default function Layout({ children }: { children: ReactNode }) {
 
   const homeTarget = isAppRoute && user ? "/app" : "/";
 
-  useEffect(() => {
+  const loadPoints = useCallback(async () => {
     if (!user || !isAppRoute) {
       setPoints(0);
       return;
     }
 
-    let active = true;
-
-    supabase
+    const { data } = await supabase
       .from("student_scores")
       .select("points, missions_completed, streak_days")
       .eq("user_id", user.id)
-      .maybeSingle()
-      .then(({ data }) => {
-        if (!active) return;
-        const totalPoints =
-          role === "admin"
-            ? 999999
-            : getAvatarCoins(data?.points ?? 0, data?.missions_completed ?? 0, data?.streak_days ?? 0);
-        const spentPoints = profile?.avatar_shop_spent ?? 0;
-        setPoints(Math.max(totalPoints - spentPoints, 0));
-      });
+      .maybeSingle();
+
+    const totalPoints =
+      role === "admin"
+        ? 999999
+        : getAvatarCoins(data?.points ?? 0, data?.missions_completed ?? 0, data?.streak_days ?? 0);
+    const spentPoints = profile?.avatar_shop_spent ?? 0;
+    setPoints(Math.max(totalPoints - spentPoints, 0));
+  }, [isAppRoute, profile?.avatar_shop_spent, role, user]);
+
+  useEffect(() => {
+    let active = true;
+
+    void loadPoints();
+
+    if (!user || !isAppRoute) {
+      return () => {
+        active = false;
+      };
+    }
+
+    const channel = supabase
+      .channel(`layout-score:${user.id}`)
+      .on(
+        "postgres_changes",
+        { event: "*", schema: "public", table: "student_scores", filter: `user_id=eq.${user.id}` },
+        () => {
+          if (!active) return;
+          void loadPoints();
+        },
+      )
+      .subscribe();
+
+    const handleFocus = () => {
+      if (!active) return;
+      void loadPoints();
+    };
+    const handleScoreUpdate = () => {
+      if (!active) return;
+      void loadPoints();
+    };
+    window.addEventListener("focus", handleFocus);
+    window.addEventListener("app:student-score-updated", handleScoreUpdate);
 
     return () => {
       active = false;
+      window.removeEventListener("focus", handleFocus);
+      window.removeEventListener("app:student-score-updated", handleScoreUpdate);
+      void supabase.removeChannel(channel);
     };
-  }, [isAppRoute, profile?.avatar_shop_spent, role, user]);
+  }, [isAppRoute, loadPoints, user]);
 
   return (
     <div className="flex min-h-screen flex-col">

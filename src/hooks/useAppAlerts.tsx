@@ -9,6 +9,7 @@ import {
 } from "react";
 import { useAuth } from "@/hooks/useAuth";
 import { supabase } from "@/integrations/supabase/client";
+import { getSaoPauloDateStamp } from "@/lib/date-utils";
 
 type AppAlertsContextValue = {
   missionAvailable: boolean;
@@ -18,15 +19,6 @@ type AppAlertsContextValue = {
 };
 
 const AppAlertsContext = createContext<AppAlertsContextValue | null>(null);
-
-function getTodayKey() {
-  return new Intl.DateTimeFormat("en-CA", {
-    timeZone: "America/Sao_Paulo",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(new Date());
-}
 
 export function AppAlertsProvider({ children }: { children: ReactNode }) {
   const { user, role, loading: authLoading } = useAuth();
@@ -45,7 +37,7 @@ export function AppAlertsProvider({ children }: { children: ReactNode }) {
     }
 
     setLoading(true);
-    const today = getTodayKey();
+    const today = getSaoPauloDateStamp();
 
     const [{ count: missionCount }, { count: duelCount }] = await Promise.all([
       supabase
@@ -82,6 +74,11 @@ export function AppAlertsProvider({ children }: { children: ReactNode }) {
       .on(
         "postgres_changes",
         { event: "*", schema: "public", table: "mission_attempts", filter: `user_id=eq.${user.id}` },
+        () => void refresh(),
+      )
+      .on(
+        "postgres_changes",
+        { event: "*", schema: "public", table: "student_scores", filter: `user_id=eq.${user.id}` },
         () => void refresh(),
       )
       .subscribe();

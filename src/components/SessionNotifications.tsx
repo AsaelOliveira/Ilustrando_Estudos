@@ -2,16 +2,8 @@ import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
 import { useAppAlerts } from "@/hooks/useAppAlerts";
+import { getSaoPauloDateStamp } from "@/lib/date-utils";
 import { toast } from "@/hooks/use-toast";
-
-function getTodayKey() {
-  return new Intl.DateTimeFormat("en-CA", {
-    timeZone: "America/Sao_Paulo",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(new Date());
-}
 
 export default function SessionNotifications() {
   const { user, role, loading } = useAuth();
@@ -24,7 +16,7 @@ export default function SessionNotifications() {
     let active = true;
 
     const run = async () => {
-      const today = getTodayKey();
+      const today = getSaoPauloDateStamp();
       const missionToastKey = `mission-toast:${user.id}:${today}`;
       const duelToastKey = `duel-toast:${user.id}:${openDuelCount}`;
       const duelToastPrefix = `duel-toast:${user.id}:`;
