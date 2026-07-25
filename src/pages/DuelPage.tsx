@@ -88,9 +88,15 @@ type Duel = {
   expires_at: string;
 };
 
+type RematchTarget = {
+  targetUserId: string;
+  targetUserName: string | null;
+  targetAvatarUrl: string | null;
+};
+
 type PageView =
   | { kind: "lobby" }
-  | { kind: "config" }
+  | { kind: "config"; preset?: RematchTarget }
   | { kind: "battle"; duelId: string; role: "challenger" | "challenged" }
   | { kind: "waiting"; duelId: string }
   | { kind: "results"; duel: Duel }
@@ -136,13 +142,15 @@ const INTERCLASS_PRESETS = [
 
 function CrossedPencils({
   className = "",
+  pencilClassName = "",
 }: {
   className?: string;
+  pencilClassName?: string;
 }) {
   return (
     <span className={`relative inline-flex items-center justify-center ${className}`} aria-hidden="true">
-      <Pencil className="absolute h-[78%] w-[78%] rotate-[-42deg] text-amber-500 drop-shadow-sm" strokeWidth={2.6} />
-      <Pencil className="absolute h-[78%] w-[78%] rotate-[42deg] text-yellow-500 drop-shadow-sm" strokeWidth={2.6} />
+      <Pencil className={`absolute h-[78%] w-[78%] rotate-[-42deg] drop-shadow-sm ${pencilClassName || "text-brand-orange"}`} strokeWidth={2.6} />
+      <Pencil className={`absolute h-[78%] w-[78%] rotate-[42deg] drop-shadow-sm ${pencilClassName || "text-brand-yellow"}`} strokeWidth={2.6} />
     </span>
   );
 }
@@ -480,6 +488,7 @@ export default function DuelPage() {
                   <ConfigView
                     user={user}
                     profile={profile}
+                    presetTarget={view.preset}
                     onCreated={(duelId) => setView({ kind: "battle", duelId, role: "challenger" })}
                     onCancel={() => setView({ kind: "lobby" })}
                   />
@@ -514,6 +523,7 @@ export default function DuelPage() {
                   <ResultsView
                     duel={view.duel}
                     userId={user?.id ?? ""}
+                    onRematch={(target) => { setShowConfetti(false); setView({ kind: "config", preset: target }); }}
                     onBack={() => { setShowConfetti(false); setView({ kind: "lobby" }); }}
                   />
                 )}
@@ -662,7 +672,7 @@ function LobbyView({
 
   if (!user) {
     return (
-      <div className="glass-card rounded-2xl p-8 text-center">
+      <div className="card-flat p-8 text-center">
         <Sword className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
         <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para duelar!</h2>
       </div>
@@ -675,7 +685,7 @@ function LobbyView({
       <div className="flex flex-wrap items-center gap-3">
         <button
           onClick={onCreateDuel}
-          className="btn-tap flex items-center gap-2 rounded-xl bg-primary px-5 py-3 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow"
+          className="btn-3d flex items-center gap-2 px-5 py-3 font-heading text-sm"
         >
           <Plus className="h-4 w-4" />
           Criar Desafio
@@ -701,7 +711,7 @@ function LobbyView({
             {[1, 2, 3].map(i => <div key={i} className="h-20 animate-pulse rounded-2xl bg-secondary/50" />)}
           </div>
         ) : challenges.length === 0 ? (
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="glass-card rounded-2xl p-10 text-center">
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="card-flat p-10 text-center">
             <motion.div animate={{ scale: [1, 1.15, 1] }} transition={{ duration: 2, repeat: Infinity }} className="mb-3 flex justify-center">
               <CrossedPencils className="h-20 w-20" pencilClassName="text-primary" />
             </motion.div>
@@ -721,7 +731,7 @@ function LobbyView({
               >
                 <div className={`flex h-12 w-12 flex-shrink-0 items-center justify-center overflow-hidden rounded-xl ${c.visibility === "privado" ? "bg-accent/15 ring-2 ring-accent/30" : c.mode === "anonimo" ? "bg-accent/10" : "bg-primary/10"}`}>
                   {c.mode === "anonimo" ? (
-                    <img src="/Knigth.svg" alt="" className="h-10 w-10 object-contain mix-blend-multiply" />
+                    <span className="flex h-10 w-10 items-center justify-center rounded-xl border border-border bg-white"><img src="/Knigth.svg" alt="" className="h-8 w-8 object-contain" /></span>
                   ) : (
                     <SimpleProfileAvatar
                       size="md"
@@ -754,7 +764,7 @@ function LobbyView({
                 <button
                   onClick={() => accept(c)}
                   disabled={accepting === c.id}
-                  className="btn-tap flex-shrink-0 rounded-xl bg-primary px-5 py-2.5 font-heading text-xs font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
+                  className="btn-3d flex-shrink-0 px-5 py-2.5 font-heading text-xs"
                 >
                   {accepting === c.id ? <Loader2 className="h-4 w-4 animate-spin" /> : "Aceitar ✏️✏️"}
                 </button>
@@ -765,7 +775,7 @@ function LobbyView({
       </div>
 
       {/* Pontuação */}
-      <div className="glass-card rounded-2xl p-5">
+      <div className="card-flat p-5">
         <h3 className="mb-3 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Zap className="h-4 w-4 text-primary" /> Como funciona
         </h3>
@@ -797,12 +807,13 @@ function LobbyView({
 // ============================================================
 
 function ConfigView({
-  user, profile, onCreated, onCancel,
+  user, profile, onCreated, onCancel, presetTarget,
 }: {
   user: { id: string } | null;
   profile: { nome: string; turma_id: string | null } | null;
   onCreated: (duelId: string) => void;
   onCancel: () => void;
+  presetTarget?: RematchTarget;
 }) {
   const userTurma = profile?.turma_id || "6ano";
   const { temas } = useStudyContent();
@@ -812,10 +823,10 @@ function ConfigView({
     numQuestions: 5,
     timeLimit: 180,
     interclass: false,
-    targetType: "publico",
-    targetUserId: null,
-    targetUserName: null,
-    targetAvatarUrl: null,
+    targetType: presetTarget ? "privado" : "publico",
+    targetUserId: presetTarget?.targetUserId ?? null,
+    targetUserName: presetTarget?.targetUserName ?? null,
+    targetAvatarUrl: presetTarget?.targetAvatarUrl ?? null,
   });
   const [creating, setCreating] = useState(false);
   const [themeSummaries, setThemeSummaries] = useState<ThemeSummary[]>([]);
@@ -1069,7 +1080,7 @@ function ConfigView({
       </button>
 
       {/* Entrar por código */}
-      <div className="glass-card rounded-2xl p-4">
+      <div className="card-flat p-4">
         <h3 className="mb-2 flex items-center gap-2 font-heading text-sm font-bold text-foreground">
           <Hash className="h-4 w-4 text-accent" />
           Tem um código de convite?
@@ -1086,7 +1097,7 @@ function ConfigView({
           <button
             onClick={joinByCode}
             disabled={creating || inviteCode.length < 4}
-            className="btn-tap flex items-center gap-1.5 rounded-xl bg-accent px-4 py-2.5 font-heading text-xs font-bold text-white transition-all hover:bg-accent/90 disabled:opacity-50"
+            className="btn-3d btn-3d-orange flex items-center gap-1.5 px-4 py-2.5 font-heading text-xs"
           >
             <Send className="h-3.5 w-3.5" />
             Entrar
@@ -1094,7 +1105,7 @@ function ConfigView({
         </div>
       </div>
 
-      <div className="glass-card rounded-2xl p-6">
+      <div className="card-flat p-6">
         <h2 className="mb-1 font-heading text-xl font-bold text-foreground">Configurar Desafio</h2>
         <p className="mb-6 font-body text-xs text-muted-foreground">
           Você responderá primeiro. Depois, o desafio ficará disponível para o adversário.
@@ -1333,11 +1344,11 @@ function ConfigView({
               {Math.floor(cfg.timeLimit / 60)} min
             </span>
             {cfg.targetType === "privado" && cfg.targetUserName ? (
-              <span className="rounded-full bg-emerald-500/10 px-2.5 py-1 font-heading font-semibold text-emerald-700">
+              <span className="rounded-full bg-success/10 px-2.5 py-1 font-heading font-semibold text-success">
                 Contra {cfg.targetUserName.split(" ")[0]}
               </span>
             ) : (
-              <span className="rounded-full bg-emerald-500/10 px-2.5 py-1 font-heading font-semibold text-emerald-700">
+              <span className="rounded-full bg-success/10 px-2.5 py-1 font-heading font-semibold text-success">
                 Duelo público
               </span>
             )}
@@ -1350,7 +1361,7 @@ function ConfigView({
         <button
           onClick={create}
           disabled={creating || effectiveAvailable < cfg.numQuestions || (cfg.targetType === "privado" && !cfg.targetUserId)}
-          className="btn-tap w-full rounded-xl bg-primary py-3.5 font-heading text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-glow disabled:cursor-not-allowed disabled:opacity-50"
+          className="btn-3d w-full py-3.5 font-heading text-sm disabled:cursor-not-allowed"
         >
           {creating ? (
             <span className="flex items-center justify-center gap-2"><Loader2 className="h-4 w-4 animate-spin" /> Criando...</span>
@@ -1607,11 +1618,11 @@ function BattleArena({
         : opponentProfile?.nome?.split(" ")[0] || (duel?.challenged_id ? "Adversário" : "Oponente");
 
     const KnightAvatar = ({ flipped = false }: { flipped?: boolean }) => (
-      <div className="flex h-24 w-24 items-center justify-center sm:h-32 sm:w-32">
+      <div className="flex h-24 w-24 items-center justify-center rounded-full border-2 border-border bg-white shadow-card sm:h-32 sm:w-32">
         <img
           src="/Knigth.svg"
           alt=""
-          className={`h-20 w-20 object-contain mix-blend-multiply drop-shadow-md sm:h-24 sm:w-24 ${flipped ? "-scale-x-100" : ""}`}
+          className={`h-16 w-16 object-contain sm:h-20 sm:w-20 ${flipped ? "-scale-x-100" : ""}`}
         />
       </div>
     );
@@ -1690,7 +1701,7 @@ function BattleArena({
                 avatarUrl={null}
                 flipped
                 hidden
-                placeholder={<img src="/Knigth.svg" alt="" className="h-20 w-20 object-contain mix-blend-multiply sm:h-24 sm:w-24" />}
+                placeholder={<span className="flex h-20 w-20 items-center justify-center rounded-full bg-white p-2 sm:h-24 sm:w-24"><img src="/Knigth.svg" alt="" className="h-full w-full object-contain" /></span>}
               />
             ) : (
               <ProfileAvatar
@@ -1795,7 +1806,7 @@ function BattleArena({
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -40 }}
           transition={{ duration: 0.2 }}
-          className={`glass-card rounded-2xl p-6 ${swapFlash ? "ring-2 ring-destructive/40" : ""}`}
+          className={`card-flat p-6 ${swapFlash ? "ring-2 ring-destructive/40" : ""}`}
         >
           <div className="mb-2 flex items-center gap-2">
             <span className="font-body text-xs text-muted-foreground">
@@ -1863,14 +1874,14 @@ function BattleArena({
           <button
             onClick={doSubmit}
             disabled={submitting}
-            className="btn-tap rounded-xl bg-primary px-6 py-3 font-heading text-sm font-bold text-primary-foreground hover:bg-primary/90 hover:shadow-glow disabled:opacity-60"
+            className="btn-3d px-6 py-3 font-heading text-sm"
           >
             {submitting ? <Loader2 className="mx-2 h-4 w-4 animate-spin" /> : `Finalizar (${answered}/${questions.length}) ✓`}
           </button>
         ) : (
           <button
             onClick={() => setCurrentQ(p => Math.min(questions.length - 1, p + 1))}
-            className="btn-tap rounded-xl bg-primary px-5 py-3 font-heading text-sm font-semibold text-primary-foreground hover:bg-primary/90"
+            className="btn-3d px-5 py-3 font-heading text-sm"
           >
             Próxima →
           </button>
@@ -1884,7 +1895,7 @@ function BattleArena({
           animate={{ opacity: 1, y: 0 }}
           onClick={doSubmit}
           disabled={submitting}
-          className="btn-tap w-full rounded-xl border-2 border-success/30 bg-success/10 py-3 font-heading text-sm font-bold text-success hover:bg-success/20"
+          className="btn-3d btn-3d-green w-full py-3 font-heading text-sm"
         >
           ✅ Todas respondidas — Finalizar agora
         </motion.button>
@@ -1932,7 +1943,7 @@ function WaitingView({
   };
 
   return (
-    <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="glass-card rounded-2xl p-10 text-center">
+    <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="card-flat p-10 text-center">
       <motion.div
         animate={{ y: [0, -10, 0] }}
         transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
@@ -1974,23 +1985,27 @@ function WaitingView({
 // ============================================================
 
 function ResultsView({
-  duel, userId, onBack,
+  duel, userId, onBack, onRematch,
 }: {
   duel: Duel;
   userId: string;
   onBack: () => void;
+  onRematch: (target: RematchTarget) => void;
 }) {
   const [names, setNames] = useState<Record<string, string>>({});
+  const [avatars, setAvatars] = useState<Record<string, string | null>>({});
   const [questions, setQuestions] = useState<ContentQuestion[]>([]);
 
   useEffect(() => {
     const ids = [duel.challenger_id, duel.challenged_id].filter(Boolean) as string[];
     if (ids.length === 0) return;
-    supabase.from("profiles").select("user_id, nome").in("user_id", ids).then(({ data }) => {
+    supabase.from("profiles").select("user_id, nome, avatar_url").in("user_id", ids).then(({ data }) => {
       if (data) {
         const m: Record<string, string> = {};
-        data.forEach(p => { m[p.user_id] = p.nome; });
+        const a: Record<string, string | null> = {};
+        data.forEach(p => { m[p.user_id] = p.nome; a[p.user_id] = p.avatar_url; });
         setNames(m);
+        setAvatars(a);
       }
     });
   }, [duel]);
@@ -2014,6 +2029,8 @@ function ResultsView({
   }, [duel.question_ids]);
 
   const iAmChallenger = duel.challenger_id === userId;
+  const myId = iAmChallenger ? duel.challenger_id : (duel.challenged_id ?? "");
+  const oppId = iAmChallenger ? (duel.challenged_id ?? "") : duel.challenger_id;
   const myScore = iAmChallenger ? duel.challenger_score : duel.challenged_score;
   const oppScore = iAmChallenger ? duel.challenged_score : duel.challenger_score;
   const myAnswers = iAmChallenger ? duel.challenger_answers : duel.challenged_answers;
@@ -2042,7 +2059,7 @@ function ResultsView({
 
   return (
     <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="space-y-4">
-      <div className="glass-card rounded-2xl p-8 text-center">
+      <div className="card-flat p-8 text-center">
         <motion.div
           initial={{ scale: 0 }}
           animate={{ scale: [0, 1.4, 1] }}
@@ -2068,12 +2085,14 @@ function ResultsView({
           transition={{ delay: 0.5 }}
           className="my-6 flex items-center justify-center gap-6"
         >
-          <div className="text-center">
+          <div className="flex flex-col items-center gap-2 text-center">
+            <SimpleProfileAvatar size="md" src={avatars[myId] ?? null} showBadge={false} />
             <div className="font-heading text-3xl font-extrabold text-primary">{myScore}/{questions.length}</div>
             <div className="font-body text-xs text-muted-foreground">{myName} (você)</div>
           </div>
           <div className="font-heading text-2xl font-black text-muted-foreground">vs</div>
-          <div className="text-center">
+          <div className="flex flex-col items-center gap-2 text-center">
+            <SimpleProfileAvatar size="md" src={avatars[oppId] ?? null} showBadge={false} />
             <div className="font-heading text-3xl font-extrabold text-accent">{oppScore}/{questions.length}</div>
             <div className="font-body text-xs text-muted-foreground">{oppName}</div>
           </div>
@@ -2096,7 +2115,7 @@ function ResultsView({
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.9 }}
-          className="glass-card rounded-2xl p-5"
+          className="card-flat p-5"
         >
           <h3 className="mb-3 font-heading text-sm font-bold text-foreground">Seu desempenho</h3>
           <div className="space-y-2">
@@ -2115,6 +2134,16 @@ function ResultsView({
             })}
           </div>
         </motion.div>
+      )}
+
+      {oppId && (
+        <button
+          onClick={() => onRematch({ targetUserId: oppId, targetUserName: names[oppId] ?? null, targetAvatarUrl: avatars[oppId] ?? null })}
+          className="btn-3d btn-3d-pink flex w-full items-center justify-center gap-2 py-3 font-heading text-sm"
+        >
+          <Sword className="h-4 w-4" />
+          Revanche contra {oppName}
+        </button>
       )}
 
       <button
@@ -2196,7 +2225,7 @@ function HistoryView({
       {loading ? (
         <div className="flex justify-center py-10"><Loader2 className="h-8 w-8 animate-spin text-primary" /></div>
       ) : duels.length === 0 ? (
-        <div className="glass-card rounded-2xl p-10 text-center">
+        <div className="card-flat p-10 text-center">
           <p className="font-body text-muted-foreground">Nenhum duelo registrado.</p>
         </div>
       ) : (

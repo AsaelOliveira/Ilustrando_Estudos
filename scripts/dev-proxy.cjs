@@ -37,11 +37,9 @@ function syncToLocal() {
 }
 
 async function ensureDependencies() {
-  const viteBin = isWindows
-    ? path.join(localRoot, "node_modules", ".bin", "vite.cmd")
-    : path.join(localRoot, "node_modules", ".bin", "vite");
+  const viteEntry = path.join(localRoot, "node_modules", "vite", "bin", "vite.js");
 
-  if (exists(viteBin)) {
+  if (exists(viteEntry)) {
     return;
   }
 
@@ -57,21 +55,15 @@ async function ensureDependencies() {
 }
 
 async function runInner(extraArgs) {
-  const viteBin = isWindows
-    ? path.join(localRoot, "node_modules", ".bin", "vite.cmd")
-    : path.join(localRoot, "node_modules", ".bin", "vite");
+  // Spawna o entry JS do vite via node — .cmd direto quebra no Windows (EINVAL, CVE-2024-27980)
+  const viteEntry = path.join(localRoot, "node_modules", "vite", "bin", "vite.js");
 
-  const args = extraArgs.length ? extraArgs : ["--host", "0.0.0.0", "--port", "4173"];
+  const args = [viteEntry, ...(extraArgs.length ? extraArgs : ["--host", "0.0.0.0", "--port", "4173"])];
   await ensureDependencies();
-  const code = isWindows
-    ? await run(viteBin, args, {
-        cwd: localRoot,
-        env: { ...process.env, ILUSTRANDO_LOCAL_DEV: "1" },
-      })
-    : await run(viteBin, args, {
-        cwd: localRoot,
-        env: { ...process.env, ILUSTRANDO_LOCAL_DEV: "1" },
-      });
+  const code = await run(process.execPath, args, {
+    cwd: localRoot,
+    env: { ...process.env, ILUSTRANDO_LOCAL_DEV: "1" },
+  });
   process.exit(code);
 }
 

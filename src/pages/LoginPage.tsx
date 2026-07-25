@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { Navigate, useLocation, useNavigate } from "react-router-dom";
 import { Eye, EyeOff, LogIn, Search, UserPlus } from "lucide-react";
 import BrandMark from "@/components/BrandMark";
+import MascotMark from "@/components/MascotMark";
 import Layout from "@/components/Layout";
 import { turmas } from "@/data/catalog";
 import { useAuth } from "@/hooks/useAuth";
@@ -220,7 +221,7 @@ export default function LoginPage() {
 
   return (
     <Layout>
-      <section className="mesh-gradient grid-pattern relative mx-auto flex min-h-[90vh] items-center justify-center px-4 py-20">
+      <section className="mesh-gradient grid-pattern relative mx-auto flex min-h-[90vh] items-center justify-center overflow-hidden px-4 py-20">
         <div className="pointer-events-none absolute -left-20 top-1/2 h-80 w-80 rounded-full bg-primary/15 blur-[100px]" />
         <div className="pointer-events-none absolute -right-20 bottom-0 h-96 w-96 rounded-full bg-accent/10 blur-[120px]" />
 
@@ -230,25 +231,24 @@ export default function LoginPage() {
           transition={{ duration: 0.5, type: "spring", damping: 20 }}
           className="relative w-full max-w-lg"
         >
-          <div className="bento-card border-primary/20 bg-background/60 p-10 shadow-glow backdrop-blur-2xl sm:p-12">
+          <div className="card-flat p-6 sm:p-10">
             <div className="mb-10 text-center">
               <motion.div
                 initial={{ rotate: -15, scale: 0 }}
                 animate={{ rotate: 0, scale: 1 }}
                 transition={{ type: "spring", stiffness: 200, delay: 0.1 }}
-                className="mb-6 inline-flex"
+                className="mb-6 flex items-center justify-center gap-4"
               >
-                <div className="rounded-[2.5rem] bg-primary/10 p-5 shadow-inner">
-                  <BrandMark sizeClassName="h-20 w-20" imageClassName="h-12 w-12" className="shadow-glow" />
-                </div>
+                <MascotMark sizeClassName="h-16 w-16 sm:h-20 sm:w-20" />
+                <BrandMark sizeClassName="h-16 w-16 sm:h-20 sm:w-20" imageClassName="h-11 w-11 sm:h-14 sm:w-14" />
               </motion.div>
               <h1 className="font-heading text-4xl font-black tracking-tight text-foreground">
-                Entrar na <span className="text-primary">Arena</span>
+                Entrar na <span className="text-gradient">Arena</span>
               </h1>
               <p className="mt-3 font-body text-base font-medium text-muted-foreground">Sua trilha de estudos está esperando.</p>
             </div>
 
-            <div className="mb-6 grid grid-cols-2 gap-2 rounded-2xl border border-border/60 bg-background/50 p-2">
+            <div className="mb-6 grid grid-cols-2 gap-2 rounded-2xl border-2 border-border bg-muted p-2">
               <button
                 type="button"
                 onClick={() => {
@@ -256,8 +256,8 @@ export default function LoginPage() {
                   setError("");
                   resetSignupFeedback();
                 }}
-                className={`rounded-xl px-4 py-3 text-sm font-semibold transition-all ${
-                  mode === "signin" ? "bg-primary text-primary-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"
+                className={`rounded-xl px-4 py-3 text-sm font-bold transition-all ${
+                  mode === "signin" ? "bg-primary text-primary-foreground shadow-3d" : "text-muted-foreground hover:text-foreground"
                 }`}
               >
                 Entrar
@@ -269,8 +269,8 @@ export default function LoginPage() {
                   setError("");
                   setCreatedAccess(null);
                 }}
-                className={`rounded-xl px-4 py-3 text-sm font-semibold transition-all ${
-                  mode === "signup" ? "bg-primary text-primary-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"
+                className={`rounded-xl px-4 py-3 text-sm font-bold transition-all ${
+                  mode === "signup" ? "bg-primary text-primary-foreground shadow-3d" : "text-muted-foreground hover:text-foreground"
                 }`}
               >
                 Quero me cadastrar
@@ -278,14 +278,14 @@ export default function LoginPage() {
             </div>
 
             {createdAccess ? (
-              <div className="mb-6 rounded-2xl border border-emerald-300/60 bg-gradient-to-r from-emerald-100 via-emerald-50 to-background px-4 py-4 shadow-sm">
-                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-emerald-700">Cadastro concluído</p>
-                <div className="mt-3 space-y-2 text-sm text-emerald-950">
+              <div className="mb-6 rounded-2xl border-2 border-success/50 bg-success/10 px-4 py-4">
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-success">Cadastro concluído</p>
+                <div className="mt-3 space-y-2 text-sm text-foreground">
                   <p>
-                    <span className="font-semibold">Acesso:</span> <code className="rounded bg-white/80 px-2 py-1 font-mono">{createdAccess.login}</code>
+                    <span className="font-semibold">Acesso:</span> <code className="rounded border border-border bg-card px-2 py-1 font-mono">{createdAccess.login}</code>
                   </p>
                   <p>
-                    <span className="font-semibold">Senha:</span> <code className="rounded bg-white/80 px-2 py-1 font-mono">{createdAccess.password}</code>
+                    <span className="font-semibold">Senha:</span> <code className="rounded border border-border bg-card px-2 py-1 font-mono">{createdAccess.password}</code>
                   </p>
                   <p>
                     <span className="font-semibold">Turma:</span> {turmas.find((turma) => turma.id === createdAccess.turmaId)?.nome ?? createdAccess.turmaId}
@@ -294,7 +294,7 @@ export default function LoginPage() {
                 <button
                   type="button"
                   onClick={handleUseCreatedAccess}
-                  className="btn-tap mt-4 rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-emerald-700"
+                  className="btn-3d btn-3d-green mt-4 rounded-xl px-4 py-2 text-sm font-bold"
                 >
                   Entrar com esse acesso
                 </button>
@@ -302,9 +302,9 @@ export default function LoginPage() {
             ) : null}
 
             {mode === "signup" ? (
-              <div className="mb-6 rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
-                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">Novo fluxo de cadastro</p>
-                <p className="mt-1 text-sm font-medium text-amber-900">Escreva seu nome completo e clique na lupa.</p>
+              <div className="mb-6 rounded-2xl border-2 border-brand-orange/50 bg-brand-orange/10 px-4 py-3">
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-brand-orange-dark">Novo fluxo de cadastro</p>
+                <p className="mt-1 text-sm font-medium text-foreground">Escreva seu nome completo e clique na lupa.</p>
               </div>
             ) : null}
 
@@ -321,7 +321,7 @@ export default function LoginPage() {
                       onChange={(e) => setIdentifier(e.target.value)}
                       required
                       placeholder="seuemail@escola.com ou aluno_4821ab"
-                      className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                      className="w-full rounded-2xl border-2 border-border bg-background px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                     />
                   </div>
 
@@ -336,7 +336,7 @@ export default function LoginPage() {
                         onChange={(e) => setPassword(e.target.value)}
                         required
                         placeholder="Sua senha"
-                        className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                        className="w-full rounded-2xl border-2 border-border bg-background px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                       />
                       <button
                         type="button"
@@ -350,7 +350,7 @@ export default function LoginPage() {
                 </>
               ) : (
                 <>
-                  <div className="rounded-2xl border border-primary/15 bg-primary/5 px-4 py-3 text-sm font-semibold text-primary">
+                  <div className="rounded-2xl border-2 border-primary/30 bg-primary/10 px-4 py-3 text-sm font-semibold text-primary">
                     Escreva seu nome completo e clique na lupa.
                   </div>
 
@@ -370,37 +370,29 @@ export default function LoginPage() {
                         }}
                         required
                         placeholder="Digite seu nome completo"
-                        className="min-w-0 flex-1 rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                        className="min-w-0 flex-1 rounded-2xl border-2 border-border bg-background px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                       />
                       <button
                         type="button"
                         onClick={handleCheckSignupName}
                         disabled={signupChecking}
-                        className="btn-tap inline-flex h-14 w-full shrink-0 items-center justify-center rounded-2xl border border-emerald-400/70 bg-emerald-500 px-4 py-4 text-white shadow-[0_0_0_8px_rgba(16,185,129,0.12)] transition-all hover:scale-[1.03] hover:bg-emerald-600 hover:shadow-[0_0_0_10px_rgba(16,185,129,0.16)] disabled:opacity-60 sm:h-auto sm:w-auto sm:min-w-16"
+                        className="btn-3d btn-3d-blue inline-flex h-14 w-full shrink-0 items-center justify-center rounded-2xl px-4 disabled:opacity-60 sm:h-auto sm:w-auto sm:min-w-16"
                         aria-label="Conferir nome"
                       >
-                        <span className="relative flex items-center justify-center">
-                          {!signupChecking ? (
-                            <>
-                              <span className="absolute inline-flex h-9 w-9 animate-ping rounded-full bg-white/25" />
-                              <span className="absolute inline-flex h-11 w-11 rounded-full border border-white/20" />
-                            </>
-                          ) : null}
-                          <Search className="relative h-5 w-5" />
-                        </span>
+                        <Search className="h-5 w-5" />
                       </button>
                     </div>
                   </div>
 
                   <div
-                    className={`rounded-2xl border px-4 py-3 text-sm ${
+                    className={`rounded-2xl border-2 px-4 py-3 text-sm ${
                       signupChecking
-                        ? "border-primary/20 bg-primary/5 text-primary"
+                        ? "border-primary/30 bg-primary/10 text-primary"
                         : signupLookupDone && signupResolvedTurma
-                          ? "border-emerald-200 bg-emerald-50 text-emerald-900"
+                          ? "border-success/50 bg-success/10 text-success"
                           : signupNameConflict
-                            ? "border-amber-200 bg-amber-50 text-amber-900"
-                            : "border-border/60 bg-background/40 text-muted-foreground"
+                            ? "border-brand-orange/50 bg-brand-orange/10 text-foreground"
+                            : "border-border bg-muted text-muted-foreground"
                     }`}
                   >
                     {signupChecking ? (
@@ -418,16 +410,16 @@ export default function LoginPage() {
 
                   {signupLookupDone && signupResolvedTurma ? (
                     <>
-                      <div className="rounded-3xl border border-primary/20 bg-gradient-to-r from-primary/10 via-emerald-50 to-background px-5 py-4 shadow-sm">
-                        <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-primary/80">
+                      <div className="rounded-3xl border-2 border-primary/30 bg-primary/5 px-5 py-4">
+                        <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-primary">
                           Seu acesso para entrar
                         </p>
                         <p className="mt-2 text-sm text-muted-foreground">
                           Guarde este e-mail. Ele será usado junto com a senha que você criar abaixo.
                         </p>
-                        <div className="mt-3 flex flex-col gap-3 rounded-2xl border border-primary/15 bg-white/80 px-4 py-3 sm:flex-row sm:items-center">
+                        <div className="mt-3 flex flex-col gap-3 rounded-2xl border-2 border-border bg-card px-4 py-3 sm:flex-row sm:items-center">
                           <span className="font-heading text-sm font-bold text-primary">Email de acesso</span>
-                          <code className="max-w-full break-all rounded-xl bg-secondary px-3 py-2 font-mono text-sm font-semibold text-foreground sm:text-base">
+                          <code className="max-w-full break-all rounded-xl bg-muted px-3 py-2 font-mono text-sm font-semibold text-foreground sm:text-base">
                             {signupPreviewAccess ?? "email@escola.com"}
                           </code>
                         </div>
@@ -445,7 +437,7 @@ export default function LoginPage() {
                               onChange={(e) => setSignupPassword(e.target.value)}
                               required
                               placeholder="Mínimo de 6 caracteres"
-                              className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                              className="w-full rounded-2xl border-2 border-border bg-background px-5 py-4 pr-14 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                             />
                             <button
                               type="button"
@@ -467,7 +459,7 @@ export default function LoginPage() {
                             onChange={(e) => setSignupPasswordConfirm(e.target.value)}
                             required
                             placeholder="Repita a senha"
-                            className="w-full rounded-2xl border border-border/60 bg-background/50 px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
+                            className="w-full rounded-2xl border-2 border-border bg-background px-5 py-4 font-body text-sm transition-all focus:border-primary focus:ring-4 focus:ring-primary/10 focus:outline-none"
                           />
                         </div>
                       </div>
@@ -491,9 +483,8 @@ export default function LoginPage() {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="btn-tap group relative flex w-full items-center justify-center gap-3 overflow-hidden rounded-2xl bg-primary py-5 font-heading text-lg font-black text-primary-foreground shadow-glow transition-all hover:scale-[1.02] disabled:opacity-60"
+                  className="btn-3d group flex w-full items-center justify-center gap-3 rounded-2xl py-5 font-heading text-lg font-black uppercase tracking-wider disabled:opacity-60"
                 >
-                  <div className="pointer-events-none absolute inset-x-0 h-full w-1/3 animate-shine bg-white/20 blur-xl" />
                   {loading ? (
                     <motion.div
                       animate={{ rotate: 360 }}

@@ -10,8 +10,9 @@ export default function BrandMark({
   className = "",
 }: BrandMarkProps) {
   return (
+    // Chip claro proposital: a logo da escola e verde-escura e some sobre fundo dark
     <div
-      className={`flex items-center justify-center rounded-2xl border border-slate-200/80 bg-white shadow-soft ${sizeClassName} ${className}`.trim()}
+      className={`flex items-center justify-center rounded-2xl border border-border bg-white shadow-card ${sizeClassName} ${className}`.trim()}
     >
       <img
         src="/logo-escola.png"

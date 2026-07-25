@@ -28,6 +28,7 @@ const AcompanhamentoPage = lazy(() => import("./pages/AcompanhamentoPage"));
 const FavoritosPage = lazy(() => import("./pages/FavoritosPage"));
 const ModoProvaPage = lazy(() => import("./pages/ModoProvaPage"));
 const DuelPage = lazy(() => import("./pages/DuelPage"));
+const CorridaPage = lazy(() => import("./pages/CorridaPage"));
 
 const queryClient = new QueryClient();
 
@@ -68,7 +69,7 @@ function StudyContentScope() {
 
 function RouteFallback() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background px-4">
+    <div className="flex min-h-dvh items-center justify-center bg-background px-4">
       <div className="text-center">
         <p className="font-heading text-lg font-semibold text-foreground">Carregando pagina...</p>
         <p className="mt-2 text-sm text-muted-foreground">Baixando somente o necessario para esta etapa.</p>
@@ -79,7 +80,7 @@ function RouteFallback() {
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
-    <ThemeProvider attribute="class" defaultTheme="light" storageKey="vite-ui-theme">
+    <ThemeProvider attribute="class" defaultTheme="system" enableSystem storageKey="vite-ui-theme">
       <TooltipProvider>
         <Toaster />
         <Sonner />
@@ -106,6 +107,7 @@ const App = () => (
                     <Route path="/app/configuracoes" element={<PerfilPage />} />
                     <Route path="/app/competicao" element={<Competicao />} />
                     <Route path="/app/duelo" element={<DuelPage />} />
+                    <Route path="/app/corrida" element={<CorridaPage />} />
                     <Route element={<RequireRole allowedRoles={["admin"]} />}>
                       <Route path="/app/admin" element={<AdminPage />} />
                     </Route>

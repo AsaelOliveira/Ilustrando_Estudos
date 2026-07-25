@@ -425,34 +425,34 @@ export default function Competicao() {
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
-          className="mt-10 overflow-hidden rounded-[1.8rem] border border-amber-300/70 bg-[linear-gradient(135deg,rgba(255,248,235,0.98)_0%,rgba(255,243,214,0.98)_100%)] shadow-sm"
+          className="card-flat mt-10 overflow-hidden rounded-[1.8rem]"
         >
-          <div className="border-b border-amber-300/60 bg-[repeating-linear-gradient(-45deg,rgba(217,119,6,0.16)_0px,rgba(217,119,6,0.16)_18px,rgba(120,53,15,0.10)_18px,rgba(120,53,15,0.10)_36px)] px-5 py-3">
-            <p className="text-center font-heading text-sm font-extrabold uppercase tracking-[0.35em] text-amber-950/90">
+          <div className="border-b border-border bg-brand-yellow/20 px-5 py-3">
+            <p className="text-center font-heading text-sm font-extrabold uppercase tracking-[0.35em] text-foreground">
               Em Construção
             </p>
           </div>
           <div className="flex flex-col gap-3 p-5 sm:flex-row sm:items-center sm:justify-between">
             <div className="min-w-0">
-              <p className="inline-flex items-center gap-2 rounded-full bg-amber-100 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-800">
+              <p className="inline-flex items-center gap-2 rounded-full bg-brand-yellow/20 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-brand-orange-dark">
                 <Shield className="h-3.5 w-3.5" />
                 Área reservada
               </p>
-              <h2 className="mt-3 font-heading text-lg font-bold text-amber-950">
+              <h2 className="mt-3 font-heading text-lg font-bold text-foreground">
                 Próximas fases da competição
               </h2>
-              <p className="mt-1 max-w-2xl text-sm font-body text-amber-900/75">
+              <p className="mt-1 max-w-2xl text-sm font-body text-muted-foreground">
                 Este espaço ainda não será usado agora. Quando as próximas fases estiverem prontas, ele será liberado para a competição completa.
               </p>
             </div>
-            <div className="rounded-2xl border border-amber-300/70 bg-white/80 px-4 py-3 text-left shadow-sm sm:min-w-[220px]">
-              <p className="text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-amber-700">
+            <div className="rounded-2xl border-2 border-border bg-secondary/50 px-4 py-3 text-left shadow-soft sm:min-w-[220px]">
+              <p className="text-[11px] font-heading font-bold uppercase tracking-[0.18em] text-muted-foreground">
                 Status atual
               </p>
-              <p className="mt-1 font-heading text-base font-bold text-amber-950">
+              <p className="mt-1 font-heading text-base font-bold text-foreground">
                 Em construção
               </p>
-              <p className="mt-1 text-xs font-body text-amber-900/70">
+              <p className="mt-1 text-xs font-body text-muted-foreground">
                 Sem impacto no ranking e nas missões de hoje.
               </p>
             </div>
@@ -489,7 +489,7 @@ function MissaoTab({
 }: MissionTabProps) {
   if (!user) {
     return (
-      <div className="glass-card rounded-2xl p-8 text-center">
+      <div className="card-flat p-8 text-center">
         <Target className="h-12 w-12 text-primary mx-auto mb-4 opacity-50" />
         <h2 className="font-heading font-bold text-xl text-foreground mb-2">Faça login para jogar!</h2>
         <p className="text-muted-foreground font-body text-sm">Entre na sua conta para participar das missões diárias.</p>
@@ -503,7 +503,7 @@ function MissaoTab({
       <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
-        className="glass-card rounded-2xl p-8 text-center"
+        className="card-flat p-8 text-center"
       >
         <div className="text-6xl mb-4">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👏" : "📘"}</div>
         <h2 className="font-heading font-extrabold text-2xl text-foreground mb-2">Missão Completa!</h2>
@@ -569,7 +569,7 @@ function MissaoTab({
           </div>
         </div>
 
-        <div className="glass-card rounded-2xl p-6">
+        <div className="card-flat p-6">
           <div className="flex items-center gap-2 mb-1">
               <span className="text-xs font-body text-muted-foreground">Questão {currentQ + 1} de {missionQuestions.length}</span>
             <span className={`text-[10px] font-body px-2 py-0.5 rounded-full ${
@@ -641,7 +641,7 @@ function MissaoTab({
     <motion.div
       initial={{ opacity: 0, scale: 0.95 }}
       animate={{ opacity: 1, scale: 1 }}
-      className="glass-card rounded-2xl p-8 text-center"
+      className="card-flat p-8 text-center"
     >
       <motion.div
         animate={{ scale: [1, 1.1, 1] }}
@@ -704,7 +704,7 @@ function MissaoTabAtualizada({
 }: MissionTabProps) {
   if (!user) {
     return (
-      <div className="glass-card rounded-2xl p-8 text-center">
+      <div className="card-flat p-8 text-center">
         <Target className="mx-auto mb-4 h-12 w-12 text-primary opacity-50" />
         <h2 className="mb-2 font-heading text-xl font-bold text-foreground">Faça login para jogar!</h2>
         <p className="font-body text-sm text-muted-foreground">
@@ -721,7 +721,7 @@ function MissaoTabAtualizada({
       <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
-        className="glass-card rounded-2xl p-8 text-center"
+        className="card-flat p-8 text-center"
       >
         <div className="mb-4 text-6xl">{correct >= 4 ? "🏆" : correct >= 3 ? "🎉" : correct >= 2 ? "👏" : "📘"}</div>
         <h2 className="mb-2 font-heading text-2xl font-extrabold text-foreground">Missão completa!</h2>
@@ -843,7 +843,7 @@ function MissaoTabAtualizada({
           </div>
         </div>
 
-        <div className="glass-card rounded-2xl p-6">
+        <div className="card-flat p-6">
           <div className="mb-1 flex items-center gap-2">
             <span className="font-body text-xs text-muted-foreground">
               Questão {currentQ + 1} de {missionQuestions.length}
@@ -922,7 +922,7 @@ function MissaoTabAtualizada({
     <motion.div
       initial={{ opacity: 0, scale: 0.95 }}
       animate={{ opacity: 1, scale: 1 }}
-      className="glass-card rounded-2xl p-8 text-center"
+      className="card-flat p-8 text-center"
     >
       <motion.div
         animate={{ scale: [1, 1.1, 1] }}
@@ -1010,10 +1010,10 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
     return parts.slice(0, 2).join(" ");
   };
 
-  const getMedalEmoji = (pos: number) => {
-    if (pos === 0) return "🥇";
-    if (pos === 1) return "🥈";
-    if (pos === 2) return "🥉";
+  const getMedalClass = (pos: number) => {
+    if (pos === 0) return "medal-gold";
+    if (pos === 1) return "medal-silver";
+    if (pos === 2) return "medal-bronze";
     return null;
   };
 
@@ -1021,7 +1021,7 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
     return (
       <div className="space-y-3">
         {Array.from({ length: 3 }).map((_, i) => (
-          <div key={i} className="h-16 bg-secondary/50 rounded-2xl animate-pulse" />
+          <div key={i} className="skeleton h-16" />
         ))}
       </div>
     );
@@ -1029,7 +1029,7 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
 
   if (entries.length === 0) {
     return (
-      <div className="glass-card rounded-2xl p-8 text-center">
+      <div className="card-flat p-8 text-center">
         <Trophy className="h-12 w-12 text-muted-foreground mx-auto mb-4 opacity-30" />
         <h3 className="font-heading font-bold text-lg text-foreground mb-2">Nenhum jogador ainda</h3>
         <p className="text-muted-foreground font-body text-sm">Complete missões para aparecer no ranking!</p>
@@ -1042,7 +1042,7 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
       <h2 className="font-heading font-bold text-lg text-foreground mb-4">{title}</h2>
       <div className="space-y-2">
         {entries.map((entry, i) => {
-          const medal = getMedalEmoji(i);
+          const medalClass = getMedalClass(i);
           const isMe = entry.user_id === currentUserId;
           const turmaLabel = turmas.find(t => t.id === entry.turma_id)?.nome;
           return (
@@ -1051,18 +1051,18 @@ function RankingTab({ title, entries, loading, currentUserId, maxEntries, showTu
               initial={{ opacity: 0, x: -12 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: i * 0.06 }}
-              className={`flex items-center gap-3 px-4 py-3.5 rounded-2xl border-2 transition-all ${
-                isMe
+              className={`card-flat flex items-center gap-3 px-4 py-3.5 transition-all ${
+                i === 0
+                  ? "border-primary bg-rank-leader-soft shadow-lift"
+                  : isMe
                   ? "border-primary/40 bg-primary/5"
-                  : i < 3
-                  ? "border-accent/20 bg-accent/5"
-                  : "border-border bg-card"
+                  : "hover:shadow-lift"
               }`}
             >
               {/* Position */}
               <div className="w-10 flex-shrink-0 text-center">
-                {medal ? (
-                  <span className="text-2xl">{medal}</span>
+                {medalClass ? (
+                  <Medal className={`mx-auto h-7 w-7 ${medalClass}`} />
                 ) : (
                   <span className="font-heading font-bold text-lg text-muted-foreground">{i + 1}</span>
                 )}

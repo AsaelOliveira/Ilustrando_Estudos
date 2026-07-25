@@ -71,26 +71,23 @@ export default function Disciplinas() {
               >
                 <Link
                   to={`/app/turmas/${turmaId}/${disciplina.id}`}
-                  className={`card-glow group relative block overflow-hidden rounded-[1.7rem] border border-border bg-card p-8 shadow-card transition-all ${visual.borderHover}`}
+                  className={`card-flat card-glow group relative block p-6 sm:p-8 ${visual.borderHover}`}
                 >
-                  <div className={`absolute inset-0 bg-gradient-to-br ${visual.surface} opacity-100`} />
-                  <div className="absolute inset-x-8 top-0 h-px overflow-hidden">
-                    <div className={`h-full w-40 bg-gradient-to-r ${visual.line}`} />
-                  </div>
-                  <div className="absolute right-4 top-4 rounded-full border border-white/50 bg-white/75 px-3 py-1 text-[10px] font-heading font-semibold uppercase tracking-[0.18em] text-foreground/70 backdrop-blur">
-                    {visual.badge}
-                  </div>
-
                   <div className="relative z-10">
-                    <motion.div
-                      whileHover={{ y: -4, rotate: -4 }}
-                      transition={{ duration: 0.25 }}
-                      className={`mb-5 inline-flex h-16 w-16 items-center justify-center rounded-[1.35rem] border border-white/60 bg-white/85 shadow-sm backdrop-blur ${visual.iconWrap}`}
-                    >
-                      <Icon className="h-7 w-7" strokeWidth={2.2} />
-                    </motion.div>
+                    <div className="mb-5 flex items-start justify-between gap-3">
+                      <motion.div
+                        whileHover={{ y: -4, rotate: -4 }}
+                        transition={{ duration: 0.25 }}
+                        className={`inline-flex h-16 w-16 items-center justify-center rounded-[1.35rem] ${visual.iconWrap}`}
+                      >
+                        <Icon className="h-7 w-7" strokeWidth={2.2} />
+                      </motion.div>
+                      <span className={`rounded-full px-3 py-1 text-[10px] font-heading font-semibold uppercase tracking-[0.18em] ${visual.chip}`}>
+                        {visual.badge}
+                      </span>
+                    </div>
 
-                    <h2 className="max-w-xs font-heading text-2xl font-semibold text-foreground">
+                    <h2 className="max-w-xs font-heading text-2xl font-bold text-foreground">
                       {disciplina.nome}
                     </h2>
                     <p className="mt-2 max-w-sm font-body text-sm leading-relaxed text-muted-foreground">

@@ -1,4 +1,4 @@
-﻿import { ChangeEvent, useEffect, useMemo, useRef, useState } from "react";
+import { ChangeEvent, useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import {
   ArrowRight,
@@ -16,6 +16,8 @@ import { Link } from "react-router-dom";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Layout from "@/components/Layout";
 import SimpleProfileAvatar from "@/components/SimpleProfileAvatar";
+import { AccentPicker } from "@/components/AccentPicker";
+import SuggestionBox from "@/components/SuggestionBox";
 import { turmas } from "@/data/catalog";
 import { getAvatarCoins } from "@/lib/avatar-system";
 import { useAuth } from "@/hooks/useAuth";
@@ -919,14 +921,14 @@ export default function PerfilPage() {
         <motion.div
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
-          className="overflow-hidden rounded-[32px] border border-emerald-100 bg-[linear-gradient(180deg,#ffffff_0%,#f6fbf8_100%)] shadow-[0_20px_70px_rgba(15,23,42,0.08)]"
+          className="card-flat overflow-hidden rounded-[32px]"
         >
           <div className="grid gap-5 px-4 py-4 sm:px-6 sm:py-6 lg:grid-cols-[320px_minmax(0,1fr)] lg:px-8">
             <motion.div
               initial={{ opacity: 0, scale: 0.97 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.05 }}
-              className="rounded-[28px] border border-emerald-100 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.10),_transparent_55%),linear-gradient(180deg,#ffffff_0%,#f5fbf7_100%)] p-6 lg:sticky lg:top-24"
+              className="card-flat rounded-[28px] p-6 lg:sticky lg:top-24"
             >
               <div className="flex items-center justify-between gap-3">
                 <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Preview</p>
@@ -935,12 +937,13 @@ export default function PerfilPage() {
                     Prévia do efeito
                   </span>
                 ) : (
-                  <span className="rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-700">
+                  <span className="rounded-full bg-brand-green/15 px-3 py-1 text-[11px] font-semibold text-brand-green">
                     Efeito em uso
                   </span>
                 )}
               </div>
-              <div className="mt-6 flex justify-center">
+              <div className="mt-6 rounded-[22px] border-2 border-frame bg-background px-4 py-6 shadow-card">
+              <div className="flex justify-center">
                 <div className="relative flex h-44 w-44 items-center justify-center">
                   {previewEffect !== "none" ? (
                     <>
@@ -1016,22 +1019,23 @@ export default function PerfilPage() {
                 </h2>
                 <p className="mt-2 text-sm font-medium text-muted-foreground">{roleLabel}</p>
               </div>
+              </div>
               <div className="mt-6 space-y-3">
                 <div className="grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
-                  <div className="rounded-[18px] border border-white/80 bg-white/70 px-4 py-3">
+                  <div className="rounded-[18px] border border-border bg-background px-4 py-3">
                     <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/60">Conta</p>
                     <p className="mt-2 break-all text-sm font-medium text-foreground">{emailLabel || "Não informado"}</p>
                   </div>
-                  <div className="rounded-[18px] border border-white/80 bg-white/70 px-4 py-3">
+                  <div className="rounded-[18px] border border-border bg-background px-4 py-3">
                     <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/60">Turma</p>
                     <p className="mt-2 text-sm font-medium text-foreground">{turmaNome}</p>
                   </div>
-                  <div className="rounded-[18px] border border-white/80 bg-white/70 px-4 py-3">
+                  <div className="rounded-[18px] border border-border bg-background px-4 py-3">
                     <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/60">Acesso</p>
                     <p className="mt-2 text-sm font-medium text-foreground">{roleLabel}</p>
                   </div>
                 </div>
-                <div className="rounded-[22px] border border-white/80 bg-white/75 px-4 py-4">
+                <div className="rounded-[22px] border border-border bg-background px-4 py-4">
                   <div className="flex items-center justify-between gap-3">
                     <div>
                       <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/60">Status na arena</p>
@@ -1059,28 +1063,36 @@ export default function PerfilPage() {
                       onClick={() => handleDuelStatusChange("studying")}
                       className={`rounded-[18px] border px-4 py-3 text-left transition-all ${
                         duelStatus === "studying"
-                          ? "border-amber-300 bg-amber-50 shadow-sm"
-                          : "border-border bg-background/70 hover:border-amber-200"
+                          ? "border-brand-yellow bg-brand-yellow/15 shadow-sm"
+                          : "border-border bg-background/70 hover:border-brand-yellow/60"
                       }`}
                     >
                       <div className="flex items-center gap-2">
-                        <BookOpen className="h-4 w-4 text-amber-600" />
+                        <BookOpen className="h-4 w-4 text-brand-yellow" />
                         <span className="font-heading text-sm font-bold text-foreground">Só estudando</span>
                       </div>
                       <p className="mt-2 text-xs text-muted-foreground">Mostra que está online, mas focado nos estudos.</p>
                     </button>
                   </div>
                 </div>
-                <div className="rounded-[22px] border border-white/80 bg-background/80 px-4 py-4 text-sm leading-6 text-muted-foreground">
+                <div className="rounded-[22px] border border-border bg-background px-4 py-4">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/60">Aparência</p>
+                  <p className="mt-1 text-xs text-muted-foreground">Cor do app</p>
+                  <div className="mt-3">
+                    <AccentPicker />
+                  </div>
+                </div>
+                <div className="rounded-[22px] border border-border bg-muted/40 px-4 py-4 text-sm leading-6 text-muted-foreground">
                   Estilo atual: <span className="font-semibold text-foreground">{persistedCatalogLabel}</span>
                   <br />
                   Opção: <span className="font-medium text-foreground/80">{persistedOptionLabel}</span>
                 </div>
+                <SuggestionBox />
               </div>
             </motion.div>
 
             <div className="space-y-5">
-              <div className="rounded-[24px] border border-emerald-100 bg-white/85 p-2.5 shadow-[0_10px_24px_rgba(16,24,40,0.05)] sm:p-3">
+              <div className="card-flat rounded-[24px] p-2.5 sm:p-3">
                 <div className="-mx-1 overflow-x-auto px-1 pb-1">
                   <div className="flex min-w-max gap-2">
                   {visibleShopTabs.map((tab) => (
@@ -1115,7 +1127,7 @@ export default function PerfilPage() {
                             }
                           }}
                           className={`ml-2 inline-flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
-                            catalogVisibility.hiddenTabs.includes(tab.key) ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                            catalogVisibility.hiddenTabs.includes(tab.key) ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
                           }`}
                           title={catalogVisibility.hiddenTabs.includes(tab.key) ? "Mostrar para alunos" : "Ocultar dos alunos"}
                         >
@@ -1129,10 +1141,10 @@ export default function PerfilPage() {
               </div>
 
               {selectedShopTab === "avatars" && (
-              <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
+              <div className="card-flat rounded-[28px] p-5">
                 <div className="flex flex-col gap-3">
                   <div>
-                    <div className="flex flex-wrap items-center gap-2"><span className="rounded-full bg-emerald-500/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.22em] text-emerald-700">Loja</span><span className="inline-flex items-center gap-1 rounded-full bg-slate-900 px-3 py-1 text-xs font-semibold text-white"><Brain className="h-3.5 w-3.5" />Sinapses {availableCoins}</span></div>
+                    <div className="flex flex-wrap items-center gap-2"><span className="rounded-full bg-brand-green/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.22em] text-brand-green">Loja</span><span className="inline-flex items-center gap-1 rounded-full bg-sinapses px-3 py-1 text-xs font-semibold text-sinapses-foreground"><Brain className="h-3.5 w-3.5" />Sinapses {availableCoins}</span></div>
                     <h3 className="mt-3 font-heading text-2xl font-black text-foreground">Escolha seu estilo</h3>
                     <p className="mt-2 text-sm leading-7 text-muted-foreground">
                       Sol, Trilha e Nuvem do Thumbs são grátis. Cada avatar das outras opções é liberado individualmente com Sinapses.
@@ -1141,7 +1153,7 @@ export default function PerfilPage() {
                 </div>
 
                 {avatarLocked ? (
-                  <div className="mt-4 rounded-[18px] border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+                  <div className="mt-4 rounded-[18px] border border-brand-yellow/60 bg-brand-yellow/10 px-4 py-3 text-sm text-foreground">
                     Este perfil está com personalização bloqueada no momento.
                   </div>
                 ) : null}
@@ -1195,7 +1207,7 @@ export default function PerfilPage() {
                               }
                             }}
                             className={`absolute -left-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
-                              styleHidden ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                              styleHidden ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
                             }`}
                             title={styleHidden ? "Mostrar para alunos" : "Ocultar dos alunos"}
                           >
@@ -1204,10 +1216,10 @@ export default function PerfilPage() {
                         ) : null}
                         {style.id === "avataaars" ? (
                           <>
-                            <span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-amber-400 text-[10px] text-amber-950 shadow-sm">
+                            <span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-brand-yellow text-[10px] text-foreground shadow-sm">
                               <Sparkles className="h-3 w-3" />
                             </span>
-                            <span className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-amber-500 px-2 py-0.5 text-[9px] font-bold uppercase tracking-[0.12em] text-white shadow-sm">
+                            <span className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-brand-yellow px-2 py-0.5 text-[9px] font-bold uppercase tracking-[0.12em] text-foreground shadow-sm">
                               Itens
                             </span>
                           </>
@@ -1240,7 +1252,7 @@ export default function PerfilPage() {
                         aria-label={collection.name}
                         title={collection.name}
                       >
-                        <div className="flex h-11 w-11 items-center justify-center overflow-hidden rounded-full bg-white shadow-sm">
+                        <div className="flex h-11 w-11 items-center justify-center overflow-hidden rounded-full bg-avatar shadow-sm">
                           <img src={previewItem.imageUrl} alt={collection.name} className="h-9 w-9 object-contain" />
                         </div>
                         {isAdmin ? (
@@ -1260,7 +1272,7 @@ export default function PerfilPage() {
                               }
                             }}
                             className={`absolute -left-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
-                              collection.hidden ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                              collection.hidden ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
                             }`}
                             title={collection.hidden ? "Mostrar para alunos" : "Ocultar dos alunos"}
                           >
@@ -1274,15 +1286,15 @@ export default function PerfilPage() {
                 </div>
 
                 <div className="mt-8 flex flex-wrap items-center gap-2 text-sm">
-                  <span className="rounded-full bg-slate-100 px-3 py-1 font-semibold text-slate-700">
+                  <span className="rounded-full bg-secondary px-3 py-1 font-semibold text-foreground">
                     {selectedCatalogLabel}
                   </span>
                   {selectedCustomCollection ? (
-                    <span className="rounded-full bg-sky-50 px-3 py-1 font-medium text-sky-700">
+                    <span className="rounded-full bg-brand-blue/10 px-3 py-1 font-medium text-brand-blue">
                       Coleção enviada por você, no mesmo catálogo da loja
                     </span>
                   ) : selectedStyle === "thumbs" ? (
-                    <span className="rounded-full bg-sky-50 px-3 py-1 font-medium text-sky-700">
+                    <span className="rounded-full bg-brand-blue/10 px-3 py-1 font-medium text-brand-blue">
                       Thumbs usa variações prontas, sem troca de cor por enquanto
                     </span>
                   ) : null}
@@ -1307,7 +1319,7 @@ export default function PerfilPage() {
                           className={[
                             "relative rounded-[22px] border p-4 text-center transition-all cursor-pointer",
                             active
-                              ? "border-primary bg-primary/10 shadow-[0_0_0_3px_rgba(16,185,129,0.18)]"
+                              ? "border-primary bg-primary/10 shadow-[0_0_0_3px_hsl(var(--primary)/0.18)]"
                               : previewing
                                 ? "border-primary/40 bg-primary/5 shadow-sm"
                                 : "border-border bg-card hover:border-primary/20 hover:bg-secondary/20",
@@ -1316,18 +1328,18 @@ export default function PerfilPage() {
                         >
                           <div className="flex justify-end">
                             {unlocked ? (
-                              <span className="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-800">
+                              <span className="inline-flex items-center gap-1 rounded-full bg-brand-green/10 px-3 py-1 text-[11px] font-semibold text-brand-green">
                                 <Brain className="h-3.5 w-3.5" />
                                 {item.price === 0 ? "Grátis" : "Seu avatar"}
                               </span>
                             ) : (
-                              <span className="inline-flex items-center gap-1 rounded-full bg-slate-900 px-3 py-1 text-[11px] font-semibold text-white shadow-sm">
+                              <span className="inline-flex items-center gap-1 rounded-full bg-sinapses px-3 py-1 text-[11px] font-semibold text-sinapses-foreground shadow-sm">
                                 <Brain className="h-3.5 w-3.5" />
                                 {item.price} Sinapses
                               </span>
                             )}
                           </div>
-                          <div className="mt-3 flex min-h-[96px] items-center justify-center rounded-[18px] bg-secondary/25 p-3">
+                          <div className="mt-3 flex min-h-[96px] items-center justify-center rounded-[18px] border-2 border-frame bg-avatar p-3">
                             <img src={item.imageUrl} alt={item.name} className="h-20 w-20 object-contain" />
                           </div>
                           <p className="mt-3 font-heading text-sm font-semibold text-foreground">
@@ -1347,8 +1359,8 @@ export default function PerfilPage() {
                               disabled={savingAvatar || isBuying || active}
                               className={`block w-full rounded-xl px-3 py-2.5 text-center text-xs font-semibold transition-all disabled:opacity-60 ${
                                 unlocked
-                                  ? "border border-emerald-200 bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
-                                  : "bg-primary text-primary-foreground hover:bg-primary/90"
+                                  ? "border border-brand-green/50 bg-brand-green/10 text-brand-green hover:bg-brand-green/20"
+                                  : "btn-3d"
                               }`}
                             >
                               {unlocked ? (active ? "Usando" : (savingAvatar ? "Aplicando..." : "Usar")) : (isBuying ? "Comprando..." : "Comprar")}
@@ -1373,7 +1385,7 @@ export default function PerfilPage() {
                           className={[
                             "relative rounded-[22px] border p-4 text-center transition-all cursor-pointer",
                             active
-                              ? "border-primary bg-primary/10 shadow-[0_0_0_3px_rgba(16,185,129,0.18)]"
+                              ? "border-primary bg-primary/10 shadow-[0_0_0_3px_hsl(var(--primary)/0.18)]"
                               : choiceHidden
                                 ? "border-destructive/30 bg-destructive/5 opacity-70"
                               : previewing
@@ -1399,7 +1411,7 @@ export default function PerfilPage() {
                                   }
                                 }}
                                 className={`absolute left-3 top-3 flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
-                                  choiceHidden ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                                  choiceHidden ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
                                 }`}
                                 title={choiceHidden ? "Mostrar para alunos" : "Ocultar dos alunos"}
                               >
@@ -1407,12 +1419,12 @@ export default function PerfilPage() {
                               </span>
                             ) : null}
                             {unlocked ? (
-                              <span className="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-800">
+                              <span className="inline-flex items-center gap-1 rounded-full bg-brand-green/10 px-3 py-1 text-[11px] font-semibold text-brand-green">
                                 <Brain className="h-3.5 w-3.5" />
                                 {choice.cost === 0 ? "Grátis" : "Seu avatar"}
                               </span>
                             ) : (
-                              <span className="inline-flex items-center gap-1 rounded-full bg-slate-900 px-3 py-1 text-[11px] font-semibold text-white shadow-sm">
+                              <span className="inline-flex items-center gap-1 rounded-full bg-sinapses px-3 py-1 text-[11px] font-semibold text-sinapses-foreground shadow-sm">
                                 <Brain className="h-3.5 w-3.5" />
                                 {choice.cost} Sinapses
                               </span>
@@ -1436,8 +1448,8 @@ export default function PerfilPage() {
                               disabled={savingAvatar || isBuying || active}
                               className={`block w-full rounded-xl px-3 py-2.5 text-center text-xs font-semibold transition-all disabled:opacity-60 ${
                                 unlocked
-                                  ? "border border-emerald-200 bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
-                                  : "bg-primary text-primary-foreground hover:bg-primary/90"
+                                  ? "border border-brand-green/50 bg-brand-green/10 text-brand-green hover:bg-brand-green/20"
+                                  : "btn-3d"
                               }`}
                             >
                               {unlocked ? (active ? "Usando" : (savingAvatar ? "Aplicando..." : "Usar")) : (isBuying ? "Comprando..." : "Comprar")}
@@ -1452,7 +1464,7 @@ export default function PerfilPage() {
               )}
 
               {selectedShopTab === "effects" && (
-              <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
+              <div className="card-flat rounded-[28px] p-5">
                 <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                   <div>
                     <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Efeitos</p>
@@ -1462,9 +1474,9 @@ export default function PerfilPage() {
                     </p>
                   </div>
 
-                  <div className="rounded-[20px] border border-emerald-200 bg-emerald-50 px-4 py-3 text-sm text-foreground">
+                  <div className="rounded-[20px] border border-brand-green/40 bg-brand-green/10 px-4 py-3 text-sm text-foreground">
                     <p className="inline-flex items-center gap-2 font-heading text-sm font-semibold">
-                      <Brain className="h-4 w-4 text-emerald-600" />
+                      <Brain className="h-4 w-4 text-brand-green" />
                       Sinapses disponíveis
                     </p>
                     <p className="mt-1 text-2xl font-black text-primary">{availableCoins}</p>
@@ -1485,7 +1497,7 @@ export default function PerfilPage() {
                         className={[
                           "cursor-pointer rounded-[22px] border p-4 text-center transition-all",
                           active
-                            ? "border-primary bg-primary/10 shadow-[0_0_0_3px_rgba(16,185,129,0.18)]"
+                            ? "border-primary bg-primary/10 shadow-[0_0_0_3px_hsl(var(--primary)/0.18)]"
                             : previewing
                               ? "border-primary/40 bg-primary/5 shadow-sm"
                               : "border-border bg-card hover:border-primary/20 hover:bg-secondary/20",
@@ -1493,12 +1505,12 @@ export default function PerfilPage() {
                       >
                         <div className="flex justify-end">
                           {unlocked ? (
-                            <span className="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-3 py-1 text-[11px] font-semibold text-emerald-800">
+                            <span className="inline-flex items-center gap-1 rounded-full bg-brand-green/10 px-3 py-1 text-[11px] font-semibold text-brand-green">
                               <Brain className="h-3.5 w-3.5" />
                               {active ? "Seu efeito" : previewing ? "Prévia" : item.cost === 0 ? "Grátis" : "Liberado"}
                             </span>
                           ) : (
-                            <span className="inline-flex items-center gap-1 rounded-full bg-slate-900 px-3 py-1 text-[11px] font-semibold text-white shadow-sm">
+                            <span className="inline-flex items-center gap-1 rounded-full bg-sinapses px-3 py-1 text-[11px] font-semibold text-sinapses-foreground shadow-sm">
                               <Brain className="h-3.5 w-3.5" />
                               {item.cost} Sinapses
                             </span>
@@ -1519,8 +1531,8 @@ export default function PerfilPage() {
                             disabled={savingAvatar || isBuying || active}
                             className={`block w-full rounded-xl px-3 py-2.5 text-center text-xs font-semibold transition-all disabled:opacity-60 ${
                               unlocked
-                                ? "border border-emerald-200 bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
-                                : "bg-primary text-primary-foreground hover:bg-primary/90"
+                                ? "border border-brand-green/50 bg-brand-green/10 text-brand-green hover:bg-brand-green/20"
+                                : "btn-3d"
                             }`}
                           >
                             {unlocked ? (active ? "Usando" : (savingAvatar ? "Aplicando..." : previewing ? "Usar este" : "Usar")) : (isBuying ? "Comprando..." : "Comprar")}
@@ -1534,7 +1546,7 @@ export default function PerfilPage() {
               )}
 
               {(selectedShopTab === "accessories" || selectedShopTab === "top" || selectedShopTab === "clothing") && (
-              <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
+              <div className="card-flat rounded-[28px] p-5">
                 <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                   <div>
                     <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-primary/60">Itens</p>
@@ -1544,9 +1556,9 @@ export default function PerfilPage() {
                     </p>
                   </div>
 
-                  <div className="rounded-[20px] border border-emerald-200 bg-emerald-50 px-4 py-3 text-sm text-foreground">
+                  <div className="rounded-[20px] border border-brand-green/40 bg-brand-green/10 px-4 py-3 text-sm text-foreground">
                     <p className="inline-flex items-center gap-2 font-heading text-sm font-semibold">
-                      <Brain className="h-4 w-4 text-emerald-600" />
+                      <Brain className="h-4 w-4 text-brand-green" />
                       Sinapses disponíveis
                     </p>
                     <p className="mt-1 text-2xl font-black text-primary">{availableCoins}</p>
@@ -1609,10 +1621,10 @@ export default function PerfilPage() {
               )}
 
               {isAdmin && selectedShopTab === "catalogs" ? (
-                <div className="rounded-[28px] border border-emerald-100 bg-white/90 p-5 shadow-[0_10px_30px_rgba(16,24,40,0.06)]">
+                <div className="card-flat rounded-[28px] p-5">
                   <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
                     <div>
-                      <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-700">Admin</p>
+                      <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-brand-green">Admin</p>
                       <h4 className="mt-2 font-heading text-lg font-black text-foreground">Upar catalogo</h4>
                       <p className="mt-1 text-sm text-muted-foreground">
                         Envie varios SVGs de uma vez e edite nome, valor e visibilidade na sua loja.
@@ -1652,10 +1664,10 @@ export default function PerfilPage() {
                       {customCatalog.collections.map((collection) => (
                         <div
                           key={collection.id}
-                          className={`rounded-[24px] border p-4 shadow-[0_10px_24px_rgba(15,23,42,0.05)] ${
+                          className={`rounded-[24px] border p-4 shadow-card ${
                             collection.hidden
-                              ? "border-destructive/30 bg-[linear-gradient(180deg,rgba(255,255,255,0.96)_0%,rgba(254,242,242,0.94)_100%)]"
-                              : "border-emerald-100 bg-[linear-gradient(180deg,rgba(255,255,255,0.98)_0%,rgba(245,251,247,0.95)_100%)]"
+                              ? "border-destructive/40 bg-destructive/5"
+                              : "border-border bg-card"
                           }`}
                         >
                           <div className="space-y-3">
@@ -1663,14 +1675,14 @@ export default function PerfilPage() {
                               <input
                                 value={collection.name}
                                 onChange={(event) => updateCollectionField(collection.id, "name", event.target.value)}
-                                className="flex-1 rounded-2xl border border-border bg-white px-4 py-3 text-sm font-semibold shadow-sm"
+                                className="flex-1 rounded-2xl border border-border bg-background px-4 py-3 text-sm font-semibold shadow-sm"
                                 placeholder="Nome da colecao"
                               />
                               <button
                                 type="button"
                                 onClick={() => updateCollectionField(collection.id, "hidden", !collection.hidden)}
                                 className={`rounded-2xl px-4 py-2.5 text-sm font-semibold ${
-                                  collection.hidden ? "bg-destructive text-white" : "border border-border bg-white text-foreground shadow-sm"
+                                  collection.hidden ? "bg-destructive text-destructive-foreground" : "border border-border bg-card text-foreground shadow-sm"
                                 }`}
                               >
                                 {collection.hidden ? "Oculta" : "Visivel"}
@@ -1683,19 +1695,19 @@ export default function PerfilPage() {
                                   key={item.id}
                                   className={`overflow-hidden rounded-[20px] border shadow-sm transition-all ${
                                     item.hidden
-                                      ? "border-destructive/30 bg-[linear-gradient(180deg,rgba(255,255,255,0.96)_0%,rgba(254,242,242,0.9)_100%)]"
-                                      : "border-emerald-100 bg-[linear-gradient(180deg,rgba(255,255,255,1)_0%,rgba(248,252,249,0.98)_100%)]"
+                                      ? "border-destructive/40 bg-destructive/5"
+                                      : "border-border bg-card"
                                   }`}
                                 >
                                   <div className="flex items-center justify-between gap-3 px-3 pt-3">
-                                    <span className="rounded-full bg-slate-900 px-3 py-1 text-[11px] font-semibold text-white">
+                                    <span className="rounded-full bg-sinapses px-3 py-1 text-[11px] font-semibold text-sinapses-foreground">
                                       {item.price} Sinapses
                                     </span>
                                     <button
                                       type="button"
                                       onClick={() => updateCollectionItem(collection.id, item.id, "hidden", !item.hidden)}
                                       className={`flex h-8 w-8 items-center justify-center rounded-full shadow-sm ${
-                                        item.hidden ? "bg-destructive text-white" : "bg-slate-900 text-white"
+                                        item.hidden ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
                                       }`}
                                       title={item.hidden ? "Mostrar para alunos" : "Ocultar dos alunos"}
                                     >
@@ -1703,11 +1715,11 @@ export default function PerfilPage() {
                                     </button>
                                   </div>
                                   <div className="px-3 pb-3 pt-2">
-                                    <div className="flex min-h-[108px] items-center justify-center rounded-[18px] border border-emerald-100 bg-[radial-gradient(circle_at_top,rgba(16,185,129,0.08),transparent_55%),linear-gradient(180deg,#ffffff_0%,#f5fbf7_100%)] p-3">
+                                    <div className="flex min-h-[108px] items-center justify-center rounded-[18px] border border-frame bg-avatar p-3">
                                       <img src={item.imageUrl} alt={item.name} className="h-20 w-20 object-contain" />
                                     </div>
                                   </div>
-                                  <div className="grid gap-2 border-t border-border/60 bg-white/80 px-3 py-3">
+                                  <div className="grid gap-2 border-t border-border/60 bg-card px-3 py-3">
                                     <input
                                       value={item.name}
                                       onChange={(event) => updateCollectionItem(collection.id, item.id, "name", event.target.value)}
@@ -1737,7 +1749,7 @@ export default function PerfilPage() {
                       ))}
                     </div>
                   ) : (
-                    <div className="mt-4 rounded-2xl border border-dashed border-emerald-200 bg-white/80 px-4 py-5 text-sm text-muted-foreground">
+                    <div className="mt-4 rounded-2xl border border-dashed border-border bg-muted/40 px-4 py-5 text-sm text-muted-foreground">
                       Nenhuma colecao enviada ainda. Use o botao <strong>Upar catalogo</strong> para mandar seus SVGs em lote.
                     </div>
                   )}
@@ -1781,9 +1793,9 @@ function AvatarShopCard({
   return (
     <div
       className={[
-        "rounded-[20px] border bg-background p-4 shadow-sm transition-all",
+        "rounded-[20px] border-2 bg-card p-4 shadow-card transition-all",
         equipped
-          ? "border-primary bg-primary/5 shadow-[0_0_0_3px_rgba(16,185,129,0.16)]"
+          ? "border-primary bg-primary/5 shadow-[0_0_0_3px_hsl(var(--primary)/0.16)]"
           : hidden
             ? "border-destructive/30 bg-destructive/5 opacity-70"
             : "border-border",
@@ -1795,7 +1807,7 @@ function AvatarShopCard({
             type="button"
             onClick={onToggleHidden}
             className={`mr-auto flex h-5 w-5 items-center justify-center rounded-full text-[10px] shadow-sm ${
-              hidden ? "bg-destructive text-white" : "bg-slate-900 text-white"
+              hidden ? "bg-destructive text-destructive-foreground" : "bg-foreground text-background"
             }`}
             title={hidden ? "Mostrar para alunos" : "Ocultar dos alunos"}
           >
@@ -1807,7 +1819,7 @@ function AvatarShopCard({
             Usando
           </span>
         ) : unlocked ? (
-          <span className="rounded-full bg-emerald-500/10 px-2.5 py-1 text-[10px] font-heading font-semibold uppercase tracking-[0.14em] text-emerald-700">
+          <span className="rounded-full bg-brand-green/10 px-2.5 py-1 text-[10px] font-heading font-semibold uppercase tracking-[0.14em] text-brand-green">
             Liberado
           </span>
         ) : (
@@ -1822,7 +1834,7 @@ function AvatarShopCard({
       </div>
 
       <div className="mt-4 flex items-center justify-between gap-3">
-        <div className="rounded-full bg-secondary px-3 py-1 text-sm font-semibold text-foreground">
+        <div className="rounded-full bg-sinapses px-3 py-1 text-sm font-semibold text-sinapses-foreground">
           {item.cost === 0 ? "Grátis" : `${item.cost} Sinapses`}
         </div>
 
@@ -1840,7 +1852,7 @@ function AvatarShopCard({
             type="button"
             onClick={onBuy}
             disabled={!canAfford || buying}
-            className="btn-tap rounded-xl bg-primary px-3 py-2 text-sm font-semibold text-primary-foreground transition-all hover:bg-primary/90 disabled:opacity-60"
+            className="btn-3d px-3 py-2 text-sm disabled:opacity-60"
           >
             {buying ? "Comprando..." : canAfford ? "Comprar" : "Sem Sinapses"}
           </button>

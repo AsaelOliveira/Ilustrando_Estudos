@@ -80,42 +80,42 @@ const ADMIN_TAB_STYLES: Record<
   }
 > = {
   temas: {
-    surface: "from-emerald-500/18 via-emerald-100/65 to-white",
+    surface: "from-emerald-500/18 via-emerald-500/12 to-card",
     iconWrap: "bg-emerald-500/12 text-emerald-700",
     chip: "bg-emerald-500/10 text-emerald-700",
     border: "border-emerald-200/70",
     line: "from-emerald-500/70 via-emerald-300/30 to-transparent",
   },
   questoes: {
-    surface: "from-sky-500/18 via-sky-100/65 to-white",
+    surface: "from-sky-500/18 via-sky-500/12 to-card",
     iconWrap: "bg-sky-500/12 text-sky-700",
     chip: "bg-sky-500/10 text-sky-700",
     border: "border-sky-200/70",
     line: "from-sky-500/70 via-sky-300/30 to-transparent",
   },
   modelo: {
-    surface: "from-amber-500/18 via-amber-100/65 to-white",
+    surface: "from-amber-500/18 via-amber-500/12 to-card",
     iconWrap: "bg-amber-500/12 text-amber-700",
     chip: "bg-amber-500/10 text-amber-700",
     border: "border-amber-200/70",
     line: "from-amber-500/70 via-amber-300/30 to-transparent",
   },
   alunos: {
-    surface: "from-violet-500/18 via-violet-100/65 to-white",
+    surface: "from-violet-500/18 via-violet-500/12 to-card",
     iconWrap: "bg-violet-500/12 text-violet-700",
     chip: "bg-violet-500/10 text-violet-700",
     border: "border-violet-200/70",
     line: "from-violet-500/70 via-violet-300/30 to-transparent",
   },
   fotos: {
-    surface: "from-rose-500/18 via-rose-100/65 to-white",
+    surface: "from-rose-500/18 via-rose-500/12 to-card",
     iconWrap: "bg-rose-500/12 text-rose-700",
     chip: "bg-rose-500/10 text-rose-700",
     border: "border-rose-200/70",
     line: "from-rose-500/70 via-rose-300/30 to-transparent",
   },
   pontuacao: {
-    surface: "from-cyan-500/18 via-cyan-100/65 to-white",
+    surface: "from-cyan-500/18 via-cyan-500/12 to-card",
     iconWrap: "bg-cyan-500/12 text-cyan-700",
     chip: "bg-cyan-500/10 text-cyan-700",
     border: "border-cyan-200/70",
@@ -469,7 +469,7 @@ export default function AdminPage() {
         <motion.div
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
-          className="relative mb-8 overflow-hidden rounded-[2rem] border border-emerald-200/60 bg-gradient-to-br from-white via-emerald-50/70 to-sky-50/55 p-6 shadow-sm backdrop-blur"
+          className="relative mb-8 overflow-hidden rounded-[2rem] border border-emerald-500/25 bg-gradient-to-br from-card via-emerald-500/10 to-sky-500/10 p-6 shadow-sm backdrop-blur"
         >
           <div className="absolute -right-12 -top-12 h-36 w-36 rounded-full bg-emerald-300/20 blur-3xl" />
           <div className="absolute bottom-0 left-1/3 h-24 w-40 rounded-full bg-sky-300/20 blur-3xl" />
@@ -488,7 +488,7 @@ export default function AdminPage() {
             <div className="relative z-10 flex flex-wrap gap-2">
               <button
                 onClick={() => setTab("modelo")}
-                className="btn-tap flex items-center gap-2 rounded-xl border border-white/70 bg-white/80 px-4 py-2.5 font-body text-sm text-foreground shadow-sm transition-all hover:bg-white"
+                className="btn-tap flex items-center gap-2 rounded-xl border border-border bg-card/80 px-4 py-2.5 font-body text-sm text-foreground shadow-sm transition-all hover:bg-card"
               >
                 <FileJson className="h-3.5 w-3.5" />
                 Modelo JSON
@@ -496,7 +496,7 @@ export default function AdminPage() {
               <button
                 onClick={handleExport}
                 disabled={studyContentLoading}
-                className="btn-tap flex items-center gap-2 rounded-xl border border-white/70 bg-white/80 px-4 py-2.5 font-body text-sm text-foreground shadow-sm transition-all hover:bg-white disabled:opacity-60"
+                className="btn-tap flex items-center gap-2 rounded-xl border border-border bg-card/80 px-4 py-2.5 font-body text-sm text-foreground shadow-sm transition-all hover:bg-card disabled:opacity-60"
               >
                 <Download className="h-3.5 w-3.5" />
                 Exportar
@@ -544,7 +544,7 @@ export default function AdminPage() {
                   onClick={() => setTab(t.key)}
                   className={`btn-tap relative min-w-0 basis-full rounded-2xl border px-4 py-3 text-left transition-all sm:min-w-[160px] sm:flex-1 sm:basis-auto ${
                     tab === t.key
-                      ? `${tabStyle.border} bg-white shadow-sm`
+                      ? `${tabStyle.border} bg-card shadow-sm`
                       : "border-transparent bg-transparent hover:border-border hover:bg-background/80"
                   }`}
                 >
@@ -570,7 +570,7 @@ export default function AdminPage() {
           </div>
         </div>
 
-        <div className={`relative overflow-hidden rounded-[2rem] border p-5 shadow-sm ${activeTabStyle.border} bg-gradient-to-br from-white via-white to-background`}>
+        <div className={`relative overflow-hidden rounded-[2rem] border p-5 shadow-sm ${activeTabStyle.border} bg-gradient-to-br from-card via-card to-background`}>
           <div className="absolute -right-10 top-4 h-24 w-24 rounded-full bg-primary/5 blur-3xl" />
           <div className="relative z-10 mb-4 flex items-center justify-between gap-3">
             <div>
@@ -673,40 +673,40 @@ function AdminMetricCard({
 }) {
   const toneMap = {
     emerald: {
-      surface: "bg-gradient-to-br from-emerald-50 to-white",
-      border: "border-emerald-200/70",
-      iconWrap: "bg-emerald-500/12 text-emerald-700",
-      value: "text-emerald-950",
+      surface: "bg-gradient-to-br from-emerald-500/10 to-card",
+      border: "border-emerald-500/25",
+      iconWrap: "bg-emerald-500/12 text-emerald-700 dark:text-emerald-300",
+      value: "text-foreground",
     },
     sky: {
-      surface: "bg-gradient-to-br from-sky-50 to-white",
-      border: "border-sky-200/70",
-      iconWrap: "bg-sky-500/12 text-sky-700",
-      value: "text-sky-950",
+      surface: "bg-gradient-to-br from-sky-500/10 to-card",
+      border: "border-sky-500/25",
+      iconWrap: "bg-sky-500/12 text-sky-700 dark:text-sky-300",
+      value: "text-foreground",
     },
     amber: {
-      surface: "bg-gradient-to-br from-amber-50 to-white",
-      border: "border-amber-200/70",
-      iconWrap: "bg-amber-500/12 text-amber-700",
-      value: "text-amber-950",
+      surface: "bg-gradient-to-br from-amber-500/10 to-card",
+      border: "border-amber-500/25",
+      iconWrap: "bg-amber-500/12 text-amber-700 dark:text-amber-300",
+      value: "text-foreground",
     },
     violet: {
-      surface: "bg-gradient-to-br from-violet-50 to-white",
-      border: "border-violet-200/70",
-      iconWrap: "bg-violet-500/12 text-violet-700",
-      value: "text-violet-950",
+      surface: "bg-gradient-to-br from-violet-500/10 to-card",
+      border: "border-violet-500/25",
+      iconWrap: "bg-violet-500/12 text-violet-700 dark:text-violet-300",
+      value: "text-foreground",
     },
     rose: {
-      surface: "bg-gradient-to-br from-rose-50 to-white",
-      border: "border-rose-200/70",
-      iconWrap: "bg-rose-500/12 text-rose-700",
-      value: "text-rose-950",
+      surface: "bg-gradient-to-br from-rose-500/10 to-card",
+      border: "border-rose-500/25",
+      iconWrap: "bg-rose-500/12 text-rose-700 dark:text-rose-300",
+      value: "text-foreground",
     },
     cyan: {
-      surface: "bg-gradient-to-br from-cyan-50 to-white",
-      border: "border-cyan-200/70",
-      iconWrap: "bg-cyan-500/12 text-cyan-700",
-      value: "text-cyan-950",
+      surface: "bg-gradient-to-br from-cyan-500/10 to-card",
+      border: "border-cyan-500/25",
+      iconWrap: "bg-cyan-500/12 text-cyan-700 dark:text-cyan-300",
+      value: "text-foreground",
     },
   } as const;
 
@@ -803,19 +803,19 @@ function TemasTab({
 
   const temaCardTones = [
     {
-      surface: "from-emerald-500/10 via-emerald-100/40 to-white",
+      surface: "from-emerald-500/10 via-emerald-500/10 to-card",
       rail: "bg-emerald-400",
       iconWrap: "bg-emerald-500/12 text-emerald-700",
       chip: "bg-emerald-500/10 text-emerald-700",
     },
     {
-      surface: "from-sky-500/10 via-sky-100/40 to-white",
+      surface: "from-sky-500/10 via-sky-500/10 to-card",
       rail: "bg-sky-400",
       iconWrap: "bg-sky-500/12 text-sky-700",
       chip: "bg-sky-500/10 text-sky-700",
     },
     {
-      surface: "from-amber-500/10 via-amber-100/40 to-white",
+      surface: "from-amber-500/10 via-amber-500/10 to-card",
       rail: "bg-amber-400",
       iconWrap: "bg-amber-500/12 text-amber-700",
       chip: "bg-amber-500/10 text-amber-700",
@@ -888,7 +888,7 @@ function TemasTab({
 
   const displayConfigCard = (
     <div className="grid gap-4 xl:grid-cols-[minmax(0,1fr)_320px_320px]">
-      <div className="rounded-[1.7rem] border border-emerald-200/70 bg-gradient-to-br from-emerald-50 via-white to-white p-5 shadow-sm">
+      <div className="rounded-[1.7rem] border border-emerald-500/25 bg-gradient-to-br from-emerald-500/10 via-card to-card p-5 shadow-sm">
         <div className="flex items-start gap-3">
           <div className="mt-0.5 rounded-xl bg-emerald-500/12 p-2 text-emerald-700">
             <Upload className="h-4 w-4" />
@@ -928,7 +928,7 @@ function TemasTab({
         </div>
       </div>
 
-      <div className="rounded-[1.7rem] border border-sky-200/70 bg-gradient-to-br from-sky-50 via-white to-white p-5 shadow-sm">
+      <div className="rounded-[1.7rem] border border-sky-500/25 bg-gradient-to-br from-sky-500/10 via-card to-card p-5 shadow-sm">
         <div className="flex flex-wrap items-start justify-between gap-4">
           <div>
             <p className="font-heading text-lg font-semibold text-foreground">Exibição dos exercícios</p>
@@ -963,7 +963,7 @@ function TemasTab({
         </div>
       </div>
 
-      <div className="rounded-[1.7rem] border border-destructive/25 bg-gradient-to-br from-rose-50 via-white to-white p-5 shadow-sm">
+      <div className="rounded-[1.7rem] border border-destructive/25 bg-gradient-to-br from-destructive/10 via-card to-card p-5 shadow-sm">
         <div className="flex items-start gap-3">
           <div className="mt-0.5 rounded-xl bg-destructive/10 p-2 text-destructive">
             <Trash2 className="h-4 w-4" />
@@ -1030,7 +1030,7 @@ function TemasTab({
         <AdminMetricCard label="Limite por tema" value={String(contentDisplay.maxExercisesPerTema)} icon={Save} tone="violet" />
       </div>
 
-      <div className="rounded-[1.8rem] border border-slate-200/80 bg-gradient-to-br from-slate-50/80 via-white to-white p-5 shadow-sm">
+      <div className="rounded-[1.8rem] border border-border bg-gradient-to-br from-muted/80 via-card to-card p-5 shadow-sm">
         <div className="mb-4 flex items-start justify-between gap-4">
           <div>
             <p className="font-heading text-lg font-semibold text-foreground">Temas organizados</p>
@@ -1110,7 +1110,7 @@ function TemasTab({
         groupedTemas.map((turmaGroup) => (
           <div
             key={turmaGroup.turma.id}
-            className="rounded-[1.8rem] border border-border bg-gradient-to-br from-white via-slate-50/45 to-white p-5 shadow-sm"
+            className="rounded-[1.8rem] border border-border bg-gradient-to-br from-card via-muted/50 to-card p-5 shadow-sm"
           >
             <div className="mb-4 flex flex-wrap items-center justify-between gap-3 border-b border-border/70 pb-4">
               <div>
@@ -1211,7 +1211,7 @@ function TemasTab({
                                 <button
                                   onClick={() => onDeleteTema(tema.id)}
                                   disabled={saving}
-                                  className="btn-tap inline-flex shrink-0 items-center justify-center gap-2 self-start rounded-xl border border-destructive/20 bg-white/85 px-3 py-2 text-sm font-body text-destructive shadow-sm transition-all hover:bg-destructive/5 disabled:opacity-60 md:self-center"
+                                  className="btn-tap inline-flex shrink-0 items-center justify-center gap-2 self-start rounded-xl border border-destructive/20 bg-card/85 px-3 py-2 text-sm font-body text-destructive shadow-sm transition-all hover:bg-destructive/5 disabled:opacity-60 md:self-center"
                                 >
                                   <Trash2 className="h-4 w-4" />
                                   {saving ? "Apagando..." : "Apagar tema"}
@@ -2243,14 +2243,14 @@ function AlunosTab() {
               </div>
 
               {showSecretGrant ? (
-                <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-4">
+                <div className="rounded-xl border border-amber-500/30 bg-amber-500/10 px-4 py-4">
                   <div className="flex flex-col gap-3 lg:flex-row lg:items-end">
                     <div className="flex-1">
-                      <label className="mb-1 block text-xs font-semibold uppercase tracking-[0.18em] text-amber-700">Aluno secreto</label>
+                      <label className="mb-1 block text-xs font-semibold uppercase tracking-[0.18em] text-amber-700 dark:text-amber-300">Aluno secreto</label>
                       <select
                         value={grantUserId}
                         onChange={(e) => setGrantUserId(e.target.value)}
-                        className="w-full rounded-xl border border-amber-200 bg-white px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-amber-300"
+                        className="w-full rounded-xl border border-amber-500/40 bg-background px-4 py-3 text-sm text-foreground focus:outline-none focus:ring-2 focus:ring-amber-500/40"
                       >
                         <option value="">Escolha um aluno</option>
                         {usersList.filter((userItem) => userItem.role !== "admin").map((userItem) => (
@@ -2261,11 +2261,11 @@ function AlunosTab() {
                       </select>
                     </div>
                     <div className="w-full lg:w-44">
-                      <label className="mb-1 block text-xs font-semibold uppercase tracking-[0.18em] text-amber-700">Sinapses</label>
+                      <label className="mb-1 block text-xs font-semibold uppercase tracking-[0.18em] text-amber-700 dark:text-amber-300">Sinapses</label>
                       <input
                         value={grantAmount}
                         onChange={(e) => setGrantAmount(e.target.value.replace(/[^0-9]/g, ""))}
-                        className="w-full rounded-xl border border-amber-200 bg-white px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-amber-300"
+                        className="w-full rounded-xl border border-amber-500/40 bg-background px-4 py-3 text-sm text-foreground focus:outline-none focus:ring-2 focus:ring-amber-500/40"
                         inputMode="numeric"
                         placeholder="30"
                       />
@@ -2273,7 +2273,7 @@ function AlunosTab() {
                     <button
                       onClick={handleSecretGrant}
                       disabled={grantingPoints || !grantUserId || !grantAmount}
-                      className="btn-tap rounded-xl bg-amber-500 px-4 py-3 text-sm font-semibold text-white transition-all hover:bg-amber-600 disabled:opacity-50"
+                      className="btn-tap rounded-xl bg-amber-500 px-4 py-3 text-sm font-semibold text-amber-950 transition-all hover:bg-amber-600 disabled:opacity-50"
                     >
                       {grantingPoints ? "Enviando..." : "Dar Sinapses"}
                     </button>
@@ -2356,7 +2356,7 @@ function AlunosTab() {
                                   [u.user_id]: event.target.value,
                                 }))
                               }
-                              className="rounded-lg border border-amber-200 bg-amber-50 px-2.5 py-1.5 text-xs font-medium text-amber-900"
+                              className="rounded-lg border border-amber-500/40 bg-amber-500/10 px-2.5 py-1.5 text-xs font-medium text-amber-900 dark:text-amber-200"
                             >
                               {turmas.map((turma) => (
                                 <option key={turma.id} value={turma.id}>
@@ -2367,7 +2367,7 @@ function AlunosTab() {
                             <button
                               onClick={() => void handleAssignTurma(u.user_id)}
                               disabled={savingTurmaUserId === u.user_id}
-                              className="btn-tap rounded-lg border border-amber-300 bg-amber-100 px-3 py-1.5 text-xs font-semibold text-amber-900 transition-all hover:bg-amber-200 disabled:opacity-60"
+                              className="btn-tap rounded-lg border border-amber-500/40 bg-amber-500/15 px-3 py-1.5 text-xs font-semibold text-amber-900 transition-all hover:bg-amber-500/25 disabled:opacity-60 dark:text-amber-200"
                             >
                               {savingTurmaUserId === u.user_id ? "Salvando..." : "Salvar turma"}
                             </button>
@@ -2403,7 +2403,7 @@ function AlunosTab() {
                           <>
                             <button
                               onClick={() => openSensitiveActionDialog("reset_progress", u.user_id)}
-                              className="btn-tap inline-flex items-center gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-xs font-semibold text-amber-800 transition-all hover:bg-amber-100"
+                              className="btn-tap inline-flex items-center gap-2 rounded-lg border border-amber-500/40 bg-amber-500/10 px-3 py-2 text-xs font-semibold text-amber-800 transition-all hover:bg-amber-500/20 dark:text-amber-200"
                               title="Zerar progresso"
                             >
                               <RefreshCcw className="h-3.5 w-3.5" />
@@ -2453,11 +2453,11 @@ function AlunosTab() {
         ) : rosterMode ? (
           <motion.div key="roster" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}>
             <div className="bg-card border border-border rounded-xl p-6 space-y-4">
-              <div className="rounded-2xl border border-amber-300/60 bg-gradient-to-r from-amber-100 via-orange-50 to-background px-4 py-3 shadow-sm">
-                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700">
+              <div className="rounded-2xl border border-amber-500/30 bg-gradient-to-r from-amber-500/15 via-orange-500/10 to-transparent px-4 py-3 shadow-sm">
+                <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-amber-700 dark:text-amber-300">
                   Área nova de autocadastro
                 </p>
-                <p className="mt-1 text-sm font-medium text-amber-900">
+                <p className="mt-1 text-sm font-medium text-amber-900 dark:text-amber-200">
                   Essa lista alimenta o botão "Quero me cadastrar" da tela de login.
                 </p>
               </div>

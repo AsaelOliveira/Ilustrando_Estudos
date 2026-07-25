@@ -2,25 +2,29 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight, BookOpen, FileCheck, LayoutGrid } from "lucide-react";
 import Layout from "@/components/Layout";
+import MascotMark from "@/components/MascotMark";
 
 const publicHighlights = [
   {
     title: "Estude por Turma",
     description: "Entre na sua série, veja só o que faz sentido para você e siga por disciplinas e temas.",
     icon: LayoutGrid,
-    accent: "from-primary/20 via-primary/5 to-transparent",
+    iconClass: "bg-brand-green/15 text-brand-green",
+    borderClass: "hover:border-brand-green/50",
   },
   {
     title: "Resumos + Exercícios",
     description: "Cada tema combina revisão rápida, explicação clara e prática para fixar o conteúdo.",
     icon: BookOpen,
-    accent: "from-accent/20 via-accent/5 to-transparent",
+    iconClass: "bg-brand-blue/15 text-brand-blue",
+    borderClass: "hover:border-brand-blue/50",
   },
   {
     title: "Modo Prova",
     description: "Quando quiser treinar com mais foco, entre no fluxo de simulados dentro da área privada.",
     icon: FileCheck,
-    accent: "from-emerald-500/20 via-emerald-500/5 to-transparent",
+    iconClass: "bg-brand-purple/15 text-brand-purple",
+    borderClass: "hover:border-brand-purple/50",
   },
 ];
 
@@ -43,25 +47,25 @@ export default function Home() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <div className="inline-flex items-center gap-2 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-2 font-heading text-sm font-bold text-primary shadow-sm">
+              <MascotMark sizeClassName="h-20 w-20" className="mb-6 lg:hidden" />
+              <div className="inline-flex items-center gap-2 rounded-full border-2 border-primary/30 bg-primary/10 px-4 py-2 font-heading text-sm font-bold text-primary">
                 <div className="h-2 w-2 animate-pulse rounded-full bg-accent" />
                 Plataforma de Estudos
               </div>
-              <h1 className="mt-8 font-heading text-6xl font-black leading-[0.9] tracking-tighter text-foreground md:text-8xl">
+              <h1 className="mt-8 font-heading text-5xl font-black leading-[0.95] tracking-tighter text-foreground sm:text-6xl md:text-8xl">
                 O futuro do seu <br />
-                <span className="italic text-primary">aprendizado.</span>
+                <span className="text-gradient">aprendizado.</span>
               </h1>
-              <p className="mt-8 max-w-xl font-body text-xl font-medium leading-relaxed text-muted-foreground/90">
+              <p className="mt-8 max-w-xl font-body text-lg font-medium leading-relaxed text-muted-foreground sm:text-xl">
                 Resumos manuais, desafios épicos e uma comunidade focada. Comece sua jornada agora e transforme seu
                 jeito de estudar.
               </p>
 
-              <div className="mt-10 flex flex-wrap gap-5">
+              <div className="mt-10 flex flex-wrap items-center gap-5">
                 <Link
                   to="/login"
-                  className="btn-tap group relative overflow-hidden rounded-[2rem] bg-primary px-10 py-5 font-heading text-xl font-black text-primary-foreground shadow-glow"
+                  className="btn-3d btn-3d-green rounded-2xl px-8 py-4 font-heading text-lg font-black uppercase tracking-wider sm:px-10 sm:py-5 sm:text-xl"
                 >
-                  <div className="pointer-events-none absolute inset-x-0 h-full w-1/3 animate-shine bg-white/20 blur-xl" />
                   Acessar Arena
                 </Link>
                 <div className="flex -space-x-3 overflow-hidden p-1">
@@ -81,33 +85,27 @@ export default function Home() {
               transition={{ delay: 0.3, duration: 1 }}
               className="relative hidden lg:block"
             >
-              <div className="relative aspect-square overflow-hidden rounded-[4rem] border-8 border-background bg-primary/5 shadow-card">
-                <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20" />
-                <div className="flex h-full items-center justify-center p-12">
-                  <div className="grid h-full w-full grid-cols-2 grid-rows-2 gap-4">
-                    <div className="rounded-[3rem] bg-white shadow-soft animate-float" />
-                    <div className="rounded-[3rem] bg-accent/90 shadow-soft animate-float-delayed" />
-                    <div className="rounded-[3rem] bg-primary/80 shadow-soft animate-float-delayed" />
-                    <div className="rounded-[3rem] border-4 border-dashed border-primary/20" />
-                  </div>
-                </div>
+              <div className="card-flat relative flex aspect-square items-center justify-center overflow-hidden">
+                <div className="pointer-events-none absolute -right-16 -top-16 h-48 w-48 rounded-full bg-brand-yellow/20" />
+                <div className="pointer-events-none absolute -bottom-16 -left-16 h-48 w-48 rounded-full bg-brand-blue/20" />
+                <MascotMark sizeClassName="h-64 w-64" className="animate-float drop-shadow-md" />
               </div>
             </motion.div>
           </div>
 
           {/* New Asymmetrical Bento Grid */}
-          <div className="mt-32">
-            <h2 className="font-heading text-4xl font-black tracking-tight text-foreground md:text-5xl">Destaques</h2>
+          <div className="mt-20 md:mt-32">
+            <h2 className="font-heading text-3xl font-black tracking-tight text-foreground sm:text-4xl md:text-5xl">Destaques</h2>
             <div className="mt-12 grid gap-6 md:grid-cols-4 md:grid-rows-2">
               {/* Feature 1 - Large */}
               <motion.div
                 whileHover={{ y: -10 }}
-                className="bento-card md:col-span-2 md:row-span-2 flex min-h-[400px] flex-col justify-end border-primary/10 bg-primary/5"
+                className={`bento-card flex min-h-[280px] flex-col justify-end md:col-span-2 md:row-span-2 md:min-h-[400px] ${publicHighlights[0].borderClass}`}
               >
-                <div className="mb-8 flex h-20 w-20 items-center justify-center rounded-[2.5rem] bg-primary text-primary-foreground shadow-glow">
+                <div className={`mb-8 flex h-20 w-20 items-center justify-center rounded-3xl ${publicHighlights[0].iconClass}`}>
                   <LayoutGrid className="h-10 w-10" />
                 </div>
-                <h3 className="font-heading text-4xl font-black text-foreground">{publicHighlights[0].title}</h3>
+                <h3 className="font-heading text-3xl font-black text-foreground sm:text-4xl">{publicHighlights[0].title}</h3>
                 <p className="mt-4 font-body text-lg font-medium leading-relaxed text-muted-foreground">
                   {publicHighlights[0].description}
                 </p>
@@ -116,9 +114,9 @@ export default function Home() {
               {/* Feature 2 - Wide */}
               <motion.div
                 whileHover={{ y: -8 }}
-                className="bento-card md:col-span-2 flex items-center gap-6 border-accent/10 bg-accent/5"
+                className={`bento-card flex items-center gap-6 md:col-span-2 ${publicHighlights[1].borderClass}`}
               >
-                <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-3xl bg-accent text-accent-foreground shadow-glow">
+                <div className={`flex h-16 w-16 shrink-0 items-center justify-center rounded-3xl ${publicHighlights[1].iconClass}`}>
                   <BookOpen className="h-8 w-8" />
                 </div>
                 <div>
@@ -128,8 +126,8 @@ export default function Home() {
               </motion.div>
 
               {/* Feature 3 - Standard */}
-              <motion.div whileHover={{ x: 10 }} className="bento-card md:col-span-1 border-border/60 bg-background/50">
-                <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-secondary text-primary">
+              <motion.div whileHover={{ x: 10 }} className={`bento-card md:col-span-1 ${publicHighlights[2].borderClass}`}>
+                <div className={`mb-4 flex h-12 w-12 items-center justify-center rounded-2xl ${publicHighlights[2].iconClass}`}>
                   <FileCheck className="h-6 w-6" />
                 </div>
                 <h3 className="font-heading text-xl font-bold text-foreground">{publicHighlights[2].title}</h3>
@@ -138,9 +136,9 @@ export default function Home() {
               {/* Brand CTA */}
               <motion.div
                 whileHover={{ scale: 0.98 }}
-                className="bento-card md:col-span-1 flex items-center justify-center border-2 border-dashed bg-transparent p-4 text-center"
+                className="bento-card flex items-center justify-center border-2 border-dashed border-primary/40 bg-transparent p-4 text-center"
               >
-                <Link to="/login" className="flex flex-col items-center gap-2 font-heading text-lg font-bold text-primary">
+                <Link to="/login" className="flex min-h-11 flex-col items-center justify-center gap-2 font-heading text-lg font-bold text-primary">
                   Ver tudo
                   <ArrowRight className="h-6 w-6" />
                 </Link>

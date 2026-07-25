@@ -15,8 +15,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        heading: ["Outfit", "sans-serif"],
-        body: ["Inter", "sans-serif"],
+        heading: ["Nunito", "sans-serif"],
+        body: ["Nunito", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -31,6 +31,33 @@ export default {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
           glow: "hsl(var(--primary-glow))",
+          dark: "hsl(var(--primary-dark))",
+        },
+        brand: {
+          green: { DEFAULT: "hsl(var(--c-green))", dark: "hsl(var(--c-green-d))" },
+          blue: { DEFAULT: "hsl(var(--c-blue))", dark: "hsl(var(--c-blue-d))" },
+          yellow: { DEFAULT: "hsl(var(--c-yellow))", dark: "hsl(var(--c-yellow-d))" },
+          purple: { DEFAULT: "hsl(var(--c-purple))", dark: "hsl(var(--c-purple-d))" },
+          pink: { DEFAULT: "hsl(var(--c-pink))", dark: "hsl(var(--c-pink-d))" },
+          orange: { DEFAULT: "hsl(var(--c-orange))", dark: "hsl(var(--c-orange-d))" },
+        },
+        sinapses: {
+          DEFAULT: "hsl(var(--sinapses))",
+          foreground: "hsl(var(--sinapses-foreground))",
+        },
+        xp: "hsl(var(--xp))",
+        avatar: "hsl(var(--avatar-bg))",
+        frame: "hsl(var(--frame))",
+        streak: {
+          DEFAULT: "hsl(var(--streak))",
+          foreground: "hsl(var(--streak-foreground))",
+          soft: "hsl(var(--streak-soft))",
+        },
+        rank: {
+          gold: "hsl(var(--rank-gold))",
+          silver: "hsl(var(--rank-silver))",
+          bronze: "hsl(var(--rank-bronze))",
+          "leader-soft": "hsl(var(--rank-leader-soft))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -80,6 +107,9 @@ export default {
         soft: "var(--shadow-soft)",
         card: "var(--shadow-card)",
         glow: "var(--shadow-glow)",
+        accent: "var(--shadow-accent)",
+        lift: "var(--shadow-lift)",
+        "3d": "0 4px 0 hsl(var(--primary-dark))",
       },
       keyframes: {
         "accordion-down": {

@@ -37,6 +37,13 @@ const tabConfig: Record<Tab, { icon: typeof BookOpen; emoji: string }> = {
   "Simulado": { icon: GraduationCap, emoji: "🎯" },
 };
 
+/** Botão 3D neutro (superfície de card) — para ações secundárias e alternativas não selecionadas. */
+const btn3dNeutral =
+  "btn-3d border-2 border-frame [--btn-3d-bg:var(--card)] [--btn-3d-fg:var(--foreground)] [--btn-3d-shadow:var(--frame)]";
+/** Botão 3D de erro (resposta incorreta no gabarito). */
+const btn3dWrong =
+  "btn-3d [--btn-3d-bg:var(--destructive)] [--btn-3d-fg:var(--destructive-foreground)] [--btn-3d-shadow:var(--destructive)]";
+
 export default function AulaPage() {
   const { turmaId, disciplinaId, temaId } = useParams();
   const { user, profile, role } = useAuth();
@@ -142,7 +149,7 @@ export default function AulaPage() {
             {visibleExercicios.length} exercícios • {visibleSimulado.length} questões no simulado • banco com {temaQuestionPool.length} questões • {tema.explicacao.length} seções
           </p>
           {!countsForPoints && (
-            <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-200 bg-amber-50 px-4 py-2 text-xs font-medium text-amber-800">
+            <div className="mt-4 inline-flex items-center gap-2 rounded-full border-2 border-streak/40 bg-streak-soft px-4 py-2 text-xs font-medium text-streak-foreground">
               <span>🔒</span>
               <span>Modo estudo: esta turma libera aprendizado, mas só sua turma conta pontos e Sinapses.</span>
             </div>
@@ -261,7 +268,7 @@ function ResumoTab({ resumo }: { resumo: string[] }) {
             initial={{ opacity: 0, x: -16 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: i * 0.1, type: "spring", stiffness: 200 }}
-            className="flex gap-3 items-start bg-card border border-border rounded-xl px-5 py-4 shadow-sm hover:shadow-md hover:border-primary/20 transition-all group"
+            className="card-flat flex gap-3 items-start px-5 py-4 hover:border-primary/40 transition-all group"
           >
             <motion.span
               whileHover={{ scale: 1.2, rotate: 10 }}
@@ -289,7 +296,7 @@ function ExplicacaoTab({ explicacao }: { explicacao: BlocoExplicacao[] }) {
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: i * 0.1 }}
-          className="bg-card border border-border rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow"
+          className="card-flat overflow-hidden"
         >
           <button
             onClick={() => setExpandedIndex(expandedIndex === i ? null : i)}
@@ -356,7 +363,7 @@ function ExemplosTab({ exemplos, isMath }: { exemplos: { enunciado: string; pass
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: i * 0.12, type: "spring" }}
-          className="bg-card border border-border rounded-xl overflow-hidden shadow-card hover:shadow-glow transition-shadow"
+          className="card-flat overflow-hidden"
         >
           <div className="bg-primary/5 px-6 py-4 border-b border-border">
             <div className="flex items-center gap-2 mb-1">
@@ -475,7 +482,7 @@ function ExerciciosTab({
   return (
     <div>
       {/* Progress bar */}
-      <div className="mb-6 bg-card border border-border rounded-xl p-5">
+      <div className="card-flat mb-6 p-5">
         <div className="flex items-center justify-between mb-3">
           <span className="font-body text-sm text-muted-foreground flex items-center gap-2">
             <Target className="h-4 w-4" />
@@ -492,9 +499,9 @@ function ExerciciosTab({
             </motion.span>
           )}
         </div>
-        <div className="h-3 bg-secondary rounded-full overflow-hidden">
+        <div className="progress-3d">
           <motion.div
-            className="h-full bg-gradient-to-r from-primary to-primary-glow rounded-full"
+            className="progress-3d-fill"
             initial={{ width: 0 }}
             animate={{ width: `${questionSet.length > 0 ? (totalRespondidas / questionSet.length) * 100 : 0}%` }}
             transition={{ duration: 0.4, type: "spring" }}
@@ -527,13 +534,13 @@ function ExerciciosTab({
         <button
           onClick={() => void handleShowGabarito()}
           disabled={totalRespondidas === 0}
-          className="btn-tap bg-primary text-primary-foreground font-heading font-semibold px-6 py-3.5 rounded-xl hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20 text-sm disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+          className="btn-3d font-heading px-6 py-3.5 text-sm disabled:cursor-not-allowed flex items-center gap-2"
         >
           📝 Mostrar gabarito comentado
         </button>
         <button
           onClick={handleReset}
-          className="btn-tap border border-border text-foreground font-heading font-semibold px-6 py-3.5 rounded-xl hover:bg-secondary transition-colors text-sm flex items-center gap-2"
+          className={`${btn3dNeutral} font-heading px-6 py-3.5 text-sm flex items-center gap-2`}
         >
           <RotateCcw className="h-3.5 w-3.5" /> Refazer
         </button>
@@ -568,12 +575,12 @@ function QuestaoCard({
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.06, type: "spring", stiffness: 200 }}
-      className={`bg-card border rounded-xl p-6 shadow-sm transition-all hover:shadow-md ${
+      className={`card-flat p-6 transition-all ${
         showGabarito && resposta
           ? isCorrect
-            ? "border-primary/30 shadow-primary/10 bg-primary/[0.02]"
-            : "border-destructive/30 shadow-destructive/10 bg-destructive/[0.02]"
-          : "border-border hover:border-primary/20"
+            ? "border-success bg-success/5"
+            : "border-destructive bg-destructive/5"
+          : "hover:border-primary/40"
       }`}
     >
       <div className="flex items-center gap-3 mb-4">
@@ -607,10 +614,10 @@ function QuestaoCard({
             const selected = resposta === alt;
             const isAnswer = alt === questao.respostaCorreta;
             const letters = ["A", "B", "C", "D"];
-            let style = "border-border hover:border-primary/30 hover:bg-primary/[0.02]";
-            if (showGabarito && isAnswer) style = "border-primary bg-primary/5 shadow-sm";
-            else if (showGabarito && selected && !isAnswer) style = "border-destructive bg-destructive/5";
-            else if (selected) style = "border-primary bg-primary/5 shadow-sm shadow-primary/10";
+            let style = btn3dNeutral;
+            if (showGabarito && isAnswer) style = "btn-3d btn-3d-green";
+            else if (showGabarito && selected && !isAnswer) style = btn3dWrong;
+            else if (selected) style = "btn-3d";
 
             return (
               <motion.button
@@ -619,11 +626,11 @@ function QuestaoCard({
                 disabled={showGabarito}
                 whileHover={!showGabarito ? { scale: 1.01 } : undefined}
                 whileTap={!showGabarito ? { scale: 0.99 } : undefined}
-                className={`w-full text-left px-5 py-4 rounded-xl border font-body text-sm transition-all ${style}`}
+                className={`w-full text-left px-5 py-4 font-body text-sm font-semibold disabled:opacity-100 ${style}`}
               >
                 <span className="flex items-center gap-3">
                   <span className={`h-7 w-7 rounded-lg flex items-center justify-center text-xs font-heading font-bold transition-all ${
-                    selected ? "bg-primary text-primary-foreground shadow-sm" : "bg-secondary text-muted-foreground"
+                    selected && !showGabarito ? "bg-primary-foreground/25 text-primary-foreground" : "bg-muted border border-frame text-foreground"
                   }`}>
                     {letters[altIdx]}
                   </span>
@@ -642,7 +649,7 @@ function QuestaoCard({
           onChange={(e) => onResponder(e.target.value)}
           disabled={showGabarito}
           placeholder="✍️ Digite sua resposta..."
-          className="w-full px-5 py-4 rounded-xl border border-border bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 transition-all disabled:opacity-60"
+          className="w-full px-5 py-4 rounded-xl border-2 border-frame bg-background font-body text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 transition-all disabled:opacity-60"
         />
       )}
 
@@ -745,8 +752,8 @@ function SimuladoTab({
         <div className="flex items-center justify-center gap-3 mb-8">
           <button
             onClick={() => setTimerEnabled(!timerEnabled)}
-            className={`btn-tap flex items-center gap-2 px-5 py-3 rounded-xl border text-sm font-body transition-all ${
-              timerEnabled ? "border-primary bg-primary/5 text-primary shadow-sm" : "border-border text-muted-foreground hover:border-primary/30"
+            className={`flex items-center gap-2 px-5 py-3 text-sm font-body ${
+              timerEnabled ? "btn-3d" : btn3dNeutral
             }`}
           >
             <Clock className="h-4 w-4" />
@@ -757,7 +764,7 @@ function SimuladoTab({
           whileHover={{ scale: 1.03 }}
           whileTap={{ scale: 0.97 }}
           onClick={() => setStarted(true)}
-          className="btn-tap bg-primary text-primary-foreground font-heading font-semibold px-10 py-4 rounded-xl hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20 text-base"
+          className="btn-3d font-heading px-10 py-4 text-base"
         >
           🚀 Iniciar Simulado
         </motion.button>
@@ -829,7 +836,7 @@ function SimuladoTab({
             setTimeLeft(renewedQuestions.length * 60);
             setSavedResult(false);
           }}
-          className="btn-tap mt-8 border border-border text-foreground font-heading font-semibold px-6 py-3 rounded-xl hover:bg-secondary transition-colors text-sm flex items-center gap-2"
+          className={`${btn3dNeutral} mt-8 font-heading px-6 py-3 text-sm flex items-center gap-2`}
         >
           <RotateCcw className="h-3.5 w-3.5" /> 🔄 Refazer simulado
         </button>
@@ -843,7 +850,7 @@ function SimuladoTab({
 
   return (
     <div>
-      <div className="sticky top-[96px] z-10 bg-background/80 backdrop-blur-md py-3 mb-6 flex items-center justify-between px-5 rounded-xl border border-border shadow-sm">
+      <div className="card-flat sticky top-[96px] z-10 mb-6 flex items-center justify-between px-5 py-3">
         <span className="font-body text-sm text-muted-foreground flex items-center gap-2">
           <Zap className="h-4 w-4 text-primary" />
           {totalRespondidas}/{questionSet.length} respondidas
@@ -872,7 +879,7 @@ function SimuladoTab({
         whileHover={{ scale: 1.02 }}
         whileTap={{ scale: 0.98 }}
         onClick={() => void handleFinalizar()}
-        className="btn-tap mt-8 bg-primary text-primary-foreground font-heading font-semibold px-8 py-4 rounded-xl hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20 text-base"
+        className="btn-3d mt-8 font-heading px-8 py-4 text-base"
       >
         🏁 Finalizar Simulado
       </motion.button>

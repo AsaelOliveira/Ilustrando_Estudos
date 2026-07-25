@@ -1,96 +1,260 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@400;500;600&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   :root {
-    --background: 140 25% 97%; /* Mais 'Menta' e menos branco */
-    --background-soft: 140 20% 94%;
-    --foreground: 154 50% 8%;
+    /* ===== Superfícies (claro) ===== */
+    --background: 215 35% 92%; /* azul-acinzentado — cards brancos se destacam */
+    --background-soft: 215 30% 88%;
+    --foreground: 0 0% 24%; /* #3c3c3c */
 
     --card: 0 0% 100%;
-    --card-foreground: 154 50% 10%;
+    --card-foreground: 0 0% 24%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 154 50% 10%;
+    --popover-foreground: 0 0% 24%;
 
-    --primary: 153 100% 28%; /* Verde Bandeira Vibrante */
+    /* ===== Marca (verde padrão — sobrescrito por [data-accent]) ===== */
+    --primary: 95 98% 40%; /* #58cc02 */
     --primary-foreground: 0 0% 100%;
-    --primary-glow: 153 100% 35%;
+    --primary-dark: 95 97% 32%; /* #46a302 — sombra 3D do primary */
+    --primary-glow: 95 90% 45%;
 
-    --secondary: 140 20% 95%;
-    --secondary-foreground: 154 50% 10%;
+    --secondary: 215 25% 89%;
+    --secondary-foreground: 0 0% 24%;
 
-    --muted: 140 15% 94%;
-    --muted-foreground: 154 10% 45%;
+    --muted: 215 25% 89%;
+    --muted-foreground: 0 0% 48%;
 
-    --accent: 28 100% 55%; /* Laranja Vibrante */
+    --accent: 35 100% 50%; /* #ff9600 */
     --accent-foreground: 0 0% 100%;
+    --accent-dark: 36 100% 44%; /* #e08600 */
 
-    --success: 153 100% 25%;
+    --success: 95 98% 36%;
     --success-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 140 20% 90%;
-    --input: 140 20% 90%;
-    --ring: 153 100% 28%;
+    --border: 214 20% 84%;
+    --input: 214 20% 82%;
+    --frame: 214 20% 74%; /* borda forte p/ superfícies interativas (alternativas, frames) */
+    --ring: 95 98% 40%;
 
-    --radius: 1.5rem;
+    --radius: 1.5rem; /* 24px — cards da maquete */
 
-    --sidebar-background: 140 25% 98%;
-    --sidebar-foreground: 154 50% 10%;
-    --sidebar-primary: 153 100% 28%;
+    /* ===== Zona do avatar (avatares brancos/transparentes precisam de contraste) ===== */
+    --avatar-bg: 0 0% 100%; /* chip branco — line-art transparente continua legível */
+
+    /* ===== Sidebar ===== */
+    --sidebar-background: 215 35% 95%;
+    --sidebar-foreground: 0 0% 24%;
+    --sidebar-primary: 95 98% 40%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 140 20% 95%;
-    --sidebar-accent-foreground: 154 50% 10%;
-    --sidebar-border: 140 20% 90%;
-    --sidebar-ring: 153 100% 28%;
+    --sidebar-accent: 214 25% 93%;
+    --sidebar-accent-foreground: 0 0% 24%;
+    --sidebar-border: 0 0% 90%;
+    --sidebar-ring: 95 98% 40%;
 
-    --font-heading: 'Outfit', sans-serif;
-    --font-body: 'Inter', sans-serif;
+    /* ===== Paleta da maquete (pares normal/sombra-3D) ===== */
+    --c-green: 95 98% 40%;
+    --c-green-d: 95 97% 32%;
+    --c-blue: 199 92% 54%;
+    --c-blue-d: 199 87% 45%;
+    --c-yellow: 47 100% 50%;
+    --c-yellow-d: 45 100% 44%;
+    --c-purple: 277 100% 76%;
+    --c-purple-d: 270 75% 64%;
+    --c-pink: 339 100% 65%;
+    --c-pink-d: 336 76% 54%;
+    --c-orange: 35 100% 50%;
+    --c-orange-d: 36 100% 44%;
 
-    --shadow-soft: 0 10px 40px -10px hsla(153, 100%, 28%, 0.1);
-    --shadow-card: 0 20px 50px -12px hsla(154, 50%, 10%, 0.08);
-    --shadow-glow: 0 0 50px -5px hsla(153, 100%, 28%, 0.3);
-    --shadow-accent: 0 0 50px -5px hsla(28, 100%, 55%, 0.25);
+    /* ===== Tokens semânticos do jogo ===== */
+    --sinapses: 270 75% 64%; /* roxo da moeda */
+    --sinapses-foreground: 0 0% 100%;
+    --xp: 277 100% 76%;
+    --streak: 36 100% 44%;
+    --streak-foreground: 45 100% 20%;
+    --streak-soft: 46 100% 92%; /* fundo do banner de ofensiva */
+    --rank-gold: 47 100% 50%;
+    --rank-silver: 0 0% 75%;
+    --rank-bronze: 30 60% 55%;
+    --rank-leader-soft: 95 70% 90%; /* destaque do 1º lugar */
+
+    /* ===== Fontes ===== */
+    --font-heading: 'Nunito', sans-serif;
+    --font-body: 'Nunito', sans-serif;
+
+    /* ===== Sombras (estilo flat/3D da maquete) ===== */
+    --shadow-soft: 0 5px 0 rgba(0, 0, 0, 0.06); /* card flat */
+    --shadow-card: 0 5px 0 rgba(0, 0, 0, 0.06);
+    --shadow-glow: 0 5px 0 hsla(var(--primary-dark), 0.55);
+    --shadow-accent: 0 5px 0 hsla(var(--accent-dark), 0.55);
+    --shadow-lift: 0 8px 0 rgba(0, 0, 0, 0.08);
   }
 
   .dark {
-    --background: 154 45% 4%;
-    --background-soft: 154 40% 7%;
-    --foreground: 140 20% 92%;
+    /* ===== Superfícies (escuro — azul-ardósia, não preto puro) ===== */
+    --background: 223 38% 7%; /* fundo bem mais escuro que os cards */
+    --background-soft: 222 32% 10%;
+    --foreground: 210 25% 92%;
 
-    --card: 154 40% 9%;
-    --card-foreground: 140 20% 92%;
+    --card: 221 26% 16%;
+    --card-foreground: 210 25% 92%;
 
-    --popover: 154 40% 9%;
-    --popover-foreground: 140 20% 92%;
+    --popover: 221 26% 16%;
+    --popover-foreground: 210 25% 92%;
 
-    --primary: 153 100% 32%;
-    --primary-foreground: 140 20% 98%;
+    --primary: 95 90% 45%;
+    --primary-foreground: 95 60% 10%;
+    --primary-dark: 95 80% 36%;
+    --primary-glow: 95 90% 50%;
 
-    --secondary: 154 30% 14%;
-    --secondary-foreground: 140 20% 92%;
+    --secondary: 221 22% 21%;
+    --secondary-foreground: 210 25% 92%;
 
-    --muted: 154 30% 14%;
-    --muted-foreground: 154 10% 60%;
+    --muted: 221 22% 21%;
+    --muted-foreground: 215 18% 68%;
 
-    --accent: 28 100% 60%;
-    --accent-foreground: 140 20% 99%;
+    --accent: 35 100% 55%;
+    --accent-foreground: 36 80% 12%;
+    --accent-dark: 36 100% 45%;
 
-    --success: 153 100% 30%;
-    --success-foreground: 0 0% 100%;
+    --success: 95 90% 45%;
+    --success-foreground: 95 60% 10%;
 
-    --destructive: 0 63% 31%;
+    --destructive: 0 72% 55%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 154 30% 18%;
-    --input: 154 30% 18%;
-    --ring: 153 100% 32%;
+    --border: 221 18% 27%;
+    --input: 221 18% 31%;
+    --frame: 221 18% 38%; /* borda forte p/ superfícies interativas */
+    --ring: 95 90% 45%;
+
+    /* ===== Zona do avatar (escuro) ===== */
+    --avatar-bg: 213 30% 96%; /* quase-branco mesmo no dark — avatares são desenhos de traço preto */
+
+    /* ===== Sidebar (escuro) ===== */
+    --sidebar-background: 223 38% 9%;
+    --sidebar-foreground: 210 25% 92%;
+    --sidebar-primary: 95 90% 45%;
+    --sidebar-primary-foreground: 95 60% 10%;
+    --sidebar-accent: 222 22% 18%;
+    --sidebar-accent-foreground: 210 25% 92%;
+    --sidebar-border: 222 18% 22%;
+    --sidebar-ring: 95 90% 45%;
+
+    /* ===== Paleta da maquete (escuro — luminosidade ajustada) ===== */
+    --c-green: 95 90% 45%;
+    --c-green-d: 95 80% 36%;
+    --c-blue: 199 92% 58%;
+    --c-blue-d: 199 87% 46%;
+    --c-yellow: 47 100% 55%;
+    --c-yellow-d: 45 100% 45%;
+    --c-purple: 277 95% 80%;
+    --c-purple-d: 270 75% 66%;
+    --c-pink: 339 100% 70%;
+    --c-pink-d: 336 76% 56%;
+    --c-orange: 35 100% 55%;
+    --c-orange-d: 36 100% 45%;
+
+    /* ===== Tokens semânticos do jogo (escuro) ===== */
+    --sinapses: 270 80% 72%;
+    --sinapses-foreground: 270 60% 12%;
+    --xp: 277 95% 80%;
+    --streak: 36 100% 50%;
+    --streak-foreground: 45 100% 90%;
+    --streak-soft: 40 40% 18%;
+    --rank-gold: 47 100% 55%;
+    --rank-silver: 0 0% 70%;
+    --rank-bronze: 30 65% 60%;
+    --rank-leader-soft: 95 35% 18%;
+
+    /* ===== Sombras (escuro) ===== */
+    --shadow-soft: 0 5px 0 rgba(0, 0, 0, 0.35);
+    --shadow-card: 0 5px 0 rgba(0, 0, 0, 0.35);
+    --shadow-glow: 0 5px 0 hsla(var(--primary-dark), 0.6);
+    --shadow-accent: 0 5px 0 hsla(var(--accent-dark), 0.6);
+    --shadow-lift: 0 8px 0 rgba(0, 0, 0, 0.4);
+  }
+
+  /* ============================================================
+     Temas de cor do aluno (localStorage -> data-accent no <html>)
+     Sobrescrevem apenas a cor de marca; superfícies não mudam.
+     ============================================================ */
+  :root[data-accent="azul"] {
+    --primary: 199 92% 48%;
+    --primary-foreground: 0 0% 100%;
+    --primary-dark: 199 87% 38%;
+    --primary-glow: 199 92% 54%;
+    --ring: 199 92% 48%;
+    --sidebar-primary: 199 92% 48%;
+    --sidebar-ring: 199 92% 48%;
+  }
+  .dark[data-accent="azul"] {
+    --primary: 199 92% 56%;
+    --primary-foreground: 199 80% 10%;
+    --primary-dark: 199 87% 44%;
+    --primary-glow: 199 92% 60%;
+    --ring: 199 92% 56%;
+    --sidebar-primary: 199 92% 56%;
+    --sidebar-ring: 199 92% 56%;
+  }
+  :root[data-accent="roxo"] {
+    --primary: 270 75% 58%;
+    --primary-foreground: 0 0% 100%;
+    --primary-dark: 270 65% 46%;
+    --primary-glow: 270 80% 64%;
+    --ring: 270 75% 58%;
+    --sidebar-primary: 270 75% 58%;
+    --sidebar-ring: 270 75% 58%;
+  }
+  .dark[data-accent="roxo"] {
+    --primary: 270 80% 66%;
+    --primary-foreground: 270 60% 10%;
+    --primary-dark: 270 65% 52%;
+    --primary-glow: 270 85% 70%;
+    --ring: 270 80% 66%;
+    --sidebar-primary: 270 80% 66%;
+    --sidebar-ring: 270 80% 66%;
+  }
+  :root[data-accent="rosa"] {
+    --primary: 339 90% 55%;
+    --primary-foreground: 0 0% 100%;
+    --primary-dark: 336 76% 44%;
+    --primary-glow: 339 100% 62%;
+    --ring: 339 90% 55%;
+    --sidebar-primary: 339 90% 55%;
+    --sidebar-ring: 339 90% 55%;
+  }
+  .dark[data-accent="rosa"] {
+    --primary: 339 100% 65%;
+    --primary-foreground: 339 70% 10%;
+    --primary-dark: 336 80% 50%;
+    --primary-glow: 339 100% 70%;
+    --ring: 339 100% 65%;
+    --sidebar-primary: 339 100% 65%;
+    --sidebar-ring: 339 100% 65%;
+  }
+  :root[data-accent="laranja"] {
+    --primary: 35 100% 46%;
+    --primary-foreground: 0 0% 100%;
+    --primary-dark: 36 100% 36%;
+    --primary-glow: 35 100% 52%;
+    --ring: 35 100% 46%;
+    --sidebar-primary: 35 100% 46%;
+    --sidebar-ring: 35 100% 46%;
+  }
+  .dark[data-accent="laranja"] {
+    --primary: 35 100% 52%;
+    --primary-foreground: 36 80% 10%;
+    --primary-dark: 36 100% 40%;
+    --primary-glow: 35 100% 58%;
+    --ring: 35 100% 52%;
+    --sidebar-primary: 35 100% 52%;
+    --sidebar-ring: 35 100% 52%;
   }
 }
 
@@ -128,23 +292,114 @@
   h1, h2, h3, h4 {
     font-family: var(--font-heading);
   }
+
+  /* Toasts (sonner) nunca estouram a viewport no mobile */
+  [data-sonner-toaster],
+  [data-sonner-toaster] ol {
+    max-width: 100vw !important;
+  }
+
+  /* Respeita usuários que preferem menos movimento */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
 }
 
 @layer components {
+  /* ===== Card flat da maquete: borda + sombra inferior sólida ===== */
+  .card-flat {
+    background: hsl(var(--card));
+    color: hsl(var(--card-foreground));
+    border: 2px solid hsl(var(--border));
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* ===== Botão 3D (sombra inferior; afunda ao tocar) ===== */
+  .btn-3d {
+    --btn-3d-bg: var(--primary);
+    --btn-3d-fg: var(--primary-foreground);
+    --btn-3d-shadow: var(--primary-dark);
+    background: hsl(var(--btn-3d-bg));
+    color: hsl(var(--btn-3d-fg));
+    box-shadow: 0 4px 0 hsl(var(--btn-3d-shadow));
+    border-radius: 1rem;
+    font-weight: 800;
+    transition: transform 0.1s ease, box-shadow 0.1s ease, filter 0.15s ease;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn-3d:hover {
+    filter: brightness(1.05);
+  }
+  .btn-3d:active {
+    transform: translateY(4px);
+    box-shadow: 0 0 0 hsl(var(--btn-3d-shadow));
+  }
+  .btn-3d:disabled {
+    opacity: 0.5;
+    transform: none;
+    box-shadow: 0 4px 0 hsl(var(--btn-3d-shadow));
+  }
+
+  /* Variações de cor do botão 3D (paleta da maquete) */
+  .btn-3d-green { --btn-3d-bg: var(--c-green); --btn-3d-fg: 0 0% 100%; --btn-3d-shadow: var(--c-green-d); }
+  .btn-3d-blue { --btn-3d-bg: var(--c-blue); --btn-3d-fg: 0 0% 100%; --btn-3d-shadow: var(--c-blue-d); }
+  .btn-3d-yellow { --btn-3d-bg: var(--c-yellow); --btn-3d-fg: 45 100% 20%; --btn-3d-shadow: var(--c-yellow-d); }
+  .btn-3d-purple { --btn-3d-bg: var(--c-purple); --btn-3d-fg: 270 60% 15%; --btn-3d-shadow: var(--c-purple-d); }
+  .btn-3d-pink { --btn-3d-bg: var(--c-pink); --btn-3d-fg: 0 0% 100%; --btn-3d-shadow: var(--c-pink-d); }
+  .btn-3d-orange { --btn-3d-bg: var(--c-orange); --btn-3d-fg: 0 0% 100%; --btn-3d-shadow: var(--c-orange-d); }
+
+  /* ===== Barra de progresso com brilho (maquete) ===== */
+  .progress-3d {
+    height: 1rem;
+    border-radius: 999px;
+    background: hsl(var(--muted));
+    overflow: hidden;
+    position: relative;
+  }
+  .progress-3d > .progress-3d-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: hsl(var(--progress-fill, var(--primary)));
+    position: relative;
+    transition: width 0.4s ease;
+  }
+  .progress-3d > .progress-3d-fill::after {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 8px;
+    right: 8px;
+    height: 4px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.45);
+  }
+
+  /* ===== Nomes mantidos (reestilizados para a nova identidade) ===== */
   .card-glow {
-    @apply transition-all duration-300;
+    @apply transition-all duration-200;
   }
   .card-glow:hover {
-    box-shadow: var(--shadow-glow);
-    transform: translateY(-4px);
+    box-shadow: var(--shadow-lift);
+    transform: translateY(-2px);
   }
 
   .btn-tap {
-    @apply transition-all duration-150 active:scale-[0.96];
+    @apply transition-transform duration-150 active:scale-[0.96] cursor-pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }
 
   .tab-indicator {
-    @apply relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:scale-x-0 after:bg-primary after:transition-transform after:duration-300;
+    @apply relative after:absolute after:bottom-0 after:left-0 after:h-[3px] after:w-full after:scale-x-0 after:rounded-full after:bg-primary after:transition-transform after:duration-300;
   }
   .tab-indicator[data-state="active"]::after,
   .tab-indicator:hover::after {
@@ -161,9 +416,9 @@
   .gradient-border::before {
     content: "";
     position: absolute;
-    inset: -1px;
+    inset: -2px;
     border-radius: inherit;
-    background: linear-gradient(135deg, hsl(var(--primary) / 0.3), hsl(var(--accent) / 0.3));
+    background: linear-gradient(135deg, hsl(var(--primary) / 0.4), hsl(var(--accent) / 0.4));
     z-index: -1;
     opacity: 0;
     transition: opacity 0.3s;
@@ -179,13 +434,9 @@
   .interactive-pulse:hover {
     animation: subtle-pulse 2s ease-in-out infinite;
   }
-  
-  .btn-tap {
-    @apply transition-transform active:scale-90 cursor-pointer;
-  }
 
   .skeleton {
-    @apply animate-pulse bg-primary/5 rounded-2xl;
+    @apply animate-pulse bg-muted rounded-2xl;
   }
 
   .text-gradient {
@@ -195,20 +446,20 @@
     background-clip: text;
   }
 
+  /* glass-card agora é um card flat sólido (legível nos dois temas) */
   .glass-card {
-    background: hsl(var(--card) / 0.7);
-    backdrop-filter: blur(20px);
-    border: 1px solid hsl(var(--border) / 0.5);
+    background: hsl(var(--card));
+    border: 2px solid hsl(var(--border));
+    box-shadow: var(--shadow-card);
   }
 
   .mesh-gradient {
     background-color: hsl(var(--background));
-    background-image: 
-      radial-gradient(at 0% 0%, hsla(var(--primary) / 0.22) 0, transparent 50%), 
-      radial-gradient(at 100% 0%, hsla(var(--accent) / 0.16) 0, transparent 50%),
-      radial-gradient(at 100% 100%, hsla(var(--primary) / 0.12) 0, transparent 50%),
-      radial-gradient(at 0% 100%, hsla(var(--accent) / 0.1) 0, transparent 50%),
-      radial-gradient(at 50% 50%, hsla(var(--primary) / 0.05) 0, transparent 50%);
+    background-image:
+      radial-gradient(at 0% 0%, hsla(var(--primary) / 0.1) 0, transparent 50%),
+      radial-gradient(at 100% 0%, hsla(var(--accent) / 0.08) 0, transparent 50%),
+      radial-gradient(at 100% 100%, hsla(var(--primary) / 0.06) 0, transparent 50%),
+      radial-gradient(at 0% 100%, hsla(var(--accent) / 0.05) 0, transparent 50%);
   }
 
   /* Grain Texture Overlay */
@@ -217,28 +468,34 @@
     inset: 0;
     pointer-events: none;
     z-index: -1;
-    opacity: 0.35;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3%3Ffilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    opacity: 0.25;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Ffilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
     mask-image: linear-gradient(to bottom, black, transparent);
   }
 
   .grid-pattern {
     background-size: 60px 60px;
-    background-image: 
+    background-image:
       linear-gradient(to right, hsl(var(--foreground) / 0.04) 1px, transparent 1px),
       linear-gradient(to bottom, hsl(var(--foreground) / 0.04) 1px, transparent 1px);
   }
 
   .bento-card {
-    @apply relative overflow-hidden rounded-[2rem] border border-border/50 bg-card/50 p-6 backdrop-blur-md transition-all duration-300 hover:border-primary/30 hover:shadow-glow;
+    @apply relative overflow-hidden border-2 border-border bg-card p-6 transition-all duration-200;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-card);
+  }
+  .bento-card:hover {
+    box-shadow: var(--shadow-lift);
+    transform: translateY(-2px);
   }
 
-  .medal-gold { color: hsl(45, 100%, 50%); }
-  .medal-silver { color: hsl(0, 0%, 72%); }
-  .medal-bronze { color: hsl(30, 60%, 50%); }
+  .medal-gold { color: hsl(var(--rank-gold)); }
+  .medal-silver { color: hsl(var(--rank-silver)); }
+  .medal-bronze { color: hsl(var(--rank-bronze)); }
 
   /* Page Progress Bar */
   .page-progress {
-    @apply fixed top-0 left-0 h-1 bg-accent z-[100] transition-all duration-300;
+    @apply fixed top-0 left-0 h-1 bg-primary z-[100] transition-all duration-300;
   }
 }

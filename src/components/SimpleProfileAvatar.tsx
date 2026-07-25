@@ -102,7 +102,7 @@ export default function SimpleProfileAvatar({
 
       <motion.div
         className={cn(
-          "relative inline-flex h-full w-full items-center justify-center overflow-hidden rounded-full border border-white/80 bg-[radial-gradient(circle_at_30%_30%,#ffffff_0%,#dbeafe_42%,#93c5fd_100%)] shadow-[0_12px_30px_rgba(59,130,246,0.18)]",
+          "relative inline-flex h-full w-full items-center justify-center overflow-hidden rounded-full border-2 border-frame bg-avatar shadow-card",
         )}
         animate={
           resolvedEffect === "spin"
@@ -123,15 +123,15 @@ export default function SimpleProfileAvatar({
           isDiceBearAvatar ? (
             <img src={avatarSrc} alt="" className="h-full w-full object-cover" />
           ) : (
-            <div className="flex h-full w-full items-center justify-center bg-white p-[10%]">
+            <div className="flex h-full w-full items-center justify-center bg-avatar p-[10%]">
               <img src={avatarSrc} alt="" className="h-full w-full object-contain" />
             </div>
           )
         ) : (
           <>
-            <div className="absolute inset-[8%] rounded-full border border-white/60 bg-white/20" />
-            <div className="absolute inset-[18%] rounded-full bg-slate-950/5" />
-            <UserRound className={cn("relative z-10 text-slate-700/80", classes.icon)} strokeWidth={2.25} />
+            <div className="absolute inset-[8%] rounded-full border border-card/60 bg-card/20" />
+            <div className="absolute inset-[18%] rounded-full bg-foreground/5" />
+            <UserRound className={cn("relative z-10 text-muted-foreground", classes.icon)} strokeWidth={2.25} />
           </>
         )}
       </motion.div>
@@ -139,7 +139,7 @@ export default function SimpleProfileAvatar({
       {showBadge ? (
         <span
           className={cn(
-            "absolute bottom-[10%] right-[10%] rounded-full border border-white/80 bg-emerald-400 shadow-[0_4px_12px_rgba(16,185,129,0.35)]",
+            "absolute bottom-[10%] right-[10%] rounded-full border border-card bg-brand-green shadow-[0_4px_12px_hsl(var(--c-green)/0.35)]",
             classes.badge,
           )}
         />

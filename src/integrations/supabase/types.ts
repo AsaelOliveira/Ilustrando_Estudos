@@ -317,6 +317,87 @@ export type Database = {
         }
         Relationships: []
       }
+      suggestions: {
+        Row: {
+          created_at: string
+          id: string
+          message: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          message: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          message?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      race_players: {
+        Row: {
+          answers: number
+          finished_at: string | null
+          nome: string
+          progress: number
+          race_id: string
+          user_id: string
+        }
+        Insert: {
+          answers?: number
+          finished_at?: string | null
+          nome: string
+          progress?: number
+          race_id: string
+          user_id: string
+        }
+        Update: {
+          answers?: number
+          finished_at?: string | null
+          nome?: string
+          progress?: number
+          race_id?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      races: {
+        Row: {
+          code: string
+          created_at: string
+          host_id: string
+          id: string
+          questions: Json
+          started_at: string | null
+          status: string
+          turma_id: string
+        }
+        Insert: {
+          code: string
+          created_at?: string
+          host_id: string
+          id?: string
+          questions: Json
+          started_at?: string | null
+          status?: string
+          turma_id: string
+        }
+        Update: {
+          code?: string
+          created_at?: string
+          host_id?: string
+          id?: string
+          questions?: Json
+          started_at?: string | null
+          status?: string
+          turma_id?: string
+        }
+        Relationships: []
+      }
       professor_turmas: {
         Row: {
           created_at: string

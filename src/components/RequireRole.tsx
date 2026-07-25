@@ -14,7 +14,7 @@ export default function RequireRole({
 
   if (loading) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-background px-4">
+      <div className="flex min-h-dvh items-center justify-center bg-background px-4">
         <div className="text-center">
           <p className="font-heading text-lg font-semibold text-foreground">Verificando permissao...</p>
           <p className="mt-2 text-sm text-muted-foreground">Aguarde enquanto o perfil e carregado.</p>

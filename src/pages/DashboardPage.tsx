@@ -130,17 +130,13 @@ export default function DashboardPage() {
 
         <div className="flex flex-col gap-6 lg:flex-row">
           {/* Conteúdo principal */}
-          <div className="order-2 min-w-0 flex-1 lg:order-1">
+          <div className="min-w-0 flex-1">
             {/* Streak banner */}
             {streakDays > 0 && (
               <motion.div
                 initial={{ opacity: 0, y: -10 }}
                 animate={{ opacity: 1, y: 0 }}
-                className={`mb-6 flex items-center gap-3 rounded-2xl p-4 ${
-                  streakDays >= 7 ? "bg-gradient-to-r from-destructive/15 to-accent/15 ring-2 ring-destructive/20" :
-                  streakDays >= 3 ? "bg-gradient-to-r from-accent/10 to-primary/10 ring-1 ring-accent/20" :
-                  "bg-secondary/50"
-                }`}
+                className="mb-6 flex items-center gap-3 rounded-2xl border-2 border-streak/50 bg-streak-soft p-4 shadow-card"
               >
                 <motion.div
                   animate={streakDays >= 3 ? { scale: [1, 1.2, 1] } : {}}
@@ -150,17 +146,17 @@ export default function DashboardPage() {
                   🔥
                 </motion.div>
                 <div className="flex-1">
-                  <p className="font-heading text-sm font-bold text-foreground">
+                  <p className="font-heading text-sm font-bold text-streak-foreground">
                     {streakDays} dia{streakDays > 1 ? "s" : ""} seguido{streakDays > 1 ? "s" : ""}!
                   </p>
-                  <p className="font-body text-xs text-muted-foreground">
+                  <p className="font-body text-xs text-streak-foreground/70">
                     {streakInfo.bonus > 0
                       ? `Bônus ativo: +${streakInfo.bonus} pts por missão concluída`
                       : `Mais ${3 - streakDays} dia(s) para desbloquear bônus de retorno!`}
                   </p>
                 </div>
                 {streakInfo.bonus > 0 && (
-                  <div className="rounded-xl bg-destructive/15 px-3 py-1.5 font-heading text-sm font-extrabold text-destructive">
+                  <div className="rounded-xl bg-streak px-3 py-1.5 font-heading text-sm font-extrabold text-streak-foreground shadow-accent">
                     +{streakInfo.bonus}
                   </div>
                 )}
@@ -175,19 +171,21 @@ export default function DashboardPage() {
               className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6"
             >
               {[
-                { icon: Trophy, label: "Pontos", value: scoreData?.points || 0, color: "text-accent", bg: "from-accent/15 to-accent/5", border: "border-accent/20" },
-                { icon: Target, label: "Missões", value: scoreData?.missions_completed || 0, color: "text-primary", bg: "from-primary/15 to-primary/5", border: "border-primary/20" },
-                { icon: Flame, label: "Sequência", value: `${streakDays}d`, color: "text-destructive", bg: "from-destructive/15 to-destructive/5", border: "border-destructive/20" },
-                { icon: BarChart3, label: "Acerto geral", value: `${overallPct}%`, color: "text-success", bg: "from-success/15 to-success/5", border: "border-success/20" },
+                { icon: Trophy, label: "Pontos", value: scoreData?.points || 0, color: "text-brand-purple", bg: "bg-brand-purple/15" },
+                { icon: Target, label: "Missões", value: scoreData?.missions_completed || 0, color: "text-brand-blue", bg: "bg-brand-blue/15" },
+                { icon: Flame, label: "Sequência", value: `${streakDays}d`, color: "text-brand-orange", bg: "bg-brand-orange/15" },
+                { icon: BarChart3, label: "Acerto geral", value: `${overallPct}%`, color: "text-brand-green", bg: "bg-brand-green/15" },
               ].map((stat, i) => (
                 <motion.div
                   key={i}
                   initial={{ opacity: 0, scale: 0.9 }}
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ delay: 0.1 + i * 0.05 }}
-                  className={`rounded-2xl border ${stat.border} bg-gradient-to-b ${stat.bg} p-4 text-center`}
+                  className="card-flat p-4 text-center"
                 >
-                  <stat.icon className={`h-5 w-5 ${stat.color} mx-auto mb-1.5`} />
+                  <div className={`mx-auto mb-2 flex h-10 w-10 items-center justify-center rounded-2xl ${stat.bg}`}>
+                    <stat.icon className={`h-5 w-5 ${stat.color}`} />
+                  </div>
                   <div className="font-heading font-extrabold text-2xl text-foreground">{stat.value}</div>
                   <div className="text-[10px] text-muted-foreground font-body mt-0.5">{stat.label}</div>
                 </motion.div>
@@ -200,7 +198,7 @@ export default function DashboardPage() {
                 initial={{ opacity: 0, y: 16 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2 }}
-                className="rounded-2xl border border-border bg-card p-5 mb-6"
+                className="card-flat p-5 mb-6"
               >
                 <h2 className="font-heading font-bold text-sm text-foreground flex items-center gap-2 mb-1">
                   <TrendingUp className="h-4 w-4 text-primary" /> Missões Diárias — Últimos {evolution.length} dias
@@ -226,8 +224,8 @@ export default function DashboardPage() {
                   {/* Barras */}
                   <div className="absolute left-8 right-0 bottom-0 top-0 flex items-end gap-2 px-1">
                     {evolution.map((day, i) => {
-                      const barBg = day.pct >= 70 ? "bg-primary" : day.pct >= 40 ? "bg-accent" : "bg-destructive/70";
-                      const textColor = day.pct >= 70 ? "text-primary" : day.pct >= 40 ? "text-accent" : "text-destructive";
+                      const barBg = day.pct >= 70 ? "bg-primary" : day.pct >= 40 ? "bg-brand-yellow" : "bg-destructive/70";
+                      const textColor = day.pct >= 70 ? "text-primary" : day.pct >= 40 ? "text-brand-yellow-dark" : "text-destructive";
                       return (
                         <div key={i} className="flex-1 flex flex-col items-center" style={{ height: "100%" }}>
                           <div className="flex-1 w-full flex flex-col items-center justify-end">
@@ -241,7 +239,7 @@ export default function DashboardPage() {
                             >
                               {/* Score dentro da barra (se couber) */}
                               {day.pct >= 25 && (
-                                <span className="absolute inset-0 flex items-center justify-center font-body text-[9px] font-semibold text-white/90">
+                                <span className="absolute inset-0 flex items-center justify-center font-body text-[9px] font-semibold text-primary-foreground/90">
                                   {day.score}pts
                                 </span>
                               )}
@@ -257,7 +255,7 @@ export default function DashboardPage() {
                 {/* Legend */}
                 <div className="mt-3 flex items-center justify-center gap-4 text-[10px] font-body text-muted-foreground">
                   <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-sm bg-primary" /> Bom (70%+)</span>
-                  <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-sm bg-accent" /> Regular (40-69%)</span>
+                  <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-sm bg-brand-yellow" /> Regular (40-69%)</span>
                   <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-sm bg-destructive/70" /> Atenção (&lt;40%)</span>
                 </div>
               </motion.div>
@@ -268,10 +266,10 @@ export default function DashboardPage() {
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.25 }}
-              className="rounded-2xl border border-border bg-card p-5 mb-6"
+              className="card-flat p-5 mb-6"
             >
               <h2 className="font-heading font-bold text-sm text-foreground flex items-center gap-2 mb-3">
-                <Star className="h-4 w-4 text-accent" /> Bônus de Retorno Diário
+                <Star className="h-4 w-4 text-streak" /> Bônus de Retorno Diário
               </h2>
               <div className="space-y-2">
                 {[
@@ -282,24 +280,24 @@ export default function DashboardPage() {
                   const active = streakDays >= tier.days;
                   return (
                     <div key={tier.days} className="flex items-center gap-3">
-                      <div className={`flex h-8 w-8 items-center justify-center rounded-lg text-sm ${active ? "bg-destructive/15 text-destructive" : "bg-secondary text-muted-foreground"}`}>
+                      <div className={`flex h-8 w-8 items-center justify-center rounded-xl text-sm ${active ? "bg-streak-soft border-2 border-streak/50" : "bg-secondary border-2 border-border"}`}>
                         {active ? "🔥" : "🔒"}
                       </div>
                       <div className="flex-1">
                         <div className="flex items-center gap-2">
                           <span className={`font-heading text-xs font-semibold ${active ? "text-foreground" : "text-muted-foreground"}`}>{tier.label} seguidos</span>
-                          {active && <span className="rounded-full bg-destructive/10 px-2 py-0.5 font-heading text-[10px] font-bold text-destructive">Ativo!</span>}
+                          {active && <span className="rounded-full bg-streak-soft border border-streak/50 px-2 py-0.5 font-heading text-[10px] font-bold text-streak-foreground">Ativo!</span>}
                         </div>
-                        <div className="mt-1 h-1.5 w-full rounded-full bg-secondary overflow-hidden">
+                        <div className="progress-3d mt-1 h-1.5 w-full">
                           <motion.div
                             initial={{ width: 0 }}
                             animate={{ width: `${Math.min(100, (streakDays / tier.days) * 100)}%` }}
                             transition={{ delay: 0.4, duration: 0.6 }}
-                            className={`h-full rounded-full ${active ? "bg-destructive" : "bg-muted-foreground/30"}`}
+                            className={`progress-3d-fill ${active ? "bg-streak" : "bg-muted-foreground/30"}`}
                           />
                         </div>
                       </div>
-                      <span className={`font-heading text-xs font-bold ${active ? "text-destructive" : "text-muted-foreground"}`}>+{tier.bonus} pts</span>
+                      <span className={`font-heading text-xs font-bold ${active ? "text-streak" : "text-muted-foreground"}`}>+{tier.bonus} pts</span>
                     </div>
                   );
                 })}
@@ -328,7 +326,7 @@ export default function DashboardPage() {
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5 }}
-              className="mt-6 rounded-2xl border border-border bg-card p-5"
+              className="mt-6 card-flat p-5"
             >
               <h2 className="font-heading font-bold text-sm text-foreground flex items-center gap-2 mb-3">
                 <Lightbulb className="h-4 w-4 text-accent" /> Dicas Gerais de Estudo
@@ -356,7 +354,7 @@ export default function DashboardPage() {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.2 }}
-            className="order-1 w-full flex-shrink-0 lg:order-2 lg:w-52"
+            className="w-full flex-shrink-0 lg:w-52"
           >
             <div className="sticky top-20 space-y-3">
               <h3 className="flex items-center gap-1.5 font-heading text-xs font-bold uppercase tracking-wide text-muted-foreground">
@@ -411,7 +409,7 @@ function DashRanking({ userTurma, userId }: { userTurma: string; userId: string 
   const turmaLabel = turmas.find(t => t.id === userTurma)?.nome || userTurma;
 
   const RankList = ({ entries, title, icon }: { entries: Array<{ user_id: string; nome: string; turma_id: string; points: number }>; title: string; icon: React.ReactNode }) => (
-    <div className="rounded-xl border border-border bg-card/80 p-3">
+    <div className="card-flat p-3">
       <h4 className="mb-2 flex items-center gap-1.5 font-heading text-xs font-bold text-foreground">
         {icon}
         {title}
@@ -424,20 +422,26 @@ function DashRanking({ userTurma, userId }: { userTurma: string; userId: string 
         <div className="space-y-1">
           {entries.map((e, i) => {
             const isMe = e.user_id === userId;
-            const medal = i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `${i + 1}.`;
+            const medalCls = i === 0 ? "medal-gold bg-rank-gold/15" :
+                             i === 1 ? "medal-silver bg-rank-silver/15" :
+                             i === 2 ? "medal-bronze bg-rank-bronze/15" :
+                             "text-muted-foreground";
             return (
               <div
                 key={e.user_id}
                 className={`flex items-center gap-2 rounded-lg px-2 py-1.5 text-[11px] transition-colors ${
+                  i === 0 ? "bg-rank-leader-soft border-2 border-primary" :
                   isMe ? "bg-primary/10 font-semibold" : "hover:bg-secondary/50"
                 }`}
               >
-                <span className="w-5 flex-shrink-0 text-center">{medal}</span>
+                <span className={`flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full font-heading text-[10px] font-extrabold ${medalCls}`}>
+                  {i + 1}
+                </span>
                 <span className={`min-w-0 flex-1 truncate font-body ${isMe ? "text-primary" : "text-foreground"}`}>
                   {e.nome.split(" ")[0]}
                   {isMe && <span className="ml-1 text-[9px] text-primary/70">(você)</span>}
                 </span>
-                <span className="flex-shrink-0 font-heading font-bold text-accent">{e.points}</span>
+                <span className="flex-shrink-0 font-heading font-bold text-sinapses">{e.points}</span>
               </div>
             );
           })}
@@ -461,38 +465,38 @@ function DashRanking({ userTurma, userId }: { userTurma: string; userId: string 
 function DisciplineCard({ disc, index, turmaId }: { disc: DisciplinePerformance; index: number; turmaId: string }) {
   const [expanded, setExpanded] = useState(false);
   const pct = disc.performance;
-  const status = pct >= 70 ? { label: "Bom", color: "text-primary", bg: "bg-primary", icon: TrendingUp } :
-                 pct >= 40 ? { label: "Regular", color: "text-accent", bg: "bg-accent", icon: Target } :
-                 { label: "Atenção", color: "text-destructive", bg: "bg-destructive", icon: TrendingDown };
+  const status = pct >= 70 ? { label: "Bom", color: "text-brand-green", bg: "bg-brand-green", soft: "bg-brand-green/10", icon: TrendingUp } :
+                 pct >= 40 ? { label: "Regular", color: "text-brand-yellow-dark", bg: "bg-brand-yellow", soft: "bg-brand-yellow/15", icon: Target } :
+                 { label: "Atenção", color: "text-destructive", bg: "bg-destructive", soft: "bg-destructive/10", icon: TrendingDown };
 
   return (
     <motion.div
       initial={{ opacity: 0, x: -12 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{ delay: 0.3 + index * 0.04 }}
-      className="rounded-2xl border border-border bg-card overflow-hidden hover:shadow-sm transition-shadow"
+      className="card-flat overflow-hidden hover:shadow-lift hover:-translate-y-0.5 transition-all"
     >
       <button
         onClick={() => setExpanded(!expanded)}
         className="btn-tap w-full flex items-center gap-3 p-4 text-left"
       >
-        <div className={`h-10 w-10 rounded-xl ${status.bg}/10 flex items-center justify-center flex-shrink-0`}>
+        <div className={`h-10 w-10 rounded-xl ${status.soft} flex items-center justify-center flex-shrink-0`}>
           <status.icon className={`h-4 w-4 ${status.color}`} />
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-1">
             <h3 className="font-heading text-sm font-semibold text-foreground truncate">{disc.nome}</h3>
-            <span className={`text-[9px] font-body font-medium px-1.5 py-0.5 rounded-full ${status.bg}/10 ${status.color}`}>
+            <span className={`text-[9px] font-body font-medium px-1.5 py-0.5 rounded-full ${status.soft} ${status.color}`}>
               {status.label}
             </span>
           </div>
           <div className="flex items-center gap-2">
-            <div className="flex-1 h-1.5 bg-secondary rounded-full overflow-hidden">
+            <div className="progress-3d flex-1 h-1.5">
               <motion.div
                 initial={{ width: 0 }}
                 animate={{ width: `${pct}%` }}
                 transition={{ delay: 0.4 + index * 0.04, duration: 0.6 }}
-                className={`h-full ${status.bg} rounded-full`}
+                className={`progress-3d-fill ${status.bg}`}
               />
             </div>
             <span className="font-heading font-bold text-xs text-foreground w-9 text-right">{pct}%</span>

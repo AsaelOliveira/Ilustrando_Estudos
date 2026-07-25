@@ -476,15 +476,15 @@ function SummaryCard({
   tone: "emerald" | "sky" | "amber" | "rose";
 }) {
   const toneMap = {
-    emerald: "border-emerald-200 bg-emerald-50 text-emerald-700",
-    sky: "border-sky-200 bg-sky-50 text-sky-700",
-    amber: "border-amber-200 bg-amber-50 text-amber-700",
-    rose: "border-rose-200 bg-rose-50 text-rose-700",
+    emerald: "border-emerald-500/30 bg-emerald-500/10 text-emerald-600 dark:text-emerald-400",
+    sky: "border-sky-500/30 bg-sky-500/10 text-sky-600 dark:text-sky-400",
+    amber: "border-amber-500/30 bg-amber-500/10 text-amber-600 dark:text-amber-400",
+    rose: "border-rose-500/30 bg-rose-500/10 text-rose-600 dark:text-rose-400",
   } as const;
 
   return (
     <div className={`rounded-2xl border px-4 py-4 shadow-sm ${toneMap[tone]}`}>
-      <div className="mb-2 inline-flex h-9 w-9 items-center justify-center rounded-xl bg-white/80">
+      <div className="mb-2 inline-flex h-9 w-9 items-center justify-center rounded-xl bg-card/80">
         <Icon className="h-4 w-4" />
       </div>
       <p className="font-heading text-2xl font-bold">{value}</p>
@@ -668,7 +668,7 @@ function StudentDetailDialog({
         {!student ? null : (
           <>
             <DialogHeader>
-              <DialogTitle className="rounded-[1.8rem] border border-border bg-gradient-to-r from-primary/10 via-background to-sky-50 p-4">
+              <DialogTitle className="rounded-[1.8rem] border border-border bg-gradient-to-r from-primary/10 via-background to-sky-500/10 p-4">
                 <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
                   <div className="flex items-center gap-3">
                     <SimpleProfileAvatar src={student.avatar_url} name={student.nome} size="md" showBadge={false} />
@@ -684,7 +684,7 @@ function StudentDetailDialog({
                     <span className={`rounded-full px-3 py-1 text-xs font-heading font-semibold ${student.status === "forte" ? "bg-emerald-100 text-emerald-700" : student.status === "atencao" ? "bg-amber-100 text-amber-700" : "bg-rose-100 text-rose-700"}`}>
                       {student.status === "forte" ? "Ritmo forte" : student.status === "atencao" ? "Em atenção" : "Precisa de apoio"}
                     </span>
-                    <span className="rounded-full bg-slate-900 px-3 py-1 text-xs font-heading font-semibold text-white">
+                    <span className="rounded-full bg-foreground px-3 py-1 text-xs font-heading font-semibold text-background">
                       {selectedDiscipline ? selectedDiscipline.nome : "Visão geral"}
                     </span>
                   </div>
@@ -972,7 +972,7 @@ function StudentPerformanceDialog({
                       <div className="mb-3 flex h-28 items-end justify-center rounded-xl bg-secondary/40 px-2 py-3">
                         <div className="flex h-full items-end">
                           <div
-                            className="w-10 rounded-t-xl bg-gradient-to-t from-primary via-primary to-primary/35 shadow-[0_10px_24px_rgba(16,185,129,0.18)]"
+                            className="w-10 rounded-t-xl bg-gradient-to-t from-primary via-primary to-primary/35 shadow-md"
                             style={{ height: `${Math.max(item.percent, 10)}%` }}
                           />
                         </div>
@@ -1033,7 +1033,7 @@ function StudentPerformanceDialog({
                               <span className={`rounded-full px-2.5 py-1 text-[10px] font-heading font-semibold ${disciplineVisual.chip}`}>
                                 {disciplina?.nome ?? result.disciplina_id}
                               </span>
-                              <span className="rounded-full bg-slate-900 px-2.5 py-1 text-[10px] font-heading font-semibold text-white">
+                              <span className="rounded-full bg-foreground px-2.5 py-1 text-[10px] font-heading font-semibold text-background">
                                 {result.tipo === "simulado" ? "Simulado" : "Exercícios"}
                               </span>
                             </div>
