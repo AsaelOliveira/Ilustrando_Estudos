@@ -1,7 +1,8 @@
 # HANDOFF — Redesign da plataforma "Ilustrando Estudos"
 
 > Retomar sessão com este arquivo. Data: 2026-07-24.
-> **Atualizado: 2026-07-25 — redesign visual "moderno" IMPLEMENTADO localmente (não publicado).**
+> **Atualizado: 2026-07-25 — redesign visual "moderno" IMPLEMENTADO e PUBLICADO (push para `main`, commit `3e48db8`, repo AsaelOliveira/Ilustrando_Estudos → Cloudflare Pages).**
+> **Importante:** as migrations `suggestions` + `races` foram aplicadas manualmente no Supabase (produção) via SQL Editor — já estão ativas.
 
 ## Contexto
 
@@ -69,6 +70,7 @@ Professor (dono do projeto) quer dar uma cara nova à plataforma educacional gam
 
 ## Estado dos arquivos
 
-- **Redesign visual implementado e verificado localmente — NÃO publicado.** Única coisa criada antes disso: pasta `mockups-visuais/` (3 HTML + 3 PNG + `capturar.cjs` — para recapturar: `node mockups-visuais/capturar.cjs`).
-- Playwright Chromium instalado globalmente (`AppData/Local/ms-playwright`) — usado nas capturas de `verificacao-visual/`.
-- Pendente de validação: ~~capturas das telas autenticadas~~ ✅ feitas 2026-07-25 com a conta de teste (`aluno@ilustrando`) — 45 capturas em `verificacao-visual/` (5 telas autenticadas + 2 públicas × 3 viewports × claro/escuro/accent-roxo). Falta só a **revisão visual do dono** antes do deploy.
+- **PUBLICADO EM PRODUÇÃO (2026-07-25)** — commit `3e48db8` na `main`. Auditoria mobile (`scripts/auditar-mobile.cjs`, 12 páginas a 390px) passou com 0 overflow antes do deploy; `tsc` 0 erros; build ok. As deleções antigas de `content-imports/6ano/Passados/` ficaram propositalmente FORA do commit (estavam na working tree desde antes; revisar depois se eram intencionais).
+- Única coisa criada antes do redesign: pasta `mockups-visuais/` (3 HTML + 3 PNG + `capturar.cjs` — para recapturar: `node mockups-visuais/capturar.cjs`).
+- Playwright Chromium instalado globalmente (`AppData/Local/ms-playwright`) — usado nas capturas de `verificacao-visual/` (pasta no .gitignore, não sobe pro repo).
+- Próxima revisão do dono já pode ser feita em produção.
