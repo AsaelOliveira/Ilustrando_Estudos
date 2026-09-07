@@ -10,7 +10,7 @@ export default function FavoritosPage() {
       <Breadcrumbs items={[{ label: "Favoritos" }]} />
       <section className="container mx-auto max-w-3xl px-4 py-12">
         <div className="card-flat flex flex-col items-center p-6 text-center sm:p-10">
-          <MascotMark sizeClassName="h-24 w-24 sm:h-28 sm:w-28" />
+          <MascotMark sizeClassName="h-24 w-24 sm:h-28 sm:w-28" sizes="(min-width: 640px) 7rem, 6rem" />
 
           <span className="mt-5 inline-flex items-center gap-1.5 rounded-full border-2 border-border bg-brand-yellow/20 px-3 py-1 text-[11px] font-heading font-bold uppercase tracking-[0.16em] text-foreground">
             <Sparkles className="h-3.5 w-3.5 text-brand-orange" />

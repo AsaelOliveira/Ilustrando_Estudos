@@ -67,7 +67,7 @@ export default function ModoProvaPage() {
 
           <div className="card-flat flex flex-col p-6 sm:p-8">
             <div className="flex flex-col items-center text-center">
-              <MascotMark sizeClassName="h-20 w-20" />
+              <MascotMark sizeClassName="h-20 w-20" sizes="5rem" variant="mark" />
               <p className="mt-4 font-heading text-lg font-semibold text-foreground">Proximos blocos</p>
             </div>
             <ul className="mt-5 space-y-3 font-body text-sm text-muted-foreground">
