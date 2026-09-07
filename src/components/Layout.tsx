@@ -185,7 +185,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           <Link to={homeTarget} className="group flex items-center gap-2.5">
             <BrandMark />
             <motion.div whileHover={{ rotate: 10, scale: 1.12 }} whileTap={{ scale: 0.95 }}>
-              <MascotMark />
+              <MascotMark variant="mark" priority />
             </motion.div>
             <div className="flex flex-col">
               <span className="font-heading text-lg font-extrabold leading-tight tracking-tight">

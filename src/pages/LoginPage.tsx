@@ -239,7 +239,11 @@ export default function LoginPage() {
                 transition={{ type: "spring", stiffness: 200, delay: 0.1 }}
                 className="mb-6 flex items-center justify-center gap-4"
               >
-                <MascotMark sizeClassName="h-16 w-16 sm:h-20 sm:w-20" />
+                <MascotMark
+                  sizeClassName="h-16 w-16 sm:h-20 sm:w-20"
+                  sizes="(min-width: 640px) 5rem, 4rem"
+                  variant="mark"
+                />
                 <BrandMark sizeClassName="h-16 w-16 sm:h-20 sm:w-20" imageClassName="h-11 w-11 sm:h-14 sm:w-14" />
               </motion.div>
               <h1 className="font-heading text-4xl font-black tracking-tight text-foreground">

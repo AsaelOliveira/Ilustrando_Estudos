@@ -47,7 +47,13 @@ export default function Home() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <MascotMark sizeClassName="h-20 w-20" className="mb-6 lg:hidden" />
+              <MascotMark
+                sizeClassName="h-20 w-20"
+                sizes="5rem"
+                priority
+                variant="mark"
+                className="mb-6 lg:hidden"
+              />
               <div className="inline-flex items-center gap-2 rounded-full border-2 border-primary/30 bg-primary/10 px-4 py-2 font-heading text-sm font-bold text-primary">
                 <div className="h-2 w-2 animate-pulse rounded-full bg-accent" />
                 Plataforma de Estudos
@@ -88,7 +94,12 @@ export default function Home() {
               <div className="card-flat relative flex aspect-square items-center justify-center overflow-hidden">
                 <div className="pointer-events-none absolute -right-16 -top-16 h-48 w-48 rounded-full bg-brand-yellow/20" />
                 <div className="pointer-events-none absolute -bottom-16 -left-16 h-48 w-48 rounded-full bg-brand-blue/20" />
-                <MascotMark sizeClassName="h-64 w-64" className="animate-float drop-shadow-md" />
+                <MascotMark
+                  sizeClassName="h-80 w-80"
+                  sizes="20rem"
+                  priority
+                  className="animate-float drop-shadow-md"
+                />
               </div>
             </motion.div>
           </div>

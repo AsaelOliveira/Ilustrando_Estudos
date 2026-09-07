@@ -29,7 +29,7 @@ export default function Sobre() {
       <section className="container mx-auto max-w-[760px] px-4 py-12">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} className="card-flat p-6 sm:p-10">
           <div className="mb-6 flex items-center gap-4">
-            <MascotMark sizeClassName="h-14 w-14 shrink-0" />
+            <MascotMark sizeClassName="h-14 w-14 shrink-0" sizes="3.5rem" variant="mark" />
             <h1 className="font-heading text-3xl font-black text-foreground">Sobre o projeto</h1>
           </div>
 
